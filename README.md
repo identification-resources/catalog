@@ -19,7 +19,8 @@ all keys in a single work are treated as one, leading to problems with the compl
 ## Current intentions
 
 Proof-of-concept of an application that selects the right key for you (and gives you the other
-options as well, of course).
+options as well, of course). The entries in the catalog are mainly focused on Europe right now, but
+content for the US is welcome (see [contributing](#contributing)).
 
 ## Future roadmap
 
@@ -29,3 +30,14 @@ perhaps added to Wikidata or similar platforms, or at least cross-referenced wit
 As for the application, in cases where keys are available under open license, they can be
 converted to a standard format and chained together in the interface. Additional improvements
 to the (currently theoretical) identification interface will be researched.
+
+## Contributing
+
+You are of course welcome to help improve the catalog. You can do this in a number of ways,
+including
+
+  1. [Suggesting new keys or other resources to add to the catalog.](https://github.com/identification-resources/catalog/issues/new?assignees=&labels=untriaged%2C+untriaged%3A+addition&template=addition-to-the-catalog.md&title=)
+  2. [Reporting errors in the metadata of already added resources.](https://github.com/identification-resources/catalog/issues/new?assignees=&labels=untriaged%2C+untriaged%3A+error&template=catalog-error.md&title=)
+  3. Adding or improving resources yourself by editing the catalog file and making a pull request.
+
+**Note: pull requests are on hold until I set up a license**
