@@ -47,7 +47,7 @@ two optional:
 | `fulltext_url` | ❌      | ✔ if neither URL is preferred | Full text, preferably HTML/PDF as opposed to viewer pages | [URL](https://url.spec.whatwg.org/) |
 | `archive_url` | ❌       | ✔               | Link to a copy of the full text page in the [Internet Archive](https://web.archive.org) | [URL](https://url.spec.whatwg.org/) |
 | `entry_type` | ✔        | ❌               | `print` and `cd` take precedence over `online` in the case of archived copies. | One of `print`, `online` and `cd`. |
-| `date`       | ❌        | ❌               | Date of publication. Allows for date ranges | [EDTF](http://www.loc.gov/standards/datetime/) Level 1 |
+| `date`       | ❌        | ❌               | Date of publication. Allows for date ranges | [EDTF](http://www.loc.gov/standards/datetime/) Level 0 and the feature "Open end time interval" of Level 1 |
 | `publisher`  | ❌        | ✔               | Name of publisher(s), as it would be cited | Plain text, no place names |
 | `series`     | ❌        | ❌               | Main series that the entry is in (book series, journal, etc.) | Plain text |
 | `ISSN`       | ❌        | ❌               | Linking ISSN for the series | [ISSN-L](https://www.issn.org/understanding-the-issn/assignment-rules/the-issn-l-for-publications-on-multiple-media/) |
