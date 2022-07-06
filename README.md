@@ -12,9 +12,8 @@ description of incompleteness in the taxonomy ("all species and genera of family
 of genus Y") and keys separated across different bibliographical units.
 
 In addition the data model has its limitations. The bibliographical info is constrained to a few
-specific columns, entry types are not encoded, and the concept of editions, translations, different
-versions, and the distinction between printed books and ebooks is not well represented. Furthermore,
-all keys in a single work are treated as one, leading to problems with the completeness definition.
+specific columns, entry types are not encoded. Furthermore, all keys in a single work are treated
+as one, leading to problems with the completeness definition.
 
 ## Current intentions
 
