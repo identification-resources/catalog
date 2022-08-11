@@ -1,0 +1,122 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B219:1:1,Eucoilidae,,,,,,family,,B219:1,accepted,,,,,,,,,Eucoilidae,,,,,,4673983
+B219:1:2,Eucoilinae,,,,,,subfamily,,B219:1,accepted,,,B219:1:1,Eucoilidae,,,,,Eucoilidae,Eucoilinae,,,Eucoilidae,,
+B219:1:3,Diglyphosema,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Diglyphosema,,Eucoilidae | Eucoilinae,,4407708
+B219:1:4,Diglyphosema conjungens,,Diglyphosema,,conjungens,,species,,B219:1,accepted,,,B219:1:3,Diglyphosema,,,,,Eucoilidae,Eucoilinae,Diglyphosema,,Eucoilidae | Eucoilinae | Diglyphosema,,4497732
+B219:1:5,Microstilba,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Microstilba,,Eucoilidae | Eucoilinae,,4497737
+B219:1:6,Microstilba heterogena,,Microstilba,,heterogena,,species,,B219:1,accepted,,,B219:1:5,Microstilba,,,,,Eucoilidae,Eucoilinae,Microstilba,,Eucoilidae | Eucoilinae | Microstilba,,4497739
+B219:1:7,Disorygma,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Disorygma,,Eucoilidae | Eucoilinae,,4407145
+B219:1:8,Ectolyta,,,,,,genus,,B219:1,synonym,B219:1:7,Disorygma,,,,,,,Eucoilidae,Eucoilinae,Ectolyta,,Eucoilidae | Eucoilinae,,4498118
+B219:1:9,Erisphagia,,,,,,genus,,B219:1,synonym,B219:1:7,Disorygma,,,,,,,Eucoilidae,Eucoilinae,Erisphagia,,Eucoilidae | Eucoilinae,,4498117
+B219:1:10,Disorygma depile,,Disorygma,,depile,,species,,B219:1,accepted,,,B219:1:7,Disorygma,,,,,Eucoilidae,Eucoilinae,Disorygma,,Eucoilidae | Eucoilinae | Disorygma,,4498119
+B219:1:11,Disorygma incrassata,,Disorygma,,incrassata,,species,,B219:1,synonym,B219:1:10,Disorygma depile,,,,,,,Eucoilidae,Eucoilinae,Disorygma,,Eucoilidae | Eucoilinae | Disorygma,,11244404
+B219:1:12,Disorygma divulgatum,,Disorygma,,divulgatum,,species,,B219:1,synonym,B219:1:10,Disorygma depile,,,,,,,Eucoilidae,Eucoilinae,Disorygma,,Eucoilidae | Eucoilinae | Disorygma,,4498122
+B219:1:91,Cothonaspis,,,,,,genus,,B219:1,synonym,B219:1:90,Trybliographa,,,,,,,Eucoilidae,Eucoilinae,Cothonaspis,,Eucoilidae | Eucoilinae,,8762706
+B219:1:14,Psilosema,,,,,,genus,,B219:1,synonym,B219:1:13,Cothonaspis,,,,,,,Eucoilidae,Eucoilinae,Psilosema,,Eucoilidae | Eucoilinae,,8698493
+B219:1:15,Cothonaspis gracilis,,Cothonaspis,,gracilis,,species,,B219:1,accepted,,,B219:1:13,Cothonaspis,,,,,Eucoilidae,Eucoilinae,Cothonaspis,,Eucoilidae | Eucoilinae | Cothonaspis,,4498130
+B219:1:16,Cothonaspis langula,,Cothonaspis,,langula,,species,,B219:1,accepted,,,B219:1:13,Cothonaspis,,,,,Eucoilidae,Eucoilinae,Cothonaspis,,Eucoilidae | Eucoilinae | Cothonaspis,,4498127
+B219:1:17,Cothonaspis pentatoma,,Cothonaspis,,pentatoma,,species,,B219:1,accepted,,,B219:1:13,Cothonaspis,,,,,Eucoilidae,Eucoilinae,Cothonaspis,,Eucoilidae | Eucoilinae | Cothonaspis,,4498129
+B219:1:18,Cothonaspis giraudi,,Cothonaspis,,giraudi,,species,,B219:1,synonym,B219:1:17,Cothonaspis pentatoma,,,,,,,Eucoilidae,Eucoilinae,Cothonaspis,,Eucoilidae | Eucoilinae | Cothonaspis,,10040546
+B219:1:32,Kleidotoma,,,,,,subgenus,,B219:1,accepted,,,B219:1:19,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma,58H8,
+B219:1:20,Aphiloptera,,,,,,genus,,B219:1,synonym,B219:1:19,Kleidotoma,,,,,,,Eucoilidae,Eucoilinae,Aphiloptera,,Eucoilidae | Eucoilinae,,4497831
+B219:1:21,Agroscopa,,,,,,genus,,B219:1,synonym,B219:1:19,Kleidotoma,,,,,,,Eucoilidae,Eucoilinae,Agroscopa,,Eucoilidae | Eucoilinae,,4497852
+B219:1:22,Nedinoptera,,,,,,genus,,B219:1,synonym,B219:1:19,Kleidotoma,,,,,,,Eucoilidae,Eucoilinae,Nedinoptera,,Eucoilidae | Eucoilinae,,4497867
+B219:1:23,Rhynchacis,,,,,,genus,,B219:1,synonym,B219:1:19,Kleidotoma,,,,,,,Eucoilidae,Eucoilinae,Rhynchacis,,Eucoilidae | Eucoilinae,,4497856
+B219:1:24,Pentacrita,,,,,,genus,,B219:1,synonym,B219:1:19,Kleidotoma,,,,,,,Eucoilidae,Eucoilinae,Pentacrita,,Eucoilidae | Eucoilinae,,4497834
+B219:1:25,Tetrahoptra,,,,,,subgenus,,B219:1,accepted,,,B219:1:19,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Tetrahoptra,Eucoilidae | Eucoilinae | Kleidotoma,,
+B219:1:26,Tetratoma,,,,,,subgenus,,B219:1,synonym,B219:1:25,Tetrahoptra,,,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Tetratoma,Eucoilidae | Eucoilinae | Kleidotoma,646V2,
+B219:1:27,Kleidotoma affinis,,Kleidotoma,,affinis,,species,,B219:1,accepted,,,B219:1:25,Tetrahoptra,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Tetrahoptra,Eucoilidae | Eucoilinae | Kleidotoma | Tetrahoptra,,4497766
+B219:1:28,Kleidotoma dolichocera,,Kleidotoma,,dolichocera,,species,,B219:1,accepted,,,B219:1:25,Tetrahoptra,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Tetrahoptra,Eucoilidae | Eucoilinae | Kleidotoma | Tetrahoptra,,4497865
+B219:1:29,Kleidotoma gracilicornis,,Kleidotoma,,gracilicornis,,species,,B219:1,accepted,,,B219:1:25,Tetrahoptra,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Tetrahoptra,Eucoilidae | Eucoilinae | Kleidotoma | Tetrahoptra,,4497824
+B219:1:30,Kleidotoma helgolandica,,Kleidotoma,,helgolandica,,species,,B219:1,accepted,,,B219:1:25,Tetrahoptra,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Tetrahoptra,Eucoilidae | Eucoilinae | Kleidotoma | Tetrahoptra,,11250423
+B219:1:31,Kleidotoma tetratoma,,Kleidotoma,,tetratoma,,species,,B219:1,accepted,,,B219:1:25,Tetrahoptra,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Tetrahoptra,Eucoilidae | Eucoilinae | Kleidotoma | Tetrahoptra,,4497827
+B219:1:32,Kleidotoma,,,,,,subgenus,,B219:1,accepted,,,B219:1:19,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma,58H8,
+B219:1:33,Kleidotoma caledonica,,Kleidotoma,,caledonica,,species,,B219:1,accepted,,,B219:1:32,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotoma,,4497828
+B219:1:34,Kleidotoma filicornis,,Kleidotoma,,filicornis,,species,,B219:1,accepted,,,B219:1:32,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotoma,,4497819
+B219:1:35,Kleidotoma longicornis,,Kleidotoma,,longicornis,,species,,B219:1,accepted,,,B219:1:32,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotoma,,4497853
+B219:1:36,Kleidotoma marshalli,,Kleidotoma,,marshalli,,species,,B219:1,accepted,,,B219:1:32,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotoma,,4497800
+B219:1:37,Kleidotoma nigra,,Kleidotoma,,nigra,,species,,B219:1,accepted,,,B219:1:32,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotoma,,4497840
+B219:1:38,Kleidotoma crassiclava,,Kleidotoma,,crassiclava,,species,,B219:1,synonym,B219:1:37,Kleidotoma nigra,,,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotoma,,4497842
+B219:1:39,Kleidotoma nigripes,,Kleidotoma,,nigripes,,species,,B219:1,synonym,B219:1:37,Kleidotoma nigra,,,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotoma,,4497841
+B219:1:40,Kleidotoma psiloides,,Kleidotoma,,psiloides,,species,,B219:1,accepted,,,B219:1:32,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotoma,,4497817
+B219:1:41,Kleidotoma striaticollis,,Kleidotoma,,striaticollis,,species,,B219:1,accepted,,,B219:1:32,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotoma,,4497802
+B219:1:42,Kleidotoma subaptera,,Kleidotoma,,subaptera,,species,,B219:1,accepted,,,B219:1:32,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotoma,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotoma,,4497784
+B219:1:43,Pentakleidota,,,,,,subgenus,,B219:1,accepted,,,B219:1:19,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Pentakleidota,Eucoilidae | Eucoilinae | Kleidotoma,,
+B219:1:44,Kleidotoma elegans,,Kleidotoma,,elegans,,species,,B219:1,accepted,,,B219:1:43,Pentakleidota,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Pentakleidota,Eucoilidae | Eucoilinae | Kleidotoma | Pentakleidota,,4497851
+B219:1:45,Kleidotoma gryphus,,Kleidotoma,,gryphus,,species,,B219:1,accepted,,,B219:1:43,Pentakleidota,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Pentakleidota,Eucoilidae | Eucoilinae | Kleidotoma | Pentakleidota,,4497805
+B219:1:46,Kleidotoma longipennis,,Kleidotoma,,longipennis,,species,,B219:1,accepted,,,B219:1:43,Pentakleidota,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Pentakleidota,Eucoilidae | Eucoilinae | Kleidotoma | Pentakleidota,,4497835
+B219:1:47,Kleidotoma pentatoma,,Kleidotoma,,pentatoma,,species,,B219:1,accepted,,,B219:1:43,Pentakleidota,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Pentakleidota,Eucoilidae | Eucoilinae | Kleidotoma | Pentakleidota,,4497790
+B219:1:48,Kleidotoma albipennis,,Kleidotoma,,albipennis,,species,,B219:1,synonym,B219:1:47,Kleidotoma pentatoma,,,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Pentakleidota,Eucoilidae | Eucoilinae | Kleidotoma | Pentakleidota,,4497857
+B219:1:49,Kleidotoma striata,,Kleidotoma,,striata,,species,,B219:1,accepted,,,B219:1:43,Pentakleidota,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Pentakleidota,Eucoilidae | Eucoilinae | Kleidotoma | Pentakleidota,,4497822
+B219:1:50,Kleidotoma tomentosa,,Kleidotoma,,tomentosa,,species,,B219:1,accepted,,,B219:1:43,Pentakleidota,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Pentakleidota,Eucoilidae | Eucoilinae | Kleidotoma | Pentakleidota,,4497807
+B219:1:51,Kleidotoma anisomera,,Kleidotoma,,anisomera,,species,,B219:1,synonym,B219:1:50,Kleidotoma tomentosa,,,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Pentakleidota,Eucoilidae | Eucoilinae | Kleidotoma | Pentakleidota,,11364099
+B219:1:52,Kleidotoma truncata,,Kleidotoma,,truncata,,species,,B219:1,accepted,,,B219:1:43,Pentakleidota,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Pentakleidota,Eucoilidae | Eucoilinae | Kleidotoma | Pentakleidota,,4497791
+B219:1:53,Arhoptra,,,,,,subgenus,,B219:1,accepted,,,B219:1:19,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Arhoptra,Eucoilidae | Eucoilinae | Kleidotoma,,
+B219:1:54,Kleidotoma melanopoda,,Kleidotoma,,melanopoda,,species,,B219:1,accepted,,,B219:1:53,Arhoptra,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Arhoptra,Eucoilidae | Eucoilinae | Kleidotoma | Arhoptra,,9854501
+B219:1:55,Kleidotomidea,,,,,,subgenus,,B219:1,accepted,,,B219:1:19,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotomidea,Eucoilidae | Eucoilinae | Kleidotoma,,
+B219:1:56,Kleidotoma hexatoma,,Kleidotoma,,hexatoma,,species,,B219:1,accepted,,,B219:1:55,Kleidotomidea,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotomidea,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotomidea,,4497848
+B219:1:57,Kleidotoma picipes,,Kleidotoma,,picipes,,species,,B219:1,accepted,,,B219:1:55,Kleidotomidea,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Kleidotomidea,Eucoilidae | Eucoilinae | Kleidotoma | Kleidotomidea,,4497863
+B219:1:58,Heptameris,,,,,,subgenus,,B219:1,accepted,,,B219:1:19,Kleidotoma,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Heptameris,Eucoilidae | Eucoilinae | Kleidotoma,,
+B219:1:59,Kleidotoma halophila,,Kleidotoma,,halophila,,species,,B219:1,accepted,,,B219:1:58,Heptameris,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Heptameris,Eucoilidae | Eucoilinae | Kleidotoma | Heptameris,,4497789
+B219:1:60,Kleidotoma pygmaea,,Kleidotoma,,pygmaea,,species,,B219:1,accepted,,,B219:1:58,Heptameris,,,,,Eucoilidae,Eucoilinae,Kleidotoma,Heptameris,Eucoilidae | Eucoilinae | Kleidotoma | Heptameris,,4497796
+B219:1:61,Eutrias,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Eutrias,,Eucoilidae | Eucoilinae,,4407769
+B219:1:62,Eutrias tritoma,,Eutrias,,tritoma,,species,,B219:1,accepted,,,B219:1:61,Eutrias,,,,,Eucoilidae,Eucoilinae,Eutrias,,Eucoilidae | Eucoilinae | Eutrias,,4497700
+B219:1:63,Pseudopsichacra,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Pseudopsichacra,,Eucoilidae | Eucoilinae,,4497685
+B219:1:64,Pseudopsichacra sericea,,Pseudopsichacra,,sericea,,species,,B219:1,accepted,,,B219:1:63,Pseudopsichacra,,,,,Eucoilidae,Eucoilinae,Pseudopsichacra,,Eucoilidae | Eucoilinae | Pseudopsichacra,,11224481
+B219:1:65,Pseudopsichacra marshalli,,Pseudopsichacra,,marshalli,,species,,B219:1,synonym,B219:1:64,Pseudopsichacra sericea,,,,,,,Eucoilidae,Eucoilinae,Pseudopsichacra,,Eucoilidae | Eucoilinae | Pseudopsichacra,,11329833
+B219:1:66,Chrestosema,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Chrestosema,,Eucoilidae | Eucoilinae,,4408022
+B219:1:67,Chrestosema antennale,,Chrestosema,,antennale,,species,,B219:1,accepted,,,B219:1:66,Chrestosema,,,,,Eucoilidae,Eucoilinae,Chrestosema,,Eucoilidae | Eucoilinae | Chrestosema,,4498070
+B219:1:94,Eucoila,,,,,,genus,,B219:1,synonym,B219:1:90,Trybliographa,,,,,,,Eucoilidae,Eucoilinae,Eucoila,,Eucoilidae | Eucoilinae,,9708563
+B219:1:69,Eucoela,,,,,,genus,,B219:1,synonym,B219:1:68,Eucoila,,,,,,,Eucoilidae,Eucoilinae,Eucoela,,Eucoilidae | Eucoilinae,,1309711
+B219:1:70,Lytosema,,,,,,genus,,B219:1,synonym,B219:1:68,Eucoila,,,,,,,Eucoilidae,Eucoilinae,Lytosema,,Eucoilidae | Eucoilinae,,4497754
+B219:1:71,Psilodora,,,,,,genus,,B219:1,synonym,B219:1:68,Eucoila,,,,,,,Eucoilidae,Eucoilinae,Psilodora,,Eucoilidae | Eucoilinae,,4497760
+B219:1:72,Eucoila crassinerva,,Eucoila,,crassinerva,,species,,B219:1,accepted,,,B219:1:68,Eucoila,,,,,Eucoilidae,Eucoilinae,Eucoila,,Eucoilidae | Eucoilinae | Eucoila,,4497757
+B219:1:73,Eucoila boienii,,Eucoila,,boienii,,species,,B219:1,synonym,B219:1:72,Eucoila crassinerva,,,,,,,Eucoilidae,Eucoilinae,Eucoila,,Eucoilidae | Eucoilinae | Eucoila,,11249983
+B219:1:74,Eucoila maculata,,Eucoila,,maculata,,species,,B219:1,accepted,,,B219:1:68,Eucoila,,,,,Eucoilidae,Eucoilinae,Eucoila,,Eucoilidae | Eucoilinae | Eucoila,,4497761
+B219:1:75,Glauraspidia,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Glauraspidia,,Eucoilidae | Eucoilinae,,9019849
+B219:1:76,Aglaotoma,,,,,,genus,,B219:1,synonym,B219:1:75,Glauraspidia,,,,,,,Eucoilidae,Eucoilinae,Aglaotoma,,Eucoilidae | Eucoilinae,,4497664
+B219:1:77,Glauraspidia microptera,,Glauraspidia,,microptera,,species,,B219:1,accepted,,,B219:1:75,Glauraspidia,,,,,Eucoilidae,Eucoilinae,Glauraspidia,,Eucoilidae | Eucoilinae | Glauraspidia,,4497665
+B219:1:78,Glauraspidia codrina,,Glauraspidia,,codrina,,species,,B219:1,synonym,B219:1:77,Glauraspidia microptera,,,,,,,Eucoilidae,Eucoilinae,Glauraspidia,,Eucoilidae | Eucoilinae | Glauraspidia,,11265969
+B219:1:79,Glauraspidia subtilis,,Glauraspidia,,subtilis,,species,,B219:1,synonym,B219:1:77,Glauraspidia microptera,,,,,,,Eucoilidae,Eucoilinae,Glauraspidia,,Eucoilidae | Eucoilinae | Glauraspidia,,10364251
+B219:1:80,Hexacola,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Hexacola,,Eucoilidae | Eucoilinae,4WXK,1309701
+B219:1:81,Hexaplasta,,,,,,genus,,B219:1,synonym,B219:1:80,Hexacola,,,,,,,Eucoilidae,Eucoilinae,Hexaplasta,,Eucoilidae | Eucoilinae,,4298518
+B219:1:82,Hexacola hexatoma,,Hexacola,,hexatoma,,species,,B219:1,accepted,,,B219:1:80,Hexacola,,,,,Eucoilidae,Eucoilinae,Hexacola,,Eucoilidae | Eucoilinae | Hexacola,,1309706
+B219:1:83,Ganaspis,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Ganaspis,,Eucoilidae | Eucoilinae,,4406639
+B219:1:84,Ganaspis subnuda,,Ganaspis,,subnuda,,species,,B219:1,accepted,,,B219:1:83,Ganaspis,,,,,Eucoilidae,Eucoilinae,Ganaspis,,Eucoilidae | Eucoilinae | Ganaspis,,4498088
+B219:1:85,Ganaspis bochei,,Ganaspis,,bochei,,species,,B219:1,synonym,B219:1:84,Ganaspis subnuda,,,,,,,Eucoilidae,Eucoilinae,Ganaspis,,Eucoilidae | Eucoilinae | Ganaspis,,11260284
+B219:1:86,Psichacra,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Psichacra,,Eucoilidae | Eucoilinae,,4497886
+B219:1:87,Psichacra longicornis,,Psichacra,,longicornis,,species,,B219:1,accepted,,,B219:1:86,Psichacra,,,,,Eucoilidae,Eucoilinae,Psichacra,,Eucoilidae | Eucoilinae | Psichacra,,11346499
+B219:1:88,Psichacra rufula,,Psichacra,,rufula,,species,,B219:1,accepted,,,B219:1:86,Psichacra,,,,,Eucoilidae,Eucoilinae,Psichacra,,Eucoilidae | Eucoilinae | Psichacra,,11234247
+B219:1:89,Psichacra dalei,,Psichacra,,dalei,,species,,B219:1,synonym,B219:1:88,Psichacra rufula,,,,,,,Eucoilidae,Eucoilinae,Psichacra,,Eucoilidae | Eucoilinae | Psichacra,,4497929
+B219:1:90,Trybliographa,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae,,4407102
+B219:1:91,Cothonaspis,,,,,,genus,,B219:1,synonym,B219:1:90,Trybliographa,,,,,,,Eucoilidae,Eucoilinae,Cothonaspis,,Eucoilidae | Eucoilinae,,8762706
+B219:1:92,Dimicrostrophis,,,,,,genus,,B219:1,synonym,B219:1:90,Trybliographa,,,,,,,Eucoilidae,Eucoilinae,Dimicrostrophis,,Eucoilidae | Eucoilinae,,4674255
+B219:1:93,Dusmetiola,,,,,,genus,,B219:1,synonym,B219:1:90,Trybliographa,,,,,,,Eucoilidae,Eucoilinae,Dusmetiola,,Eucoilidae | Eucoilinae,,4497940
+B219:1:94,Eucoila,,,,,,genus,,B219:1,synonym,B219:1:90,Trybliographa,,,,,,,Eucoilidae,Eucoilinae,Eucoila,,Eucoilidae | Eucoilinae,,9708563
+B219:1:95,Pseudeucoila,,,,,,genus,,B219:1,synonym,B219:1:90,Trybliographa,,,,,,,Eucoilidae,Eucoilinae,Pseudeucoila,,Eucoilidae | Eucoilinae,,4497981
+B219:1:96,Trybliographa albipennis,,Trybliographa,,albipennis,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4497977
+B219:1:97,Trybliographa spaniandra,,Trybliographa,,spaniandra,,species,,B219:1,synonym,B219:1:96,Trybliographa albipennis,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4497979
+B219:1:98,Trybliographa atra,,Trybliographa,,atra,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4498025
+B219:1:99,Trybliographa nigricornis,,Trybliographa,,nigricornis,,species,,B219:1,synonym,B219:1:98,Trybliographa atra,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4498027
+B219:1:100,Trybliographa ciliaris,,Trybliographa,,ciliaris,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,11266278
+B219:1:101,Trybliographa floralis,,Trybliographa,,floralis,,species,,B219:1,synonym,B219:1:100,Trybliographa ciliaris,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4407102
+B219:1:102,Trybliographa claripennis,,Trybliographa,,claripennis,,species,,B219:1,synonym,B219:1:100,Trybliographa ciliaris,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,9841060
+B219:1:103,Trybliographa cubitalis,,Trybliographa,,cubitalis,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,11020565
+B219:1:104,Trybliographa diaphana,,Trybliographa,,diaphana,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4498008
+B219:1:105,Trybliographa glottiana,,Trybliographa,,glottiana,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4497943
+B219:1:106,Trybliographa proxima,,Trybliographa,,proxima,,species,,B219:1,synonym,B219:1:105,Trybliographa glottiana,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,11302551
+B219:1:107,Trybliographa gracilicornis,,Trybliographa,,gracilicornis,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4497912
+B219:1:108,Trybliographa mandibularis,,Trybliographa,,mandibularis,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4497992
+B219:1:109,Trybliographa similis,,Trybliographa,,similis,,species,,B219:1,synonym,B219:1:108,Trybliographa mandibularis,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,11318896
+B219:1:110,Trybliographa testaceipes,,Trybliographa,,testaceipes,,species,,B219:1,synonym,B219:1:108,Trybliographa mandibularis,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4497949
+B219:1:111,Trybliographa rapae,,Trybliographa,,rapae,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4498012
+B219:1:112,Trybliographa britannica,,Trybliographa,,britannica,,species,,B219:1,synonym,B219:1:111,Trybliographa rapae,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,11275823
+B219:1:113,Trybliographa crassicornis,,Trybliographa,,crassicornis,,species,,B219:1,synonym,B219:1:111,Trybliographa rapae,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4498022
+B219:1:114,Trybliographa erythrocera subsp. nec,,Trybliographa,,erythrocera,nec,subspecies,,B219:1,synonym,B219:1:111,Trybliographa rapae,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4497894
+B219:1:115,Trybliographa fortinervis,,Trybliographa,,fortinervis,,species,,B219:1,synonym,B219:1:111,Trybliographa rapae,,,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,11346936
+B219:1:116,Trybliographa scotica,,Trybliographa,,scotica,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,9758185
+B219:1:117,Trybliographa scutellaris,,Trybliographa,,scutellaris,,species,,B219:1,accepted,,,B219:1:90,Trybliographa,,,,,Eucoilidae,Eucoilinae,Trybliographa,,Eucoilidae | Eucoilinae | Trybliographa,,4498014
+B219:1:118,Episoda,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Episoda,,Eucoilidae | Eucoilinae,,4497997
+B219:1:119,Episoda xanthoneura,,Episoda,,xanthoneura,,species,,B219:1,accepted,,,B219:1:118,Episoda,,,,,Eucoilidae,Eucoilinae,Episoda,,Eucoilidae | Eucoilinae | Episoda,,4497986
+B219:1:120,Rhoptromeris,,,,,,genus,,B219:1,accepted,,,B219:1:2,Eucoilinae,,,,,Eucoilidae,Eucoilinae,Rhoptromeris,,Eucoilidae | Eucoilinae,,4406570
+B219:1:121,Rhoptromeris eucera,,Rhoptromeris,,eucera,,species,,B219:1,accepted,,,B219:1:120,Rhoptromeris,,,,,Eucoilidae,Eucoilinae,Rhoptromeris,,Eucoilidae | Eucoilinae | Rhoptromeris,,11266407

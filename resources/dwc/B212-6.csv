@@ -1,0 +1,9 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B212:6:1,Listrodromini,,,,,,tribe,,B212:6,accepted,,,,,,,,,,,,,,,
+B212:6:2,Anisobas Wesmael,Wesmael,,,,,genus,,B212:6,accepted,,,B212:6:1,Listrodromini,,,,,,,Anisobas,,Listrodromini,WC9,1290784
+B212:6:3,Anisobas platystylus Thomson,Thomson,Anisobas,,platystylus,,species,,B212:6,accepted,,,B212:6:2,Anisobas Wesmael,,,,,,,Anisobas,,Listrodromini | Anisobas,67438,1290817
+B212:6:4,Anisobas cingulatorius (Gravenhorst),(Gravenhorst),Anisobas,,cingulatorius,,species,,B212:6,accepted,,,B212:6:2,Anisobas Wesmael,,,,,,,Anisobas,,Listrodromini | Anisobas,673QY,1290792
+B212:6:5,Listrodromus Wesmael,Wesmael,,,,,genus,,B212:6,accepted,,,B212:6:1,Listrodromini,,,,,,,Listrodromus,,Listrodromini,5FJF,1289549
+B212:6:6,Listrodromus nycthemerus (Gravenhorst),(Gravenhorst),Listrodromus,,nycthemerus,,species,,B212:6,accepted,,,B212:6:5,Listrodromus Wesmael,,,,,,,Listrodromus,,Listrodromini | Listrodromus,3VGXS,1289552
+B212:6:7,Neotypus Foerster,Foerster,,,,,genus,,B212:6,accepted,,,B212:6:1,Listrodromini,,,,,,,Neotypus,,Listrodromini,62ZN,1289764
+B212:6:8,Neotypus nobilitator (Gravenhorst),(Gravenhorst),Neotypus,,nobilitator,,species,,B212:6,accepted,,,B212:6:7,Neotypus Foerster,,,,,,,Neotypus,,Listrodromini | Neotypus,46WCC,1289765

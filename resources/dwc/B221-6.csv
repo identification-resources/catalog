@@ -1,0 +1,36 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B221:6:1,Cleonymidae,,,,,,family,,B221:6,accepted,,,,,,,,,Cleonymidae,,,,,,
+B221:6:2,Cleonymus Latreille,Latreille,,,,,genus,,B221:6,accepted,,,B221:6:1,Cleonymidae,,,,,Cleonymidae,,Cleonymus,,Cleonymidae,62L7V,1372311
+B221:6:3,Cleonymus depressus (Fabricius),(Fabricius),Cleonymus,,depressus,,species,,B221:6,accepted,,,B221:6:2,Cleonymus Latreille,,,,,Cleonymidae,,Cleonymus,,Cleonymidae | Cleonymus,5YYPS,1395562
+B221:6:4,Cleonymus obscurus Walker,Walker,Cleonymus,,obscurus,,species,,B221:6,accepted,,,B221:6:2,Cleonymus Latreille,,,,,Cleonymidae,,Cleonymus,,Cleonymidae | Cleonymus,W2MS,1395566
+B221:6:5,Micradelus Walker,Walker,,,,,genus,,B221:6,accepted,,,B221:6:1,Cleonymidae,,,,,Cleonymidae,,Micradelus,,Cleonymidae,5RBX,1390779
+B221:6:6,Micradelus rotundus Walker,Walker,Micradelus,,rotundus,,species,,B221:6,accepted,,,B221:6:5,Micradelus Walker,,,,,Cleonymidae,,Micradelus,,Cleonymidae | Micradelus,42PZ8,1390781
+B221:6:7,Cea Walker,Walker,,,,,genus,,B221:6,accepted,,,B221:6:1,Cleonymidae,,,,,Cleonymidae,,Cea,,Cleonymidae,62KDB,7663904
+B221:6:8,Cea pulicaris Walker,Walker,Cea,,pulicaris,,species,,B221:6,accepted,,,B221:6:7,Cea Walker,,,,,Cleonymidae,,Cea,,Cleonymidae | Cea,RYNN,5047539
+B221:6:9,Spalangiopelta Masi,Masi,,,,,genus,,B221:6,accepted,,,B221:6:1,Cleonymidae,,,,,Cleonymidae,,Spalangiopelta,,Cleonymidae,7JWF,1395757
+B221:6:10,Panstenon Walker,Walker,,,,,genus,,B221:6,accepted,,,B221:6:1,Cleonymidae,,,,,Cleonymidae,,Panstenon,,Cleonymidae,63JG7,1393902
+B221:6:11,Caudonia Walker,Walker,,,,,genus,,B221:6,synonym,B221:6:10,Panstenon Walker,,,,,,,Cleonymidae,,Caudonia,,Cleonymidae,,1392807
+B221:6:12,Panstenon oxylus (Walker),(Walker),Panstenon,,oxylus,,species,,B221:6,accepted,,,B221:6:10,Panstenon Walker,,,,,Cleonymidae,,Panstenon,,Cleonymidae | Panstenon,4CGRD,1393907
+B221:6:13,Panstenon agulla (Walker),(Walker),Panstenon,,agulla,,species,,B221:6,accepted,,,B221:6:10,Panstenon Walker,,,,,Cleonymidae,,Panstenon,,Cleonymidae | Panstenon,75MD4,1393914
+B221:6:14,Platygerrhus Thomson,Thomson,,,,,genus,,B221:6,accepted,,,B221:6:1,Cleonymidae,,,,,Cleonymidae,,Platygerrhus,,Cleonymidae,63LYT,1393749
+B221:6:15,Platygerrhus dolosus (Walker),(Walker),Platygerrhus,,dolosus,,species,,B221:6,accepted,,,B221:6:14,Platygerrhus Thomson,,,,,Cleonymidae,,Platygerrhus,,Cleonymidae | Platygerrhus,4JRNX,1393778
+B221:6:16,Platygerrhus ductilis (Walker),(Walker),Platygerrhus,,ductilis,,species,,B221:6,accepted,,,B221:6:14,Platygerrhus Thomson,,,,,Cleonymidae,,Platygerrhus,,Cleonymidae | Platygerrhus,4JRNY,1393757
+B221:6:17,Janssoniella Kerrich,Kerrich,,,,,genus,,B221:6,accepted,,,B221:6:1,Cleonymidae,,,,,Cleonymidae,,Janssoniella,,Cleonymidae,62VTF,1398136
+B221:6:18,Janssoniella caudata Kerrich,Kerrich,Janssoniella,,caudata,,species,,B221:6,accepted,,,B221:6:17,Janssoniella Kerrich,,,,,Cleonymidae,,Janssoniella,,Cleonymidae | Janssoniella,6ND96,1398137
+B221:6:19,Gastracanthus Westwood,Westwood,,,,,genus,,B221:6,accepted,,,B221:6:1,Cleonymidae,,,,,Cleonymidae,,Gastracanthus,,Cleonymidae,4MBX,1394100
+B221:6:20,Gastracanthus pulcherrimus Westwood,Westwood,Gastracanthus,,pulcherrimus,,species,,B221:6,accepted,,,B221:6:19,Gastracanthus Westwood,,,,,Cleonymidae,,Gastracanthus,,Cleonymidae | Gastracanthus,3FCQF,1394101
+B221:6:21,Trigonoderus Westwood,Westwood,,,,,genus,,B221:6,accepted,,,B221:6:1,Cleonymidae,,,,,Cleonymidae,,Trigonoderus,,Cleonymidae,7ZZC,9295296
+B221:6:22,Trigonoderus cyanescens (Förster),(Förster),Trigonoderus,,cyanescens,,species,,B221:6,accepted,,,B221:6:21,Trigonoderus Westwood,,,,,Cleonymidae,,Trigonoderus,,Cleonymidae | Trigonoderus,,5761844
+B221:6:23,Trigonoderus pedicellaris Thomson,Thomson,Trigonoderus,,pedicellaris,,species,,B221:6,synonym,B221:6:22,Trigonoderus cyanescens (Förster),,,,,,,Cleonymidae,,Trigonoderus,,Cleonymidae | Trigonoderus,,8329574
+B221:6:24,Trigonoderus filatus Walker,Walker,Trigonoderus,,filatus,,species,,B221:6,accepted,,,B221:6:21,Trigonoderus Westwood,,,,,Cleonymidae,,Trigonoderus,,Cleonymidae | Trigonoderus,7D3ZN,5047281
+B221:6:25,Trigonoderus brandti Ratzeburg,Ratzeburg,Trigonoderus,,brandti,,species,,B221:6,synonym,B221:6:24,Trigonoderus filatus Walker,,,,,,,Cleonymidae,,Trigonoderus,,Cleonymidae | Trigonoderus,58SF2,5047283
+B221:6:26,Trigonoderus princeps Westwood,Westwood,Trigonoderus,,princeps,,species,,B221:6,accepted,,,B221:6:21,Trigonoderus Westwood,,,,,Cleonymidae,,Trigonoderus,,Cleonymidae | Trigonoderus,58SG2,5047293
+B221:6:27,Trigonoderus obscurus Walker,Walker,Trigonoderus,,obscurus,,species,,B221:6,synonym,B221:6:26,Trigonoderus princeps Westwood,,,,,,,Cleonymidae,,Trigonoderus,,Cleonymidae | Trigonoderus,58SFY,5047296
+B221:6:28,Trigonoderus lichtensteini Ratzeburg,Ratzeburg,Trigonoderus,,lichtensteini,,species,,B221:6,synonym,B221:6:26,Trigonoderus princeps Westwood,,,,,,,Cleonymidae,,Trigonoderus,,Cleonymidae | Trigonoderus,58SFP,5047294
+B221:6:29,Plutothrix Förster,Förster,,,,,genus,,B221:6,accepted,,,B221:6:1,Cleonymidae,,,,,Cleonymidae,,Plutothrix,,Cleonymidae,63NJK,1395904
+B221:6:30,Plutothrix coelius (Walker),(Walker),Plutothrix,,coelius,,species,,B221:6,accepted,,,B221:6:29,Plutothrix Förster,,,,,Cleonymidae,,Plutothrix,,Cleonymidae | Plutothrix,4KKNZ,1395907
+B221:6:31,Plutothrix acuminatus Thomson,Thomson,Plutothrix,,acuminatus,,species,,B221:6,synonym,B221:6:30,Plutothrix coelius (Walker),,,,,,,Cleonymidae,,Plutothrix,,Cleonymidae | Plutothrix,4KKNS,1395959
+B221:6:32,Plutothrix trifasciatus (Thomson),(Thomson),Plutothrix,,trifasciatus,,species,,B221:6,accepted,,,B221:6:29,Plutothrix Förster,,,,,Cleonymidae,,Plutothrix,,Cleonymidae | Plutothrix,4KKPQ,1395952
+B221:6:33,Plutothrix scenicus (Walker),(Walker),Plutothrix,,scenicus,,species,,B221:6,accepted,,,B221:6:29,Plutothrix Förster,,,,,Cleonymidae,,Plutothrix,,Cleonymidae | Plutothrix,4KKPK,1395947
+B221:6:34,Plutothrix apicalis Thomson,Thomson,Plutothrix,,apicalis,,species,,B221:6,synonym,B221:6:33,Plutothrix scenicus (Walker),,,,,,,Cleonymidae,,Plutothrix,,Cleonymidae | Plutothrix,,4501098
+B221:6:35,Plutothrix scenicus f. vittiger (Thomson),(Thomson),Plutothrix,,scenicus,vittiger,form,,B221:6,accepted,,,B221:6:33,Plutothrix scenicus (Walker),,,,,Cleonymidae,,Plutothrix,,Cleonymidae | Plutothrix | Plutothrix scenicus,,

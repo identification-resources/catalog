@@ -1,0 +1,36 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B142:1:1,Athericidae,,,,,,family,,B142:1,accepted,,,,,,,,,Athericidae,,,,,6VK,7278
+B142:1:2,Atherix,,,,,,genus,,B142:1,accepted,,,B142:1:1,Athericidae,,,,,Athericidae,,Atherix,,Athericidae,8NM78,1501505
+B142:1:3,Atherix ibis (Fabr.),(Fabr.),Atherix,,ibis,,species,,B142:1,accepted,,,B142:1:2,Atherix,,,,,Athericidae,,Atherix,,Athericidae | Atherix,67WYD,1501514
+B142:1:4,Atherix marginata (Fabr.),(Fabr.),Atherix,,marginata,,species,,B142:1,accepted,,,B142:1:2,Atherix,,,,,Athericidae,,Atherix,,Athericidae | Atherix,8B553,6098314
+B142:1:5,Rhagionidae,,,,,,family,,B142:1,accepted,,,,,,,,,Rhagionidae,,,,,FN2,5587
+B142:1:6,Rhagioninae,,,,,,subfamily,,B142:1,accepted,,,B142:1:5,Rhagionidae,,,,,Rhagionidae,Rhagioninae,,,Rhagionidae,89P3N,
+B142:1:7,Rhagio,,,,,,genus,,B142:1,accepted,,,B142:1:6,Rhagioninae,,,,,Rhagionidae,Rhagioninae,Rhagio,,Rhagionidae | Rhagioninae,8NYLZ,1487291
+B142:1:8,Rhagio scolopaceus (L.),(L.),Rhagio,,scolopaceus,,species,,B142:1,accepted,,,B142:1:7,Rhagio,,,,,Rhagionidae,Rhagioninae,Rhagio,,Rhagionidae | Rhagioninae | Rhagio,8PCD5,1581812
+B142:1:9,Rhagio latipennis (Loew),(Loew),Rhagio,,latipennis,,species,,B142:1,accepted,,,B142:1:7,Rhagio,,,,,Rhagionidae,Rhagioninae,Rhagio,,Rhagionidae | Rhagioninae | Rhagio,4RYKB,1581740
+B142:1:10,Rhagio maculatus (De Geer),(De Geer),Rhagio,,maculatus,,species,,B142:1,accepted,,,B142:1:7,Rhagio,,,,,Rhagionidae,Rhagioninae,Rhagio,,Rhagionidae | Rhagioninae | Rhagio,4RYKN,1581728
+B142:1:11,Rhagio lineola (Fabr.),(Fabr.),Rhagio,,lineola,,species,,B142:1,accepted,,,B142:1:7,Rhagio,,,,,Rhagionidae,Rhagioninae,Rhagio,,Rhagionidae | Rhagioninae | Rhagio,7966N,1581831
+B142:1:12,Rhagio notatus (Meigen),(Meigen),Rhagio,,notatus,,species,,B142:1,accepted,,,B142:1:7,Rhagio,,,,,Rhagionidae,Rhagioninae,Rhagio,,Rhagionidae | Rhagioninae | Rhagio,6WTV2,1581744
+B142:1:13,Rhagio annulatus (De Geer),(De Geer),Rhagio,,annulatus,,species,,B142:1,accepted,,,B142:1:7,Rhagio,,,,,Rhagionidae,Rhagioninae,Rhagio,,Rhagionidae | Rhagioninae | Rhagio,4RYGK,9744770
+B142:1:14,Rhagio tringarius (L.),(L.),Rhagio,,tringarius,,species,,B142:1,accepted,,,B142:1:7,Rhagio,,,,,Rhagionidae,Rhagioninae,Rhagio,,Rhagionidae | Rhagioninae | Rhagio,8PCD6,11255792
+B142:1:15,Chrysopilinae,,,,,,subfamily,,B142:1,accepted,,,B142:1:5,Rhagionidae,,,,,Rhagionidae,Chrysopilinae,,,Rhagionidae,89NX3,
+B142:1:16,Symphoromyia,,,,,,genus,,B142:1,accepted,,,B142:1:15,Chrysopilinae,,,,,Rhagionidae,Chrysopilinae,Symphoromyia,,Rhagionidae | Chrysopilinae,7QV9,1582341
+B142:1:17,Symphoromyia crassicornis Panzer,Panzer,Symphoromyia,,crassicornis,,species,,B142:1,accepted,,,B142:1:16,Symphoromyia,,,,,Rhagionidae,Chrysopilinae,Symphoromyia,,Rhagionidae | Chrysopilinae | Symphoromyia,8F75L,1582382
+B142:1:18,Chrysopilus,,,,,,genus,,B142:1,accepted,,,B142:1:15,Chrysopilinae,,,,,Rhagionidae,Chrysopilinae,Chrysopilus,,Rhagionidae | Chrysopilinae,3PKX,5078728
+B142:1:19,Chrysopilus luteolus (Fallén),(Fallén),Chrysopilus,,luteolus,,species,,B142:1,accepted,,,B142:1:18,Chrysopilus,,,,,Rhagionidae,Chrysopilinae,Chrysopilus,,Rhagionidae | Chrysopilinae | Chrysopilus,5Z4HQ,5078891
+B142:1:20,Chrysopilus nubecula Fallén,Fallén,Chrysopilus,,nubecula,,species,,B142:1,accepted,,,B142:1:18,Chrysopilus,,,,,Rhagionidae,Chrysopilinae,Chrysopilus,,Rhagionidae | Chrysopilinae | Chrysopilus,5YSJ6,5078816
+B142:1:21,Chrysopilus aureus Meigen,Meigen,Chrysopilus,,aureus,,species,,B142:1,accepted,,,B142:1:18,Chrysopilus,,,,,Rhagionidae,Chrysopilinae,Chrysopilus,,Rhagionidae | Chrysopilinae | Chrysopilus,5YQR3,5079059
+B142:1:22,Chrysopilus auratus Fabr.,Fabr.,Chrysopilus,,auratus,,species,,B142:1,accepted,,,B142:1:18,Chrysopilus,,,,,Rhagionidae,Chrysopilinae,Chrysopilus,,Rhagionidae | Chrysopilinae | Chrysopilus,5YQQR,5078831
+B142:1:23,Omphalophora,,,,,,genus,,B142:1,accepted,,,B142:1:15,Chrysopilinae,,,,,Rhagionidae,Chrysopilinae,Omphalophora,,Rhagionidae | Chrysopilinae,684Y,8559528
+B142:1:24,Ptiolina,,,,,,genus,,B142:1,accepted,,,B142:1:15,Chrysopilinae,,,,,Rhagionidae,Chrysopilinae,Ptiolina,,Rhagionidae | Chrysopilinae,754M,11225458
+B142:1:25,Ptiolina obscura Fallén,Fallén,Ptiolina,,obscura,,species,,B142:1,accepted,,,B142:1:24,Ptiolina,,,,,Rhagionidae,Chrysopilinae,Ptiolina,,Rhagionidae | Chrysopilinae | Ptiolina,6WM38,1611772
+B142:1:26,Spania,,,,,,genus,,B142:1,accepted,,,B142:1:15,Chrysopilinae,,,,,Rhagionidae,Chrysopilinae,Spania,,Rhagionidae | Chrysopilinae,7JWV,3257187
+B142:1:27,Spania nigra Meigen,Meigen,Spania,,nigra,,species,,B142:1,accepted,,,B142:1:26,Spania,,,,,Rhagionidae,Chrysopilinae,Spania,,Rhagionidae | Chrysopilinae | Spania,6Z85M,5084583
+B142:1:28,Scenopinidae,,,,,,family,,B142:1,accepted,,,,,,,,,Scenopinidae,,,,,G26,3526
+B142:1:29,Scenopinus,,,,,,genus,,B142:1,accepted,,,B142:1:28,Scenopinidae,,,,,Scenopinidae,,Scenopinus,,Scenopinidae,87KHQ,1501582
+B142:1:30,Scenopinus fenestralis (L.),(L.),Scenopinus,,fenestralis,,species,,B142:1,accepted,,,B142:1:29,Scenopinus,,,,,Scenopinidae,,Scenopinus,,Scenopinidae | Scenopinus,4V5ND,1501621
+B142:1:31,Scenopinus niger (De Geer),(De Geer),Scenopinus,,niger,,species,,B142:1,accepted,,,B142:1:29,Scenopinus,,,,,Scenopinidae,,Scenopinus,,Scenopinidae | Scenopinus,4V5QJ,1501700
+B142:1:32,Acroceridae,,,,,,family,,B142:1,accepted,,,,,,,,,Acroceridae,,,,,62338,3328
+B142:1:33,Cyrtidae,,,,,,family,,B142:1,synonym,B142:1:32,Acroceridae,,,,,,,Cyrtidae,,,,,,7014146
+B142:1:34,Acrocera,,,,,,genus,,B142:1,accepted,,,B142:1:32,Acroceridae,,,,,Acroceridae,,Acrocera,,Acroceridae,87D38,1460122
+B142:1:35,Ogcodes,,,,,,genus,,B142:1,accepted,,,B142:1:32,Acroceridae,,,,,Acroceridae,,Ogcodes,,Acroceridae,87J32,1459669

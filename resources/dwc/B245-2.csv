@@ -1,0 +1,501 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B245:2:1,Muscidae,,,,,,family,,B245:2,accepted,,,,,,,,,Muscidae,,,,,CZP,5564
+B245:2:2,Muscinae,,,,,,subfamily,,B245:2,accepted,,,B245:2:1,Muscidae,,,,,Muscidae,Muscinae,,,Muscidae,8NKY4,
+B245:2:3,Musca,,,,,,genus,,B245:2,accepted,,,B245:2:2,Muscinae,,,,,Muscidae,Muscinae,Musca,,Muscidae | Muscinae,8NSR2,8097933
+B245:2:4,Musca domestica,,Musca,,domestica,,species,,B245:2,accepted,,,B245:2:3,Musca,,,,,Muscidae,Muscinae,Musca,,Muscidae | Muscinae | Musca,8CWQW,1524843
+B245:2:5,Musca autumnalis,,Musca,,autumnalis,,species,,B245:2,accepted,,,B245:2:3,Musca,,,,,Muscidae,Muscinae,Musca,,Muscidae | Muscinae | Musca,44P2R,1524801
+B245:2:6,Musca corvina,,Musca,,corvina,,species,,B245:2,synonym,B245:2:5,Musca autumnalis,,,,,,,Muscidae,Muscinae,Musca,,Muscidae | Muscinae | Musca,89H8D,1524803
+B245:2:7,Musca tempestiva,,Musca,,tempestiva,,species,,B245:2,accepted,,,B245:2:3,Musca,,,,,Muscidae,Muscinae,Musca,,Muscidae | Muscinae | Musca,44PR6,1524718
+B245:2:8,Musca vitripennis,,Musca,,vitripennis,,species,,B245:2,accepted,,,B245:2:3,Musca,,,,,Muscidae,Muscinae,Musca,,Muscidae | Muscinae | Musca,8CWPZ,1524754
+B245:2:9,Orthellia,,,,,,genus,,B245:2,accepted,,,B245:2:2,Muscinae,,,,,Muscidae,Muscinae,Orthellia,,Muscidae | Muscinae,8FPML,9314720
+B245:2:10,Cryptolucilia,,,,,,genus,,B245:2,synonym,B245:2:9,Orthellia,,,,,,,Muscidae,Muscinae,Cryptolucilia,,Muscidae | Muscinae,,1531506
+B245:2:11,Pseudopyrellia,,,,,,genus,,B245:2,synonym,B245:2:9,Orthellia,,,,,,,Muscidae,Muscinae,Pseudopyrellia,,Muscidae | Muscinae,,1528771
+B245:2:12,Orthellia caesarion,,Orthellia,,caesarion,,species,,B245:2,accepted,,,B245:2:9,Orthellia,,,,,Muscidae,Muscinae,Orthellia,,Muscidae | Muscinae | Orthellia,8FPML,9314720
+B245:2:13,Orthellia cornicina,,Orthellia,,cornicina,,species,,B245:2,accepted,,,B245:2:9,Orthellia,,,,,Muscidae,Muscinae,Orthellia,,Muscidae | Muscinae | Orthellia,,4792530
+B245:2:14,Dasyphora,,,,,,genus,,B245:2,accepted,,,B245:2:2,Muscinae,,,,,Muscidae,Muscinae,Dasyphora,,Muscidae | Muscinae,423W,1524483
+B245:2:15,Dasyphora cyanella,,Dasyphora,,cyanella,,species,,B245:2,accepted,,,B245:2:14,Dasyphora,,,,,Muscidae,Muscinae,Dasyphora,,Muscidae | Muscinae | Dasyphora,,10136379
+B245:2:16,Dasyphora cyanicolor,,Dasyphora,,cyanicolor,,species,,B245:2,accepted,,,B245:2:14,Dasyphora,,,,,Muscidae,Muscinae,Dasyphora,,Muscidae | Muscinae | Dasyphora,,9907798
+B245:2:17,Pyrella,,,,,,genus,,B245:2,accepted,,,B245:2:2,Muscinae,,,,,Muscidae,Muscinae,Pyrella,,Muscidae | Muscinae,,
+B245:2:18,Pyrella ignita,,Pyrella,,ignita,,species,,B245:2,accepted,,,B245:2:17,Pyrella,,,,,Muscidae,Muscinae,Pyrella,,Muscidae | Muscinae | Pyrella,4QR5R,1525983
+B245:2:19,Pyrella serena,,Pyrella,,serena,,species,,B245:2,synonym,B245:2:18,Pyrella ignita,,,,,,,Muscidae,Muscinae,Pyrella,,Muscidae | Muscinae | Pyrella,,6098090
+B245:2:20,Pyrella aenea,,Pyrella,,aenea,,species,,B245:2,synonym,B245:2:18,Pyrella ignita,,,,,,,Muscidae,Muscinae,Pyrella,,Muscidae | Muscinae | Pyrella,4QR4V,1525984
+B245:2:21,Morellia,,,,,,genus,,B245:2,accepted,,,B245:2:2,Muscinae,,,,,Muscidae,Muscinae,Morellia,,Muscidae | Muscinae,87HNM,1529278
+B245:2:22,Morellia simplex,,Morellia,,simplex,,species,,B245:2,accepted,,,B245:2:21,Morellia,,,,,Muscidae,Muscinae,Morellia,,Muscidae | Muscinae | Morellia,44D25,1529342
+B245:2:23,Morellia hortorum,,Morellia,,hortorum,,species,,B245:2,accepted,,,B245:2:21,Morellia,,,,,Muscidae,Muscinae,Morellia,,Muscidae | Muscinae | Morellia,44CZ2,1529292
+B245:2:24,Morellia aenescens,,Morellia,,aenescens,,species,,B245:2,accepted,,,B245:2:21,Morellia,,,,,Muscidae,Muscinae,Morellia,,Muscidae | Muscinae | Morellia,44CXZ,1529375
+B245:2:25,Mesembrina,,,,,,genus,,B245:2,accepted,,,B245:2:2,Muscinae,,,,,Muscidae,Muscinae,Mesembrina,,Muscidae | Muscinae,5PKH,1525762
+B245:2:26,Mesembrina meridiana,,Mesembrina,,meridiana,,species,,B245:2,accepted,,,B245:2:25,Mesembrina,,,,,Muscidae,Muscinae,Mesembrina,,Muscidae | Muscinae | Mesembrina,89F7W,1525771
+B245:2:27,Polietes,,,,,,genus,,B245:2,accepted,,,B245:2:2,Muscinae,,,,,Muscidae,Muscinae,Polietes,,Muscidae | Muscinae,6TSK,1530452
+B245:2:28,Polietes steini,,Polietes,,steini,,species,,B245:2,accepted,,,B245:2:27,Polietes,,,,,Muscidae,Muscinae,Polietes,,Muscidae | Muscinae | Polietes,4KXVF,1530466
+B245:2:29,Polietes hirticrus,,Polietes,,hirticrus,,species,,B245:2,accepted,,,B245:2:27,Polietes,,,,,Muscidae,Muscinae,Polietes,,Muscidae | Muscinae | Polietes,,4518485
+B245:2:30,Polietes albolineatus,,Polietes,,albolineatus,,species,,B245:2,accepted,,,B245:2:27,Polietes,,,,,Muscidae,Muscinae,Polietes,,Muscidae | Muscinae | Polietes,4KXV4,1530453
+B245:2:31,Polietes lardarius,,Polietes,,lardarius,,species,,B245:2,accepted,,,B245:2:27,Polietes,,,,,Muscidae,Muscinae,Polietes,,Muscidae | Muscinae | Polietes,4KXV9,1530455
+B245:2:32,Stomoxyinae,,,,,,subfamily,,B245:2,accepted,,,B245:2:1,Muscidae,,,,,Muscidae,Stomoxyinae,,,Muscidae,89P4F,
+B245:2:33,Haematobia,,,,,,genus,,B245:2,accepted,,,B245:2:32,Stomoxyinae,,,,,Muscidae,Stomoxyinae,Haematobia,,Muscidae | Stomoxyinae,62TQ3,1531900
+B245:2:34,Haematobia stimulans,,Haematobia,,stimulans,,species,,B245:2,accepted,,,B245:2:33,Haematobia,,,,,Muscidae,Stomoxyinae,Haematobia,,Muscidae | Stomoxyinae | Haematobia,,8885088
+B245:2:35,Lyperosia,,,,,,genus,,B245:2,accepted,,,B245:2:32,Stomoxyinae,,,,,Muscidae,Stomoxyinae,Lyperosia,,Muscidae | Stomoxyinae,,1531507
+B245:2:36,Lyperosia irritans,,Lyperosia,,irritans,,species,,B245:2,accepted,,,B245:2:35,Lyperosia,,,,,Muscidae,Stomoxyinae,Lyperosia,,Muscidae | Stomoxyinae | Lyperosia,,1531507
+B245:2:37,Stomoxys,,,,,,genus,,B245:2,accepted,,,B245:2:32,Stomoxyinae,,,,,Muscidae,Stomoxyinae,Stomoxys,,Muscidae | Stomoxyinae,7NX7,1456840
+B245:2:38,Stomoxys calcitrans,,Stomoxys,,calcitrans,,species,,B245:2,accepted,,,B245:2:37,Stomoxys,,,,,Muscidae,Stomoxyinae,Stomoxys,,Muscidae | Stomoxyinae | Stomoxys,6ZX7S,1526081
+B245:2:39,Phaoniinae,,,,,,subfamily,,B245:2,accepted,,,B245:2:1,Muscidae,,,,,Muscidae,Phaoniinae,,,Muscidae,8NKZF,
+B245:2:40,Phaoniini,,,,,,tribe,,B245:2,accepted,,,B245:2:39,Phaoniinae,,,,,Muscidae,Phaoniinae,,,Muscidae | Phaoniinae,8MPTZ,
+B245:2:41,Muscina,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Muscina,,Muscidae | Phaoniinae | Phaoniini,5VW2,1526120
+B245:2:42,Cyrtoneura,,,,,,genus,,B245:2,synonym,B245:2:41,Muscina,,,,,,,Muscidae,Phaoniinae,Cyrtoneura,,Muscidae | Phaoniinae | Phaoniini,,8505299
+B245:2:43,Muscina stabulans,,Muscina,,stabulans,,species,,B245:2,accepted,,,B245:2:41,Muscina,,,,,Muscidae,Phaoniinae,Muscina,,Muscidae | Phaoniinae | Phaoniini | Muscina,88QHC,1526133
+B245:2:44,Muscina assimilis,,Muscina,,assimilis,,species,,B245:2,accepted,,,B245:2:41,Muscina,,,,,Muscidae,Phaoniinae,Muscina,,Muscidae | Phaoniinae | Phaoniini | Muscina,,5886924
+B245:2:45,Muscina pabulorum,,Muscina,,pabulorum,,species,,B245:2,accepted,,,B245:2:41,Muscina,,,,,Muscidae,Phaoniinae,Muscina,,Muscidae | Phaoniinae | Phaoniini | Muscina,,6098069
+B245:2:46,Achanthiptera,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Achanthiptera,,Muscidae | Phaoniinae | Phaoniini,89PKH,9225439
+B245:2:47,Achanthiptera rohrelliformis,,Achanthiptera,,rohrelliformis,,species,,B245:2,accepted,,,B245:2:46,Achanthiptera,,,,,Muscidae,Phaoniinae,Achanthiptera,,Muscidae | Phaoniinae | Phaoniini | Achanthiptera,89TRL,4518573
+B245:2:48,Achanthiptera inanis,,Achanthiptera,,inanis,,species,,B245:2,synonym,B245:2:47,Achanthiptera rohrelliformis,,,,,,,Muscidae,Phaoniinae,Achanthiptera,,Muscidae | Phaoniinae | Phaoniini | Achanthiptera,,6098094
+B245:2:49,Azelia,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Azelia,,Muscidae | Phaoniinae | Phaoniini,36WK,1529801
+B245:2:50,Azelia macquarti,,Azelia,,macquarti,,species,,B245:2,accepted,,,B245:2:49,Azelia,,,,,Muscidae,Phaoniinae,Azelia,,Muscidae | Phaoniinae | Phaoniini | Azelia,,6098054
+B245:2:51,Azelia cilipes,,Azelia,,cilipes,,species,,B245:2,accepted,,,B245:2:49,Azelia,,,,,Muscidae,Phaoniinae,Azelia,,Muscidae | Phaoniinae | Phaoniini | Azelia,K5M2,1529828
+B245:2:52,Azelia zetterstedti,,Azelia,,zetterstedti,,species,,B245:2,accepted,,,B245:2:49,Azelia,,,,,Muscidae,Phaoniinae,Azelia,,Muscidae | Phaoniinae | Phaoniini | Azelia,K5MM,1529810
+B245:2:53,Azelia triquetra,,Azelia,,triquetra,,species,,B245:2,accepted,,,B245:2:49,Azelia,,,,,Muscidae,Phaoniinae,Azelia,,Muscidae | Phaoniinae | Phaoniini | Azelia,K5ML,1529816
+B245:2:54,Azelia trigonica,,Azelia,,trigonica,,species,,B245:2,accepted,,,B245:2:49,Azelia,,,,,Muscidae,Phaoniinae,Azelia,,Muscidae | Phaoniinae | Phaoniini | Azelia,K5MK,1529835
+B245:2:55,Azelia gibbera,,Azelia,,gibbera,,species,,B245:2,accepted,,,B245:2:49,Azelia,,,,,Muscidae,Phaoniinae,Azelia,,Muscidae | Phaoniinae | Phaoniini | Azelia,K5M8,1529805
+B245:2:56,Azelia aterrima,,Azelia,,aterrima,,species,,B245:2,accepted,,,B245:2:49,Azelia,,,,,Muscidae,Phaoniinae,Azelia,,Muscidae | Phaoniinae | Phaoniini | Azelia,K5LZ,1529802
+B245:2:68,Thricops,,,,,,subgenus,,B245:2,accepted,,,B245:2:57,Thricops,,,,,Muscidae,Phaoniinae,Thricops,Thricops,Muscidae | Phaoniinae | Phaoniini | Thricops,7WBQ,
+B245:2:59,Lasiops,,,,,,genus,,B245:2,synonym,B245:2:57,Thricops,,,,,,,Muscidae,Phaoniinae,Lasiops,,Muscidae | Phaoniinae | Phaoniini,89QJL,3257317
+B245:2:59,Lasiops,,,,,,genus,,B245:2,synonym,B245:2:57,Thricops,,,,,,,Muscidae,Phaoniinae,Lasiops,,Muscidae | Phaoniinae | Phaoniini,89QJL,3257317
+B245:2:60,Rhynchotrichops,,,,,,subgenus,,B245:2,accepted,,,B245:2:57,Thricops,,,,,Muscidae,Phaoniinae,Thricops,Rhynchotrichops,Muscidae | Phaoniinae | Phaoniini | Thricops,,
+B245:2:61,Thricops rostratus,,Thricops,,rostratus,,species,,B245:2,accepted,,,B245:2:60,Rhynchotrichops,,,,,Muscidae,Phaoniinae,Thricops,Rhynchotrichops,Muscidae | Phaoniinae | Phaoniini | Thricops | Rhynchotrichops,7C9XD,1532699
+B245:2:62,Thricops aculeipes,,Thricops,,aculeipes,,species,,B245:2,accepted,,,B245:2:60,Rhynchotrichops,,,,,Muscidae,Phaoniinae,Thricops,Rhynchotrichops,Muscidae | Phaoniinae | Phaoniini | Thricops | Rhynchotrichops,7C9XJ,1532731
+B245:2:63,Thricops hirtulus,,Thricops,,hirtulus,,species,,B245:2,accepted,,,B245:2:60,Rhynchotrichops,,,,,Muscidae,Phaoniinae,Thricops,Rhynchotrichops,Muscidae | Phaoniinae | Phaoniini | Thricops | Rhynchotrichops,8PD6K,1532775
+B245:2:64,Thricops subrostratus,,Thricops,,subrostratus,,species,,B245:2,synonym,B245:2:63,Thricops hirtulus,,,,,,,Muscidae,Phaoniinae,Thricops,Rhynchotrichops,Muscidae | Phaoniinae | Phaoniini | Thricops | Rhynchotrichops,,11306787
+B245:2:65,Hera,,,,,,subgenus,,B245:2,accepted,,,B245:2:57,Thricops,,,,,Muscidae,Phaoniinae,Thricops,Hera,Muscidae | Phaoniinae | Phaoniini | Thricops,,
+B245:2:66,Thricops nigrifrons,,Thricops,,nigrifrons,,species,,B245:2,accepted,,,B245:2:65,Hera,,,,,Muscidae,Phaoniinae,Thricops,Hera,Muscidae | Phaoniinae | Phaoniini | Thricops | Hera,7BY9C,1532746
+B245:2:67,Thricops longipes,,Thricops,,longipes,,species,,B245:2,accepted,,,B245:2:65,Hera,,,,,Muscidae,Phaoniinae,Thricops,Hera,Muscidae | Phaoniinae | Phaoniini | Thricops | Hera,7BY9F,1532756
+B245:2:68,Thricops,,,,,,subgenus,,B245:2,accepted,,,B245:2:57,Thricops,,,,,Muscidae,Phaoniinae,Thricops,Thricops,Muscidae | Phaoniinae | Phaoniini | Thricops,7WBQ,
+B245:2:69,Thricops nigritellus,,Thricops,,nigritellus,,species,,B245:2,accepted,,,B245:2:68,Thricops,,,,,Muscidae,Phaoniinae,Thricops,Thricops,Muscidae | Phaoniinae | Phaoniini | Thricops | Thricops,7C9XC,1532719
+B245:2:70,Thricops innocuus,,Thricops,,innocuus,,species,,B245:2,accepted,,,B245:2:68,Thricops,,,,,Muscidae,Phaoniinae,Thricops,Thricops,Muscidae | Phaoniinae | Phaoniini | Thricops | Thricops,7BY9H,1532714
+B245:2:71,Thricops separ,,Thricops,,separ,,species,,B245:2,accepted,,,B245:2:68,Thricops,,,,,Muscidae,Phaoniinae,Thricops,Thricops,Muscidae | Phaoniinae | Phaoniini | Thricops | Thricops,7C9VP,1532704
+B245:2:72,Thricops hirsutulus,,Thricops,,hirsutulus,,species,,B245:2,accepted,,,B245:2:68,Thricops,,,,,Muscidae,Phaoniinae,Thricops,Thricops,Muscidae | Phaoniinae | Phaoniini | Thricops | Thricops,,11359221
+B245:2:73,Thricops semicinereus,,Thricops,,semicinereus,,species,,B245:2,accepted,,,B245:2:68,Thricops,,,,,Muscidae,Phaoniinae,Thricops,Thricops,Muscidae | Phaoniinae | Phaoniini | Thricops | Thricops,7BY7P,1532761
+B245:2:74,Thricops foveolatus,,Thricops,,foveolatus,,species,,B245:2,accepted,,,B245:2:68,Thricops,,,,,Muscidae,Phaoniinae,Thricops,Thricops,Muscidae | Phaoniinae | Phaoniini | Thricops | Thricops,56LTW,1532765
+B245:2:75,Thricops perpendicularis,,Thricops,,perpendicularis,,species,,B245:2,synonym,B245:2:74,Thricops foveolatus,,,,,,,Muscidae,Phaoniinae,Thricops,Thricops,Muscidae | Phaoniinae | Phaoniini | Thricops | Thricops,,11334125
+B245:2:76,Alloeostylus,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Alloeostylus,,Muscidae | Phaoniinae | Phaoniini,,1530900
+B245:2:77,Alloeostylus diaphanus,,Alloeostylus,,diaphanus,,species,,B245:2,accepted,,,B245:2:76,Alloeostylus,,,,,Muscidae,Phaoniinae,Alloeostylus,,Muscidae | Phaoniinae | Phaoniini | Alloeostylus,,11288040
+B245:2:78,Alloeostylus sudeticus,,Alloeostylus,,sudeticus,,species,,B245:2,accepted,,,B245:2:76,Alloeostylus,,,,,Muscidae,Phaoniinae,Alloeostylus,,Muscidae | Phaoniinae | Phaoniini | Alloeostylus,89X8S,1532713
+B245:2:79,Alloeostylus albibasalis,,Alloeostylus,,albibasalis,,species,,B245:2,accepted,,,B245:2:76,Alloeostylus,,,,,Muscidae,Phaoniinae,Alloeostylus,,Muscidae | Phaoniinae | Phaoniini | Alloeostylus,,11222906
+B245:2:80,Alloeostylus simplex,,Alloeostylus,,simplex,,species,,B245:2,accepted,,,B245:2:76,Alloeostylus,,,,,Muscidae,Phaoniinae,Alloeostylus,,Muscidae | Phaoniinae | Phaoniini | Alloeostylus,,11280422
+B245:2:81,Alloeostylus sundewalli,,Alloeostylus,,sundewalli,,species,,B245:2,accepted,,,B245:2:76,Alloeostylus,,,,,Muscidae,Phaoniinae,Alloeostylus,,Muscidae | Phaoniinae | Phaoniini | Alloeostylus,,1530900
+B245:2:82,Drymeia,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Drymeia,,Muscidae | Phaoniinae | Phaoniini,48G9,7721777
+B245:2:83,Drymeia hamata,,Drymeia,,hamata,,species,,B245:2,accepted,,,B245:2:82,Drymeia,,,,,Muscidae,Phaoniinae,Drymeia,,Muscidae | Phaoniinae | Phaoniini | Drymeia,6DNDM,1528909
+B245:2:84,Pogonomyia,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Pogonomyia,,Muscidae | Phaoniinae | Phaoniini,,1527207
+B245:2:85,Pogonomyia brumalis,,Pogonomyia,,brumalis,,species,,B245:2,accepted,,,B245:2:84,Pogonomyia,,,,,Muscidae,Phaoniinae,Pogonomyia,,Muscidae | Phaoniinae | Phaoniini | Pogonomyia,,1527207
+B245:2:86,Trichopticoides,,,,,,subgenus,,B245:2,accepted,,,B245:2:84,Pogonomyia,,,,,Muscidae,Phaoniinae,Pogonomyia,Trichopticoides,Muscidae | Phaoniinae | Phaoniini | Pogonomyia,,
+B245:2:87,Pogonomyia decolor,,Pogonomyia,,decolor,,species,,B245:2,accepted,,,B245:2:86,Trichopticoides,,,,,Muscidae,Phaoniinae,Pogonomyia,Trichopticoides,Muscidae | Phaoniinae | Phaoniini | Pogonomyia | Trichopticoides,,1527207
+B245:2:88,Dialytina,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Dialytina,,Muscidae | Phaoniinae | Phaoniini,,4787660
+B245:2:89,Dialytina atriceps,,Dialytina,,atriceps,,species,,B245:2,accepted,,,B245:2:88,Dialytina,,,,,Muscidae,Phaoniinae,Dialytina,,Muscidae | Phaoniinae | Phaoniini | Dialytina,,11291916
+B245:2:90,Lophosceles,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Lophosceles,,Muscidae | Phaoniinae | Phaoniini,5GNZ,1529749
+B245:2:91,Lophosceles cinereiventris,,Lophosceles,,cinereiventris,,species,,B245:2,accepted,,,B245:2:90,Lophosceles,,,,,Muscidae,Phaoniinae,Lophosceles,,Muscidae | Phaoniinae | Phaoniini | Lophosceles,72MF4,1529761
+B245:2:92,Lophosceles cristatus,,Lophosceles,,cristatus,,species,,B245:2,synonym,B245:2:91,Lophosceles cinereiventris,,,,,,,Muscidae,Phaoniinae,Lophosceles,,Muscidae | Phaoniinae | Phaoniini | Lophosceles,5GNZ,1529749
+B245:2:93,Lophosceles pulcher,,Lophosceles,,pulcher,,species,,B245:2,synonym,B245:2:91,Lophosceles cinereiventris,,,,,,,Muscidae,Phaoniinae,Lophosceles,,Muscidae | Phaoniinae | Phaoniini | Lophosceles,,9022599
+B245:2:94,Lophosceles mutatus,,Lophosceles,,mutatus,,species,,B245:2,accepted,,,B245:2:90,Lophosceles,,,,,Muscidae,Phaoniinae,Lophosceles,,Muscidae | Phaoniinae | Phaoniini | Lophosceles,6QMH4,1529754
+B245:2:95,Lophosceles semipellucidus,,Lophosceles,,semipellucidus,,species,,B245:2,synonym,B245:2:94,Lophosceles mutatus,,,,,,,Muscidae,Phaoniinae,Lophosceles,,Muscidae | Phaoniinae | Phaoniini | Lophosceles,,11255925
+B245:2:96,Wahlgrenia,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Wahlgrenia,,Muscidae | Phaoniinae | Phaoniini,,4791793
+B245:2:97,Wahlgrenia magnicornis,,Wahlgrenia,,magnicornis,,species,,B245:2,accepted,,,B245:2:96,Wahlgrenia,,,,,Muscidae,Phaoniinae,Wahlgrenia,,Muscidae | Phaoniinae | Phaoniini | Wahlgrenia,,4791793
+B245:2:98,Phaonia,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini,6MV5,1524892
+B245:2:99,Hyetodesia,,,,,,genus,,B245:2,synonym,B245:2:98,Phaonia,,,,,,,Muscidae,Phaoniinae,Hyetodesia,,Muscidae | Phaoniinae | Phaoniini,,11292889
+B245:2:100,Phaonia incana,,Phaonia,,incana,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,8D9KS,5766924
+B245:2:101,Phaonia morio,,Phaonia,,morio,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,8635639
+B245:2:102,Phaonia hybdrida,,Phaonia,,hybdrida,,species,,B245:2,synonym,B245:2:101,Phaonia morio,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76WZ2,5068634
+B245:2:103,Phaonia subfuscinervis,,Phaonia,,subfuscinervis,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V8MY,5068236
+B245:2:104,Phaonia consobrina,,Phaonia,,consobrina,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,77982,5068123
+B245:2:105,Phaonia scutellata,,Phaonia,,scutellata,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76WNX,5068312
+B245:2:106,Phaonia signata,,Phaonia,,signata,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,6098079
+B245:2:107,Phaonia perdita,,Phaonia,,perdita,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V8ZC,5068426
+B245:2:108,Phaonia errans,,Phaonia,,errans,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V987,5068747
+B245:2:109,Phaonia tinctipennis,,Phaonia,,tinctipennis,,species,,B245:2,synonym,B245:2:108,Phaonia errans,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6MV5,1524892
+B245:2:110,Phaonia zetterstedti,,Phaonia,,zetterstedti,,species,,B245:2,synonym,B245:2:108,Phaonia errans,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6MV5,1524892
+B245:2:111,Phaonia viarum,,Phaonia,,viarum,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,89PXF,5068132
+B245:2:112,Phaonia erratica,,Phaonia,,erratica,,species,,B245:2,synonym,B245:2:111,Phaonia viarum,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,6098085
+B245:2:113,Phaonia erronea,,Phaonia,,erronea,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V8VV,5068363
+B245:2:114,Phaonia longitarsis,,Phaonia,,longitarsis,,species,,B245:2,synonym,B245:2:113,Phaonia erronea,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,9118119
+B245:2:115,Phaonia angelicae,,Phaonia,,angelicae,,species,,B245:2,synonym,B245:2:113,Phaonia erronea,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V98W,5068730
+B245:2:116,Phaonia fuscata,,Phaonia,,fuscata,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,778W9,5068225
+B245:2:117,Phaonia palpata,,Phaonia,,palpata,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V8XY,5068468
+B245:2:149,Phaonia trigonalis,,Phaonia,,trigonalis,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,11308162
+B245:2:119,Phaonia vagans,,Phaonia,,vagans,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,6098078
+B245:2:120,Phaonia rufiseta,,Phaonia,,rufiseta,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,6098089
+B245:2:121,Phaonia vittifera,,Phaonia,,vittifera,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,6098088
+B245:2:122,Phaonia trigonospila,,Phaonia,,trigonospila,,species,,B245:2,synonym,B245:2:121,Phaonia vittifera,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,6098087
+B245:2:123,Phaonia colbrani,,Phaonia,,colbrani,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76X82,5068435
+B245:2:124,Phaonia mystica,,Phaonia,,mystica,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76X9R,5068573
+B245:2:125,Phaonia umbraticola,,Phaonia,,umbraticola,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,778NS,5068752
+B245:2:126,Phaonia apicalis,,Phaonia,,apicalis,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V98X,5068326
+B245:2:127,Phaonia siebecki,,Phaonia,,siebecki,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V8P5,5068291
+B245:2:128,Phaonia confluens,,Phaonia,,confluens,,species,,B245:2,synonym,B245:2:127,Phaonia siebecki,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,7797Q,5068292
+B245:2:129,Phaonia crinipes,,Phaonia,,crinipes,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,5068168
+B245:2:130,Phaonia pallida,,Phaonia,,pallida,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76X9X,5068545
+B245:2:131,Phaonia variegata,,Phaonia,,variegata,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,6098080
+B245:2:134,Phaonia populi,,Phaonia,,populi,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,6098084
+B245:2:133,Phaonia bitincta,,Phaonia,,bitincta,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76X7H,5068596
+B245:2:134,Phaonia populi,,Phaonia,,populi,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,6098084
+B245:2:135,Phaonia scutellaris,,Phaonia,,scutellaris,,species,,B245:2,synonym,B245:2:134,Phaonia populi,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,6098083
+B245:2:136,Phaonia zugmayeriae,,Phaonia,,zugmayeriae,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V92H,5068701
+B245:2:137,Phaonia humerella,,Phaonia,,humerella,,species,,B245:2,synonym,B245:2:136,Phaonia zugmayeriae,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,11233972
+B245:2:138,Phaonia rufipalpis,,Phaonia,,rufipalpis,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76WZY,5068137
+B245:2:139,Phaonia gracilis,,Phaonia,,gracilis,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76WYB,5068256
+B245:2:140,Phaonia pullata,,Phaonia,,pullata,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,778ZM,5068262
+B245:2:141,Phaonia trimaculata,,Phaonia,,trimaculata,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V8NQ,5068487
+B245:2:142,Phaonia trimaculata var. servaeformis,,Phaonia,,trimaculata,servaeformis,variety,,B245:2,accepted,,,B245:2:141,Phaonia trimaculata,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia | Phaonia trimaculata,6V8P2,5068488
+B245:2:143,Phaonia serva,,Phaonia,,serva,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,778NZ,5068288
+B245:2:144,Phaonia lugubris,,Phaonia,,lugubris,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V8XH,5068299
+B245:2:145,Phaonia exoleta,,Phaonia,,exoleta,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V97V,5068169
+B245:2:146,Phaonia mirabilis,,Phaonia,,mirabilis,,species,,B245:2,synonym,B245:2:145,Phaonia exoleta,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76WY2,5068173
+B245:2:147,Phaonia keilini,,Phaonia,,keilini,,species,,B245:2,synonym,B245:2:145,Phaonia exoleta,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,778Z8,5068172
+B245:2:148,Phaonia cincta,,Phaonia,,cincta,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76WVQ,5068453
+B245:2:149,Phaonia trigonalis,,Phaonia,,trigonalis,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,11308162
+B245:2:150,Phaonia laetabilis,,Phaonia,,laetabilis,,species,,B245:2,synonym,B245:2:149,Phaonia trigonalis,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76WYZ,5068583
+B245:2:151,Phaonia pratensis,,Phaonia,,pratensis,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,778ZH,5068247
+B245:2:152,Phaonia laeta,,Phaonia,,laeta,,species,,B245:2,synonym,B245:2:151,Phaonia pratensis,,,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,8D9JY,5068582
+B245:2:153,Phaonia canescens,,Phaonia,,canescens,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76X7M,5068491
+B245:2:154,Phaonia goberti,,Phaonia,,goberti,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,6V8YB,5068245
+B245:2:155,Phaonia fusca,,Phaonia,,fusca,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76X89,5068221
+B245:2:156,Phaonia nitnida,,Phaonia,,nitnida,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,,11357797
+B245:2:157,Phaonia halterata,,Phaonia,,halterata,,species,,B245:2,accepted,,,B245:2:98,Phaonia,,,,,Muscidae,Phaoniinae,Phaonia,,Muscidae | Phaoniinae | Phaoniini | Phaonia,76WYG,5068798
+B245:2:158,Dendrophaonia,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Dendrophaonia,,Muscidae | Phaoniinae | Phaoniini,,1524400
+B245:2:159,Dendrophaonia querceti,,Dendrophaonia,,querceti,,species,,B245:2,accepted,,,B245:2:158,Dendrophaonia,,,,,Muscidae,Phaoniinae,Dendrophaonia,,Muscidae | Phaoniinae | Phaoniini | Dendrophaonia,,11352681
+B245:2:160,Dendrophaonia setifemur,,Dendrophaonia,,setifemur,,species,,B245:2,accepted,,,B245:2:158,Dendrophaonia,,,,,Muscidae,Phaoniinae,Dendrophaonia,,Muscidae | Phaoniinae | Phaoniini | Dendrophaonia,,11270459
+B245:2:161,Ophyra,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Ophyra,,Muscidae | Phaoniinae | Phaoniini,693M,7615151
+B245:2:162,Ophyra leucostoma,,Ophyra,,leucostoma,,species,,B245:2,accepted,,,B245:2:161,Ophyra,,,,,Muscidae,Phaoniinae,Ophyra,,Muscidae | Phaoniinae | Phaoniini | Ophyra,8D3NQ,6134790
+B245:2:163,Ophyra capensis,,Ophyra,,capensis,,species,,B245:2,accepted,,,B245:2:161,Ophyra,,,,,Muscidae,Phaoniinae,Ophyra,,Muscidae | Phaoniinae | Phaoniini | Ophyra,74R55,1530502
+B245:2:164,Hydrotaea,,,,,,genus,,B245:2,accepted,,,B245:2:40,Phaoniini,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini,4ZW3,1528971
+B245:2:165,Hydrotaea borussica,,Hydrotaea,,borussica,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6MKVF,1529198
+B245:2:166,Hydrotaea meridionalis,,Hydrotaea,,meridionalis,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6MKXX,1529051
+B245:2:167,Hydrotaea curvipes,,Hydrotaea,,curvipes,,species,,B245:2,synonym,B245:2:166,Hydrotaea meridionalis,,,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,,6098061
+B245:2:168,Hydrotaea pellucens,,Hydrotaea,,pellucens,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML9D,1529153
+B245:2:169,Hydrotaea bimaculata,,Hydrotaea,,bimaculata,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,,6098065
+B245:2:170,Hydrotaea ciliata,,Hydrotaea,,ciliata,,species,,B245:2,synonym,B245:2:169,Hydrotaea bimaculata,,,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,,6098066
+B245:2:171,Hydrotaea spinipes,,Hydrotaea,,spinipes,,species,,B245:2,synonym,B245:2:169,Hydrotaea bimaculata,,,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,4ZW3,1528971
+B245:2:174,Hydrotaea nidicola,,Hydrotaea,,nidicola,,species,,B245:2,synonym,B245:2:172,Hydrotaea nidicola,,,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML9Q,1528983
+B245:2:173,Hydrotaea ringdahli,,Hydrotaea,,ringdahli,,species,,B245:2,synonym,B245:2:172,Hydrotaea nidicola,,,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6MKYZ,1529132
+B245:2:174,Hydrotaea nidicola,,Hydrotaea,,nidicola,,species,,B245:2,synonym,B245:2:172,Hydrotaea nidicola,,,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML9Q,1528983
+B245:2:175,Hydrotaea albipuncta,,Hydrotaea,,albipuncta,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML85,1529016
+B245:2:176,Hydrotaea cinerea,,Hydrotaea,,cinerea,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML7D,1528992
+B245:2:177,Hydrotaea irritans,,Hydrotaea,,irritans,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6MKWK,1529080
+B245:2:178,Hydrotaea militaris,,Hydrotaea,,militaris,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6MKXZ,1529008
+B245:2:179,Hydrotaea armipes,,Hydrotaea,,armipes,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML82,1528985
+B245:2:180,Hydrotaea occulta,,Hydrotaea,,occulta,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,,6098062
+B245:2:181,Hydrotaea basdeni,,Hydrotaea,,basdeni,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML7J,1529193
+B245:2:182,Hydrotaea pilipes,,Hydrotaea,,pilipes,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML9G,1529170
+B245:2:183,Hydrotaea meteorica,,Hydrotaea,,meteorica,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML9X,1529025
+B245:2:184,Hydrotaea pandellei,,Hydrotaea,,pandellei,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML9K,1529140
+B245:2:185,Hydrotaea palaestrica,,Hydrotaea,,palaestrica,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML9N,1529188
+B245:2:186,Hydrotaea cyrtoneurina,,Hydrotaea,,cyrtoneurina,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6MKWW,1529195
+B245:2:187,Hydrotaea tuberculata,,Hydrotaea,,tuberculata,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6MKYF,1529042
+B245:2:188,Hydrotaea dentipes,,Hydrotaea,,dentipes,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML8W,1529099
+B245:2:189,Hydrotaea similis,,Hydrotaea,,similis,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6MKYR,1529129
+B245:2:190,Hydrotaea velutina,,Hydrotaea,,velutina,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,8CDPQ,4518470
+B245:2:191,Hydrotaea pilitibia,,Hydrotaea,,pilitibia,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML9F,1529155
+B245:2:192,Hydrotaea glabricula,,Hydrotaea,,glabricula,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6MKWP,1529122
+B245:2:193,Hydrotaea parva,,Hydrotaea,,parva,,species,,B245:2,accepted,,,B245:2:164,Hydrotaea,,,,,Muscidae,Phaoniinae,Hydrotaea,,Muscidae | Phaoniinae | Phaoniini | Hydrotaea,6ML9J,1529031
+B245:2:194,Mydaeini,,,,,,tribe,,B245:2,accepted,,,B245:2:39,Phaoniinae,,,,,Muscidae,Phaoniinae,,,Muscidae | Phaoniinae,,
+B245:2:195,Myospila,,,,,,genus,,B245:2,accepted,,,B245:2:194,Mydaeini,,,,,Muscidae,Phaoniinae,Myospila,,Muscidae | Phaoniinae | Mydaeini,5WG4,1530929
+B245:2:196,Myospila meditabunda,,Myospila,,meditabunda,,species,,B245:2,accepted,,,B245:2:195,Myospila,,,,,Muscidae,Phaoniinae,Myospila,,Muscidae | Phaoniinae | Mydaeini | Myospila,4569L,1531031
+B245:2:197,Mydaea,,,,,,genus,,B245:2,accepted,,,B245:2:194,Mydaeini,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini,5W7X,1529495
+B245:2:198,Mydaea spinipes,,Mydaea,,spinipes,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,,1529554
+B245:2:199,Mydaea scutellaris,,Mydaea,,scutellaris,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,4524S,1529633
+B245:2:200,Mydaea pagana,,Mydaea,,pagana,,species,,B245:2,synonym,B245:2:199,Mydaea scutellaris,,,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,,6098032
+B245:2:201,Mydaea tincta,,Mydaea,,tincta,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,,6098033
+B245:2:202,Mydaea setifemur,,Mydaea,,setifemur,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,4524V,1529629
+B245:2:203,Mydaea deserta,,Mydaea,,deserta,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,73RZD,1529619
+B245:2:204,Mydaea urbana,,Mydaea,,urbana,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,4525D,1529497
+B245:2:205,Mydaea detrita,,Mydaea,,detrita,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,,6098034
+B245:2:206,Mydaea discimana,,Mydaea,,discimana,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,44ZZD,1529518
+B245:2:207,Mydaea electa,,Mydaea,,electa,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,44ZZG,1529608
+B245:2:208,Mydaea nebulosa,,Mydaea,,nebulosa,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,4523F,1529519
+B245:2:209,Mydaea anicula,,Mydaea,,anicula,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,44ZYD,1529510
+B245:2:210,Mydaea ancilla,,Mydaea,,ancilla,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,44ZYB,1529533
+B245:2:211,Mydaea bengtssoni,,Mydaea,,bengtssoni,,species,,B245:2,accepted,,,B245:2:197,Mydaea,,,,,Muscidae,Phaoniinae,Mydaea,,Muscidae | Phaoniinae | Mydaeini | Mydaea,44ZYN,1529560
+B245:2:212,Helina,,,,,,genus,,B245:2,accepted,,,B245:2:194,Mydaeini,,,,,Muscidae,Phaoniinae,Helina,,Muscidae | Phaoniinae | Mydaeini,8NQ6K,3255895
+B245:2:213,Helina laetifica,,Helina,,laetifica,,species,,B245:2,accepted,,,B245:2:212,Helina,,,,,Muscidae,Phaoniinae,Helina,,Muscidae | Phaoniinae | Mydaeini | Helina,,5713688
+B245:2:214,Helina lucorum,,Helina,,lucorum,,species,,B245:2,synonym,B245:2:213,Helina laetifica,,,,,,,Muscidae,Phaoniinae,Helina,,Muscidae | Phaoniinae | Mydaeini | Helina,,6098047
+B245:2:215,Helina annosa,,Helina,,annosa,,species,,B245:2,accepted,,,B245:2:212,Helina,,,,,Muscidae,Phaoniinae,Helina,,Muscidae | Phaoniinae | Mydaeini | Helina,6LK9J,5069259
+B245:2:216,Helina atripes,,Helina,,atripes,,species,,B245:2,accepted,,,B245:2:212,Helina,,,,,Muscidae,Phaoniinae,Helina,,Muscidae | Phaoniinae | Mydaeini | Helina,,6098040
+B245:2:217,Helina cilipes,,Helina,,cilipes,,species,,B245:2,accepted,,,B245:2:212,Helina,,,,,Muscidae,Phaoniinae,Helina,,Muscidae | Phaoniinae | Mydaeini | Helina,6LJPP,5069499
+B245:2:218,Enoplopteryx,,,,,,subgenus,,B245:2,accepted,,,B245:2:212,Helina,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina,,
+B245:2:219,Helina ciliatocosta,,Helina,,ciliatocosta,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK28,5069523
+B245:2:220,Helina fratercula,,Helina,,fratercula,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJRS,5069482
+B245:2:221,Helina consimilis,,Helina,,consimilis,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK2Y,5069416
+B245:2:222,Helina vicina,,Helina,,vicina,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJN7,5069120
+B245:2:223,Helina suecica,,Helina,,suecica,,species,,B245:2,synonym,B245:2:222,Helina vicina,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJKD,5069121
+B245:2:224,Helina crinita,,Helina,,crinita,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJR7,5069385
+B245:2:225,Helina anceps,,Helina,,anceps,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,6098046
+B245:2:226,Helina protuberans,,Helina,,protuberans,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJGG,5069296
+B245:2:227,Helina allotalla,,Helina,,allotalla,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK9R,5069008
+B245:2:253,Helina flagripes,,Helina,,flagripes,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,6098049
+B245:2:229,Helina parcepilosa,,Helina,,parcepilosa,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,8427818
+B245:2:230,Helina qudarum,,Helina,,qudarum,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,8NQ6K,3255895
+B245:2:231,Anthomyia supera,,Anthomyia,,supera,,species,,B245:2,synonym,B245:2:230,Helina qudarum,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,5VDM6,1526770
+B245:2:232,Helina teste subsp. van,,Helina,,teste,van,subspecies,,B245:2,synonym,B245:2:230,Helina qudarum,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJSW,5068945
+B245:2:233,Helina calceata,,Helina,,calceata,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJP2,5068901
+B245:2:234,Helina intermedia,,Helina,,intermedia,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJSR,5069567
+B245:2:235,Helina arctata,,Helina,,arctata,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK9G,5068966
+B245:2:236,Helina setiventris,,Helina,,setiventris,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJHY,5069443
+B245:2:240,Helina duplaris,,Helina,,duplaris,,species,,B245:2,synonym,B245:2:239,Helina communis,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,6098043
+B245:2:238,Helina duplicata,,Helina,,duplicata,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,8C9MM,6098044
+B245:2:239,Helina communis,,Helina,,communis,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,11244572
+B245:2:240,Helina duplaris,,Helina,,duplaris,,species,,B245:2,synonym,B245:2:239,Helina communis,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,6098043
+B245:2:241,Helina obscurata,,Helina,,obscurata,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK7R,5069574
+B245:2:242,Helina impuncta,,Helina,,impuncta,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,88YQK,5069511
+B245:2:243,Helina quadrinotata,,Helina,,quadrinotata,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,8C9NL,5766914
+B245:2:244,Helina pertusa,,Helina,,pertusa,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK7M,5069144
+B245:2:245,Helina pulchella,,Helina,,pulchella,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJFZ,5069239
+B245:2:246,Helina abdominalis,,Helina,,abdominalis,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK9X,5069028
+B245:2:247,Helina lasiophthalma,,Helina,,lasiophthalma,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK4D,5068885
+B245:2:248,Helina pubescens,,Helina,,pubescens,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJGF,5069217
+B245:2:249,Helina concolor,,Helina,,concolor,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJPH,9781421
+B245:2:250,Helina pubiseta,,Helina,,pubiseta,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJGB,5068953
+B245:2:251,Helina denudata,,Helina,,denudata,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,11363417
+B245:2:252,Helina memnonipes,,Helina,,memnonipes,,species,,B245:2,synonym,B245:2:251,Helina denudata,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,8NQ6K,3255895
+B245:2:253,Helina flagripes,,Helina,,flagripes,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,6098049
+B245:2:254,Helina rothi,,Helina,,rothi,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJHD,5069152
+B245:2:255,Helina marmorata,,Helina,,marmorata,,species,,B245:2,synonym,B245:2:254,Helina rothi,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,11356835
+B245:2:256,Helina punctata,,Helina,,punctata,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJFV,5069213
+B245:2:257,Helina uliginosa,,Helina,,uliginosa,,species,,B245:2,synonym,B245:2:256,Helina punctata,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,6098039
+B245:2:258,Helina latitarsis,,Helina,,latitarsis,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK69,5068922
+B245:2:259,Helina dispar,,Helina,,dispar,,species,,B245:2,synonym,B245:2:258,Helina latitarsis,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,8NQ6K,3255895
+B245:2:260,Helina depuncta,,Helina,,depuncta,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK34,5069314
+B245:2:261,Helina quadrimaculella,,Helina,,quadrimaculella,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJFS,7198229
+B245:2:262,Helina quadrimaculata,,Helina,,quadrimaculata,,species,,B245:2,synonym,B245:2:261,Helina quadrimaculella,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,6098045
+B245:2:263,Helina cothurnata,,Helina,,cothurnata,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LJR6,5069208
+B245:2:264,Helina obscuripes,,Helina,,obscuripes,,species,,B245:2,synonym,B245:2:263,Helina cothurnata,,,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,,11330012
+B245:2:265,Helina maculipennis,,Helina,,maculipennis,,species,,B245:2,accepted,,,B245:2:218,Enoplopteryx,,,,,Muscidae,Phaoniinae,Helina,Enoplopteryx,Muscidae | Phaoniinae | Mydaeini | Helina | Enoplopteryx,6LK5L,5069305
+B245:2:266,Hebecnema,,,,,,genus,,B245:2,accepted,,,B245:2:194,Mydaeini,,,,,Muscidae,Phaoniinae,Hebecnema,,Muscidae | Phaoniinae | Mydaeini,62TV9,1531963
+B245:2:267,Hebecnema nigricolor,,Hebecnema,,nigricolor,,species,,B245:2,accepted,,,B245:2:266,Hebecnema,,,,,Muscidae,Phaoniinae,Hebecnema,,Muscidae | Phaoniinae | Mydaeini | Hebecnema,3JXG6,1531991
+B245:2:268,Hebecnema fumosa,,Hebecnema,,fumosa,,species,,B245:2,accepted,,,B245:2:266,Hebecnema,,,,,Muscidae,Phaoniinae,Hebecnema,,Muscidae | Phaoniinae | Mydaeini | Hebecnema,3JXFR,1532012
+B245:2:269,Hebecnema umbratica,,Hebecnema,,umbratica,,species,,B245:2,accepted,,,B245:2:266,Hebecnema,,,,,Muscidae,Phaoniinae,Hebecnema,,Muscidae | Phaoniinae | Mydaeini | Hebecnema,3JXGP,1531970
+B245:2:270,Hebecnema vespertina,,Hebecnema,,vespertina,,species,,B245:2,accepted,,,B245:2:266,Hebecnema,,,,,Muscidae,Phaoniinae,Hebecnema,,Muscidae | Phaoniinae | Mydaeini | Hebecnema,3JXGR,1532025
+B245:2:271,Hebecnema affinis,,Hebecnema,,affinis,,species,,B245:2,accepted,,,B245:2:266,Hebecnema,,,,,Muscidae,Phaoniinae,Hebecnema,,Muscidae | Phaoniinae | Mydaeini | Hebecnema,3JXFH,1532026
+B245:2:272,Limnophorini,,,,,,tribe,,B245:2,accepted,,,B245:2:39,Phaoniinae,,,,,Muscidae,Phaoniinae,,,Muscidae | Phaoniinae,8NL83,
+B245:2:273,Graphomya,,,,,,genus,,B245:2,accepted,,,B245:2:272,Limnophorini,,,,,Muscidae,Phaoniinae,Graphomya,,Muscidae | Phaoniinae | Limnophorini,4QVN,1524236
+B245:2:274,Graphomya picta,,Graphomya,,picta,,species,,B245:2,accepted,,,B245:2:273,Graphomya,,,,,Muscidae,Phaoniinae,Graphomya,,Muscidae | Phaoniinae | Limnophorini | Graphomya,,6098057
+B245:2:275,Graphomya maculata,,Graphomya,,maculata,,species,,B245:2,accepted,,,B245:2:273,Graphomya,,,,,Muscidae,Phaoniinae,Graphomya,,Muscidae | Phaoniinae | Limnophorini | Graphomya,6L564,1524265
+B245:2:283,Limnophora,,,,,,subgenus,,B245:2,accepted,,,B245:2:276,Limnophora,,,,,Muscidae,Phaoniinae,Limnophora,Limnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora,62YKV,
+B245:2:277,Calliophrys,,,,,,subgenus,,B245:2,accepted,,,B245:2:276,Limnophora,,,,,Muscidae,Phaoniinae,Limnophora,Calliophrys,Muscidae | Phaoniinae | Limnophorini | Limnophora,,
+B245:2:278,Limnophora riparia,,Limnophora,,riparia,,species,,B245:2,accepted,,,B245:2:277,Calliophrys,,,,,Muscidae,Phaoniinae,Limnophora,Calliophrys,Muscidae | Phaoniinae | Limnophorini | Limnophora | Calliophrys,6QCWW,1530131
+B245:2:279,Limnophora exuta,,Limnophora,,exuta,,species,,B245:2,accepted,,,B245:2:277,Calliophrys,,,,,Muscidae,Phaoniinae,Limnophora,Calliophrys,Muscidae | Phaoniinae | Limnophorini | Limnophora | Calliophrys,6QD6Z,1530140
+B245:2:280,Pseudolimnophora,,,,,,subgenus,,B245:2,accepted,,,B245:2:276,Limnophora,,,,,Muscidae,Phaoniinae,Limnophora,Pseudolimnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora,,
+B245:2:281,Limnophora triangula,,Limnophora,,triangula,,species,,B245:2,accepted,,,B245:2:280,Pseudolimnophora,,,,,Muscidae,Phaoniinae,Limnophora,Pseudolimnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora | Pseudolimnophora,72CYF,1530235
+B245:2:282,Limnophora nigripes,,Limnophora,,nigripes,,species,,B245:2,accepted,,,B245:2:280,Pseudolimnophora,,,,,Muscidae,Phaoniinae,Limnophora,Pseudolimnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora | Pseudolimnophora,72D86,1530245
+B245:2:283,Limnophora,,,,,,subgenus,,B245:2,accepted,,,B245:2:276,Limnophora,,,,,Muscidae,Phaoniinae,Limnophora,Limnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora,62YKV,
+B245:2:284,Limnophora tigrina,,Limnophora,,tigrina,,species,,B245:2,accepted,,,B245:2:283,Limnophora,,,,,Muscidae,Phaoniinae,Limnophora,Limnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora | Limnophora,72CYL,1530402
+B245:2:285,Limnophora notata,,Limnophora,,notata,,species,,B245:2,synonym,B245:2:284,Limnophora tigrina,,,,,,,Muscidae,Phaoniinae,Limnophora,Limnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora | Limnophora,,6098050
+B245:2:286,Limnophora maculosa,,Limnophora,,maculosa,,species,,B245:2,accepted,,,B245:2:283,Limnophora,,,,,Muscidae,Phaoniinae,Limnophora,Limnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora | Limnophora,72CWB,1530226
+B245:2:287,Limnophora scrupulosa,,Limnophora,,scrupulosa,,species,,B245:2,accepted,,,B245:2:283,Limnophora,,,,,Muscidae,Phaoniinae,Limnophora,Limnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora | Limnophora,72CX6,1530043
+B245:2:288,Limnophora olympiae,,Limnophora,,olympiae,,species,,B245:2,accepted,,,B245:2:283,Limnophora,,,,,Muscidae,Phaoniinae,Limnophora,Limnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora | Limnophora,6QD82,1530319
+B245:2:289,Limnophora exsurda,,Limnophora,,exsurda,,species,,B245:2,synonym,B245:2:288,Limnophora olympiae,,,,,,,Muscidae,Phaoniinae,Limnophora,Limnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora | Limnophora,,11294191
+B245:2:290,Limnophora uniseta,,Limnophora,,uniseta,,species,,B245:2,accepted,,,B245:2:283,Limnophora,,,,,Muscidae,Phaoniinae,Limnophora,Limnophora,Muscidae | Phaoniinae | Limnophorini | Limnophora | Limnophora,6QD9Z,1530104
+B245:2:291,Gymnodia,,,,,,genus,,B245:2,accepted,,,B245:2:272,Limnophorini,,,,,Muscidae,Phaoniinae,Gymnodia,,Muscidae | Phaoniinae | Limnophorini,4RTF,1531162
+B245:2:292,Gymnodia humilis,,Gymnodia,,humilis,,species,,B245:2,accepted,,,B245:2:291,Gymnodia,,,,,Muscidae,Phaoniinae,Gymnodia,,Muscidae | Phaoniinae | Limnophorini | Gymnodia,3HRM2,5070091
+B245:2:293,Gymnodia septemnotata,,Gymnodia,,septemnotata,,species,,B245:2,synonym,B245:2:292,Gymnodia humilis,,,,,,,Muscidae,Phaoniinae,Gymnodia,,Muscidae | Phaoniinae | Limnophorini | Gymnodia,4RTF,1531162
+B245:2:294,Neolimnophora,,,,,,genus,,B245:2,accepted,,,B245:2:272,Limnophorini,,,,,Muscidae,Phaoniinae,Neolimnophora,,Muscidae | Phaoniinae | Limnophorini,5ZTX,1529860
+B245:2:295,Neolimnophora maritima,,Neolimnophora,,maritima,,species,,B245:2,accepted,,,B245:2:294,Neolimnophora,,,,,Muscidae,Phaoniinae,Neolimnophora,,Muscidae | Phaoniinae | Limnophorini | Neolimnophora,6S7MP,1529863
+B245:2:296,Neolimnophora candicans,,Neolimnophora,,candicans,,species,,B245:2,synonym,B245:2:295,Neolimnophora maritima,,,,,,,Muscidae,Phaoniinae,Neolimnophora,,Muscidae | Phaoniinae | Limnophorini | Neolimnophora,,11282662
+B245:2:297,Neolimnophora virgo,,Neolimnophora,,virgo,,species,,B245:2,accepted,,,B245:2:294,Neolimnophora,,,,,Muscidae,Phaoniinae,Neolimnophora,,Muscidae | Phaoniinae | Limnophorini | Neolimnophora,747MP,1529861
+B245:2:301,Spilogona,,,,,,subgenus,,B245:2,accepted,,,B245:2:298,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona,7KZH,
+B245:2:299,Villeneuvia,,,,,,subgenus,,B245:2,accepted,,,B245:2:298,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Villeneuvia,Muscidae | Phaoniinae | Limnophorini | Spilogona,86TC,
+B245:2:300,Spilogona aestuum,,Spilogona,,aestuum,,species,,B245:2,accepted,,,B245:2:299,Villeneuvia,,,,,Muscidae,Phaoniinae,Spilogona,Villeneuvia,Muscidae | Phaoniinae | Limnophorini | Spilogona | Villeneuvia,7KZH,1532044
+B245:2:301,Spilogona,,,,,,subgenus,,B245:2,accepted,,,B245:2:298,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona,7KZH,
+B245:2:302,Spilogona litorea,,Spilogona,,litorea,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3WB,1532141
+B245:2:303,Spilogona denigrata,,Spilogona,,denigrata,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,6YZTB,1532346
+B245:2:304,Spilogona contractifrons,,Spilogona,,contractifrons,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3TR,1532232
+B245:2:305,Spilogona brunneisquama,,Spilogona,,brunneisquama,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3T2,1532063
+B245:2:306,Spilogona armipes subsp. stein,,Spilogona,,armipes,stein,subspecies,,B245:2,synonym,B245:2:305,Spilogona brunneisquama,,,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,7KZH,1532044
+B245:2:307,Spilogona alpica,,Spilogona,,alpica,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3S3,1532084
+B245:2:308,Spilogona triangulifera,,Spilogona,,triangulifera,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3ZZ,1532464
+B245:2:309,Spilogona longipes,,Spilogona,,longipes,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,6YZX2,1532480
+B245:2:310,Spilogona surda,,Spilogona,,surda,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3ZJ,1532088
+B245:2:311,Spilogona baltica,,Spilogona,,baltica,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3SM,1532460
+B245:2:312,Spilogona fumipennis,,Spilogona,,fumipennis,,species,,B245:2,synonym,B245:2:311,Spilogona baltica,,,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,7KZH,1532044
+B245:2:313,Spilogona griseola,,Spilogona,,griseola,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3V9,1532171
+B245:2:314,Spilogona compuncta,,Spilogona,,compuncta,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,,11304205
+B245:2:315,Spilogona depressiuscula,,Spilogona,,depressiuscula,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,6YZTH,1532326
+B245:2:316,Spilogona meadei,,Spilogona,,meadei,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3WN,1532273
+B245:2:321,Spilogona trianguligera,,Spilogona,,trianguligera,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,8F4J9,4518614
+B245:2:318,Spilogona curata,,Spilogona,,curata,,species,,B245:2,synonym,B245:2:316,Spilogona meadei,,,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,,8754298
+B245:2:319,Spilogona septemnotata,,Spilogona,,septemnotata,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3YR,1532558
+B245:2:320,Spilogona mundula,,Spilogona,,mundula,,species,,B245:2,synonym,B245:2:319,Spilogona septemnotata,,,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,,11277897
+B245:2:321,Spilogona trianguligera,,Spilogona,,trianguligera,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,8F4J9,4518614
+B245:2:322,Spilogona insularis,,Spilogona,,insularis,,species,,B245:2,synonym,B245:2:321,Spilogona trianguligera,,,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3VR,9769110
+B245:2:323,Spilogona vana,,Spilogona,,vana,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,,6098059
+B245:2:324,Spilogona nupta,,Spilogona,,nupta,,species,,B245:2,synonym,B245:2:323,Spilogona vana,,,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,,6098060
+B245:2:325,Spilogona marina,,Spilogona,,marina,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3WL,1532252
+B245:2:326,Spilogona aerea,,Spilogona,,aerea,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3RT,1532174
+B245:2:327,Spilogona solitariana,,Spilogona,,solitariana,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3Z4,1532495
+B245:2:328,Spilogona solitaria,,Spilogona,,solitaria,,species,,B245:2,synonym,B245:2:327,Spilogona solitariana,,,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,,11232651
+B245:2:329,Spilogona biseriata,,Spilogona,,biseriata,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3SS,1532156
+B245:2:330,Spilogona veterrima,,Spilogona,,veterrima,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z42F,1532132
+B245:2:331,Spilogona scutulata,,Spilogona,,scutulata,,species,,B245:2,accepted,,,B245:2:301,Spilogona,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,4Z3YH,1532541
+B245:2:332,Spilogona signata,,Spilogona,,signata,,species,,B245:2,synonym,B245:2:331,Spilogona scutulata,,,,,,,Muscidae,Phaoniinae,Spilogona,Spilogona,Muscidae | Phaoniinae | Limnophorini | Spilogona | Spilogona,,11344758
+B245:2:333,Coenosilnae,,,,,,subfamily,,B245:2,accepted,,,B245:2:1,Muscidae,,,,,Muscidae,Coenosilnae,,,Muscidae,,
+B245:2:334,Orchisisa,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Orchisisa,,Muscidae | Coenosilnae,,
+B245:2:335,Orchisisa costata,,Orchisisa,,costata,,species,,B245:2,accepted,,,B245:2:334,Orchisisa,,,,,Muscidae,Coenosilnae,Orchisisa,,Muscidae | Coenosilnae | Orchisisa,6ST9Z,1529847
+B245:2:336,Lispocephala,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae,5FDY,8517630
+B245:2:337,Lispocephala rubricornis,,Lispocephala,,rubricornis,,species,,B245:2,accepted,,,B245:2:336,Lispocephala,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,,4518581
+B245:2:338,Lispocephala verna,,Lispocephala,,verna,,species,,B245:2,accepted,,,B245:2:336,Lispocephala,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,8CMVV,4518583
+B245:2:339,Lispocephala brachialis,,Lispocephala,,brachialis,,species,,B245:2,accepted,,,B245:2:336,Lispocephala,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,8CMTV,4518580
+B245:2:340,Lispocephala erythrocera,,Lispocephala,,erythrocera,,species,,B245:2,accepted,,,B245:2:336,Lispocephala,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,,4518585
+B245:2:341,Lispocephala spuria,,Lispocephala,,spuria,,species,,B245:2,accepted,,,B245:2:336,Lispocephala,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,,4518586
+B245:2:342,Lispocephala vitripennis,,Lispocephala,,vitripennis,,species,,B245:2,synonym,B245:2:341,Lispocephala spuria,,,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,6QJBH,1523986
+B245:2:343,Lispocephala serena,,Lispocephala,,serena,,species,,B245:2,synonym,B245:2:341,Lispocephala spuria,,,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,6QJB2,1523987
+B245:2:344,Lispocephala alma,,Lispocephala,,alma,,species,,B245:2,accepted,,,B245:2:336,Lispocephala,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,,4518584
+B245:2:345,Lispocephala ungulata,,Lispocephala,,ungulata,,species,,B245:2,synonym,B245:2:344,Lispocephala alma,,,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,,4518579
+B245:2:346,Lispocephala falculata,,Lispocephala,,falculata,,species,,B245:2,accepted,,,B245:2:336,Lispocephala,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,8CMV2,1524008
+B245:2:347,Lispocephala pallipalpis,,Lispocephala,,pallipalpis,,species,,B245:2,accepted,,,B245:2:336,Lispocephala,,,,,Muscidae,Coenosilnae,Lispocephala,,Muscidae | Coenosilnae | Lispocephala,,4518577
+B245:2:348,Limnospila,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Limnospila,,Muscidae | Coenosilnae,62YM2,1529888
+B245:2:349,Limnospila albifrons,,Limnospila,,albifrons,,species,,B245:2,accepted,,,B245:2:348,Limnospila,,,,,Muscidae,Coenosilnae,Limnospila,,Muscidae | Coenosilnae | Limnospila,6QCMW,1529889
+B245:2:350,Pseudocoenosia,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Pseudocoenosia,,Muscidae | Coenosilnae,6ZPF,1531934
+B245:2:351,Pseudocoenosia abnormis,,Pseudocoenosia,,abnormis,,species,,B245:2,accepted,,,B245:2:350,Pseudocoenosia,,,,,Muscidae,Coenosilnae,Pseudocoenosia,,Muscidae | Coenosilnae | Pseudocoenosia,6WF5R,1531938
+B245:2:352,Pseudocoenosia coenosiosoma,,Pseudocoenosia,,coenosiosoma,,species,,B245:2,synonym,B245:2:351,Pseudocoenosia abnormis,,,,,,,Muscidae,Coenosilnae,Pseudocoenosia,,Muscidae | Coenosilnae | Pseudocoenosia,6ZPF,1531934
+B245:2:353,Pseudocoenosia paracoenosia,,Pseudocoenosia,,paracoenosia,,species,,B245:2,synonym,B245:2:351,Pseudocoenosia abnormis,,,,,,,Muscidae,Coenosilnae,Pseudocoenosia,,Muscidae | Coenosilnae | Pseudocoenosia,6ZPF,1531934
+B245:2:354,Pseudocoenosia solitaria,,Pseudocoenosia,,solitaria,,species,,B245:2,accepted,,,B245:2:350,Pseudocoenosia,,,,,Muscidae,Coenosilnae,Pseudocoenosia,,Muscidae | Coenosilnae | Pseudocoenosia,78F66,1531939
+B245:2:355,Pseudocoenosia longisquama,,Pseudocoenosia,,longisquama,,species,,B245:2,synonym,B245:2:354,Pseudocoenosia solitaria,,,,,,,Muscidae,Coenosilnae,Pseudocoenosia,,Muscidae | Coenosilnae | Pseudocoenosia,6ZPF,1531934
+B245:2:356,Pseudocoenosia longicauda,,Pseudocoenosia,,longicauda,,species,,B245:2,synonym,B245:2:354,Pseudocoenosia solitaria,,,,,,,Muscidae,Coenosilnae,Pseudocoenosia,,Muscidae | Coenosilnae | Pseudocoenosia,,11239998
+B245:2:357,Schoenomyza,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Schoenomyza,,Muscidae | Coenosilnae,643F4,1527557
+B245:2:358,Schoenomyza litorella,,Schoenomyza,,litorella,,species,,B245:2,accepted,,,B245:2:357,Schoenomyza,,,,,Muscidae,Coenosilnae,Schoenomyza,,Muscidae | Coenosilnae | Schoenomyza,6Y94L,1527560
+B245:2:359,Spanochaeta,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Spanochaeta,,Muscidae | Coenosilnae,7JXR,1524561
+B245:2:360,Spanochaeta von,,Spanochaeta,,von,,species,,B245:2,accepted,,,B245:2:359,Spanochaeta,,,,,Muscidae,Coenosilnae,Spanochaeta,,Muscidae | Coenosilnae | Spanochaeta,7JXR,1524561
+B245:2:361,Macrorochis,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Macrorochis,,Muscidae | Coenosilnae,,
+B245:2:362,Macrorochis meditata,,Macrorochis,,meditata,,species,,B245:2,accepted,,,B245:2:361,Macrorochis,,,,,Muscidae,Coenosilnae,Macrorochis,,Muscidae | Coenosilnae | Macrorochis,3X97P,1529940
+B245:2:363,Dexiopsis,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Dexiopsis,,Muscidae | Coenosilnae,89Q2P,1529230
+B245:2:364,Dexiopsis lacteipennis,,Dexiopsis,,lacteipennis,,species,,B245:2,accepted,,,B245:2:363,Dexiopsis,,,,,Muscidae,Coenosilnae,Dexiopsis,,Muscidae | Coenosilnae | Dexiopsis,,6098075
+B245:2:365,Dexiopsis lacustris,,Dexiopsis,,lacustris,,species,,B245:2,accepted,,,B245:2:363,Dexiopsis,,,,,Muscidae,Coenosilnae,Dexiopsis,,Muscidae | Coenosilnae | Dexiopsis,8BRSL,1528642
+B245:2:366,Dexiopsis litoralis,,Dexiopsis,,litoralis,,species,,B245:2,accepted,,,B245:2:363,Dexiopsis,,,,,Muscidae,Coenosilnae,Dexiopsis,,Muscidae | Coenosilnae | Dexiopsis,,6098077
+B245:2:367,Dexiopsis minutalis,,Dexiopsis,,minutalis,,species,,B245:2,accepted,,,B245:2:363,Dexiopsis,,,,,Muscidae,Coenosilnae,Dexiopsis,,Muscidae | Coenosilnae | Dexiopsis,,6098074
+B245:2:368,Allognota,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Allognota,,Muscidae | Coenosilnae,,1529203
+B245:2:369,Allognota agromyzina,,Allognota,,agromyzina,,species,,B245:2,accepted,,,B245:2:368,Allognota,,,,,Muscidae,Coenosilnae,Allognota,,Muscidae | Coenosilnae | Allognota,,11274090
+B245:2:370,Coenosia,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae,8NNBH,1528039
+B245:2:371,Coenosia intermedia,,Coenosia,,intermedia,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV4D,1528636
+B245:2:372,Coenosia means,,Coenosia,,means,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV5S,1528488
+B245:2:373,Coenosia distinguens,,Coenosia,,distinguens,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZKVT,1528193
+B245:2:374,Coenosia bilineella,,Coenosia,,bilineella,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZL7F,1528322
+B245:2:375,Coenosia brevisquama,,Coenosia,,brevisquama,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZL7M,1528296
+B245:2:376,Coenosia trilineella,,Coenosia,,trilineella,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WVCK,1528629
+B245:2:377,Coenosia pedella,,Coenosia,,pedella,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV8D,1528598
+B245:2:378,Coenosia femoralis,,Coenosia,,femoralis,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZL7S,1528341
+B245:2:379,Coenosia geniculata,,Coenosia,,geniculata,,species,,B245:2,synonym,B245:2:378,Coenosia femoralis,,,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,,6098072
+B245:2:380,Coenosia perpusilla,,Coenosia,,perpusilla,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV8G,1528211
+B245:2:381,Coenosia pumilla,,Coenosia,,pumilla,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV98,1527257
+B245:2:382,Coenosia paludis,,Coenosia,,paludis,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV87,1528282
+B245:2:383,Coenosia rufipalpis,,Coenosia,,rufipalpis,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV9Y,1528129
+B245:2:384,Coenosia flavicauda,,Coenosia,,flavicauda,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,8BJNB,11289488
+B245:2:385,Coenosia lineatipes,,Coenosia,,lineatipes,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,,4518591
+B245:2:386,Coenosia sexnotata,,Coenosia,,sexnotata,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZKX2,1528101
+B245:2:387,Coenosia pudorosa,,Coenosia,,pudorosa,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV96,1528167
+B245:2:388,Coenosia stigmatica,,Coenosia,,stigmatica,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZL95,1528742
+B245:2:389,Coenosia tricolor,,Coenosia,,tricolor,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WVCH,1528717
+B245:2:390,Coenosia infantula,,Coenosia,,infantula,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV47,1528647
+B245:2:391,Coenosia alleni,,Coenosia,,alleni,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZL4V,1528710
+B245:2:392,Coenosia dubiosa,,Coenosia,,dubiosa,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZKVV,1528184
+B245:2:393,Coenosia dubia,,Coenosia,,dubia,,species,,B245:2,synonym,B245:2:392,Coenosia dubiosa,,,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZKW6,7727826
+B245:2:394,Coenosia albatella,,Coenosia,,albatella,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,,6098071
+B245:2:395,Coenosia pulicaria,,Coenosia,,pulicaria,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV97,1528527
+B245:2:396,Coenosia antennata,,Coenosia,,antennata,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZL6L,1528453
+B245:2:397,Coenosia salinarum,,Coenosia,,salinarum,,species,,B245:2,synonym,B245:2:396,Coenosia antennata,,,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,5ZL9M,1528454
+B245:2:398,Coenosia vibrissata,,Coenosia,,vibrissata,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WVD6,1528612
+B245:2:399,Coenosia verralli,,Coenosia,,verralli,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WVD4,1528387
+B245:2:400,Coenosia steini,,Coenosia,,steini,,species,,B245:2,synonym,B245:2:399,Coenosia verralli,,,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,,10954141
+B245:2:401,Coenosia pygmaea,,Coenosia,,pygmaea,,species,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,,Muscidae | Coenosilnae | Coenosia,WV9H,1528149
+B245:2:402,Oplogaster,,,,,,subgenus,,B245:2,accepted,,,B245:2:370,Coenosia,,,,,Muscidae,Coenosilnae,Coenosia,Oplogaster,Muscidae | Coenosilnae | Coenosia,,
+B245:2:403,Coenosia mollicula,,Coenosia,,mollicula,,species,,B245:2,accepted,,,B245:2:402,Oplogaster,,,,,Muscidae,Coenosilnae,Coenosia,Oplogaster,Muscidae | Coenosilnae | Coenosia | Oplogaster,WV6C,1528247
+B245:2:404,Cericea,,,,,,genus,,B245:2,accepted,,,B245:2:333,Coenosilnae,,,,,Muscidae,Coenosilnae,Cericea,,Muscidae | Coenosilnae,,
+B245:2:405,Caricea,,,,,,subgenus,,B245:2,accepted,,,B245:2:404,Cericea,,,,,Muscidae,Coenosilnae,Cericea,Caricea,Muscidae | Coenosilnae | Cericea,3HJM,
+B245:2:406,Cericea tigrina,,Cericea,,tigrina,,species,,B245:2,accepted,,,B245:2:405,Caricea,,,,,Muscidae,Coenosilnae,Cericea,Caricea,Muscidae | Coenosilnae | Cericea | Caricea,,11365920
+B245:2:407,Cericea humilis,,Cericea,,humilis,,species,,B245:2,accepted,,,B245:2:405,Caricea,,,,,Muscidae,Coenosilnae,Cericea,Caricea,Muscidae | Coenosilnae | Cericea | Caricea,,
+B245:2:408,Lamprocoenosia,,,,,,subgenus,,B245:2,accepted,,,B245:2:404,Cericea,,,,,Muscidae,Coenosilnae,Cericea,Lamprocoenosia,Muscidae | Coenosilnae | Cericea,,
+B245:2:409,Cericea atra,,Cericea,,atra,,species,,B245:2,accepted,,,B245:2:408,Lamprocoenosia,,,,,Muscidae,Coenosilnae,Cericea,Lamprocoenosia,Muscidae | Coenosilnae | Cericea | Lamprocoenosia,,
+B245:2:410,Lispinae,,,,,,subfamily,,B245:2,accepted,,,B245:2:1,Muscidae,,,,,Muscidae,Lispinae,,,Muscidae,,
+B245:2:411,Lispe,,,,,,genus,,B245:2,accepted,,,B245:2:410,Lispinae,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae,5FDS,1527221
+B245:2:412,Lispe caesia,,Lispe,,caesia,,species,,B245:2,accepted,,,B245:2:411,Lispe,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,3VDX2,5069703
+B245:2:413,Lispe loewi,,Lispe,,loewi,,species,,B245:2,accepted,,,B245:2:411,Lispe,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,3VDZ7,5069738
+B245:2:414,Lispe litorea,,Lispe,,litorea,,species,,B245:2,accepted,,,B245:2:411,Lispe,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,3VDZ6,5069754
+B245:2:415,Lispe pilosa,,Lispe,,pilosa,,species,,B245:2,synonym,B245:2:414,Lispe litorea,,,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,6QK6G,5069756
+B245:2:416,Lispe hydromyzina,,Lispe,,hydromyzina,,species,,B245:2,accepted,,,B245:2:411,Lispe,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,3VDYJ,5069589
+B245:2:417,Lispe uliginosa,,Lispe,,uliginosa,,species,,B245:2,accepted,,,B245:2:411,Lispe,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,6QK86,5069623
+B245:2:418,Lispe pygmaea,,Lispe,,pygmaea,,species,,B245:2,accepted,,,B245:2:411,Lispe,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,72JWG,5069728
+B245:2:419,Lispe tentaculata,,Lispe,,tentaculata,,species,,B245:2,accepted,,,B245:2:411,Lispe,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,72JVX,5069632
+B245:2:420,Lispe consanguinea,,Lispe,,consanguinea,,species,,B245:2,accepted,,,B245:2:411,Lispe,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,3VDXC,5069740
+B245:2:421,Lispe nana,,Lispe,,nana,,species,,B245:2,accepted,,,B245:2:411,Lispe,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,6QK6Q,5069788
+B245:2:422,Lispe pulchella,,Lispe,,pulchella,,species,,B245:2,synonym,B245:2:421,Lispe nana,,,,,,,Muscidae,Lispinae,Lispe,,Muscidae | Lispinae | Lispe,72K8F,5069790
+B245:2:423,Fanniinae,,,,,,subfamily,,B245:2,accepted,,,B245:2:1,Muscidae,,,,,Muscidae,Fanniinae,,,Muscidae,,
+B245:2:424,Fannia,,,,,,genus,,B245:2,accepted,,,B245:2:423,Fanniinae,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae,4JFP,1525917
+B245:2:425,Fannia canicularis,,Fannia,,canicularis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP79,5094693
+B245:2:426,Fannia hirundinis,,Fannia,,hirundinis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP3D,5094800
+B245:2:427,Fannia subpubescens,,Fannia,,subpubescens,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPXC,5094691
+B245:2:428,Fannia difficilis,,Fannia,,difficilis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP9M,5094539
+B245:2:429,Fannia clara,,Fannia,,clara,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP8Y,5094598
+B245:2:430,Fannia speciosa,,Fannia,,speciosa,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HQ9Q,5094615
+B245:2:431,Fannia glaucescens,,Fannia,,glaucescens,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP3S,5094741
+B245:2:432,Fannia aequilineata,,Fannia,,aequilineata,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP6T,5094509
+B245:2:433,Fannia latipalpis,,Fannia,,latipalpis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP4M,5094673
+B245:2:434,Fannia vespertilionis,,Fannia,,vespertilionis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPYH,5094641
+B245:2:435,Fannia scalaris,,Fannia,,scalaris,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,8894L,5094605
+B245:2:436,Fannia incisurata,,Fannia,,incisurata,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP39,5094665
+B245:2:437,Fannia manicata,,Fannia,,manicata,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP66,5094490
+B245:2:438,Fannia monilis,,Fannia,,monilis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP5K,5094794
+B245:2:439,Fannia hamata,,Fannia,,hamata,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,,6098341
+B245:2:440,Fannia vesparia,,Fannia,,vesparia,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPYG,5094609
+B245:2:441,Fannia insignis,,Fannia,,insignis,,species,,B245:2,synonym,B245:2:440,Fannia vesparia,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,4JFP,1525917
+B245:2:442,Fannia fuscula,,Fannia,,fuscula,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP28,5094819
+B245:2:443,Fannia melania,,Fannia,,melania,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP67,5094811
+B245:2:444,Fannia ciliata,,Fannia,,ciliata,,species,,B245:2,synonym,B245:2:443,Fannia melania,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,,11276206
+B245:2:445,Fannia teste,,Fannia,,teste,,species,,B245:2,synonym,B245:2:443,Fannia melania,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,4JFP,1525917
+B245:2:446,Fannia coracina,,Fannia,,coracina,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP8P,5094619
+B245:2:447,Fannia subatripes,,Fannia,,subatripes,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HQ9D,5094549
+B245:2:448,Fannia atripes,,Fannia,,atripes,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP7R,5094470
+B245:2:449,Fannia ringdahlana,,Fannia,,ringdahlana,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPXT,5094679
+B245:2:451,Fannia umbrosa,,Fannia,,umbrosa,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPZ2,5094677
+B245:2:451,Fannia umbrosa,,Fannia,,umbrosa,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPZ2,5094677
+B245:2:452,Fannia subumbrosa,,Fannia,,subumbrosa,,species,,B245:2,synonym,B245:2:451,Fannia umbrosa,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HQ9H,5094678
+B245:2:455,Fannia postica,,Fannia,,postica,,species,,B245:2,synonym,B245:2:454,Fannia postica var. posticaria,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia | Fannia postica,6HQ8M,5094591
+B245:2:454,Fannia postica var. posticaria,,Fannia,,postica,posticaria,variety,,B245:2,accepted,,,B245:2:453,Fannia postica,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia | Fannia postica,6HPWN,5094592
+B245:2:455,Fannia postica,,Fannia,,postica,,species,,B245:2,synonym,B245:2:454,Fannia postica var. posticaria,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia | Fannia postica,6HQ8M,5094591
+B245:2:456,Fannia gotlandica,,Fannia,,gotlandica,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP3T,5094831
+B245:2:457,Fannia nidica,,Fannia,,nidica,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP58,5094654
+B245:2:458,Fannia umbratica,,Fannia,,umbratica,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPYQ,5094690
+B245:2:459,Fannia immutica,,Fannia,,immutica,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP2Z,5094676
+B245:2:460,Fannia mutica,,Fannia,,mutica,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,,6098338
+B245:2:461,Fannia armata,,Fannia,,armata,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP7Q,5094482
+B245:2:462,Fannia tuberculata,,Fannia,,tuberculata,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPYX,5094810
+B245:2:463,Fannia genualis,,Fannia,,genualis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP3P,5094755
+B245:2:464,Fannia metallipennis,,Fannia,,metallipennis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP65,5094832
+B245:2:465,Fannia kowarzi,,Fannia,,kowarzi,,species,,B245:2,synonym,B245:2:464,Fannia metallipennis,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,,11302500
+B245:2:466,Fannia hitriceps,,Fannia,,hitriceps,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,4JFP,1525917
+B245:2:467,Fannia novalis,,Fannia,,novalis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HQ8T,5094696
+B245:2:468,Fannia carbonaria,,Fannia,,carbonaria,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP96,5094681
+B245:2:469,Fannia norvegica,,Fannia,,norvegica,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPX5,5094732
+B245:2:470,Fannia pseudonorvegica,,Fannia,,pseudonorvegica,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HQ8H,5094529
+B245:2:471,Fannia coracula,,Fannia,,coracula,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP8Q,5094834
+B245:2:472,Fannia corvina,,Fannia,,corvina,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP92,5094603
+B245:2:473,Fannia halterata,,Fannia,,halterata,,species,,B245:2,synonym,B245:2:472,Fannia corvina,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP43,5094604
+B245:2:474,Fannia polychaeta,,Fannia,,polychaeta,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPWP,5094635
+B245:2:475,Fannia minutipalpis,,Fannia,,minutipalpis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP5M,5094815
+B245:2:476,Fannia nitida,,Fannia,,nitida,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,,8646150
+B245:2:477,Fannia atra,,Fannia,,atra,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP82,5094785
+B245:2:478,Fannia carteri,,Fannia,,carteri,,species,,B245:2,synonym,B245:2:477,Fannia atra,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP93,5094787
+B245:2:479,Fannia femorata,,Fannia,,femorata,,species,,B245:2,synonym,B245:2:477,Fannia atra,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP2Q,5094786
+B245:2:480,Fannia rondanii,,Fannia,,rondanii,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPXR,5094582
+B245:2:481,Fannia aerea,,Fannia,,aerea,,species,,B245:2,synonym,B245:2:480,Fannia rondanii,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,,11234614
+B245:2:482,Fannia parva,,Fannia,,parva,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HQ99,5094669
+B245:2:483,Fannia verralli,,Fannia,,verralli,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPYJ,11399049
+B245:2:484,Fannia pretiosa,,Fannia,,pretiosa,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,,6098342
+B245:2:485,Fannia mollissima,,Fannia,,mollissima,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP5N,5094632
+B245:2:486,Fannia coelomyia,,Fannia,,coelomyia,,species,,B245:2,synonym,B245:2:485,Fannia mollissima,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,4JFP,1525917
+B245:2:487,Fannia sociella,,Fannia,,sociella,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPXP,5094759
+B245:2:488,Fannia ornata,,Fannia,,ornata,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPX3,5094728
+B245:2:489,Fannia pallitibia,,Fannia,,pallitibia,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPWW,5094683
+B245:2:490,Fannia serena,,Fannia,,serena,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HQ9Y,5094809
+B245:2:491,Fannia subsimilis,,Fannia,,subsimilis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPXH,5094638
+B245:2:492,Fannia similis,,Fannia,,similis,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HQ9L,5094562
+B245:2:493,Fannia collini,,Fannia,,collini,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HP98,5094580
+B245:2:494,Fannia nigra,,Fannia,,nigra,,species,,B245:2,accepted,,,B245:2:424,Fannia,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HPWS,5094712
+B245:2:495,Fannia smolandica,,Fannia,,smolandica,,species,,B245:2,synonym,B245:2:494,Fannia nigra,,,,,,,Muscidae,Fanniinae,Fannia,,Muscidae | Fanniinae | Fannia,6HQ9J,5094748
+B245:2:496,Piezura,,,,,,genus,,B245:2,accepted,,,B245:2:423,Fanniinae,,,,,Muscidae,Fanniinae,Piezura,,Muscidae | Fanniinae,8NWWJ,1674647
+B245:2:497,Piezura graminicola,,Piezura,,graminicola,,species,,B245:2,accepted,,,B245:2:496,Piezura,,,,,Muscidae,Fanniinae,Piezura,,Muscidae | Fanniinae | Piezura,4HS8R,1674655
+B245:2:498,Piezura pardalina,,Piezura,,pardalina,,species,,B245:2,synonym,B245:2:497,Piezura graminicola,,,,,,,Muscidae,Fanniinae,Piezura,,Muscidae | Fanniinae | Piezura,8BG98,1674649
+B245:2:499,Piezura miki,,Piezura,,miki,,species,,B245:2,accepted,,,B245:2:496,Piezura,,,,,Muscidae,Fanniinae,Piezura,,Muscidae | Fanniinae | Piezura,8NWWJ,1674647
+B245:2:500,Platycoenosia miki,,Platycoenosia,,miki,,species,,B245:2,synonym,B245:2:499,Piezura miki,,,,,,,Muscidae,Fanniinae,Piezura,,Muscidae | Fanniinae | Piezura,,1674665

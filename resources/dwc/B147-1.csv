@@ -1,0 +1,65 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B147:1:1,Plecoptera,,,,,,order,,B147:1,accepted,,,,,,,,Plecoptera,,,,,,8MP8Q,1772826
+B147:1:2,Taeniopterygidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Taeniopterygidae,,,,Plecoptera,8MPKC,2994
+B147:1:3,Taeniopteryx,,,,,,genus,,B147:1,accepted,,,B147:1:2,Taeniopterygidae,,,,Plecoptera,Taeniopterygidae,,Taeniopteryx,,Plecoptera | Taeniopterygidae,8MVF5,2001548
+B147:1:4,Taeniopteryx nebulosa (L.),(L.),Taeniopteryx,,nebulosa,,species,,B147:1,accepted,,,B147:1:3,Taeniopteryx,,,,Plecoptera,Taeniopterygidae,,Taeniopteryx,,Plecoptera | Taeniopterygidae | Taeniopteryx,54HQQ,5151773
+B147:1:5,Rhabdiopteryx,,,,,,genus,,B147:1,accepted,,,B147:1:2,Taeniopterygidae,,,,Plecoptera,Taeniopterygidae,,Rhabdiopteryx,,Plecoptera | Taeniopterygidae,8MTXT,2001441
+B147:1:6,Rhabdiopteryx anglica Kimmins,Kimmins,Rhabdiopteryx,,anglica,,species,,B147:1,accepted,,,B147:1:5,Rhabdiopteryx,,,,Plecoptera,Taeniopterygidae,,Rhabdiopteryx,,Plecoptera | Taeniopterygidae | Rhabdiopteryx,78RXM,2001447
+B147:1:7,Brachyptera Newport,Newport,,,,,genus,,B147:1,accepted,,,B147:1:2,Taeniopterygidae,,,,Plecoptera,Taeniopterygidae,,Brachyptera,,Plecoptera | Taeniopterygidae,8MQ9N,2001466
+B147:1:8,Brachyptera putata (Newman),(Newman),Brachyptera,,putata,,species,,B147:1,accepted,,,B147:1:7,Brachyptera Newport,,,,Plecoptera,Taeniopterygidae,,Brachyptera,,Plecoptera | Taeniopterygidae | Brachyptera,MYVW,2001517
+B147:1:9,Brachyptera risi (Morton),(Morton),Brachyptera,,risi,,species,,B147:1,accepted,,,B147:1:7,Brachyptera Newport,,,,Plecoptera,Taeniopterygidae,,Brachyptera,,Plecoptera | Taeniopterygidae | Brachyptera,MYVX,2001474
+B147:1:10,Nemouridae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Nemouridae,,,,Plecoptera,8MPGQ,2997
+B147:1:11,Protonemura Kempny,Kempny,,,,,genus,,B147:1,accepted,,,B147:1:10,Nemouridae,,,,Plecoptera,Nemouridae,,Protonemura,,Plecoptera | Nemouridae,8MTRH,2003179
+B147:1:12,Protonemura meyeri (Pictet),(Pictet),Protonemura,,meyeri,,species,,B147:1,accepted,,,B147:1:11,Protonemura Kempny,,,,Plecoptera,Nemouridae,,Protonemura,,Plecoptera | Nemouridae | Protonemura,4N6DG,2003206
+B147:1:13,Protonemura montana Kimmins,Kimmins,Protonemura,,montana,,species,,B147:1,accepted,,,B147:1:11,Protonemura Kempny,,,,Plecoptera,Nemouridae,,Protonemura,,Plecoptera | Nemouridae | Protonemura,4N6DN,2003262
+B147:1:14,Protonemura praecox (Morton),(Morton),Protonemura,,praecox,,species,,B147:1,accepted,,,B147:1:11,Protonemura Kempny,,,,Plecoptera,Nemouridae,,Protonemura,,Plecoptera | Nemouridae | Protonemura,6VYHL,2003270
+B147:1:15,Amphinemura Ris.,Ris.,,,,,genus,,B147:1,accepted,,,B147:1:10,Nemouridae,,,,Plecoptera,Nemouridae,,Amphinemura,,Plecoptera | Nemouridae,8MPZP,2002863
+B147:1:16,Amphinemura sulcicollis Steph.,Steph.,Amphinemura,,sulcicollis,,species,,B147:1,accepted,,,B147:1:15,Amphinemura Ris.,,,,Plecoptera,Nemouridae,,Amphinemura,,Plecoptera | Nemouridae | Amphinemura,D3XH,2002879
+B147:1:17,Amphinemura cinerea (Olivier),(Olivier),Amphinemura,,cinerea,,species,,B147:1,synonym,B147:1:16,Amphinemura sulcicollis Steph.,,,,,,Plecoptera,Nemouridae,,Amphinemura,,Plecoptera | Nemouridae | Amphinemura,,11282902
+B147:1:18,Amphinemura standfussi Ris.,Ris.,Amphinemura,,standfussi,,species,,B147:1,accepted,,,B147:1:15,Amphinemura Ris.,,,,Plecoptera,Nemouridae,,Amphinemura,,Plecoptera | Nemouridae | Amphinemura,66G66,2003049
+B147:1:19,Nemoura Pictet,Pictet,,,,,genus,,B147:1,accepted,,,B147:1:10,Nemouridae,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae,8MQT5,2001440
+B147:1:20,Nemoura cinerea Retz,Retz,Nemoura,,cinerea,,species,,B147:1,accepted,,,B147:1:19,Nemoura Pictet,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae | Nemoura,469PR,2002881
+B147:1:21,Nemoura variegata (Olivier),(Olivier),Nemoura,,variegata,,species,,B147:1,synonym,B147:1:20,Nemoura cinerea Retz,,,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae | Nemoura,469YP,8171636
+B147:1:22,Nemoura dubitans Morton,Morton,Nemoura,,dubitans,,species,,B147:1,accepted,,,B147:1:19,Nemoura Pictet,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae | Nemoura,469QN,2003497
+B147:1:23,Nemoura erratica Claassen,Claassen,Nemoura,,erratica,,species,,B147:1,accepted,,,B147:1:19,Nemoura Pictet,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae | Nemoura,469QT,2003532
+B147:1:24,Nemoura cambrica Stephens,Stephens,Nemoura,,cambrica,,species,,B147:1,accepted,,,B147:1:19,Nemoura Pictet,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae | Nemoura,469PB,2003529
+B147:1:25,Nemoura avicularis Morton,Morton,Nemoura,,avicularis,,species,,B147:1,accepted,,,B147:1:19,Nemoura Pictet,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae | Nemoura,469NK,2003559
+B147:1:26,Nemurella,,,,,,genus,,B147:1,accepted,,,B147:1:10,Nemouridae,,,,Plecoptera,Nemouridae,,Nemurella,,Plecoptera | Nemouridae,8MSZY,2002690
+B147:1:27,Nemurella inconspicua (Pictet),(Pictet),Nemurella,,inconspicua,,species,,B147:1,accepted,,,B147:1:26,Nemurella,,,,Plecoptera,Nemouridae,,Nemurella,,Plecoptera | Nemouridae | Nemurella,,11269312
+B147:1:28,Leuctridae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Leuctridae,,,,Plecoptera,8MPFF,2998
+B147:1:29,Leuctra Stephens,Stephens,,,,,genus,,B147:1,accepted,,,B147:1:28,Leuctridae,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae,8MRN5,10278948
+B147:1:30,Leuctra geniculata Stephens,Stephens,Leuctra,,geniculata,,species,,B147:1,accepted,,,B147:1:29,Leuctra Stephens,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae | Leuctra,6PVS3,2001671
+B147:1:31,Leuctra inermis Kempny,Kempny,Leuctra,,inermis,,species,,B147:1,accepted,,,B147:1:29,Leuctra Stephens,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae | Leuctra,6PW3P,2001864
+B147:1:32,Leuctra hippopus Kempny,Kempny,Leuctra,,hippopus,,species,,B147:1,accepted,,,B147:1:29,Leuctra Stephens,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae | Leuctra,6Q83S,2001976
+B147:1:33,Leuctra nigra (Olivier),(Olivier),Leuctra,,nigra,,species,,B147:1,accepted,,,B147:1:29,Leuctra Stephens,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae | Leuctra,7283H,2001985
+B147:1:34,Leuctra fusca L.,L.,Leuctra,,fusca,,species,,B147:1,accepted,,,B147:1:29,Leuctra Stephens,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae | Leuctra,6Q7S6,2001954
+B147:1:35,Leuctra fusciventris Stephens,Stephens,Leuctra,,fusciventris,,species,,B147:1,synonym,B147:1:34,Leuctra fusca L.,,,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae | Leuctra,,2001960
+B147:1:36,Leuctra moselyi Morton,Morton,Leuctra,,moselyi,,species,,B147:1,accepted,,,B147:1:29,Leuctra Stephens,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae | Leuctra,6Q7RH,2001929
+B147:1:37,Capniidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Capniidae,,,,Plecoptera,8MPBL,9386
+B147:1:38,Capnia Pictet,Pictet,,,,,genus,,B147:1,accepted,,,B147:1:37,Capniidae,,,,Plecoptera,Capniidae,,Capnia,,Plecoptera | Capniidae,8MQD6,2002304
+B147:1:39,Capnia bifrons Newman,Newman,Capnia,,bifrons,,species,,B147:1,accepted,,,B147:1:38,Capnia Pictet,,,,Plecoptera,Capniidae,,Capnia,,Plecoptera | Capniidae | Capnia,QQPJ,5151945
+B147:1:40,Capnia nigra Morton,Morton,Capnia,,nigra,,species,,B147:1,synonym,B147:1:39,Capnia bifrons Newman,,,,,,Plecoptera,Capniidae,,Capnia,,Plecoptera | Capniidae | Capnia,5X9KQ,5151939
+B147:1:41,Capnia atra Morton,Morton,Capnia,,atra,,species,,B147:1,accepted,,,B147:1:38,Capnia Pictet,,,,Plecoptera,Capniidae,,Capnia,,Plecoptera | Capniidae | Capnia,QQP7,5151888
+B147:1:42,Capnia vidua Klapalek,Klapalek,Capnia,,vidua,,species,,B147:1,accepted,,,B147:1:38,Capnia Pictet,,,,Plecoptera,Capniidae,,Capnia,,Plecoptera | Capniidae | Capnia,5X9JV,5151964
+B147:1:43,Perlidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Perlidae,,,,Plecoptera,8MPHF,7223
+B147:1:44,Perla Pictet,Pictet,,,,,genus,,B147:1,accepted,,,B147:1:43,Perlidae,,,,Plecoptera,Perlidae,,Perla,,Plecoptera | Perlidae,8MT7Z,2001220
+B147:1:45,Perla cephalotes Curtis,Curtis,Perla,,cephalotes,,species,,B147:1,accepted,,,B147:1:44,Perla Pictet,,,,Plecoptera,Perlidae,,Perla,,Plecoptera | Perlidae | Perla,6V5JR,5152223
+B147:1:46,Perla carlukiana Klapalek,Klapalek,Perla,,carlukiana,,species,,B147:1,accepted,,,B147:1:44,Perla Pictet,,,,Plecoptera,Perlidae,,Perla,,Plecoptera | Perlidae | Perla,4F68Q,5152265
+B147:1:47,Perlodidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Perlodidae,,,,Plecoptera,8MPHH,2996
+B147:1:48,Isogenus,,,,,,genus,,B147:1,accepted,,,B147:1:47,Perlodidae,,,,Plecoptera,Perlodidae,,Isogenus,,Plecoptera | Perlodidae,8MRFP,9757391
+B147:1:49,Isogenus nubecula Newman,Newman,Isogenus,,nubecula,,species,,B147:1,accepted,,,B147:1:48,Isogenus,,,,Plecoptera,Perlodidae,,Isogenus,,Plecoptera | Perlodidae | Isogenus,3Q8Y4,2004508
+B147:1:50,Perlodes,,,,,,genus,,B147:1,accepted,,,B147:1:47,Perlodidae,,,,Plecoptera,Perlodidae,,Perlodes,,Plecoptera | Perlodidae,8MTJD,2003960
+B147:1:51,Perlodes mortoni Klapalek,Klapalek,Perlodes,,mortoni,,species,,B147:1,accepted,,,B147:1:50,Perlodes,,,,Plecoptera,Perlodidae,,Perlodes,,Plecoptera | Perlodidae | Perlodes,4F6K7,6097284
+B147:1:52,"Diura Billberg, 1820","Billberg, 1820",,,,,genus,,B147:1,accepted,,,B147:1:47,Perlodidae,,,,Plecoptera,Perlodidae,,Diura,,Plecoptera | Perlodidae,8MQW7,5986713
+B147:1:53,Dictyopterygella,,,,,,genus,,B147:1,synonym,B147:1:52,"Diura Billberg, 1820",,,,,,Plecoptera,Perlodidae,,Dictyopterygella,,Plecoptera | Perlodidae,8NGWS,2004524
+B147:1:54,Diura bicaudata (L),(L),Diura,,bicaudata,,species,,B147:1,accepted,,,B147:1:52,"Diura Billberg, 1820",,,,Plecoptera,Perlodidae,,Diura,,Plecoptera | Perlodidae | Diura,36ZKW,5986716
+B147:1:55,Chloroperlidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Chloroperlidae,,,,Plecoptera,8MPBZ,9387
+B147:1:56,Chloroperla Newman,Newman,,,,,genus,,B147:1,accepted,,,B147:1:55,Chloroperlidae,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae,8MQHB,2001248
+B147:1:57,Chloroperla torrentium (Pictet),(Pictet),Chloroperla,,torrentium,,species,,B147:1,accepted,,,B147:1:56,Chloroperla Newman,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae | Chloroperla,8NHGV,2003844
+B147:1:58,Chloroperla tripunctata (Scopoli),(Scopoli),Chloroperla,,tripunctata,,species,,B147:1,accepted,,,B147:1:56,Chloroperla Newman,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae | Chloroperla,69XXH,2003916
+B147:1:59,Chloroperla apicalis Newman,Newman,Chloroperla,,apicalis,,species,,B147:1,accepted,,,B147:1:56,Chloroperla Newman,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae | Chloroperla,69Y8J,2003859
+B147:1:60,Isoperlidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Isoperlidae,,,,Plecoptera,8NH7G,4383016
+B147:1:61,Isoperla Banks,Banks,,,,,genus,,B147:1,accepted,,,B147:1:60,Isoperlidae,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae,8MRFY,2003678
+B147:1:62,Isoperla grammatica (Poda),(Poda),Isoperla,,grammatica,,species,,B147:1,accepted,,,B147:1:61,Isoperla Banks,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae | Isoperla,6MZZ4,2004039
+B147:1:63,Isoperla obscura (Zetterstedt),(Zetterstedt),Isoperla,,obscura,,species,,B147:1,accepted,,,B147:1:61,Isoperla Banks,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae | Isoperla,6MZLC,2004134
+B147:1:64,Isoperla griseipennis (Pictet),(Pictet),Isoperla,,griseipennis,,species,,B147:1,synonym,B147:1:63,Isoperla obscura (Zetterstedt),,,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae | Isoperla,,6097291

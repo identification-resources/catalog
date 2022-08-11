@@ -1,0 +1,23 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B221:1:1,Chalcidoidea,,,,,,superfamily,,B221:1,accepted,,,,,,,,,,,,,,CD,
+B221:1:2,Aphelinidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Aphelinidae,,,,Chalcidoidea,6JY,5503
+B221:1:3,Chalcididae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Chalcididae,,,,Chalcidoidea,7Z9,9439
+B221:1:4,Cleonymidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Cleonymidae,,,,Chalcidoidea,,
+B221:1:5,Elasmidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Elasmidae,,,,Chalcidoidea,,4679688
+B221:1:6,Encyrtidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Encyrtidae,,,,Chalcidoidea,9P4,9440
+B221:1:7,Eucharitidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Eucharitidae,,,,Chalcidoidea,9WD,9441
+B221:1:8,Eulophidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Eulophidae,,,,Chalcidoidea,9XP,5505
+B221:1:9,Tetracampini,,,,,,tribe,,B221:1,accepted,,,B221:1:8,Eulophidae,,,,,Eulophidae,,,,Chalcidoidea | Eulophidae,,
+B221:1:10,Eupelmidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Eupelmidae,,,,Chalcidoidea,9Y3,9442
+B221:1:11,Eurytomidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Eurytomidae,,,,Chalcidoidea,9ZM,5507
+B221:1:12,Mymaridae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Mymaridae,,,,Chalcidoidea,D2W,9444
+B221:1:13,Perilampidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Perilampidae,,,,Chalcidoidea,625TJ,9446
+B221:1:14,Pteromalidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Pteromalidae,,,,Chalcidoidea,FD9,9447
+B221:1:15,Cerocephalinae,,,,,,subfamily,,B221:1,accepted,,,B221:1:14,Pteromalidae,,,,,Pteromalidae,Cerocephalinae,,,Chalcidoidea | Pteromalidae,,
+B221:1:16,Spalangiinae,,,,,,subfamily,,B221:1,accepted,,,B221:1:14,Pteromalidae,,,,,Pteromalidae,Spalangiinae,,,Chalcidoidea | Pteromalidae,,
+B221:1:17,Sphegigasterinae,,,,,,subfamily,,B221:1,accepted,,,B221:1:14,Pteromalidae,,,,,Pteromalidae,Sphegigasterinae,,,Chalcidoidea | Pteromalidae,,
+B221:1:18,Thysanidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Thysanidae,,,,Chalcidoidea,,4298572
+B221:1:19,Torymidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Torymidae,,,,Chalcidoidea,HBL,3745
+B221:1:20,Megastigminae,,,,,,subfamily,,B221:1,accepted,,,B221:1:19,Torymidae,,,,,Torymidae,Megastigminae,,,Chalcidoidea | Torymidae,,
+B221:1:21,Trichogrammatidae,,,,,,family,,B221:1,accepted,,,B221:1:1,Chalcidoidea,,,,,Trichogrammatidae,,,,Chalcidoidea,626QC,7711
+B221:1:22,Prestwichia,,,,,,genus,,B221:1,accepted,,,B221:1:21,Trichogrammatidae,,,,,Trichogrammatidae,,Prestwichia,,Chalcidoidea | Trichogrammatidae,6VLG,1398661

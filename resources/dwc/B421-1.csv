@@ -1,0 +1,67 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B421:1:1,Sapyginae,,,,,,subfamily,,B421:1,accepted,,,,,,,,,,Sapyginae,,,,,
+B421:1:2,Asmisapyga,,,,,,genus,,B421:1,accepted,,,B421:1:1,Sapyginae,,,,,,Sapyginae,Asmisapyga,,Sapyginae,,4677447
+B421:1:3,Monosapyga,,,,,,genus,,B421:1,accepted,,,B421:1:1,Sapyginae,,,,,,Sapyginae,Monosapyga,,Sapyginae,,4407776
+B421:1:4,Monosapyga clavicornis,,Monosapyga,,clavicornis,,species,,B421:1,accepted,,,B421:1:3,Monosapyga,,,,,,Sapyginae,Monosapyga,,Sapyginae | Monosapyga,,4504373
+B421:1:5,Apis clavicornis,,Apis,,clavicornis,,species,,B421:1,synonym,B421:1:4,Monosapyga clavicornis,,,,,,,,Sapyginae,Monosapyga,,Sapyginae | Monosapyga,,4504377
+B421:1:6,Scolia prisma,,Scolia,,prisma,,species,,B421:1,synonym,B421:1:4,Monosapyga clavicornis,,,,,,,,Sapyginae,Monosapyga,,Sapyginae | Monosapyga,63T5R,1309714
+B421:1:8,Sapyga prisma,,Sapyga,,prisma,,species,,B421:1,synonym,B421:1:4,Monosapyga clavicornis,,,,,,,,Sapyginae,Monosapyga,,Sapyginae | Monosapyga,,4504376
+B421:1:8,Sapyga prisma,,Sapyga,,prisma,,species,,B421:1,synonym,B421:1:4,Monosapyga clavicornis,,,,,,,,Sapyginae,Monosapyga,,Sapyginae | Monosapyga,,4504376
+B421:1:9,Monosapyga theresae,,Monosapyga,,theresae,,species,,B421:1,accepted,,,B421:1:3,Monosapyga,,,,,,Sapyginae,Monosapyga,,Sapyginae | Monosapyga,,4504372
+B421:1:10,Sapyga theresae,,Sapyga,,theresae,,species,,B421:1,synonym,B421:1:9,Monosapyga theresae,,,,,,,,Sapyginae,Monosapyga,,Sapyginae | Monosapyga,,10431739
+B421:1:11,Polochridium,,,,,,genus,,B421:1,accepted,,,B421:1:1,Sapyginae,,,,,,Sapyginae,Polochridium,,Sapyginae,,4680661
+B421:1:12,Polochridium eoum,,Polochridium,,eoum,,species,,B421:1,accepted,,,B421:1:11,Polochridium,,,,,,Sapyginae,Polochridium,,Sapyginae | Polochridium,,4680661
+B421:1:13,Polochrum koreanum,,Polochrum,,koreanum,,species,,B421:1,synonym,B421:1:12,Polochridium eoum,,,,,,,,Sapyginae,Polochridium,,Sapyginae | Polochridium,6TV3,1312227
+B421:1:14,Polochrum,,,,,,genus,,B421:1,accepted,,,B421:1:1,Sapyginae,,,,,,Sapyginae,Polochrum,,Sapyginae,6TV3,1312227
+B421:1:15,Dimorpha,,,,,,genus,,B421:1,synonym,B421:1:14,Polochrum,,,,,,,,Sapyginae,Dimorpha,,Sapyginae,45LP,3256569
+B421:1:16,Aclastocera,,,,,,genus,,B421:1,synonym,B421:1:14,Polochrum,,,,,,,,Sapyginae,Aclastocera,,Sapyginae,,4680648
+B421:1:17,Polochrum pamirepandum,,Polochrum,,pamirepandum,,species,,B421:1,accepted,,,B421:1:14,Polochrum,,,,,,Sapyginae,Polochrum,,Sapyginae | Polochrum,6TV3,1312227
+B421:1:18,Polochrum repandum,,Polochrum,,repandum,,species,,B421:1,accepted,,,B421:1:14,Polochrum,,,,,,Sapyginae,Polochrum,,Sapyginae | Polochrum,4KZ9H,1312228
+B421:1:19,Aclastocera frivaldskii,,Aclastocera,,frivaldskii,,species,,B421:1,synonym,B421:1:18,Polochrum repandum,,,,,,,,Sapyginae,Polochrum,,Sapyginae | Polochrum,,4504363
+B421:1:27,Sapyga,,,,,,subgenus,,B421:1,accepted,,,B421:1:20,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga,,
+B421:1:21,Hellus,,,,,,genus,,B421:1,synonym,B421:1:20,Sapyga,,,,,,,,Sapyginae,Hellus,,Sapyginae,,4672243
+B421:1:22,Arthrosapyga,,,,,,subgenus,,B421:1,accepted,,,B421:1:20,Sapyga,,,,,,Sapyginae,Sapyga,Arthrosapyga,Sapyginae | Sapyga,,
+B421:1:23,Sapyga sancta,,Sapyga,,sancta,,species,,B421:1,accepted,,,B421:1:22,Arthrosapyga,,,,,,Sapyginae,Sapyga,Arthrosapyga,Sapyginae | Sapyga | Arthrosapyga,,9090977
+B421:1:24,Polosapyga,,,,,,subgenus,,B421:1,accepted,,,B421:1:20,Sapyga,,,,,,Sapyginae,Sapyga,Polosapyga,Sapyginae | Sapyga,,
+B421:1:25,Rectosapyga,,,,,,subgenus,,B421:1,accepted,,,B421:1:20,Sapyga,,,,,,Sapyginae,Sapyga,Rectosapyga,Sapyginae | Sapyga,,
+B421:1:26,Sapyga hissarica,,Sapyga,,hissarica,,species,,B421:1,accepted,,,B421:1:25,Rectosapyga,,,,,,Sapyginae,Sapyga,Rectosapyga,Sapyginae | Sapyga | Rectosapyga,,9090977
+B421:1:27,Sapyga,,,,,,subgenus,,B421:1,accepted,,,B421:1:20,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga,,
+B421:1:28,Sapyga buyssoni,,Sapyga,,buyssoni,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,9090977
+B421:1:29,Sapyga caucasica,,Sapyga,,caucasica,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,9090977
+B421:1:30,Sapyga caucasica subsp. caucasica,,Sapyga,,caucasica,caucasica,subspecies,,B421:1,accepted,,,B421:1:29,Sapyga caucasica,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga caucasica,,9090977
+B421:1:31,Sapyga caucasica subsp. schevyrevi,,Sapyga,,caucasica,schevyrevi,subspecies,,B421:1,accepted,,,B421:1:29,Sapyga caucasica,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga caucasica,,9090977
+B421:1:32,Sapyga coma,,Sapyga,,coma,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,9090977
+B421:1:33,Sapyga diversiventris,,Sapyga,,diversiventris,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,9090977
+B421:1:34,Sapyga glasunovi,,Sapyga,,glasunovi,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,9090977
+B421:1:35,Sapyga gussakovskii,,Sapyga,,gussakovskii,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,4504362
+B421:1:36,Sapyga luteomaculata,,Sapyga,,luteomaculata,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,9090977
+B421:1:37,Sapyga multinotata,,Sapyga,,multinotata,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,4504347
+B421:1:38,Sapyga pulcherrima,,Sapyga,,pulcherrima,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,9090977
+B421:1:39,Sapyga quinquepunctata,,Sapyga,,quinquepunctata,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,4504348
+B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,Sapyga,,quinquepunctata,quinquepunctata,subspecies,,B421:1,accepted,,,B421:1:39,Sapyga quinquepunctata,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504348
+B421:1:41,Scolia quinquepunctata,,Scolia,,quinquepunctata,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504350
+B421:1:42,Scolia quadriguttata,,Scolia,,quadriguttata,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504356
+B421:1:43,Sphex tricolor,,Sphex,,tricolor,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,4YZ5L,9019467
+B421:1:44,Sirex pacca,,Sirex,,pacca,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504351
+B421:1:45,Scolia sexguttata,,Scolia,,sexguttata,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504349
+B421:1:46,Sapyga punctata,,Sapyga,,punctata,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504353
+B421:1:47,Hellus sexpunctata,,Hellus,,sexpunctata,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504359
+B421:1:48,Hellus quadripunctatus,,Hellus,,quadripunctatus,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504354
+B421:1:49,Sapyga punctum,,Sapyga,,punctum,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504357
+B421:1:50,Sapyga varia,,Sapyga,,varia,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504358
+B421:1:51,Sapyga decipiens,,Sapyga,,decipiens,,species,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,4504352
+B421:1:52,Sapyga quinquepunctata subsp. arvenica,,Sapyga,,quinquepunctata,arvenica,subspecies,,B421:1,synonym,B421:1:40,Sapyga quinquepunctata subsp. quinquepunctata,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga | Sapyga quinquepunctata,,10158269
+B421:1:53,Sapyga raddi,,Sapyga,,raddi,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,9090977
+B421:1:54,Sapyga similis,,Sapyga,,similis,,species,,B421:1,accepted,,,B421:1:27,Sapyga,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,4504341
+B421:1:55,Sirex similis,,Sirex,,similis,,species,,B421:1,synonym,B421:1:54,Sapyga similis,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,4504346
+B421:1:56,Sapyga variegata,,Sapyga,,variegata,,species,,B421:1,synonym,B421:1:54,Sapyga similis,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,4504344
+B421:1:57,Sapyga exomata,,Sapyga,,exomata,,species,,B421:1,synonym,B421:1:54,Sapyga similis,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,9090977
+B421:1:58,Sapyga pedestris,,Sapyga,,pedestris,,species,,B421:1,synonym,B421:1:54,Sapyga similis,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,4504342
+B421:1:59,Sapyga rufipes,,Sapyga,,rufipes,,species,,B421:1,synonym,B421:1:54,Sapyga similis,,,,,,,,Sapyginae,Sapyga,Sapyga,Sapyginae | Sapyga | Sapyga,,4504345
+B421:1:60,Sapygina,,,,,,genus,,B421:1,accepted,,,B421:1:1,Sapyginae,,,,,,Sapyginae,Sapygina,,Sapyginae,,4405688
+B421:1:61,Sapygina decemguttata,,Sapygina,,decemguttata,,species,,B421:1,accepted,,,B421:1:60,Sapygina,,,,,,Sapyginae,Sapygina,,Sapyginae | Sapygina,,4504364
+B421:1:62,Meria millefolii,,Meria,,millefolii,,species,,B421:1,synonym,B421:1:61,Sapygina decemguttata,,,,,,,,Sapyginae,Sapygina,,Sapyginae | Sapygina,,8207694
+B421:1:63,Sapyga chelostomae,,Sapyga,,chelostomae,,species,,B421:1,synonym,B421:1:61,Sapygina decemguttata,,,,,,,,Sapyginae,Sapygina,,Sapyginae | Sapygina,,4504369
+B421:1:64,Myzine panzeri,,Myzine,,panzeri,,species,,B421:1,synonym,B421:1:61,Sapygina decemguttata,,,,,,,,Sapyginae,Sapygina,,Sapyginae | Sapygina,,5762379
+B421:1:65,Polochrum cylindricum,,Polochrum,,cylindricum,,species,,B421:1,synonym,B421:1:61,Sapygina decemguttata,,,,,,,,Sapyginae,Sapygina,,Sapyginae | Sapygina,,4504370
+B421:1:66,Sapygina nigra,,Sapygina,,nigra,,species,,B421:1,synonym,B421:1:61,Sapygina decemguttata,,,,,,,,Sapyginae,Sapygina,,Sapyginae | Sapygina,,4504365

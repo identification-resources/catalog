@@ -1,0 +1,48 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B83:1:1,Hybotidae,,,,,,family,,B83:1,accepted,,,,,,,,,Hybotidae,,,,,B7S,9706
+B83:1:2,Tachydromiinae,,,,,,subfamily,,B83:1,accepted,,,B83:1:1,Hybotidae,,,,,Hybotidae,Tachydromiinae,,,Hybotidae,8NL3S,
+B83:1:3,Symballophthalmus spec.,spec.,,,,,genus,,B83:1,accepted,,,B83:1:2,Tachydromiinae,,,,,Hybotidae,Tachydromiinae,Symballopthalmus,,Hybotidae | Tachydromiinae,7QRH,1459456
+B83:1:4,"Platypalpus Macquart, 1827","Macquart, 1827",,,,,genus,,B83:1,accepted,,,B83:1:2,Tachydromiinae,,,,,Hybotidae,Tachydromiinae,Platypalpus,,Hybotidae | Tachydromiinae,8NX7K,1457232
+B83:1:5,"Dysaletria Loew, 1864","Loew, 1864",,,,,genus,,B83:1,accepted,,,B83:1:2,Tachydromiinae,,,,,Hybotidae,Tachydromiinae,Dysaletria,,Hybotidae | Tachydromiinae,492K,1458268
+B83:1:6,"Tachypeza Meigen, 1830","Meigen, 1830",,,,,genus,,B83:1,accepted,,,B83:1:2,Tachydromiinae,,,,,Hybotidae,Tachydromiinae,Tachypeza,,Hybotidae | Tachydromiinae,7RTN,1457158
+B83:1:7,"Tachydromia Meigen, 1803","Meigen, 1803",,,,,genus,,B83:1,accepted,,,B83:1:2,Tachydromiinae,,,,,Hybotidae,Tachydromiinae,Tachydromia,,Hybotidae | Tachydromiinae,8MVF3,1459283
+B83:1:8,"Chersodromia Walker, 1849","Walker, 1849",,,,,genus,,B83:1,accepted,,,B83:1:2,Tachydromiinae,,,,,Hybotidae,Tachydromiinae,Chersodromia,,Hybotidae | Tachydromiinae,8NN47,1459035
+B83:1:9,"Stilpon Loew, 1859","Loew, 1859",,,,,genus,,B83:1,accepted,,,B83:1:2,Tachydromiinae,,,,,Hybotidae,Tachydromiinae,Stilpon,,Hybotidae | Tachydromiinae,7NQ5,1459185
+B83:1:10,"Crossopalpus Bigot, 1857","Bigot, 1857",,,,,genus,,B83:1,accepted,,,B83:1:2,Tachydromiinae,,,,,Hybotidae,Tachydromiinae,Crossopalpus,,Hybotidae | Tachydromiinae,3W6X,1458061
+B83:1:11,"Elaphropeza Macquart, 1827","Macquart, 1827",,,,,genus,,B83:1,accepted,,,B83:1:2,Tachydromiinae,,,,,Hybotidae,Tachydromiinae,Elaphropeza,,Hybotidae | Tachydromiinae,62QCC,1458147
+B83:1:12,"Drapetis Meigen, 1822","Meigen, 1822",,,,,genus,,B83:1,accepted,,,B83:1:2,Tachydromiinae,,,,,Hybotidae,Tachydromiinae,Drapetis,,Hybotidae | Tachydromiinae,8NPB8,1456907
+B83:1:13,Hybotinae,,,,,,subfamily,,B83:1,accepted,,,B83:1:1,Hybotidae,,,,,Hybotidae,Hybotinae,,,Hybotidae,8MPN3,
+B83:1:14,Syneches,,,,,,genus,,B83:1,accepted,,,B83:1:13,Hybotinae,,,,,Hybotidae,Hybotinae,Syneches,,Hybotidae | Hybotinae,8MVDQ,3258967
+B83:1:15,"Syneches muscarius (Fabricius, 1794)","(Fabricius, 1794)",Syneches,,muscarius,,species,,B83:1,accepted,,,B83:1:14,Syneches,,,,,Hybotidae,Hybotinae,Syneches,,Hybotidae | Hybotinae | Syneches,53VQX,1458370
+B83:1:16,Syndyas,,,,,,genus,,B83:1,accepted,,,B83:1:13,Hybotinae,,,,,Hybotidae,Hybotinae,Syndyas,,Hybotidae | Hybotinae,645TR,1458966
+B83:1:17,"Syndyas nigripes (Zetterstedt, 1842)","(Zetterstedt, 1842)",Syndyas,,nigripes,,species,,B83:1,accepted,,,B83:1:16,Syndyas,,,,,Hybotidae,Hybotinae,Syndyas,,Hybotidae | Hybotinae | Syndyas,53VLF,1458985
+B83:1:18,Hybos,,,,,,genus,,B83:1,accepted,,,B83:1:13,Hybotinae,,,,,Hybotidae,Hybotinae,Hybos,,Hybotidae | Hybotinae,8MRCL,1458681
+B83:1:19,"Hybos femoratus (Müller, 1776)","(Müller, 1776)",Hybos,,femoratus,,species,,B83:1,accepted,,,B83:1:18,Hybos,,,,,Hybotidae,Hybotinae,Hybos,,Hybotidae | Hybotinae | Hybos,3MYLR,1458763
+B83:1:20,"Hybos culiciformis (Fabricius, 1775)","(Fabricius, 1775)",Hybos,,culiciformis,,species,,B83:1,accepted,,,B83:1:18,Hybos,,,,,Hybotidae,Hybotinae,Hybos,,Hybotidae | Hybotinae | Hybos,3MYLG,1458776
+B83:1:21,"Hybos grossipes (Linnaeus, 1767)","(Linnaeus, 1767)",Hybos,,grossipes,,species,,B83:1,accepted,,,B83:1:18,Hybos,,,,,Hybotidae,Hybotinae,Hybos,,Hybotidae | Hybotinae | Hybos,3MYM4,1458751
+B83:1:22,Ocydromiinae s.l.,s.l.,,,,,subfamily,,B83:1,accepted,,,B83:1:1,Hybotidae,,,,,Hybotidae,Ocydromiinae,,,Hybotidae,87CKP,
+B83:1:23,"Leptopezella Sinclair & Cumming, 2007","Sinclair & Cumming, 2007",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Leptopezella,,Hybotidae | Ocydromiinae,62WXF,1458483
+B83:1:24,Hoplopeza Bezzi,Bezzi,,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Hoplopeza,,Hybotidae | Ocydromiinae,4YNP,1457139
+B83:1:25,Scelolabes Philippi,Philippi,,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Scelolabes,,Hybotidae | Ocydromiinae,7D93,1458910
+B83:1:26,"Bicellaria Macquart, 1823","Macquart, 1823",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Bicellaria,,Hybotidae | Ocydromiinae,62GCM,1458522
+B83:1:27,"Apteromyia Oldroyd, 1949","Oldroyd, 1949",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Apteromyia,,Hybotidae | Ocydromiinae,62CQ4,1588712
+B83:1:28,"Neotrichina Sinclair & Cumming, 2000","Sinclair & Cumming, 2000",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Neotrichina,,Hybotidae | Ocydromiinae,62XN,1458635
+B83:1:29,"Trichina Meigen, 1830","Meigen, 1830",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Trichina,,Hybotidae | Ocydromiinae,647PW,1458943
+B83:1:30,"Trichinomyia Tuomikoski, 1959","Tuomikoski, 1959",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Trichinomyia,,Hybotidae | Ocydromiinae,7Z6D,1459501
+B83:1:31,"Trichinomyia flavipes (Meigen, 1830)","(Meigen, 1830)",Trichinomyia,,flavipes,,species,,B83:1,accepted,,,B83:1:30,"Trichinomyia Tuomikoski, 1959",,,,,Hybotidae,Ocydromiinae,Trichinomyia,,Hybotidae | Ocydromiinae | Trichinomyia,,4514756
+B83:1:32,"Trichinomyia fuscipes (Zetterstedt, 1838)","(Zetterstedt, 1838)",Trichinomyia,,fuscipes,,species,,B83:1,accepted,,,B83:1:30,"Trichinomyia Tuomikoski, 1959",,,,,Hybotidae,Ocydromiinae,Trichinomyia,,Hybotidae | Ocydromiinae | Trichinomyia,5897T,1459502
+B83:1:33,"Abocciputa Plant, 1989","Plant, 1989",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Abocciputa,,Hybotidae | Ocydromiinae,LP8,1458494
+B83:1:34,"Chvalaea Papp & Földvári, 2001","Papp & Földvári, 2001",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Chvalaea,,Hybotidae | Ocydromiinae,3PPW,1459449
+B83:1:35,"Leptodromia Sinclair, 2000","Sinclair, 2000",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Leptodromia,,Hybotidae | Ocydromiinae,,4796954
+B83:1:36,Leptopeza,,,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Leptopeza,,Hybotidae | Ocydromiinae,5D8T,1458615
+B83:1:37,"Leptopeza flavipes (Meigen, 1820)","(Meigen, 1820)",Leptopeza,,flavipes,,species,,B83:1,accepted,,,B83:1:36,Leptopeza,,,,,Hybotidae,Ocydromiinae,Leptopeza,,Hybotidae | Ocydromiinae | Leptopeza,8CJ5F,5765917
+B83:1:38,"Leptopeza borealis Zetterstedt, 1842","Zetterstedt, 1842",Leptopeza,,borealis,,species,,B83:1,accepted,,,B83:1:36,Leptopeza,,,,,Hybotidae,Ocydromiinae,Leptopeza,,Hybotidae | Ocydromiinae | Leptopeza,3TST2,5056259
+B83:1:39,"Stylocydromia Saigusa, 1986","Saigusa, 1986",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Stylocydromia,,Hybotidae | Ocydromiinae,7PRL,1458912
+B83:1:40,Leptodromiella,,,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Leptodromiella,,Hybotidae | Ocydromiinae,5D2F,1459182
+B83:1:41,"Leptodromiella crassiseta (Tuomikoski, 192)","(Tuomikoski, 192)",Leptodromiella,,crassiseta,,species,,B83:1,accepted,,,B83:1:40,Leptodromiella,,,,,Hybotidae,Ocydromiinae,Leptodromiella,,Hybotidae | Ocydromiinae | Leptodromiella,3TNYH,1459183
+B83:1:42,"Oropezella Collin, 1926","Collin, 1926",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Oropezella,,Hybotidae | Ocydromiinae,63HJF,1458917
+B83:1:43,"Ocydromia Meigen, 1820","Meigen, 1820",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Ocydromia,,Hybotidae | Ocydromiinae,87J29,1459580
+B83:1:44,"Ocydromia glabricula (Fallén, 1816)","(Fallén, 1816)",Ocydromia,,glabricula,,species,,B83:1,accepted,,,B83:1:43,"Ocydromia Meigen, 1820",,,,,Hybotidae,Ocydromiinae,Ocydromia,,Hybotidae | Ocydromiinae | Ocydromia,48L9Z,1459590
+B83:1:45,"Ocydromia melanopleura Loew, 1840","Loew, 1840",Ocydromia,,melanopleura,,species,,B83:1,accepted,,,B83:1:43,"Ocydromia Meigen, 1820",,,,,Hybotidae,Ocydromiinae,Ocydromia,,Hybotidae | Ocydromiinae | Ocydromia,74FQZ,1459583
+B83:1:46,"Pseudoscelolabes Collin, 1933","Collin, 1933",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Pseudoscelolabes,,Hybotidae | Ocydromiinae,73G9,1459249
+B83:1:47,"Austropeza Plant, 1989","Plant, 1989",,,,,genus,,B83:1,accepted,,,B83:1:22,Ocydromiinae s.l.,,,,,Hybotidae,Ocydromiinae,Austropeza,,Hybotidae | Ocydromiinae,,1586083

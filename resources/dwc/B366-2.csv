@@ -1,0 +1,20 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B366:2:1,Medon,,,,,,genus,,B366:2,accepted,,,,,,,,,,,Medon,,,5MJF,1040422
+B366:2:2,Medon castaneus,,Medon,,castaneus,,species,,B366:2,accepted,,,B366:2:1,Medon,,,,,,,Medon,,Medon,6R8DK,5746567
+B366:2:3,Paederus castaneus,,Paederus,,castaneus,,species,,B366:2,synonym,B366:2:2,Medon castaneus,,,,,,,,,Medon,,Medon,4BXDF,8941113
+B366:2:4,Medon dilutus,,Medon,,dilutus,,species,,B366:2,accepted,,,B366:2:1,Medon,,,,,,,Medon,,Medon,6R8DJ,5746575
+B366:2:5,Lithocharis diluta,,Lithocharis,,diluta,,species,,B366:2,synonym,B366:2:4,Medon dilutus,,,,,,,,,Medon,,Medon,3VK9S,9056629
+B366:2:6,Medon piceus,,Medon,,piceus,,species,,B366:2,accepted,,,B366:2:1,Medon,,,,,,,Medon,,Medon,3YQ6J,5746619
+B366:2:7,Lithocharis picea,,Lithocharis,,picea,,species,,B366:2,synonym,B366:2:6,Medon piceus,,,,,,,,,Medon,,Medon,3VKD7,8763217
+B366:2:8,Medon brunneus,,Medon,,brunneus,,species,,B366:2,accepted,,,B366:2:1,Medon,,,,,,,Medon,,Medon,3YPVJ,5746564
+B366:2:9,Lithocharis brunnea,,Lithocharis,,brunnea,,species,,B366:2,synonym,B366:2:8,Medon brunneus,,,,,,,,,Medon,,Medon,3VK8Q,9026561
+B366:2:10,Medon ferrugineus,,Medon,,ferrugineus,,species,,B366:2,accepted,,,B366:2:1,Medon,,,,,,,Medon,,Medon,3YPXY,7792263
+B366:2:11,Lithocharis ferruginea,,Lithocharis,,ferruginea,,species,,B366:2,synonym,B366:2:10,Medon ferrugineus,,,,,,,,,Medon,,Medon,6QL9Q,8871677
+B366:2:12,Medon fusculus,,Medon,,fusculus,,species,,B366:2,accepted,,,B366:2:1,Medon,,,,,,,Medon,,Medon,6R8DH,5746609
+B366:2:13,Rugilus fusculus,,Rugilus,,fusculus,,species,,B366:2,synonym,B366:2:12,Medon fusculus,,,,,,,,,Medon,,Medon,4TP22,8830557
+B366:2:14,Medon rufiventris,,Medon,,rufiventris,,species,,B366:2,accepted,,,B366:2:1,Medon,,,,,,,Medon,,Medon,3YQ7V,8320833
+B366:2:15,Lathrobium rufiventre,,Lathrobium,,rufiventre,,species,,B366:2,synonym,B366:2:14,Medon rufiventris,,,,,,,,,Medon,,Medon,3SKBM,10143466
+B366:2:16,Medon ripicola,,Medon,,ripicola,,species,,B366:2,accepted,,,B366:2:1,Medon,,,,,,,Medon,,Medon,3YQ7L,5746604
+B366:2:17,Tithocharis ripicola,,Tithocharis,,ripicola,,species,,B366:2,synonym,B366:2:16,Medon ripicola,,,,,,,,,Medon,,Medon,3VKDR,8949395
+B366:2:18,Medon apicalis,,Medon,,apicalis,,species,,B366:2,accepted,,,B366:2:1,Medon,,,,,,,Medon,,Medon,738DQ,5746589
+B366:2:19,Lithocharis apicalis,,Lithocharis,,apicalis,,species,,B366:2,synonym,B366:2:18,Medon apicalis,,,,,,,,,Medon,,Medon,3VK86,9040389

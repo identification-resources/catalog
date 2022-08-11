@@ -1,0 +1,17 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B366:4:3,Sunius,,,,,,subgenus,,B366:4,accepted,,,B366:4:1,Sunius,,,,,,,Sunius,Sunius,Sunius,7QDC,
+B366:4:2,Hypomedon,,,,,,genus,,B366:4,synonym,B366:4:1,Sunius,,,,,,,,,Hypomedon,,,52TD,4406726
+B366:4:3,Sunius,,,,,,subgenus,,B366:4,accepted,,,B366:4:1,Sunius,,,,,,,Sunius,Sunius,Sunius,7QDC,
+B366:4:4,Sunius fallax,,Sunius,,fallax,,species,,B366:4,accepted,,,B366:4:3,Sunius,,,,,,,Sunius,Sunius,Sunius | Sunius,53GM7,10530983
+B366:4:5,Hypomedon fallax,,Hypomedon,,fallax,,species,,B366:4,synonym,B366:4:4,Sunius fallax,,,,,,,,,Sunius,Sunius,Sunius | Sunius,52TD,4406726
+B366:4:6,Hypomedon austriacus,,Hypomedon,,austriacus,,species,,B366:4,synonym,B366:4:4,Sunius fallax,,,,,,,,,Sunius,Sunius,Sunius | Sunius,3NX9Y,8874810
+B366:4:7,Sunius melanocephalus,,Sunius,,melanocephalus,,species,,B366:4,accepted,,,B366:4:3,Sunius,,,,,,,Sunius,Sunius,Sunius | Sunius,53GQ4,4439607
+B366:4:8,Paederus melanocephalus,,Paederus,,melanocephalus,,species,,B366:4,synonym,B366:4:7,Sunius melanocephalus,,,,,,,,,Sunius,Sunius,Sunius | Sunius,4BXP8,10563251
+B366:4:9,Sunius propinquus,,Sunius,,propinquus,,species,,B366:4,accepted,,,B366:4:3,Sunius,,,,,,,Sunius,Sunius,Sunius | Sunius,53GRT,4439567
+B366:4:10,Lithocharis propinqua,,Lithocharis,,propinqua,,species,,B366:4,synonym,B366:4:9,Sunius propinquus,,,,,,,,,Sunius,Sunius,Sunius | Sunius,3VKDK,10253577
+B366:4:11,Sunius bicolor,,Sunius,,bicolor,,species,,B366:4,accepted,,,B366:4:3,Sunius,,,,,,,Sunius,Sunius,Sunius | Sunius,53GJY,4439591
+B366:4:12,Paederus bicolor,,Paederus,,bicolor,,species,,B366:4,synonym,B366:4:11,Sunius bicolor,,,,,,,,,Sunius,Sunius,Sunius | Sunius,4BXBZ,10151536
+B366:4:13,Lithocharis ruficollis,,Lithocharis,,ruficollis,,species,,B366:4,synonym,B366:4:11,Sunius bicolor,,,,,,,,,Sunius,Sunius,Sunius | Sunius,6QKZB,7529849
+B366:4:14,Chloeocharis,,,,,,subgenus,,B366:4,accepted,,,B366:4:1,Sunius,,,,,,,Sunius,Chloeocharis,Sunius,,
+B366:4:16,Sunius debilicornis,,Sunius,,debilicornis,,species,,B366:4,synonym,B366:4:15,Sunius debilicornis,,,,,,,,,Sunius,Chloeocharis,Sunius | Chloeocharis,,1040108
+B366:4:16,Sunius debilicornis,,Sunius,,debilicornis,,species,,B366:4,synonym,B366:4:15,Sunius debilicornis,,,,,,,,,Sunius,Chloeocharis,Sunius | Chloeocharis,,1040108

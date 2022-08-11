@@ -1,0 +1,53 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B229:8:1,Culicinae,,,,,,subfamily,,B229:8,accepted,,,,,,,,,,Culicinae,,,,87CGC,
+B229:8:2,Anophelini,,,,,,tribe,,B229:8,accepted,,,B229:8:1,Culicinae,,,,,,Culicinae,,,Culicinae,,
+B229:8:4,Anopheles,,,,,,subgenus,,B229:8,accepted,,,B229:8:3,Anopheles,,,,,,Culicinae,Anopheles,Anopheles,Culicinae | Anophelini | Anopheles,8NLW4,
+B229:8:4,Anopheles,,,,,,subgenus,,B229:8,accepted,,,B229:8:3,Anopheles,,,,,,Culicinae,Anopheles,Anopheles,Culicinae | Anophelini | Anopheles,8NLW4,
+B229:8:5,Anopheles algeriensis,,Anopheles,,algeriensis,,species,,B229:8,accepted,,,B229:8:4,Anopheles,,,,,,Culicinae,Anopheles,Anopheles,Culicinae | Anophelini | Anopheles | Anopheles,89YZT,1650824
+B229:8:6,Anopheles claviger,,Anopheles,,claviger,,species,,B229:8,accepted,,,B229:8:4,Anopheles,,,,,,Culicinae,Anopheles,Anopheles,Culicinae | Anophelini | Anopheles | Anopheles,89Z2Z,1650857
+B229:8:7,Anopheles plumbeus,,Anopheles,,plumbeus,,species,,B229:8,accepted,,,B229:8:4,Anopheles,,,,,,Culicinae,Anopheles,Anopheles,Culicinae | Anophelini | Anopheles | Anopheles,89Z64,1650313
+B229:8:8,,,,,,,complex,,B229:8,accepted,,,B229:8:4,Anopheles,,,,,,Culicinae,Anopheles,Anopheles,Culicinae | Anophelini | Anopheles | Anopheles,,
+B229:8:9,Culcini,,,,,,tribe,,B229:8,accepted,,,B229:8:1,Culicinae,,,,,,Culicinae,,,Culicinae,,
+B229:8:11,Aëdes,,,,,,subgenus,,B229:8,accepted,,,B229:8:10,Aëdes,,,,,,Culicinae,Aëdes,Aëdes,Culicinae | Culcini | Aëdes,87D3Y,
+B229:8:11,Aëdes,,,,,,subgenus,,B229:8,accepted,,,B229:8:10,Aëdes,,,,,,Culicinae,Aëdes,Aëdes,Culicinae | Culcini | Aëdes,87D3Y,
+B229:8:12,Aëdes cinereus,,Aëdes,,cinereus,,species,,B229:8,accepted,,,B229:8:11,Aëdes,,,,,,Culicinae,Aëdes,Aëdes,Culicinae | Culcini | Aëdes | Aëdes,89V93,1651718
+B229:8:13,Finlaya,,,,,,subgenus,,B229:8,accepted,,,B229:8:10,Aëdes,,,,,,Culicinae,Aëdes,Finlaya,Culicinae | Culcini | Aëdes,87G7F,
+B229:8:14,Aëdes geniculatus,,Aëdes,,geniculatus,,species,,B229:8,accepted,,,B229:8:13,Finlaya,,,,,,Culicinae,Aëdes,Finlaya,Culicinae | Culcini | Aëdes | Finlaya,89VGW,1651525
+B229:8:15,Ochlerotatus,,,,,,subgenus,,B229:8,accepted,,,B229:8:10,Aëdes,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes,8NTL6,
+B229:8:16,Aëdes rusticus,,Aëdes,,rusticus,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89W65,1651877
+B229:8:17,Aëdes sticticus,,Aëdes,,sticticus,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89VZF,1651405
+B229:8:18,Aëdes punctor,,Aëdes,,punctor,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89VYF,1652371
+B229:8:19,Aëdes communis,,Aëdes,,communis,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89VV4,1651255
+B229:8:20,Aëdes detritus,,Aëdes,,detritus,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89VVH,1651278
+B229:8:21,Aëdes leucomelas,,Aëdes,,leucomelas,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89VX2,1651289
+B229:8:22,Aëdes dorsalis,,Aëdes,,dorsalis,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89VVK,1651209
+B229:8:23,Aëdes caspius,,Aëdes,,caspius,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89VTT,1652063
+B229:8:24,Aëdes flavescens,,Aëdes,,flavescens,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89VW3,1651126
+B229:8:25,Aëdes annulipes,,Aëdes,,annulipes,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89VSY,1652347
+B229:8:26,Aëdes cantans,,Aëdes,,cantans,,species,,B229:8,accepted,,,B229:8:15,Ochlerotatus,,,,,,Culicinae,Aëdes,Ochlerotatus,Culicinae | Culcini | Aëdes | Ochlerotatus,89VTR,1651187
+B229:8:27,Aëdimorphus,,,,,,subgenus,,B229:8,accepted,,,B229:8:10,Aëdes,,,,,,Culicinae,Aëdes,Aëdimorphus,Culicinae | Culcini | Aëdes,89RSN,
+B229:8:28,Aëdes vexans,,Aëdes,,vexans,,species,,B229:8,accepted,,,B229:8:27,Aëdimorphus,,,,,,Culicinae,Aëdes,Aëdimorphus,Culicinae | Culcini | Aëdes | Aëdimorphus,89VCR,1652274
+B229:8:30,Culex,,,,,,subgenus,,B229:8,accepted,,,B229:8:29,Culex,,,,,,Culicinae,Culex,Culex,Culicinae | Culcini | Culex,8NNL3,
+B229:8:30,Culex,,,,,,subgenus,,B229:8,accepted,,,B229:8:29,Culex,,,,,,Culicinae,Culex,Culex,Culicinae | Culcini | Culex,8NNL3,
+B229:8:31,Culex pipiens,,Culex,,pipiens,,species,,B229:8,accepted,,,B229:8:30,Culex,,,,,,Culicinae,Culex,Culex,Culicinae | Culcini | Culex | Culex,8BMMB,1652991
+B229:8:32,Culex molestus,,Culex,,molestus,,species,,B229:8,accepted,,,B229:8:30,Culex,,,,,,Culicinae,Culex,Culex,Culicinae | Culcini | Culex | Culex,8BMLG,7459751
+B229:8:33,Barraudius,,,,,,subgenus,,B229:8,accepted,,,B229:8:29,Culex,,,,,,Culicinae,Culex,Barraudius,Culicinae | Culcini | Culex,89RYS,
+B229:8:34,Culex modestus,,Culex,,modestus,,species,,B229:8,accepted,,,B229:8:33,Barraudius,,,,,,Culicinae,Culex,Barraudius,Culicinae | Culcini | Culex | Barraudius,8BMFQ,1653695
+B229:8:35,Neoculex,,,,,,subgenus,,B229:8,accepted,,,B229:8:29,Culex,,,,,,Culicinae,Culex,Neoculex,Culicinae | Culcini | Culex,89SRF,
+B229:8:36,Culex apicalis,,Culex,,apicalis,,species,,B229:8,accepted,,,B229:8:35,Neoculex,,,,,,Culicinae,Culex,Neoculex,Culicinae | Culcini | Culex | Neoculex,8BN9M,1653225
+B229:8:37,Orthopodomyia,,,,,,genus,,B229:8,accepted,,,B229:8:9,Culcini,,,,,,Culicinae,Orthopodomyia,,Culicinae | Culcini,63GVL,1649996
+B229:8:38,Orthopodomyia pulchipalpis,,Orthopodomyia,,pulchipalpis,,species,,B229:8,accepted,,,B229:8:37,Orthopodomyia,,,,,,Culicinae,Orthopodomyia,,Culicinae | Culcini | Orthopodomyia,7594Q,1649997
+B229:8:39,Taeniorhynchus,,,,,,genus,,B229:8,accepted,,,B229:8:9,Culcini,,,,,,Culicinae,Taeniorhynchus,,Culicinae | Culcini,,9767232
+B229:8:40,Coquillettidia,,,,,,subgenus,,B229:8,accepted,,,B229:8:39,Taeniorhynchus,,,,,,Culicinae,Taeniorhynchus,Coquillettidia,Culicinae | Culcini | Taeniorhynchus,87F7V,
+B229:8:41,Taeniorhynchus richiardii,,Taeniorhynchus,,richiardii,,species,,B229:8,accepted,,,B229:8:40,Coquillettidia,,,,,,Culicinae,Taeniorhynchus,Coquillettidia,Culicinae | Culcini | Taeniorhynchus | Coquillettidia,,9767232
+B229:8:45,Theobaldia,,,,,,subgenus,,B229:8,accepted,,,B229:8:42,Theobaldia,,,,,,Culicinae,Theobaldia,Theobaldia,Culicinae | Culcini | Theobaldia,,
+B229:8:43,Allotheobaldia,,,,,,subgenus,,B229:8,accepted,,,B229:8:42,Theobaldia,,,,,,Culicinae,Theobaldia,Allotheobaldia,Culicinae | Culcini | Theobaldia,89RTZ,
+B229:8:44,Theobaldia longiareolata,,Theobaldia,,longiareolata,,species,,B229:8,accepted,,,B229:8:43,Allotheobaldia,,,,,,Culicinae,Theobaldia,Allotheobaldia,Culicinae | Culcini | Theobaldia | Allotheobaldia,,
+B229:8:45,Theobaldia,,,,,,subgenus,,B229:8,accepted,,,B229:8:42,Theobaldia,,,,,,Culicinae,Theobaldia,Theobaldia,Culicinae | Culcini | Theobaldia,,
+B229:8:46,Theobaldia alaskaensis,,Theobaldia,,alaskaensis,,species,,B229:8,accepted,,,B229:8:45,Theobaldia,,,,,,Culicinae,Theobaldia,Theobaldia,Culicinae | Culcini | Theobaldia | Theobaldia,8995P,5089844
+B229:8:47,Theobaldia annulata,,Theobaldia,,annulata,,species,,B229:8,accepted,,,B229:8:45,Theobaldia,,,,,,Culicinae,Theobaldia,Theobaldia,Culicinae | Culcini | Theobaldia | Theobaldia,,7767703
+B229:8:48,Theobaldia subochrea,,Theobaldia,,subochrea,,species,,B229:8,accepted,,,B229:8:45,Theobaldia,,,,,,Culicinae,Theobaldia,Theobaldia,Culicinae | Culcini | Theobaldia | Theobaldia,8GNC9,8618213
+B229:8:49,Culicella,,,,,,subgenus,,B229:8,accepted,,,B229:8:42,Theobaldia,,,,,,Culicinae,Theobaldia,Culicella,Culicinae | Culcini | Theobaldia,89S67,
+B229:8:50,Theobaldia morsitans,,Theobaldia,,morsitans,,species,,B229:8,accepted,,,B229:8:49,Culicella,,,,,,Culicinae,Theobaldia,Culicella,Culicinae | Culcini | Theobaldia | Culicella,,
+B229:8:51,Theobaldia fumipennis,,Theobaldia,,fumipennis,,species,,B229:8,accepted,,,B229:8:49,Culicella,,,,,,Culicinae,Theobaldia,Culicella,Culicinae | Culcini | Theobaldia | Culicella,,
+B229:8:52,Theobaldia litorea,,Theobaldia,,litorea,,species,,B229:8,accepted,,,B229:8:49,Culicella,,,,,,Culicinae,Theobaldia,Culicella,Culicinae | Culcini | Theobaldia | Culicella,,

@@ -1,0 +1,20 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B366:1:1,Rugilus,,,,,,genus,,B366:1,accepted,,,,,,,,,,,Rugilus,,,7B2S,4406066
+B366:1:2,Stilicus,,,,,,genus,,B366:1,synonym,B366:1:1,Rugilus,,,,,,,,,Stilicus,,,,4438779
+B366:1:3,Rugilus angustatus,,Rugilus,,angustatus,,species,,B366:1,accepted,,,B366:1:1,Rugilus,,,,,,,Rugilus,,Rugilus,78XC8,4438734
+B366:1:4,Staphylinus angustatus,,Staphylinus,,angustatus,,species,,B366:1,synonym,B366:1:3,Rugilus angustatus,,,,,,,,,Rugilus,,Rugilus,4ZJQZ,11093672
+B366:1:5,Paederus fragilis,,Paederus,,fragilis,,species,,B366:1,synonym,B366:1:3,Rugilus angustatus,,,,,,,,,Rugilus,,Rugilus,4BXH9,5746354
+B366:1:6,Rugilus subtilis,,Rugilus,,subtilis,,species,,B366:1,accepted,,,B366:1:1,Rugilus,,,,,,,Rugilus,,Rugilus,4TNXS,4438754
+B366:1:7,Stilicus subtilis,,Stilicus,,subtilis,,species,,B366:1,synonym,B366:1:6,Rugilus subtilis,,,,,,,,,Rugilus,,Rugilus,52PMC,4438756
+B366:1:8,Stilicus hungaricus,,Stilicus,,hungaricus,,species,,B366:1,synonym,B366:1:6,Rugilus subtilis,,,,,,,,,Rugilus,,Rugilus,52PHL,4438755
+B366:1:9,Rugilus rufipes,,Rugilus,,rufipes,,species,,B366:1,accepted,,,B366:1:1,Rugilus,,,,,,,Rugilus,,Rugilus,4TNXJ,4438752
+B366:1:10,Rugilus similis,,Rugilus,,similis,,species,,B366:1,accepted,,,B366:1:1,Rugilus,,,,,,,Rugilus,,Rugilus,4TNXQ,4438776
+B366:1:11,Stilicus similis,,Stilicus,,similis,,species,,B366:1,synonym,B366:1:10,Rugilus similis,,,,,,,,,Rugilus,,Rugilus,52PM3,4438777
+B366:1:12,Rugilus geniculatus,,Rugilus,,geniculatus,,species,,B366:1,accepted,,,B366:1:1,Rugilus,,,,,,,Rugilus,,Rugilus,4TNWF,4438768
+B366:1:13,Stilicus geniculatus,,Stilicus,,geniculatus,,species,,B366:1,synonym,B366:1:12,Rugilus geniculatus,,,,,,,,,Rugilus,,Rugilus,52PHC,4438769
+B366:1:14,Rugilus orbiculatus,,Rugilus,,orbiculatus,,species,,B366:1,accepted,,,B366:1:1,Rugilus,,,,,,,Rugilus,,Rugilus,4TNX7,4438742
+B366:1:15,Staphylinus orbiculatus,,Staphylinus,,orbiculatus,,species,,B366:1,synonym,B366:1:14,Rugilus orbiculatus,,,,,,,,,Rugilus,,Rugilus,4ZK96,4438750
+B366:1:16,Rugilus mixtus,,Rugilus,,mixtus,,species,,B366:1,accepted,,,B366:1:1,Rugilus,,,,,,,Rugilus,,Rugilus,4TNWZ,4438771
+B366:1:17,Stilicus mixtus,,Stilicus,,mixtus,,species,,B366:1,synonym,B366:1:16,Rugilus mixtus,,,,,,,,,Rugilus,,Rugilus,52PJZ,4438772
+B366:1:18,Rugilus erichsoni,,Rugilus,,erichsoni,,species,,B366:1,accepted,,,B366:1:1,Rugilus,,,,,,,Rugilus,,Rugilus,4TNW9,4438766
+B366:1:19,Stilicus erichsoni,,Stilicus,,erichsoni,,species,,B366:1,synonym,B366:1:18,Rugilus erichsoni,,,,,,,,,Rugilus,,Rugilus,52PGW,4438767

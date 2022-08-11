@@ -1,0 +1,73 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B188:1:1,Tenebrionidae,,,,,,family,,B188:1,accepted,,,,,,,,,Tenebrionidae,,,,,GZD,7857
+B188:1:2,Bolitophagus,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Bolitophagus,,Tenebrionidae,,4407991
+B188:1:3,Bolitophagus reticulatus,,Bolitophagus,,reticulatus,,species,,B188:1,accepted,,,B188:1:2,Bolitophagus,,,,,Tenebrionidae,,Bolitophagus,,Tenebrionidae | Bolitophagus,,4454798
+B188:1:4,Eledona,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Eledona,,Tenebrionidae,,3262100
+B188:1:5,Eledona agricola,,Eledona,,agricola,,species,,B188:1,accepted,,,B188:1:4,Eledona,,,,,Tenebrionidae,,Eledona,,Tenebrionidae | Eledona,,5750277
+B188:1:6,Eledona agaricola,,Eledona,,agaricola,,species,,B188:1,synonym,B188:1:5,Eledona agricola,,,,,,,Tenebrionidae,,Eledona,,Tenebrionidae | Eledona,,9589510
+B188:1:7,Alphitophagus,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Alphitophagus,,Tenebrionidae,,4455267
+B188:1:8,Alphitophagus bifasciatus,,Alphitophagus,,bifasciatus,,species,,B188:1,accepted,,,B188:1:7,Alphitophagus,,,,,Tenebrionidae,,Alphitophagus,,Tenebrionidae | Alphitophagus,,4455268
+B188:1:9,Alphitophagus quadripustulatus,,Alphitophagus,,quadripustulatus,,species,,B188:1,synonym,B188:1:8,Alphitophagus bifasciatus,,,,,,,Tenebrionidae,,Alphitophagus,,Tenebrionidae | Alphitophagus,,4725723
+B188:1:10,Pentaphyllus,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Pentaphyllus,,Tenebrionidae,,7528018
+B188:1:11,Pentaphyllus testaceus,,Pentaphyllus,,testaceus,,species,,B188:1,accepted,,,B188:1:10,Pentaphyllus,,,,,Tenebrionidae,,Pentaphyllus,,Tenebrionidae | Pentaphyllus,,4455275
+B188:1:12,Blaps,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Blaps,,Tenebrionidae,,8279505
+B188:1:13,Blaps lethifera,,Blaps,,lethifera,,species,,B188:1,accepted,,,B188:1:12,Blaps,,,,,Tenebrionidae,,Blaps,,Tenebrionidae | Blaps,,4454606
+B188:1:14,Blaps similis,,Blaps,,similis,,species,,B188:1,synonym,B188:1:13,Blaps lethifera,,,,,,,Tenebrionidae,,Blaps,,Tenebrionidae | Blaps,,11360704
+B188:1:15,Blaps mucronata,,Blaps,,mucronata,,species,,B188:1,accepted,,,B188:1:12,Blaps,,,,,Tenebrionidae,,Blaps,,Tenebrionidae | Blaps,,4454582
+B188:1:16,Blaps mortisaga,,Blaps,,mortisaga,,species,,B188:1,accepted,,,B188:1:12,Blaps,,,,,Tenebrionidae,,Blaps,,Tenebrionidae | Blaps,,4454595
+B188:1:17,Helops,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Helops,,Tenebrionidae,,3262139
+B188:1:18,Helops caeruleus,,Helops,,caeruleus,,species,,B188:1,accepted,,,B188:1:17,Helops,,,,,Tenebrionidae,,Helops,,Tenebrionidae | Helops,,9468552
+B188:1:19,Tenebrio,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Tenebrio,,Tenebrionidae,647BK,1043835
+B188:1:20,Tenebrio molitor,,Tenebrio,,molitor,,species,,B188:1,accepted,,,B188:1:19,Tenebrio,,,,,Tenebrionidae,,Tenebrio,,Tenebrionidae | Tenebrio,,1045843
+B188:1:21,Tenebrio laticollis,,Tenebrio,,laticollis,,species,,B188:1,synonym,B188:1:20,Tenebrio molitor,,,,,,,Tenebrionidae,,Tenebrio,,Tenebrionidae | Tenebrio,,11367254
+B188:1:22,Tenebrio obscurus,,Tenebrio,,obscurus,,species,,B188:1,accepted,,,B188:1:19,Tenebrio,,,,,Tenebrionidae,,Tenebrio,,Tenebrionidae | Tenebrio,,1045842
+B188:1:23,Phylan,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Phylan,,Tenebrionidae,,3262033
+B188:1:24,Phylan gibbus,,Phylan,,gibbus,,species,,B188:1,accepted,,,B188:1:23,Phylan,,,,,Tenebrionidae,,Phylan,,Tenebrionidae | Phylan,,4308849
+B188:1:25,Melanimon,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Melanimon,,Tenebrionidae,,4405276
+B188:1:26,Melanimon tibialis,,Melanimon,,tibialis,,species,,B188:1,accepted,,,B188:1:25,Melanimon,,,,,Tenebrionidae,,Melanimon,,Tenebrionidae | Melanimon,,7834494
+B188:1:27,Opatrum,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Opatrum,,Tenebrionidae,,4454735
+B188:1:28,Opatrum sabulosum,,Opatrum,,sabulosum,,species,,B188:1,accepted,,,B188:1:27,Opatrum,,,,,Tenebrionidae,,Opatrum,,Tenebrionidae | Opatrum,,4454749
+B188:1:29,Phaleria,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Phaleria,,Tenebrionidae,,1045830
+B188:1:30,Phaleria cadaverina,,Phaleria,,cadaverina,,species,,B188:1,accepted,,,B188:1:29,Phaleria,,,,,Tenebrionidae,,Phaleria,,Tenebrionidae | Phaleria,,4308848
+B188:1:31,Crypticus,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Crypticus,,Tenebrionidae,,
+B188:1:32,Crypticus quisquilius,,Crypticus,,quisquilius,,species,,B188:1,accepted,,,B188:1:31,Crypticus,,,,,Tenebrionidae,,Crypticus,,Tenebrionidae | Crypticus,,5750452
+B188:1:33,Cylindrinotus,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Cylindrinotus,,Tenebrionidae,,4308850
+B188:1:34,Cylindrinotus laevioctostriatus,,Cylindrinotus,,laevioctostriatus,,species,,B188:1,accepted,,,B188:1:33,Cylindrinotus,,,,,Tenebrionidae,,Cylindrinotus,,Tenebrionidae | Cylindrinotus,,7841123
+B188:1:35,Cylindrinotus striatus,,Cylindrinotus,,striatus,,species,,B188:1,synonym,B188:1:34,Cylindrinotus laevioctostriatus,,,,,,,Tenebrionidae,,Cylindrinotus,,Tenebrionidae | Cylindrinotus,,4308850
+B188:1:36,Cylindrinotus pallidus,,Cylindrinotus,,pallidus,,species,,B188:1,accepted,,,B188:1:33,Cylindrinotus,,,,,Tenebrionidae,,Cylindrinotus,,Tenebrionidae | Cylindrinotus,,4308851
+B188:1:37,Platydema,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Platydema,,Tenebrionidae,6RSL,1045890
+B188:1:38,Platydema violaceum,,Platydema,,violaceum,,species,,B188:1,accepted,,,B188:1:37,Platydema,,,,,Tenebrionidae,,Platydema,,Tenebrionidae | Platydema,,4455263
+B188:1:39,Platydema dytiscoides,,Platydema,,dytiscoides,,species,,B188:1,synonym,B188:1:38,Platydema violaceum,,,,,,,Tenebrionidae,,Platydema,,Tenebrionidae | Platydema,,11343282
+B188:1:40,Scaphidema,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Scaphidema,,Tenebrionidae,,4405368
+B188:1:41,Scaphidema metallicum,,Scaphidema,,metallicum,,species,,B188:1,accepted,,,B188:1:40,Scaphidema,,,,,Tenebrionidae,,Scaphidema,,Tenebrionidae | Scaphidema,,4454308
+B188:1:42,Diaperis,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Diaperis,,Tenebrionidae,448C,7809830
+B188:1:43,Diaperis boleti,,Diaperis,,boleti,,species,,B188:1,accepted,,,B188:1:42,Diaperis,,,,,Tenebrionidae,,Diaperis,,Tenebrionidae | Diaperis,,5750461
+B188:1:44,Latheticus,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Latheticus,,Tenebrionidae,5B9Y,1045832
+B188:1:45,Latheticus oryzae,,Latheticus,,oryzae,,species,,B188:1,accepted,,,B188:1:44,Latheticus,,,,,Tenebrionidae,,Latheticus,,Tenebrionidae | Latheticus,,1045833
+B188:1:46,Alphitobius,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Alphitobius,,Tenebrionidae,SWB,1045873
+B188:1:47,Alphitobius diaperinus,,Alphitobius,,diaperinus,,species,,B188:1,accepted,,,B188:1:46,Alphitobius,,,,,Tenebrionidae,,Alphitobius,,Tenebrionidae | Alphitobius,,1045875
+B188:1:48,Alphitobius ovatus,,Alphitobius,,ovatus,,species,,B188:1,synonym,B188:1:47,Alphitobius diaperinus,,,,,,,Tenebrionidae,,Alphitobius,,Tenebrionidae | Alphitobius,,11326536
+B188:1:51,Alphitobius piceus,,Alphitobius,,piceus,,species,,B188:1,synonym,B188:1:50,Alphitobius laevigatus,,,,,,,Tenebrionidae,,Alphitobius,,Tenebrionidae | Alphitobius,,8395467
+B188:1:50,Alphitobius laevigatus,,Alphitobius,,laevigatus,,species,,B188:1,accepted,,,B188:1:46,Alphitobius,,,,,Tenebrionidae,,Alphitobius,,Tenebrionidae | Alphitobius,,1045874
+B188:1:51,Alphitobius piceus,,Alphitobius,,piceus,,species,,B188:1,synonym,B188:1:50,Alphitobius laevigatus,,,,,,,Tenebrionidae,,Alphitobius,,Tenebrionidae | Alphitobius,,8395467
+B188:1:52,Tribolium,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Tribolium,,Tenebrionidae,,
+B188:1:53,Tribolium castaneum,,Tribolium,,castaneum,,species,,B188:1,accepted,,,B188:1:52,Tribolium,,,,,Tenebrionidae,,Tribolium,,Tenebrionidae | Tribolium,,4990338
+B188:1:56,Tribolium ferrugineum,,Tribolium,,ferrugineum,,species,,B188:1,synonym,B188:1:55,Tribolium confusum,,,,,,,Tenebrionidae,,Tribolium,,Tenebrionidae | Tribolium,,9172186
+B188:1:55,Tribolium confusum,,Tribolium,,confusum,,species,,B188:1,accepted,,,B188:1:52,Tribolium,,,,,Tenebrionidae,,Tribolium,,Tenebrionidae | Tribolium,,9626492
+B188:1:56,Tribolium ferrugineum,,Tribolium,,ferrugineum,,species,,B188:1,synonym,B188:1:55,Tribolium confusum,,,,,,,Tenebrionidae,,Tribolium,,Tenebrionidae | Tribolium,,9172186
+B188:1:57,Tribolium destructor,,Tribolium,,destructor,,species,,B188:1,accepted,,,B188:1:52,Tribolium,,,,,Tenebrionidae,,Tribolium,,Tenebrionidae | Tribolium,,5878296
+B188:1:58,Gnatocerus,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Gnatocerus,,Tenebrionidae,,4577492
+B188:1:59,Gnatocerus cornutus,,Gnatocerus,,cornutus,,species,,B188:1,accepted,,,B188:1:58,Gnatocerus,,,,,Tenebrionidae,,Gnatocerus,,Tenebrionidae | Gnatocerus,,6097732
+B188:1:60,Gnatocerus maxillosus,,Gnatocerus,,maxillosus,,species,,B188:1,accepted,,,B188:1:58,Gnatocerus,,,,,Tenebrionidae,,Gnatocerus,,Tenebrionidae | Gnatocerus,,8689715
+B188:1:61,Corticeus,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Corticeus,,Tenebrionidae,,9417734
+B188:1:62,Hypophloeus,,,,,,genus,,B188:1,synonym,B188:1:61,Corticeus,,,,,,,Tenebrionidae,,Hypophloeus,,Tenebrionidae,62WGB,
+B188:1:63,Corticeus unicolor,,Corticeus,,unicolor,,species,,B188:1,accepted,,,B188:1:61,Corticeus,,,,,Tenebrionidae,,Corticeus,,Tenebrionidae | Corticeus,,4455173
+B188:1:64,Corticeus castaneus,,Corticeus,,castaneus,,species,,B188:1,synonym,B188:1:63,Corticeus unicolor,,,,,,,Tenebrionidae,,Corticeus,,Tenebrionidae | Corticeus,,11273095
+B188:1:65,Corticeus fraxini,,Corticeus,,fraxini,,species,,B188:1,accepted,,,B188:1:61,Corticeus,,,,,Tenebrionidae,,Corticeus,,Tenebrionidae | Corticeus,,5878395
+B188:1:66,Corticeus linearis,,Corticeus,,linearis,,species,,B188:1,accepted,,,B188:1:61,Corticeus,,,,,Tenebrionidae,,Corticeus,,Tenebrionidae | Corticeus,,6097730
+B188:1:67,Corticeus bicolor,,Corticeus,,bicolor,,species,,B188:1,accepted,,,B188:1:61,Corticeus,,,,,Tenebrionidae,,Corticeus,,Tenebrionidae | Corticeus,,6097731
+B188:1:68,Palorus,,,,,,genus,,B188:1,accepted,,,B188:1:1,Tenebrionidae,,,,,Tenebrionidae,,Palorus,,Tenebrionidae,63JD3,1045836
+B188:1:69,Palorus subdepressus,,Palorus,,subdepressus,,species,,B188:1,accepted,,,B188:1:68,Palorus,,,,,Tenebrionidae,,Palorus,,Tenebrionidae | Palorus,,1045839
+B188:1:70,Palorus depressus,,Palorus,,depressus,,species,,B188:1,synonym,B188:1:69,Palorus subdepressus,,,,,,,Tenebrionidae,,Palorus,,Tenebrionidae | Palorus,,4455116
+B188:1:71,Palorus ratzeburgii,,Palorus,,ratzeburgii,,species,,B188:1,accepted,,,B188:1:68,Palorus,,,,,Tenebrionidae,,Palorus,,Tenebrionidae | Palorus,,1045837
+B188:1:72,Palorus ratzeburgi,,Palorus,,ratzeburgi,,species,,B188:1,synonym,B188:1:71,Palorus ratzeburgii,,,,,,,Tenebrionidae,,Palorus,,Tenebrionidae | Palorus,,1045837

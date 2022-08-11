@@ -1,0 +1,99 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B182:1:1,Dermestoidea,,,,,,superfamily,,B182:1,accepted,,,,,,,,,,,,,,,
+B182:1:2,Dermestidae,,,,,,family,,B182:1,accepted,,,B182:1:1,Dermestoidea,,,,,Dermestidae,,,,Dermestoidea,94W,9714
+B182:1:6,Thylodriadinae,,,,,,subfamily,,B182:1,synonym,B182:1:3,Thylodriadinae,,,,,,,Dermestidae,Thylodriadinae,,,Dermestoidea | Dermestidae,,
+B182:1:4,Thelydriini,,,,,,subfamily,,B182:1,synonym,B182:1:3,Thylodriadinae,,,,,,,Dermestidae,Thelydriini,,,Dermestoidea | Dermestidae,,
+B182:1:5,Thylodriini,,,,,,subfamily,,B182:1,synonym,B182:1:3,Thylodriadinae,,,,,,,Dermestidae,Thylodriini,,,Dermestoidea | Dermestidae,,
+B182:1:6,Thylodriadinae,,,,,,subfamily,,B182:1,synonym,B182:1:3,Thylodriadinae,,,,,,,Dermestidae,Thylodriadinae,,,Dermestoidea | Dermestidae,,
+B182:1:7,Thylodriidae,,,,,,subfamily,,B182:1,synonym,B182:1:3,Thylodriadinae,,,,,,,Dermestidae,Thylodriidae,,,Dermestoidea | Dermestidae,,
+B182:1:8,Thylodrias,,,,,,genus,,B182:1,accepted,,,B182:1:3,Thylodriadinae,,,,,Dermestidae,Thylodriadinae,Thylodrias,,Dermestoidea | Dermestidae | Thylodriadinae,7WHP,1095807
+B182:1:9,Thylodrias contractus,,Thylodrias,,contractus,,species,,B182:1,accepted,,,B182:1:8,Thylodrias,,,,,Dermestidae,Thylodriadinae,Thylodrias,,Dermestoidea | Dermestidae | Thylodriadinae | Thylodrias,,1095808
+B182:1:10,Thorictinae,,,,,,subfamily,,B182:1,accepted,,,B182:1:2,Dermestidae,,,,,Dermestidae,Thorictinae,,,Dermestoidea | Dermestidae,,
+B182:1:11,Thaumaphrastinae,,,,,,subfamily,,B182:1,synonym,B182:1:10,Thorictinae,,,,,,,Dermestidae,Thaumaphrastinae,,,Dermestoidea | Dermestidae,,
+B182:1:12,Thorictodes,,,,,,genus,,B182:1,accepted,,,B182:1:10,Thorictinae,,,,,Dermestidae,Thorictinae,Thorictodes,,Dermestoidea | Dermestidae | Thorictinae,7W8C,1095909
+B182:1:13,Thaumaphrastus,,,,,,genus,,B182:1,synonym,B182:1:12,Thorictodes,,,,,,,Dermestidae,Thorictinae,Thaumaphrastus,,Dermestoidea | Dermestidae | Thorictinae,,4427410
+B182:1:14,Thorictodes heydeni,,Thorictodes,,heydeni,,species,,B182:1,accepted,,,B182:1:12,Thorictodes,,,,,Dermestidae,Thorictinae,Thorictodes,,Dermestoidea | Dermestidae | Thorictinae | Thorictodes,,1095910
+B182:1:15,Thorictodes karanisensis,,Thorictodes,,karanisensis,,species,,B182:1,synonym,B182:1:14,Thorictodes heydeni,,,,,,,Dermestidae,Thorictinae,Thorictodes,,Dermestoidea | Dermestidae | Thorictinae | Thorictodes,,11231652
+B182:1:16,Dermestinae,,,,,,subfamily,,B182:1,accepted,,,B182:1:2,Dermestidae,,,,,Dermestidae,Dermestinae,,,Dermestoidea | Dermestidae,,
+B182:1:26,Dermestes,,,,,,subgenus,,B182:1,accepted,,,B182:1:17,Dermestes,,,,,Dermestidae,Dermestinae,Dermestes,Dermestes,Dermestoidea | Dermestidae | Dermestinae | Dermestes,8HFGK,
+B182:1:18,Dermestinus,,,,,,subgenus,,B182:1,accepted,,,B182:1:17,Dermestes,,,,,Dermestidae,Dermestinae,Dermestes,Dermestinus,Dermestoidea | Dermestidae | Dermestinae | Dermestes,,
+B182:1:19,Dermestes carnivorus,,Dermestes,,carnivorus,,species,,B182:1,accepted,,,B182:1:18,Dermestinus,,,,,Dermestidae,Dermestinae,Dermestes,Dermestinus,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestinus,,1095847
+B182:1:20,Dermestes carniforus,,Dermestes,,carniforus,,species,,B182:1,synonym,B182:1:19,Dermestes carnivorus,,,,,,,Dermestidae,Dermestinae,Dermestes,Dermestinus,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestinus,,11257260
+B182:1:21,Dermestes frischii,,Dermestes,,frischii,,species,,B182:1,accepted,,,B182:1:18,Dermestinus,,,,,Dermestidae,Dermestinae,Dermestes,Dermestinus,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestinus,,1095854
+B182:1:22,Dermestes maculatus,,Dermestes,,maculatus,,species,,B182:1,accepted,,,B182:1:18,Dermestinus,,,,,Dermestidae,Dermestinae,Dermestes,Dermestinus,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestinus,,1095863
+B182:1:23,Dermestes vulpinus,,Dermestes,,vulpinus,,species,,B182:1,synonym,B182:1:22,Dermestes maculatus,,,,,,,Dermestidae,Dermestinae,Dermestes,Dermestinus,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestinus,,4427392
+B182:1:24,Dermestes murinus,,Dermestes,,murinus,,species,,B182:1,accepted,,,B182:1:18,Dermestinus,,,,,Dermestidae,Dermestinae,Dermestes,Dermestinus,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestinus,,4427399
+B182:1:25,Dermestes undulatus,,Dermestes,,undulatus,,species,,B182:1,accepted,,,B182:1:18,Dermestinus,,,,,Dermestidae,Dermestinae,Dermestes,Dermestinus,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestinus,,1095858
+B182:1:26,Dermestes,,,,,,subgenus,,B182:1,accepted,,,B182:1:17,Dermestes,,,,,Dermestidae,Dermestinae,Dermestes,Dermestes,Dermestoidea | Dermestidae | Dermestinae | Dermestes,8HFGK,
+B182:1:27,Dermestes ater,,Dermestes,,ater,,species,,B182:1,accepted,,,B182:1:26,Dermestes,,,,,Dermestidae,Dermestinae,Dermestes,Dermestes,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestes,,1095855
+B182:1:28,Dermestes cadaverinus,,Dermestes,,cadaverinus,,species,,B182:1,synonym,B182:1:27,Dermestes ater,,,,,,,Dermestidae,Dermestinae,Dermestes,Dermestes,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestes,,4427380
+B182:1:29,Dermestes lardarius,,Dermestes,,lardarius,,species,,B182:1,accepted,,,B182:1:26,Dermestes,,,,,Dermestidae,Dermestinae,Dermestes,Dermestes,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestes,,1095848
+B182:1:30,Dermestes leechi,,Dermestes,,leechi,,species,,B182:1,accepted,,,B182:1:26,Dermestes,,,,,Dermestidae,Dermestinae,Dermestes,Dermestes,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestes,,4427381
+B182:1:31,Dermestes haemorrhoidalis,,Dermestes,,haemorrhoidalis,,species,,B182:1,accepted,,,B182:1:26,Dermestes,,,,,Dermestidae,Dermestinae,Dermestes,Dermestes,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestes,,4427382
+B182:1:33,Dermestes peruvianus,,Dermestes,,peruvianus,,species,,B182:1,accepted,,,B182:1:26,Dermestes,,,,,Dermestidae,Dermestinae,Dermestes,Dermestes,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestes,,1095856
+B182:1:33,Dermestes peruvianus,,Dermestes,,peruvianus,,species,,B182:1,accepted,,,B182:1:26,Dermestes,,,,,Dermestidae,Dermestinae,Dermestes,Dermestes,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestes,,1095856
+B182:1:34,Dermestes oblongus,,Dermestes,,oblongus,,species,,B182:1,synonym,B182:1:33,Dermestes peruvianus,,,,,,,Dermestidae,Dermestinae,Dermestes,Dermestes,Dermestoidea | Dermestidae | Dermestinae | Dermestes | Dermestes,,7630456
+B182:1:35,Attageninae,,,,,,subfamily,,B182:1,accepted,,,B182:1:2,Dermestidae,,,,,Dermestidae,Attageninae,,,Dermestoidea | Dermestidae,,
+B182:1:36,Attagenus,,,,,,genus,,B182:1,accepted,,,B182:1:35,Attageninae,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae,62DX3,1095947
+B182:1:37,Attagenus brunneus,,Attagenus,,brunneus,,species,,B182:1,accepted,,,B182:1:36,Attagenus,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,,1095954
+B182:1:38,Attagenus elongatulus,,Attagenus,,elongatulus,,species,,B182:1,synonym,B182:1:37,Attagenus brunneus,,,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,,4739970
+B182:1:39,Attagenus cyphonoides,,Attagenus,,cyphonoides,,species,,B182:1,accepted,,,B182:1:36,Attagenus,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,,1095951
+B182:1:40,Attagenus alfeirri,,Attagenus,,alfeirri,,species,,B182:1,synonym,B182:1:39,Attagenus cyphonoides,,,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,62DX3,1095947
+B182:1:41,Attagenus fasciatus,,Attagenus,,fasciatus,,species,,B182:1,accepted,,,B182:1:36,Attagenus,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,,1095950
+B182:1:42,Attagenus gloriosae,,Attagenus,,gloriosae,,species,,B182:1,synonym,B182:1:41,Attagenus fasciatus,,,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,,8676513
+B182:1:43,Attagenus pellio,,Attagenus,,pellio,,species,,B182:1,accepted,,,B182:1:36,Attagenus,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,,1095953
+B182:1:44,Attagenus smirnovi,,Attagenus,,smirnovi,,species,,B182:1,accepted,,,B182:1:36,Attagenus,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,,4427466
+B182:1:45,Attagenus unicolor,,Attagenus,,unicolor,,species,,B182:1,accepted,,,B182:1:36,Attagenus,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,,1095958
+B182:1:46,Attagenus megatoma,,Attagenus,,megatoma,,species,,B182:1,synonym,B182:1:45,Attagenus unicolor,,,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,,1095960
+B182:1:47,Attagenus piceus,,Attagenus,,piceus,,species,,B182:1,synonym,B182:1:45,Attagenus unicolor,,,,,,,Dermestidae,Attageninae,Attagenus,,Dermestoidea | Dermestidae | Attageninae | Attagenus,,4739974
+B182:1:48,Megatominae,,,,,,subfamily,,B182:1,accepted,,,B182:1:2,Dermestidae,,,,,Dermestidae,Megatominae,,,Dermestoidea | Dermestidae,,
+B182:1:49,Trogoderma,,,,,,genus,,B182:1,accepted,,,B182:1:48,Megatominae,,,,,Dermestidae,Megatominae,Trogoderma,,Dermestoidea | Dermestidae | Megatominae,82WN,1095969
+B182:1:50,Trogoderma glabrum,,Trogoderma,,glabrum,,species,,B182:1,accepted,,,B182:1:49,Trogoderma,,,,,Dermestidae,Megatominae,Trogoderma,,Dermestoidea | Dermestidae | Megatominae | Trogoderma,,1095973
+B182:1:51,Trogoderma boron,,Trogoderma,,boron,,species,,B182:1,synonym,B182:1:50,Trogoderma glabrum,,,,,,,Dermestidae,Megatominae,Trogoderma,,Dermestoidea | Dermestidae | Megatominae | Trogoderma,,4427358
+B182:1:52,Trogoderma granarium,,Trogoderma,,granarium,,species,,B182:1,accepted,,,B182:1:49,Trogoderma,,,,,Dermestidae,Megatominae,Trogoderma,,Dermestoidea | Dermestidae | Megatominae | Trogoderma,,1095979
+B182:1:53,Trogoderma khapra,,Trogoderma,,khapra,,species,,B182:1,synonym,B182:1:52,Trogoderma granarium,,,,,,,Dermestidae,Megatominae,Trogoderma,,Dermestoidea | Dermestidae | Megatominae | Trogoderma,,4427353
+B182:1:54,Trogoderma inclusum,,Trogoderma,,inclusum,,species,,B182:1,accepted,,,B182:1:49,Trogoderma,,,,,Dermestidae,Megatominae,Trogoderma,,Dermestoidea | Dermestidae | Megatominae | Trogoderma,,1095977
+B182:1:55,Trogoderma versicolor,,Trogoderma,,versicolor,,species,,B182:1,synonym,B182:1:54,Trogoderma inclusum,,,,,,,Dermestidae,Megatominae,Trogoderma,,Dermestoidea | Dermestidae | Megatominae | Trogoderma,,1095976
+B182:1:56,Trogoderma variabile,,Trogoderma,,variabile,,species,,B182:1,accepted,,,B182:1:49,Trogoderma,,,,,Dermestidae,Megatominae,Trogoderma,,Dermestoidea | Dermestidae | Megatominae | Trogoderma,,1095971
+B182:1:57,Trogoderma parabile,,Trogoderma,,parabile,,species,,B182:1,synonym,B182:1:56,Trogoderma variabile,,,,,,,Dermestidae,Megatominae,Trogoderma,,Dermestoidea | Dermestidae | Megatominae | Trogoderma,,4427356
+B182:1:58,Reesa,,,,,,genus,,B182:1,accepted,,,B182:1:48,Megatominae,,,,,Dermestidae,Megatominae,Reesa,,Dermestoidea | Dermestidae | Megatominae,77H6,1095945
+B182:1:59,Reesa vespulae,,Reesa,,vespulae,,species,,B182:1,accepted,,,B182:1:58,Reesa,,,,,Dermestidae,Megatominae,Reesa,,Dermestoidea | Dermestidae | Megatominae | Reesa,,1095946
+B182:1:60,Globicornis,,,,,,genus,,B182:1,accepted,,,B182:1:48,Megatominae,,,,,Dermestidae,Megatominae,Globicornis,,Dermestoidea | Dermestidae | Megatominae,,4405964
+B182:1:61,Globicornis nigripes,,Globicornis,,nigripes,,species,,B182:1,accepted,,,B182:1:60,Globicornis,,,,,Dermestidae,Megatominae,Globicornis,,Dermestoidea | Dermestidae | Megatominae | Globicornis,,4427330
+B182:1:62,Globicornis plantaris,,Globicornis,,plantaris,,species,,B182:1,synonym,B182:1:61,Globicornis nigripes,,,,,,,Dermestidae,Megatominae,Globicornis,,Dermestoidea | Dermestidae | Megatominae | Globicornis,,11253045
+B182:1:63,Megatoma,,,,,,genus,,B182:1,accepted,,,B182:1:48,Megatominae,,,,,Dermestidae,Megatominae,Megatoma,,Dermestoidea | Dermestidae | Megatominae,5N4H,7944561
+B182:1:64,Megatoma undata,,Megatoma,,undata,,species,,B182:1,accepted,,,B182:1:63,Megatoma,,,,,Dermestidae,Megatominae,Megatoma,,Dermestoidea | Dermestidae | Megatominae | Megatoma,,7727762
+B182:1:65,Anthrenocerus,,,,,,genus,,B182:1,accepted,,,B182:1:48,Megatominae,,,,,Dermestidae,Megatominae,Anthrenocerus,,Dermestoidea | Dermestidae | Megatominae,,4407093
+B182:1:66,Anthrenocerus australis,,Anthrenocerus,,australis,,species,,B182:1,accepted,,,B182:1:65,Anthrenocerus,,,,,Dermestidae,Megatominae,Anthrenocerus,,Dermestoidea | Dermestidae | Megatominae | Anthrenocerus,,4427283
+B182:1:67,Orphinus,,,,,,genus,,B182:1,accepted,,,B182:1:48,Megatominae,,,,,Dermestidae,Megatominae,Orphinus,,Dermestoidea | Dermestidae | Megatominae,63HB4,1095833
+B182:1:68,Orphinus fulvipes,,Orphinus,,fulvipes,,species,,B182:1,accepted,,,B182:1:67,Orphinus,,,,,Dermestidae,Megatominae,Orphinus,,Dermestoidea | Dermestidae | Megatominae | Orphinus,,1095834
+B182:1:69,Ctesias,,,,,,genus,,B182:1,accepted,,,B182:1:48,Megatominae,,,,,Dermestidae,Megatominae,Ctesias,,Dermestoidea | Dermestidae | Megatominae,62Q9M,1095967
+B182:1:70,Tiresias,,,,,,genus,,B182:1,synonym,B182:1:69,Ctesias,,,,,,,Dermestidae,Megatominae,Tiresias,,Dermestoidea | Dermestidae | Megatominae,,
+B182:1:71,Ctesias serra,,Ctesias,,serra,,species,,B182:1,accepted,,,B182:1:69,Ctesias,,,,,Dermestidae,Megatominae,Ctesias,,Dermestoidea | Dermestidae | Megatominae | Ctesias,,4427406
+B182:1:72,Anthreninae,,,,,,subfamily,,B182:1,accepted,,,B182:1:2,Dermestidae,,,,,Dermestidae,Anthreninae,,,Dermestoidea | Dermestidae,,
+B182:1:74,Anthrenus,,,,,,subgenus,,B182:1,accepted,,,B182:1:73,Anthrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Anthrenus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus,XHF,
+B182:1:74,Anthrenus,,,,,,subgenus,,B182:1,accepted,,,B182:1:73,Anthrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Anthrenus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus,XHF,
+B182:1:75,Anthrenus flavipes,,Anthrenus,,flavipes,,species,,B182:1,accepted,,,B182:1:74,Anthrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Anthrenus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Anthrenus,,1095905
+B182:1:76,Anthrenus vorax,,Anthrenus,,vorax,,species,,B182:1,synonym,B182:1:75,Anthrenus flavipes,,,,,,,Dermestidae,Anthreninae,Anthrenus,Anthrenus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Anthrenus,,4427309
+B182:1:77,Anthrenus pimpinellae,,Anthrenus,,pimpinellae,,species,,B182:1,accepted,,,B182:1:74,Anthrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Anthrenus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Anthrenus,,1095906
+B182:1:78,Anthrenus scrophulariae,,Anthrenus,,scrophulariae,,species,,B182:1,accepted,,,B182:1:74,Anthrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Anthrenus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Anthrenus,,1095899
+B182:1:79,Anthrenodes,,,,,,subgenus,,B182:1,accepted,,,B182:1:73,Anthrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Anthrenodes,Dermestoidea | Dermestidae | Anthreninae | Anthrenus,,
+B182:1:80,Anthrenus sarnicus,,Anthrenus,,sarnicus,,species,,B182:1,accepted,,,B182:1:79,Anthrenodes,,,,,Dermestidae,Anthreninae,Anthrenus,Anthrenodes,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Anthrenodes,,4427306
+B182:1:81,Anthrenops,,,,,,subgenus,,B182:1,accepted,,,B182:1:73,Anthrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Anthrenops,Dermestoidea | Dermestidae | Anthreninae | Anthrenus,,
+B182:1:82,Anthrenus coloratus,,Anthrenus,,coloratus,,species,,B182:1,accepted,,,B182:1:81,Anthrenops,,,,,Dermestidae,Anthreninae,Anthrenus,Anthrenops,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Anthrenops,,1095893
+B182:1:83,Florilinus,,,,,,subgenus,,B182:1,accepted,,,B182:1:73,Anthrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Florilinus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus,,
+B182:1:84,Anthrenus museorum,,Anthrenus,,museorum,,species,,B182:1,accepted,,,B182:1:83,Florilinus,,,,,Dermestidae,Anthreninae,Anthrenus,Florilinus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Florilinus,,1095904
+B182:1:85,Anthrenus olgae,,Anthrenus,,olgae,,species,,B182:1,accepted,,,B182:1:83,Florilinus,,,,,Dermestidae,Anthreninae,Anthrenus,Florilinus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Florilinus,,4427298
+B182:1:86,Helocerus,,,,,,subgenus,,B182:1,accepted,,,B182:1:73,Anthrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Helocerus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus,,
+B182:1:87,Anthrenus fuscus,,Anthrenus,,fuscus,,species,,B182:1,accepted,,,B182:1:86,Helocerus,,,,,Dermestidae,Anthreninae,Anthrenus,Helocerus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Helocerus,,1095903
+B182:1:88,Anthrenus claviger,,Anthrenus,,claviger,,species,,B182:1,synonym,B182:1:87,Anthrenus fuscus,,,,,,,Dermestidae,Anthreninae,Anthrenus,Helocerus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Helocerus,,6966271
+B182:1:89,Nathrenus,,,,,,subgenus,,B182:1,accepted,,,B182:1:73,Anthrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Nathrenus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus,,
+B182:1:90,Anthrenus verbasci,,Anthrenus,,verbasci,,species,,B182:1,accepted,,,B182:1:89,Nathrenus,,,,,Dermestidae,Anthreninae,Anthrenus,Nathrenus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Nathrenus,,1095895
+B182:1:91,Anthrenus varius,,Anthrenus,,varius,,species,,B182:1,synonym,B182:1:90,Anthrenus verbasci,,,,,,,Dermestidae,Anthreninae,Anthrenus,Nathrenus,Dermestoidea | Dermestidae | Anthreninae | Anthrenus | Nathrenus,,6549332
+B182:1:92,Trinodinae,,,,,,subfamily,,B182:1,accepted,,,B182:1:2,Dermestidae,,,,,Dermestidae,Trinodinae,,,Dermestoidea | Dermestidae,,
+B182:1:93,Trinodes,,,,,,genus,,B182:1,accepted,,,B182:1:92,Trinodinae,,,,,Dermestidae,Trinodinae,Trinodes,,Dermestoidea | Dermestidae | Trinodinae,,4407563
+B182:1:94,Trinodes hirtus,,Trinodes,,hirtus,,species,,B182:1,accepted,,,B182:1:93,Trinodes,,,,,Dermestidae,Trinodinae,Trinodes,,Dermestoidea | Dermestidae | Trinodinae | Trinodes,,4427490
+B182:1:95,Derodontoidea,,,,,,superfamily,,B182:1,accepted,,,,,,,,,,,,,,52P,
+B182:1:96,Derodontidae,,,,,,family,,B182:1,accepted,,,B182:1:95,Derodontoidea,,,,,Derodontidae,,,,Derodontoidea,955,7822
+B182:1:97,Laricobius,,,,,,genus,,B182:1,accepted,,,B182:1:96,Derodontidae,,,,,Derodontidae,,Laricobius,,Derodontoidea | Derodontidae,62XCG,1038935
+B182:1:98,Laricobius erichsonii,,Laricobius,,erichsonii,,species,,B182:1,accepted,,,B182:1:97,Laricobius,,,,,Derodontidae,,Laricobius,,Derodontoidea | Derodontidae | Laricobius,,5879234

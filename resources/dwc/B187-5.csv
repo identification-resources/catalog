@@ -1,0 +1,26 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B187:5:1,Salpingidae,,,,,,family,,B187:5,accepted,,,,,,,,,Salpingidae,,,,,FWQ,7848
+B187:5:2,Lissodema,,,,,,genus,,B187:5,accepted,,,B187:5:1,Salpingidae,,,,,Salpingidae,,Lissodema,,Salpingidae,,3262761
+B187:5:3,Lissodema quadripustulatum,,Lissodema,,quadripustulatum,,species,,B187:5,accepted,,,B187:5:2,Lissodema,,,,,Salpingidae,,Lissodema,,Salpingidae | Lissodema,,8483035
+B187:5:4,Lissodema cursor,,Lissodema,,cursor,,species,,B187:5,accepted,,,B187:5:2,Lissodema,,,,,Salpingidae,,Lissodema,,Salpingidae | Lissodema,,5750797
+B187:5:5,Lissodema kirkae,,Lissodema,,kirkae,,species,,B187:5,synonym,B187:5:4,Lissodema cursor,,,,,,,Salpingidae,,Lissodema,,Salpingidae | Lissodema,,11265625
+B187:5:6,Vincenzellus,,,,,,genus,,B187:5,accepted,,,B187:5:1,Salpingidae,,,,,Salpingidae,,Vincenzellus,,Salpingidae,63VN8,1045911
+B187:5:7,Vincenzellus viridipennis,,Vincenzellus,,viridipennis,,species,,B187:5,accepted,,,B187:5:6,Vincenzellus,,,,,Salpingidae,,Vincenzellus,,Salpingidae | Vincenzellus,,8609055
+B187:5:8,Rhinosimus,,,,,,genus,,B187:5,accepted,,,B187:5:1,Salpingidae,,,,,Salpingidae,,Rhinosimus,,Salpingidae,78T5,1045909
+B187:5:9,Rhinosimus planirostris,,Rhinosimus,,planirostris,,species,,B187:5,accepted,,,B187:5:8,Rhinosimus,,,,,Salpingidae,,Rhinosimus,,Salpingidae | Rhinosimus,,6956443
+B187:5:10,Rhinosimus ruficollis,,Rhinosimus,,ruficollis,,species,,B187:5,accepted,,,B187:5:8,Rhinosimus,,,,,Salpingidae,,Rhinosimus,,Salpingidae | Rhinosimus,,6956418
+B187:5:11,Salpingus,,,,,,genus,,B187:5,accepted,,,B187:5:1,Salpingidae,,,,,Salpingidae,,Salpingus,,Salpingidae,,1185987
+B187:5:12,Sphaeriestes,,,,,,genus,,B187:5,synonym,B187:5:11,Salpingus,,,,,,,Salpingidae,,Sphaeriestes,,Salpingidae,644HW,6007687
+B187:5:13,Salpingus castaneus,,Salpingus,,castaneus,,species,,B187:5,accepted,,,B187:5:11,Salpingus,,,,,Salpingidae,,Salpingus,,Salpingidae | Salpingus,,7419565
+B187:5:14,Salpingus immaculatus,,Salpingus,,immaculatus,,species,,B187:5,synonym,B187:5:13,Salpingus castaneus,,,,,,,Salpingidae,,Salpingus,,Salpingidae | Salpingus,,1185987
+B187:5:19,Salpingus ater,,Salpingus,,ater,,species,,B187:5,synonym,B187:5:17,Salpingus reyi,,,,,,,Salpingidae,,Salpingus,,Salpingidae | Salpingus,,9028732
+B187:5:16,Salpingus picea,,Salpingus,,picea,,species,,B187:5,synonym,B187:5:15,Salpingus ater,,,,,,,Salpingidae,,Salpingus,,Salpingidae | Salpingus,,1185987
+B187:5:17,Salpingus reyi,,Salpingus,,reyi,,species,,B187:5,accepted,,,B187:5:11,Salpingus,,,,,Salpingidae,,Salpingus,,Salpingidae | Salpingus,,6956341
+B187:5:18,Salpingus aeratus,,Salpingus,,aeratus,,species,,B187:5,synonym,B187:5:17,Salpingus reyi,,,,,,,Salpingidae,,Salpingus,,Salpingidae | Salpingus,,6956329
+B187:5:19,Salpingus ater,,Salpingus,,ater,,species,,B187:5,synonym,B187:5:17,Salpingus reyi,,,,,,,Salpingidae,,Salpingus,,Salpingidae | Salpingus,,9028732
+B187:5:20,Rabocerus,,,,,,genus,,B187:5,accepted,,,B187:5:1,Salpingidae,,,,,Salpingidae,,Rabocerus,,Salpingidae,,4761581
+B187:5:25,Rabocerus foveolatus,,Rabocerus,,foveolatus,,species,,B187:5,synonym,B187:5:24,Rabocerus gabrieli,,,,,,,Salpingidae,,Rabocerus,,Salpingidae | Rabocerus,,7005099
+B187:5:22,Rabocerus mutilatus,,Rabocerus,,mutilatus,,species,,B187:5,synonym,B187:5:21,Rabocerus foveolatus,,,,,,,Salpingidae,,Rabocerus,,Salpingidae | Rabocerus,,11308098
+B187:5:23,Rabocerus bishopi,,Rabocerus,,bishopi,,species,,B187:5,synonym,B187:5:21,Rabocerus foveolatus,,,,,,,Salpingidae,,Rabocerus,,Salpingidae | Rabocerus,,7005098
+B187:5:24,Rabocerus gabrieli,,Rabocerus,,gabrieli,,species,,B187:5,accepted,,,B187:5:20,Rabocerus,,,,,Salpingidae,,Rabocerus,,Salpingidae | Rabocerus,,6097807
+B187:5:25,Rabocerus foveolatus,,Rabocerus,,foveolatus,,species,,B187:5,synonym,B187:5:24,Rabocerus gabrieli,,,,,,,Salpingidae,,Rabocerus,,Salpingidae | Rabocerus,,7005099

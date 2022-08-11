@@ -1,0 +1,696 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B171:1:1,Carabidae,,,,,,family,,B171:1,accepted,,,,,,,,,Carabidae,,,,,8KTL7,3792
+B171:1:2,Cicindelinae,,,,,,subfamily,,B171:1,accepted,,,B171:1:1,Carabidae,,,,,Carabidae,Cicindelinae,,,Carabidae,8KTNV,
+B171:1:3,Cicindelini,,,,,,tribe,,B171:1,accepted,,,B171:1:2,Cicindelinae,,,,,Carabidae,Cicindelinae,,,Carabidae | Cicindelinae,8KTTJ,
+B171:1:4,Cicindela,,,,,,genus,,B171:1,accepted,,,B171:1:3,Cicindelini,,,,,Carabidae,Cicindelinae,Cicindela,,Carabidae | Cicindelinae | Cicindelini,8KVK7,1034699
+B171:1:5,Cicindela sylvatica,,Cicindela,,sylvatica,,species,,B171:1,accepted,,,B171:1:4,Cicindela,,,,,Carabidae,Cicindelinae,Cicindela,,Carabidae | Cicindelinae | Cicindelini | Cicindela,5YSSV,4480480
+B171:1:6,Cicindela silvatica,,Cicindela,,silvatica,,species,,B171:1,synonym,B171:1:5,Cicindela sylvatica,,,,,,,Carabidae,Cicindelinae,Cicindela,,Carabidae | Cicindelinae | Cicindelini | Cicindela,5YSSV,4480480
+B171:1:7,Cicindela germanica,,Cicindela,,germanica,,species,,B171:1,accepted,,,B171:1:4,Cicindela,,,,,Carabidae,Cicindelinae,Cicindela,,Carabidae | Cicindelinae | Cicindelini | Cicindela,5YT5T,8092427
+B171:1:8,Cicindela campestris,,Cicindela,,campestris,,species,,B171:1,accepted,,,B171:1:4,Cicindela,,,,,Carabidae,Cicindelinae,Cicindela,,Carabidae | Cicindelinae | Cicindelini | Cicindela,V88V,4480485
+B171:1:9,Cicindela maritima,,Cicindela,,maritima,,species,,B171:1,accepted,,,B171:1:4,Cicindela,,,,,Carabidae,Cicindelinae,Cicindela,,Carabidae | Cicindelinae | Cicindelini | Cicindela,V89W,7727698
+B171:1:10,Cicindela hybrida,,Cicindela,,hybrida,,species,,B171:1,accepted,,,B171:1:4,Cicindela,,,,,Carabidae,Cicindelinae,Cicindela,,Carabidae | Cicindelinae | Cicindelini | Cicindela,V89F,4480502
+B171:1:11,Omophroninae,,,,,,subfamily,,B171:1,accepted,,,B171:1:1,Carabidae,,,,,Carabidae,Omophroninae,,,Carabidae,8KTQ7,
+B171:1:12,Omophronini,,,,,,tribe,,B171:1,accepted,,,B171:1:11,Omophroninae,,,,,Carabidae,Omophroninae,,,Carabidae | Omophroninae,,
+B171:1:13,Omophron,,,,,,genus,,B171:1,accepted,,,B171:1:12,Omophronini,,,,,Carabidae,Omophroninae,Omophron,,Carabidae | Omophroninae | Omophronini,8KXMC,1037679
+B171:1:14,Omophron limbatum,,Omophron,,limbatum,,species,,B171:1,accepted,,,B171:1:13,Omophron,,,,,Carabidae,Omophroninae,Omophron,,Carabidae | Omophroninae | Omophronini | Omophron,74LVD,4475934
+B171:1:15,Carabinae,,,,,,subfamily,,B171:1,accepted,,,B171:1:1,Carabidae,,,,,Carabidae,Carabinae,,,Carabidae,8KTNH,
+B171:1:16,Cychrini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTTS,
+B171:1:17,Cychrus,,,,,,genus,,B171:1,accepted,,,B171:1:16,Cychrini,,,,,Carabidae,Carabinae,Cychrus,,Carabidae | Carabinae | Cychrini,8KVP2,7236298
+B171:1:18,Cychrus caraboides,,Cychrus,,caraboides,,species,,B171:1,accepted,,,B171:1:17,Cychrus,,,,,Carabidae,Carabinae,Cychrus,,Carabidae | Carabinae | Cychrini | Cychrus,6C4FV,5753612
+B171:1:19,Carabini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTT7,
+B171:1:20,Carabus,,,,,,genus,,B171:1,accepted,,,B171:1:19,Carabini,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini,8KVGQ,1036775
+B171:1:21,Carabus clathratus,,Carabus,,clathratus,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,8L5WL,9224900
+B171:1:22,Carabus cancellatus,,Carabus,,cancellatus,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,QV72,4470480
+B171:1:23,Carabus granulatus,,Carabus,,granulatus,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,5WZ3S,1036789
+B171:1:24,Carabus nitens,,Carabus,,nitens,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,5WZ66,4471071
+B171:1:25,Carabus auratus,,Carabus,,auratus,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,QV6Z,1036779
+B171:1:26,Carabus intricatus,,Carabus,,intricatus,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,5WYRC,4471016
+B171:1:27,Carabus monilis,,Carabus,,monilis,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,68Z7T,4470801
+B171:1:28,Carabus nemoralis,,Carabus,,nemoralis,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,5WYRN,8056040
+B171:1:29,Carabus problematicus,,Carabus,,problematicus,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,68Z82,4470555
+B171:1:30,Carabus catenulatus,,Carabus,,catenulatus,,species,,B171:1,synonym,B171:1:29,Carabus problematicus,,,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,8M8D6,6546645
+B171:1:31,Carabus arvensis,,Carabus,,arvensis,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,8L5GL,5872829
+B171:1:32,Carabus arcensis,,Carabus,,arcensis,,species,,B171:1,synonym,B171:1:31,Carabus arvensis,,,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,8M7B4,4470649
+B171:1:33,Carabus violaceus,,Carabus,,violaceus,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,68YVQ,4470765
+B171:1:34,Carabus glabratus,,Carabus,,glabratus,,species,,B171:1,accepted,,,B171:1:20,Carabus,,,,,Carabidae,Carabinae,Carabus,,Carabidae | Carabinae | Carabini | Carabus,8M7NP,4471113
+B171:1:35,Calosoma,,,,,,genus,,B171:1,accepted,,,B171:1:19,Carabini,,,,,Carabidae,Carabinae,Calosoma,,Carabidae | Carabinae | Carabini,8KVFX,3256369
+B171:1:36,Calosoma inquisitor,,Calosoma,,inquisitor,,species,,B171:1,accepted,,,B171:1:35,Calosoma,,,,,Carabidae,Carabinae,Calosoma,,Carabidae | Carabinae | Carabini | Calosoma,Q38W,5872954
+B171:1:37,Calosoma sycophanta,,Calosoma,,sycophanta,,species,,B171:1,accepted,,,B171:1:35,Calosoma,,,,,Carabidae,Carabinae,Calosoma,,Carabidae | Carabinae | Carabini | Calosoma,Q394,4989308
+B171:1:38,Nebriini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTWC,
+B171:1:39,Leistus,,,,,,genus,,B171:1,accepted,,,B171:1:38,Nebriini,,,,,Carabidae,Carabinae,Leistus,,Carabidae | Carabinae | Nebriini,8KVTP,4753253
+B171:1:40,Leistus fulvibarbis,,Leistus,,fulvibarbis,,species,,B171:1,accepted,,,B171:1:39,Leistus,,,,,Carabidae,Carabinae,Leistus,,Carabidae | Carabinae | Nebriini | Leistus,3T383,4473834
+B171:1:41,Leistus spinibarbis,,Leistus,,spinibarbis,,species,,B171:1,accepted,,,B171:1:39,Leistus,,,,,Carabidae,Carabinae,Leistus,,Carabidae | Carabinae | Nebriini | Leistus,6P6VN,4473903
+B171:1:42,Leistus montanus,,Leistus,,montanus,,species,,B171:1,accepted,,,B171:1:39,Leistus,,,,,Carabidae,Carabinae,Leistus,,Carabidae | Carabinae | Nebriini | Leistus,3T39Q,4473893
+B171:1:43,Leistus rufomarginatus,,Leistus,,rufomarginatus,,species,,B171:1,accepted,,,B171:1:39,Leistus,,,,,Carabidae,Carabinae,Leistus,,Carabidae | Carabinae | Nebriini | Leistus,6P6W2,4473930
+B171:1:44,Leistus ferrugineus,,Leistus,,ferrugineus,,species,,B171:1,accepted,,,B171:1:39,Leistus,,,,,Carabidae,Carabinae,Leistus,,Carabidae | Carabinae | Nebriini | Leistus,3T37Z,4473860
+B171:1:45,Leistus rufescens,,Leistus,,rufescens,,species,,B171:1,accepted,,,B171:1:39,Leistus,,,,,Carabidae,Carabinae,Leistus,,Carabidae | Carabinae | Nebriini | Leistus,,7719436
+B171:1:46,Leistus terminatus,,Leistus,,terminatus,,species,,B171:1,synonym,B171:1:45,Leistus rufescens,,,,,,,Carabidae,Carabinae,Leistus,,Carabidae | Carabinae | Nebriini | Leistus,3T38Q,4473874
+B171:1:47,Pelophila,,,,,,genus,,B171:1,accepted,,,B171:1:38,Nebriini,,,,,Carabidae,Carabinae,Pelophila,,Carabidae | Carabinae | Nebriini,8KY2V,7839227
+B171:1:48,Pelophila borealis,,Pelophila,,borealis,,species,,B171:1,accepted,,,B171:1:47,Pelophila,,,,,Carabidae,Carabinae,Pelophila,,Carabidae | Carabinae | Nebriini | Pelophila,76CH8,4988516
+B171:1:54,Nebria,,,,,,subgenus,,B171:1,accepted,,,B171:1:49,Nebria,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria,8KVW4,
+B171:1:50,Helobia,,,,,,genus,,B171:1,synonym,B171:1:49,Nebria,,,,,,,Carabidae,Carabinae,Helobia,,Carabidae | Carabinae | Nebriini,8LLT2,3260669
+B171:1:52,Eurynebria,,,,,,subgenus,,B171:1,accepted,,,B171:1:49,Nebria,,,,,Carabidae,Carabinae,Nebria,Eurynebria,Carabidae | Carabinae | Nebriini | Nebria,8MJZG,
+B171:1:52,Eurynebria,,,,,,subgenus,,B171:1,accepted,,,B171:1:49,Nebria,,,,,Carabidae,Carabinae,Nebria,Eurynebria,Carabidae | Carabinae | Nebriini | Nebria,8MJZG,
+B171:1:53,Nebria complanata,,Nebria,,complanata,,species,,B171:1,accepted,,,B171:1:52,Eurynebria,,,,,Carabidae,Carabinae,Nebria,Eurynebria,Carabidae | Carabinae | Nebriini | Nebria | Eurynebria,74626,4308787
+B171:1:54,Nebria,,,,,,subgenus,,B171:1,accepted,,,B171:1:49,Nebria,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria,8KVW4,
+B171:1:55,Nebria livida,,Nebria,,livida,,species,,B171:1,accepted,,,B171:1:54,Nebria,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria | Nebria,8MFLY,8051076
+B171:1:56,Nebria brevicollis,,Nebria,,brevicollis,,species,,B171:1,accepted,,,B171:1:54,Nebria,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria | Nebria,45YVR,1035578
+B171:1:57,Nebria salina,,Nebria,,salina,,species,,B171:1,accepted,,,B171:1:54,Nebria,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria | Nebria,45YWX,4473795
+B171:1:58,Nebria degenerata,,Nebria,,degenerata,,species,,B171:1,synonym,B171:1:57,Nebria salina,,,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria | Nebria,45Z4V,4473797
+B171:1:59,Nebria iberica,,Nebria,,iberica,,species,,B171:1,synonym,B171:1:57,Nebria salina,,,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria | Nebria,45Z6M,4473798
+B171:1:60,Nebria klinckowstroemi,,Nebria,,klinckowstroemi,,species,,B171:1,synonym,B171:1:57,Nebria salina,,,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria | Nebria,,11310008
+B171:1:61,Nebria gyllenhali,,Nebria,,gyllenhali,,species,,B171:1,accepted,,,B171:1:54,Nebria,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria | Nebria,8LK2T,1035606
+B171:1:62,Nebria rufescens,,Nebria,,rufescens,,species,,B171:1,synonym,B171:1:61,Nebria gyllenhali,,,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria | Nebria,45YP9,4473617
+B171:1:63,Nebria nivalis,,Nebria,,nivalis,,species,,B171:1,accepted,,,B171:1:54,Nebria,,,,,Carabidae,Carabinae,Nebria,Nebria,Carabidae | Carabinae | Nebriini | Nebria | Nebria,45YP5,1035596
+B171:1:64,Notiophilini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTWD,
+B171:1:65,Notiophilus,,,,,,genus,,B171:1,accepted,,,B171:1:64,Notiophilini,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini,8HLHT,9161145
+B171:1:66,Notiophilus rufipes,,Notiophilus,,rufipes,,species,,B171:1,accepted,,,B171:1:65,Notiophilus,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,8J4WX,5023058
+B171:1:67,Notiophilus substriatus,,Notiophilus,,substriatus,,species,,B171:1,accepted,,,B171:1:65,Notiophilus,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,6SBZK,11017128
+B171:1:68,Notiophilus quadripunctatus,,Notiophilus,,quadripunctatus,,species,,B171:1,accepted,,,B171:1:65,Notiophilus,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,6SBY6,6097897
+B171:1:69,Notiophilus biguttatus,,Notiophilus,,biguttatus,,species,,B171:1,accepted,,,B171:1:65,Notiophilus,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,74C8Z,9364935
+B171:1:70,Notiophilus aquaticus,,Notiophilus,,aquaticus,,species,,B171:1,accepted,,,B171:1:65,Notiophilus,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,6SBWZ,9796855
+B171:1:71,Notiophilus strigifrons,,Notiophilus,,strigifrons,,species,,B171:1,synonym,B171:1:70,Notiophilus aquaticus,,,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,6SBZM,7702341
+B171:1:72,Notiophilus blacki,,Notiophilus,,blacki,,species,,B171:1,synonym,B171:1:70,Notiophilus aquaticus,,,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,6SBWX,8169584
+B171:1:73,Notiophilus aestuans,,Notiophilus,,aestuans,,species,,B171:1,accepted,,,B171:1:65,Notiophilus,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,8562Z,6097898
+B171:1:74,Notiophilus pusillus,,Notiophilus,,pusillus,,species,,B171:1,synonym,B171:1:73,Notiophilus aestuans,,,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,74BXV,5023044
+B171:1:75,Notiophilus germinyi,,Notiophilus,,germinyi,,species,,B171:1,accepted,,,B171:1:65,Notiophilus,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,74C8T,6097896
+B171:1:76,Notiophilus hypocrita,,Notiophilus,,hypocrita,,species,,B171:1,synonym,B171:1:75,Notiophilus germinyi,,,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,,7497684
+B171:1:77,Notiophilus palustris,,Notiophilus,,palustris,,species,,B171:1,accepted,,,B171:1:65,Notiophilus,,,,,Carabidae,Carabinae,Notiophilus,,Carabidae | Carabinae | Notiophilini | Notiophilus,6SC9Z,8264200
+B171:1:78,Elaphrini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,,
+B171:1:79,Blethisa,,,,,,genus,,B171:1,accepted,,,B171:1:78,Elaphrini,,,,,Carabidae,Carabinae,Blethisa,,Carabidae | Carabinae | Elaphrini,8KVBY,4988206
+B171:1:80,Helobium,,,,,,genus,,B171:1,synonym,B171:1:79,Blethisa,,,,,,,Carabidae,Carabinae,Helobium,,Carabidae | Carabinae | Elaphrini,8LRXR,8278799
+B171:1:81,Blethisa multipunctata,,Blethisa,,multipunctata,,species,,B171:1,accepted,,,B171:1:79,Blethisa,,,,,Carabidae,Carabinae,Blethisa,,Carabidae | Carabinae | Elaphrini | Blethisa,M6PR,4988207
+B171:1:82,Elaphrus,,,,,,genus,,B171:1,accepted,,,B171:1:78,Elaphrini,,,,,Carabidae,Carabinae,Elaphrus,,Carabidae | Carabinae | Elaphrini,8KW3M,1035537
+B171:1:83,Elaphrus lapponicus,,Elaphrus,,lapponicus,,species,,B171:1,accepted,,,B171:1:82,Elaphrus,,,,,Carabidae,Carabinae,Elaphrus,,Carabidae | Carabinae | Elaphrini | Elaphrus,3946F,1035542
+B171:1:84,Elaphrus uliginosus,,Elaphrus,,uliginosus,,species,,B171:1,accepted,,,B171:1:82,Elaphrus,,,,,Carabidae,Carabinae,Elaphrus,,Carabidae | Carabinae | Elaphrini | Elaphrus,3947L,4473320
+B171:1:85,Elaphrus cupreus,,Elaphrus,,cupreus,,species,,B171:1,accepted,,,B171:1:82,Elaphrus,,,,,Carabidae,Carabinae,Elaphrus,,Carabidae | Carabinae | Elaphrini | Elaphrus,39479,4473319
+B171:1:86,Elaphrus riparius,,Elaphrus,,riparius,,species,,B171:1,accepted,,,B171:1:82,Elaphrus,,,,,Carabidae,Carabinae,Elaphrus,,Carabidae | Carabinae | Elaphrini | Elaphrus,3946X,1035551
+B171:1:87,Loricerini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,,
+B171:1:88,Loricera,,,,,,genus,,B171:1,accepted,,,B171:1:87,Loricerini,,,,,Carabidae,Carabinae,Loricera,,Carabidae | Carabinae | Loricerini,8KWRN,1035289
+B171:1:89,Lorocera,,,,,,genus,,B171:1,synonym,B171:1:88,Loricera,,,,,,,Carabidae,Carabinae,Lorocera,,Carabidae | Carabinae | Loricerini,8LS5H,4480427
+B171:1:90,Loricera pilicornis,,Loricera,,pilicornis,,species,,B171:1,accepted,,,B171:1:88,Loricera,,,,,Carabidae,Carabinae,Loricera,,Carabidae | Carabinae | Loricerini | Loricera,3W7C5,1035290
+B171:1:91,Loricera coerulescense,,Loricera,,coerulescense,,species,,B171:1,synonym,B171:1:90,Loricera pilicornis,,,,,,,Carabidae,Carabinae,Loricera,,Carabidae | Carabinae | Loricerini | Loricera,,9242322
+B171:1:92,Scaritini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTXG,
+B171:1:93,Dyschirius,,,,,,genus,,B171:1,accepted,,,B171:1:92,Scaritini,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini,8KVT2,8285365
+B171:1:94,Dyschirius obscurus,,Dyschirius,,obscurus,,species,,B171:1,accepted,,,B171:1:93,Dyschirius,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387N6,5716408
+B171:1:95,Dyschirius thoracicus,,Dyschirius,,thoracicus,,species,,B171:1,accepted,,,B171:1:93,Dyschirius,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387N8,9726179
+B171:1:96,Dyschirius arenosus,,Dyschirius,,arenosus,,species,,B171:1,synonym,B171:1:95,Dyschirius thoracicus,,,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,6DPPS,5756876
+B171:1:97,Dyschirius angustatus,,Dyschirius,,angustatus,,species,,B171:1,accepted,,,B171:1:93,Dyschirius,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387MS,5756888
+B171:1:98,Dyschirius extensus,,Dyschirius,,extensus,,species,,B171:1,accepted,,,B171:1:93,Dyschirius,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387HK,5756981
+B171:1:99,Dyschirius elongatulus,,Dyschirius,,elongatulus,,species,,B171:1,synonym,B171:1:98,Dyschirius extensus,,,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,6DQ25,5756982
+B171:1:100,Dyschirius impunctipennis,,Dyschirius,,impunctipennis,,species,,B171:1,accepted,,,B171:1:93,Dyschirius,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387KC,5716409
+B171:1:101,Dyschirius nitidus,,Dyschirius,,nitidus,,species,,B171:1,accepted,,,B171:1:93,Dyschirius,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387LC,6097861
+B171:1:102,Dyschirius politus,,Dyschirius,,politus,,species,,B171:1,accepted,,,B171:1:93,Dyschirius,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387LR,6097862
+B171:1:103,Dyschirius globosus,,Dyschirius,,globosus,,species,,B171:1,accepted,,,B171:1:93,Dyschirius,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387PN,5873524
+B171:1:104,Dyschirius gibbus,,Dyschirius,,gibbus,,species,,B171:1,synonym,B171:1:103,Dyschirius globosus,,,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,6DQ3C,7462867
+B171:1:105,Dyschirius salinus,,Dyschirius,,salinus,,species,,B171:1,accepted,,,B171:1:93,Dyschirius,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387LW,5716406
+B171:1:106,Dyschirius luedersi,,Dyschirius,,luedersi,,species,,B171:1,accepted,,,B171:1:93,Dyschirius,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387WP,5756947
+B171:1:107,Dyschirius aeneus,,Dyschirius,,aeneus,,species,,B171:1,synonym,B171:1:106,Dyschirius luedersi,,,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,387HQ,9779970
+B171:1:108,Dyschirius unicolor,,Dyschirius,,unicolor,,species,,B171:1,synonym,B171:1:106,Dyschirius luedersi,,,,,,,Carabidae,Carabinae,Dyschirius,,Carabidae | Carabinae | Scaritini | Dyschirius,3883N,5756946
+B171:1:109,Clivina,,,,,,genus,,B171:1,accepted,,,B171:1:92,Scaritini,,,,,Carabidae,Carabinae,Clivina,,Carabidae | Carabinae | Scaritini,8KVKT,1036880
+B171:1:110,Clivina fossor,,Clivina,,fossor,,species,,B171:1,accepted,,,B171:1:109,Clivina,,,,,Carabidae,Carabinae,Clivina,,Carabidae | Carabinae | Scaritini | Clivina,5ZB38,1036893
+B171:1:111,Clivina collaris,,Clivina,,collaris,,species,,B171:1,accepted,,,B171:1:109,Clivina,,,,,Carabidae,Carabinae,Clivina,,Carabidae | Carabinae | Scaritini | Clivina,5ZB3Q,1036899
+B171:1:112,Clivina contracta,,Clivina,,contracta,,species,,B171:1,synonym,B171:1:111,Clivina collaris,,,,,,,Carabidae,Carabinae,Clivina,,Carabidae | Carabinae | Scaritini | Clivina,5ZCHT,7702717
+B171:1:113,Broscini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTT6,
+B171:1:114,Miscodera,,,,,,genus,,B171:1,accepted,,,B171:1:113,Broscini,,,,,Carabidae,Carabinae,Miscodera,,Carabidae | Carabinae | Broscini,8KX7N,1036957
+B171:1:115,Miscodera arctica,,Miscodera,,arctica,,species,,B171:1,accepted,,,B171:1:114,Miscodera,,,,,Carabidae,Carabinae,Miscodera,,Carabidae | Carabinae | Broscini | Miscodera,43N5N,1036958
+B171:1:116,Broscus,,,,,,genus,,B171:1,accepted,,,B171:1:113,Broscini,,,,,Carabidae,Carabinae,Broscus,,Carabidae | Carabinae | Broscini,8KVDS,3260725
+B171:1:117,Broscus cephalotes,,Broscus,,cephalotes,,species,,B171:1,accepted,,,B171:1:116,Broscus,,,,,Carabidae,Carabinae,Broscus,,Carabidae | Carabinae | Broscini | Broscus,NDY3,4308815
+B171:1:118,Patrobini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTWP,
+B171:1:119,Patrobus,,,,,,genus,,B171:1,accepted,,,B171:1:118,Patrobini,,,,,Carabidae,Carabinae,Patrobus,,Carabidae | Carabinae | Patrobini,8KXZC,1035363
+B171:1:120,Patrobus septentrionis,,Patrobus,,septentrionis,,species,,B171:1,accepted,,,B171:1:119,Patrobus,,,,,Carabidae,Carabinae,Patrobus,,Carabidae | Carabinae | Patrobini | Patrobus,75TPW,1035366
+B171:1:121,Patrobus atrorufus,,Patrobus,,atrorufus,,species,,B171:1,accepted,,,B171:1:119,Patrobus,,,,,Carabidae,Carabinae,Patrobus,,Carabidae | Carabinae | Patrobini | Patrobus,6TTPB,4475902
+B171:1:122,Patrobus excavatus,,Patrobus,,excavatus,,species,,B171:1,synonym,B171:1:121,Patrobus atrorufus,,,,,,,Carabidae,Carabinae,Patrobus,,Carabidae | Carabinae | Patrobini | Patrobus,75TPJ,7776901
+B171:1:123,Patrobus assimilis,,Patrobus,,assimilis,,species,,B171:1,accepted,,,B171:1:119,Patrobus,,,,,Carabidae,Carabinae,Patrobus,,Carabidae | Carabinae | Patrobini | Patrobus,765MV,4475908
+B171:1:124,Patrobus clavipes,,Patrobus,,clavipes,,species,,B171:1,synonym,B171:1:123,Patrobus assimilis,,,,,,,Carabidae,Carabinae,Patrobus,,Carabidae | Carabinae | Patrobini | Patrobus,75TPG,4475909
+B171:1:125,Trechini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTXW,
+B171:1:126,Perileptus,,,,,,genus,,B171:1,accepted,,,B171:1:125,Trechini,,,,,Carabidae,Carabinae,Perileptus,,Carabidae | Carabinae | Trechini,8KY43,1035524
+B171:1:127,Perileptus areolauts,,Perileptus,,areolauts,,species,,B171:1,accepted,,,B171:1:126,Perileptus,,,,,Carabidae,Carabinae,Perileptus,,Carabidae | Carabinae | Trechini | Perileptus,8KY43,1035524
+B171:1:128,Aepus,,,,,,genus,,B171:1,accepted,,,B171:1:125,Trechini,,,,,Carabidae,Carabinae,Aepus,,Carabidae | Carabinae | Trechini,8KTZW,10933835
+B171:1:129,Aepopsis,,,,,,genus,,B171:1,synonym,B171:1:128,Aepus,,,,,,,Carabidae,Carabinae,Aepopsis,,Carabidae | Carabinae | Trechini,8KTZT,4308808
+B171:1:130,Aepus marginus,,Aepus,,marginus,,species,,B171:1,accepted,,,B171:1:128,Aepus,,,,,Carabidae,Carabinae,Aepus,,Carabidae | Carabinae | Trechini | Aepus,64ZMK,4308811
+B171:1:131,Aepus robini,,Aepus,,robini,,species,,B171:1,accepted,,,B171:1:128,Aepus,,,,,Carabidae,Carabinae,Aepus,,Carabidae | Carabinae | Trechini | Aepus,64ZMN,7888598
+B171:1:132,Thalassophilus,,,,,,genus,,B171:1,accepted,,,B171:1:125,Trechini,,,,,Carabidae,Carabinae,Thalassophilus,,Carabidae | Carabinae | Trechini,8KZ7R,4404327
+B171:1:133,Thalassophilus longicornis,,Thalassophilus,,longicornis,,species,,B171:1,accepted,,,B171:1:132,Thalassophilus,,,,,Carabidae,Carabinae,Thalassophilus,,Carabidae | Carabinae | Trechini | Thalassophilus,55ZR6,4478133
+B171:1:134,Trechus,,,,,,genus,,B171:1,accepted,,,B171:1:125,Trechini,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini,8KZB9,1037288
+B171:1:135,Trechus micros,,Trechus,,micros,,species,,B171:1,accepted,,,B171:1:134,Trechus,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,582KT,8610119
+B171:1:136,Trechus discus,,Trechus,,discus,,species,,B171:1,accepted,,,B171:1:134,Trechus,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,582DL,1037304
+B171:1:137,Trechus secalis,,Trechus,,secalis,,species,,B171:1,accepted,,,B171:1:134,Trechus,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,582RB,6097930
+B171:1:138,Trechus subnotatus,,Trechus,,subnotatus,,species,,B171:1,accepted,,,B171:1:134,Trechus,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,58244,4476584
+B171:1:139,Trechus fulvus,,Trechus,,fulvus,,species,,B171:1,accepted,,,B171:1:134,Trechus,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,57ZLL,8236590
+B171:1:140,Trechus lapidosus,,Trechus,,lapidosus,,species,,B171:1,synonym,B171:1:139,Trechus fulvus,,,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,,11259900
+B171:1:141,Trechus rubens,,Trechus,,rubens,,species,,B171:1,accepted,,,B171:1:134,Trechus,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,57ZZF,1037293
+B171:1:142,Trechus paludosus,,Trechus,,paludosus,,species,,B171:1,synonym,B171:1:141,Trechus rubens,,,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,582MQ,8659717
+B171:1:143,Trechus rivularis,,Trechus,,rivularis,,species,,B171:1,accepted,,,B171:1:134,Trechus,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,582QB,7860964
+B171:1:144,Trechus quadristriatus,,Trechus,,quadristriatus,,species,,B171:1,accepted,,,B171:1:134,Trechus,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,57ZYQ,4476667
+B171:1:145,Trechus minutus,,Trechus,,minutus,,species,,B171:1,synonym,B171:1:144,Trechus quadristriatus,,,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,,7450794
+B171:1:146,Trechus obtusus,,Trechus,,obtusus,,species,,B171:1,accepted,,,B171:1:134,Trechus,,,,,Carabidae,Carabinae,Trechus,,Carabidae | Carabinae | Trechini | Trechus,7CNP6,7422787
+B171:1:147,Bembidiini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTSK,
+B171:1:148,Asaphidion,,,,,,genus,,B171:1,accepted,,,B171:1:147,Bembidiini,,,,,Carabidae,Carabinae,Asaphidion,,Carabidae | Carabinae | Bembidiini,8KV75,1036795
+B171:1:149,Asaphidion pallipes,,Asaphidion,,pallipes,,species,,B171:1,accepted,,,B171:1:148,Asaphidion,,,,,Carabidae,Carabinae,Asaphidion,,Carabidae | Carabinae | Bembidiini | Asaphidion,5W3VR,4478695
+B171:1:150,Asaphidion flavipes,,Asaphidion,,flavipes,,species,,B171:1,accepted,,,B171:1:148,Asaphidion,,,,,Carabidae,Carabinae,Asaphidion,,Carabidae | Carabinae | Bembidiini | Asaphidion,5W3VS,1036796
+B171:1:205,Bembidion,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Bembidion,Carabidae | Carabinae | Bembidiini | Bembidion,8KVB5,
+B171:1:152,Bembidium,,,,,,genus,,B171:1,synonym,B171:1:151,Bembidion,,,,,,,Carabidae,Carabinae,Bembidium,,Carabidae | Carabinae | Bembidiini,8KVKD,5430916
+B171:1:153,Chrysobracteon,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Chrysobracteon,Carabidae | Carabinae | Bembidiini | Bembidion,8LRDS,
+B171:1:154,Bembidion argenteolum,,Bembidion,,argenteolum,,species,,B171:1,accepted,,,B171:1:153,Chrysobracteon,,,,,Carabidae,Carabinae,Bembidion,Chrysobracteon,Carabidae | Carabinae | Bembidiini | Bembidion | Chrysobracteon,LDQH,6097891
+B171:1:252,Bembidion litorale,,Bembidion,,litorale,,species,,B171:1,synonym,B171:1:250,Bembidion tetracolum,,,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,LDQT,5872143
+B171:1:156,Bembidion paludosum,,Bembidion,,paludosum,,species,,B171:1,synonym,B171:1:155,Bembidion litorale,,,,,,,Carabidae,Carabinae,Bembidion,Chrysobracteon,Carabidae | Carabinae | Bembidiini | Bembidion | Chrysobracteon,LFMS,7401357
+B171:1:157,Neja,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Neja,Carabidae | Carabinae | Bembidiini | Bembidion,,
+B171:1:158,Bembidion nigricorne,,Bembidion,,nigricorne,,species,,B171:1,accepted,,,B171:1:157,Neja,,,,,Carabidae,Carabinae,Bembidion,Neja,Carabidae | Carabinae | Bembidiini | Bembidion | Neja,LDYX,6097868
+B171:1:162,Bembidion celere,,Bembidion,,celere,,species,,B171:1,synonym,B171:1:161,Bembidion lampros,,,,,,,Carabidae,Carabinae,Bembidion,Metallina,Carabidae | Carabinae | Bembidiini | Bembidion | Metallina,,8279360
+B171:1:160,Metallina,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Metallina,Carabidae | Carabinae | Bembidiini | Bembidion,8LX57,
+B171:1:161,Bembidion lampros,,Bembidion,,lampros,,species,,B171:1,accepted,,,B171:1:160,Metallina,,,,,Carabidae,Carabinae,Bembidion,Metallina,Carabidae | Carabinae | Bembidiini | Bembidion | Metallina,LDXX,1036216
+B171:1:162,Bembidion celere,,Bembidion,,celere,,species,,B171:1,synonym,B171:1:161,Bembidion lampros,,,,,,,Carabidae,Carabinae,Bembidion,Metallina,Carabidae | Carabinae | Bembidiini | Bembidion | Metallina,,8279360
+B171:1:163,Bembidion properans,,Bembidion,,properans,,species,,B171:1,accepted,,,B171:1:160,Metallina,,,,,Carabidae,Carabinae,Bembidion,Metallina,Carabidae | Carabinae | Bembidiini | Bembidion | Metallina,LDXZ,1036203
+B171:1:164,Bembidion velox,,Bembidion,,velox,,species,,B171:1,synonym,B171:1:163,Bembidion properans,,,,,,,Carabidae,Carabinae,Bembidion,Metallina,Carabidae | Carabinae | Bembidiini | Bembidion | Metallina,LDQY,6097877
+B171:1:165,Phyla,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Phyla,Carabidae | Carabinae | Bembidiini | Bembidion,,
+B171:1:166,Phila,,,,,,subgenus,,B171:1,synonym,B171:1:165,Phyla,,,,,,,Carabidae,Carabinae,Bembidion,Phila,Carabidae | Carabinae | Bembidiini | Bembidion,63MV6,
+B171:1:167,Bembidion obtusum,,Bembidion,,obtusum,,species,,B171:1,accepted,,,B171:1:165,Phyla,,,,,Carabidae,Carabinae,Bembidion,Phyla,Carabidae | Carabinae | Bembidiini | Bembidion | Phyla,5WHT8,1036192
+B171:1:168,Ocys,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Ocys,Carabidae | Carabinae | Bembidiini | Bembidion,8KY2M,
+B171:1:169,Bembidion harpaloides,,Bembidion,,harpaloides,,species,,B171:1,accepted,,,B171:1:168,Ocys,,,,,Carabidae,Carabinae,Bembidion,Ocys,Carabidae | Carabinae | Bembidiini | Bembidion | Ocys,LFB5,8681626
+B171:1:170,Bembidion rufescens,,Bembidion,,rufescens,,species,,B171:1,synonym,B171:1:169,Bembidion harpaloides,,,,,,,Carabidae,Carabinae,Bembidion,Ocys,Carabidae | Carabinae | Bembidiini | Bembidion | Ocys,68HDH,9272253
+B171:1:171,Bembidion quinquestriatum,,Bembidion,,quinquestriatum,,species,,B171:1,accepted,,,B171:1:168,Ocys,,,,,Carabidae,Carabinae,Bembidion,Ocys,Carabidae | Carabinae | Bembidiini | Bembidion | Ocys,LFRQ,9443520
+B171:1:172,Princidium,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Princidium,Carabidae | Carabinae | Bembidiini | Bembidion,8MKQY,
+B171:1:173,Bembidion punctulatum,,Bembidion,,punctulatum,,species,,B171:1,accepted,,,B171:1:172,Princidium,,,,,Carabidae,Carabinae,Bembidion,Princidium,Carabidae | Carabinae | Bembidiini | Bembidion | Princidium,68HG2,5872119
+B171:1:174,Testedium,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Testedium,Carabidae | Carabinae | Bembidiini | Bembidion,8M5YK,
+B171:1:175,Bembidion bipunctatum,,Bembidion,,bipunctatum,,species,,B171:1,accepted,,,B171:1:174,Testedium,,,,,Carabidae,Carabinae,Bembidion,Testedium,Carabidae | Carabinae | Bembidiini | Bembidion | Testedium,5WHGZ,6097864
+B171:1:176,Actedium,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Actedium,Carabidae | Carabinae | Bembidiini | Bembidion,8LSGJ,
+B171:1:177,Bembidion pallidipenne,,Bembidion,,pallidipenne,,species,,B171:1,accepted,,,B171:1:176,Actedium,,,,,Carabidae,Carabinae,Bembidion,Actedium,Carabidae | Carabinae | Bembidiini | Bembidion | Actedium,LDK6,8607776
+B171:1:178,Eupetedromus,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Eupetedromus,Carabidae | Carabinae | Bembidiini | Bembidion,8LX4X,
+B171:1:179,Bembidion dentellum,,Bembidion,,dentellum,,species,,B171:1,accepted,,,B171:1:178,Eupetedromus,,,,,Carabidae,Carabinae,Bembidion,Eupetedromus,Carabidae | Carabinae | Bembidiini | Bembidion | Eupetedromus,LDV9,7639821
+B171:1:180,Bembidion flammulatum,,Bembidion,,flammulatum,,species,,B171:1,synonym,B171:1:179,Bembidion dentellum,,,,,,,Carabidae,Carabinae,Bembidion,Eupetedromus,Carabidae | Carabinae | Bembidiini | Bembidion | Eupetedromus,LF8F,7859451
+B171:1:181,Notaphus,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Notaphus,Carabidae | Carabinae | Bembidiini | Bembidion,8LSGR,
+B171:1:182,Bembidion varium,,Bembidion,,varium,,species,,B171:1,accepted,,,B171:1:181,Notaphus,,,,,Carabidae,Carabinae,Bembidion,Notaphus,Carabidae | Carabinae | Bembidiini | Bembidion | Notaphus,5WHXT,6097883
+B171:1:251,Bembidion ustulatum,,Bembidion,,ustulatum,,species,,B171:1,synonym,B171:1:250,Bembidion tetracolum,,,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,,8638132
+B171:1:184,Bembidion semipunctatum,,Bembidion,,semipunctatum,,species,,B171:1,accepted,,,B171:1:181,Notaphus,,,,,Carabidae,Carabinae,Bembidion,Notaphus,Carabidae | Carabinae | Bembidiini | Bembidion | Notaphus,68HYR,1036066
+B171:1:185,Bembidion adustum,,Bembidion,,adustum,,species,,B171:1,synonym,B171:1:184,Bembidion semipunctatum,,,,,,,Carabidae,Carabinae,Bembidion,Notaphus,Carabidae | Carabinae | Bembidiini | Bembidion | Notaphus,68HK5,7698760
+B171:1:186,Bembidion obliquum,,Bembidion,,obliquum,,species,,B171:1,accepted,,,B171:1:181,Notaphus,,,,,Carabidae,Carabinae,Bembidion,Notaphus,Carabidae | Carabinae | Bembidiini | Bembidion | Notaphus,5WHYC,6097888
+B171:1:187,Nothaphemphanes,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Nothaphemphanes,Carabidae | Carabinae | Bembidiini | Bembidion,,
+B171:1:188,Bembidion ephippium,,Bembidion,,ephippium,,species,,B171:1,accepted,,,B171:1:187,Nothaphemphanes,,,,,Carabidae,Carabinae,Bembidion,Nothaphemphanes,Carabidae | Carabinae | Bembidiini | Bembidion | Nothaphemphanes,68HVX,4308807
+B171:1:189,Emphanes,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Emphanes,Carabidae | Carabinae | Bembidiini | Bembidion,8LSGN,
+B171:1:190,Bembidion minimum,,Bembidion,,minimum,,species,,B171:1,accepted,,,B171:1:189,Emphanes,,,,,Carabidae,Carabinae,Bembidion,Emphanes,Carabidae | Carabinae | Bembidiini | Bembidion | Emphanes,5WHWD,4308806
+B171:1:191,Bembidion normannum,,Bembidion,,normannum,,species,,B171:1,accepted,,,B171:1:189,Emphanes,,,,,Carabidae,Carabinae,Bembidion,Emphanes,Carabidae | Carabinae | Bembidiini | Bembidion | Emphanes,68HWC,6097892
+B171:1:192,Trepanes,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Trepanes,Carabidae | Carabinae | Bembidiini | Bembidion,8MK36,
+B171:1:193,Bembidion articulatum,,Bembidion,,articulatum,,species,,B171:1,accepted,,,B171:1:192,Trepanes,,,,,Carabidae,Carabinae,Bembidion,Trepanes,Carabidae | Carabinae | Bembidiini | Bembidion | Trepanes,68HGM,5872124
+B171:1:194,Bembidion octomaculatum,,Bembidion,,octomaculatum,,species,,B171:1,accepted,,,B171:1:192,Trepanes,,,,,Carabidae,Carabinae,Bembidion,Trepanes,Carabidae | Carabinae | Bembidiini | Bembidion | Trepanes,5WHHS,6097876
+B171:1:195,Bembidion sturmi,,Bembidion,,sturmi,,species,,B171:1,synonym,B171:1:194,Bembidion octomaculatum,,,,,,,Carabidae,Carabinae,Bembidion,Trepanes,Carabidae | Carabinae | Bembidiini | Bembidion | Trepanes,LFW5,7970799
+B171:1:196,Trepanedoris,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Trepanedoris,Carabidae | Carabinae | Bembidiini | Bembidion,8LX5P,
+B171:1:197,Bembidion doris,,Bembidion,,doris,,species,,B171:1,accepted,,,B171:1:196,Trepanedoris,,,,,Carabidae,Carabinae,Bembidion,Trepanedoris,Carabidae | Carabinae | Bembidiini | Bembidion | Trepanedoris,68HGK,9782241
+B171:1:198,Semicampa,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Semicampa,Carabidae | Carabinae | Bembidiini | Bembidion,8LX5K,
+B171:1:199,Bembidion scheuppeli,,Bembidion,,scheuppeli,,species,,B171:1,accepted,,,B171:1:198,Semicampa,,,,,Carabidae,Carabinae,Bembidion,Semicampa,Carabidae | Carabinae | Bembidiini | Bembidion | Semicampa,8KVB5,1035920
+B171:1:200,Bembidion gilvipes,,Bembidion,,gilvipes,,species,,B171:1,accepted,,,B171:1:198,Semicampa,,,,,Carabidae,Carabinae,Bembidion,Semicampa,Carabidae | Carabinae | Bembidiini | Bembidion | Semicampa,68HFF,5872147
+B171:1:201,Diplocampa,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Diplocampa,Carabidae | Carabinae | Bembidiini | Bembidion,8LSGM,
+B171:1:202,Bembidion fumigatum,,Bembidion,,fumigatum,,species,,B171:1,accepted,,,B171:1:201,Diplocampa,,,,,Carabidae,Carabinae,Bembidion,Diplocampa,Carabidae | Carabinae | Bembidiini | Bembidion | Diplocampa,LDSB,4308800
+B171:1:203,Bembidion assimile,,Bembidion,,assimile,,species,,B171:1,accepted,,,B171:1:201,Diplocampa,,,,,Carabidae,Carabinae,Bembidion,Diplocampa,Carabidae | Carabinae | Bembidiini | Bembidion | Diplocampa,LDS7,5872148
+B171:1:204,Bembidion clarki,,Bembidion,,clarki,,species,,B171:1,accepted,,,B171:1:201,Diplocampa,,,,,Carabidae,Carabinae,Bembidion,Diplocampa,Carabidae | Carabinae | Bembidiini | Bembidion | Diplocampa,5WGCD,11143424
+B171:1:205,Bembidion,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Bembidion,Carabidae | Carabinae | Bembidiini | Bembidion,8KVB5,
+B171:1:206,Lopha,,,,,,subgenus,,B171:1,synonym,B171:1:205,Bembidion,,,,,,,Carabidae,Carabinae,Bembidion,Lopha,Carabidae | Carabinae | Bembidiini | Bembidion,,
+B171:1:207,Bembidion quadrimaculatum,,Bembidion,,quadrimaculatum,,species,,B171:1,accepted,,,B171:1:205,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Bembidion,Carabidae | Carabinae | Bembidiini | Bembidion | Bembidion,LDMK,1036128
+B171:1:230,Bembidion quadriguttatum,,Bembidion,,quadriguttatum,,species,,B171:1,synonym,B171:1:229,Bembidion genei,,,,,,,Carabidae,Carabinae,Bembidion,Nepha,Carabidae | Carabinae | Bembidiini | Bembidion | Nepha,,8193005
+B171:1:209,Bembidion quadripustulatum,,Bembidion,,quadripustulatum,,species,,B171:1,accepted,,,B171:1:205,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Bembidion,Carabidae | Carabinae | Bembidiini | Bembidion | Bembidion,LDML,4478842
+B171:1:230,Bembidion quadriguttatum,,Bembidion,,quadriguttatum,,species,,B171:1,synonym,B171:1:229,Bembidion genei,,,,,,,Carabidae,Carabinae,Bembidion,Nepha,Carabidae | Carabinae | Bembidiini | Bembidion | Nepha,,8193005
+B171:1:211,Philochthus,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Philochthus,Carabidae | Carabinae | Bembidiini | Bembidion,8LSGT,
+B171:1:212,Bembidion biguttatum,,Bembidion,,biguttatum,,species,,B171:1,accepted,,,B171:1:211,Philochthus,,,,,Carabidae,Carabinae,Bembidion,Philochthus,Carabidae | Carabinae | Bembidiini | Bembidion | Philochthus,5WHTL,10216621
+B171:1:213,Bembidion iricolor,,Bembidion,,iricolor,,species,,B171:1,accepted,,,B171:1:211,Philochthus,,,,,Carabidae,Carabinae,Bembidion,Philochthus,Carabidae | Carabinae | Bembidiini | Bembidion | Philochthus,5WHT4,4308805
+B171:1:214,Bembidion lunulatum,,Bembidion,,lunulatum,,species,,B171:1,accepted,,,B171:1:211,Philochthus,,,,,Carabidae,Carabinae,Bembidion,Philochthus,Carabidae | Carabinae | Bembidiini | Bembidion | Philochthus,5WHSR,5872111
+B171:1:215,Bembidion riparium,,Bembidion,,riparium,,species,,B171:1,synonym,B171:1:214,Bembidion lunulatum,,,,,,,Carabidae,Carabinae,Bembidion,Philochthus,Carabidae | Carabinae | Bembidiini | Bembidion | Philochthus,LFSH,9640786
+B171:1:216,Bembidion aeneum,,Bembidion,,aeneum,,species,,B171:1,accepted,,,B171:1:211,Philochthus,,,,,Carabidae,Carabinae,Bembidion,Philochthus,Carabidae | Carabinae | Bembidiini | Bembidion | Philochthus,5WHTF,4308804
+B171:1:217,Bembidion guttula,,Bembidion,,guttula,,species,,B171:1,accepted,,,B171:1:211,Philochthus,,,,,Carabidae,Carabinae,Bembidion,Philochthus,Carabidae | Carabinae | Bembidiini | Bembidion | Philochthus,5WHST,1036154
+B171:1:218,Bembidion unicolor,,Bembidion,,unicolor,,species,,B171:1,accepted,,,B171:1:211,Philochthus,,,,,Carabidae,Carabinae,Bembidion,Philochthus,Carabidae | Carabinae | Bembidiini | Bembidion | Philochthus,LFZH,8039517
+B171:1:219,Bembidion mannerheimi,,Bembidion,,mannerheimi,,species,,B171:1,synonym,B171:1:218,Bembidion unicolor,,,,,,,Carabidae,Carabinae,Bembidion,Philochthus,Carabidae | Carabinae | Bembidiini | Bembidion | Philochthus,5WHT3,6097867
+B171:1:220,Bembidion haemorrhoum,,Bembidion,,haemorrhoum,,species,,B171:1,synonym,B171:1:218,Bembidion unicolor,,,,,,,Carabidae,Carabinae,Bembidion,Philochthus,Carabidae | Carabinae | Bembidiini | Bembidion | Philochthus,68HCM,7350801
+B171:1:221,Synechostictus,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Synechostictus,Carabidae | Carabinae | Bembidiini | Bembidion,8LT3C,
+B171:1:222,Bembidion stomoides,,Bembidion,,stomoides,,species,,B171:1,accepted,,,B171:1:221,Synechostictus,,,,,Carabidae,Carabinae,Bembidion,Synechostictus,Carabidae | Carabinae | Bembidiini | Bembidion | Synechostictus,8L445,6097885
+B171:1:223,Bembidion atroviolaceum,,Bembidion,,atroviolaceum,,species,,B171:1,synonym,B171:1:222,Bembidion stomoides,,,,,,,Carabidae,Carabinae,Bembidion,Synechostictus,Carabidae | Carabinae | Bembidiini | Bembidion | Synechostictus,8L3R8,9353143
+B171:1:224,Lymnaeum,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Lymnaeum,Carabidae | Carabinae | Bembidiini | Bembidion,8M7VG,
+B171:1:225,Bembidion nigropiceum,,Bembidion,,nigropiceum,,species,,B171:1,accepted,,,B171:1:224,Lymnaeum,,,,,Carabidae,Carabinae,Bembidion,Lymnaeum,Carabidae | Carabinae | Bembidiini | Bembidion | Lymnaeum,LDXQ,7792354
+B171:1:226,Cillenus,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Cillenus,Carabidae | Carabinae | Bembidiini | Bembidion,8LSGL,
+B171:1:232,Bembidion laterale,,Bembidion,,laterale,,species,,B171:1,synonym,B171:1:231,Bembidion callosum,,,,,,,Carabidae,Carabinae,Bembidion,Nepha,Carabidae | Carabinae | Bembidiini | Bembidion | Nepha,LDRK,9479706
+B171:1:228,Nepha,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Nepha,Carabidae | Carabinae | Bembidiini | Bembidion,8MJFS,
+B171:1:229,Bembidion genei,,Bembidion,,genei,,species,,B171:1,accepted,,,B171:1:228,Nepha,,,,,Carabidae,Carabinae,Bembidion,Nepha,Carabidae | Carabinae | Bembidiini | Bembidion | Nepha,LDZG,8143604
+B171:1:230,Bembidion quadriguttatum,,Bembidion,,quadriguttatum,,species,,B171:1,synonym,B171:1:229,Bembidion genei,,,,,,,Carabidae,Carabinae,Bembidion,Nepha,Carabidae | Carabinae | Bembidiini | Bembidion | Nepha,,8193005
+B171:1:231,Bembidion callosum,,Bembidion,,callosum,,species,,B171:1,accepted,,,B171:1:228,Nepha,,,,,Carabidae,Carabinae,Bembidion,Nepha,Carabidae | Carabinae | Bembidiini | Bembidion | Nepha,LDZB,8241751
+B171:1:232,Bembidion laterale,,Bembidion,,laterale,,species,,B171:1,synonym,B171:1:231,Bembidion callosum,,,,,,,Carabidae,Carabinae,Bembidion,Nepha,Carabidae | Carabinae | Bembidiini | Bembidion | Nepha,LDRK,9479706
+B171:1:233,Plataphus,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Plataphus,Carabidae | Carabinae | Bembidiini | Bembidion,8LX5H,
+B171:1:234,Blepharoplataphus,,,,,,subgenus,,B171:1,synonym,B171:1:233,Plataphus,,,,,,,Carabidae,Carabinae,Bembidion,Blepharoplataphus,Carabidae | Carabinae | Bembidiini | Bembidion,8LX4V,
+B171:1:235,Bembidion prasinum,,Bembidion,,prasinum,,species,,B171:1,accepted,,,B171:1:233,Plataphus,,,,,Carabidae,Carabinae,Bembidion,Plataphus,Carabidae | Carabinae | Bembidiini | Bembidion | Plataphus,5WHV3,6097865
+B171:1:236,Bembidion virens,,Bembidion,,virens,,species,,B171:1,accepted,,,B171:1:233,Plataphus,,,,,Carabidae,Carabinae,Bembidion,Plataphus,Carabidae | Carabinae | Bembidiini | Bembidion | Plataphus,5WGD7,8064966
+B171:1:237,Bembidionetolitzkya,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Bembidionetolitzkya,Carabidae | Carabinae | Bembidiini | Bembidion,8MJ9Y,
+B171:1:238,Daniela,,,,,,subgenus,,B171:1,synonym,B171:1:237,Bembidionetolitzkya,,,,,,,Carabidae,Carabinae,Bembidion,Daniela,Carabidae | Carabinae | Bembidiini | Bembidion,,
+B171:1:239,Bembidion tibiale,,Bembidion,,tibiale,,species,,B171:1,accepted,,,B171:1:237,Bembidionetolitzkya,,,,,Carabidae,Carabinae,Bembidion,Bembidionetolitzkya,Carabidae | Carabinae | Bembidiini | Bembidion | Bembidionetolitzkya,LDPX,5872127
+B171:1:240,Bembidion atrocoeruleum,,Bembidion,,atrocoeruleum,,species,,B171:1,accepted,,,B171:1:237,Bembidionetolitzkya,,,,,Carabidae,Carabinae,Bembidion,Bembidionetolitzkya,Carabidae | Carabinae | Bembidiini | Bembidion | Bembidionetolitzkya,,10209248
+B171:1:241,Bembidion geniculatum,,Bembidion,,geniculatum,,species,,B171:1,accepted,,,B171:1:237,Bembidionetolitzkya,,,,,Carabidae,Carabinae,Bembidion,Bembidionetolitzkya,Carabidae | Carabinae | Bembidiini | Bembidion | Bembidionetolitzkya,LDNH,7387665
+B171:1:242,Bembidion redtenbacheri,,Bembidion,,redtenbacheri,,species,,B171:1,synonym,B171:1:241,Bembidion geniculatum,,,,,,,Carabidae,Carabinae,Bembidion,Bembidionetolitzkya,Carabidae | Carabinae | Bembidiini | Bembidion | Bembidionetolitzkya,8L42Y,8983563
+B171:1:243,Peryphus,,,,,,subgenus,,B171:1,accepted,,,B171:1:151,Bembidion,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion,8LSGS,
+B171:1:244,Peryphiolus,,,,,,subgenus,,B171:1,synonym,B171:1:243,Peryphus,,,,,,,Carabidae,Carabinae,Bembidion,Peryphiolus,Carabidae | Carabinae | Bembidiini | Bembidion,8MNC6,
+B171:1:245,Bembidion monticola,,Bembidion,,monticola,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,5WHR5,6097872
+B171:1:246,Bembidion nitidulum,,Bembidion,,nitidulum,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,,8611856
+B171:1:247,Bembidion stephensi,,Bembidion,,stephensi,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,5WHQK,6097890
+B171:1:248,Bembidion affine,,Bembidion,,affine,,species,,B171:1,synonym,B171:1:247,Bembidion stephensi,,,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,5WHWN,1035924
+B171:1:249,Bembidion lunatum,,Bembidion,,lunatum,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,LDLM,6097886
+B171:1:250,Bembidion tetracolum,,Bembidion,,tetracolum,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,5WHRX,1035931
+B171:1:251,Bembidion ustulatum,,Bembidion,,ustulatum,,species,,B171:1,synonym,B171:1:250,Bembidion tetracolum,,,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,,8638132
+B171:1:252,Bembidion litorale,,Bembidion,,litorale,,species,,B171:1,synonym,B171:1:250,Bembidion tetracolum,,,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,LDQT,5872143
+B171:1:253,Bembidion bruxellense,,Bembidion,,bruxellense,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,68HR9,1036255
+B171:1:254,Bembidion rupestre,,Bembidion,,rupestre,,species,,B171:1,synonym,B171:1:253,Bembidion bruxellense,,,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,5WHDG,7935635
+B171:1:255,Bembidion andreae,,Bembidion,,andreae,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,68HQY,9067694
+B171:1:256,Bembidion anglicanum,,Bembidion,,anglicanum,,species,,B171:1,synonym,B171:1:255,Bembidion andreae,,,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,,11352112
+B171:1:257,Bembidion femoratum,,Bembidion,,femoratum,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,68HSB,6097879
+B171:1:258,Bembidion maritimum,,Bembidion,,maritimum,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,5WHRL,9816904
+B171:1:259,Bembidion concinnum,,Bembidion,,concinnum,,species,,B171:1,synonym,B171:1:258,Bembidion maritimum,,,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,8L3SY,8057458
+B171:1:260,Bembidion testaceum,,Bembidion,,testaceum,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,LDV6,1035929
+B171:1:261,Bembidion fluviatile,,Bembidion,,fluviatile,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,68HWL,6097871
+B171:1:262,Bembidion saxatile,,Bembidion,,saxatile,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,5WHZC,8104778
+B171:1:263,Bembidion decorum,,Bembidion,,decorum,,species,,B171:1,accepted,,,B171:1:243,Peryphus,,,,,Carabidae,Carabinae,Bembidion,Peryphus,Carabidae | Carabinae | Bembidiini | Bembidion | Peryphus,5WHZN,7420126
+B171:1:272,Tachys,,,,,,subgenus,,B171:1,accepted,,,B171:1:264,Tachys,,,,,Carabidae,Carabinae,Tachys,Tachys,Carabidae | Carabinae | Bembidiini | Tachys,8KW2D,
+B171:1:265,Porotachys,,,,,,subgenus,,B171:1,accepted,,,B171:1:264,Tachys,,,,,Carabidae,Carabinae,Tachys,Porotachys,Carabidae | Carabinae | Bembidiini | Tachys,8KYG7,
+B171:1:266,Tachys bisulcatus,,Tachys,,bisulcatus,,species,,B171:1,accepted,,,B171:1:265,Porotachys,,,,,Carabidae,Carabinae,Tachys,Porotachys,Carabidae | Carabinae | Bembidiini | Tachys | Porotachys,54DNT,7607249
+B171:1:267,Tachys focki,,Tachys,,focki,,species,,B171:1,synonym,B171:1:266,Tachys bisulcatus,,,,,,,Carabidae,Carabinae,Tachys,Porotachys,Carabidae | Carabinae | Bembidiini | Tachys | Porotachys,54DTN,9537985
+B171:1:268,Tachyura,,,,,,subgenus,,B171:1,accepted,,,B171:1:264,Tachys,,,,,Carabidae,Carabinae,Tachys,Tachyura,Carabidae | Carabinae | Bembidiini | Tachys,8LX6P,
+B171:1:269,Tachys quadrisignatus,,Tachys,,quadrisignatus,,species,,B171:1,accepted,,,B171:1:268,Tachyura,,,,,Carabidae,Carabinae,Tachys,Tachyura,Carabidae | Carabinae | Bembidiini | Tachys | Tachyura,7BFXH,9570668
+B171:1:270,Tachys walkerianus,,Tachys,,walkerianus,,species,,B171:1,accepted,,,B171:1:268,Tachyura,,,,,Carabidae,Carabinae,Tachys,Tachyura,Carabidae | Carabinae | Bembidiini | Tachys | Tachyura,7BFKH,4478227
+B171:1:271,Tachys parvulus,,Tachys,,parvulus,,species,,B171:1,accepted,,,B171:1:268,Tachyura,,,,,Carabidae,Carabinae,Tachys,Tachyura,Carabidae | Carabinae | Bembidiini | Tachys | Tachyura,7BG6F,8163363
+B171:1:272,Tachys,,,,,,subgenus,,B171:1,accepted,,,B171:1:264,Tachys,,,,,Carabidae,Carabinae,Tachys,Tachys,Carabidae | Carabinae | Bembidiini | Tachys,8KW2D,
+B171:1:273,Tachys scutellaris,,Tachys,,scutellaris,,species,,B171:1,accepted,,,B171:1:272,Tachys,,,,,Carabidae,Carabinae,Tachys,Tachys,Carabidae | Carabinae | Bembidiini | Tachys | Tachys,54DKT,4308786
+B171:1:274,Eotachys,,,,,,subgenus,,B171:1,accepted,,,B171:1:264,Tachys,,,,,Carabidae,Carabinae,Tachys,Eotachys,Carabidae | Carabinae | Bembidiini | Tachys,8LRR3,
+B171:1:275,Tachys micros,,Tachys,,micros,,species,,B171:1,accepted,,,B171:1:274,Eotachys,,,,,Carabidae,Carabinae,Tachys,Eotachys,Carabidae | Carabinae | Bembidiini | Tachys | Eotachys,54DG2,7683246
+B171:1:276,Tachys gregarius,,Tachys,,gregarius,,species,,B171:1,synonym,B171:1:275,Tachys micros,,,,,,,Carabidae,Carabinae,Tachys,Eotachys,Carabidae | Carabinae | Bembidiini | Tachys | Eotachys,54DV2,4478263
+B171:1:277,Tachys bistriatus,,Tachys,,bistriatus,,species,,B171:1,accepted,,,B171:1:274,Eotachys,,,,,Carabidae,Carabinae,Tachys,Eotachys,Carabidae | Carabinae | Bembidiini | Tachys | Eotachys,54DDJ,9792543
+B171:1:278,Tachys edmondsi,,Tachys,,edmondsi,,species,,B171:1,accepted,,,B171:1:274,Eotachys,,,,,Carabidae,Carabinae,Tachys,Eotachys,Carabidae | Carabinae | Bembidiini | Tachys | Eotachys,54DS6,4478276
+B171:1:279,Tachys piceus,,Tachys,,piceus,,species,,B171:1,synonym,B171:1:278,Tachys edmondsi,,,,,,,Carabidae,Carabinae,Tachys,Eotachys,Carabidae | Carabinae | Bembidiini | Tachys | Eotachys,7BG6M,4478274
+B171:1:280,Pogonini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTWZ,
+B171:1:281,Pogonus,,,,,,genus,,B171:1,accepted,,,B171:1:280,Pogonini,,,,,Carabidae,Carabinae,Pogonus,,Carabidae | Carabinae | Pogonini,8KVY6,7589596
+B171:1:282,Pogonus luridipennis,,Pogonus,,luridipennis,,species,,B171:1,accepted,,,B171:1:281,Pogonus,,,,,Carabidae,Carabinae,Pogonus,,Carabidae | Carabinae | Pogonini | Pogonus,4KW8Y,5756368
+B171:1:283,Pogonus chalceus,,Pogonus,,chalceus,,species,,B171:1,accepted,,,B171:1:281,Pogonus,,,,,Carabidae,Carabinae,Pogonus,,Carabidae | Carabinae | Pogonini | Pogonus,4KW8G,5756374
+B171:1:284,Pogonus littoralis,,Pogonus,,littoralis,,species,,B171:1,accepted,,,B171:1:281,Pogonus,,,,,Carabidae,Carabinae,Pogonus,,Carabidae | Carabinae | Pogonini | Pogonus,4KW8X,5716411
+B171:1:285,Pterostichini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTXF,
+B171:1:286,Agonini,,,,,,tribe,,B171:1,synonym,B171:1:285,Pterostichini,,,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,,
+B171:1:287,Stomis,,,,,,genus,,B171:1,accepted,,,B171:1:285,Pterostichini,,,,,Carabidae,Carabinae,Stomis,,Carabidae | Carabinae | Pterostichini,8KW24,4406706
+B171:1:288,Stomis pumicatus,,Stomis,,pumicatus,,species,,B171:1,accepted,,,B171:1:287,Stomis,,,,,Carabidae,Carabinae,Stomis,,Carabidae | Carabinae | Pterostichini | Stomis,6ZX3L,4473297
+B171:1:303,Pterostichus,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Pterostichus,Carabidae | Carabinae | Pterostichini | Pterostichus,8KVYP,
+B171:1:290,Feronia,,,,,,genus,,B171:1,synonym,B171:1:289,Pterostichus,,,,,,,Carabidae,Carabinae,Feronia,,Carabidae | Carabinae | Pterostichini,,
+B171:1:291,Poeclius,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Poeclius,Carabidae | Carabinae | Pterostichini | Pterostichus,,
+B171:1:292,Pterostichus lepidus,,Pterostichus,,lepidus,,species,,B171:1,accepted,,,B171:1:291,Poeclius,,,,,Carabidae,Carabinae,Pterostichus,Poeclius,Carabidae | Carabinae | Pterostichini | Pterostichus | Poeclius,78M9L,8484025
+B171:1:293,Pterostichus kugelanni,,Pterostichus,,kugelanni,,species,,B171:1,accepted,,,B171:1:291,Poeclius,,,,,Carabidae,Carabinae,Pterostichus,Poeclius,Carabidae | Carabinae | Pterostichini | Pterostichus | Poeclius,4Q5C9,8213497
+B171:1:294,Pterostichus dimidiatus,,Pterostichus,,dimidiatus,,species,,B171:1,synonym,B171:1:293,Pterostichus kugelanni,,,,,,,Carabidae,Carabinae,Pterostichus,Poeclius,Carabidae | Carabinae | Pterostichini | Pterostichus | Poeclius,78LWR,8694173
+B171:1:295,Pterostichus cupreus,,Pterostichus,,cupreus,,species,,B171:1,accepted,,,B171:1:291,Poeclius,,,,,Carabidae,Carabinae,Pterostichus,Poeclius,Carabidae | Carabinae | Pterostichini | Pterostichus | Poeclius,4Q4WK,11002535
+B171:1:296,Pterostichus versicolor,,Pterostichus,,versicolor,,species,,B171:1,accepted,,,B171:1:291,Poeclius,,,,,Carabidae,Carabinae,Pterostichus,Poeclius,Carabidae | Carabinae | Pterostichini | Pterostichus | Poeclius,78LZ8,8560562
+B171:1:297,Pterostichus coerulescens,,Pterostichus,,coerulescens,,species,,B171:1,synonym,B171:1:296,Pterostichus versicolor,,,,,,,Carabidae,Carabinae,Pterostichus,Poeclius,Carabidae | Carabinae | Pterostichini | Pterostichus | Poeclius,,7802784
+B171:1:315,Omaseus,,,,,,subgenus,,B171:1,synonym,B171:1:313,Euferonia,,,,,,,Carabidae,Carabinae,Pterostichus,Omaseus,Carabidae | Carabinae | Pterostichini | Pterostichus,8LSFC,
+B171:1:299,Pterostichus aterrimus,,Pterostichus,,aterrimus,,species,,B171:1,accepted,,,B171:1:298,Omaseus,,,,,Carabidae,Carabinae,Pterostichus,Omaseus,Carabidae | Carabinae | Pterostichini | Pterostichus | Omaseus,4Q3WM,9795649
+B171:1:300,Steropus,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Steropus,Carabidae | Carabinae | Pterostichini | Pterostichus,8LTXD,
+B171:1:301,Pterostichus auethiops,,Pterostichus,,auethiops,,species,,B171:1,accepted,,,B171:1:300,Steropus,,,,,Carabidae,Carabinae,Pterostichus,Steropus,Carabidae | Carabinae | Pterostichini | Pterostichus | Steropus,4Q3MW,7613168
+B171:1:302,Pterostichus madidus,,Pterostichus,,madidus,,species,,B171:1,accepted,,,B171:1:300,Steropus,,,,,Carabidae,Carabinae,Pterostichus,Steropus,Carabidae | Carabinae | Pterostichini | Pterostichus | Steropus,4Q4H8,7641814
+B171:1:303,Pterostichus,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Pterostichus,Carabidae | Carabinae | Pterostichini | Pterostichus,8KVYP,
+B171:1:304,Pterostichus cristatus,,Pterostichus,,cristatus,,species,,B171:1,accepted,,,B171:1:303,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Pterostichus,Carabidae | Carabinae | Pterostichini | Pterostichus | Pterostichus,78LTP,7917481
+B171:1:305,Pedius,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Pedius,Carabidae | Carabinae | Pterostichini | Pterostichus,8KYBS,
+B171:1:306,Pterostichus longicollis,,Pterostichus,,longicollis,,species,,B171:1,accepted,,,B171:1:305,Pedius,,,,,Carabidae,Carabinae,Pterostichus,Pedius,Carabidae | Carabinae | Pterostichini | Pterostichus | Pedius,4Q5F3,7473738
+B171:1:307,Pterostichus inaequalis,,Pterostichus,,inaequalis,,species,,B171:1,synonym,B171:1:306,Pterostichus longicollis,,,,,,,Carabidae,Carabinae,Pterostichus,Pedius,Carabidae | Carabinae | Pterostichini | Pterostichus | Pedius,4Q58L,7718137
+B171:1:308,Lagarus,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Lagarus,Carabidae | Carabinae | Pterostichini | Pterostichus,8KWKW,
+B171:1:309,Pterostichus vernalis,,Pterostichus,,vernalis,,species,,B171:1,accepted,,,B171:1:308,Lagarus,,,,,Carabidae,Carabinae,Pterostichus,Lagarus,Carabidae | Carabinae | Pterostichini | Pterostichus | Lagarus,4Q3G2,7975487
+B171:1:310,Adelosia,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Adelosia,Carabidae | Carabinae | Pterostichini | Pterostichus,8LTWH,
+B171:1:311,Pterostichus macer,,Pterostichus,,macer,,species,,B171:1,accepted,,,B171:1:310,Adelosia,,,,,Carabidae,Carabinae,Pterostichus,Adelosia,Carabidae | Carabinae | Pterostichini | Pterostichus | Adelosia,4Q3F2,7416497
+B171:1:312,Pterostichus picimanus,,Pterostichus,,picimanus,,species,,B171:1,synonym,B171:1:311,Pterostichus macer,,,,,,,Carabidae,Carabinae,Pterostichus,Adelosia,Carabidae | Carabinae | Pterostichini | Pterostichus | Adelosia,8LMZB,8886108
+B171:1:313,Euferonia,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Euferonia,Carabidae | Carabinae | Pterostichini | Pterostichus,8KZLS,
+B171:1:314,Omaseideus,,,,,,subgenus,,B171:1,synonym,B171:1:313,Euferonia,,,,,,,Carabidae,Carabinae,Pterostichus,Omaseideus,Carabidae | Carabinae | Pterostichini | Pterostichus,,
+B171:1:315,Omaseus,,,,,,subgenus,,B171:1,synonym,B171:1:313,Euferonia,,,,,,,Carabidae,Carabinae,Pterostichus,Omaseus,Carabidae | Carabinae | Pterostichini | Pterostichus,8LSFC,
+B171:1:316,Pterostichus melanarius,,Pterostichus,,melanarius,,species,,B171:1,accepted,,,B171:1:313,Euferonia,,,,,Carabidae,Carabinae,Pterostichus,Euferonia,Carabidae | Carabinae | Pterostichini | Pterostichus | Euferonia,6WM6X,7856746
+B171:1:317,Pterostichus vulgaris,,Pterostichus,,vulgaris,,species,,B171:1,synonym,B171:1:316,Pterostichus melanarius,,,,,,,Carabidae,Carabinae,Pterostichus,Euferonia,Carabidae | Carabinae | Pterostichini | Pterostichus | Euferonia,8LN75,9772123
+B171:1:318,Platysma,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Platysma,Carabidae | Carabinae | Pterostichini | Pterostichus,6S4P,
+B171:1:319,Pterostichus niger,,Pterostichus,,niger,,species,,B171:1,accepted,,,B171:1:318,Platysma,,,,,Carabidae,Carabinae,Pterostichus,Platysma,Carabidae | Carabinae | Pterostichini | Pterostichus | Platysma,78LVJ,9314786
+B171:1:320,Melanius,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Melanius,Carabidae | Carabinae | Pterostichini | Pterostichus,8LTWX,
+B171:1:321,Pterostichus nigrita,,Pterostichus,,nigrita,,species,,B171:1,accepted,,,B171:1:320,Melanius,,,,,Carabidae,Carabinae,Pterostichus,Melanius,Carabidae | Carabinae | Pterostichini | Pterostichus | Melanius,78M5K,7708350
+B171:1:322,Pterostichus anthracinus,,Pterostichus,,anthracinus,,species,,B171:1,accepted,,,B171:1:320,Melanius,,,,,Carabidae,Carabinae,Pterostichus,Melanius,Carabidae | Carabinae | Pterostichini | Pterostichus | Melanius,4Q4DH,7949230
+B171:1:323,Pterostichus gracilis,,Pterostichus,,gracilis,,species,,B171:1,accepted,,,B171:1:320,Melanius,,,,,Carabidae,Carabinae,Pterostichus,Melanius,Carabidae | Carabinae | Pterostichini | Pterostichus | Melanius,4Q4DN,8019310
+B171:1:324,Pterostichus minor,,Pterostichus,,minor,,species,,B171:1,accepted,,,B171:1:320,Melanius,,,,,Carabidae,Carabinae,Pterostichus,Melanius,Carabidae | Carabinae | Pterostichini | Pterostichus | Melanius,4Q4DS,7840196
+B171:1:325,Bothriopterus,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Bothriopterus,Carabidae | Carabinae | Pterostichini | Pterostichus,8LTWK,
+B171:1:326,Pterostichus angustatus,,Pterostichus,,angustatus,,species,,B171:1,accepted,,,B171:1:325,Bothriopterus,,,,,Carabidae,Carabinae,Pterostichus,Bothriopterus,Carabidae | Carabinae | Pterostichini | Pterostichus | Bothriopterus,4Q4LC,9796508
+B171:1:327,Pterostichus oblongopunctatus,,Pterostichus,,oblongopunctatus,,species,,B171:1,accepted,,,B171:1:325,Bothriopterus,,,,,Carabidae,Carabinae,Pterostichus,Bothriopterus,Carabidae | Carabinae | Pterostichini | Pterostichus | Bothriopterus,4Q3GX,7642452
+B171:1:328,Pterostichus adstrictus,,Pterostichus,,adstrictus,,species,,B171:1,accepted,,,B171:1:325,Bothriopterus,,,,,Carabidae,Carabinae,Pterostichus,Bothriopterus,Carabidae | Carabinae | Pterostichini | Pterostichus | Bothriopterus,4Q3GN,8186956
+B171:1:329,Pterostichus vitreus,,Pterostichus,,vitreus,,species,,B171:1,synonym,B171:1:328,Pterostichus adstrictus,,,,,,,Carabidae,Carabinae,Pterostichus,Bothriopterus,Carabidae | Carabinae | Pterostichini | Pterostichus | Bothriopterus,4Q6BB,8139763
+B171:1:330,Pterostichus orinomus,,Pterostichus,,orinomus,,species,,B171:1,synonym,B171:1:328,Pterostichus adstrictus,,,,,,,Carabidae,Carabinae,Pterostichus,Bothriopterus,Carabidae | Carabinae | Pterostichini | Pterostichus | Bothriopterus,4Q5NT,7628691
+B171:1:331,Argutor,,,,,,subgenus,,B171:1,accepted,,,B171:1:289,Pterostichus,,,,,Carabidae,Carabinae,Pterostichus,Argutor,Carabidae | Carabinae | Pterostichini | Pterostichus,8LTWJ,
+B171:1:335,Pterostichus strenuus,,Pterostichus,,strenuus,,species,,B171:1,synonym,B171:1:334,Pterostichus diligens,,,,,,,Carabidae,Carabinae,Pterostichus,Argutor,Carabidae | Carabinae | Pterostichini | Pterostichus | Argutor,6WLVC,7508714
+B171:1:333,Pterostichus eryhtropus,,Pterostichus,,eryhtropus,,species,,B171:1,synonym,B171:1:332,Pterostichus strenuus,,,,,,,Carabidae,Carabinae,Pterostichus,Argutor,Carabidae | Carabinae | Pterostichini | Pterostichus | Argutor,8KVYP,7236333
+B171:1:334,Pterostichus diligens,,Pterostichus,,diligens,,species,,B171:1,accepted,,,B171:1:331,Argutor,,,,,Carabidae,Carabinae,Pterostichus,Argutor,Carabidae | Carabinae | Pterostichini | Pterostichus | Argutor,4Q49M,7873810
+B171:1:335,Pterostichus strenuus,,Pterostichus,,strenuus,,species,,B171:1,synonym,B171:1:334,Pterostichus diligens,,,,,,,Carabidae,Carabinae,Pterostichus,Argutor,Carabidae | Carabinae | Pterostichini | Pterostichus | Argutor,6WLVC,7508714
+B171:1:336,Abax,,,,,,genus,,B171:1,accepted,,,B171:1:285,Pterostichini,,,,,Carabidae,Carabinae,Abax,,Carabidae | Carabinae | Pterostichini,8KTTB,4988750
+B171:1:337,Abax parallelepipedus,,Abax,,parallelepipedus,,species,,B171:1,accepted,,,B171:1:336,Abax,,,,,Carabidae,Carabinae,Abax,,Carabidae | Carabinae | Pterostichini | Abax,8JLC,5754772
+B171:1:338,Abax ater,,Abax,,ater,,species,,B171:1,synonym,B171:1:337,Abax parallelepipedus,,,,,,,Carabidae,Carabinae,Abax,,Carabidae | Carabinae | Pterostichini | Abax,,9152325
+B171:1:339,Abax striola,,Abax,,striola,,species,,B171:1,synonym,B171:1:337,Abax parallelepipedus,,,,,,,Carabidae,Carabinae,Abax,,Carabidae | Carabinae | Pterostichini | Abax,8KZRH,9049327
+B171:1:340,Abax parallelus,,Abax,,parallelus,,species,,B171:1,accepted,,,B171:1:336,Abax,,,,,Carabidae,Carabinae,Abax,,Carabidae | Carabinae | Pterostichini | Abax,8JLD,5754817
+B171:1:345,Calathus,,,,,,subgenus,,B171:1,accepted,,,B171:1:341,Calathus,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus,8KVFH,
+B171:1:342,Amphigynus,,,,,,subgenus,,B171:1,accepted,,,B171:1:341,Calathus,,,,,Carabidae,Carabinae,Calathus,Amphigynus,Carabidae | Carabinae | Pterostichini | Calathus,8LQTM,
+B171:1:343,Calathus piceus,,Calathus,,piceus,,species,,B171:1,accepted,,,B171:1:342,Amphigynus,,,,,Carabidae,Carabinae,Calathus,Amphigynus,Carabidae | Carabinae | Pterostichini | Calathus | Amphigynus,8L4LR,8690844
+B171:1:344,Calathus rotundicollis,,Calathus,,rotundicollis,,species,,B171:1,synonym,B171:1:343,Calathus piceus,,,,,,,Carabidae,Carabinae,Calathus,Amphigynus,Carabidae | Carabinae | Pterostichini | Calathus | Amphigynus,5X6GP,5755451
+B171:1:345,Calathus,,,,,,subgenus,,B171:1,accepted,,,B171:1:341,Calathus,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus,8KVFH,
+B171:1:346,Calathus fuscipes,,Calathus,,fuscipes,,species,,B171:1,accepted,,,B171:1:345,Calathus,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus | Calathus,696G6,4988363
+B171:1:347,Calathus cisteloides,,Calathus,,cisteloides,,species,,B171:1,synonym,B171:1:346,Calathus fuscipes,,,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus | Calathus,8L4JJ,9140370
+B171:1:348,Calathus erratus,,Calathus,,erratus,,species,,B171:1,accepted,,,B171:1:345,Calathus,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus | Calathus,PGDX,5755296
+B171:1:349,Calathus fulvipes,,Calathus,,fulvipes,,species,,B171:1,synonym,B171:1:348,Calathus erratus,,,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus | Calathus,PGJJ,9229621
+B171:1:350,Calathus ambiguus,,Calathus,,ambiguus,,species,,B171:1,accepted,,,B171:1:345,Calathus,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus | Calathus,PGDK,5755293
+B171:1:351,Calathus fuscus,,Calathus,,fuscus,,species,,B171:1,synonym,B171:1:350,Calathus ambiguus,,,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus | Calathus,,5755335
+B171:1:352,Calathus melanocephalus,,Calathus,,melanocephalus,,species,,B171:1,accepted,,,B171:1:345,Calathus,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus | Calathus,696FW,4988354
+B171:1:353,Calathus micropterus,,Calathus,,micropterus,,species,,B171:1,accepted,,,B171:1:345,Calathus,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus | Calathus,696GC,5755302
+B171:1:354,Calathus mollis,,Calathus,,mollis,,species,,B171:1,accepted,,,B171:1:345,Calathus,,,,,Carabidae,Carabinae,Calathus,Calathus,Carabidae | Carabinae | Pterostichini | Calathus | Calathus,5X6GB,5716410
+B171:1:355,Sphodrus,,,,,,genus,,B171:1,accepted,,,B171:1:285,Pterostichini,,,,,Carabidae,Carabinae,Sphodrus,,Carabidae | Carabinae | Pterostichini,8KYZJ,3260593
+B171:1:356,Sphodrus leucophthalmus,,Sphodrus,,leucophthalmus,,species,,B171:1,accepted,,,B171:1:355,Sphodrus,,,,,Carabidae,Carabinae,Sphodrus,,Carabidae | Carabinae | Pterostichini | Sphodrus,4Z2DJ,5755291
+B171:1:357,Sphodrus planus,,Sphodrus,,planus,,species,,B171:1,synonym,B171:1:356,Sphodrus leucophthalmus,,,,,,,Carabidae,Carabinae,Sphodrus,,Carabidae | Carabinae | Pterostichini | Sphodrus,6YYBD,7439591
+B171:1:358,Pristonychus,,,,,,genus,,B171:1,accepted,,,B171:1:285,Pterostichini,,,,,Carabidae,Carabinae,Pristonychus,,Carabidae | Carabinae | Pterostichini,8LTTD,1035534
+B171:1:359,Laemosthenes,,,,,,genus,,B171:1,synonym,B171:1:358,Pristonychus,,,,,,,Carabidae,Carabinae,Laemosthenes,,Carabidae | Carabinae | Pterostichini,8LS2Y,11283243
+B171:1:360,Pristonychus terricola,,Pristonychus,,terricola,,species,,B171:1,accepted,,,B171:1:358,Pristonychus,,,,,Carabidae,Carabinae,Pristonychus,,Carabidae | Carabinae | Pterostichini | Pristonychus,6W8HR,1035536
+B171:1:361,Pristonychus subcyaneus,,Pristonychus,,subcyaneus,,species,,B171:1,synonym,B171:1:360,Pristonychus terricola,,,,,,,Carabidae,Carabinae,Pristonychus,,Carabidae | Carabinae | Pterostichini | Pristonychus,8LTTD,1035534
+B171:1:362,Pristonychus complanatus,,Pristonychus,,complanatus,,species,,B171:1,accepted,,,B171:1:358,Pristonychus,,,,,Carabidae,Carabinae,Pristonychus,,Carabidae | Carabinae | Pterostichini | Pristonychus,788K3,1035535
+B171:1:363,Platyderus,,,,,,genus,,B171:1,accepted,,,B171:1:285,Pterostichini,,,,,Carabidae,Carabinae,Platyderus,,Carabidae | Carabinae | Pterostichini,8KYG2,3260555
+B171:1:364,Platyderus ruficollis,,Platyderus,,ruficollis,,species,,B171:1,accepted,,,B171:1:363,Platyderus,,,,,Carabidae,Carabinae,Platyderus,,Carabidae | Carabinae | Pterostichini | Platyderus,,6097851
+B171:1:365,Synuchus,,,,,,genus,,B171:1,accepted,,,B171:1:285,Pterostichini,,,,,Carabidae,Carabinae,Synuchus,,Carabidae | Carabinae | Pterostichini,8KW2B,7765335
+B171:1:366,Synuchus nivalis,,Synuchus,,nivalis,,species,,B171:1,accepted,,,B171:1:365,Synuchus,,,,,Carabidae,Carabinae,Synuchus,,Carabidae | Carabinae | Pterostichini | Synuchus,,8463928
+B171:1:367,Synuchus vivalis,,Synuchus,,vivalis,,species,,B171:1,synonym,B171:1:366,Synuchus nivalis,,,,,,,Carabidae,Carabinae,Synuchus,,Carabidae | Carabinae | Pterostichini | Synuchus,7BB43,4474653
+B171:1:368,Olistophus,,,,,,genus,,B171:1,accepted,,,B171:1:285,Pterostichini,,,,,Carabidae,Carabinae,Olistophus,,Carabidae | Carabinae | Pterostichini,,4748932
+B171:1:369,Odontonyx,,,,,,genus,,B171:1,synonym,B171:1:368,Olistophus,,,,,,,Carabidae,Carabinae,Odontonyx,,Carabidae | Carabinae | Pterostichini,8KXL5,8000507
+B171:1:370,Olistophus rotundatus,,Olistophus,,rotundatus,,species,,B171:1,accepted,,,B171:1:368,Olistophus,,,,,Carabidae,Carabinae,Olistophus,,Carabidae | Carabinae | Pterostichini | Olistophus,,8819872
+B171:1:371,Olistophus rotundicollis,,Olistophus,,rotundicollis,,species,,B171:1,synonym,B171:1:370,Olistophus rotundatus,,,,,,,Carabidae,Carabinae,Olistophus,,Carabidae | Carabinae | Pterostichini | Olistophus,,4748932
+B171:1:393,Agonum,,,,,,subgenus,,B171:1,accepted,,,B171:1:372,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum,8KV2R,
+B171:1:375,Anchomenus,,,,,,subgenus,,B171:1,accepted,,,B171:1:372,Agonum,,,,,Carabidae,Carabinae,Agonum,Anchomenus,Carabidae | Carabinae | Pterostichini | Agonum,8KV4J,
+B171:1:374,Platymus,,,,,,genus,,B171:1,synonym,B171:1:372,Agonum,,,,,,,Carabidae,Carabinae,Platymus,,Carabidae | Carabinae | Pterostichini,,
+B171:1:375,Anchomenus,,,,,,subgenus,,B171:1,accepted,,,B171:1:372,Agonum,,,,,Carabidae,Carabinae,Agonum,Anchomenus,Carabidae | Carabinae | Pterostichini | Agonum,8KV4J,
+B171:1:376,Clibanarius,,,,,,subgenus,,B171:1,synonym,B171:1:375,Anchomenus,,,,,,,Carabidae,Carabinae,Agonum,Clibanarius,Carabidae | Carabinae | Pterostichini | Agonum,8KVKN,
+B171:1:377,Idiochroma,,,,,,subgenus,,B171:1,synonym,B171:1:375,Anchomenus,,,,,,,Carabidae,Carabinae,Agonum,Idiochroma,Carabidae | Carabinae | Pterostichini | Agonum,8LRZN,
+B171:1:378,Agonum dorsale,,Agonum,,dorsale,,species,,B171:1,accepted,,,B171:1:375,Anchomenus,,,,,Carabidae,Carabinae,Agonum,Anchomenus,Carabidae | Carabinae | Pterostichini | Agonum | Anchomenus,664DQ,8292686
+B171:1:379,Agonum prasinum,,Agonum,,prasinum,,species,,B171:1,synonym,B171:1:378,Agonum dorsale,,,,,,,Carabidae,Carabinae,Agonum,Anchomenus,Carabidae | Carabinae | Pterostichini | Agonum | Anchomenus,8KV2R,4988386
+B171:1:380,Paranchus,,,,,,subgenus,,B171:1,accepted,,,B171:1:372,Agonum,,,,,Carabidae,Carabinae,Agonum,Paranchus,Carabidae | Carabinae | Pterostichini | Agonum,8KXWJ,
+B171:1:381,Agonum albipes,,Agonum,,albipes,,species,,B171:1,accepted,,,B171:1:380,Paranchus,,,,,Carabidae,Carabinae,Agonum,Paranchus,Carabidae | Carabinae | Pterostichini | Agonum | Paranchus,664SJ,4988465
+B171:1:382,Agonum ruficorne,,Agonum,,ruficorne,,species,,B171:1,synonym,B171:1:381,Agonum albipes,,,,,,,Carabidae,Carabinae,Agonum,Paranchus,Carabidae | Carabinae | Pterostichini | Agonum | Paranchus,,7682523
+B171:1:383,Anchus,,,,,,subgenus,,B171:1,accepted,,,B171:1:372,Agonum,,,,,Carabidae,Carabinae,Agonum,Anchus,Carabidae | Carabinae | Pterostichini | Agonum,8LQV3,
+B171:1:384,Agonum obscurum,,Agonum,,obscurum,,species,,B171:1,accepted,,,B171:1:383,Anchus,,,,,Carabidae,Carabinae,Agonum,Anchus,Carabidae | Carabinae | Pterostichini | Agonum | Anchus,664JP,10663609
+B171:1:385,Agonum oblongum,,Agonum,,oblongum,,species,,B171:1,synonym,B171:1:384,Agonum obscurum,,,,,,,Carabidae,Carabinae,Agonum,Anchus,Carabidae | Carabinae | Pterostichini | Agonum | Anchus,8L25T,9169177
+B171:1:386,Platynus,,,,,,subgenus,,B171:1,accepted,,,B171:1:372,Agonum,,,,,Carabidae,Carabinae,Agonum,Platynus,Carabidae | Carabinae | Pterostichini | Agonum,63NR9,
+B171:1:387,Agonum assimile,,Agonum,,assimile,,species,,B171:1,accepted,,,B171:1:386,Platynus,,,,,Carabidae,Carabinae,Agonum,Platynus,Carabidae | Carabinae | Pterostichini | Agonum | Platynus,5TT5R,7935781
+B171:1:388,Agonum angusticolle,,Agonum,,angusticolle,,species,,B171:1,synonym,B171:1:387,Agonum assimile,,,,,,,Carabidae,Carabinae,Agonum,Platynus,Carabidae | Carabinae | Pterostichini | Agonum | Platynus,8KV2R,4988386
+B171:1:389,Batenus,,,,,,subgenus,,B171:1,accepted,,,B171:1:372,Agonum,,,,,Carabidae,Carabinae,Agonum,Batenus,Carabidae | Carabinae | Pterostichini | Agonum,8LX7B,
+B171:1:390,Agonum livens,,Agonum,,livens,,species,,B171:1,accepted,,,B171:1:389,Batenus,,,,,Carabidae,Carabinae,Agonum,Batenus,Carabidae | Carabinae | Pterostichini | Agonum | Batenus,664HS,7844002
+B171:1:391,Sericoda,,,,,,subgenus,,B171:1,accepted,,,B171:1:372,Agonum,,,,,Carabidae,Carabinae,Agonum,Sericoda,Carabidae | Carabinae | Pterostichini | Agonum,8KYVP,
+B171:1:392,Agonum quadripunctatum,,Agonum,,quadripunctatum,,species,,B171:1,accepted,,,B171:1:391,Sericoda,,,,,Carabidae,Carabinae,Agonum,Sericoda,Carabidae | Carabinae | Pterostichini | Agonum | Sericoda,B23R,7488766
+B171:1:393,Agonum,,,,,,subgenus,,B171:1,accepted,,,B171:1:372,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum,8KV2R,
+B171:1:394,Agonum marginatum,,Agonum,,marginatum,,species,,B171:1,accepted,,,B171:1:393,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,5TSRF,5755011
+B171:1:395,Agonum sexpunctatum,,Agonum,,sexpunctatum,,species,,B171:1,accepted,,,B171:1:393,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,5TT4X,9775518
+B171:1:396,Agonum ericeti,,Agonum,,ericeti,,species,,B171:1,accepted,,,B171:1:393,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,5TST5,5755044
+B171:1:397,Agonum gracilipes,,Agonum,,gracilipes,,species,,B171:1,accepted,,,B171:1:393,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,5TT3H,5755004
+B171:1:398,Agonum elongatum,,Agonum,,elongatum,,species,,B171:1,synonym,B171:1:397,Agonum gracilipes,,,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,664DZ,5755005
+B171:1:399,Agonum muelleri,,Agonum,,muelleri,,species,,B171:1,accepted,,,B171:1:393,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,6653F,4988484
+B171:1:400,Agonum parumpunctatum,,Agonum,,parumpunctatum,,species,,B171:1,synonym,B171:1:399,Agonum muelleri,,,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,5TSJS,7672847
+B171:1:401,Agonum sahlbergi,,Agonum,,sahlbergi,,species,,B171:1,accepted,,,B171:1:393,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,B24V,8101725
+B171:1:402,Agonum archangelicum,,Agonum,,archangelicum,,species,,B171:1,synonym,B171:1:401,Agonum sahlbergi,,,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,5TSSL,7908156
+B171:1:403,Agonum nigrum,,Agonum,,nigrum,,species,,B171:1,accepted,,,B171:1:393,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,5TSRG,5755027
+B171:1:404,Agonum dahli,,Agonum,,dahli,,species,,B171:1,synonym,B171:1:403,Agonum nigrum,,,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,65T5L,7409073
+B171:1:405,Agonum atratum,,Agonum,,atratum,,species,,B171:1,synonym,B171:1:403,Agonum nigrum,,,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,6655R,6546918
+B171:1:406,Agonum versutum,,Agonum,,versutum,,species,,B171:1,accepted,,,B171:1:393,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,66559,5755066
+B171:1:407,Agonum viduum,,Agonum,,viduum,,species,,B171:1,accepted,,,B171:1:393,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,5TSSB,5755075
+B171:1:408,Agonum moestum,,Agonum,,moestum,,species,,B171:1,accepted,,,B171:1:393,Agonum,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,,5755061
+B171:1:409,Agonum emarginatum,,Agonum,,emarginatum,,species,,B171:1,synonym,B171:1:408,Agonum moestum,,,,,,,Carabidae,Carabinae,Agonum,Agonum,Carabidae | Carabinae | Pterostichini | Agonum | Agonum,5TSST,5755060
+B171:1:410,Europhilus,,,,,,subgenus,,B171:1,accepted,,,B171:1:372,Agonum,,,,,Carabidae,Carabinae,Agonum,Europhilus,Carabidae | Carabinae | Pterostichini | Agonum,8LTNH,
+B171:1:411,Agonum thoreyi,,Agonum,,thoreyi,,species,,B171:1,accepted,,,B171:1:410,Europhilus,,,,,Carabidae,Carabinae,Agonum,Europhilus,Carabidae | Carabinae | Pterostichini | Agonum | Europhilus,664T3,4988447
+B171:1:412,Agonum puellum,,Agonum,,puellum,,species,,B171:1,synonym,B171:1:411,Agonum thoreyi,,,,,,,Carabidae,Carabinae,Agonum,Europhilus,Carabidae | Carabinae | Pterostichini | Agonum | Europhilus,B235,5755085
+B171:1:413,Agonum pelidnum,,Agonum,,pelidnum,,species,,B171:1,synonym,B171:1:411,Agonum thoreyi,,,,,,,Carabidae,Carabinae,Agonum,Europhilus,Carabidae | Carabinae | Pterostichini | Agonum | Europhilus,,9818060
+B171:1:414,Agonum fuliginosum,,Agonum,,fuliginosum,,species,,B171:1,accepted,,,B171:1:410,Europhilus,,,,,Carabidae,Carabinae,Agonum,Europhilus,Carabidae | Carabinae | Pterostichini | Agonum | Europhilus,5TST2,5755079
+B171:1:415,Agonum micans,,Agonum,,micans,,species,,B171:1,accepted,,,B171:1:410,Europhilus,,,,,Carabidae,Carabinae,Agonum,Europhilus,Carabidae | Carabinae | Pterostichini | Agonum | Europhilus,664SQ,5755082
+B171:1:416,Agonum scitulum,,Agonum,,scitulum,,species,,B171:1,accepted,,,B171:1:410,Europhilus,,,,,Carabidae,Carabinae,Agonum,Europhilus,Carabidae | Carabinae | Pterostichini | Agonum | Europhilus,65SSR,5755081
+B171:1:417,Agonum gracile,,Agonum,,gracile,,species,,B171:1,accepted,,,B171:1:410,Europhilus,,,,,Carabidae,Carabinae,Agonum,Europhilus,Carabidae | Carabinae | Pterostichini | Agonum | Europhilus,65SSQ,5755080
+B171:1:418,Agonum piceum,,Agonum,,piceum,,species,,B171:1,accepted,,,B171:1:410,Europhilus,,,,,Carabidae,Carabinae,Agonum,Europhilus,Carabidae | Carabinae | Pterostichini | Agonum | Europhilus,5TSSR,9206709
+B171:1:419,Perigonini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTWT,
+B171:1:420,Perigona,,,,,,genus,,B171:1,accepted,,,B171:1:419,Perigonini,,,,,Carabidae,Carabinae,Perigona,,Carabidae | Carabinae | Perigonini,8KY42,1035360
+B171:1:421,Perigona nigriceps,,Perigona,,nigriceps,,species,,B171:1,accepted,,,B171:1:420,Perigona,,,,,Carabidae,Carabinae,Perigona,,Carabidae | Carabinae | Perigonini | Perigona,76TPF,9716265
+B171:1:422,Amarini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,,
+B171:1:423,Amara,,,,,,genus,,B171:1,accepted,,,B171:1:422,Amarini,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini,8KV3S,1035151
+B171:1:424,Amara strenua,,Amara,,strenua,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CFLG,4472832
+B171:1:425,Amara praetermissa,,Amara,,praetermissa,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF9T,4472940
+B171:1:426,Amara rufocincta,,Amara,,rufocincta,,species,,B171:1,synonym,B171:1:425,Amara praetermissa,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CGJW,7740457
+B171:1:427,Amara anthobia,,Amara,,anthobia,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,5TZ6K,1035204
+B171:1:428,Amara eurynota,,Amara,,eurynota,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF24,4472858
+B171:1:429,Amara acuminata,,Amara,,acuminata,,species,,B171:1,synonym,B171:1:428,Amara eurynota,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,,10982364
+B171:1:430,Amara nitida,,Amara,,nitida,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF2Y,8396839
+B171:1:431,Amara montivaga,,Amara,,montivaga,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF2T,4472906
+B171:1:432,Amara similata,,Amara,,similata,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF3M,4472913
+B171:1:433,Amara ovata,,Amara,,ovata,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF35,4472866
+B171:1:434,Amara obsoleta,,Amara,,obsoleta,,species,,B171:1,synonym,B171:1:433,Amara ovata,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,,7715002
+B171:1:435,Amara infima,,Amara,,infima,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF9J,10943043
+B171:1:436,Amara tibialis,,Amara,,tibialis,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF3T,8600499
+B171:1:437,Amara apricaria,,Amara,,apricaria,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF7G,1035231
+B171:1:438,Amara fulva,,Amara,,fulva,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,5TZ6Z,9444427
+B171:1:439,Amara consularis,,Amara,,consularis,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF7N,4473127
+B171:1:440,Amara aulica,,Amara,,aulica,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,5TYVN,1035194
+B171:1:441,Amara spinipes,,Amara,,spinipes,,species,,B171:1,synonym,B171:1:440,Amara aulica,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CGMC,7517754
+B171:1:442,Amara convexiuscula,,Amara,,convexiuscula,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CFB9,1035203
+B171:1:443,Amara alpina,,Amara,,alpina,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,5TZ6G,1035222
+B171:1:444,Amara quenseli,,Amara,,quenseli,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CFFL,1035239
+B171:1:445,Amara equestris,,Amara,,equestris,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CFFV,4472993
+B171:1:446,Amara patricia,,Amara,,patricia,,species,,B171:1,synonym,B171:1:445,Amara equestris,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,8L2DG,8758038
+B171:1:447,Amara bifrons,,Amara,,bifrons,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF94,1035208
+B171:1:448,Amara livida,,Amara,,livida,,species,,B171:1,synonym,B171:1:447,Amara bifrons,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,,11277318
+B171:1:449,Amara cursitans,,Amara,,cursitans,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CFJX,4473101
+B171:1:450,Amara fuscicornis,,Amara,,fuscicornis,,species,,B171:1,synonym,B171:1:449,Amara cursitans,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CFZB,7652967
+B171:1:451,Amara fusca,,Amara,,fusca,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CFK3,4473093
+B171:1:452,Amara complanata,,Amara,,complanata,,species,,B171:1,synonym,B171:1:451,Amara fusca,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CFTQ,4473094
+B171:1:453,Amara familiaris,,Amara,,familiaris,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF29,1035195
+B171:1:454,Amara lucida,,Amara,,lucida,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF2M,4472884
+B171:1:455,Amara aenea,,Amara,,aenea,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,65Z5G,1035185
+B171:1:456,Amara trivialis,,Amara,,trivialis,,species,,B171:1,synonym,B171:1:455,Amara aenea,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CGQ5,8423800
+B171:1:457,Amara convexior,,Amara,,convexior,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,5TZ6P,4472897
+B171:1:458,Amara continua,,Amara,,continua,,species,,B171:1,synonym,B171:1:457,Amara convexior,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,65YVC,4472898
+B171:1:459,Amara communis,,Amara,,communis,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,5TYV3,4472849
+B171:1:460,Amara spreta,,Amara,,spreta,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF3N,4472907
+B171:1:461,Amara famelica,,Amara,,famelica,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF28,4472900
+B171:1:462,Amara lunicollis,,Amara,,lunicollis,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,CF2P,1035167
+B171:1:463,Amara vulgaris,,Amara,,vulgaris,,species,,B171:1,synonym,B171:1:462,Amara lunicollis,,,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,,11369774
+B171:1:464,Amara curta,,Amara,,curta,,species,,B171:1,accepted,,,B171:1:423,Amara,,,,,Carabidae,Carabinae,Amara,,Carabidae | Carabinae | Amarini | Amara,65YV6,9027622
+B171:1:465,Zabrini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTY5,
+B171:1:466,Zabrus,,,,,,genus,,B171:1,accepted,,,B171:1:465,Zabrini,,,,,Carabidae,Carabinae,Zabrus,,Carabidae | Carabinae | Zabrini,8KZK2,3260538
+B171:1:467,Zabrus tenebrioides,,Zabrus,,tenebrioides,,species,,B171:1,accepted,,,B171:1:466,Zabrus,,,,,Carabidae,Carabinae,Zabrus,,Carabidae | Carabinae | Zabrini | Zabrus,5CTZQ,4473277
+B171:1:468,Zabrus gibbus,,Zabrus,,gibbus,,species,,B171:1,synonym,B171:1:467,Zabrus tenebrioides,,,,,,,Carabidae,Carabinae,Zabrus,,Carabidae | Carabinae | Zabrini | Zabrus,,8157258
+B171:1:469,Harpalini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTVK,
+B171:1:506,Harpalus,,,,,,subgenus,,B171:1,accepted,,,B171:1:470,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus,8KWCG,
+B171:1:471,Pseudophonus,,,,,,subgenus,,B171:1,accepted,,,B171:1:470,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Pseudophonus,Carabidae | Carabinae | Harpalini | Harpalus,8LSSZ,
+B171:1:472,Harpalus rufipes,,Harpalus,,rufipes,,species,,B171:1,accepted,,,B171:1:471,Pseudophonus,,,,,Carabidae,Carabinae,Harpalus,Pseudophonus,Carabidae | Carabinae | Harpalini | Harpalus | Pseudophonus,6LDTF,9198953
+B171:1:473,Harpalus ruficornis,,Harpalus,,ruficornis,,species,,B171:1,synonym,B171:1:472,Harpalus rufipes,,,,,,,Carabidae,Carabinae,Harpalus,Pseudophonus,Carabidae | Carabinae | Harpalini | Harpalus | Pseudophonus,,7918256
+B171:1:474,Harpalus pubescens,,Harpalus,,pubescens,,species,,B171:1,synonym,B171:1:472,Harpalus rufipes,,,,,,,Carabidae,Carabinae,Harpalus,Pseudophonus,Carabidae | Carabinae | Harpalini | Harpalus | Pseudophonus,3JTTR,7605821
+B171:1:475,Ophonus,,,,,,subgenus,,B171:1,accepted,,,B171:1:470,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus,8KXNF,
+B171:1:476,Harpalus azureus,,Harpalus,,azureus,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,6LDVT,10547884
+B171:1:477,Harpalus sabulicola,,Harpalus,,sabulicola,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JTX2,9420404
+B171:1:478,Harpalus obscurus,,Harpalus,,obscurus,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JTP9,7407172
+B171:1:479,Harpalus stictus,,Harpalus,,stictus,,species,,B171:1,synonym,B171:1:478,Harpalus obscurus,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JTZ8,7784522
+B171:1:480,Harpalus ardosiacus,,Harpalus,,ardosiacus,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JSY4,9103283
+B171:1:481,Harpalus rotundicollis,,Harpalus,,rotundicollis,,species,,B171:1,synonym,B171:1:480,Harpalus ardosiacus,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JTVW,8847928
+B171:1:482,Harpalus punctatulus,,Harpalus,,punctatulus,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,6LDKH,8602650
+B171:1:483,Harpalus rupicola,,Harpalus,,rupicola,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JTWX,8678366
+B171:1:484,Harpalus schaubergerianus,,Harpalus,,schaubergerianus,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JTXJ,8523830
+B171:1:500,Harpalus brevicollis,,Harpalus,,brevicollis,,species,,B171:1,synonym,B171:1:496,Harpalus melleti,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JT29,8239889
+B171:1:487,Harpalus rufibarbis,,Harpalus,,rufibarbis,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JTW7,1035863
+B171:1:487,Harpalus rufibarbis,,Harpalus,,rufibarbis,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JTW7,1035863
+B171:1:488,Harpalus subpunctatus,,Harpalus,,subpunctatus,,species,,B171:1,synonym,B171:1:487,Harpalus rufibarbis,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,,11257605
+B171:1:489,Harpalus seladon,,Harpalus,,seladon,,species,,B171:1,synonym,B171:1:487,Harpalus rufibarbis,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JTXT,8090995
+B171:1:500,Harpalus brevicollis,,Harpalus,,brevicollis,,species,,B171:1,synonym,B171:1:496,Harpalus melleti,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JT29,8239889
+B171:1:491,Harpalus cordatus,,Harpalus,,cordatus,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,8LBX7,6453885
+B171:1:492,Harpalus puncticollis,,Harpalus,,puncticollis,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,6LDKD,11058483
+B171:1:493,Harpalus puncticeps,,Harpalus,,puncticeps,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,6LBZX,9696907
+B171:1:494,Harpalus angusticollis,,Harpalus,,angusticollis,,species,,B171:1,synonym,B171:1:493,Harpalus puncticeps,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,,7627177
+B171:1:497,Harpalus rectangulus,,Harpalus,,rectangulus,,species,,B171:1,synonym,B171:1:496,Harpalus melleti,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,8KWCG,1035821
+B171:1:503,Harpalus melleti,,Harpalus,,melleti,,species,,B171:1,synonym,B171:1:501,Harpalus parallelus,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,6LDZP,8470475
+B171:1:497,Harpalus rectangulus,,Harpalus,,rectangulus,,species,,B171:1,synonym,B171:1:496,Harpalus melleti,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,8KWCG,1035821
+B171:1:498,Harpalus rupicoloides,,Harpalus,,rupicoloides,,species,,B171:1,synonym,B171:1:496,Harpalus melleti,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,8KWCG,1035821
+B171:1:499,Harpalus championi,,Harpalus,,championi,,species,,B171:1,synonym,B171:1:496,Harpalus melleti,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,8KWCG,1035821
+B171:1:500,Harpalus brevicollis,,Harpalus,,brevicollis,,species,,B171:1,synonym,B171:1:496,Harpalus melleti,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JT29,8239889
+B171:1:501,Harpalus parallelus,,Harpalus,,parallelus,,species,,B171:1,accepted,,,B171:1:475,Ophonus,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,3JTQH,8734885
+B171:1:502,Harpalus zigzag,,Harpalus,,zigzag,,species,,B171:1,synonym,B171:1:501,Harpalus parallelus,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,8LV28,8317068
+B171:1:503,Harpalus melleti,,Harpalus,,melleti,,species,,B171:1,synonym,B171:1:501,Harpalus parallelus,,,,,,,Carabidae,Carabinae,Harpalus,Ophonus,Carabidae | Carabinae | Harpalini | Harpalus | Ophonus,6LDZP,8470475
+B171:1:504,Pardileus,,,,,,subgenus,,B171:1,accepted,,,B171:1:470,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Pardileus,Carabidae | Carabinae | Harpalini | Harpalus,8LSKG,
+B171:1:505,Harpalus calceatus,,Harpalus,,calceatus,,species,,B171:1,accepted,,,B171:1:504,Pardileus,,,,,Carabidae,Carabinae,Harpalus,Pardileus,Carabidae | Carabinae | Harpalini | Harpalus | Pardileus,3JSTB,6097915
+B171:1:506,Harpalus,,,,,,subgenus,,B171:1,accepted,,,B171:1:470,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus,8KWCG,
+B171:1:507,Harpalus aeneus,,Harpalus,,aeneus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSVW,10663966
+B171:1:508,Harpalus affinis,,Harpalus,,affinis,,species,,B171:1,synonym,B171:1:507,Harpalus aeneus,,,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSGK,9750962
+B171:1:509,Harpalus vernalis,,Harpalus,,vernalis,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,,6453884
+B171:1:510,Harpalus picipennis,,Harpalus,,picipennis,,species,,B171:1,synonym,B171:1:509,Harpalus vernalis,,,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSPM,6097920
+B171:1:511,Harpalus melancholicus,,Harpalus,,melancholicus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSG6,5755687
+B171:1:512,Harpalus dimidiatus,,Harpalus,,dimidiatus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSK3,5873215
+B171:1:513,Harpalus caspius,,Harpalus,,caspius,,species,,B171:1,synonym,B171:1:512,Harpalus dimidiatus,,,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSJ8,7386436
+B171:1:514,Harpalus rubripes,,Harpalus,,rubripes,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSQM,5873218
+B171:1:515,Harpalus honestus,,Harpalus,,honestus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSLH,5873207
+B171:1:516,Harpalus ignavus,,Harpalus,,ignavus,,species,,B171:1,synonym,B171:1:515,Harpalus honestus,,,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JTDZ,11042093
+B171:1:517,Harpalus rufitarsis,,Harpalus,,rufitarsis,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,,8264834
+B171:1:518,Harpalus cupreus,,Harpalus,,cupreus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSJQ,8130128
+B171:1:519,Harpalus smaragdinus,,Harpalus,,smaragdinus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSR9,6097923
+B171:1:520,Harpalus discoideus,,Harpalus,,discoideus,,species,,B171:1,synonym,B171:1:519,Harpalus smaragdinus,,,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JT8D,8373152
+B171:1:521,Harpalus quadripunctatus,,Harpalus,,quadripunctatus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,6LDLT,7432232
+B171:1:522,Harpalus seriepunctatus,,Harpalus,,seriepunctatus,,species,,B171:1,synonym,B171:1:521,Harpalus quadripunctatus,,,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JTY9,8183101
+B171:1:523,Harpalus latus,,Harpalus,,latus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSMR,8711380
+B171:1:524,Harpalus tenebrosus,,Harpalus,,tenebrosus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSG8,7419401
+B171:1:525,Harpalus attenuatus,,Harpalus,,attenuatus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSHH,5873214
+B171:1:526,Harpalus consentaneus,,Harpalus,,consentaneus,,species,,B171:1,synonym,B171:1:525,Harpalus attenuatus,,,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JT5C,7995862
+B171:1:527,Harpalus froelichi,,Harpalus,,froelichi,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSKT,6097925
+B171:1:528,Harpalus neglectus,,Harpalus,,neglectus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSNY,6097927
+B171:1:529,Harpalus tardus,,Harpalus,,tardus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSRX,6097924
+B171:1:530,Harpalus rufimanus,,Harpalus,,rufimanus,,species,,B171:1,synonym,B171:1:529,Harpalus tardus,,,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JTWB,8432636
+B171:1:531,Harpalus servus,,Harpalus,,servus,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSR2,8068514
+B171:1:532,Harpalus serripes,,Harpalus,,serripes,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSQZ,8378220
+B171:1:533,Harpalus anxius,,Harpalus,,anxius,,species,,B171:1,accepted,,,B171:1:506,Harpalus,,,,,Carabidae,Carabinae,Harpalus,Harpalus,Carabidae | Carabinae | Harpalini | Harpalus | Harpalus,3JSH7,5873220
+B171:1:534,Anisodactylus,,,,,,genus,,B171:1,accepted,,,B171:1:469,Harpalini,,,,,Carabidae,Carabinae,Anisodactylus,,Carabidae | Carabinae | Harpalini,8KV4W,1036915
+B171:1:535,Anisodactylus poeciloides,,Anisodactylus,,poeciloides,,species,,B171:1,accepted,,,B171:1:534,Anisodactylus,,,,,Carabidae,Carabinae,Anisodactylus,,Carabidae | Carabinae | Harpalini | Anisodactylus,5V45R,4308812
+B171:1:536,Anisodactylus pseudoaeneus,,Anisodactylus,,pseudoaeneus,,species,,B171:1,synonym,B171:1:535,Anisodactylus poeciloides,,,,,,,Carabidae,Carabinae,Anisodactylus,,Carabidae | Carabinae | Harpalini | Anisodactylus,,11233187
+B171:1:537,Anisodactylus nemorivagus,,Anisodactylus,,nemorivagus,,species,,B171:1,accepted,,,B171:1:534,Anisodactylus,,,,,Carabidae,Carabinae,Anisodactylus,,Carabidae | Carabinae | Harpalini | Anisodactylus,6744M,4474998
+B171:1:538,Anisodactylus atricornis,,Anisodactylus,,atricornis,,species,,B171:1,synonym,B171:1:537,Anisodactylus nemorivagus,,,,,,,Carabidae,Carabinae,Anisodactylus,,Carabidae | Carabinae | Harpalini | Anisodactylus,66S5X,7911858
+B171:1:539,Anisodactylus binotatus,,Anisodactylus,,binotatus,,species,,B171:1,accepted,,,B171:1:534,Anisodactylus,,,,,Carabidae,Carabinae,Anisodactylus,,Carabidae | Carabinae | Harpalini | Anisodactylus,673SJ,1036917
+B171:1:540,Scybalicus,,,,,,genus,,B171:1,accepted,,,B171:1:469,Harpalini,,,,,Carabidae,Carabinae,Scybalicus,,Carabidae | Carabinae | Harpalini,8KYV6,4404477
+B171:1:541,Scybalicus oblongiusculus,,Scybalicus,,oblongiusculus,,species,,B171:1,accepted,,,B171:1:540,Scybalicus,,,,,Carabidae,Carabinae,Scybalicus,,Carabidae | Carabinae | Harpalini | Scybalicus,4W3KB,4474984
+B171:1:542,Diachromus,,,,,,genus,,B171:1,accepted,,,B171:1:469,Harpalini,,,,,Carabidae,Carabinae,Diachromus,,Carabidae | Carabinae | Harpalini,8KWMM,4408245
+B171:1:543,Diachromus germanus,,Diachromus,,germanus,,species,,B171:1,accepted,,,B171:1:542,Diachromus,,,,,Carabidae,Carabinae,Diachromus,,Carabidae | Carabinae | Harpalini | Diachromus,3577W,4474987
+B171:1:544,Dicheirotrichus,,,,,,genus,,B171:1,accepted,,,B171:1:469,Harpalini,,,,,Carabidae,Carabinae,Dicheirotrichus,,Carabidae | Carabinae | Harpalini,8KVWK,4308788
+B171:1:545,Dichirotrichus,,,,,,genus,,B171:1,synonym,B171:1:544,Dicheirotrichus,,,,,,,Carabidae,Carabinae,Dichirotrichus,,Carabidae | Carabinae | Harpalini,8LRMP,8392783
+B171:1:546,Dicheirotrichus gustavi,,Dicheirotrichus,,gustavi,,species,,B171:1,accepted,,,B171:1:544,Dicheirotrichus,,,,,Carabidae,Carabinae,Dicheirotrichus,,Carabidae | Carabinae | Harpalini | Dicheirotrichus,35L7F,4308789
+B171:1:547,Dicheirotrichus pubescens,,Dicheirotrichus,,pubescens,,species,,B171:1,synonym,B171:1:546,Dicheirotrichus gustavi,,,,,,,Carabidae,Carabinae,Dicheirotrichus,,Carabidae | Carabinae | Harpalini | Dicheirotrichus,,6453888
+B171:1:548,Dicheirotrichus obsoletus,,Dicheirotrichus,,obsoletus,,species,,B171:1,accepted,,,B171:1:544,Dicheirotrichus,,,,,Carabidae,Carabinae,Dicheirotrichus,,Carabidae | Carabinae | Harpalini | Dicheirotrichus,35L7H,4308790
+B171:1:549,Trichocellus,,,,,,genus,,B171:1,accepted,,,B171:1:469,Harpalini,,,,,Carabidae,Carabinae,Trichocellus,,Carabidae | Carabinae | Harpalini,8LTSH,1036990
+B171:1:550,Trichocellus cognatus,,Trichocellus,,cognatus,,species,,B171:1,accepted,,,B171:1:549,Trichocellus,,,,,Carabidae,Carabinae,Trichocellus,,Carabidae | Carabinae | Harpalini | Trichocellus,7CQF4,1036992
+B171:1:551,Trichocellus placidus,,Trichocellus,,placidus,,species,,B171:1,accepted,,,B171:1:549,Trichocellus,,,,,Carabidae,Carabinae,Trichocellus,,Carabidae | Carabinae | Harpalini | Trichocellus,7D2HL,6097934
+B171:1:559,Bradycellus,,,,,,subgenus,,B171:1,accepted,,,B171:1:552,Bradycellus,,,,,Carabidae,Carabinae,Bradycellus,Bradycellus,Carabidae | Carabinae | Harpalini | Bradycellus,8KVD8,
+B171:1:553,Bradycellus harpalinus,,Bradycellus,,harpalinus,,species,,B171:1,accepted,,,B171:1:552,Bradycellus,,,,,Carabidae,Carabinae,Bradycellus,,Carabidae | Carabinae | Harpalini | Bradycellus,N4ZM,1035434
+B171:1:554,Bradycellus csikii,,Bradycellus,,csikii,,species,,B171:1,accepted,,,B171:1:552,Bradycellus,,,,,Carabidae,Carabinae,Bradycellus,,Carabidae | Carabinae | Harpalini | Bradycellus,68S34,5755985
+B171:1:555,Bradycellus collaris,,Bradycellus,,collaris,,species,,B171:1,accepted,,,B171:1:552,Bradycellus,,,,,Carabidae,Carabinae,Bradycellus,,Carabidae | Carabinae | Harpalini | Bradycellus,,8256811
+B171:1:556,Tetraplatypus,,,,,,subgenus,,B171:1,accepted,,,B171:1:552,Bradycellus,,,,,Carabidae,Carabinae,Bradycellus,Tetraplatypus,Carabidae | Carabinae | Harpalini | Bradycellus,8LT4W,
+B171:1:557,Bradycellus ruficollis,,Bradycellus,,ruficollis,,species,,B171:1,accepted,,,B171:1:556,Tetraplatypus,,,,,Carabidae,Carabinae,Bradycellus,Tetraplatypus,Carabidae | Carabinae | Harpalini | Bradycellus | Tetraplatypus,N4ZX,9806850
+B171:1:558,Bradycellus similis,,Bradycellus,,similis,,species,,B171:1,synonym,B171:1:557,Bradycellus ruficollis,,,,,,,Carabidae,Carabinae,Bradycellus,Tetraplatypus,Carabidae | Carabinae | Harpalini | Bradycellus | Tetraplatypus,N56W,8227615
+B171:1:559,Bradycellus,,,,,,subgenus,,B171:1,accepted,,,B171:1:552,Bradycellus,,,,,Carabidae,Carabinae,Bradycellus,Bradycellus,Carabidae | Carabinae | Harpalini | Bradycellus,8KVD8,
+B171:1:562,Bradycellus distinctus,,Bradycellus,,distinctus,,species,,B171:1,synonym,B171:1:561,Bradycellus sharpi,,,,,,,Carabidae,Carabinae,Bradycellus,Bradycellus,Carabidae | Carabinae | Harpalini | Bradycellus | Bradycellus,N4ZG,5755975
+B171:1:561,Bradycellus sharpi,,Bradycellus,,sharpi,,species,,B171:1,accepted,,,B171:1:559,Bradycellus,,,,,Carabidae,Carabinae,Bradycellus,Bradycellus,Carabidae | Carabinae | Harpalini | Bradycellus | Bradycellus,N524,5755978
+B171:1:562,Bradycellus distinctus,,Bradycellus,,distinctus,,species,,B171:1,synonym,B171:1:561,Bradycellus sharpi,,,,,,,Carabidae,Carabinae,Bradycellus,Bradycellus,Carabidae | Carabinae | Harpalini | Bradycellus | Bradycellus,N4ZG,5755975
+B171:1:563,Bradycellus verbasci,,Bradycellus,,verbasci,,species,,B171:1,accepted,,,B171:1:559,Bradycellus,,,,,Carabidae,Carabinae,Bradycellus,Bradycellus,Carabidae | Carabinae | Harpalini | Bradycellus | Bradycellus,N529,5755982
+B171:1:564,Stenolophus,,,,,,genus,,B171:1,accepted,,,B171:1:469,Harpalini,,,,,Carabidae,Carabinae,Stenolophus,,Carabidae | Carabinae | Harpalini,8KW22,8401238
+B171:1:565,Stenolophus mixtus,,Stenolophus,,mixtus,,species,,B171:1,accepted,,,B171:1:564,Stenolophus,,,,,Carabidae,Carabinae,Stenolophus,,Carabidae | Carabinae | Harpalini | Stenolophus,4ZZMH,5755952
+B171:1:566,Stenolophus vespertinus,,Stenolophus,,vespertinus,,species,,B171:1,synonym,B171:1:565,Stenolophus mixtus,,,,,,,Carabidae,Carabinae,Stenolophus,,Carabidae | Carabinae | Harpalini | Stenolophus,6ZM29,10457889
+B171:1:567,Stenolophus skimshiranus,,Stenolophus,,skimshiranus,,species,,B171:1,accepted,,,B171:1:564,Stenolophus,,,,,Carabidae,Carabinae,Stenolophus,,Carabidae | Carabinae | Harpalini | Stenolophus,4ZZMY,5755954
+B171:1:568,Stenolophus teutonus,,Stenolophus,,teutonus,,species,,B171:1,accepted,,,B171:1:564,Stenolophus,,,,,Carabidae,Carabinae,Stenolophus,,Carabidae | Carabinae | Harpalini | Stenolophus,4ZZN6,5755950
+B171:1:569,Stenolophus vaporariorum,,Stenolophus,,vaporariorum,,species,,B171:1,synonym,B171:1:568,Stenolophus teutonus,,,,,,,Carabidae,Carabinae,Stenolophus,,Carabidae | Carabinae | Harpalini | Stenolophus,,9285117
+B171:1:570,Stenolophus anglicus,,Stenolophus,,anglicus,,species,,B171:1,synonym,B171:1:568,Stenolophus teutonus,,,,,,,Carabidae,Carabinae,Stenolophus,,Carabidae | Carabinae | Harpalini | Stenolophus,4ZZNN,7817674
+B171:1:574,Acupalpus,,,,,,subgenus,,B171:1,accepted,,,B171:1:571,Acupalpus,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus,8KTYQ,
+B171:1:572,Anthracus,,,,,,subgenus,,B171:1,accepted,,,B171:1:571,Acupalpus,,,,,Carabidae,Carabinae,Acupalpus,Anthracus,Carabidae | Carabinae | Harpalini | Acupalpus,8KV8T,
+B171:1:573,Acupalpus consputus,,Acupalpus,,consputus,,species,,B171:1,accepted,,,B171:1:572,Anthracus,,,,,Carabidae,Carabinae,Acupalpus,Anthracus,Carabidae | Carabinae | Harpalini | Acupalpus | Anthracus,9VLC,8590827
+B171:1:574,Acupalpus,,,,,,subgenus,,B171:1,accepted,,,B171:1:571,Acupalpus,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus,8KTYQ,
+B171:1:575,Acupalpus meridianus,,Acupalpus,,meridianus,,species,,B171:1,accepted,,,B171:1:574,Acupalpus,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus | Acupalpus,9VGR,1037633
+B171:1:576,Acupalpus brunnipes,,Acupalpus,,brunnipes,,species,,B171:1,accepted,,,B171:1:574,Acupalpus,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus | Acupalpus,9VFS,4475685
+B171:1:577,Acupalpus brunneipes,,Acupalpus,,brunneipes,,species,,B171:1,synonym,B171:1:576,Acupalpus brunnipes,,,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus | Acupalpus,,9322731
+B171:1:578,Acupalpus flavicollis,,Acupalpus,,flavicollis,,species,,B171:1,accepted,,,B171:1:574,Acupalpus,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus | Acupalpus,9VG6,9415910
+B171:1:579,Acupalpus elegans,,Acupalpus,,elegans,,species,,B171:1,accepted,,,B171:1:574,Acupalpus,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus | Acupalpus,9VG2,4475688
+B171:1:580,Acupalpus dorsalis,,Acupalpus,,dorsalis,,species,,B171:1,accepted,,,B171:1:574,Acupalpus,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus | Acupalpus,,8267077
+B171:1:581,Acupalpus derelictus,,Acupalpus,,derelictus,,species,,B171:1,synonym,B171:1:580,Acupalpus dorsalis,,,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus | Acupalpus,9VLN,7747515
+B171:1:582,Acupalpus dubius,,Acupalpus,,dubius,,species,,B171:1,accepted,,,B171:1:574,Acupalpus,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus | Acupalpus,9VFY,4475677
+B171:1:583,Acupalpus luridus,,Acupalpus,,luridus,,species,,B171:1,synonym,B171:1:582,Acupalpus dubius,,,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus | Acupalpus,9VNK,8090452
+B171:1:584,Acupalpus exiguus,,Acupalpus,,exiguus,,species,,B171:1,accepted,,,B171:1:574,Acupalpus,,,,,Carabidae,Carabinae,Acupalpus,Acupalpus,Carabidae | Carabinae | Harpalini | Acupalpus | Acupalpus,9VG4,4475707
+B171:1:585,Licini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,,
+B171:1:586,Licinus,,,,,,genus,,B171:1,accepted,,,B171:1:585,Licini,,,,,Carabidae,Carabinae,Licinus,,Carabidae | Carabinae | Licini,8KWPM,1037611
+B171:1:587,Licinus punctatulus,,Licinus,,punctatulus,,species,,B171:1,accepted,,,B171:1:586,Licinus,,,,,Carabidae,Carabinae,Licinus,,Carabidae | Carabinae | Licini | Licinus,6PY5V,4475846
+B171:1:588,Licinus silphoides,,Licinus,,silphoides,,species,,B171:1,synonym,B171:1:587,Licinus punctatulus,,,,,,,Carabidae,Carabinae,Licinus,,Carabidae | Carabinae | Licini | Licinus,6Q9TV,1037612
+B171:1:589,Licinus depressus,,Licinus,,depressus,,species,,B171:1,accepted,,,B171:1:586,Licinus,,,,,Carabidae,Carabinae,Licinus,,Carabidae | Carabinae | Licini | Licinus,729TZ,9414758
+B171:1:591,Badister,,,,,,subgenus,,B171:1,accepted,,,B171:1:590,Badister,,,,,Carabidae,Carabinae,Badister,Badister,Carabidae | Carabinae | Licini | Badister,8KV93,
+B171:1:591,Badister,,,,,,subgenus,,B171:1,accepted,,,B171:1:590,Badister,,,,,Carabidae,Carabinae,Badister,Badister,Carabidae | Carabinae | Licini | Badister,8KV93,
+B171:1:592,Badister unipustulatus,,Badister,,unipustulatus,,species,,B171:1,accepted,,,B171:1:591,Badister,,,,,Carabidae,Carabinae,Badister,Badister,Carabidae | Carabinae | Licini | Badister | Badister,KBRT,5756015
+B171:1:593,Badister bipustulatus,,Badister,,bipustulatus,,species,,B171:1,accepted,,,B171:1:591,Badister,,,,,Carabidae,Carabinae,Badister,Badister,Carabidae | Carabinae | Licini | Badister | Badister,,7608956
+B171:1:594,Badister meridionalis,,Badister,,meridionalis,,species,,B171:1,accepted,,,B171:1:591,Badister,,,,,Carabidae,Carabinae,Badister,Badister,Carabidae | Carabinae | Licini | Badister | Badister,KBRH,5756011
+B171:1:595,Badister kineli,,Badister,,kineli,,species,,B171:1,synonym,B171:1:594,Badister meridionalis,,,,,,,Carabidae,Carabinae,Badister,Badister,Carabidae | Carabinae | Licini | Badister | Badister,KBTR,5756012
+B171:1:596,Trimophus,,,,,,subgenus,,B171:1,accepted,,,B171:1:590,Badister,,,,,Carabidae,Carabinae,Badister,Trimophus,Carabidae | Carabinae | Licini | Badister,,
+B171:1:597,Badister sodalis,,Badister,,sodalis,,species,,B171:1,accepted,,,B171:1:596,Trimophus,,,,,Carabidae,Carabinae,Badister,Trimophus,Carabidae | Carabinae | Licini | Badister | Trimophus,KBSM,5756021
+B171:1:598,Badister humeralis,,Badister,,humeralis,,species,,B171:1,synonym,B171:1:597,Badister sodalis,,,,,,,Carabidae,Carabinae,Badister,Trimophus,Carabidae | Carabinae | Licini | Badister | Trimophus,KBTM,5756022
+B171:1:599,Baudia,,,,,,subgenus,,B171:1,accepted,,,B171:1:590,Badister,,,,,Carabidae,Carabinae,Badister,Baudia,Carabidae | Carabinae | Licini | Badister,8LTPP,
+B171:1:600,Badister dilatatus,,Badister,,dilatatus,,species,,B171:1,accepted,,,B171:1:599,Baudia,,,,,Carabidae,Carabinae,Badister,Baudia,Carabidae | Carabinae | Licini | Badister | Baudia,KBRZ,5756010
+B171:1:601,Badister peltatus,,Badister,,peltatus,,species,,B171:1,accepted,,,B171:1:599,Baudia,,,,,Carabidae,Carabinae,Badister,Baudia,Carabidae | Carabinae | Licini | Badister | Baudia,KBSD,5756008
+B171:1:602,Badister anomalus,,Badister,,anomalus,,species,,B171:1,accepted,,,B171:1:599,Baudia,,,,,Carabidae,Carabinae,Badister,Baudia,Carabidae | Carabinae | Licini | Badister | Baudia,68BKY,7749586
+B171:1:603,Badister striatulus,,Badister,,striatulus,,species,,B171:1,synonym,B171:1:602,Badister anomalus,,,,,,,Carabidae,Carabinae,Badister,Baudia,Carabidae | Carabinae | Licini | Badister | Baudia,68BMK,5756006
+B171:1:604,Panagaeini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTWL,
+B171:1:605,Panagaeus,,,,,,genus,,B171:1,accepted,,,B171:1:604,Panagaeini,,,,,Carabidae,Carabinae,Panagaeus,,Carabidae | Carabinae | Panagaeini,8KXSX,8439185
+B171:1:606,Panagaeus cruxmajor,,Panagaeus,,cruxmajor,,species,,B171:1,accepted,,,B171:1:605,Panagaeus,,,,,Carabidae,Carabinae,Panagaeus,,Carabidae | Carabinae | Panagaeini | Panagaeus,4C97P,4471238
+B171:1:607,Panagaeus bipustulatus,,Panagaeus,,bipustulatus,,species,,B171:1,accepted,,,B171:1:605,Panagaeus,,,,,Carabidae,Carabinae,Panagaeus,,Carabidae | Carabinae | Panagaeini | Panagaeus,4C97M,4471235
+B171:1:608,Panagaeus quadripustulatus,,Panagaeus,,quadripustulatus,,species,,B171:1,synonym,B171:1:607,Panagaeus bipustulatus,,,,,,,Carabidae,Carabinae,Panagaeus,,Carabidae | Carabinae | Panagaeini | Panagaeus,4C99K,4471237
+B171:1:609,Chlaeniini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTTH,
+B171:1:610,Chlaenius,,,,,,genus,,B171:1,accepted,,,B171:1:609,Chlaeniini,,,,,Carabidae,Carabinae,Chlaenius,,Carabidae | Carabinae | Chlaeniini,3NFB,4988973
+B171:1:611,Chlaenius vestitus,,Chlaenius,,vestitus,,species,,B171:1,accepted,,,B171:1:610,Chlaenius,,,,,Carabidae,Carabinae,Chlaenius,,Carabidae | Carabinae | Chlaeniini | Chlaenius,5XVVJ,5873357
+B171:1:612,Chlaenius tristis,,Chlaenius,,tristis,,species,,B171:1,accepted,,,B171:1:610,Chlaenius,,,,,Carabidae,Carabinae,Chlaenius,,Carabidae | Carabinae | Chlaeniini | Chlaenius,5Y7VH,6097905
+B171:1:613,Chlaenius holosericeus,,Chlaenius,,holosericeus,,species,,B171:1,synonym,B171:1:612,Chlaenius tristis,,,,,,,Carabidae,Carabinae,Chlaenius,,Carabidae | Carabinae | Chlaeniini | Chlaenius,8L9BH,9154340
+B171:1:614,Chlaenius nigricornis,,Chlaenius,,nigricornis,,species,,B171:1,accepted,,,B171:1:610,Chlaenius,,,,,Carabidae,Carabinae,Chlaenius,,Carabidae | Carabinae | Chlaeniini | Chlaenius,5XW87,6097906
+B171:1:615,Chlaenius nitidulus,,Chlaenius,,nitidulus,,species,,B171:1,accepted,,,B171:1:610,Chlaenius,,,,,Carabidae,Carabinae,Chlaenius,,Carabidae | Carabinae | Chlaeniini | Chlaenius,5XVVV,5810729
+B171:1:616,Chlaenius schranki,,Chlaenius,,schranki,,species,,B171:1,synonym,B171:1:615,Chlaenius nitidulus,,,,,,,Carabidae,Carabinae,Chlaenius,,Carabidae | Carabinae | Chlaeniini | Chlaenius,5XV8Y,8054386
+B171:1:617,Callistus,,,,,,genus,,B171:1,accepted,,,B171:1:609,Chlaeniini,,,,,Carabidae,Carabinae,Callistus,,Carabidae | Carabinae | Chlaeniini,8KVRL,3260490
+B171:1:618,Callistus lunatus,,Callistus,,lunatus,,species,,B171:1,accepted,,,B171:1:617,Callistus,,,,,Carabidae,Carabinae,Callistus,,Carabidae | Carabinae | Chlaeniini | Callistus,5WVMK,6097854
+B171:1:619,Oodini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTWG,
+B171:1:620,Oodes,,,,,,genus,,B171:1,accepted,,,B171:1:619,Oodini,,,,,Carabidae,Carabinae,Oodes,,Carabidae | Carabinae | Oodini,8KXMQ,4988933
+B171:1:621,Oodes helopioides,,Oodes,,helopioides,,species,,B171:1,accepted,,,B171:1:620,Oodes,,,,,Carabidae,Carabinae,Oodes,,Carabidae | Carabinae | Oodini | Oodes,49S45,5753653
+B171:1:622,Odacanthini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTWF,
+B171:1:623,Odacantha,,,,,,genus,,B171:1,accepted,,,B171:1:622,Odacanthini,,,,,Carabidae,Carabinae,Odacantha,,Carabidae | Carabinae | Odacanthini,8KY2P,7956858
+B171:1:624,Colliuris,,,,,,genus,,B171:1,synonym,B171:1:623,Odacantha,,,,,,,Carabidae,Carabinae,Colliuris,,Carabidae | Carabinae | Odacanthini,8KVLR,1036278
+B171:1:625,Odacantha melanura,,Odacantha,,melanura,,species,,B171:1,accepted,,,B171:1:623,Odacantha,,,,,Carabidae,Carabinae,Odacantha,,Carabidae | Carabinae | Odacanthini | Odacantha,74HJP,4474974
+B171:1:626,Masoreini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,,
+B171:1:627,Masoreus,,,,,,genus,,B171:1,accepted,,,B171:1:626,Masoreini,,,,,Carabidae,Carabinae,Masoreus,,Carabidae | Carabinae | Masoreini,8KWX7,1035515
+B171:1:628,Masoreus wetterhalli,,Masoreus,,wetterhalli,,species,,B171:1,accepted,,,B171:1:627,Masoreus,,,,,Carabidae,Carabinae,Masoreus,,Carabidae | Carabinae | Masoreini | Masoreus,3YBS9,4471202
+B171:1:629,Lebiini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTVP,
+B171:1:635,Lebia,,,,,,subgenus,,B171:1,accepted,,,B171:1:630,Lebia,,,,,Carabidae,Carabinae,Lebia,Lebia,Carabidae | Carabinae | Lebiini | Lebia,8KVTM,
+B171:1:631,Lamprias,,,,,,subgenus,,B171:1,accepted,,,B171:1:630,Lebia,,,,,Carabidae,Carabinae,Lebia,Lamprias,Carabidae | Carabinae | Lebiini | Lebia,8LX6V,
+B171:1:632,Lebia chlorocephala,,Lebia,,chlorocephala,,species,,B171:1,accepted,,,B171:1:631,Lamprias,,,,,Carabidae,Carabinae,Lebia,Lamprias,Carabidae | Carabinae | Lebiini | Lebia | Lamprias,3SPPG,6097857
+B171:1:633,Lebia chrysocephala,,Lebia,,chrysocephala,,species,,B171:1,synonym,B171:1:632,Lebia chlorocephala,,,,,,,Carabidae,Carabinae,Lebia,Lamprias,Carabidae | Carabinae | Lebiini | Lebia | Lamprias,3SQGK,8138514
+B171:1:634,Lebia cyanocephala,,Lebia,,cyanocephala,,species,,B171:1,accepted,,,B171:1:631,Lamprias,,,,,Carabidae,Carabinae,Lebia,Lamprias,Carabidae | Carabinae | Lebiini | Lebia | Lamprias,3SPPK,6097855
+B171:1:635,Lebia,,,,,,subgenus,,B171:1,accepted,,,B171:1:630,Lebia,,,,,Carabidae,Carabinae,Lebia,Lebia,Carabidae | Carabinae | Lebiini | Lebia,8KVTM,
+B171:1:636,Lebia marginata,,Lebia,,marginata,,species,,B171:1,accepted,,,B171:1:635,Lebia,,,,,Carabidae,Carabinae,Lebia,Lebia,Carabidae | Carabinae | Lebiini | Lebia | Lebia,3SPZL,9485246
+B171:1:637,Lebia haemorrhoidalis,,Lebia,,haemorrhoidalis,,species,,B171:1,synonym,B171:1:636,Lebia marginata,,,,,,,Carabidae,Carabinae,Lebia,Lebia,Carabidae | Carabinae | Lebiini | Lebia | Lebia,3SQJX,7757202
+B171:1:638,Lebia scapularis,,Lebia,,scapularis,,species,,B171:1,accepted,,,B171:1:635,Lebia,,,,,Carabidae,Carabinae,Lebia,Lebia,Carabidae | Carabinae | Lebiini | Lebia | Lebia,6P3QM,8422313
+B171:1:639,Lebia turcica,,Lebia,,turcica,,species,,B171:1,synonym,B171:1:638,Lebia scapularis,,,,,,,Carabidae,Carabinae,Lebia,Lebia,Carabidae | Carabinae | Lebiini | Lebia | Lebia,8LH68,9179746
+B171:1:640,Lebia cruxminor,,Lebia,,cruxminor,,species,,B171:1,accepted,,,B171:1:635,Lebia,,,,,Carabidae,Carabinae,Lebia,Lebia,Carabidae | Carabinae | Lebiini | Lebia | Lebia,3SPTV,6097856
+B171:1:641,Demetrias,,,,,,genus,,B171:1,accepted,,,B171:1:629,Lebiini,,,,,Carabidae,Carabinae,Demetrias,,Carabidae | Carabinae | Lebiini,8KWLK,5430925
+B171:1:642,Risophilus,,,,,,genus,,B171:1,synonym,B171:1:641,Demetrias,,,,,,,Carabidae,Carabinae,Risophilus,,Carabidae | Carabinae | Lebiini,8LSWS,4748923
+B171:1:643,Aetophorus,,,,,,genus,,B171:1,synonym,B171:1:641,Demetrias,,,,,,,Carabidae,Carabinae,Aetophorus,,Carabidae | Carabinae | Lebiini,8LTSB,4578550
+B171:1:644,Demetrias atricapillus,,Demetrias,,atricapillus,,species,,B171:1,accepted,,,B171:1:641,Demetrias,,,,,Carabidae,Carabinae,Demetrias,,Carabidae | Carabinae | Lebiini | Demetrias,34KY2,5757310
+B171:1:645,Demetrias monostigma,,Demetrias,,monostigma,,species,,B171:1,accepted,,,B171:1:641,Demetrias,,,,,Carabidae,Carabinae,Demetrias,,Carabidae | Carabinae | Lebiini | Demetrias,34KY6,11100480
+B171:1:646,Demetrias unipunctatus,,Demetrias,,unipunctatus,,species,,B171:1,synonym,B171:1:645,Demetrias monostigma,,,,,,,Carabidae,Carabinae,Demetrias,,Carabidae | Carabinae | Lebiini | Demetrias,34KZS,7377015
+B171:1:647,Demetrias imperialis,,Demetrias,,imperialis,,species,,B171:1,accepted,,,B171:1:641,Demetrias,,,,,Carabidae,Carabinae,Demetrias,,Carabidae | Carabinae | Lebiini | Demetrias,34KXX,5757304
+B171:1:652,Dromius,,,,,,subgenus,,B171:1,accepted,,,B171:1:648,Dromius,,,,,Carabidae,Carabinae,Dromius,Dromius,Carabidae | Carabinae | Lebiini | Dromius,8KVSX,
+B171:1:649,Paradromius,,,,,,subgenus,,B171:1,accepted,,,B171:1:648,Dromius,,,,,Carabidae,Carabinae,Dromius,Paradromius,Carabidae | Carabinae | Lebiini | Dromius,8KY7T,
+B171:1:650,Dromius longiceps,,Dromius,,longiceps,,species,,B171:1,accepted,,,B171:1:649,Paradromius,,,,,Carabidae,Carabinae,Dromius,Paradromius,Carabidae | Carabinae | Lebiini | Dromius | Paradromius,37Q93,6453887
+B171:1:651,Dromius linearis,,Dromius,,linearis,,species,,B171:1,accepted,,,B171:1:649,Paradromius,,,,,Carabidae,Carabinae,Dromius,Paradromius,Carabidae | Carabinae | Lebiini | Dromius | Paradromius,37Q8Z,8306425
+B171:1:652,Dromius,,,,,,subgenus,,B171:1,accepted,,,B171:1:648,Dromius,,,,,Carabidae,Carabinae,Dromius,Dromius,Carabidae | Carabinae | Lebiini | Dromius,8KVSX,
+B171:1:653,Dromius quadrimaculatus,,Dromius,,quadrimaculatus,,species,,B171:1,accepted,,,B171:1:652,Dromius,,,,,Carabidae,Carabinae,Dromius,Dromius,Carabidae | Carabinae | Lebiini | Dromius | Dromius,37Q3B,5757205
+B171:1:654,Dromius agilis,,Dromius,,agilis,,species,,B171:1,accepted,,,B171:1:652,Dromius,,,,,Carabidae,Carabinae,Dromius,Dromius,Carabidae | Carabinae | Lebiini | Dromius | Dromius,37PZY,5757207
+B171:1:655,Dromius angustus,,Dromius,,angustus,,species,,B171:1,accepted,,,B171:1:652,Dromius,,,,,Carabidae,Carabinae,Dromius,Dromius,Carabidae | Carabinae | Lebiini | Dromius | Dromius,37Q24,5757192
+B171:1:656,Dromius meridionalis,,Dromius,,meridionalis,,species,,B171:1,accepted,,,B171:1:652,Dromius,,,,,Carabidae,Carabinae,Dromius,Dromius,Carabidae | Carabinae | Lebiini | Dromius | Dromius,37Q32,5757211
+B171:1:657,Philorhizus,,,,,,subgenus,,B171:1,accepted,,,B171:1:648,Dromius,,,,,Carabidae,Carabinae,Dromius,Philorhizus,Carabidae | Carabinae | Lebiini | Dromius,8KY72,
+B171:1:658,Dromius quadrinotatus,,Dromius,,quadrinotatus,,species,,B171:1,accepted,,,B171:1:657,Philorhizus,,,,,Carabidae,Carabinae,Dromius,Philorhizus,Carabidae | Carabinae | Lebiini | Dromius | Philorhizus,37QB9,7674145
+B171:1:659,Dromius quadrisignatus,,Dromius,,quadrisignatus,,species,,B171:1,accepted,,,B171:1:657,Philorhizus,,,,,Carabidae,Carabinae,Dromius,Philorhizus,Carabidae | Carabinae | Lebiini | Dromius | Philorhizus,37QBB,7815693
+B171:1:660,Dromius melanocephalus,,Dromius,,melanocephalus,,species,,B171:1,accepted,,,B171:1:657,Philorhizus,,,,,Carabidae,Carabinae,Dromius,Philorhizus,Carabidae | Carabinae | Lebiini | Dromius | Philorhizus,37Q9F,7854758
+B171:1:661,Dromius sigma,,Dromius,,sigma,,species,,B171:1,accepted,,,B171:1:657,Philorhizus,,,,,Carabidae,Carabinae,Dromius,Philorhizus,Carabidae | Carabinae | Lebiini | Dromius | Philorhizus,37QBY,7610305
+B171:1:662,Dromius vectensis,,Dromius,,vectensis,,species,,B171:1,accepted,,,B171:1:657,Philorhizus,,,,,Carabidae,Carabinae,Dromius,Philorhizus,Carabidae | Carabinae | Lebiini | Dromius | Philorhizus,37QDB,7769800
+B171:1:663,Dromius notatus,,Dromius,,notatus,,species,,B171:1,accepted,,,B171:1:657,Philorhizus,,,,,Carabidae,Carabinae,Dromius,Philorhizus,Carabidae | Carabinae | Lebiini | Dromius | Philorhizus,6DKBD,6453886
+B171:1:664,Dromius nigriventris,,Dromius,,nigriventris,,species,,B171:1,synonym,B171:1:663,Dromius notatus,,,,,,,Carabidae,Carabinae,Dromius,Philorhizus,Carabidae | Carabinae | Lebiini | Dromius | Philorhizus,37Q9Z,7706986
+B171:1:665,Microlestes,,,,,,genus,,B171:1,accepted,,,B171:1:629,Lebiini,,,,,Carabidae,Carabinae,Microlestes,,Carabidae | Carabinae | Lebiini,8KVVM,1036260
+B171:1:666,Blechrus,,,,,,genus,,B171:1,synonym,B171:1:665,Microlestes,,,,,,,Carabidae,Carabinae,Blechrus,,Carabidae | Carabinae | Lebiini,8LR5H,4480241
+B171:1:667,Microlestes maurus,,Microlestes,,maurus,,species,,B171:1,accepted,,,B171:1:665,Microlestes,,,,,Carabidae,Carabinae,Microlestes,,Carabidae | Carabinae | Lebiini | Microlestes,42XZJ,5873271
+B171:1:668,Microlestes glabratus,,Microlestes,,glabratus,,species,,B171:1,synonym,B171:1:667,Microlestes maurus,,,,,,,Carabidae,Carabinae,Microlestes,,Carabidae | Carabinae | Lebiini | Microlestes,42XY8,7992095
+B171:1:669,Metabletus,,,,,,genus,,B171:1,accepted,,,B171:1:629,Lebiini,,,,,Carabidae,Carabinae,Metabletus,,Carabidae | Carabinae | Lebiini,8KX37,1035668
+B171:1:670,Syntomus,,,,,,genus,,B171:1,synonym,B171:1:669,Metabletus,,,,,,,Carabidae,Carabinae,Syntomus,,Carabidae | Carabinae | Lebiini,8KZ52,4405724
+B171:1:671,Metabletus obscuroguttatus,,Metabletus,,obscuroguttatus,,species,,B171:1,accepted,,,B171:1:669,Metabletus,,,,,Carabidae,Carabinae,Metabletus,,Carabidae | Carabinae | Lebiini | Metabletus,428M4,8301189
+B171:1:672,Metabletus truncatellus,,Metabletus,,truncatellus,,species,,B171:1,accepted,,,B171:1:669,Metabletus,,,,,Carabidae,Carabinae,Metabletus,,Carabidae | Carabinae | Lebiini | Metabletus,428N3,8156346
+B171:1:673,Metabletus foveatus,,Metabletus,,foveatus,,species,,B171:1,accepted,,,B171:1:669,Metabletus,,,,,Carabidae,Carabinae,Metabletus,,Carabidae | Carabinae | Lebiini | Metabletus,428L2,8142620
+B171:1:674,Metabletus foveola,,Metabletus,,foveola,,species,,B171:1,synonym,B171:1:673,Metabletus foveatus,,,,,,,Carabidae,Carabinae,Metabletus,,Carabidae | Carabinae | Lebiini | Metabletus,428L3,7823963
+B171:1:675,Lionychus,,,,,,genus,,B171:1,accepted,,,B171:1:629,Lebiini,,,,,Carabidae,Carabinae,Lionychus,,Carabidae | Carabinae | Lebiini,8KXKC,4407586
+B171:1:676,Lionychus quadrillum,,Lionychus,,quadrillum,,species,,B171:1,accepted,,,B171:1:675,Lionychus,,,,,Carabidae,Carabinae,Lionychus,,Carabidae | Carabinae | Lebiini | Lionychus,3V6YT,4479927
+B171:1:677,Cymindis,,,,,,genus,,B171:1,accepted,,,B171:1:629,Lebiini,,,,,Carabidae,Carabinae,Cymindis,,Carabidae | Carabinae | Lebiini,8KVPV,1035370
+B171:1:678,Cymindis axillaris,,Cymindis,,axillaris,,species,,B171:1,accepted,,,B171:1:677,Cymindis,,,,,Carabidae,Carabinae,Cymindis,,Carabidae | Carabinae | Lebiini | Cymindis,3372N,5757120
+B171:1:679,Cymindis vaporariorum,,Cymindis,,vaporariorum,,species,,B171:1,accepted,,,B171:1:677,Cymindis,,,,,Carabidae,Carabinae,Cymindis,,Carabidae | Carabinae | Lebiini | Cymindis,3377P,5757155
+B171:1:680,Cymindis basalis,,Cymindis,,basalis,,species,,B171:1,synonym,B171:1:679,Cymindis vaporariorum,,,,,,,Carabidae,Carabinae,Cymindis,,Carabidae | Carabinae | Lebiini | Cymindis,3378V,7958086
+B171:1:681,Zuphiini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTY7,
+B171:1:682,Polistichus,,,,,,genus,,B171:1,accepted,,,B171:1:681,Zuphiini,,,,,Carabidae,Carabinae,Polistichus,,Carabidae | Carabinae | Zuphiini,8KYH9,5430913
+B171:1:683,Polystichus,,,,,,genus,,B171:1,synonym,B171:1:682,Polistichus,,,,,,,Carabidae,Carabinae,Polystichus,,Carabidae | Carabinae | Zuphiini,8LSQK,9288201
+B171:1:684,Polistichus connexus,,Polistichus,,connexus,,species,,B171:1,accepted,,,B171:1:682,Polistichus,,,,,Carabidae,Carabinae,Polistichus,,Carabidae | Carabinae | Zuphiini | Polistichus,4KYL3,5755562
+B171:1:685,Polistichus faciolatus,,Polistichus,,faciolatus,,species,,B171:1,synonym,B171:1:684,Polistichus connexus,,,,,,,Carabidae,Carabinae,Polistichus,,Carabidae | Carabinae | Zuphiini | Polistichus,4KYL5,5755559
+B171:1:686,Dryptini,,,,,,tribe,,B171:1,accepted,,,B171:1:15,Carabinae,,,,,Carabidae,Carabinae,,,Carabidae | Carabinae,8KTV7,
+B171:1:687,Drypta,,,,,,genus,,B171:1,accepted,,,B171:1:686,Dryptini,,,,,Carabidae,Carabinae,Drypta,,Carabidae | Carabinae | Dryptini,8KVSZ,1035564
+B171:1:688,Drypta dentata,,Drypta,,dentata,,species,,B171:1,accepted,,,B171:1:687,Drypta,,,,,Carabidae,Carabinae,Drypta,,Carabidae | Carabinae | Dryptini | Drypta,37YJX,4474780
+B171:1:689,Drypta emarginata,,Drypta,,emarginata,,species,,B171:1,synonym,B171:1:688,Drypta dentata,,,,,,,Carabidae,Carabinae,Drypta,,Carabidae | Carabinae | Dryptini | Drypta,37YLW,11284832
+B171:1:690,Brachininae,,,,,,subfamily,,B171:1,accepted,,,B171:1:1,Carabidae,,,,,Carabidae,Brachininae,,,Carabidae,8KTNB,
+B171:1:691,Brachinini,,,,,,tribe,,B171:1,accepted,,,B171:1:690,Brachininae,,,,,Carabidae,Brachininae,,,Carabidae | Brachininae,8KTSZ,
+B171:1:692,Brachinus,,,,,,genus,,B171:1,accepted,,,B171:1:691,Brachinini,,,,,Carabidae,Brachininae,Brachinus,,Carabidae | Brachininae | Brachinini,8KVCP,1035293
+B171:1:693,Brachynus,,,,,,genus,,B171:1,synonym,B171:1:692,Brachinus,,,,,,,Carabidae,Brachininae,Brachynus,,Carabidae | Brachininae | Brachinini,8LR64,4750219
+B171:1:694,Brachinus crepitans,,Brachinus,,crepitans,,species,,B171:1,accepted,,,B171:1:692,Brachinus,,,,,Carabidae,Brachininae,Brachinus,,Carabidae | Brachininae | Brachinini | Brachinus,MSXD,4474861
+B171:1:695,Brachinus sclopeta,,Brachinus,,sclopeta,,species,,B171:1,accepted,,,B171:1:692,Brachinus,,,,,Carabidae,Brachininae,Brachinus,,Carabidae | Brachininae | Brachinini | Brachinus,MSYY,4474925

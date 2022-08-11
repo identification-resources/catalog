@@ -1,0 +1,41 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B357:1:1,Agrilus,,,,,,genus,,B357:1,accepted,,,,,,,,,,,Agrilus,,,QXR,
+B357:1:2,Agrilus ascanius-group,,Agrilus,,,,group,,B357:1,accepted,,,B357:1:1,Agrilus,,,,,,,Agrilus,,Agrilus,QXR,
+B357:1:3,Agrilus ascanius,,Agrilus,,ascanius,,species,,B357:1,accepted,,,B357:1:2,Agrilus ascanius-group,,,,,,,Agrilus,,Agrilus | Agrilus ascanius-group,B3ZD,9318142
+B357:1:4,Agrilus cuprifrons,,Agrilus,,cuprifrons,,species,,B357:1,accepted,,,B357:1:2,Agrilus ascanius-group,,,,,,,Agrilus,,Agrilus | Agrilus ascanius-group,B4MG,9329947
+B357:1:5,Agrilus maculiventris,,Agrilus,,maculiventris,,species,,B357:1,accepted,,,B357:1:2,Agrilus ascanius-group,,,,,,,Agrilus,,Agrilus | Agrilus ascanius-group,B5R9,9482616
+B357:1:6,Agrilus mcgregori,,Agrilus,,mcgregori,,species,,B357:1,accepted,,,B357:1:2,Agrilus ascanius-group,,,,,,,Agrilus,,Agrilus | Agrilus ascanius-group,B5TT,9158049
+B357:1:7,Agrilus opulentus,,Agrilus,,opulentus,,species,,B357:1,accepted,,,B357:1:2,Agrilus ascanius-group,,,,,,,Agrilus,,Agrilus | Agrilus ascanius-group,B67S,9315654
+B357:1:8,Agrilus sapphirinus,,Agrilus,,sapphirinus,,species,,B357:1,accepted,,,B357:1:2,Agrilus ascanius-group,,,,,,,Agrilus,,Agrilus | Agrilus ascanius-group,,8963457
+B357:1:9,Agrilus seramensis,,Agrilus,,seramensis,,species,,B357:1,accepted,,,B357:1:2,Agrilus ascanius-group,,,,,,,Agrilus,,Agrilus | Agrilus ascanius-group,,8821960
+B357:1:10,Agrilus validus,,Agrilus,,validus,,species,,B357:1,accepted,,,B357:1:2,Agrilus ascanius-group,,,,,,,Agrilus,,Agrilus | Agrilus ascanius-group,5TTQS,9596011
+B357:1:11,Agrilus viridissimus,,Agrilus,,viridissimus,,species,,B357:1,accepted,,,B357:1:2,Agrilus ascanius-group,,,,,,,Agrilus,,Agrilus | Agrilus ascanius-group,B7CY,9607734
+B357:1:12,Agrilus woodlarkianus,,Agrilus,,woodlarkianus,,species,,B357:1,accepted,,,B357:1:2,Agrilus ascanius-group,,,,,,,Agrilus,,Agrilus | Agrilus ascanius-group,665R6,4729760
+B357:1:13,Agrilus cyaneoniger-group,,Agrilus,,,,group,,B357:1,accepted,,,B357:1:1,Agrilus,,,,,,,Agrilus,,Agrilus,QXR,
+B357:1:14,Agrilus agnatus,,Agrilus,,agnatus,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,664C9,9512570
+B357:1:15,Agrilus auristernum,,Agrilus,,auristernum,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,B42Z,9591173
+B357:1:16,Agrilus bifoveolatus,,Agrilus,,bifoveolatus,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,B477,9631242
+B357:1:17,Agrilus crepuscularis,,Agrilus,,crepuscularis,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,,9153374
+B357:1:18,Agrilus cyaneoniger,,Agrilus,,cyaneoniger,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,B4MZ,9328844
+B357:1:19,Agrilus lafertei,,Agrilus,,lafertei,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,B5KY,9621791
+B357:1:20,Agrilus lubopetri,,Agrilus,,lubopetri,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,B5PQ,9501854
+B357:1:21,Agrilus planipennis,,Agrilus,,planipennis,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,B6DS,5878492
+B357:1:22,Agrilus pseudolubopetri,,Agrilus,,pseudolubopetri,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,,8985370
+B357:1:23,Agrilus qinling,,Agrilus,,qinling,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,B6JR,9621269
+B357:1:24,Agrilus rubensteini,,Agrilus,,rubensteini,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,QXR,10847534
+B357:1:25,Agrilus tomentipennis,,Agrilus,,tomentipennis,,species,,B357:1,accepted,,,B357:1:13,Agrilus cyaneoniger-group,,,,,,,Agrilus,,Agrilus | Agrilus cyaneoniger-group,,8804694
+B357:1:26,Agrilus hewitti-group,,Agrilus,,,,group,,B357:1,accepted,,,B357:1:1,Agrilus,,,,,,,Agrilus,,Agrilus,QXR,
+B357:1:27,Agrilus daillieri,,Agrilus,,daillieri,,species,,B357:1,accepted,,,B357:1:26,Agrilus hewitti-group,,,,,,,Agrilus,,Agrilus | Agrilus hewitti-group,B4NS,9313770
+B357:1:28,Agrilus hewitti,,Agrilus,,hewitti,,species,,B357:1,accepted,,,B357:1:26,Agrilus hewitti-group,,,,,,,Agrilus,,Agrilus | Agrilus hewitti-group,B59K,9545357
+B357:1:29,Agrilus piliventris-group,,Agrilus,,,,group,,B357:1,accepted,,,B357:1:1,Agrilus,,,,,,,Agrilus,,Agrilus,QXR,
+B357:1:30,Agrilus ampliatus,,Agrilus,,ampliatus,,species,,B357:1,accepted,,,B357:1:29,Agrilus piliventris-group,,,,,,,Agrilus,,Agrilus | Agrilus piliventris-group,B3WR,9544163
+B357:1:31,Agrilus maculipennis,,Agrilus,,maculipennis,,species,,B357:1,accepted,,,B357:1:29,Agrilus piliventris-group,,,,,,,Agrilus,,Agrilus | Agrilus piliventris-group,B5R7,9234739
+B357:1:32,Agrilus ostrinus,,Agrilus,,ostrinus,,species,,B357:1,accepted,,,B357:1:29,Agrilus piliventris-group,,,,,,,Agrilus,,Agrilus | Agrilus piliventris-group,B68C,9460809
+B357:1:33,Agrilus piliventris,,Agrilus,,piliventris,,species,,B357:1,accepted,,,B357:1:29,Agrilus piliventris-group,,,,,,,Agrilus,,Agrilus | Agrilus piliventris-group,B6CW,9394221
+B357:1:34,Agrilus pseudoostrinus,,Agrilus,,pseudoostrinus,,species,,B357:1,accepted,,,B357:1:29,Agrilus piliventris-group,,,,,,,Agrilus,,Agrilus | Agrilus piliventris-group,B6GS,9391760
+B357:1:35,Agrilus spineus,,Agrilus,,spineus,,species,,B357:1,accepted,,,B357:1:29,Agrilus piliventris-group,,,,,,,Agrilus,,Agrilus | Agrilus piliventris-group,,8763823
+B357:1:36,Agrilus sinensis-group,,Agrilus,,,,group,,B357:1,accepted,,,B357:1:1,Agrilus,,,,,,,Agrilus,,Agrilus,QXR,
+B357:1:37,Agrilus coreanus,,Agrilus,,coreanus,,species,,B357:1,accepted,,,B357:1:36,Agrilus sinensis-group,,,,,,,Agrilus,,Agrilus | Agrilus sinensis-group,B4KL,9290414
+B357:1:38,Agrilus sinensis,,Agrilus,,sinensis,,species,,B357:1,accepted,,,B357:1:36,Agrilus sinensis-group,,,,,,,Agrilus,,Agrilus | Agrilus sinensis-group,65TPW,9387408
+B357:1:39,Agrilus sinensis subsp. sinensis,,Agrilus,,sinensis,sinensis,subspecies,,B357:1,accepted,,,B357:1:38,Agrilus sinensis,,,,,,,Agrilus,,Agrilus | Agrilus sinensis-group | Agrilus sinensis,,9396418
+B357:1:40,Agrilus sinensis subsp. splendidicollis,,Agrilus,,sinensis,splendidicollis,subspecies,,B357:1,accepted,,,B357:1:38,Agrilus sinensis,,,,,,,Agrilus,,Agrilus | Agrilus sinensis-group | Agrilus sinensis,5DFGX,9572864

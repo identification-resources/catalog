@@ -1,0 +1,44 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B424:2:1,Bethylidae,,,,,,family,,B424:2,accepted,,,,,,,,,Bethylidae,,,,,775,4336
+B424:2:2,Bethylinae,,,,,,subfamily,,B424:2,accepted,,,B424:2:1,Bethylidae,,,,,Bethylidae,Bethylinae,,,Bethylidae,,
+B424:2:3,Goniozus,,,,,,genus,,B424:2,accepted,,,B424:2:2,Bethylinae,,,,,Bethylidae,Bethylinae,Goniozus,,Bethylidae | Bethylinae,4Q7N,1358484
+B424:2:4,Goniozus claripennis,,Goniozus,,claripennis,,species,,B424:2,accepted,,,B424:2:3,Goniozus,,,,,Bethylidae,Bethylinae,Goniozus,,Bethylidae | Bethylinae | Goniozus,,4492752
+B424:2:5,Bethylus formicarius,,Bethylus,,formicarius,,species,,B424:2,synonym,B424:2:4,Goniozus claripennis,,,,,,,Bethylidae,Bethylinae,Goniozus,,Bethylidae | Bethylinae | Goniozus,,8947895
+B424:2:6,Goniozus distigmus,,Goniozus,,distigmus,,species,,B424:2,synonym,B424:2:4,Goniozus claripennis,,,,,,,Bethylidae,Bethylinae,Goniozus,,Bethylidae | Bethylinae | Goniozus,,6097165
+B424:2:7,Goniozus audouini,,Goniozus,,audouini,,species,,B424:2,synonym,B424:2:4,Goniozus claripennis,,,,,,,Bethylidae,Bethylinae,Goniozus,,Bethylidae | Bethylinae | Goniozus,,11266051
+B424:2:8,Bethylus,,,,,,genus,,B424:2,accepted,,,B424:2:2,Bethylinae,,,,,Bethylidae,Bethylinae,Bethylus,,Bethylidae | Bethylinae,,
+B424:2:9,Perisemus,,,,,,genus,,B424:2,synonym,B424:2:8,Bethylus,,,,,,,Bethylidae,Bethylinae,Perisemus,,Bethylidae | Bethylinae,,4669912
+B424:2:10,Episemus,,,,,,genus,,B424:2,synonym,B424:2:8,Bethylus,,,,,,,Bethylidae,Bethylinae,Episemus,,Bethylidae | Bethylinae,,4678647
+B424:2:11,Bethylus fuscicornis,,Bethylus,,fuscicornis,,species,,B424:2,accepted,,,B424:2:8,Bethylus,,,,,Bethylidae,Bethylinae,Bethylus,,Bethylidae | Bethylinae | Bethylus,,5759905
+B424:2:12,Episemus variabilis,,Episemus,,variabilis,,species,,B424:2,synonym,B424:2:11,Bethylus fuscicornis,,,,,,,Bethylidae,Bethylinae,Bethylus,,Bethylidae | Bethylinae | Bethylus,,4678647
+B424:2:13,Bethylus cephalotes,,Bethylus,,cephalotes,,species,,B424:2,accepted,,,B424:2:8,Bethylus,,,,,Bethylidae,Bethylinae,Bethylus,,Bethylidae | Bethylinae | Bethylus,,5759923
+B424:2:14,Perisemus cephalotes,,Perisemus,,cephalotes,,species,,B424:2,synonym,B424:2:13,Bethylus cephalotes,,,,,,,Bethylidae,Bethylinae,Bethylus,,Bethylidae | Bethylinae | Bethylus,,9100279
+B424:2:15,Bethylus nitidus,,Bethylus,,nitidus,,species,,B424:2,accepted,,,B424:2:8,Bethylus,,,,,Bethylidae,Bethylinae,Bethylus,,Bethylidae | Bethylinae | Bethylus,,7784452
+B424:2:16,Episemus nitidus,,Episemus,,nitidus,,species,,B424:2,synonym,B424:2:15,Bethylus nitidus,,,,,,,Bethylidae,Bethylinae,Bethylus,,Bethylidae | Bethylinae | Bethylus,,9221636
+B424:2:17,Anoxus,,,,,,genus,,B424:2,accepted,,,B424:2:2,Bethylinae,,,,,Bethylidae,Bethylinae,Anoxus,,Bethylidae | Bethylinae,,4492658
+B424:2:18,Anoxus boops,,Anoxus,,boops,,species,,B424:2,accepted,,,B424:2:17,Anoxus,,,,,Bethylidae,Bethylinae,Anoxus,,Bethylidae | Bethylinae | Anoxus,,9159915
+B424:2:19,Pristocerinae,,,,,,subfamily,,B424:2,accepted,,,B424:2:1,Bethylidae,,,,,Bethylidae,Pristocerinae,,,Bethylidae,,
+B424:2:20,Pseudisobrachium,,,,,,genus,,B424:2,accepted,,,B424:2:19,Pristocerinae,,,,,Bethylidae,Pristocerinae,Pseudisobrachium,,Bethylidae | Pristocerinae,,4492625
+B424:2:21,Pseudisobrachium subcyaneum,,Pseudisobrachium,,subcyaneum,,species,,B424:2,accepted,,,B424:2:20,Pseudisobrachium,,,,,Bethylidae,Pristocerinae,Pseudisobrachium,,Bethylidae | Pristocerinae | Pseudisobrachium,,4492629
+B424:2:22,Epyris subcyaneum,,Epyris,,subcyaneum,,species,,B424:2,synonym,B424:2:21,Pseudisobrachium subcyaneum,,,,,,,Bethylidae,Pristocerinae,Pseudisobrachium,,Bethylidae | Pristocerinae | Pseudisobrachium,,4492630
+B424:2:23,Pristocera,,,,,,genus,,B424:2,accepted,,,B424:2:19,Pristocerinae,,,,,Bethylidae,Pristocerinae,Pristocera,,Bethylidae | Pristocerinae,,3258848
+B424:2:24,Pristocera depressa,,Pristocera,,depressa,,species,,B424:2,accepted,,,B424:2:23,Pristocera,,,,,Bethylidae,Pristocerinae,Pristocera,,Bethylidae | Pristocerinae | Pristocera,,7787438
+B424:2:25,Bethylus depressa,,Bethylus,,depressa,,species,,B424:2,synonym,B424:2:24,Pristocera depressa,,,,,,,Bethylidae,Pristocerinae,Pristocera,,Bethylidae | Pristocerinae | Pristocera,,8991581
+B424:2:26,Epyrinae,,,,,,subfamily,,B424:2,accepted,,,B424:2:1,Bethylidae,,,,,Bethylidae,Epyrinae,,,Bethylidae,,
+B424:2:27,Cephalonomiini,,,,,,tribe,,B424:2,accepted,,,B424:2:26,Epyrinae,,,,,Bethylidae,Epyrinae,,,Bethylidae | Epyrinae,,
+B424:2:28,Cephalonomia,,,,,,genus,,B424:2,accepted,,,B424:2:27,Cephalonomiini,,,,,Bethylidae,Epyrinae,Cephalonomia,,Bethylidae | Epyrinae | Cephalonomiini,62JW3,1358490
+B424:2:29,Cephalonomia formiciformis,,Cephalonomia,,formiciformis,,species,,B424:2,accepted,,,B424:2:28,Cephalonomia,,,,,Bethylidae,Epyrinae,Cephalonomia,,Bethylidae | Epyrinae | Cephalonomiini | Cephalonomia,,4492569
+B424:2:30,Cephalonomia hammi,,Cephalonomia,,hammi,,species,,B424:2,accepted,,,B424:2:28,Cephalonomia,,,,,Bethylidae,Epyrinae,Cephalonomia,,Bethylidae | Epyrinae | Cephalonomiini | Cephalonomia,,4492553
+B424:2:31,Plastanoxus,,,,,,genus,,B424:2,accepted,,,B424:2:27,Cephalonomiini,,,,,Bethylidae,Epyrinae,Plastanoxus,,Bethylidae | Epyrinae | Cephalonomiini,,9098213
+B424:2:32,Plastanoxus westwoodi,,Plastanoxus,,westwoodi,,species,,B424:2,accepted,,,B424:2:31,Plastanoxus,,,,,Bethylidae,Epyrinae,Plastanoxus,,Bethylidae | Epyrinae | Cephalonomiini | Plastanoxus,,4492822
+B424:2:33,Cephalonomia westwoodi,,Cephalonomia,,westwoodi,,species,,B424:2,synonym,B424:2:32,Plastanoxus westwoodi,,,,,,,Bethylidae,Epyrinae,Plastanoxus,,Bethylidae | Epyrinae | Cephalonomiini | Plastanoxus,,4492823
+B424:2:34,Snappania,,,,,,genus,,B424:2,accepted,,,B424:2:27,Cephalonomiini,,,,,Bethylidae,Epyrinae,Snappania,,Bethylidae | Epyrinae | Cephalonomiini,,4492825
+B424:2:35,Snappania ahusiensis,,Snappania,,ahusiensis,,species,,B424:2,accepted,,,B424:2:34,Snappania,,,,,Bethylidae,Epyrinae,Snappania,,Bethylidae | Epyrinae | Cephalonomiini | Snappania,,4492825
+B424:2:36,Epyrini,,,,,,tribe,,B424:2,accepted,,,B424:2:26,Epyrinae,,,,,Bethylidae,Epyrinae,,,Bethylidae | Epyrinae,,
+B424:2:37,Laelius,,,,,,genus,,B424:2,accepted,,,B424:2:36,Epyrini,,,,,Bethylidae,Epyrinae,Laelius,,Bethylidae | Epyrinae | Epyrini,,4404476
+B424:2:38,Laelius femoralis,,Laelius,,femoralis,,species,,B424:2,accepted,,,B424:2:37,Laelius,,,,,Bethylidae,Epyrinae,Laelius,,Bethylidae | Epyrinae | Epyrini | Laelius,,4492710
+B424:2:39,Laelius utilis,,Laelius,,utilis,,species,,B424:2,accepted,,,B424:2:37,Laelius,,,,,Bethylidae,Epyrinae,Laelius,,Bethylidae | Epyrinae | Epyrini | Laelius,,4492712
+B424:2:40,Rhabdepyris,,,,,,genus,,B424:2,accepted,,,B424:2:36,Epyrini,,,,,Bethylidae,Epyrinae,Rhabdepyris,,Bethylidae | Epyrinae | Epyrini,,4407155
+B424:2:41,Rhabdepyris myrmecophilus,,Rhabdepyris,,myrmecophilus,,species,,B424:2,accepted,,,B424:2:40,Rhabdepyris,,,,,Bethylidae,Epyrinae,Rhabdepyris,,Bethylidae | Epyrinae | Epyrini | Rhabdepyris,,6097166
+B424:2:42,Epyris,,,,,,genus,,B424:2,accepted,,,B424:2:36,Epyrini,,,,,Bethylidae,Epyrinae,Epyris,,Bethylidae | Epyrinae | Epyrini,,4404352
+B424:2:43,Epyris bilineatus,,Epyris,,bilineatus,,species,,B424:2,accepted,,,B424:2:42,Epyris,,,,,Bethylidae,Epyrinae,Epyris,,Bethylidae | Epyrinae | Epyrini | Epyris,,4492610

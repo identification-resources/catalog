@@ -1,0 +1,67 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B209:1:1,Chrysidoidea,,,,,,superfamily,,B209:1,accepted,,,,,,,,,,,,,,4Y3,
+B209:1:2,Chrysididae,,,,,,family,,B209:1,accepted,,,B209:1:1,Chrysidoidea,,,,,Chrysididae,,,,Chrysidoidea,87J,7903
+B209:1:3,Cleptinae,,,,,,subfamily,,B209:1,accepted,,,B209:1:2,Chrysididae,,,,,Chrysididae,Cleptinae,,,Chrysidoidea | Chrysididae,,
+B209:1:4,Cleptes,,,,,,genus,,B209:1,accepted,,,B209:1:3,Cleptinae,,,,,Chrysididae,Cleptinae,Cleptes,,Chrysidoidea | Chrysididae | Cleptinae,,
+B209:1:5,Cleptes nitidulus,,Cleptes,,nitidulus,,species,,B209:1,accepted,,,B209:1:4,Cleptes,,,,,Chrysididae,Cleptinae,Cleptes,,Chrysidoidea | Chrysididae | Cleptinae | Cleptes,5YYB3,5044023
+B209:1:6,Cleptes semiauratus,,Cleptes,,semiauratus,,species,,B209:1,accepted,,,B209:1:4,Cleptes,,,,,Chrysididae,Cleptinae,Cleptes,,Chrysidoidea | Chrysididae | Cleptinae | Cleptes,,5869969
+B209:1:7,Cleptes pallipes,,Cleptes,,pallipes,,species,,B209:1,synonym,B209:1:6,Cleptes semiauratus,,,,,,,Chrysididae,Cleptinae,Cleptes,,Chrysidoidea | Chrysididae | Cleptinae | Cleptes,,7418917
+B209:1:8,Elampinae,,,,,,subfamily,,B209:1,accepted,,,B209:1:2,Chrysididae,,,,,Chrysididae,Elampinae,,,Chrysidoidea | Chrysididae,,
+B209:1:9,Elampus,,,,,,genus,,B209:1,accepted,,,B209:1:8,Elampinae,,,,,Chrysididae,Elampinae,Elampus,,Chrysidoidea | Chrysididae | Elampinae,,4405609
+B209:1:10,Notozus,,,,,,genus,,B209:1,synonym,B209:1:9,Elampus,,,,,,,Chrysididae,Elampinae,Notozus,,Chrysidoidea | Chrysididae | Elampinae,,4678610
+B209:1:11,Elampus panzeri,,Elampus,,panzeri,,species,,B209:1,accepted,,,B209:1:9,Elampus,,,,,Chrysididae,Elampinae,Elampus,,Chrysidoidea | Chrysididae | Elampinae | Elampus,,4493900
+B209:1:12,Elampus scutellaris,,Elampus,,scutellaris,,species,,B209:1,synonym,B209:1:11,Elampus panzeri,,,,,,,Chrysididae,Elampinae,Elampus,,Chrysidoidea | Chrysididae | Elampinae | Elampus,,8607861
+B209:1:13,Elampus constrictus,,Elampus,,constrictus,,species,,B209:1,synonym,B209:1:11,Elampus panzeri,,,,,,,Chrysididae,Elampinae,Elampus,,Chrysidoidea | Chrysididae | Elampinae | Elampus,,4493894
+B209:1:14,Omalus,,,,,,genus,,B209:1,accepted,,,B209:1:8,Elampinae,,,,,Chrysididae,Elampinae,Omalus,,Chrysidoidea | Chrysididae | Elampinae,,3258860
+B209:1:15,Omalus aeneus,,Omalus,,aeneus,,species,,B209:1,accepted,,,B209:1:14,Omalus,,,,,Chrysididae,Elampinae,Omalus,,Chrysidoidea | Chrysididae | Elampinae | Omalus,,5870042
+B209:1:16,Omalus auratus,,Omalus,,auratus,,species,,B209:1,accepted,,,B209:1:14,Omalus,,,,,Chrysididae,Elampinae,Omalus,,Chrysidoidea | Chrysididae | Elampinae | Omalus,,10443724
+B209:1:17,Omalus puncticollis,,Omalus,,puncticollis,,species,,B209:1,accepted,,,B209:1:14,Omalus,,,,,Chrysididae,Elampinae,Omalus,,Chrysidoidea | Chrysididae | Elampinae | Omalus,,7973155
+B209:1:18,Omalus truncatus,,Omalus,,truncatus,,species,,B209:1,accepted,,,B209:1:14,Omalus,,,,,Chrysididae,Elampinae,Omalus,,Chrysidoidea | Chrysididae | Elampinae | Omalus,,10658272
+B209:1:19,Omalus violaceus,,Omalus,,violaceus,,species,,B209:1,accepted,,,B209:1:14,Omalus,,,,,Chrysididae,Elampinae,Omalus,,Chrysidoidea | Chrysididae | Elampinae | Omalus,,10332970
+B209:1:20,Hedychridium,,,,,,genus,,B209:1,accepted,,,B209:1:8,Elampinae,,,,,Chrysididae,Elampinae,Hedychridium,,Chrysidoidea | Chrysididae | Elampinae,,8934105
+B209:1:21,Hedychridium ardens,,Hedychridium,,ardens,,species,,B209:1,accepted,,,B209:1:20,Hedychridium,,,,,Chrysididae,Elampinae,Hedychridium,,Chrysidoidea | Chrysididae | Elampinae | Hedychridium,,4494007
+B209:1:22,Hedychridium coriaceum,,Hedychridium,,coriaceum,,species,,B209:1,accepted,,,B209:1:20,Hedychridium,,,,,Chrysididae,Elampinae,Hedychridium,,Chrysidoidea | Chrysididae | Elampinae | Hedychridium,,4493938
+B209:1:23,Hedychridium cupreum,,Hedychridium,,cupreum,,species,,B209:1,accepted,,,B209:1:20,Hedychridium,,,,,Chrysididae,Elampinae,Hedychridium,,Chrysidoidea | Chrysididae | Elampinae | Hedychridium,,4494011
+B209:1:24,Hedychridium integrum,,Hedychridium,,integrum,,species,,B209:1,synonym,B209:1:23,Hedychridium cupreum,,,,,,,Chrysididae,Elampinae,Hedychridium,,Chrysidoidea | Chrysididae | Elampinae | Hedychridium,,10292326
+B209:1:25,Hedychridium roseum,,Hedychridium,,roseum,,species,,B209:1,accepted,,,B209:1:20,Hedychridium,,,,,Chrysididae,Elampinae,Hedychridium,,Chrysidoidea | Chrysididae | Elampinae | Hedychridium,,4493930
+B209:1:26,Hedychrum,,,,,,genus,,B209:1,accepted,,,B209:1:8,Elampinae,,,,,Chrysididae,Elampinae,Hedychrum,,Chrysidoidea | Chrysididae | Elampinae,,4494164
+B209:1:27,Hedychrum niemelai,,Hedychrum,,niemelai,,species,,B209:1,accepted,,,B209:1:26,Hedychrum,,,,,Chrysididae,Elampinae,Hedychrum,,Chrysidoidea | Chrysididae | Elampinae | Hedychrum,,8528663
+B209:1:28,Hedychrum nobile,,Hedychrum,,nobile,,species,,B209:1,synonym,B209:1:27,Hedychrum niemelai,,,,,,,Chrysididae,Elampinae,Hedychrum,,Chrysidoidea | Chrysididae | Elampinae | Hedychrum,,4494165
+B209:1:29,Hedychrum rutilans,,Hedychrum,,rutilans,,species,,B209:1,accepted,,,B209:1:26,Hedychrum,,,,,Chrysididae,Elampinae,Hedychrum,,Chrysidoidea | Chrysididae | Elampinae | Hedychrum,,4494169
+B209:1:30,Hedychrum intermedium,,Hedychrum,,intermedium,,species,,B209:1,synonym,B209:1:29,Hedychrum rutilans,,,,,,,Chrysididae,Elampinae,Hedychrum,,Chrysidoidea | Chrysididae | Elampinae | Hedychrum,,6097108
+B209:1:31,Holopyga,,,,,,genus,,B209:1,accepted,,,B209:1:8,Elampinae,,,,,Chrysididae,Elampinae,Holopyga,,Chrysidoidea | Chrysididae | Elampinae,,3258441
+B209:1:32,Holopyga ovata,,Holopyga,,ovata,,species,,B209:1,accepted,,,B209:1:31,Holopyga,,,,,Chrysididae,Elampinae,Holopyga,,Chrysidoidea | Chrysididae | Elampinae | Holopyga,,8110100
+B209:1:33,Holopyga amoenula,,Holopyga,,amoenula,,species,,B209:1,synonym,B209:1:32,Holopyga ovata,,,,,,,Chrysididae,Elampinae,Holopyga,,Chrysidoidea | Chrysididae | Elampinae | Holopyga,,8233904
+B209:1:34,Chrysidinae,,,,,,subfamily,,B209:1,accepted,,,B209:1:2,Chrysididae,,,,,Chrysididae,Chrysidinae,,,Chrysidoidea | Chrysididae,,
+B209:1:35,Chrysis,,,,,,genus,,B209:1,accepted,,,B209:1:34,Chrysidinae,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae,3PF5,10501569
+B209:1:36,Chrysis angustula,,Chrysis,,angustula,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,5870014
+B209:1:37,Chrysis brevidens,,Chrysis,,brevidens,,species,,B209:1,synonym,B209:1:36,Chrysis angustula,,,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,11228515
+B209:1:38,Chrysis bicolor,,Chrysis,,bicolor,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,5870005
+B209:1:39,Chrysis fulgida,,Chrysis,,fulgida,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,5870020
+B209:1:40,Chrysis helleni,,Chrysis,,helleni,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,8699644
+B209:1:41,Chrysis chrysoprasina,,Chrysis,,chrysoprasina,,species,,B209:1,synonym,B209:1:40,Chrysis helleni,,,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,8827096
+B209:1:42,Chrysis succincta,,Chrysis,,succincta,,species,,B209:1,synonym,B209:1:40,Chrysis helleni,,,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,5760160
+B209:1:43,Chrysis ignita,,Chrysis,,ignita,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,5760254
+B209:1:44,Chrysis impressa,,Chrysis,,impressa,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,8414437
+B209:1:45,Chrysis longula,,Chrysis,,longula,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,5YKF9,5760361
+B209:1:46,Chrysis mediata,,Chrysis,,mediata,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,5760172
+B209:1:47,Chrysis pseudobrevitarsis,,Chrysis,,pseudobrevitarsis,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,5760133
+B209:1:48,Chrysis ruddii,,Chrysis,,ruddii,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,5870023
+B209:1:49,Chrysis rutiliventris,,Chrysis,,rutiliventris,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,5870021
+B209:1:50,Chrysis vanlithi,,Chrysis,,vanlithi,,species,,B209:1,synonym,B209:1:49,Chrysis rutiliventris,,,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,7535068
+B209:1:51,Chrysis schencki,,Chrysis,,schencki,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,7772527
+B209:1:52,Chrysis schenckiana,,Chrysis,,schenckiana,,species,,B209:1,synonym,B209:1:51,Chrysis schencki,,,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,11254138
+B209:1:53,Chrysis viridula,,Chrysis,,viridula,,species,,B209:1,accepted,,,B209:1:35,Chrysis,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,5YLYH,5870017
+B209:1:54,Chrysis ornatus,,Chrysis,,ornatus,,species,,B209:1,synonym,B209:1:53,Chrysis viridula,,,,,,,Chrysididae,Chrysidinae,Chrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysis,,11298374
+B209:1:55,Chrysogona,,,,,,genus,,B209:1,accepted,,,B209:1:34,Chrysidinae,,,,,Chrysididae,Chrysidinae,Chrysogona,,Chrysidoidea | Chrysididae | Chrysidinae,,4674495
+B209:1:56,Chrysogona gracillima,,Chrysogona,,gracillima,,species,,B209:1,accepted,,,B209:1:55,Chrysogona,,,,,Chrysididae,Chrysidinae,Chrysogona,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysogona,,8920119
+B209:1:57,Chrysura,,,,,,genus,,B209:1,accepted,,,B209:1:34,Chrysidinae,,,,,Chrysididae,Chrysidinae,Chrysura,,Chrysidoidea | Chrysididae | Chrysidinae,,4407791
+B209:1:58,Chrysura hirsuta,,Chrysura,,hirsuta,,species,,B209:1,accepted,,,B209:1:57,Chrysura,,,,,Chrysididae,Chrysidinae,Chrysura,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysura,,4493807
+B209:1:59,Chrysura osmiae,,Chrysura,,osmiae,,species,,B209:1,synonym,B209:1:58,Chrysura hirsuta,,,,,,,Chrysididae,Chrysidinae,Chrysura,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysura,,11230523
+B209:1:60,Chrysura radians,,Chrysura,,radians,,species,,B209:1,accepted,,,B209:1:57,Chrysura,,,,,Chrysididae,Chrysidinae,Chrysura,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysura,,4493766
+B209:1:61,Chrysura pustulosa,,Chrysura,,pustulosa,,species,,B209:1,synonym,B209:1:60,Chrysura radians,,,,,,,Chrysididae,Chrysidinae,Chrysura,,Chrysidoidea | Chrysididae | Chrysidinae | Chrysura,,11342469
+B209:1:62,Trichrysis,,,,,,genus,,B209:1,accepted,,,B209:1:34,Chrysidinae,,,,,Chrysididae,Chrysidinae,Trichrysis,,Chrysidoidea | Chrysididae | Chrysidinae,,9216054
+B209:1:63,Trichrysis cyanea,,Trichrysis,,cyanea,,species,,B209:1,accepted,,,B209:1:62,Trichrysis,,,,,Chrysididae,Chrysidinae,Trichrysis,,Chrysidoidea | Chrysididae | Chrysidinae | Trichrysis,,4493330
+B209:1:64,Spinolia,,,,,,genus,,B209:1,accepted,,,B209:1:34,Chrysidinae,,,,,Chrysididae,Chrysidinae,Spinolia,,Chrysidoidea | Chrysididae | Chrysidinae,,6007040
+B209:1:65,Pseudospinolia,,,,,,genus,,B209:1,synonym,B209:1:64,Spinolia,,,,,,,Chrysididae,Chrysidinae,Pseudospinolia,,Chrysidoidea | Chrysididae | Chrysidinae,,4493698
+B209:1:66,Spinolia neglecta,,Spinolia,,neglecta,,species,,B209:1,accepted,,,B209:1:64,Spinolia,,,,,Chrysididae,Chrysidinae,Spinolia,,Chrysidoidea | Chrysididae | Chrysidinae | Spinolia,,10346625

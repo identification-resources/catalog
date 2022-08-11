@@ -1,0 +1,101 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B154:1:1,Mecoptera,,,,,,order,,B154:1,accepted,,,,,,,,Mecoptera,,,,,,3J4,3256713
+B154:1:2,Boreidae,,,,,,family,,B154:1,accepted,,,B154:1:1,Mecoptera,,,,Mecoptera,Boreidae,,,,Mecoptera,7B3,4357
+B154:1:3,Boreus Linneaus,Linneaus,,,,,genus,,B154:1,accepted,,,B154:1:2,Boreidae,,,,Mecoptera,Boreidae,,Boreus,,Mecoptera | Boreidae,3BLS,1031891
+B154:1:4,Boreus hyemalis Linneaus,Linneaus,Boreus,,hyemalis,,species,,B154:1,accepted,,,B154:1:3,Boreus Linneaus,,,,Mecoptera,Boreidae,,Boreus,,Mecoptera | Boreidae | Boreus,MJZS,4421212
+B154:1:5,Panorpidae,,,,,,family,,B154:1,accepted,,,B154:1:1,Mecoptera,,,,Mecoptera,Panorpidae,,,,Mecoptera,DWV,7925
+B154:1:6,Panorpa Linneaus,Linneaus,,,,,genus,,B154:1,accepted,,,B154:1:5,Panorpidae,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae,63JDZ,1031814
+B154:1:7,Panorpa communis Linneaus,Linneaus,Panorpa,,communis,,species,,B154:1,accepted,,,B154:1:6,Panorpa Linneaus,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae | Panorpa,6TMC4,5742495
+B154:1:8,Panorpa germanica Linneaus,Linneaus,Panorpa,,germanica,,species,,B154:1,accepted,,,B154:1:6,Panorpa Linneaus,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae | Panorpa,4CGFC,5742496
+B154:1:9,Panorpa cognata Rambur,Rambur,Panorpa,,cognata,,species,,B154:1,accepted,,,B154:1:6,Panorpa Linneaus,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae | Panorpa,6TMBS,5742524
+B154:1:10,Megaloptera,,,,,,order,,B154:1,accepted,,,,,,,,Megaloptera,,,,,,3J8,1451
+B154:1:11,Raphidioidea,,,,,,suborder,,B154:1,accepted,,,B154:1:10,Megaloptera,,,,Megaloptera,,,,,Megaloptera,,
+B154:1:12,Raphidiidae,,,,,,family,,B154:1,accepted,,,B154:1:11,Raphidioidea,,,,Megaloptera,Raphidiidae,,,,Megaloptera | Raphidioidea,FJZ,6181
+B154:1:13,Raphidia Linneaus,Linneaus,,,,,genus,,B154:1,accepted,,,B154:1:12,Raphidiidae,,,,Megaloptera,Raphidiidae,,Raphidia,,Megaloptera | Raphidioidea | Raphidiidae,775X,1730014
+B154:1:14,Raphidia notata Fabricius,Fabricius,Raphidia,,notata,,species,,B154:1,accepted,,,B154:1:13,Raphidia Linneaus,,,,Megaloptera,Raphidiidae,,Raphidia,,Megaloptera | Raphidioidea | Raphidiidae | Raphidia,6X574,2006940
+B154:1:15,Raphidia maculicollis Stephens,Stephens,Raphidia,,maculicollis,,species,,B154:1,accepted,,,B154:1:13,Raphidia Linneaus,,,,Megaloptera,Raphidiidae,,Raphidia,,Megaloptera | Raphidioidea | Raphidiidae | Raphidia,4RKCD,2006859
+B154:1:16,Raphidia xanthostigma Schummel,Schummel,Raphidia,,xanthostigma,,species,,B154:1,accepted,,,B154:1:13,Raphidia Linneaus,,,,Megaloptera,Raphidiidae,,Raphidia,,Megaloptera | Raphidioidea | Raphidiidae | Raphidia,4RK74,2006745
+B154:1:17,Raphidia cognata Rambur,Rambur,Raphidia,,cognata,,species,,B154:1,accepted,,,B154:1:13,Raphidia Linneaus,,,,Megaloptera,Raphidiidae,,Raphidia,,Megaloptera | Raphidioidea | Raphidiidae | Raphidia,6WT6M,2007016
+B154:1:18,Sialoidea,,,,,,suborder,,B154:1,accepted,,,B154:1:10,Megaloptera,,,,Megaloptera,,,,,Megaloptera,,
+B154:1:19,Sialidae,,,,,,family,,B154:1,accepted,,,B154:1:18,Sialoidea,,,,Megaloptera,Sialidae,,,,Megaloptera | Sialoidea,G9L,5205
+B154:1:20,Sialis Latreille,Latreille,,,,,genus,,B154:1,accepted,,,B154:1:19,Sialidae,,,,Megaloptera,Sialidae,,Sialis,,Megaloptera | Sialoidea | Sialidae,8MP7M,11391048
+B154:1:21,Sialis lutaria Linneaus,Linneaus,Sialis,,lutaria,,species,,B154:1,accepted,,,B154:1:20,Sialis Latreille,,,,Megaloptera,Sialidae,,Sialis,,Megaloptera | Sialoidea | Sialidae | Sialis,4X5J4,5101313
+B154:1:22,Sialis fuliginosa Pictet,Pictet,Sialis,,fuliginosa,,species,,B154:1,accepted,,,B154:1:20,Sialis Latreille,,,,Megaloptera,Sialidae,,Sialis,,Megaloptera | Sialoidea | Sialidae | Sialis,4X5H7,5101327
+B154:1:23,Neuroptera,,,,,,order,,B154:1,accepted,,,,,,,,Neuroptera,,,,,,3ND,1501
+B154:1:24,Coniopterygidae,,,,,,family,,B154:1,accepted,,,B154:1:23,Neuroptera,,,,Neuroptera,Coniopterygidae,,,,Neuroptera,8HJ,5204
+B154:1:25,Aleuropteryx Loew,Loew,,,,,genus,,B154:1,accepted,,,B154:1:24,Coniopterygidae,,,,Neuroptera,Coniopterygidae,,Aleuropteryx,,Neuroptera | Coniopterygidae,628ZK,2109110
+B154:1:26,Aleuropteryx lutea (Wallengren),(Wallengren),Aleuropteryx,,lutea,,species,,B154:1,accepted,,,B154:1:25,Aleuropteryx Loew,,,,Neuroptera,Coniopterygidae,,Aleuropteryx,,Neuroptera | Coniopterygidae | Aleuropteryx,BQZD,2109359
+B154:1:27,Conwentzia Enderlein,Enderlein,,,,,genus,,B154:1,accepted,,,B154:1:24,Coniopterygidae,,,,Neuroptera,Coniopterygidae,,Conwentzia,,Neuroptera | Coniopterygidae,3TL8,2109168
+B154:1:28,Conwentzia psociformis (Curtis),(Curtis),Conwentzia,,psociformis,,species,,B154:1,accepted,,,B154:1:27,Conwentzia Enderlein,,,,Neuroptera,Coniopterygidae,,Conwentzia,,Neuroptera | Coniopterygidae | Conwentzia,XZYN,2109176
+B154:1:29,Coniopteryx Curtis,Curtis,,,,,genus,,B154:1,accepted,,,B154:1:24,Coniopterygidae,,,,Neuroptera,Coniopterygidae,,Coniopteryx,,Neuroptera | Coniopterygidae,3T8S,2101491
+B154:1:30,Coniopteryx pygmaea Enderlein,Enderlein,Coniopteryx,,pygmaea,,species,,B154:1,accepted,,,B154:1:29,Coniopteryx Curtis,,,,Neuroptera,Coniopterygidae,,Coniopteryx,,Neuroptera | Coniopterygidae | Coniopteryx,XMPZ,2108709
+B154:1:31,Coniopteryx tineiformis Curtis,Curtis,Coniopteryx,,tineiformis,,species,,B154:1,accepted,,,B154:1:29,Coniopteryx Curtis,,,,Neuroptera,Coniopterygidae,,Coniopteryx,,Neuroptera | Coniopterygidae | Coniopteryx,5ZST6,2108856
+B154:1:32,Coniopteryx borealis Tjeder,Tjeder,Coniopteryx,,borealis,,species,,B154:1,accepted,,,B154:1:29,Coniopteryx Curtis,,,,Neuroptera,Coniopterygidae,,Coniopteryx,,Neuroptera | Coniopterygidae | Coniopteryx,XMMV,2108765
+B154:1:33,Semidalis Enderlein,Enderlein,,,,,genus,,B154:1,accepted,,,B154:1:24,Coniopterygidae,,,,Neuroptera,Coniopterygidae,,Semidalis,,Neuroptera | Coniopterygidae,63SML,2108918
+B154:1:34,Semidalis aleyrodiformis (Stephens),(Stephens),Semidalis,,aleyrodiformis,,species,,B154:1,accepted,,,B154:1:33,Semidalis Enderlein,,,,Neuroptera,Coniopterygidae,,Semidalis,,Neuroptera | Coniopterygidae | Semidalis,4WGF2,5165586
+B154:1:35,Parasemidalis Enderlein,Enderlein,,,,,genus,,B154:1,accepted,,,B154:1:24,Coniopterygidae,,,,Neuroptera,Coniopterygidae,,Parasemidalis,,Neuroptera | Coniopterygidae,6GRF,3259422
+B154:1:36,Parasemidalis annae Enderlein,Enderlein,Parasemidalis,,annae,,species,,B154:1,accepted,,,B154:1:35,Parasemidalis Enderlein,,,,Neuroptera,Coniopterygidae,,Parasemidalis,,Neuroptera | Coniopterygidae | Parasemidalis,4DBT5,5165650
+B154:1:37,Osmylidae,,,,,,family,,B154:1,accepted,,,B154:1:23,Neuroptera,,,,Neuroptera,Osmylidae,,,,Neuroptera,DRB,9380
+B154:1:38,Osmylus Latreille,Latreille,,,,,genus,,B154:1,accepted,,,B154:1:37,Osmylidae,,,,Neuroptera,Osmylidae,,Osmylus,,Neuroptera | Osmylidae,63H2C,2097149
+B154:1:39,Osmylus fulvicephalus (Scopoli),(Scopoli),Osmylus,,fulvicephalus,,species,,B154:1,accepted,,,B154:1:38,Osmylus Latreille,,,,Neuroptera,Osmylidae,,Osmylus,,Neuroptera | Osmylidae | Osmylus,75BZH,5165705
+B154:1:40,Sisyridae,,,,,,family,,B154:1,accepted,,,B154:1:23,Neuroptera,,,,Neuroptera,Sisyridae,,,,Neuroptera,GC9,6180
+B154:1:41,Sisyra Burmeister,Burmeister,,,,,genus,,B154:1,accepted,,,B154:1:40,Sisyridae,,,,Neuroptera,Sisyridae,,Sisyra,,Neuroptera | Sisyridae,644BQ,2097004
+B154:1:42,Sisyra terminalis Curtis,Curtis,Sisyra,,terminalis,,species,,B154:1,accepted,,,B154:1:41,Sisyra Burmeister,,,,Neuroptera,Sisyridae,,Sisyra,,Neuroptera | Sisyridae | Sisyra,4XSG7,2097056
+B154:1:43,Sisyra fuscata (Fabricius),(Fabricius),Sisyra,,fuscata,,species,,B154:1,accepted,,,B154:1:41,Sisyra Burmeister,,,,Neuroptera,Sisyridae,,Sisyra,,Neuroptera | Sisyridae | Sisyra,4XSF7,2097041
+B154:1:44,Sisyra dalii McLachlan,McLachlan,Sisyra,,dalii,,species,,B154:1,accepted,,,B154:1:41,Sisyra Burmeister,,,,Neuroptera,Sisyridae,,Sisyra,,Neuroptera | Sisyridae | Sisyra,84MMX,2097030
+B154:1:45,Chrysopidae,,,,,,family,,B154:1,accepted,,,B154:1:23,Neuroptera,,,,Neuroptera,Chrysopidae,,,,Neuroptera,624B9,9265
+B154:1:46,Chrysopa Leach,Leach,,,,,genus,,B154:1,accepted,,,B154:1:45,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae,62LNN,2101894
+B154:1:47,Chrysopa dorsalis (Burmeister),(Burmeister),Chrysopa,,dorsalis,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5YRHZ,2105909
+B154:1:48,Chrysopa perla (Linneaus),(Linneaus),Chrysopa,,perla,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5Z36G,2105962
+B154:1:49,Chrysopa abbreviata Curtis,Curtis,Chrysopa,,abbreviata,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5YPMR,2106036
+B154:1:50,Chrysopa phyllochroma Wesmael,Wesmael,Chrysopa,,phyllochroma,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5Z35M,2105923
+B154:1:51,Chrysopa flava (Scopoli),(Scopoli),Chrysopa,,flava,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5YPKD,2104133
+B154:1:52,Chrysopa carnea Stephens,Stephens,Chrysopa,,carnea,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5YQ98,2105378
+B154:1:53,Chrysopa ventralis Curtis,Curtis,Chrysopa,,ventralis,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5YPJD,2107174
+B154:1:54,Chrysopa septempunctata Wesmael,Wesmael,Chrysopa,,septempunctata,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5YPJW,2106071
+B154:1:55,Chrysopa vittata Wesmael,Wesmael,Chrysopa,,vittata,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5YPM9,2104166
+B154:1:56,Chrysopa ciliata Wesmael,Wesmael,Chrysopa,,ciliata,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5Z3H6,2104224
+B154:1:57,Chrysopa flavifrons Brauer,Brauer,Chrysopa,,flavifrons,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5YQ85,2107072
+B154:1:58,Chrysopa albolineata Killington,Killington,Chrysopa,,albolineata,,species,,B154:1,accepted,,,B154:1:46,Chrysopa Leach,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Chrysopidae | Chrysopa,5YPNR,2104284
+B154:1:59,Nathanica Navas,Navas,,,,,genus,,B154:1,accepted,,,B154:1:45,Chrysopidae,,,,Neuroptera,Chrysopidae,,Nathanica,,Neuroptera | Chrysopidae,,2104200
+B154:1:60,Nathanica fulviceps (Stephens),(Stephens),Nathanica,,fulviceps,,species,,B154:1,accepted,,,B154:1:59,Nathanica Navas,,,,Neuroptera,Chrysopidae,,Nathanica,,Neuroptera | Chrysopidae | Nathanica,7462N,2103969
+B154:1:61,Nathanica capitata (Fabricius),(Fabricius),Nathanica,,capitata,,species,,B154:1,accepted,,,B154:1:59,Nathanica Navas,,,,Neuroptera,Chrysopidae,,Nathanica,,Neuroptera | Chrysopidae | Nathanica,73TQN,2103958
+B154:1:62,Hemerobiidae,,,,,,family,,B154:1,accepted,,,B154:1:23,Neuroptera,,,,Neuroptera,Hemerobiidae,,,,Neuroptera,624S6,3532
+B154:1:63,Drepanepteryx Leach,Leach,,,,,genus,,B154:1,accepted,,,B154:1:62,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Drepanepteryx,,Neuroptera | Hemerobiidae,487R,2102878
+B154:1:64,Drepanepteryx phalaenoides (Linneaus),(Linneaus),Drepanepteryx,,phalaenoides,,species,,B154:1,accepted,,,B154:1:63,Drepanepteryx Leach,,,,Neuroptera,Hemerobiidae,,Drepanepteryx,,Neuroptera | Hemerobiidae | Drepanepteryx,6DL4M,2102886
+B154:1:65,Megalomus Rambur,Rambur,,,,,genus,,B154:1,accepted,,,B154:1:62,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Megalomus,,Neuroptera | Hemerobiidae,5MT6,2101789
+B154:1:66,Megalomus hirtus (Linneaus),(Linneaus),Megalomus,,hirtus,,species,,B154:1,accepted,,,B154:1:65,Megalomus Rambur,,,,Neuroptera,Hemerobiidae,,Megalomus,,Neuroptera | Hemerobiidae | Megalomus,72W4N,2101799
+B154:1:67,Hemerobius Linneaus,Linneaus,,,,,genus,,B154:1,accepted,,,B154:1:62,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae,637GR,1730162
+B154:1:68,Hemerobius stigma Stephens,Stephens,Hemerobius,,stigma,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,3KKTH,2101986
+B154:1:69,Hemerobius atrifrons McLachlan,McLachlan,Hemerobius,,atrifrons,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,6LN5C,2101937
+B154:1:70,Hemerobius marginatus Stephens,Stephens,Hemerobius,,marginatus,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,3KKN2,2101979
+B154:1:71,Hemerobius lutescens Fabricius,Fabricius,Hemerobius,,lutescens,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,3KKMS,2102238
+B154:1:72,Hemerobius contumax Tjeder,Tjeder,Hemerobius,,contumax,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,3KKGS,2102097
+B154:1:73,Hemerobius pini Stephens,Stephens,Hemerobius,,pini,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,3KKRC,2102005
+B154:1:74,Hemerobius simulans Walker,Walker,Hemerobius,,simulans,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,3KKT3,2102037
+B154:1:75,Hemerobius humulinus Linneaus,Linneaus,Hemerobius,,humulinus,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,3KKL9,2102150
+B154:1:76,Hemerobius perelegans Stephens,Stephens,Hemerobius,,perelegans,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,3KKR2,2102024
+B154:1:77,Hemerobius nitidulus Fabricius,Fabricius,Hemerobius,,nitidulus,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,3KKPQ,2102180
+B154:1:78,Hemerobius micans Olivier,Olivier,Hemerobius,,micans,,species,,B154:1,accepted,,,B154:1:67,Hemerobius Linneaus,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Hemerobiidae | Hemerobius,6LNWK,2102064
+B154:1:79,Sympherobius Banks,Banks,,,,,genus,,B154:1,accepted,,,B154:1:62,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Sympherobius,,Neuroptera | Hemerobiidae,645SY,2101613
+B154:1:80,Sympherobius elegans (Stephens),(Stephens),Sympherobius,,elegans,,species,,B154:1,accepted,,,B154:1:79,Sympherobius Banks,,,,Neuroptera,Hemerobiidae,,Sympherobius,,Neuroptera | Hemerobiidae | Sympherobius,53PC9,2101719
+B154:1:81,Sympherobius pygmaeus (Rambur),(Rambur),Sympherobius,,pygmaeus,,species,,B154:1,accepted,,,B154:1:79,Sympherobius Banks,,,,Neuroptera,Hemerobiidae,,Sympherobius,,Neuroptera | Hemerobiidae | Sympherobius,53PDW,2101634
+B154:1:82,Sympherobius fuscescens (Wallengren),(Wallengren),Sympherobius,,fuscescens,,species,,B154:1,accepted,,,B154:1:79,Sympherobius Banks,,,,Neuroptera,Hemerobiidae,,Sympherobius,,Neuroptera | Hemerobiidae | Sympherobius,53PCD,2101684
+B154:1:83,Sympherobius pellucidus (Walker),(Walker),Sympherobius,,pellucidus,,species,,B154:1,accepted,,,B154:1:79,Sympherobius Banks,,,,Neuroptera,Hemerobiidae,,Sympherobius,,Neuroptera | Hemerobiidae | Sympherobius,53PDP,2101616
+B154:1:84,Wesmaelius Krueger,Krueger,,,,,genus,,B154:1,accepted,,,B154:1:62,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Wesmaelius,,Neuroptera | Hemerobiidae,87TN,2102267
+B154:1:85,Wesmaelius quadrifasciatus (Reuter),(Reuter),Wesmaelius,,quadrifasciatus,,species,,B154:1,accepted,,,B154:1:84,Wesmaelius Krueger,,,,Neuroptera,Hemerobiidae,,Wesmaelius,,Neuroptera | Hemerobiidae | Wesmaelius,5BXQ6,2102274
+B154:1:86,Wesmaelius concinnus (Stephens),(Stephens),Wesmaelius,,concinnus,,species,,B154:1,accepted,,,B154:1:84,Wesmaelius Krueger,,,,Neuroptera,Hemerobiidae,,Wesmaelius,,Neuroptera | Hemerobiidae | Wesmaelius,5BXNG,2102319
+B154:1:87,Kimminsia Killington,Killington,,,,,genus,,B154:1,accepted,,,B154:1:62,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Kimminsia,,Neuroptera | Hemerobiidae,,2101418
+B154:1:88,Kimminsia baltica (Tjeder),(Tjeder),Kimminsia,,baltica,,species,,B154:1,accepted,,,B154:1:87,Kimminsia Killington,,,,Neuroptera,Hemerobiidae,,Kimminsia,,Neuroptera | Hemerobiidae | Kimminsia,3R7R9,2102415
+B154:1:89,Kimminsia mortoni McLachlan,McLachlan,Kimminsia,,mortoni,,species,,B154:1,accepted,,,B154:1:87,Kimminsia Killington,,,,Neuroptera,Hemerobiidae,,Kimminsia,,Neuroptera | Hemerobiidae | Kimminsia,3R7S2,2102397
+B154:1:90,Kimminsia killingtoni Morton in Fraser,Morton in Fraser,Kimminsia,,killingtoni,,species,,B154:1,accepted,,,B154:1:87,Kimminsia Killington,,,,Neuroptera,Hemerobiidae,,Kimminsia,,Neuroptera | Hemerobiidae | Kimminsia,6NKM7,2102454
+B154:1:91,Kimminsia nervosa (Fabricius),(Fabricius),Kimminsia,,nervosa,,species,,B154:1,accepted,,,B154:1:87,Kimminsia Killington,,,,Neuroptera,Hemerobiidae,,Kimminsia,,Neuroptera | Hemerobiidae | Kimminsia,3R7S5,2102311
+B154:1:92,Kimminsia rava (Withycombe),(Withycombe),Kimminsia,,rava,,species,,B154:1,accepted,,,B154:1:87,Kimminsia Killington,,,,Neuroptera,Hemerobiidae,,Kimminsia,,Neuroptera | Hemerobiidae | Kimminsia,3R7SF,2102446
+B154:1:93,Kimminsia subnebulosa (Stephens),(Stephens),Kimminsia,,subnebulosa,,species,,B154:1,accepted,,,B154:1:87,Kimminsia Killington,,,,Neuroptera,Hemerobiidae,,Kimminsia,,Neuroptera | Hemerobiidae | Kimminsia,3R7SJ,2102434
+B154:1:94,Micromus Rambur,Rambur,,,,,genus,,B154:1,accepted,,,B154:1:62,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Micromus,,Neuroptera | Hemerobiidae,5S35,2097002
+B154:1:95,Micromus variegatus (Fabricius),(Fabricius),Micromus,,variegatus,,species,,B154:1,accepted,,,B154:1:94,Micromus Rambur,,,,Neuroptera,Hemerobiidae,,Micromus,,Neuroptera | Hemerobiidae | Micromus,42ZL8,2102584
+B154:1:96,Nesomicromus Perkins,Perkins,,,,,genus,,B154:1,accepted,,,B154:1:62,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Nesomicromus,,Neuroptera | Hemerobiidae,,2101423
+B154:1:97,Nesomicromus angulatus (Stephens),(Stephens),Nesomicromus,,angulatus,,species,,B154:1,accepted,,,B154:1:96,Nesomicromus Perkins,,,,Neuroptera,Hemerobiidae,,Nesomicromus,,Neuroptera | Hemerobiidae | Nesomicromus,47834,2102741
+B154:1:98,Nesomicromus paganus (Linneaus),(Linneaus),Nesomicromus,,paganus,,species,,B154:1,accepted,,,B154:1:96,Nesomicromus Perkins,,,,Neuroptera,Hemerobiidae,,Nesomicromus,,Neuroptera | Hemerobiidae | Nesomicromus,4783Q,2102551
+B154:1:99,Psectra Hagen,Hagen,,,,,genus,,B154:1,accepted,,,B154:1:62,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Psectra,,Neuroptera | Hemerobiidae,63PDG,2101493
+B154:1:100,Psectra diptera (Burmeister),(Burmeister),Psectra,,diptera,,species,,B154:1,accepted,,,B154:1:99,Psectra Hagen,,,,Neuroptera,Hemerobiidae,,Psectra,,Neuroptera | Hemerobiidae | Psectra,78B75,2101516

@@ -1,0 +1,32 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B187:4:1,Melandryidae,,,,,,family,,B187:4,accepted,,,,,,,,,Melandryidae,,,,,CJL,4741
+B187:4:2,Orchesia,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Orchesia,,Melandryidae,,2079599
+B187:4:3,Orchesia micans,,Orchesia,,micans,,species,,B187:4,accepted,,,B187:4:2,Orchesia,,,,,Melandryidae,,Orchesia,,Melandryidae | Orchesia,,4453580
+B187:4:4,Orchesia minor,,Orchesia,,minor,,species,,B187:4,accepted,,,B187:4:2,Orchesia,,,,,Melandryidae,,Orchesia,,Melandryidae | Orchesia,,4453600
+B187:4:5,Orchesia undulata,,Orchesia,,undulata,,species,,B187:4,accepted,,,B187:4:2,Orchesia,,,,,Melandryidae,,Orchesia,,Melandryidae | Orchesia,,4453594
+B187:4:6,Hallomenus,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Hallomenus,,Melandryidae,4STZ,1045114
+B187:4:7,Hallomenus binotatus,,Hallomenus,,binotatus,,species,,B187:4,accepted,,,B187:4:6,Hallomenus,,,,,Melandryidae,,Hallomenus,,Melandryidae | Hallomenus,,1045119
+B187:4:8,Hallomenus humeralis,,Hallomenus,,humeralis,,species,,B187:4,synonym,B187:4:7,Hallomenus binotatus,,,,,,,Melandryidae,,Hallomenus,,Melandryidae | Hallomenus,,4458286
+B187:4:9,Anisoxya,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Anisoxya,,Melandryidae,,3263187
+B187:4:10,Anisoxya fuscula,,Anisoxya,,fuscula,,species,,B187:4,accepted,,,B187:4:9,Anisoxya,,,,,Melandryidae,,Anisoxya,,Melandryidae | Anisoxya,,5749845
+B187:4:11,Melandrya,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Melandrya,,Melandryidae,,4405287
+B187:4:12,Melandrya barbata,,Melandrya,,barbata,,species,,B187:4,accepted,,,B187:4:11,Melandrya,,,,,Melandryidae,,Melandrya,,Melandryidae | Melandrya,,4453690
+B187:4:13,Melandrya caraboides,,Melandrya,,caraboides,,species,,B187:4,accepted,,,B187:4:11,Melandrya,,,,,Melandryidae,,Melandrya,,Melandryidae | Melandrya,,4453698
+B187:4:14,Zilora,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Zilora,,Melandryidae,,4404442
+B187:4:15,Zilora ferruginea,,Zilora,,ferruginea,,species,,B187:4,accepted,,,B187:4:14,Zilora,,,,,Melandryidae,,Zilora,,Melandryidae | Zilora,,4453562
+B187:4:16,Conopalpus,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Conopalpus,,Melandryidae,,8810163
+B187:4:17,Conopalpus testaceus,,Conopalpus,,testaceus,,species,,B187:4,accepted,,,B187:4:16,Conopalpus,,,,,Melandryidae,,Conopalpus,,Melandryidae | Conopalpus,,4453611
+B187:4:18,Osphya,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Osphya,,Melandryidae,,4407680
+B187:4:19,Osphya bipunctata,,Osphya,,bipunctata,,species,,B187:4,accepted,,,B187:4:18,Osphya,,,,,Melandryidae,,Osphya,,Melandryidae | Osphya,,4453653
+B187:4:20,Hypulus,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Hypulus,,Melandryidae,,3261703
+B187:4:21,Hypulus quercinus,,Hypulus,,quercinus,,species,,B187:4,accepted,,,B187:4:20,Hypulus,,,,,Melandryidae,,Hypulus,,Melandryidae | Hypulus,,5749867
+B187:4:22,Phloiotrya,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Phloiotrya,,Melandryidae,,4453531
+B187:4:23,Phloiotrya rufipes,,Phloiotrya,,rufipes,,species,,B187:4,accepted,,,B187:4:22,Phloiotrya,,,,,Melandryidae,,Phloiotrya,,Melandryidae | Phloiotrya,,4453532
+B187:4:24,Xylita,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Xylita,,Melandryidae,,4404946
+B187:4:25,Xylita laevigata,,Xylita,,laevigata,,species,,B187:4,accepted,,,B187:4:24,Xylita,,,,,Melandryidae,,Xylita,,Melandryidae | Xylita,,4453676
+B187:4:26,Abdera,,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Abdera,,Melandryidae,,4406398
+B187:4:27,Abdera biflexuosa,,Abdera,,biflexuosa,,species,,B187:4,accepted,,,B187:4:26,Abdera,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,,7984899
+B187:4:28,Abdera quadrifasciata,,Abdera,,quadrifasciata,,species,,B187:4,accepted,,,B187:4:26,Abdera,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,,4453544
+B187:4:29,Abdera flexuosa,,Abdera,,flexuosa,,species,,B187:4,accepted,,,B187:4:26,Abdera,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,,4453551
+B187:4:30,Abdera affinis,,Abdera,,affinis,,species,,B187:4,accepted,,,B187:4:26,Abdera,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,,4453554
+B187:4:31,Abdera triguttata,,Abdera,,triguttata,,species,,B187:4,accepted,,,B187:4:26,Abdera,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,,6097803

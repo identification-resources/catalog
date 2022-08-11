@@ -1,0 +1,7 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B855:7:1,Ochthephilum,,,,,,genus,,B855:7,accepted,,,,,,,,,,,Ochthephilum,,,66JF,4404466
+B855:7:2,Cryptobium,,,,,,genus,,B855:7,synonym,B855:7:1,Ochthephilum,,,,,,,,,Cryptobium,,,,8565255
+B855:7:3,Ochthephilum fracticorne,,Ochthephilum,,fracticorne,,species,,B855:7,accepted,,,B855:7:1,Ochthephilum,,,,,,,Ochthephilum,,Ochthephilum,48FT8,4439295
+B855:7:4,Paederus fracticornis,,Paederus,,fracticornis,,species,,B855:7,synonym,B855:7:3,Ochthephilum fracticorne,,,,,,,,,Ochthephilum,,Ochthephilum,4BXH8,10626031
+B855:7:5,Ochthephilum collare,,Ochthephilum,,collare,,species,,B855:7,accepted,,,B855:7:1,Ochthephilum,,,,,,,Ochthephilum,,Ochthephilum,6SG74,4439302
+B855:7:6,Cryptobium fracticorne,,Cryptobium,,fracticorne,,species,,B855:7,synonym,B855:7:5,Ochthephilum collare,,,,,,,,,Ochthephilum,,Ochthephilum,,6097520

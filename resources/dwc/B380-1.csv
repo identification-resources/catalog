@@ -1,0 +1,4 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B380:1:1,Aculeata,,,,,,suborder,,B380:1,accepted,,,,,,,,,,,,,,NTV,
+B380:1:2,Apoidea,,,,,,superfamily,,B380:1,accepted,,,B380:1:1,Aculeata,,,,,,,,,Aculeata,,
+B380:1:3,Anthophila,,,,,,superfamily,,B380:1,accepted,,,B380:1:2,Apoidea,,,,,,,,,Aculeata | Apoidea,,

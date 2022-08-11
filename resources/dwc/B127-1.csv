@@ -1,0 +1,41 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B127:1:1,Opiliones,,,,,,order,,B127:1,accepted,,,,,,,,Opiliones,,,,,,3Q2,907
+B127:1:2,Trogulus,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Trogulus,,Opiliones,7Q5DS,9165279
+B127:1:3,"Trogulus tricarinatus (L., 1758)","(L., 1758)",Trogulus,,tricarinatus,,species,,B127:1,accepted,,,B127:1:2,Trogulus,,,,Opiliones,,,Trogulus,,Opiliones | Trogulus,7Z6JV,6906639
+B127:1:4,Mitostoma,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Mitostoma,,Opiliones,7PPBH,4408141
+B127:1:5,"Mitostoma chrysomelas (Hermann, 1804)","(Hermann, 1804)",Mitostoma,,chrysomelas,,species,,B127:1,accepted,,,B127:1:4,Mitostoma,,,,Opiliones,,,Mitostoma,,Opiliones | Mitostoma,7XC5K,4553296
+B127:1:6,"Nemastoma Koch, 1836","Koch, 1836",,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Nemastoma,,Opiliones,7PLQD,3253411
+B127:1:7,"Nemastoma bimaculatum (Fabricius, 1775)","(Fabricius, 1775)",Nemastoma,,bimaculatum,,species,,B127:1,accepted,,,B127:1:6,"Nemastoma Koch, 1836",,,,Opiliones,,,Nemastoma,,Opiliones | Nemastoma,7XFNH,8254648
+B127:1:8,"Nemastoma lugubre (Müller, 1776)","(Müller, 1776)",Nemastoma,,lugubre,,species,,B127:1,accepted,,,B127:1:6,"Nemastoma Koch, 1836",,,,Opiliones,,,Nemastoma,,Opiliones | Nemastoma,7XFP4,6907910
+B127:1:9,Lophopilio,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Lophopilio,,Opiliones,7PN2V,4407101
+B127:1:10,"Lophopilio palpinalis (Herbst, 1799)","(Herbst, 1799)",Lophopilio,,palpinalis,,species,,B127:1,accepted,,,B127:1:9,Lophopilio,,,,Opiliones,,,Lophopilio,,Opiliones | Lophopilio,7X2DR,4553391
+B127:1:11,Lacinius,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Lacinius,,Opiliones,7PMBM,9131479
+B127:1:12,"Lacinius horridus (Panzer, 1794)","(Panzer, 1794)",Lacinius,,horridus,,species,,B127:1,accepted,,,B127:1:11,Lacinius,,,,Opiliones,,,Lacinius,,Opiliones | Lacinius,7WTSY,4553408
+B127:1:13,"Lacinius ephippiatus (C.L.Koch, 1835)","(C.L.Koch, 1835)",Lacinius,,ephippiatus,,species,,B127:1,accepted,,,B127:1:11,Lacinius,,,,Opiliones,,,Lacinius,,Opiliones | Lacinius,7WTSW,4553401
+B127:1:14,Paroligolophus,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Paroligolophus,,Opiliones,6J2R,4405064
+B127:1:15,"Paroligolophus meadii (Pickard-Cambridge, 1890)","(Pickard-Cambridge, 1890)",Paroligolophus,,meadii,,species,,B127:1,accepted,,,B127:1:14,Paroligolophus,,,,Opiliones,,,Paroligolophus,,Opiliones | Paroligolophus,7XYP2,4553334
+B127:1:16,"Paroligolophus agrestis (Meade, 1855)","(Meade, 1855)",Paroligolophus,,agrestis,,species,,B127:1,accepted,,,B127:1:14,Paroligolophus,,,,Opiliones,,,Paroligolophus,,Opiliones | Paroligolophus,7W9NS,4553336
+B127:1:17,Oligolophus,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Oligolophus,,Opiliones,63FVQ,8233854
+B127:1:18,"Oligolophus hansenii (Kraepelin, 1896)","(Kraepelin, 1896)",Oligolophus,,hansenii,,species,,B127:1,accepted,,,B127:1:17,Oligolophus,,,,Opiliones,,,Oligolophus,,Opiliones | Oligolophus,7XKWY,6906165
+B127:1:19,"Oligolophus tridens (C.L.Koch, 1836)","(C.L.Koch, 1836)",Oligolophus,,tridens,,species,,B127:1,accepted,,,B127:1:17,Oligolophus,,,,Opiliones,,,Oligolophus,,Opiliones | Oligolophus,7W55V,4553538
+B127:1:20,Megabunus,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Megabunus,,Opiliones,7PNN4,4405612
+B127:1:21,"Megabunus diadema (Fabricius,","(Fabricius,",Megabunus,,diadema,,species,1779) ,B127:1,accepted,,,B127:1:20,Megabunus,,,,Opiliones,,,Megabunus,,Opiliones | Megabunus,7X7CP,4553535
+B127:1:22,Platybunus,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Platybunus,,Opiliones,7PTSB,4407342
+B127:1:23,"Platybunus bucephalus (C.L.Koch,","(C.L.Koch,",Platybunus,,bucephalus,,species,1835) ,B127:1,accepted,,,B127:1:22,Platybunus,,,,Opiliones,,,Platybunus,,Opiliones | Platybunus,7Y9GQ,4553510
+B127:1:24,Rilaena,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Rilaena,,Opiliones,7PXQS,9156468
+B127:1:25,"Rilaena triangularis (Herbst, 1799)","(Herbst, 1799)",Rilaena,,triangularis,,species,,B127:1,accepted,,,B127:1:24,Rilaena,,,,Opiliones,,,Rilaena,,Opiliones | Rilaena,7WR4B,4553363
+B127:1:26,"Phalangium Linnaeus, 1758","Linnaeus, 1758",,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Phalangium,,Opiliones,6MNX,3251584
+B127:1:27,"Phalangium opilio L., 1758","L., 1758",Phalangium,,opilio,,species,,B127:1,accepted,,,B127:1:26,"Phalangium Linnaeus, 1758",,,,Opiliones,,,Phalangium,,Opiliones | Phalangium,7WCJP,5776654
+B127:1:28,Mitopus,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Mitopus,,Opiliones,5TTN,4408145
+B127:1:29,"Mitopus morio (Fabricius,","(Fabricius,",Mitopus,,morio,,species,1779) ,B127:1,accepted,,,B127:1:28,Mitopus,,,,Opiliones,,,Mitopus,,Opiliones | Mitopus,7VVSH,4553358
+B127:1:30,Opilio,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Opilio,,Opiliones,693W,8680897
+B127:1:31,"Opilio saxatilis C.L.Koch, 1839","C.L.Koch, 1839",Opilio,,saxatilis,,species,,B127:1,accepted,,,B127:1:30,Opilio,,,,Opiliones,,,Opilio,,Opiliones | Opilio,7XQMJ,4553504
+B127:1:32,"Opilio parietinus (De Geer, 1778)","(De Geer, 1778)",Opilio,,parietinus,,species,,B127:1,accepted,,,B127:1:30,Opilio,,,,Opiliones,,,Opilio,,Opiliones | Opilio,7W5SG,4553501
+B127:1:33,"Opilio canestrinii (Thorell, 1876)","(Thorell, 1876)",Opilio,,canestrinii,,species,,B127:1,accepted,,,B127:1:30,Opilio,,,,Opiliones,,,Opilio,,Opiliones | Opilio,7XQKV,4553496
+B127:1:34,Nelima,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Nelima,,Opiliones,5YCR,2182031
+B127:1:35,"Nelima gothica Lohmander, 1945","Lohmander, 1945",Nelima,,gothica,,species,,B127:1,accepted,,,B127:1:34,Nelima,,,,Opiliones,,,Nelima,,Opiliones | Nelima,7XFKQ,4553348
+B127:1:36,Leiobunum,,,,,,genus,,B127:1,accepted,,,B127:1:1,Opiliones,,,,Opiliones,,,Leiobunum,,Opiliones,5BVR,4553469
+B127:1:37,"Leiobunum rupestre (Herbst, 1799)","(Herbst, 1799)",Leiobunum,,rupestre,,species,,B127:1,accepted,,,B127:1:36,Leiobunum,,,,Opiliones,,,Leiobunum,,Opiliones | Leiobunum,7WWFM,4553485
+B127:1:38,"Leiobunum limbatum L.Koch, 1861","L.Koch, 1861",Leiobunum,,limbatum,,species,,B127:1,accepted,,,B127:1:36,Leiobunum,,,,Opiliones,,,Leiobunum,,Opiliones | Leiobunum,7WWDQ,4553478
+B127:1:39,"Leiobunum blackwalli Meade, 1861","Meade, 1861",Leiobunum,,blackwalli,,species,,B127:1,accepted,,,B127:1:36,Leiobunum,,,,Opiliones,,,Leiobunum,,Opiliones | Leiobunum,7WWC9,4553482
+B127:1:40,"Leiobunum rotundum (Latreille, 1798)","(Latreille, 1798)",Leiobunum,,rotundum,,species,,B127:1,accepted,,,B127:1:36,Leiobunum,,,,Opiliones,,,Leiobunum,,Opiliones | Leiobunum,7WWFG,4553472

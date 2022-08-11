@@ -1,0 +1,343 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B224:2:1,Belytinae,,,,,,subfamily,,B224:2,accepted,,,,,,,,,,Belytinae,,,,,
+B224:2:2,Acanosema,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Acanosema,,Belytinae,,9088733
+B224:2:3,Cardiopsilus,,,,,,genus,,B224:2,synonym,B224:2:2,Acanosema,,,,,,,,Belytinae,Cardiopsilus,,Belytinae,,9116737
+B224:2:4,Acanosema clavata,,Acanosema,,clavata,,species,,B224:2,accepted,,,B224:2:2,Acanosema,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,9844211
+B224:2:5,Acanopsilus clavatus,,Acanopsilus,,clavatus,,species,,B224:2,synonym,B224:2:4,Acanosema clavata,,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,11156135
+B224:2:6,Acanosema heterocera,,Acanosema,,heterocera,,species,,B224:2,accepted,,,B224:2:2,Acanosema,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,9088733
+B224:2:7,Belita heterocera,,Belita,,heterocera,,species,,B224:2,synonym,B224:2:6,Acanosema heterocera,,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,4503483
+B224:2:8,Acanosema brevipenne,,Acanosema,,brevipenne,,species,,B224:2,accepted,,,B224:2:2,Acanosema,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,9088733
+B224:2:9,Acanosema reitteri,,Acanosema,,reitteri,,species,,B224:2,accepted,,,B224:2:2,Acanosema,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,11126760
+B224:2:10,Acanosema nervosa,,Acanosema,,nervosa,,species,,B224:2,accepted,,,B224:2:2,Acanosema,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,4503227
+B224:2:11,Cinetus nervosus,,Cinetus,,nervosus,,species,,B224:2,synonym,B224:2:10,Acanosema nervosa,,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,4503228
+B224:2:12,Aclista microcera,,Aclista,,microcera,,species,,B224:2,synonym,B224:2:10,Acanosema nervosa,,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,4405710
+B224:2:13,Cardiopsilus rufiventris,,Cardiopsilus,,rufiventris,,species,,B224:2,synonym,B224:2:10,Acanosema nervosa,,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,9116737
+B224:2:14,Acanosema alpestre,,Acanosema,,alpestre,,species,,B224:2,accepted,,,B224:2:2,Acanosema,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,10359689
+B224:2:15,Acanosema flavipes,,Acanosema,,flavipes,,species,,B224:2,accepted,,,B224:2:2,Acanosema,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,11356108
+B224:2:16,Psilomma flavipes,,Psilomma,,flavipes,,species,,B224:2,synonym,B224:2:15,Acanosema flavipes,,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,8620239
+B224:2:17,Aclista,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Aclista,,Belytinae,,4405710
+B224:2:18,Xenotoma,,,,,,genus,,B224:2,synonym,B224:2:17,Aclista,,,,,,,,Belytinae,Xenotoma,,Belytinae,,4670204
+B224:2:19,Aclista insolita,,Aclista,,insolita,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502711
+B224:2:20,Aclista angusta,,Aclista,,angusta,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502801
+B224:2:21,Anectata angusta,,Anectata,,angusta,,species,,B224:2,synonym,B224:2:20,Aclista angusta,,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502802
+B224:2:78,Aclista neglecta,,Aclista,,neglecta,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502789
+B224:2:23,Aclista szelenyii,,Aclista,,szelenyii,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502810
+B224:2:24,Aclista bitensis,,Aclista,,bitensis,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502734
+B224:2:25,Anectata bitensis,,Anectata,,bitensis,,species,,B224:2,synonym,B224:2:24,Aclista bitensis,,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502735
+B224:2:26,Aclista soror,,Aclista,,soror,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502718
+B224:2:27,Anectata soror,,Anectata,,soror,,species,,B224:2,synonym,B224:2:26,Aclista soror,,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502719
+B224:2:28,Aclista marshalli,,Aclista,,marshalli,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502749
+B224:2:29,Aclista rufipes,,Aclista,,rufipes,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502757
+B224:2:30,Xenotoma rufipes,,Xenotoma,,rufipes,,species,,B224:2,synonym,B224:2:29,Aclista rufipes,,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,4502758
+B224:2:31,Aclista rufopetiolata,,Aclista,,rufopetiolata,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502744
+B224:2:32,Xenotoma pleuralis,,Xenotoma,,pleuralis,,species,,B224:2,synonym,B224:2:31,Aclista rufopetiolata,,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,4670204
+B224:2:33,Xenotoma versicolor,,Xenotoma,,versicolor,,species,,B224:2,synonym,B224:2:31,Aclista rufopetiolata,,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,4670204
+B224:2:34,Xenotoma castaneiventris,,Xenotoma,,castaneiventris,,species,,B224:2,synonym,B224:2:31,Aclista rufopetiolata,,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,4670204
+B224:2:35,Aclista cantianus,,Aclista,,cantianus,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502680
+B224:2:36,Cinetus cantianus,,Cinetus,,cantianus,,species,,B224:2,synonym,B224:2:35,Aclista cantianus,,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502681
+B224:2:37,Xenotoma nigrescens,,Xenotoma,,nigrescens,,species,,B224:2,synonym,B224:2:35,Aclista cantianus,,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,4670204
+B224:2:38,Aclista evadne,,Aclista,,evadne,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502833
+B224:2:39,Xenotoma microtoma,,Xenotoma,,microtoma,,species,,B224:2,synonym,B224:2:38,Aclista evadne,,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,,4670204
+B224:2:40,Aclista praeclara,,Aclista,,praeclara,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502837
+B224:2:41,Aclista striolata,,Aclista,,striolata,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,9805036
+B224:2:42,Xenotoma hamifera,,Xenotoma,,hamifera,,species,,B224:2,synonym,B224:2:41,Aclista striolata,,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,,4670204
+B224:2:43,Aclista elevata,,Aclista,,elevata,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502691
+B224:2:44,Aclista janssoni,,Aclista,,janssoni,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502700
+B224:2:45,Aclista subfuscicornis,,Aclista,,subfuscicornis,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,11134434
+B224:2:46,Aclista analis,,Aclista,,analis,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502814
+B224:2:47,Anectata analis,,Anectata,,analis,,species,,B224:2,synonym,B224:2:46,Aclista analis,,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502815
+B224:2:48,Aclista folia,,Aclista,,folia,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502728
+B224:2:49,Aclista flavicornis,,Aclista,,flavicornis,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502767
+B224:2:50,Aclista clito,,Aclista,,clito,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502812
+B224:2:51,Aclista pallida,,Aclista,,pallida,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502708
+B224:2:52,Aclista prudens,,Aclista,,prudens,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502813
+B224:2:53,Aclista boops,,Aclista,,boops,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502720
+B224:2:54,Aclista parvula,,Aclista,,parvula,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502697
+B224:2:55,Aclista haemorrhoidalis,,Aclista,,haemorrhoidalis,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502780
+B224:2:56,Aclista lineare,,Aclista,,lineare,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502817
+B224:2:57,Aclista acuta,,Aclista,,acuta,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502683
+B224:2:58,Xenotoma alticollis,,Xenotoma,,alticollis,,species,,B224:2,synonym,B224:2:57,Aclista acuta,,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,,4670204
+B224:2:59,Aclista arisba,,Aclista,,arisba,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502788
+B224:2:60,Aclista alticollis,,Aclista,,alticollis,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502838
+B224:2:75,Xenotoma fallax,,Xenotoma,,fallax,,species,,B224:2,synonym,B224:2:74,Aclista myles,,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,,4670204
+B224:2:62,Xenotoma nigra,,Xenotoma,,nigra,,species,,B224:2,synonym,B224:2:60,Aclista alticollis,,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,4670204
+B224:2:63,Xenotoma cilipes,,Xenotoma,,cilipes,,species,,B224:2,synonym,B224:2:60,Aclista alticollis,,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,4670204
+B224:2:64,Aclista oxytoma,,Aclista,,oxytoma,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502722
+B224:2:65,Aclista tristis,,Aclista,,tristis,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502742
+B224:2:66,Aclista dubia,,Aclista,,dubia,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502716
+B224:2:67,Aclista prolongata,,Aclista,,prolongata,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502825
+B224:2:68,Aclista fractinervis,,Aclista,,fractinervis,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502701
+B224:2:69,Aclista atriceps,,Aclista,,atriceps,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502759
+B224:2:70,Aclista mycale,,Aclista,,mycale,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502828
+B224:2:71,Aclista nigriceps,,Aclista,,nigriceps,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502761
+B224:2:72,Aclista filicornis,,Aclista,,filicornis,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,9942921
+B224:2:73,Xenotoma similis,,Xenotoma,,similis,,species,,B224:2,synonym,B224:2:72,Aclista filicornis,,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,4670204
+B224:2:74,Aclista myles,,Aclista,,myles,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502816
+B224:2:75,Xenotoma fallax,,Xenotoma,,fallax,,species,,B224:2,synonym,B224:2:74,Aclista myles,,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,,4670204
+B224:2:76,Aclista subaequalis,,Aclista,,subaequalis,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502822
+B224:2:77,Aclista scutellaris,,Aclista,,scutellaris,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502732
+B224:2:78,Aclista neglecta,,Aclista,,neglecta,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502789
+B224:2:79,Aclista lugens,,Aclista,,lugens,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502791
+B224:2:80,Aclista fusciventris,,Aclista,,fusciventris,,species,,B224:2,accepted,,,B224:2:17,Aclista,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502818
+B224:2:81,Acropiesta,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Acropiesta,,Belytinae,,4405434
+B224:2:82,Acropiesta sciarivora,,Acropiesta,,sciarivora,,species,,B224:2,accepted,,,B224:2:81,Acropiesta,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4502953
+B224:2:83,Acropiesta flaviventris,,Acropiesta,,flaviventris,,species,,B224:2,accepted,,,B224:2:81,Acropiesta,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4502944
+B224:2:84,Xenotoma gracilicornis,,Xenotoma,,gracilicornis,,species,,B224:2,synonym,B224:2:83,Acropiesta flaviventris,,,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4670204
+B224:2:85,Pantopiesta flaviventris,,Pantopiesta,,flaviventris,,species,,B224:2,synonym,B224:2:83,Acropiesta flaviventris,,,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4670463
+B224:2:86,Acropiesta flavipes,,Acropiesta,,flavipes,,species,,B224:2,accepted,,,B224:2:81,Acropiesta,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,8651567
+B224:2:87,Acropiesta aptera,,Acropiesta,,aptera,,species,,B224:2,accepted,,,B224:2:81,Acropiesta,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4405434
+B224:2:88,Acropiesta xanthura,,Acropiesta,,xanthura,,species,,B224:2,accepted,,,B224:2:81,Acropiesta,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4502949
+B224:2:89,Acropiesta rufiventris,,Acropiesta,,rufiventris,,species,,B224:2,accepted,,,B224:2:81,Acropiesta,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4502948
+B224:2:90,Acropiesta sterope,,Acropiesta,,sterope,,species,,B224:2,accepted,,,B224:2:81,Acropiesta,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,10430644
+B224:2:91,Acropiesta lysicies,,Acropiesta,,lysicies,,species,,B224:2,accepted,,,B224:2:81,Acropiesta,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,10727373
+B224:2:92,Anommatium,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Anommatium,,Belytinae,,4407410
+B224:2:93,Anommatium ashmeadi,,Anommatium,,ashmeadi,,species,,B224:2,accepted,,,B224:2:92,Anommatium,,,,,,Belytinae,Anommatium,,Belytinae | Anommatium,,4503255
+B224:2:94,Aprestes,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Aprestes,,Belytinae,,4406407
+B224:2:95,Aprestes aberrans,,Aprestes,,aberrans,,species,,B224:2,accepted,,,B224:2:94,Aprestes,,,,,,Belytinae,Aprestes,,Belytinae | Aprestes,,8447746
+B224:2:96,Atelopsilus,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Atelopsilus,,Belytinae,,4677637
+B224:2:97,Atelopsilus ciliatum,,Atelopsilus,,ciliatum,,species,,B224:2,accepted,,,B224:2:96,Atelopsilus,,,,,,Belytinae,Atelopsilus,,Belytinae | Atelopsilus,,9921020
+B224:2:98,Opazon ciliatum,,Opazon,,ciliatum,,species,,B224:2,synonym,B224:2:97,Atelopsilus ciliatum,,,,,,,,Belytinae,Atelopsilus,,Belytinae | Atelopsilus,,4503300
+B224:2:99,Atelopsilus borealis,,Atelopsilus,,borealis,,species,,B224:2,accepted,,,B224:2:96,Atelopsilus,,,,,,Belytinae,Atelopsilus,,Belytinae | Atelopsilus,,4503850
+B224:2:100,Belyta,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Belyta,,Belytinae,,9091893
+B224:2:101,Belyta fuscipennis,,Belyta,,fuscipennis,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503259
+B224:2:102,Belyta seron,,Belyta,,seron,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503357
+B224:2:103,Belyta abrupta,,Belyta,,abrupta,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503366
+B224:2:104,Belyta depressa,,Belyta,,depressa,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503358
+B224:2:105,Belyta depressa subsp. cursitans,,Belyta,,depressa,cursitans,subspecies,,B224:2,synonym,B224:2:104,Belyta depressa,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10548718
+B224:2:106,Belyta furcata,,Belyta,,furcata,,species,,B224:2,synonym,B224:2:104,Belyta depressa,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11297279
+B224:2:107,Belyta arietina,,Belyta,,arietina,,species,,B224:2,synonym,B224:2:104,Belyta depressa,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11281140
+B224:2:108,Belyta costalis subsp. costalis,,Belyta,,costalis,costalis,subspecies,,B224:2,synonym,B224:2:104,Belyta depressa,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10135121
+B224:2:109,Belyta costalis subsp. obliterata,,Belyta,,costalis,obliterata,subspecies,,B224:2,synonym,B224:2:104,Belyta depressa,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11271011
+B224:2:110,Belyta modesta,,Belyta,,modesta,,species,,B224:2,synonym,B224:2:104,Belyta depressa,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11324415
+B224:2:111,Belyta lativentris,,Belyta,,lativentris,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11137282
+B224:2:112,Belyta moniliata,,Belyta,,moniliata,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503402
+B224:2:113,Belyta pelias,,Belyta,,pelias,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503371
+B224:2:114,Belyta carinifrons,,Belyta,,carinifrons,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503372
+B224:2:115,Paraclista carinifrons,,Paraclista,,carinifrons,,species,,B224:2,synonym,B224:2:114,Belyta carinifrons,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503373
+B224:2:116,Belyta pedestris,,Belyta,,pedestris,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503387
+B224:2:117,Paraclista pedestris,,Paraclista,,pedestris,,species,,B224:2,synonym,B224:2:116,Belyta pedestris,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4672020
+B224:2:118,Belyta tenuicornis,,Belyta,,tenuicornis,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11214130
+B224:2:119,Belyta gaullei,,Belyta,,gaullei,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10624808
+B224:2:120,Belyta quadridens,,Belyta,,quadridens,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,8624013
+B224:2:121,Belyta longistilus,,Belyta,,longistilus,,species,,B224:2,synonym,B224:2:120,Belyta quadridens,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10286101
+B224:2:122,Pantoclis atristilus,,Pantoclis,,atristilus,,species,,B224:2,synonym,B224:2:120,Belyta quadridens,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4406533
+B224:2:123,Belyta forticornis,,Belyta,,forticornis,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,8656240
+B224:2:124,Belyta crassinervis,,Belyta,,crassinervis,,species,,B224:2,synonym,B224:2:123,Belyta forticornis,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10397149
+B224:2:125,Belyta crassinervis subsp. scotica,,Belyta,,crassinervis,scotica,subspecies,,B224:2,synonym,B224:2:123,Belyta forticornis,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11314016
+B224:2:126,Belyta marginalis,,Belyta,,marginalis,,species,,B224:2,synonym,B224:2:123,Belyta forticornis,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11280996
+B224:2:127,Belyta mullensis,,Belyta,,mullensis,,species,,B224:2,synonym,B224:2:123,Belyta forticornis,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11271133
+B224:2:128,Belyta peraffinis,,Belyta,,peraffinis,,species,,B224:2,synonym,B224:2:123,Belyta forticornis,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11324266
+B224:2:129,Pantoclis arcuata,,Pantoclis,,arcuata,,species,,B224:2,synonym,B224:2:123,Belyta forticornis,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10588989
+B224:2:130,Pantoclis arcuata subsp. festiva,,Pantoclis,,arcuata,festiva,subspecies,,B224:2,synonym,B224:2:123,Belyta forticornis,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10095019
+B224:2:131,Pantoclis levistylus,,Pantoclis,,levistylus,,species,,B224:2,synonym,B224:2:123,Belyta forticornis,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10437449
+B224:2:132,Xenotoma scotica,,Xenotoma,,scotica,,species,,B224:2,synonym,B224:2:123,Belyta forticornis,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4670204
+B224:2:133,Belyta rugosicollis,,Belyta,,rugosicollis,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503389
+B224:2:134,Belyta elegans,,Belyta,,elegans,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503395
+B224:2:135,Belyta acuta,,Belyta,,acuta,,species,,B224:2,synonym,B224:2:134,Belyta elegans,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503383
+B224:2:136,Belyta norvegica,,Belyta,,norvegica,,species,,B224:2,synonym,B224:2:134,Belyta elegans,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11369071
+B224:2:137,Belyta validicornis,,Belyta,,validicornis,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503377
+B224:2:138,Belyta lubrica,,Belyta,,lubrica,,species,,B224:2,accepted,,,B224:2:100,Belyta,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503367
+B224:2:139,Cinelaptus,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Cinelaptus,,Belytinae,,4670825
+B224:2:140,Cinelaptus fragilis,,Cinelaptus,,fragilis,,species,,B224:2,accepted,,,B224:2:139,Cinelaptus,,,,,,Belytinae,Cinelaptus,,Belytinae | Cinelaptus,,4503555
+B224:2:141,Cinetus,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Cinetus,,Belytinae,,9172475
+B224:2:142,Cinetus lanceolatus,,Cinetus,,lanceolatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503196
+B224:2:143,Cinetus ilione,,Cinetus,,ilione,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503214
+B224:2:144,Cinetus sequester,,Cinetus,,sequester,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,8150711
+B224:2:145,Cinetus mermerus,,Cinetus,,mermerus,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503208
+B224:2:146,Cinetus elatior,,Cinetus,,elatior,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503190
+B224:2:147,Cinetus procris,,Cinetus,,procris,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503223
+B224:2:148,Cinetus telon,,Cinetus,,telon,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503172
+B224:2:149,Cinetus fuliginosus,,Cinetus,,fuliginosus,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503211
+B224:2:150,Cinetus tenuicornis,,Cinetus,,tenuicornis,,species,,B224:2,synonym,B224:2:149,Cinetus fuliginosus,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,10510630
+B224:2:151,Cinetus simulans,,Cinetus,,simulans,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503181
+B224:2:152,Cinetus ariantes,,Cinetus,,ariantes,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503213
+B224:2:153,Cinetus iridipennis,,Cinetus,,iridipennis,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503205
+B224:2:154,Cinetus gracilis,,Cinetus,,gracilis,,species,,B224:2,synonym,B224:2:153,Cinetus iridipennis,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,11223463
+B224:2:155,Cinetus gracilipes,,Cinetus,,gracilipes,,species,,B224:2,synonym,B224:2:153,Cinetus iridipennis,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,11334767
+B224:2:156,Cinetus filicornis,,Cinetus,,filicornis,,species,,B224:2,synonym,B224:2:153,Cinetus iridipennis,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,10417597
+B224:2:157,Cinetus cameroni,,Cinetus,,cameroni,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503178
+B224:2:158,Cinetus iridipennis subsp. prolongata,,Cinetus,,iridipennis,prolongata,subspecies,,B224:2,synonym,B224:2:157,Cinetus cameroni,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,11264990
+B224:2:159,Cinetus atriceps,,Cinetus,,atriceps,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503204
+B224:2:160,Cinetus iridipennis subsp. atriceps,,Cinetus,,iridipennis,atriceps,subspecies,,B224:2,synonym,B224:2:159,Cinetus atriceps,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503204
+B224:2:161,Cinetus angustatus,,Cinetus,,angustatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503175
+B224:2:162,Cinetus ennius,,Cinetus,,ennius,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503182
+B224:2:163,Cinetus decipiens,,Cinetus,,decipiens,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503207
+B224:2:164,Cinetus lysis,,Cinetus,,lysis,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503171
+B224:2:165,Cinetus gaus,,Cinetus,,gaus,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503176
+B224:2:166,Cinetus proclea,,Cinetus,,proclea,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503177
+B224:2:167,Cinetus princeps,,Cinetus,,princeps,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503194
+B224:2:168,Cinetus piceus,,Cinetus,,piceus,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503220
+B224:2:169,Cinetus strandi,,Cinetus,,strandi,,species,,B224:2,synonym,B224:2:168,Cinetus piceus,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,11330949
+B224:2:170,Scorpioteleia rufa,,Scorpioteleia,,rufa,,species,,B224:2,synonym,B224:2:168,Cinetus piceus,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,9856053
+B224:2:171,Cinetus breipetiolatus,,Cinetus,,breipetiolatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503187
+B224:2:172,Cinetus lusitanica,,Cinetus,,lusitanica,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503179
+B224:2:173,Scorpioteleia lusitanica,,Scorpioteleia,,lusitanica,,species,,B224:2,synonym,B224:2:172,Cinetus lusitanica,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4404634
+B224:2:174,Cinetus aletes,,Cinetus,,aletes,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503192
+B224:2:175,Cinetus alce,,Cinetus,,alce,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503201
+B224:2:176,Cinetus fuscipes,,Cinetus,,fuscipes,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503185
+B224:2:177,Cinetus licus,,Cinetus,,licus,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503188
+B224:2:178,Cinetus excavatus,,Cinetus,,excavatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503173
+B224:2:179,Cinetus tristis,,Cinetus,,tristis,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503218
+B224:2:180,Cinetus dentatus,,Cinetus,,dentatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,8600419
+B224:2:181,Cinetus piciventris,,Cinetus,,piciventris,,species,,B224:2,accepted,,,B224:2:141,Cinetus,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503212
+B224:2:182,Diphora,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Diphora,,Belytinae,,4407449
+B224:2:183,Diphora westwoodi,,Diphora,,westwoodi,,species,,B224:2,accepted,,,B224:2:182,Diphora,,,,,,Belytinae,Diphora,,Belytinae | Diphora,,4503025
+B224:2:184,Diphora monticola,,Diphora,,monticola,,species,,B224:2,synonym,B224:2:183,Diphora westwoodi,,,,,,,,Belytinae,Diphora,,Belytinae | Diphora,,10432238
+B224:2:185,Diphora nigriceps,,Diphora,,nigriceps,,species,,B224:2,synonym,B224:2:183,Diphora westwoodi,,,,,,,,Belytinae,Diphora,,Belytinae | Diphora,,11303465
+B224:2:186,Diphora rufiventris,,Diphora,,rufiventris,,species,,B224:2,synonym,B224:2:183,Diphora westwoodi,,,,,,,,Belytinae,Diphora,,Belytinae | Diphora,,11249137
+B224:2:187,Ismarus,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Ismarus,,Belytinae,,3258922
+B224:2:188,Ismarus dorsiger,,Ismarus,,dorsiger,,species,,B224:2,accepted,,,B224:2:187,Ismarus,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,,7571451
+B224:2:189,Ismarus rugulosus,,Ismarus,,rugulosus,,species,,B224:2,accepted,,,B224:2:187,Ismarus,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,,7428347
+B224:2:190,Ismarus flavicornis,,Ismarus,,flavicornis,,species,,B224:2,accepted,,,B224:2:187,Ismarus,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,,8203896
+B224:2:191,Ismarus halidayi,,Ismarus,,halidayi,,species,,B224:2,accepted,,,B224:2:187,Ismarus,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,,10497215
+B224:2:192,Leptorhaptus,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Leptorhaptus,,Belytinae,,4670100
+B224:2:193,Leptorhaptus costalis,,Leptorhaptus,,costalis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4670100
+B224:2:194,Leptorhaptus macrocerus,,Leptorhaptus,,macrocerus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4670100
+B224:2:195,Leptorhaptus transiens,,Leptorhaptus,,transiens,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502869
+B224:2:196,Leptorhaptus docilis,,Leptorhaptus,,docilis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502884
+B224:2:197,Leptorhaptus compressus,,Leptorhaptus,,compressus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4670100
+B224:2:198,Leptorhaptus petiolaris,,Leptorhaptus,,petiolaris,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4670100
+B224:2:199,Leptorhaptus fungorum,,Leptorhaptus,,fungorum,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502876
+B224:2:200,Leptorhaptus perplexus,,Leptorhaptus,,perplexus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502932
+B224:2:201,Leptorhaptus tenuicornis,,Leptorhaptus,,tenuicornis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502896
+B224:2:202,Leptorhaptus abbreviatus,,Leptorhaptus,,abbreviatus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502914
+B224:2:203,Leptorhaptus analis,,Leptorhaptus,,analis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502888
+B224:2:204,Leptorhaptus flavidicornis,,Leptorhaptus,,flavidicornis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502890
+B224:2:205,Leptorhaptus monilicornis,,Leptorhaptus,,monilicornis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502886
+B224:2:206,Leptorhaptus myrmecophilus,,Leptorhaptus,,myrmecophilus,,species,,B224:2,synonym,B224:2:205,Leptorhaptus monilicornis,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4670100
+B224:2:207,Leptorhaptus brevicornis,,Leptorhaptus,,brevicornis,,species,,B224:2,synonym,B224:2:205,Leptorhaptus monilicornis,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,10274121
+B224:2:208,Leptorhaptus atriceps,,Leptorhaptus,,atriceps,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502862
+B224:2:209,Leptorhaptus politus,,Leptorhaptus,,politus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4670100
+B224:2:210,Leptorhaptus heterocerus,,Leptorhaptus,,heterocerus,,species,,B224:2,synonym,B224:2:209,Leptorhaptus politus,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4670100
+B224:2:211,Leptorhaptus scutellaris,,Leptorhaptus,,scutellaris,,species,,B224:2,synonym,B224:2:209,Leptorhaptus politus,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4670100
+B224:2:212,Leptorhaptus fulviventris,,Leptorhaptus,,fulviventris,,species,,B224:2,synonym,B224:2:209,Leptorhaptus politus,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4670100
+B224:2:213,Leptorhaptus niger,,Leptorhaptus,,niger,,species,,B224:2,synonym,B224:2:209,Leptorhaptus politus,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4670100
+B224:2:214,Leptorhaptus vacillans,,Leptorhaptus,,vacillans,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502856
+B224:2:215,Leptorhaptus incisus,,Leptorhaptus,,incisus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502894
+B224:2:216,Leptorhaptus egregius,,Leptorhaptus,,egregius,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502858
+B224:2:217,Miota,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Miota,,Belytinae,,4408235
+B224:2:218,Miota longiventris,,Miota,,longiventris,,species,,B224:2,accepted,,,B224:2:217,Miota,,,,,,Belytinae,Miota,,Belytinae | Miota,,4503296
+B224:2:219,Miota compressa,,Miota,,compressa,,species,,B224:2,accepted,,,B224:2:217,Miota,,,,,,Belytinae,Miota,,Belytinae | Miota,,4502879
+B224:2:220,Miota cebes,,Miota,,cebes,,species,,B224:2,accepted,,,B224:2:217,Miota,,,,,,Belytinae,Miota,,Belytinae | Miota,,4503233
+B224:2:221,Miota longipetiolata,,Miota,,longipetiolata,,species,,B224:2,accepted,,,B224:2:217,Miota,,,,,,Belytinae,Miota,,Belytinae | Miota,,4408235
+B224:2:222,Opazon,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Opazon,,Belytinae,,4503300
+B224:2:223,Promeuselia,,,,,,genus,,B224:2,synonym,B224:2:222,Opazon,,,,,,,,Belytinae,Promeuselia,,Belytinae,,4679084
+B224:2:224,Opazon parvulus,,Opazon,,parvulus,,species,,B224:2,accepted,,,B224:2:222,Opazon,,,,,,Belytinae,Opazon,,Belytinae | Opazon,,4503303
+B224:2:225,Opazon incrassatum,,Opazon,,incrassatum,,species,,B224:2,synonym,B224:2:224,Opazon parvulus,,,,,,,,Belytinae,Opazon,,Belytinae | Opazon,,4503306
+B224:2:226,Opazon princeps,,Opazon,,princeps,,species,,B224:2,accepted,,,B224:2:222,Opazon,,,,,,Belytinae,Opazon,,Belytinae | Opazon,,8507501
+B224:2:227,Opazon clausa,,Opazon,,clausa,,species,,B224:2,accepted,,,B224:2:222,Opazon,,,,,,Belytinae,Opazon,,Belytinae | Opazon,,4503300
+B224:2:228,Promeuselia clausa,,Promeuselia,,clausa,,species,,B224:2,synonym,B224:2:227,Opazon clausa,,,,,,,,Belytinae,Opazon,,Belytinae | Opazon,,4679084
+B224:2:229,Oxylabis,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Oxylabis,,Belytinae,,9133928
+B224:2:230,Oxylabis tuberculata,,Oxylabis,,tuberculata,,species,,B224:2,accepted,,,B224:2:229,Oxylabis,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,,4503240
+B224:2:231,Oxylabis cameroni,,Oxylabis,,cameroni,,species,,B224:2,accepted,,,B224:2:229,Oxylabis,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,,8612442
+B224:2:232,Oxylabis maculata,,Oxylabis,,maculata,,species,,B224:2,accepted,,,B224:2:229,Oxylabis,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,,10432984
+B224:2:233,Oxylabis punctulata,,Oxylabis,,punctulata,,species,,B224:2,synonym,B224:2:232,Oxylabis maculata,,,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,,11338846
+B224:2:234,Oxylabis thomsoni,,Oxylabis,,thomsoni,,species,,B224:2,accepted,,,B224:2:229,Oxylabis,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,,4502934
+B224:2:235,Pamis,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Pamis,,Belytinae,,8860610
+B224:2:236,Pamis ione,,Pamis,,ione,,species,,B224:2,accepted,,,B224:2:235,Pamis,,,,,,Belytinae,Pamis,,Belytinae | Pamis,,4503589
+B224:2:237,Pantoclis,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Pantoclis,,Belytinae,,4406533
+B224:2:238,Pantoclis leviventris,,Pantoclis,,leviventris,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503548
+B224:2:239,Oxylabis leviventris,,Oxylabis,,leviventris,,species,,B224:2,synonym,B224:2:238,Pantoclis leviventris,,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503549
+B224:2:240,Pantoclis ruralis,,Pantoclis,,ruralis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503494
+B224:2:241,Pantoclis obscuripes,,Pantoclis,,obscuripes,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503491
+B224:2:242,Pantoclis mese,,Pantoclis,,mese,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503487
+B224:2:243,Pantoclis gaudens,,Pantoclis,,gaudens,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503510
+B224:2:244,Pantoclis eulimine,,Pantoclis,,eulimine,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503495
+B224:2:245,Pantoclis dolon,,Pantoclis,,dolon,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503516
+B224:2:246,Pantoclis subatricornis,,Pantoclis,,subatricornis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503518
+B224:2:247,Pantoclis dives,,Pantoclis,,dives,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503524
+B224:2:248,Pantoclis sulcata,,Pantoclis,,sulcata,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503507
+B224:2:249,Pantoclis excavatus,,Pantoclis,,excavatus,,species,,B224:2,synonym,B224:2:248,Pantoclis sulcata,,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,11294956
+B224:2:250,Pantoclis brevicornis,,Pantoclis,,brevicornis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503521
+B224:2:251,Pantoclis longipennis,,Pantoclis,,longipennis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503534
+B224:2:252,Pantoclis macrotoma,,Pantoclis,,macrotoma,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503517
+B224:2:253,Pantoclis carinata,,Pantoclis,,carinata,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503546
+B224:2:254,Acropiesta carinata,,Acropiesta,,carinata,,species,,B224:2,synonym,B224:2:253,Pantoclis carinata,,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4405434
+B224:2:255,Pantoclis scotica,,Pantoclis,,scotica,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503550
+B224:2:256,Aclista scotica,,Aclista,,scotica,,species,,B224:2,synonym,B224:2:255,Pantoclis scotica,,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503551
+B224:2:257,Pantoclis striola,,Pantoclis,,striola,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503526
+B224:2:258,Acropiesta striola,,Acropiesta,,striola,,species,,B224:2,synonym,B224:2:257,Pantoclis striola,,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4405434
+B224:2:259,Pantoclis brevior,,Pantoclis,,brevior,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503512
+B224:2:260,Acropiesta brevior,,Acropiesta,,brevior,,species,,B224:2,synonym,B224:2:259,Pantoclis brevior,,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503513
+B224:2:261,Pantoclis orodes,,Pantoclis,,orodes,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4406533
+B224:2:262,Pantoclis merope,,Pantoclis,,merope,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503496
+B224:2:263,Pantoclis trisulcata,,Pantoclis,,trisulcata,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503488
+B224:2:264,Pantoclis similis,,Pantoclis,,similis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503536
+B224:2:265,Acropiesta similis,,Acropiesta,,similis,,species,,B224:2,synonym,B224:2:264,Pantoclis similis,,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4405434
+B224:2:266,Pantoclis rufiventris,,Pantoclis,,rufiventris,,species,,B224:2,synonym,B224:2:264,Pantoclis similis,,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,11257549
+B224:2:267,Pantoclis hirtistilus,,Pantoclis,,hirtistilus,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503514
+B224:2:268,Pantoclis magnicornis,,Pantoclis,,magnicornis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503506
+B224:2:269,Pantoclis numen,,Pantoclis,,numen,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503511
+B224:2:270,Pantoclis evanescens,,Pantoclis,,evanescens,,species,,B224:2,accepted,,,B224:2:237,Pantoclis,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503486
+B224:2:271,Pantolyta,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Pantolyta,,Belytinae,,4406529
+B224:2:272,Meuselia,,,,,,genus,,B224:2,synonym,B224:2:271,Pantolyta,,,,,,,,Belytinae,Meuselia,,Belytinae,,9462158
+B224:2:273,Pantolyta fuscicornis,,Pantolyta,,fuscicornis,,species,,B224:2,accepted,,,B224:2:271,Pantolyta,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,10416963
+B224:2:274,Meuselia fuscicornis,,Meuselia,,fuscicornis,,species,,B224:2,synonym,B224:2:273,Pantolyta fuscicornis,,,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,8544283
+B224:2:275,Pantolyta anysis,,Pantolyta,,anysis,,species,,B224:2,accepted,,,B224:2:271,Pantolyta,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,8458262
+B224:2:277,Pantolyta atrata,,Pantolyta,,atrata,,species,,B224:2,synonym,B224:2:276,Pantolyta atrata,,,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503292
+B224:2:277,Pantolyta atrata,,Pantolyta,,atrata,,species,,B224:2,synonym,B224:2:276,Pantolyta atrata,,,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503292
+B224:2:278,Pantolyta incerta,,Pantolyta,,incerta,,species,,B224:2,accepted,,,B224:2:271,Pantolyta,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,11174308
+B224:2:279,Psiolmma incerta,,Psiolmma,,incerta,,species,,B224:2,synonym,B224:2:278,Pantolyta incerta,,,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,
+B224:2:280,Pantolyta vernalis,,Pantolyta,,vernalis,,species,,B224:2,accepted,,,B224:2:271,Pantolyta,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503286
+B224:2:281,Pantolyta pallida,,Pantolyta,,pallida,,species,,B224:2,accepted,,,B224:2:271,Pantolyta,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503282
+B224:2:282,Pantolyta subtilis,,Pantolyta,,subtilis,,species,,B224:2,accepted,,,B224:2:271,Pantolyta,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503283
+B224:2:283,Pantolyta fuscipes,,Pantolyta,,fuscipes,,species,,B224:2,accepted,,,B224:2:271,Pantolyta,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503288
+B224:2:284,Pantolyta semirufa,,Pantolyta,,semirufa,,species,,B224:2,accepted,,,B224:2:271,Pantolyta,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503289
+B224:2:285,Paroxylabis,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Paroxylabis,,Belytinae,,4405004
+B224:2:286,Acanthomiota,,,,,,genus,,B224:2,synonym,B224:2:285,Paroxylabis,,,,,,,,Belytinae,Acanthomiota,,Belytinae,,4677356
+B224:2:287,Paroxylabis spinifer,,Paroxylabis,,spinifer,,species,,B224:2,accepted,,,B224:2:285,Paroxylabis,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,4503310
+B224:2:288,Paroxylabis semirufa,,Paroxylabis,,semirufa,,species,,B224:2,accepted,,,B224:2:285,Paroxylabis,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,4503308
+B224:2:289,Acanthomiota oxylaboides,,Acanthomiota,,oxylaboides,,species,,B224:2,synonym,B224:2:288,Paroxylabis semirufa,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,4677356
+B224:2:290,Paroxylabis fuscicornis,,Paroxylabis,,fuscicornis,,species,,B224:2,synonym,B224:2:288,Paroxylabis semirufa,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,11301120
+B224:2:291,Xenotoma arcitenens,,Xenotoma,,arcitenens,,species,,B224:2,synonym,B224:2:288,Paroxylabis semirufa,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,9949782
+B224:2:292,Xenotoma festiva,,Xenotoma,,festiva,,species,,B224:2,synonym,B224:2:288,Paroxylabis semirufa,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,10589716
+B224:2:293,Psilomma,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Psilomma,,Belytinae,,8620239
+B224:2:294,Psilomma atriceps,,Psilomma,,atriceps,,species,,B224:2,accepted,,,B224:2:293,Psilomma,,,,,,Belytinae,Psilomma,,Belytinae | Psilomma,,8514747
+B224:2:295,Psilomma nigra,,Psilomma,,nigra,,species,,B224:2,accepted,,,B224:2:293,Psilomma,,,,,,Belytinae,Psilomma,,Belytinae | Psilomma,,10071488
+B224:2:296,Psilomma dubia,,Psilomma,,dubia,,species,,B224:2,accepted,,,B224:2:293,Psilomma,,,,,,Belytinae,Psilomma,,Belytinae | Psilomma,,8620239
+B224:2:297,Rhynchopsilus,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Rhynchopsilus,,Belytinae,,4670522
+B224:2:298,Brunnicophilus,,,,,,genus,,B224:2,synonym,B224:2:297,Rhynchopsilus,,,,,,,,Belytinae,Brunnicophilus,,Belytinae,,4681347
+B224:2:299,Rhynchopsilus donisthorpei,,Rhynchopsilus,,donisthorpei,,species,,B224:2,accepted,,,B224:2:297,Rhynchopsilus,,,,,,Belytinae,Rhynchopsilus,,Belytinae | Rhynchopsilus,,11219847
+B224:2:300,Brunnicophilus donisthorpei,,Brunnicophilus,,donisthorpei,,species,,B224:2,synonym,B224:2:299,Rhynchopsilus donisthorpei,,,,,,,,Belytinae,Rhynchopsilus,,Belytinae | Rhynchopsilus,,4681347
+B224:2:301,Rhynchopsilus apertus,,Rhynchopsilus,,apertus,,species,,B224:2,accepted,,,B224:2:297,Rhynchopsilus,,,,,,Belytinae,Rhynchopsilus,,Belytinae | Rhynchopsilus,,10344431
+B224:2:302,Synacra,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Synacra,,Belytinae,,4405955
+B224:2:303,Synacra brevipennis,,Synacra,,brevipennis,,species,,B224:2,accepted,,,B224:2:302,Synacra,,,,,,Belytinae,Synacra,,Belytinae | Synacra,,10695359
+B224:2:304,Synacra brachialis,,Synacra,,brachialis,,species,,B224:2,accepted,,,B224:2:302,Synacra,,,,,,Belytinae,Synacra,,Belytinae | Synacra,,4503653
+B224:2:305,Synacra holconota,,Synacra,,holconota,,species,,B224:2,accepted,,,B224:2:302,Synacra,,,,,,Belytinae,Synacra,,Belytinae | Synacra,,4503659
+B224:2:306,Zygota,,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Zygota,,Belytinae,,4502963
+B224:2:307,Zygota hemiptera,,Zygota,,hemiptera,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502985
+B224:2:308,Belyta nigriceps,,Belyta,,nigriceps,,species,,B224:2,synonym,B224:2:307,Zygota hemiptera,,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,9091893
+B224:2:309,Zygota subaptera,,Zygota,,subaptera,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502998
+B224:2:310,Aclista tenuicornis,,Aclista,,tenuicornis,,species,,B224:2,synonym,B224:2:309,Zygota subaptera,,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,9873524
+B224:2:311,Zygota brevipennis,,Zygota,,brevipennis,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502993
+B224:2:312,Zygota cursor,,Zygota,,cursor,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503002
+B224:2:313,Zygota caecutiens,,Zygota,,caecutiens,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503017
+B224:2:314,Zygota cilla,,Zygota,,cilla,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502978
+B224:2:315,Zygota fuscata,,Zygota,,fuscata,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503004
+B224:2:316,Aclista lasiorum,,Aclista,,lasiorum,,species,,B224:2,synonym,B224:2:315,Zygota fuscata,,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4405710
+B224:2:317,Zygota microtoma,,Zygota,,microtoma,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503006
+B224:2:318,Zygota striata,,Zygota,,striata,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502977
+B224:2:319,Zygota brevinervis,,Zygota,,brevinervis,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503013
+B224:2:320,Zygota soluta,,Zygota,,soluta,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502991
+B224:2:321,Pantoclis soluta,,Pantoclis,,soluta,,species,,B224:2,synonym,B224:2:320,Zygota soluta,,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502992
+B224:2:322,Zygota fossulata,,Zygota,,fossulata,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502964
+B224:2:323,Zygota claviscapa,,Zygota,,claviscapa,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503020
+B224:2:324,Zygota praetor,,Zygota,,praetor,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503008
+B224:2:325,Zygota croton,,Zygota,,croton,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503024
+B224:2:326,Zygota ruficornis,,Zygota,,ruficornis,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503010
+B224:2:327,Zygota sulciventris,,Zygota,,sulciventris,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502979
+B224:2:328,Zygota loris,,Zygota,,loris,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502963
+B224:2:329,Zygota norvegica,,Zygota,,norvegica,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,8479447
+B224:2:330,Zygota breviuscula,,Zygota,,breviuscula,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502975
+B224:2:331,Zygota macroneura,,Zygota,,macroneura,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502966
+B224:2:332,Zygota nigra,,Zygota,,nigra,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502987
+B224:2:333,Pantoclis cameroni,,Pantoclis,,cameroni,,species,,B224:2,synonym,B224:2:332,Zygota nigra,,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4406533
+B224:2:334,Zygota semirufa,,Zygota,,semirufa,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,10207968
+B224:2:335,Zygota bensoni,,Zygota,,bensoni,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502973
+B224:2:336,Zygota spinosipes,,Zygota,,spinosipes,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502995
+B224:2:337,Zygota larides,,Zygota,,larides,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,8592739
+B224:2:338,Zygota excisipes,,Zygota,,excisipes,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,10079796
+B224:2:339,Zygota dentatipes,,Zygota,,dentatipes,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,8605013
+B224:2:340,Zygota comes,,Zygota,,comes,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,7488123
+B224:2:341,Zygota parallela,,Zygota,,parallela,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502968
+B224:2:342,Zygota vigil,,Zygota,,vigil,,species,,B224:2,accepted,,,B224:2:306,Zygota,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503001

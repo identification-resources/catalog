@@ -1,0 +1,8 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B246:4:1,Tephritidae,,,,,,family,,B246:4,accepted,,,,,,,,,Tephritidae,,,,,GZN,3520
+B246:4:2,Trypetinae,,,,,,subfamily,,B246:4,accepted,,,B246:4:1,Tephritidae,,,,,Tephritidae,Trypetinae,,,Tephritidae,8NL4M,
+B246:4:3,Trypetini,,,,,,tribe,,B246:4,accepted,,,B246:4:2,Trypetinae,,,,,Tephritidae,Trypetinae,,,Tephritidae | Trypetinae,8MPVS,
+B246:4:4,Goniglossum,,,,,,genus,,B246:4,accepted,,,B246:4:3,Trypetini,,,,,Tephritidae,Trypetinae,Goniglossum,,Tephritidae | Trypetinae | Trypetini,,9086276
+B246:4:5,Goniglossum wiedemanni,,Goniglossum,,wiedemanni,,species,,B246:4,accepted,,,B246:4:4,Goniglossum,,,,,Tephritidae,Trypetinae,Goniglossum,,Tephritidae | Trypetinae | Trypetini | Goniglossum,,4515978
+B246:4:6,Platyparea,,,,,,genus,,B246:4,accepted,,,B246:4:3,Trypetini,,,,,Tephritidae,Trypetinae,Platyparea,,Tephritidae | Trypetinae | Trypetini,6RYK,1629610
+B246:4:7,Platyparea poeciloptera,,Platyparea,,poeciloptera,,species,,B246:4,accepted,,,B246:4:6,Platyparea,,,,,Tephritidae,Trypetinae,Platyparea,,Tephritidae | Trypetinae | Trypetini | Platyparea,,7611449

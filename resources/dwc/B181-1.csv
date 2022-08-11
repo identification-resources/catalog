@@ -1,0 +1,21 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B181:1:1,Heteroceridae,,,,,,family,,B181:1,accepted,,,,,,,,,Heteroceridae,,,,,6255M,6986
+B181:1:2,Heterocerus,,,,,,genus,,B181:1,accepted,,,B181:1:1,Heteroceridae,,,,,Heteroceridae,,Heterocerus,,Heteroceridae,636QZ,1033820
+B181:1:3,Heterocerus flexuosus-group,,Heterocerus,,,,group,,B181:1,accepted,,,B181:1:2,Heterocerus,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus,636QZ,
+B181:1:4,Heterocerus flexuosus,,Heterocerus,,flexuosus,,species,,B181:1,accepted,,,B181:1:3,Heterocerus flexuosus-group,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus flexuosus-group,,4428109
+B181:1:5,Heterocerus femoralis,,Heterocerus,,femoralis,,species,,B181:1,synonym,B181:1:4,Heterocerus flexuosus,,,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus flexuosus-group,,4428111
+B181:1:6,Heterocerus fossor,,Heterocerus,,fossor,,species,,B181:1,accepted,,,B181:1:3,Heterocerus flexuosus-group,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus flexuosus-group,,4428088
+B181:1:7,Heterocerus rectus,,Heterocerus,,rectus,,species,,B181:1,synonym,B181:1:6,Heterocerus fossor,,,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus flexuosus-group,,4428091
+B181:1:8,Heterocerus salinus,,Heterocerus,,salinus,,species,,B181:1,synonym,B181:1:6,Heterocerus fossor,,,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus flexuosus-group,,4428097
+B181:1:9,Heterocerus maritimus-group,,Heterocerus,,,,group,,B181:1,accepted,,,B181:1:2,Heterocerus,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus,636QZ,
+B181:1:10,Heterocerus hispidulus,,Heterocerus,,hispidulus,,species,,B181:1,accepted,,,B181:1:9,Heterocerus maritimus-group,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus maritimus-group,,4428150
+B181:1:11,Heterocerus maritimus,,Heterocerus,,maritimus,,species,,B181:1,accepted,,,B181:1:9,Heterocerus maritimus-group,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus maritimus-group,,4428132
+B181:1:12,Heterocerus britannicus,,Heterocerus,,britannicus,,species,,B181:1,synonym,B181:1:11,Heterocerus maritimus,,,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus maritimus-group,,4428158
+B181:1:13,Heterocerus sericans,,Heterocerus,,sericans,,species,,B181:1,synonym,B181:1:11,Heterocerus maritimus,,,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus maritimus-group,,4428165
+B181:1:14,Heterocerus obsoletus-group,,Heterocerus,,,,group,,B181:1,accepted,,,B181:1:2,Heterocerus,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus,636QZ,
+B181:1:15,Heterocerus marginatus,,Heterocerus,,marginatus,,species,,B181:1,accepted,,,B181:1:14,Heterocerus obsoletus-group,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus obsoletus-group,,4428077
+B181:1:16,Heterocerus obsoletus,,Heterocerus,,obsoletus,,species,,B181:1,accepted,,,B181:1:14,Heterocerus obsoletus-group,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus obsoletus-group,,4428120
+B181:1:17,Heterocerus fenestratus,,Heterocerus,,fenestratus,,species,,B181:1,accepted,,,B181:1:14,Heterocerus obsoletus-group,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus obsoletus-group,,4428122
+B181:1:18,Heterocerus laevigatus,,Heterocerus,,laevigatus,,species,,B181:1,synonym,B181:1:17,Heterocerus fenestratus,,,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus obsoletus-group,,4428124
+B181:1:19,Heterocerus pulchellus,,Heterocerus,,pulchellus,,species,,B181:1,synonym,B181:1:17,Heterocerus fenestratus,,,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus obsoletus-group,,9330556
+B181:1:20,Heterocerus fusculus,,Heterocerus,,fusculus,,species,,B181:1,accepted,,,B181:1:14,Heterocerus obsoletus-group,,,,,Heteroceridae,,Heterocerus,,Heteroceridae | Heterocerus | Heterocerus obsoletus-group,,4428081

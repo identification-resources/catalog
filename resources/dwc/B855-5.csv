@@ -1,0 +1,7 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B855:5:1,Achenium,,,,,,genus,,B855:5,accepted,,,,,,,,,,,Achenium,,,MQJ,8497168
+B855:5:2,Achenium humile,,Achenium,,humile,,species,,B855:5,accepted,,,B855:5:1,Achenium,,,,,,,Achenium,,Achenium,96RC,4439039
+B855:5:3,Lathrobium humile,,Lathrobium,,humile,,species,,B855:5,synonym,B855:5:2,Achenium humile,,,,,,,,,Achenium,,Achenium,3SJZW,4439040
+B855:5:4,Achenium depressum,,Achenium,,depressum,,species,,B855:5,accepted,,,B855:5:1,Achenium,,,,,,,Achenium,,Achenium,96R3,4439055
+B855:5:5,Achenium depressum subsp. ephippium,,Achenium,,depressum,ephippium,subspecies,,B855:5,accepted,,,B855:5:4,Achenium depressum,,,,,,,Achenium,,Achenium | Achenium depressum,96R5,4439024
+B855:5:6,Achenium ephippium,,Achenium,,ephippium,,species,,B855:5,synonym,B855:5:5,Achenium depressum subsp. ephippium,,,,,,,,,Achenium,,Achenium | Achenium depressum,96R5,4439024

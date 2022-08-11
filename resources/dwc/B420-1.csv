@@ -1,0 +1,24 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B420:1:1,Sapygidae,,,,,,family,,B420:1,accepted,,,,,,,,,Sapygidae,,,,,FY8,4298486
+B420:1:2,Polochrum,,,,,,genus,,B420:1,accepted,,,B420:1:1,Sapygidae,,,,,Sapygidae,,Polochrum,,Sapygidae,6TV3,1312227
+B420:1:3,Polochrum repandum,,Polochrum,,repandum,,species,,B420:1,accepted,,,B420:1:2,Polochrum,,,,,Sapygidae,,Polochrum,,Sapygidae | Polochrum,4KZ9H,1312228
+B420:1:4,Monosapyga,,,,,,genus,,B420:1,accepted,,,B420:1:1,Sapygidae,,,,,Sapygidae,,Monosapyga,,Sapygidae,,4407776
+B420:1:5,Monosapyga clavicornis,,Monosapyga,,clavicornis,,species,,B420:1,accepted,,,B420:1:4,Monosapyga,,,,,Sapygidae,,Monosapyga,,Sapygidae | Monosapyga,,4504373
+B420:1:6,Apis clavicornis,,Apis,,clavicornis,,species,,B420:1,synonym,B420:1:5,Monosapyga clavicornis,,,,,,,Sapygidae,,Monosapyga,,Sapygidae | Monosapyga,,4504377
+B420:1:7,Sphex prisma,,Sphex,,prisma,,species,,B420:1,synonym,B420:1:5,Monosapyga clavicornis,,,,,,,Sapygidae,,Monosapyga,,Sapygidae | Monosapyga,,10496511
+B420:1:8,Masaris crabroniformis,,Masaris,,crabroniformis,,species,,B420:1,synonym,B420:1:5,Monosapyga clavicornis,,,,,,,Sapygidae,,Monosapyga,,Sapygidae | Monosapyga,,9344539
+B420:1:9,Sapyga,,,,,,genus,,B420:1,accepted,,,B420:1:1,Sapygidae,,,,,Sapygidae,,Sapyga,,Sapygidae,,9090977
+B420:1:10,Sapyga similis,,Sapyga,,similis,,species,,B420:1,accepted,,,B420:1:9,Sapyga,,,,,Sapygidae,,Sapyga,,Sapygidae | Sapyga,,4504341
+B420:1:11,Sirex similis,,Sirex,,similis,,species,,B420:1,synonym,B420:1:10,Sapyga similis,,,,,,,Sapygidae,,Sapyga,,Sapygidae | Sapyga,,4504346
+B420:1:12,Sapyga variegata,,Sapyga,,variegata,,species,,B420:1,synonym,B420:1:10,Sapyga similis,,,,,,,Sapygidae,,Sapyga,,Sapygidae | Sapyga,,4504344
+B420:1:13,Sapyga rufipes,,Sapyga,,rufipes,,species,,B420:1,synonym,B420:1:10,Sapyga similis,,,,,,,Sapygidae,,Sapyga,,Sapygidae | Sapyga,,4504345
+B420:1:14,Sapygina,,,,,,genus,,B420:1,accepted,,,B420:1:1,Sapygidae,,,,,Sapygidae,,Sapygina,,Sapygidae,,4405688
+B420:1:15,Sapygina decemguttata,,Sapygina,,decemguttata,,species,,B420:1,accepted,,,B420:1:14,Sapygina,,,,,Sapygidae,,Sapygina,,Sapygidae | Sapygina,,4504364
+B420:1:16,Sapyga decemguttata,,Sapyga,,decemguttata,,species,,B420:1,synonym,B420:1:15,Sapygina decemguttata,,,,,,,Sapygidae,,Sapygina,,Sapygidae | Sapygina,,4504368
+B420:1:17,Meria nitidula,,Meria,,nitidula,,species,,B420:1,synonym,B420:1:15,Sapygina decemguttata,,,,,,,Sapygidae,,Sapygina,,Sapygidae | Sapygina,,3244483
+B420:1:18,Meria millefolii,,Meria,,millefolii,,species,,B420:1,synonym,B420:1:15,Sapygina decemguttata,,,,,,,Sapygidae,,Sapygina,,Sapygidae | Sapygina,,8207694
+B420:1:19,Sapyga chelostomae,,Sapyga,,chelostomae,,species,,B420:1,synonym,B420:1:15,Sapygina decemguttata,,,,,,,Sapygidae,,Sapygina,,Sapygidae | Sapygina,,4504369
+B420:1:20,Myzine panzeri,,Myzine,,panzeri,,species,,B420:1,synonym,B420:1:15,Sapygina decemguttata,,,,,,,Sapygidae,,Sapygina,,Sapygidae | Sapygina,,5762379
+B420:1:21,Polochrum cylindrica,,Polochrum,,cylindrica,,species,,B420:1,synonym,B420:1:15,Sapygina decemguttata,,,,,,,Sapygidae,,Sapygina,,Sapygidae | Sapygina,,4504370
+B420:1:22,Meria tripunctata,,Meria,,tripunctata,,species,,B420:1,synonym,B420:1:15,Sapygina decemguttata,,,,,,,Sapygidae,,Sapygina,,Sapygidae | Sapygina,,8139550
+B420:1:23,Sapygina nigra,,Sapygina,,nigra,,species,,B420:1,synonym,B420:1:15,Sapygina decemguttata,,,,,,,Sapygidae,,Sapygina,,Sapygidae | Sapygina,,4504365

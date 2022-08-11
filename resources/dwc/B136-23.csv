@@ -1,0 +1,6 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B136:23:1,Corticaria,,,,,,genus,,B136:23,accepted,,,,,,,,,,,Corticaria,,,62M9K,1043833
+B136:23:2,Corticaria polypori J.Sahlb.,J.Sahlb.,Corticaria,,polypori,,species,,B136:23,accepted,,,B136:23:1,Corticaria,,,,,,,Corticaria,,Corticaria,,4451002
+B136:23:3,Corticaria eppelsheimi Rtt.,Rtt.,Corticaria,,eppelsheimi,,species,,B136:23,synonym,B136:23:2,Corticaria polypori J.Sahlb.,,,,,,,,,Corticaria,,Corticaria,,9824721
+B136:23:4,Corticaria rubripes,,Corticaria,,rubripes,,species,,B136:23,accepted,,,B136:23:1,Corticaria,,,,,,,Corticaria,,Corticaria,,4450983
+B136:23:5,Corticaria linearis,,Corticaria,,linearis,,species,,B136:23,synonym,B136:23:4,Corticaria rubripes,,,,,,,,,Corticaria,,Corticaria,,6097718

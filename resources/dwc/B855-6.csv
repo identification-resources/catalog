@@ -1,0 +1,5 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B855:6:1,Dolicaon,,,,,,genus,,B855:6,accepted,,,,,,,,,,,Dolicaon,,,62R6H,5431115
+B855:6:2,Leptobium,,,,,,genus,,B855:6,synonym,B855:6:1,Dolicaon,,,,,,,,,Leptobium,,,638Y4,4439494
+B855:6:3,Dolicaon biguttulus,,Dolicaon,,biguttulus,,species,,B855:6,accepted,,,B855:6:1,Dolicaon,,,,,,,Dolicaon,,Dolicaon,,8006089
+B855:6:4,Lathrobium biguttulum,,Lathrobium,,biguttulum,,species,,B855:6,synonym,B855:6:3,Dolicaon biguttulus,,,,,,,,,Dolicaon,,Dolicaon,3SJST,4439511

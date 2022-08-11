@@ -1,0 +1,362 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B206:1:1,Scolioidea,,,,,,superfamily,,B206:1,accepted,,,,,,,,,,,,,,,
+B206:1:2,Sapygidae,,,,,,family,,B206:1,accepted,,,B206:1:1,Scolioidea,,,,,Sapygidae,,,,Scolioidea,FY8,4298486
+B206:1:3,Sapyga,,,,,,genus,,B206:1,accepted,,,B206:1:2,Sapygidae,,,,,Sapygidae,,Sapyga,,Scolioidea | Sapygidae,,9090977
+B206:1:4,Sapyga clavicornis,,Sapyga,,clavicornis,,species,,B206:1,accepted,,,B206:1:3,Sapyga,,,,,Sapygidae,,Sapyga,,Scolioidea | Sapygidae | Sapyga,,6096922
+B206:1:5,Sapyga quinquepunctata,,Sapyga,,quinquepunctata,,species,,B206:1,accepted,,,B206:1:3,Sapyga,,,,,Sapygidae,,Sapyga,,Scolioidea | Sapygidae | Sapyga,,4504348
+B206:1:6,Tiphiidae,,,,,,family,,B206:1,accepted,,,B206:1:1,Scolioidea,,,,,Tiphiidae,,,,Scolioidea,H9Z,7919
+B206:1:7,Tiphiinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:6,Tiphiidae,,,,,Tiphiidae,Tiphiinae,,,Scolioidea | Tiphiidae,,
+B206:1:8,Tiphia,,,,,,genus,,B206:1,accepted,,,B206:1:7,Tiphiinae,,,,,Tiphiidae,Tiphiinae,Tiphia,,Scolioidea | Tiphiidae | Tiphiinae,7X67,11228585
+B206:1:9,Tiphia femorata,,Tiphia,,femorata,,species,,B206:1,accepted,,,B206:1:8,Tiphia,,,,,Tiphiidae,Tiphiinae,Tiphia,,Scolioidea | Tiphiidae | Tiphiinae | Tiphia,,4504842
+B206:1:10,Tiphia minuta,,Tiphia,,minuta,,species,,B206:1,accepted,,,B206:1:8,Tiphia,,,,,Tiphiidae,Tiphiinae,Tiphia,,Scolioidea | Tiphiidae | Tiphiinae | Tiphia,,4504855
+B206:1:11,Methochinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:6,Tiphiidae,,,,,Tiphiidae,Methochinae,,,Scolioidea | Tiphiidae,,
+B206:1:12,Methocha,,,,,,genus,,B206:1,accepted,,,B206:1:11,Methochinae,,,,,Tiphiidae,Methochinae,Methocha,,Scolioidea | Tiphiidae | Methochinae,,4504878
+B206:1:13,Methocha ichneumonides,,Methocha,,ichneumonides,,species,,B206:1,accepted,,,B206:1:12,Methocha,,,,,Tiphiidae,Methochinae,Methocha,,Scolioidea | Tiphiidae | Methochinae | Methocha,,4504879
+B206:1:14,Myrmosinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:6,Tiphiidae,,,,,Tiphiidae,Myrmosinae,,,Scolioidea | Tiphiidae,,
+B206:1:15,Myrmosa,,,,,,genus,,B206:1,accepted,,,B206:1:14,Myrmosinae,,,,,Tiphiidae,Myrmosinae,Myrmosa,,Scolioidea | Tiphiidae | Myrmosinae,,9113703
+B206:1:16,Myrmosa atra,,Myrmosa,,atra,,species,,B206:1,accepted,,,B206:1:15,Myrmosa,,,,,Tiphiidae,Myrmosinae,Myrmosa,,Scolioidea | Tiphiidae | Myrmosinae | Myrmosa,,4506011
+B206:1:17,Myrmosa melanocephala,,Myrmosa,,melanocephala,,species,,B206:1,synonym,B206:1:16,Myrmosa atra,,,,,,,Tiphiidae,Myrmosinae,Myrmosa,,Scolioidea | Tiphiidae | Myrmosinae | Myrmosa,,8229493
+B206:1:18,Myrmosa atra subsp. s.,,Myrmosa,,atra,s.,subspecies,,B206:1,accepted,,,B206:1:16,Myrmosa atra,,,,,Tiphiidae,Myrmosinae,Myrmosa,,Scolioidea | Tiphiidae | Myrmosinae | Myrmosa | Myrmosa atra,,4506011
+B206:1:19,Myrmosa atra subsp. erythrocephala,,Myrmosa,,atra,erythrocephala,subspecies,,B206:1,accepted,,,B206:1:16,Myrmosa atra,,,,,Tiphiidae,Myrmosinae,Myrmosa,,Scolioidea | Tiphiidae | Myrmosinae | Myrmosa | Myrmosa atra,,4506013
+B206:1:20,Mutillidae,,,,,,family,,B206:1,accepted,,,B206:1:1,Scolioidea,,,,,Mutillidae,,,,Scolioidea,CZW,7912
+B206:1:21,Mutillinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:20,Mutillidae,,,,,Mutillidae,Mutillinae,,,Scolioidea | Mutillidae,,
+B206:1:22,Mutilla,,,,,,genus,,B206:1,accepted,,,B206:1:21,Mutillinae,,,,,Mutillidae,Mutillinae,Mutilla,,Scolioidea | Mutillidae | Mutillinae,,9731472
+B206:1:23,Mutilla europaea,,Mutilla,,europaea,,species,,B206:1,accepted,,,B206:1:22,Mutilla,,,,,Mutillidae,Mutillinae,Mutilla,,Scolioidea | Mutillidae | Mutillinae | Mutilla,,4506278
+B206:1:24,Smicromyrme,,,,,,genus,,B206:1,accepted,,,B206:1:21,Mutillinae,,,,,Mutillidae,Mutillinae,Smicromyrme,,Scolioidea | Mutillidae | Mutillinae,,4506167
+B206:1:25,Smicromyrme rufipes,,Smicromyrme,,rufipes,,species,,B206:1,accepted,,,B206:1:24,Smicromyrme,,,,,Mutillidae,Mutillinae,Smicromyrme,,Scolioidea | Mutillidae | Mutillinae | Smicromyrme,,4506181
+B206:1:26,Vespoidea,,,,,,superfamily,,B206:1,accepted,,,,,,,,,,,,,,VP,
+B206:1:27,Eumenidae,,,,,,family,,B206:1,accepted,,,B206:1:26,Vespoidea,,,,,Eumenidae,,,,Vespoidea,9XR,4240
+B206:1:28,Eumenes,,,,,,genus,,B206:1,accepted,,,B206:1:27,Eumenidae,,,,,Eumenidae,,Eumenes,,Vespoidea | Eumenidae,4FY8,1311630
+B206:1:29,Eumenes coarctatus,,Eumenes,,coarctatus,,species,,B206:1,accepted,,,B206:1:28,Eumenes,,,,,Eumenidae,,Eumenes,,Vespoidea | Eumenidae | Eumenes,3CDF6,5037103
+B206:1:30,Euodynerus,,,,,,genus,,B206:1,accepted,,,B206:1:27,Eumenidae,,,,,Eumenidae,,Euodynerus,,Vespoidea | Eumenidae,4G4Z,5037530
+B206:1:31,Pareuodynerus,,,,,,subgenus,,B206:1,accepted,,,B206:1:30,Euodynerus,,,,,Eumenidae,,Euodynerus,Pareuodynerus,Vespoidea | Eumenidae | Euodynerus,,
+B206:1:32,Euodynerus quadrifasciatus,,Euodynerus,,quadrifasciatus,,species,,B206:1,accepted,,,B206:1:31,Pareuodynerus,,,,,Eumenidae,,Euodynerus,Pareuodynerus,Vespoidea | Eumenidae | Euodynerus | Pareuodynerus,3CGLS,5037693
+B206:1:33,Euodynerus tomentosus,,Euodynerus,,tomentosus,,species,,B206:1,synonym,B206:1:32,Euodynerus quadrifasciatus,,,,,,,Eumenidae,,Euodynerus,Pareuodynerus,Vespoidea | Eumenidae | Euodynerus | Pareuodynerus,,11238547
+B206:1:34,Pseudepipona,,,,,,genus,,B206:1,accepted,,,B206:1:27,Eumenidae,,,,,Eumenidae,,Pseudepipona,,Vespoidea | Eumenidae,6YYC,7236003
+B206:1:35,Pseudepipona herrichii,,Pseudepipona,,herrichii,,species,,B206:1,accepted,,,B206:1:34,Pseudepipona,,,,,Eumenidae,,Pseudepipona,,Vespoidea | Eumenidae | Pseudepipona,4NMGD,8868938
+B206:1:36,Pseudepipona variegata,,Pseudepipona,,variegata,,species,,B206:1,synonym,B206:1:35,Pseudepipona herrichii,,,,,,,Eumenidae,,Pseudepipona,,Vespoidea | Eumenidae | Pseudepipona,4NMKY,5038264
+B206:1:37,Pseudepipona basalis,,Pseudepipona,,basalis,,species,,B206:1,synonym,B206:1:35,Pseudepipona herrichii,,,,,,,Eumenidae,,Pseudepipona,,Vespoidea | Eumenidae | Pseudepipona,,11271872
+B206:1:39,Odynerus,,,,,,subgenus,,B206:1,accepted,,,B206:1:38,Odynerus,,,,,Eumenidae,,Odynerus,Odynerus,Vespoidea | Eumenidae | Odynerus,63G6H,
+B206:1:39,Odynerus,,,,,,subgenus,,B206:1,accepted,,,B206:1:38,Odynerus,,,,,Eumenidae,,Odynerus,Odynerus,Vespoidea | Eumenidae | Odynerus,63G6H,
+B206:1:40,Odynerus melanocephalus,,Odynerus,,melanocephalus,,species,,B206:1,accepted,,,B206:1:39,Odynerus,,,,,Eumenidae,,Odynerus,Odynerus,Vespoidea | Eumenidae | Odynerus | Odynerus,48TV9,1329637
+B206:1:41,Odynerus spinipes,,Odynerus,,spinipes,,species,,B206:1,accepted,,,B206:1:39,Odynerus,,,,,Eumenidae,,Odynerus,Odynerus,Vespoidea | Eumenidae | Odynerus | Odynerus,74GR6,1329873
+B206:1:42,Spinicoxa,,,,,,subgenus,,B206:1,accepted,,,B206:1:38,Odynerus,,,,,Eumenidae,,Odynerus,Spinicoxa,Vespoidea | Eumenidae | Odynerus,,
+B206:1:43,Odynerus reniformis,,Odynerus,,reniformis,,species,,B206:1,accepted,,,B206:1:42,Spinicoxa,,,,,Eumenidae,,Odynerus,Spinicoxa,Vespoidea | Eumenidae | Odynerus | Spinicoxa,74GPX,1329840
+B206:1:44,Odynerus simillimus,,Odynerus,,simillimus,,species,,B206:1,accepted,,,B206:1:42,Spinicoxa,,,,,Eumenidae,,Odynerus,Spinicoxa,Vespoidea | Eumenidae | Odynerus | Spinicoxa,74H39,1329825
+B206:1:45,Gymnomerus,,,,,,genus,,B206:1,accepted,,,B206:1:27,Eumenidae,,,,,Eumenidae,,Gymnomerus,,Vespoidea | Eumenidae,635XN,1330061
+B206:1:46,Gymnomerus laevipes,,Gymnomerus,,laevipes,,species,,B206:1,accepted,,,B206:1:45,Gymnomerus,,,,,Eumenidae,,Gymnomerus,,Vespoidea | Eumenidae | Gymnomerus,3HSR2,1330062
+B206:1:47,Microdynerus,,,,,,genus,,B206:1,accepted,,,B206:1:27,Eumenidae,,,,,Eumenidae,,Microdynerus,,Vespoidea | Eumenidae,5RST,1330442
+B206:1:48,Microdynerus exilis,,Microdynerus,,exilis,,species,,B206:1,accepted,,,B206:1:47,Microdynerus,,,,,Eumenidae,,Microdynerus,,Vespoidea | Eumenidae | Microdynerus,42WCT,1330477
+B206:1:49,Ancistrocerus,,,,,,genus,,B206:1,accepted,,,B206:1:27,Eumenidae,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae,VJJ,1311332
+B206:1:50,Ancistrocerus antilope,,Ancistrocerus,,antilope,,species,,B206:1,accepted,,,B206:1:49,Ancistrocerus,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,DMFP,5037413
+B206:1:51,Ancistrocerus gazella,,Ancistrocerus,,gazella,,species,,B206:1,accepted,,,B206:1:49,Ancistrocerus,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,DMHP,5037434
+B206:1:52,Ancistrocerus nigricornis,,Ancistrocerus,,nigricornis,,species,,B206:1,accepted,,,B206:1:49,Ancistrocerus,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,DMKM,5037318
+B206:1:53,Ancistrocerus callosus,,Ancistrocerus,,callosus,,species,,B206:1,synonym,B206:1:52,Ancistrocerus nigricornis,,,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,,11314821
+B206:1:54,Ancistrocerus oviventris,,Ancistrocerus,,oviventris,,species,,B206:1,accepted,,,B206:1:49,Ancistrocerus,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,DMKT,5037484
+B206:1:55,Ancistrocerus oviventris subsp. hibernicus,,Ancistrocerus,,oviventris,hibernicus,subspecies,,B206:1,accepted,,,B206:1:54,Ancistrocerus oviventris,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus | Ancistrocerus oviventris,5FLBX,5037487
+B206:1:56,Ancistrocerus parietinus,,Ancistrocerus,,parietinus,,species,,B206:1,accepted,,,B206:1:49,Ancistrocerus,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,DMKZ,5037271
+B206:1:57,Ancistrocerus parietum,,Ancistrocerus,,parietum,,species,,B206:1,accepted,,,B206:1:49,Ancistrocerus,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,DML2,5037386
+B206:1:58,Ancistrocerus quadratus,,Ancistrocerus,,quadratus,,species,,B206:1,accepted,,,B206:1:49,Ancistrocerus,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,,6096889
+B206:1:59,Ancistrocerus claripennis,,Ancistrocerus,,claripennis,,species,,B206:1,synonym,B206:1:58,Ancistrocerus quadratus,,,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,66LRV,5037372
+B206:1:60,Ancistrocerus scoticus,,Ancistrocerus,,scoticus,,species,,B206:1,accepted,,,B206:1:49,Ancistrocerus,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,DMLX,10641571
+B206:1:64,Ancistrocerus trimarginatus,,Ancistrocerus,,trimarginatus,,species,,B206:1,synonym,B206:1:63,Ancistrocerus trifasciatus,,,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,,11369741
+B206:1:62,Ancistrocerus albotricinctus,,Ancistrocerus,,albotricinctus,,species,,B206:1,synonym,B206:1:60,Ancistrocerus scoticus,,,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,,11359408
+B206:1:63,Ancistrocerus trifasciatus,,Ancistrocerus,,trifasciatus,,species,,B206:1,accepted,,,B206:1:49,Ancistrocerus,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,66M4C,5037467
+B206:1:64,Ancistrocerus trimarginatus,,Ancistrocerus,,trimarginatus,,species,,B206:1,synonym,B206:1:63,Ancistrocerus trifasciatus,,,,,,,Eumenidae,,Ancistrocerus,,Vespoidea | Eumenidae | Ancistrocerus,,11369741
+B206:1:65,Symmorphus,,,,,,genus,,B206:1,accepted,,,B206:1:27,Eumenidae,,,,,Eumenidae,,Symmorphus,,Vespoidea | Eumenidae,7QTL,1331373
+B206:1:66,Symmorphus connexus,,Symmorphus,,connexus,,species,,B206:1,accepted,,,B206:1:65,Symmorphus,,,,,Eumenidae,,Symmorphus,,Vespoidea | Eumenidae | Symmorphus,53NYW,1331406
+B206:1:67,Symmorphus bifasciatus,,Symmorphus,,bifasciatus,,species,,B206:1,synonym,B206:1:66,Symmorphus connexus,,,,,,,Eumenidae,,Symmorphus,,Vespoidea | Eumenidae | Symmorphus,53NYP,1331436
+B206:1:68,Symmorphus crassicornis,,Symmorphus,,crassicornis,,species,,B206:1,accepted,,,B206:1:65,Symmorphus,,,,,Eumenidae,,Symmorphus,,Vespoidea | Eumenidae | Symmorphus,53NYX,1331425
+B206:1:69,Symmorphus gracilis,,Symmorphus,,gracilis,,species,,B206:1,accepted,,,B206:1:65,Symmorphus,,,,,Eumenidae,,Symmorphus,,Vespoidea | Eumenidae | Symmorphus,53NZ8,1331377
+B206:1:70,Symmorphus mutinensis,,Symmorphus,,mutinensis,,species,,B206:1,accepted,,,B206:1:65,Symmorphus,,,,,Eumenidae,,Symmorphus,,Vespoidea | Eumenidae | Symmorphus,,8698051
+B206:1:71,Symmorphus sinuatus,,Symmorphus,,sinuatus,,species,,B206:1,synonym,B206:1:70,Symmorphus mutinensis,,,,,,,Eumenidae,,Symmorphus,,Vespoidea | Eumenidae | Symmorphus,,11264236
+B206:1:72,Symmorphus sinuatissimus,,Symmorphus,,sinuatissimus,,species,,B206:1,synonym,B206:1:70,Symmorphus mutinensis,,,,,,,Eumenidae,,Symmorphus,,Vespoidea | Eumenidae | Symmorphus,53NZZ,1331437
+B206:1:73,Vespidae,,,,,,family,,B206:1,accepted,,,B206:1:26,Vespoidea,,,,,Vespidae,,,,Vespoidea,HTJ,4490
+B206:1:74,Polistinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:73,Vespidae,,,,,Vespidae,Polistinae,,,Vespoidea | Vespidae,,
+B206:1:75,Polistes,,,,,,genus,,B206:1,accepted,,,B206:1:74,Polistinae,,,,,Vespidae,Polistinae,Polistes,,Vespoidea | Vespidae | Polistinae,63NNT,1310500
+B206:1:76,Polistes dominulus,,Polistes,,dominulus,,species,,B206:1,accepted,,,B206:1:75,Polistes,,,,,Vespidae,Polistinae,Polistes,,Vespoidea | Vespidae | Polistinae | Polistes,6W524,1310668
+B206:1:77,Polistes gallicus,,Polistes,,gallicus,,species,,B206:1,synonym,B206:1:76,Polistes dominulus,,,,,,,Vespidae,Polistinae,Polistes,,Vespoidea | Vespidae | Polistinae | Polistes,4KYC4,1310622
+B206:1:78,Vespinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:73,Vespidae,,,,,Vespidae,Vespinae,,,Vespoidea | Vespidae,,
+B206:1:79,Vespa,,,,,,genus,,B206:1,accepted,,,B206:1:78,Vespinae,,,,,Vespidae,Vespinae,Vespa,,Vespoidea | Vespidae | Vespinae,86JM,1311334
+B206:1:80,Vespa crabro,,Vespa,,crabro,,species,,B206:1,accepted,,,B206:1:79,Vespa,,,,,Vespidae,Vespinae,Vespa,,Vespoidea | Vespidae | Vespinae | Vespa,5B9T3,1311527
+B206:1:81,Vespa crabro subsp. gribodoi,,Vespa,,crabro,gribodoi,subspecies,,B206:1,accepted,,,B206:1:80,Vespa crabro,,,,,Vespidae,Vespinae,Vespa,,Vespoidea | Vespidae | Vespinae | Vespa | Vespa crabro,5LR6C,6247362
+B206:1:82,Dolichovespula,,,,,,genus,,B206:1,accepted,,,B206:1:78,Vespinae,,,,,Vespidae,Vespinae,Dolichovespula,,Vespoidea | Vespidae | Vespinae,47KP,1311794
+B206:1:83,Pseudovespula,,,,,,subgenus,,B206:1,accepted,,,B206:1:82,Dolichovespula,,,,,Vespidae,Vespinae,Dolichovespula,Pseudovespula,Vespoidea | Vespidae | Vespinae | Dolichovespula,,
+B206:1:84,Boreovespula,,,,,,subgenus,,B206:1,synonym,B206:1:83,Pseudovespula,,,,,,,Vespidae,Vespinae,Dolichovespula,Boreovespula,Vespoidea | Vespidae | Vespinae | Dolichovespula,,
+B206:1:85,Metavespula,,,,,,subgenus,,B206:1,synonym,B206:1:83,Pseudovespula,,,,,,,Vespidae,Vespinae,Dolichovespula,Metavespula,Vespoidea | Vespidae | Vespinae | Dolichovespula,,
+B206:1:86,Dolichovespula norwegica,,Dolichovespula,,norwegica,,species,,B206:1,accepted,,,B206:1:83,Pseudovespula,,,,,Vespidae,Vespinae,Dolichovespula,Pseudovespula,Vespoidea | Vespidae | Vespinae | Dolichovespula | Pseudovespula,6DD4J,1311831
+B206:1:87,Dolichovespula sylvestris,,Dolichovespula,,sylvestris,,species,,B206:1,accepted,,,B206:1:83,Pseudovespula,,,,,Vespidae,Vespinae,Dolichovespula,Pseudovespula,Vespoidea | Vespidae | Vespinae | Dolichovespula | Pseudovespula,6DD4M,1311798
+B206:1:89,Vespula,,,,,,subgenus,,B206:1,accepted,,,B206:1:88,Vespula,,,,,Vespidae,Vespinae,Vespula,Vespula,Vespoidea | Vespidae | Vespinae | Vespula,86KD,
+B206:1:89,Vespula,,,,,,subgenus,,B206:1,accepted,,,B206:1:88,Vespula,,,,,Vespidae,Vespinae,Vespula,Vespula,Vespoidea | Vespidae | Vespinae | Vespula,86KD,
+B206:1:90,Allovespula,,,,,,subgenus,,B206:1,synonym,B206:1:89,Vespula,,,,,,,Vespidae,Vespinae,Vespula,Allovespula,Vespoidea | Vespidae | Vespinae | Vespula,,
+B206:1:91,Vespula austriaca,,Vespula,,austriaca,,species,,B206:1,accepted,,,B206:1:89,Vespula,,,,,Vespidae,Vespinae,Vespula,Vespula,Vespoidea | Vespidae | Vespinae | Vespula | Vespula,7FQW4,1311651
+B206:1:92,Vespula rufa,,Vespula,,rufa,,species,,B206:1,accepted,,,B206:1:89,Vespula,,,,,Vespidae,Vespinae,Vespula,Vespula,Vespoidea | Vespidae | Vespinae | Vespula | Vespula,7G2VJ,1311676
+B206:1:93,Paravespula,,,,,,subgenus,,B206:1,accepted,,,B206:1:88,Vespula,,,,,Vespidae,Vespinae,Vespula,Paravespula,Vespoidea | Vespidae | Vespinae | Vespula,63LF7,
+B206:1:94,Vespula germanica,,Vespula,,germanica,,species,,B206:1,accepted,,,B206:1:93,Paravespula,,,,,Vespidae,Vespinae,Vespula,Paravespula,Vespoidea | Vespidae | Vespinae | Vespula | Paravespula,7G2VS,1311649
+B206:1:95,Vespula vulgaris,,Vespula,,vulgaris,,species,,B206:1,accepted,,,B206:1:93,Paravespula,,,,,Vespidae,Vespinae,Vespula,Paravespula,Vespoidea | Vespidae | Vespinae | Vespula | Paravespula,7G35Z,1311671
+B206:1:96,Sphecoidea,,,,,,superfamily,,B206:1,accepted,,,,,,,,,,,,,,62324,
+B206:1:97,Sphecidae,,,,,,family,,B206:1,accepted,,,B206:1:96,Sphecoidea,,,,,Sphecidae,,,,Sphecoidea,GH7,4352
+B206:1:98,Astatinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:97,Sphecidae,,,,,Sphecidae,Astatinae,,,Sphecoidea | Sphecidae,J6S,
+B206:1:100,Astata,,,,,,subgenus,,B206:1,accepted,,,B206:1:99,Astata,,,,,Sphecidae,Astatinae,Astata,Astata,Sphecoidea | Sphecidae | Astatinae | Astata,349K,
+B206:1:100,Astata,,,,,,subgenus,,B206:1,accepted,,,B206:1:99,Astata,,,,,Sphecidae,Astatinae,Astata,Astata,Sphecoidea | Sphecidae | Astatinae | Astata,349K,
+B206:1:101,Astata boops,,Astata,,boops,,species,,B206:1,accepted,,,B206:1:100,Astata,,,,,Sphecidae,Astatinae,Astata,Astata,Sphecoidea | Sphecidae | Astatinae | Astata | Astata,5W79P,5760613
+B206:1:102,Dryudella,,,,,,subgenus,,B206:1,accepted,,,B206:1:99,Astata,,,,,Sphecidae,Astatinae,Astata,Dryudella,Sphecoidea | Sphecidae | Astatinae | Astata,632WD,
+B206:1:103,Astata pinguis,,Astata,,pinguis,,species,,B206:1,accepted,,,B206:1:102,Dryudella,,,,,Sphecidae,Astatinae,Astata,Dryudella,Sphecoidea | Sphecidae | Astatinae | Astata | Dryudella,HNBJ,7457623
+B206:1:104,Astata stigma,,Astata,,stigma,,species,,B206:1,synonym,B206:1:103,Astata pinguis,,,,,,,Sphecidae,Astatinae,Astata,Dryudella,Sphecoidea | Sphecidae | Astatinae | Astata | Dryudella,HNC9,7973563
+B206:1:105,Dinetus,,,,,,genus,,B206:1,accepted,,,B206:1:98,Astatinae,,,,,Sphecidae,Astatinae,Dinetus,,Sphecoidea | Sphecidae | Astatinae,45QP,3258417
+B206:1:106,Dinetus pictus,,Dinetus,,pictus,,species,,B206:1,accepted,,,B206:1:105,Dinetus,,,,,Sphecidae,Astatinae,Dinetus,,Sphecoidea | Sphecidae | Astatinae | Dinetus,368MF,6096900
+B206:1:107,Larrinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:97,Sphecidae,,,,,Sphecidae,Larrinae,,,Sphecoidea | Sphecidae,,
+B206:1:108,Tachysphex,,,,,,genus,,B206:1,accepted,,,B206:1:107,Larrinae,,,,,Sphecidae,Larrinae,Tachysphex,,Sphecoidea | Sphecidae | Larrinae,645GD,1346028
+B206:1:109,Tachysphex pompiliformis,,Tachysphex,,pompiliformis,,species,,B206:1,accepted,,,B206:1:108,Tachysphex,,,,,Sphecidae,Larrinae,Tachysphex,,Sphecoidea | Sphecidae | Larrinae | Tachysphex,7BH79,4495082
+B206:1:110,Tachysphex pectinipes,,Tachysphex,,pectinipes,,species,,B206:1,synonym,B206:1:109,Tachysphex pompiliformis,,,,,,,Sphecidae,Larrinae,Tachysphex,,Sphecoidea | Sphecidae | Larrinae | Tachysphex,,6096904
+B206:1:111,Tachysphex obscuripennis,,Tachysphex,,obscuripennis,,species,,B206:1,accepted,,,B206:1:108,Tachysphex,,,,,Sphecidae,Larrinae,Tachysphex,,Sphecoidea | Sphecidae | Larrinae | Tachysphex,7BGVX,4495075
+B206:1:112,Tachysphex lativalvis,,Tachysphex,,lativalvis,,species,,B206:1,synonym,B206:1:111,Tachysphex obscuripennis,,,,,,,Sphecidae,Larrinae,Tachysphex,,Sphecoidea | Sphecidae | Larrinae | Tachysphex,7BH5P,8286458
+B206:1:113,Tachysphex unicolor,,Tachysphex,,unicolor,,species,,B206:1,accepted,,,B206:1:108,Tachysphex,,,,,Sphecidae,Larrinae,Tachysphex,,Sphecoidea | Sphecidae | Larrinae | Tachysphex,7BGKS,4495090
+B206:1:114,Tachysphex nitidus,,Tachysphex,,nitidus,,species,,B206:1,synonym,B206:1:113,Tachysphex unicolor,,,,,,,Sphecidae,Larrinae,Tachysphex,,Sphecoidea | Sphecidae | Larrinae | Tachysphex,7BGVN,4495068
+B206:1:115,Miscophus,,,,,,genus,,B206:1,accepted,,,B206:1:107,Larrinae,,,,,Sphecidae,Larrinae,Miscophus,,Sphecoidea | Sphecidae | Larrinae,5TQZ,4298283
+B206:1:116,Miscophus ater,,Miscophus,,ater,,species,,B206:1,accepted,,,B206:1:115,Miscophus,,,,,Sphecidae,Larrinae,Miscophus,,Sphecoidea | Sphecidae | Larrinae | Miscophus,6RLPQ,4494686
+B206:1:117,Miscophus maritimus,,Miscophus,,maritimus,,species,,B206:1,synonym,B206:1:116,Miscophus ater,,,,,,,Sphecidae,Larrinae,Miscophus,,Sphecoidea | Sphecidae | Larrinae | Miscophus,43NDN,8008798
+B206:1:118,Miscophus concolor,,Miscophus,,concolor,,species,,B206:1,accepted,,,B206:1:115,Miscophus,,,,,Sphecidae,Larrinae,Miscophus,,Sphecoidea | Sphecidae | Larrinae | Miscophus,43NBF,4494711
+B206:1:119,Miscophus bicolor:,,Miscophus,,bicolor:,,species,,B206:1,synonym,B206:1:118,Miscophus concolor,,,,,,,Sphecidae,Larrinae,Miscophus,,Sphecoidea | Sphecidae | Larrinae | Miscophus,5TQZ,4298283
+B206:1:120,Trypoxylinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:97,Sphecidae,,,,,Sphecidae,Trypoxylinae,,,Sphecoidea | Sphecidae,,
+B206:1:121,Trypoxylon,,,,,,genus,,B206:1,accepted,,,B206:1:120,Trypoxylinae,,,,,Sphecidae,Trypoxylinae,Trypoxylon,,Sphecoidea | Sphecidae | Trypoxylinae,8P2GQ,4298296
+B206:1:122,Trypoxylon attenuatum,,Trypoxylon,,attenuatum,,species,,B206:1,accepted,,,B206:1:121,Trypoxylon,,,,,Sphecidae,Trypoxylinae,Trypoxylon,,Sphecoidea | Sphecidae | Trypoxylinae | Trypoxylon,7X53L,4495039
+B206:1:123,Trypoxylon clavicerum,,Trypoxylon,,clavicerum,,species,,B206:1,accepted,,,B206:1:121,Trypoxylon,,,,,Sphecidae,Trypoxylinae,Trypoxylon,,Sphecoidea | Sphecidae | Trypoxylinae | Trypoxylon,7X56H,4495051
+B206:1:124,Trypoxylon figulus,,Trypoxylon,,figulus,,species,,B206:1,accepted,,,B206:1:121,Trypoxylon,,,,,Sphecidae,Trypoxylinae,Trypoxylon,,Sphecoidea | Sphecidae | Trypoxylinae | Trypoxylon,7X58D,9711771
+B206:1:125,Crabroninae,,,,,,subfamily,,B206:1,accepted,,,B206:1:97,Sphecidae,,,,,Sphecidae,Crabroninae,,,Sphecoidea | Sphecidae,JDR,
+B206:1:126,Crabro,,,,,,genus,,B206:1,accepted,,,B206:1:125,Crabroninae,,,,,Sphecidae,Crabroninae,Crabro,,Sphecoidea | Sphecidae | Crabroninae,3V4L,1361459
+B206:1:127,Crabro cribrarius,,Crabro,,cribrarius,,species,,B206:1,accepted,,,B206:1:126,Crabro,,,,,Sphecidae,Crabroninae,Crabro,,Sphecoidea | Sphecidae | Crabroninae | Crabro,Z3G5,4495025
+B206:1:128,Crabro peltarius,,Crabro,,peltarius,,species,,B206:1,accepted,,,B206:1:126,Crabro,,,,,Sphecidae,Crabroninae,Crabro,,Sphecoidea | Sphecidae | Crabroninae | Crabro,Z3W5,4495014
+B206:1:129,Crabro scutellatus,,Crabro,,scutellatus,,species,,B206:1,accepted,,,B206:1:126,Crabro,,,,,Sphecidae,Crabroninae,Crabro,,Sphecoidea | Sphecidae | Crabroninae | Crabro,Z426,4495018
+B206:1:131,Crossocerus,,,,,,subgenus,,B206:1,accepted,,,B206:1:130,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus,3W6F,
+B206:1:131,Crossocerus,,,,,,subgenus,,B206:1,accepted,,,B206:1:130,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus,3W6F,
+B206:1:132,Crossocerus distinguendus,,Crossocerus,,distinguendus,,species,,B206:1,accepted,,,B206:1:131,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZLYH,4494914
+B206:1:133,Crossocerus elongatulus,,Crossocerus,,elongatulus,,species,,B206:1,accepted,,,B206:1:131,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZLYM,4494890
+B206:1:134,Crossocerus elongatulus subsp. proximus,,Crossocerus,,elongatulus,proximus,subspecies,,B206:1,accepted,,,B206:1:133,Crossocerus elongatulus,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus | Crossocerus elongatulus,,11242698
+B206:1:135,Crossocerus exiguus,,Crossocerus,,exiguus,,species,,B206:1,accepted,,,B206:1:131,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZLYX,4494866
+B206:1:136,Crossocerus ovalis,,Crossocerus,,ovalis,,species,,B206:1,accepted,,,B206:1:131,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZM4R,4494873
+B206:1:137,Crossocerus anxius,,Crossocerus,,anxius,,species,,B206:1,synonym,B206:1:136,Crossocerus ovalis,,,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZLWP,7603155
+B206:1:144,Crossocerus palmipes,,Crossocerus,,palmipes,,species,,B206:1,synonym,B206:1:143,Crossocerus tarsatus,,,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZM4X,4494928
+B206:1:139,Crossocerus palmarius,,Crossocerus,,palmarius,,species,,B206:1,accepted,,,B206:1:131,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZM4V,7513101
+B206:1:140,Crossocerus pusillus,,Crossocerus,,pusillus,,species,,B206:1,synonym,B206:1:139,Crossocerus palmarius,,,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZM63,4494865
+B206:1:141,Crossocerus varus,,Crossocerus,,varus,,species,,B206:1,synonym,B206:1:139,Crossocerus palmarius,,,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZM8Y,4494864
+B206:1:142,Crossocerus varius subsp. misspelling,,Crossocerus,,varius,misspelling,subspecies,,B206:1,synonym,B206:1:139,Crossocerus palmarius,,,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZM8X,7741080
+B206:1:143,Crossocerus tarsatus,,Crossocerus,,tarsatus,,species,,B206:1,accepted,,,B206:1:131,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZM87,4494882
+B206:1:144,Crossocerus palmipes,,Crossocerus,,palmipes,,species,,B206:1,synonym,B206:1:143,Crossocerus tarsatus,,,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZM4X,4494928
+B206:1:145,Crossocerus wesmaeli,,Crossocerus,,wesmaeli,,species,,B206:1,accepted,,,B206:1:131,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Crossocerus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Crossocerus,ZM97,4494895
+B206:1:146,Blepharipus,,,,,,subgenus,,B206:1,accepted,,,B206:1:130,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus,62HLQ,
+B206:1:147,Coelocrabro,,,,,,subgenus,,B206:1,synonym,B206:1:146,Blepharipus,,,,,,,Sphecidae,Crabroninae,Crossocerus,Coelocrabro,Sphecoidea | Sphecidae | Crabroninae | Crossocerus,62MRF,
+B206:1:148,Crossocerus annulipes,,Crossocerus,,annulipes,,species,,B206:1,accepted,,,B206:1:146,Blepharipus,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZLWM,4494871
+B206:1:149,Crossocerus ambiguus,,Crossocerus,,ambiguus,,species,,B206:1,synonym,B206:1:148,Crossocerus annulipes,,,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,6BHJ2,1338936
+B206:1:150,Crossocerus gonager,,Crossocerus,,gonager,,species,,B206:1,synonym,B206:1:148,Crossocerus annulipes,,,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZLZJ,8233976
+B206:1:151,Crossocerus capitosus,,Crossocerus,,capitosus,,species,,B206:1,accepted,,,B206:1:146,Blepharipus,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZLXQ,4494930
+B206:1:152,Crossocerus cetratus,,Crossocerus,,cetratus,,species,,B206:1,accepted,,,B206:1:146,Blepharipus,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZLXT,4494908
+B206:1:156,Crossocerus leucostoma,,Crossocerus,,leucostoma,,species,,B206:1,synonym,B206:1:155,Crossocerus megacephalus,,,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZM2W,9788106
+B206:1:154,Crossocerus carbonarius,,Crossocerus,,carbonarius,,species,,B206:1,synonym,B206:1:153,Crossocerus leucostoma,,,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZLXR,7693132
+B206:1:155,Crossocerus megacephalus,,Crossocerus,,megacephalus,,species,,B206:1,accepted,,,B206:1:146,Blepharipus,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZM3F,4494924
+B206:1:156,Crossocerus leucostoma,,Crossocerus,,leucostoma,,species,,B206:1,synonym,B206:1:155,Crossocerus megacephalus,,,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZM2W,9788106
+B206:1:157,Crossocerus leucostomoides,,Crossocerus,,leucostomoides,,species,,B206:1,synonym,B206:1:155,Crossocerus megacephalus,,,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZM2X,8023448
+B206:1:158,Crossocerus nigritus,,Crossocerus,,nigritus,,species,,B206:1,accepted,,,B206:1:146,Blepharipus,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZM4C,4494902
+B206:1:159,Crossocerus pubescens,,Crossocerus,,pubescens,,species,,B206:1,synonym,B206:1:158,Crossocerus nigritus,,,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,6BHJZ,11292616
+B206:1:160,Crossocerus inermis,,Crossocerus,,inermis,,species,,B206:1,synonym,B206:1:158,Crossocerus nigritus,,,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZM28,8169521
+B206:1:161,Crossocerus styrius,,Crossocerus,,styrius,,species,,B206:1,accepted,,,B206:1:146,Blepharipus,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZM7P,4494910
+B206:1:162,Crossocerus walkeri,,Crossocerus,,walkeri,,species,,B206:1,accepted,,,B206:1:146,Blepharipus,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZM95,4494917
+B206:1:163,Crossocerus aphidum,,Crossocerus,,aphidum,,species,,B206:1,synonym,B206:1:162,Crossocerus walkeri,,,,,,,Sphecidae,Crabroninae,Crossocerus,Blepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Blepharipus,ZLWQ,7654063
+B206:1:164,Ablepharipus,,,,,,subgenus,,B206:1,accepted,,,B206:1:130,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Ablepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus,LNQ,
+B206:1:165,Crossocerus podagricus,,Crossocerus,,podagricus,,species,,B206:1,accepted,,,B206:1:164,Ablepharipus,,,,,Sphecidae,Crabroninae,Crossocerus,Ablepharipus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Ablepharipus,ZM5M,4494906
+B206:1:166,Hoplocrabro,,,,,,subgenus,,B206:1,accepted,,,B206:1:130,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Hoplocrabro,Sphecoidea | Sphecidae | Crabroninae | Crossocerus,4YM5,
+B206:1:167,Crossocerus quadrimaculatus,,Crossocerus,,quadrimaculatus,,species,,B206:1,accepted,,,B206:1:166,Hoplocrabro,,,,,Sphecidae,Crabroninae,Crossocerus,Hoplocrabro,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Hoplocrabro,ZM65,4494932
+B206:1:168,Acanthocrabro,,,,,,subgenus,,B206:1,accepted,,,B206:1:130,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Acanthocrabro,Sphecoidea | Sphecidae | Crabroninae | Crossocerus,627YY,
+B206:1:169,Crossocerus vagabundus,,Crossocerus,,vagabundus,,species,,B206:1,accepted,,,B206:1:168,Acanthocrabro,,,,,Sphecidae,Crabroninae,Crossocerus,Acanthocrabro,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Acanthocrabro,ZM8W,4494888
+B206:1:170,Cuphopterus,,,,,,subgenus,,B206:1,accepted,,,B206:1:130,Crossocerus,,,,,Sphecidae,Crabroninae,Crossocerus,Cuphopterus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus,62PQ6,
+B206:1:171,Crossocerus binotatus,,Crossocerus,,binotatus,,species,,B206:1,accepted,,,B206:1:170,Cuphopterus,,,,,Sphecidae,Crabroninae,Crossocerus,Cuphopterus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Cuphopterus,ZLX7,4494874
+B206:1:172,Crossocerus confusus,,Crossocerus,,confusus,,species,,B206:1,synonym,B206:1:171,Crossocerus binotatus,,,,,,,Sphecidae,Crabroninae,Crossocerus,Cuphopterus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Cuphopterus,ZLY5,8258887
+B206:1:173,Crossocerus signatus,,Crossocerus,,signatus,,species,,B206:1,synonym,B206:1:171,Crossocerus binotatus,,,,,,,Sphecidae,Crabroninae,Crossocerus,Cuphopterus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Cuphopterus,,11258577
+B206:1:174,Crossocerus dimidiatus,,Crossocerus,,dimidiatus,,species,,B206:1,accepted,,,B206:1:170,Cuphopterus,,,,,Sphecidae,Crabroninae,Crossocerus,Cuphopterus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Cuphopterus,ZLYG,4494936
+B206:1:175,Crossocerus serripes,,Crossocerus,,serripes,,species,,B206:1,accepted,,,B206:1:170,Cuphopterus,,,,,Sphecidae,Crabroninae,Crossocerus,Cuphopterus,Sphecoidea | Sphecidae | Crabroninae | Crossocerus | Cuphopterus,,11267694
+B206:1:177,Ectemnius,,,,,,subgenus,,B206:1,accepted,,,B206:1:176,Ectemnius,,,,,Sphecidae,Crabroninae,Ectemnius,Ectemnius,Sphecoidea | Sphecidae | Crabroninae | Ectemnius,49VW,
+B206:1:177,Ectemnius,,,,,,subgenus,,B206:1,accepted,,,B206:1:176,Ectemnius,,,,,Sphecidae,Crabroninae,Ectemnius,Ectemnius,Sphecoidea | Sphecidae | Crabroninae | Ectemnius,49VW,
+B206:1:178,Ectemnius borealis,,Ectemnius,,borealis,,species,,B206:1,accepted,,,B206:1:177,Ectemnius,,,,,Sphecidae,Crabroninae,Ectemnius,Ectemnius,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Ectemnius,6DWGW,4494984
+B206:1:179,Ectemnius nigrinus,,Ectemnius,,nigrinus,,species,,B206:1,synonym,B206:1:178,Ectemnius borealis,,,,,,,Sphecidae,Crabroninae,Ectemnius,Ectemnius,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Ectemnius,38PJJ,7520224
+B206:1:180,Ectemnius dives,,Ectemnius,,dives,,species,,B206:1,accepted,,,B206:1:177,Ectemnius,,,,,Sphecidae,Crabroninae,Ectemnius,Ectemnius,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Ectemnius,38PG3,4494959
+B206:1:181,Clytochrysus,,,,,,subgenus,,B206:1,accepted,,,B206:1:176,Ectemnius,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius,3RCY,
+B206:1:182,Ectemnius cavifrons,,Ectemnius,,cavifrons,,species,,B206:1,accepted,,,B206:1:181,Clytochrysus,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Clytochrysus,6DWGZ,4494969
+B206:1:183,Ectemnius cephalotes:,,Ectemnius,,cephalotes:,,species,,B206:1,synonym,B206:1:182,Ectemnius cavifrons,,,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Clytochrysus,49VW,4298242
+B206:1:184,Ectemnius lapidarius,,Ectemnius,,lapidarius,,species,,B206:1,accepted,,,B206:1:181,Clytochrysus,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Clytochrysus,38PHL,4494963
+B206:1:185,Ectemnius chrysostomus,,Ectemnius,,chrysostomus,,species,,B206:1,synonym,B206:1:184,Ectemnius lapidarius,,,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Clytochrysus,38PF6,7440243
+B206:1:186,Ectemnius ruficornis,,Ectemnius,,ruficornis,,species,,B206:1,accepted,,,B206:1:181,Clytochrysus,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Clytochrysus,38PL5,9710800
+B206:1:187,Ectemnius nigrifrons,,Ectemnius,,nigrifrons,,species,,B206:1,synonym,B206:1:186,Ectemnius ruficornis,,,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Clytochrysus,38PJH,7568266
+B206:1:188,Ectemnius planifrons,,Ectemnius,,planifrons,,species,,B206:1,synonym,B206:1:186,Ectemnius ruficornis,,,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Clytochrysus,38PKJ,7954394
+B206:1:189,Ectemnius sexcinctus,,Ectemnius,,sexcinctus,,species,,B206:1,accepted,,,B206:1:181,Clytochrysus,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Clytochrysus,38PLM,4494948
+B206:1:190,Ectemnius zonatus,,Ectemnius,,zonatus,,species,,B206:1,synonym,B206:1:189,Ectemnius sexcinctus,,,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Clytochrysus,38PMT,7714037
+B206:1:191,Ectemnius saundersi,,Ectemnius,,saundersi,,species,,B206:1,synonym,B206:1:189,Ectemnius sexcinctus,,,,,,,Sphecidae,Crabroninae,Ectemnius,Clytochrysus,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Clytochrysus,,11320713
+B206:1:201,Ectemnius quadricinctus,,Ectemnius,,quadricinctus,,species,,B206:1,synonym,B206:1:200,Ectemnius cephalotes,,,,,,,Sphecidae,Crabroninae,Ectemnius,Metacrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Metacrabro,,9654929
+B206:1:193,Hypocrabro,,,,,,subgenus,,B206:1,accepted,,,B206:1:176,Ectemnius,,,,,Sphecidae,Crabroninae,Ectemnius,Hypocrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius,52PF,
+B206:1:194,Ectemnius continuus,,Ectemnius,,continuus,,species,,B206:1,accepted,,,B206:1:193,Hypocrabro,,,,,Sphecidae,Crabroninae,Ectemnius,Hypocrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Hypocrabro,38PFD,4494950
+B206:1:195,Ectemnius vagus,,Ectemnius,,vagus,,species,,B206:1,synonym,B206:1:194,Ectemnius continuus,,,,,,,Sphecidae,Crabroninae,Ectemnius,Hypocrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Hypocrabro,,6096902
+B206:1:196,Ectemnius rubicola,,Ectemnius,,rubicola,,species,,B206:1,accepted,,,B206:1:193,Hypocrabro,,,,,Sphecidae,Crabroninae,Ectemnius,Hypocrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Hypocrabro,38PL3,4494967
+B206:1:197,Ectemnius microstictus,,Ectemnius,,microstictus,,species,,B206:1,synonym,B206:1:196,Ectemnius rubicola,,,,,,,Sphecidae,Crabroninae,Ectemnius,Hypocrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Hypocrabro,38PJ5,8191910
+B206:1:198,Ectemnius larvatus,,Ectemnius,,larvatus,,species,,B206:1,synonym,B206:1:196,Ectemnius rubicola,,,,,,,Sphecidae,Crabroninae,Ectemnius,Hypocrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Hypocrabro,,11300836
+B206:1:199,Metacrabro,,,,,,subgenus,,B206:1,accepted,,,B206:1:176,Ectemnius,,,,,Sphecidae,Crabroninae,Ectemnius,Metacrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius,5Q8B,
+B206:1:200,Ectemnius cephalotes,,Ectemnius,,cephalotes,,species,,B206:1,accepted,,,B206:1:199,Metacrabro,,,,,Sphecidae,Crabroninae,Ectemnius,Metacrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Metacrabro,6DWGQ,4494946
+B206:1:201,Ectemnius quadricinctus,,Ectemnius,,quadricinctus,,species,,B206:1,synonym,B206:1:200,Ectemnius cephalotes,,,,,,,Sphecidae,Crabroninae,Ectemnius,Metacrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Metacrabro,,9654929
+B206:1:202,Ectemnius interruptus,,Ectemnius,,interruptus,,species,,B206:1,synonym,B206:1:200,Ectemnius cephalotes,,,,,,,Sphecidae,Crabroninae,Ectemnius,Metacrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Metacrabro,,11251731
+B206:1:203,Ectemnius lituratus,,Ectemnius,,lituratus,,species,,B206:1,accepted,,,B206:1:199,Metacrabro,,,,,Sphecidae,Crabroninae,Ectemnius,Metacrabro,Sphecoidea | Sphecidae | Crabroninae | Ectemnius | Metacrabro,38PHP,4494940
+B206:1:204,Lestica,,,,,,genus,,B206:1,accepted,,,B206:1:125,Crabroninae,,,,,Sphecidae,Crabroninae,Lestica,,Sphecoidea | Sphecidae | Crabroninae,5DMH,4298230
+B206:1:205,Clypeocrabro,,,,,,subgenus,,B206:1,accepted,,,B206:1:204,Lestica,,,,,Sphecidae,Crabroninae,Lestica,Clypeocrabro,Sphecoidea | Sphecidae | Crabroninae | Lestica,62KXJ,
+B206:1:206,Lestica clypeata,,Lestica,,clypeata,,species,,B206:1,accepted,,,B206:1:205,Clypeocrabro,,,,,Sphecidae,Crabroninae,Lestica,Clypeocrabro,Sphecoidea | Sphecidae | Crabroninae | Lestica | Clypeocrabro,7235Y,4495031
+B206:1:207,Lindenius,,,,,,genus,,B206:1,accepted,,,B206:1:125,Crabroninae,,,,,Sphecidae,Crabroninae,Lindenius,,Sphecoidea | Sphecidae | Crabroninae,62YQQ,4298232
+B206:1:208,Trachelosimus,,,,,,genus,,B206:1,synonym,B206:1:207,Lindenius,,,,,,,Sphecidae,Crabroninae,Trachelosimus,,Sphecoidea | Sphecidae | Crabroninae,7Y8V,4669671
+B206:1:209,Lindenius albilabris,,Lindenius,,albilabris,,species,,B206:1,accepted,,,B206:1:207,Lindenius,,,,,Sphecidae,Crabroninae,Lindenius,,Sphecoidea | Sphecidae | Crabroninae | Lindenius,72FY5,4494813
+B206:1:210,Lindenius panzeri,,Lindenius,,panzeri,,species,,B206:1,accepted,,,B206:1:207,Lindenius,,,,,Sphecidae,Crabroninae,Lindenius,,Sphecoidea | Sphecidae | Crabroninae | Lindenius,6QFYW,4494852
+B206:1:211,Lindenius pygmaeus,,Lindenius,,pygmaeus,,species,,B206:1,accepted,,,B206:1:207,Lindenius,,,,,Sphecidae,Crabroninae,Lindenius,,Sphecoidea | Sphecidae | Crabroninae | Lindenius,72FYT,4494824
+B206:1:212,Lindenius pygmaeus subsp. armatus,,Lindenius,,pygmaeus,armatus,subspecies,,B206:1,accepted,,,B206:1:211,Lindenius pygmaeus,,,,,Sphecidae,Crabroninae,Lindenius,,Sphecoidea | Sphecidae | Crabroninae | Lindenius | Lindenius pygmaeus,5JDMP,4494827
+B206:1:213,Entomognathus,,,,,,genus,,B206:1,accepted,,,B206:1:125,Crabroninae,,,,,Sphecidae,Crabroninae,Entomognathus,,Sphecoidea | Sphecidae | Crabroninae,4C6X,4298256
+B206:1:214,Entomognathus brevis,,Entomognathus,,brevis,,species,,B206:1,accepted,,,B206:1:213,Entomognathus,,,,,Sphecidae,Crabroninae,Entomognathus,,Sphecoidea | Sphecidae | Crabroninae | Entomognathus,6FGDN,4494856
+B206:1:217,Rhopalum,,,,,,subgenus,,B206:1,accepted,,,B206:1:215,Rhopalum,,,,,Sphecidae,Crabroninae,Rhopalum,Rhopalum,Sphecoidea | Sphecidae | Crabroninae | Rhopalum,63QFC,
+B206:1:216,Euplilis,,,,,,genus,,B206:1,synonym,B206:1:215,Rhopalum,,,,,,,Sphecidae,Crabroninae,Euplilis,,Sphecoidea | Sphecidae | Crabroninae,4GDJ,4679381
+B206:1:217,Rhopalum,,,,,,subgenus,,B206:1,accepted,,,B206:1:215,Rhopalum,,,,,Sphecidae,Crabroninae,Rhopalum,Rhopalum,Sphecoidea | Sphecidae | Crabroninae | Rhopalum,63QFC,
+B206:1:218,Rhopalum clavipes,,Rhopalum,,clavipes,,species,,B206:1,accepted,,,B206:1:217,Rhopalum,,,,,Sphecidae,Crabroninae,Rhopalum,Rhopalum,Sphecoidea | Sphecidae | Crabroninae | Rhopalum | Rhopalum,4SM46,4495009
+B206:1:219,Corynopus,,,,,,subgenus,,B206:1,accepted,,,B206:1:215,Rhopalum,,,,,Sphecidae,Crabroninae,Rhopalum,Corynopus,Sphecoidea | Sphecidae | Crabroninae | Rhopalum,62NWQ,
+B206:1:220,Rhopalum coarctatum,,Rhopalum,,coarctatum,,species,,B206:1,accepted,,,B206:1:219,Corynopus,,,,,Sphecidae,Crabroninae,Rhopalum,Corynopus,Sphecoidea | Sphecidae | Crabroninae | Rhopalum | Corynopus,4SM49,4495005
+B206:1:221,Rhopalum tibiale,,Rhopalum,,tibiale,,species,,B206:1,synonym,B206:1:220,Rhopalum coarctatum,,,,,,,Sphecidae,Crabroninae,Rhopalum,Corynopus,Sphecoidea | Sphecidae | Crabroninae | Rhopalum | Corynopus,4SMBN,8102406
+B206:1:222,Rhopalum gracile,,Rhopalum,,gracile,,species,,B206:1,accepted,,,B206:1:219,Corynopus,,,,,Sphecidae,Crabroninae,Rhopalum,Corynopus,Sphecoidea | Sphecidae | Crabroninae | Rhopalum | Corynopus,4SM6D,4495003
+B206:1:223,Rhopalum nigrinum,,Rhopalum,,nigrinum,,species,,B206:1,synonym,B206:1:222,Rhopalum gracile,,,,,,,Sphecidae,Crabroninae,Rhopalum,Corynopus,Sphecoidea | Sphecidae | Crabroninae | Rhopalum | Corynopus,4SM8K,6096901
+B206:1:224,Rhopalum kiesenwetteri,,Rhopalum,,kiesenwetteri,,species,,B206:1,synonym,B206:1:222,Rhopalum gracile,,,,,,,Sphecidae,Crabroninae,Rhopalum,Corynopus,Sphecoidea | Sphecidae | Crabroninae | Rhopalum | Corynopus,4SM7C,7741766
+B206:1:225,Oxybelus,,,,,,genus,,B206:1,accepted,,,B206:1:125,Crabroninae,,,,,Sphecidae,Crabroninae,Oxybelus,,Sphecoidea | Sphecidae | Crabroninae,6B8H,
+B206:1:226,Oxybelus argentatus,,Oxybelus,,argentatus,,species,,B206:1,accepted,,,B206:1:225,Oxybelus,,,,,Sphecidae,Crabroninae,Oxybelus,,Sphecoidea | Sphecidae | Crabroninae | Oxybelus,4BCML,9076866
+B206:1:227,Oxybelus mucronatus,,Oxybelus,,mucronatus,,species,,B206:1,synonym,B206:1:226,Oxybelus argentatus,,,,,,,Sphecidae,Crabroninae,Oxybelus,,Sphecoidea | Sphecidae | Crabroninae | Oxybelus,75FXV,9740966
+B206:1:228,Oxybelus mandibularis,,Oxybelus,,mandibularis,,species,,B206:1,accepted,,,B206:1:225,Oxybelus,,,,,Sphecidae,Crabroninae,Oxybelus,,Sphecoidea | Sphecidae | Crabroninae | Oxybelus,4BCTG,4494798
+B206:1:229,Oxybelus sericatus,,Oxybelus,,sericatus,,species,,B206:1,synonym,B206:1:228,Oxybelus mandibularis,,,,,,,Sphecidae,Crabroninae,Oxybelus,,Sphecoidea | Sphecidae | Crabroninae | Oxybelus,4BCXG,7534198
+B206:1:230,Oxybelus uniglumis,,Oxybelus,,uniglumis,,species,,B206:1,accepted,,,B206:1:225,Oxybelus,,,,,Sphecidae,Crabroninae,Oxybelus,,Sphecoidea | Sphecidae | Crabroninae | Oxybelus,4BCZ3,4494793
+B206:1:231,Pemphredoninae,,,,,,subfamily,,B206:1,accepted,,,B206:1:97,Sphecidae,,,,,Sphecidae,Pemphredoninae,,,Sphecoidea | Sphecidae,K47,
+B206:1:233,Psen,,,,,,subgenus,,B206:1,accepted,,,B206:1:232,Psen,,,,,Sphecidae,Pemphredoninae,Psen,Psen,Sphecoidea | Sphecidae | Pemphredoninae | Psen,6YGJ,
+B206:1:233,Psen,,,,,,subgenus,,B206:1,accepted,,,B206:1:232,Psen,,,,,Sphecidae,Pemphredoninae,Psen,Psen,Sphecoidea | Sphecidae | Pemphredoninae | Psen,6YGJ,
+B206:1:234,Psen ater,,Psen,,ater,,species,,B206:1,accepted,,,B206:1:233,Psen,,,,,Sphecidae,Pemphredoninae,Psen,Psen,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Psen,4NFZM,9795831
+B206:1:235,Mimumesa,,,,,,subgenus,,B206:1,accepted,,,B206:1:232,Psen,,,,,Sphecidae,Pemphredoninae,Psen,Mimumesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen,5T9C,
+B206:1:236,Psen atratinus,,Psen,,atratinus,,species,,B206:1,accepted,,,B206:1:235,Mimumesa,,,,,Sphecidae,Pemphredoninae,Psen,Mimumesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimumesa,4NFZP,7601676
+B206:1:237,Psen belgicus,,Psen,,belgicus,,species,,B206:1,synonym,B206:1:236,Psen atratinus,,,,,,,Sphecidae,Pemphredoninae,Psen,Mimumesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimumesa,4NG27,8095684
+B206:1:238,Psen dahlbomi,,Psen,,dahlbomi,,species,,B206:1,accepted,,,B206:1:235,Mimumesa,,,,,Sphecidae,Pemphredoninae,Psen,Mimumesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimumesa,4NG3K,7635930
+B206:1:239,Psen littoralis,,Psen,,littoralis,,species,,B206:1,accepted,,,B206:1:235,Mimumesa,,,,,Sphecidae,Pemphredoninae,Psen,Mimumesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimumesa,4NG5R,7381613
+B206:1:240,Psen celtica,,Psen,,celtica,,species,,B206:1,synonym,B206:1:239,Psen littoralis,,,,,,,Sphecidae,Pemphredoninae,Psen,Mimumesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimumesa,6YGJ,3258994
+B206:1:243,Psen unicolor:,,Psen,,unicolor:,,species,,B206:1,synonym,B206:1:242,Psen spooneri,,,,,,,Sphecidae,Pemphredoninae,Psen,Mimumesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimumesa,6YGJ,3258994
+B206:1:242,Psen spooneri,,Psen,,spooneri,,species,,B206:1,accepted,,,B206:1:235,Mimumesa,,,,,Sphecidae,Pemphredoninae,Psen,Mimumesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimumesa,4NG9B,8125021
+B206:1:243,Psen unicolor:,,Psen,,unicolor:,,species,,B206:1,synonym,B206:1:242,Psen spooneri,,,,,,,Sphecidae,Pemphredoninae,Psen,Mimumesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimumesa,6YGJ,3258994
+B206:1:244,Mimesa,,,,,,subgenus,,B206:1,accepted,,,B206:1:232,Psen,,,,,Sphecidae,Pemphredoninae,Psen,Mimesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen,5SYS,
+B206:1:250,Psen bicolor,,Psen,,bicolor,,species,,B206:1,synonym,B206:1:249,Psen equestris,,,,,,,Sphecidae,Pemphredoninae,Psen,Mimesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimesa,4NG2B,4494397
+B206:1:249,Psen equestris,,Psen,,equestris,,species,,B206:1,accepted,,,B206:1:244,Mimesa,,,,,Sphecidae,Pemphredoninae,Psen,Mimesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimesa,4NG3Z,7961252
+B206:1:247,Psen rufa:,,Psen,,rufa:,,species,,B206:1,synonym,B206:1:245,Psen bicolor,,,,,,,Sphecidae,Pemphredoninae,Psen,Mimesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimesa,6YGJ,3258994
+B206:1:248,Psen bruxellensis,,Psen,,bruxellensis,,species,,B206:1,accepted,,,B206:1:244,Mimesa,,,,,Sphecidae,Pemphredoninae,Psen,Mimesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimesa,4NG2K,7415621
+B206:1:249,Psen equestris,,Psen,,equestris,,species,,B206:1,accepted,,,B206:1:244,Mimesa,,,,,Sphecidae,Pemphredoninae,Psen,Mimesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimesa,4NG3Z,7961252
+B206:1:250,Psen bicolor,,Psen,,bicolor,,species,,B206:1,synonym,B206:1:249,Psen equestris,,,,,,,Sphecidae,Pemphredoninae,Psen,Mimesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimesa,4NG2B,4494397
+B206:1:251,Psen lutarius,,Psen,,lutarius,,species,,B206:1,accepted,,,B206:1:244,Mimesa,,,,,Sphecidae,Pemphredoninae,Psen,Mimesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimesa,4NG62,7352106
+B206:1:252,Psen shuckardi,,Psen,,shuckardi,,species,,B206:1,synonym,B206:1:251,Psen lutarius,,,,,,,Sphecidae,Pemphredoninae,Psen,Mimesa,Sphecoidea | Sphecidae | Pemphredoninae | Psen | Mimesa,4NG8W,8113934
+B206:1:253,Psenulus,,,,,,genus,,B206:1,accepted,,,B206:1:231,Pemphredoninae,,,,,Sphecidae,Pemphredoninae,Psenulus,,Sphecoidea | Sphecidae | Pemphredoninae,6YGW,4298316
+B206:1:254,Diodontus:,,,,,,genus,,B206:1,synonym,B206:1:253,Psenulus,,,,,,,Sphecidae,Pemphredoninae,Diodontus:,,Sphecoidea | Sphecidae | Pemphredoninae,,
+B206:1:255,Psenulus concolor,,Psenulus,,concolor,,species,,B206:1,accepted,,,B206:1:253,Psenulus,,,,,Sphecidae,Pemphredoninae,Psenulus,,Sphecoidea | Sphecidae | Pemphredoninae | Psenulus,4NGF9,4494379
+B206:1:256,Psenulus pallipes,,Psenulus,,pallipes,,species,,B206:1,accepted,,,B206:1:253,Psenulus,,,,,Sphecidae,Pemphredoninae,Psenulus,,Sphecoidea | Sphecidae | Pemphredoninae | Psenulus,4NGJ2,9746699
+B206:1:257,Psenulus atratus,,Psenulus,,atratus,,species,,B206:1,synonym,B206:1:256,Psenulus pallipes,,,,,,,Sphecidae,Pemphredoninae,Psenulus,,Sphecoidea | Sphecidae | Pemphredoninae | Psenulus,78D6S,7846856
+B206:1:258,Psenulus schencki,,Psenulus,,schencki,,species,,B206:1,accepted,,,B206:1:253,Psenulus,,,,,Sphecidae,Pemphredoninae,Psenulus,,Sphecoidea | Sphecidae | Pemphredoninae | Psenulus,6WD7C,4494381
+B206:1:259,Spilomena,,,,,,genus,,B206:1,accepted,,,B206:1:231,Pemphredoninae,,,,,Sphecidae,Pemphredoninae,Spilomena,,Sphecoidea | Sphecidae | Pemphredoninae,7KZM,1346854
+B206:1:260,Spilomena beata,,Spilomena,,beata,,species,,B206:1,accepted,,,B206:1:259,Spilomena,,,,,Sphecidae,Pemphredoninae,Spilomena,,Sphecoidea | Sphecidae | Pemphredoninae | Spilomena,4Z447,4494312
+B206:1:261,Spilomena differens,,Spilomena,,differens,,species,,B206:1,accepted,,,B206:1:259,Spilomena,,,,,Sphecidae,Pemphredoninae,Spilomena,,Sphecoidea | Sphecidae | Pemphredoninae | Spilomena,4Z44K,7973038
+B206:1:262,Spilomena enslini,,Spilomena,,enslini,,species,,B206:1,accepted,,,B206:1:259,Spilomena,,,,,Sphecidae,Pemphredoninae,Spilomena,,Sphecoidea | Sphecidae | Pemphredoninae | Spilomena,4Z44S,4494319
+B206:1:263,Spilomena troglodytes,,Spilomena,,troglodytes,,species,,B206:1,accepted,,,B206:1:259,Spilomena,,,,,Sphecidae,Pemphredoninae,Spilomena,,Sphecoidea | Sphecidae | Pemphredoninae | Spilomena,4Z46J,9803824
+B206:1:264,Spilomena vagans,,Spilomena,,vagans,,species,,B206:1,accepted,,,B206:1:259,Spilomena,,,,,Sphecidae,Pemphredoninae,Spilomena,,Sphecoidea | Sphecidae | Pemphredoninae | Spilomena,4Z46M,8634634
+B206:1:265,Stigmus,,,,,,genus,,B206:1,accepted,,,B206:1:231,Pemphredoninae,,,,,Sphecidae,Pemphredoninae,Stigmus,,Sphecoidea | Sphecidae | Pemphredoninae,7NMM,4406817
+B206:1:266,Stigmus solskyi,,Stigmus,,solskyi,,species,,B206:1,accepted,,,B206:1:265,Stigmus,,,,,Sphecidae,Pemphredoninae,Stigmus,,Sphecoidea | Sphecidae | Pemphredoninae | Stigmus,52NNK,4494338
+B206:1:268,Pemphredon,,,,,,subgenus,,B206:1,accepted,,,B206:1:267,Pemphredon,,,,,Sphecidae,Pemphredoninae,Pemphredon,Pemphredon,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon,6KKB,
+B206:1:268,Pemphredon,,,,,,subgenus,,B206:1,accepted,,,B206:1:267,Pemphredon,,,,,Sphecidae,Pemphredoninae,Pemphredon,Pemphredon,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon,6KKB,
+B206:1:269,Pemphredon lugubris,,Pemphredon,,lugubris,,species,,B206:1,accepted,,,B206:1:268,Pemphredon,,,,,Sphecidae,Pemphredoninae,Pemphredon,Pemphredon,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Pemphredon,76HFR,4494286
+B206:1:270,Cemonus,,,,,,subgenus,,B206:1,accepted,,,B206:1:267,Pemphredon,,,,,Sphecidae,Pemphredoninae,Pemphredon,Cemonus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon,3K3Z,
+B206:1:271,Pemphredon enslini,,Pemphredon,,enslini,,species,,B206:1,accepted,,,B206:1:270,Cemonus,,,,,Sphecidae,Pemphredoninae,Pemphredon,Cemonus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Cemonus,76HGP,6096905
+B206:1:272,Pemphredon inornata,,Pemphredon,,inornata,,species,,B206:1,accepted,,,B206:1:270,Cemonus,,,,,Sphecidae,Pemphredoninae,Pemphredon,Cemonus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Cemonus,76HH9,1338938
+B206:1:273,Pemphredon shuckardi,,Pemphredon,,shuckardi,,species,,B206:1,synonym,B206:1:272,Pemphredon inornata,,,,,,,Sphecidae,Pemphredoninae,Pemphredon,Cemonus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Cemonus,76GX9,8352007
+B206:1:274,Pemphredon lethifer,,Pemphredon,,lethifer,,species,,B206:1,accepted,,,B206:1:270,Cemonus,,,,,Sphecidae,Pemphredoninae,Pemphredon,Cemonus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Cemonus,76HFL,4494274
+B206:1:275,Pemphredon mortifer,,Pemphredon,,mortifer,,species,,B206:1,accepted,,,B206:1:270,Cemonus,,,,,Sphecidae,Pemphredoninae,Pemphredon,Cemonus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Cemonus,76HFY,7451523
+B206:1:277,Pemphredon wesmaeli,,Pemphredon,,wesmaeli,,species,,B206:1,accepted,,,B206:1:270,Cemonus,,,,,Sphecidae,Pemphredoninae,Pemphredon,Cemonus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Cemonus,76H9F,7906236
+B206:1:277,Pemphredon wesmaeli,,Pemphredon,,wesmaeli,,species,,B206:1,accepted,,,B206:1:270,Cemonus,,,,,Sphecidae,Pemphredoninae,Pemphredon,Cemonus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Cemonus,76H9F,7906236
+B206:1:278,Pemphredon rugifer,,Pemphredon,,rugifer,,species,,B206:1,synonym,B206:1:277,Pemphredon wesmaeli,,,,,,,Sphecidae,Pemphredoninae,Pemphredon,Cemonus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Cemonus,76H8V,4494277
+B206:1:279,Pemphredon scoticus,,Pemphredon,,scoticus,,species,,B206:1,synonym,B206:1:277,Pemphredon wesmaeli,,,,,,,Sphecidae,Pemphredoninae,Pemphredon,Cemonus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Cemonus,76GWW,8079074
+B206:1:280,Ceratophorus,,,,,,subgenus,,B206:1,accepted,,,B206:1:267,Pemphredon,,,,,Sphecidae,Pemphredoninae,Pemphredon,Ceratophorus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon,3KV2,
+B206:1:281,Pemphredon clypealis,,Pemphredon,,clypealis,,species,,B206:1,accepted,,,B206:1:280,Ceratophorus,,,,,Sphecidae,Pemphredoninae,Pemphredon,Ceratophorus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Ceratophorus,76HGB,7456437
+B206:1:282,Pemphredon morio,,Pemphredon,,morio,,species,,B206:1,accepted,,,B206:1:280,Ceratophorus,,,,,Sphecidae,Pemphredoninae,Pemphredon,Ceratophorus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Ceratophorus,76HG9,4494283
+B206:1:283,Pemphredon anthracinus,,Pemphredon,,anthracinus,,species,,B206:1,synonym,B206:1:282,Pemphredon morio,,,,,,,Sphecidae,Pemphredoninae,Pemphredon,Ceratophorus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Ceratophorus,76HDN,8249695
+B206:1:284,Pemphredon carinatus,,Pemphredon,,carinatus,,species,,B206:1,synonym,B206:1:282,Pemphredon morio,,,,,,,Sphecidae,Pemphredoninae,Pemphredon,Ceratophorus,Sphecoidea | Sphecidae | Pemphredoninae | Pemphredon | Ceratophorus,76HDY,7764263
+B206:1:285,Diodontus,,,,,,genus,,B206:1,accepted,,,B206:1:231,Pemphredoninae,,,,,Sphecidae,Pemphredoninae,Diodontus,,Sphecoidea | Sphecidae | Pemphredoninae,45VY,3258615
+B206:1:286,Xylocelia,,,,,,genus,,B206:1,synonym,B206:1:285,Diodontus,,,,,,,Sphecidae,Pemphredoninae,Xylocelia,,Sphecoidea | Sphecidae | Pemphredoninae,89GJ,4680256
+B206:1:287,Diodontus insidiosus,,Diodontus,,insidiosus,,species,,B206:1,accepted,,,B206:1:285,Diodontus,,,,,Sphecidae,Pemphredoninae,Diodontus,,Sphecoidea | Sphecidae | Pemphredoninae | Diodontus,6D7P6,6096897
+B206:1:288,Diodontus friesei,,Diodontus,,friesei,,species,,B206:1,synonym,B206:1:287,Diodontus insidiosus,,,,,,,Sphecidae,Pemphredoninae,Diodontus,,Sphecoidea | Sphecidae | Pemphredoninae | Diodontus,6D7P8,8060822
+B206:1:289,Diodontus luperus,,Diodontus,,luperus,,species,,B206:1,accepted,,,B206:1:285,Diodontus,,,,,Sphecidae,Pemphredoninae,Diodontus,,Sphecoidea | Sphecidae | Pemphredoninae | Diodontus,6D7QC,6096895
+B206:1:290,Diodontus minutus,,Diodontus,,minutus,,species,,B206:1,accepted,,,B206:1:285,Diodontus,,,,,Sphecidae,Pemphredoninae,Diodontus,,Sphecoidea | Sphecidae | Pemphredoninae | Diodontus,6D82F,6096894
+B206:1:291,Diodontus tristis,,Diodontus,,tristis,,species,,B206:1,accepted,,,B206:1:285,Diodontus,,,,,Sphecidae,Pemphredoninae,Diodontus,,Sphecoidea | Sphecidae | Pemphredoninae | Diodontus,6CVPV,6096896
+B206:1:292,Passaloecus,,,,,,genus,,B206:1,accepted,,,B206:1:231,Pemphredoninae,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae,6JFJ,4298321
+B206:1:293,Passaloecus clypealis,,Passaloecus,,clypealis,,species,,B206:1,accepted,,,B206:1:292,Passaloecus,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWWX,4494304
+B206:1:294,Passaloecus corniger,,Passaloecus,,corniger,,species,,B206:1,accepted,,,B206:1:292,Passaloecus,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWWZ,8257080
+B206:1:295,Passaloecus eremita,,Passaloecus,,eremita,,species,,B206:1,accepted,,,B206:1:292,Passaloecus,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,6TT23,4494295
+B206:1:303,Passaloecus gracilis,,Passaloecus,,gracilis,,species,,B206:1,synonym,B206:1:302,Passaloecus singularis,,,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWXH,9769056
+B206:1:299,Passaloecus insignis,,Passaloecus,,insignis,,species,,B206:1,accepted,,,B206:1:292,Passaloecus,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWXL,9756939
+B206:1:298,Passaloecus turionum,,Passaloecus,,turionum,,species,,B206:1,synonym,B206:1:296,Passaloecus gracilis,,,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWYV,4494293
+B206:1:299,Passaloecus insignis,,Passaloecus,,insignis,,species,,B206:1,accepted,,,B206:1:292,Passaloecus,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWXL,9756939
+B206:1:300,Passaloecus roettgeni,,Passaloecus,,roettgeni,,species,,B206:1,synonym,B206:1:299,Passaloecus insignis,,,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWYJ,8334614
+B206:1:301,Passaloecus monilicornis,,Passaloecus,,monilicornis,,species,,B206:1,accepted,,,B206:1:292,Passaloecus,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWY5,4494301
+B206:1:302,Passaloecus singularis,,Passaloecus,,singularis,,species,,B206:1,accepted,,,B206:1:292,Passaloecus,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWYN,4494302
+B206:1:303,Passaloecus gracilis,,Passaloecus,,gracilis,,species,,B206:1,synonym,B206:1:302,Passaloecus singularis,,,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWXH,9769056
+B206:1:304,Passaloecus tenuis,,Passaloecus,,tenuis,,species,,B206:1,synonym,B206:1:302,Passaloecus singularis,,,,,,,Sphecidae,Pemphredoninae,Passaloecus,,Sphecoidea | Sphecidae | Pemphredoninae | Passaloecus,4DWYS,7601432
+B206:1:305,Sphecinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:97,Sphecidae,,,,,Sphecidae,Sphecinae,,,Sphecoidea | Sphecidae,KCR,
+B206:1:306,Ammophila,,,,,,genus,,B206:1,accepted,,,B206:1:305,Sphecinae,,,,,Sphecidae,Sphecinae,Ammophila,,Sphecoidea | Sphecidae | Sphecinae,,1346141
+B206:1:307,Sphex,,,,,,genus,,B206:1,synonym,B206:1:306,Ammophila,,,,,,,Sphecidae,Sphecinae,Sphex,,Sphecoidea | Sphecidae | Sphecinae,7KTP,1311747
+B206:1:308,Ammophila pubescens,,Ammophila,,pubescens,,species,,B206:1,accepted,,,B206:1:306,Ammophila,,,,,Sphecidae,Sphecinae,Ammophila,,Sphecoidea | Sphecidae | Sphecinae | Ammophila,CV6K,5041099
+B206:1:309,Ammophila campestris,,Ammophila,,campestris,,species,,B206:1,synonym,B206:1:308,Ammophila pubescens,,,,,,,Sphecidae,Sphecinae,Ammophila,,Sphecoidea | Sphecidae | Sphecinae | Ammophila,66D2N,5041208
+B206:1:310,Ammophila sabulosa,,Ammophila,,sabulosa,,species,,B206:1,accepted,,,B206:1:306,Ammophila,,,,,Sphecidae,Sphecinae,Ammophila,,Sphecoidea | Sphecidae | Sphecinae | Ammophila,CV7M,5041296
+B206:1:311,Podalonia,,,,,,genus,,B206:1,accepted,,,B206:1:305,Sphecinae,,,,,Sphecidae,Sphecinae,Podalonia,,Sphecoidea | Sphecidae | Sphecinae,63NKS,1347780
+B206:1:312,Podalonia affinis,,Podalonia,,affinis,,species,,B206:1,accepted,,,B206:1:311,Podalonia,,,,,Sphecidae,Sphecinae,Podalonia,,Sphecoidea | Sphecidae | Sphecinae | Podalonia,4KP93,1347885
+B206:1:313,Podalonia lutaria,,Podalonia,,lutaria,,species,,B206:1,synonym,B206:1:312,Podalonia affinis,,,,,,,Sphecidae,Sphecinae,Podalonia,,Sphecoidea | Sphecidae | Sphecinae | Podalonia,,6097195
+B206:1:314,Podalonia hirsuta,,Podalonia,,hirsuta,,species,,B206:1,accepted,,,B206:1:311,Podalonia,,,,,Sphecidae,Sphecinae,Podalonia,,Sphecoidea | Sphecidae | Sphecinae | Podalonia,77R9Q,1347914
+B206:1:315,Podalonia viatica,,Podalonia,,viatica,,species,,B206:1,synonym,B206:1:314,Podalonia hirsuta,,,,,,,Sphecidae,Sphecinae,Podalonia,,Sphecoidea | Sphecidae | Sphecinae | Podalonia,,11235262
+B206:1:316,Mellininae,,,,,,subfamily,,B206:1,accepted,,,B206:1:97,Sphecidae,,,,,Sphecidae,Mellininae,,,Sphecoidea | Sphecidae,JW4,
+B206:1:317,Mellinus,,,,,,genus,,B206:1,accepted,,,B206:1:316,Mellininae,,,,,Sphecidae,Mellininae,Mellinus,,Sphecoidea | Sphecidae | Mellininae,5NTH,4298202
+B206:1:318,Mellinus arvensis,,Mellinus,,arvensis,,species,,B206:1,accepted,,,B206:1:317,Mellinus,,,,,Sphecidae,Mellininae,Mellinus,,Sphecoidea | Sphecidae | Mellininae | Mellinus,3ZL7F,4494417
+B206:1:319,Mellinus vagus,,Mellinus,,vagus,,species,,B206:1,synonym,B206:1:318,Mellinus arvensis,,,,,,,Sphecidae,Mellininae,Mellinus,,Sphecoidea | Sphecidae | Mellininae | Mellinus,3ZL8R,7759764
+B206:1:320,Mellinus crabroneus,,Mellinus,,crabroneus,,species,,B206:1,accepted,,,B206:1:317,Mellinus,,,,,Sphecidae,Mellininae,Mellinus,,Sphecoidea | Sphecidae | Mellininae | Mellinus,3ZL7P,4494415
+B206:1:321,Mellinus sabulosa,,Mellinus,,sabulosa,,species,,B206:1,synonym,B206:1:320,Mellinus crabroneus,,,,,,,Sphecidae,Mellininae,Mellinus,,Sphecoidea | Sphecidae | Mellininae | Mellinus,3ZL8H,7926085
+B206:1:322,Nyssoninae,,,,,,subfamily,,B206:1,accepted,,,B206:1:97,Sphecidae,,,,,Sphecidae,Nyssoninae,,,Sphecoidea | Sphecidae,,
+B206:1:323,Nysson,,,,,,genus,,B206:1,accepted,,,B206:1:322,Nyssoninae,,,,,Sphecidae,Nyssoninae,Nysson,,Sphecoidea | Sphecidae | Nyssoninae,6663,4298382
+B206:1:324,Nysson dimidiatus,,Nysson,,dimidiatus,,species,,B206:1,accepted,,,B206:1:323,Nysson,,,,,Sphecidae,Nyssoninae,Nysson,,Sphecoidea | Sphecidae | Nyssoninae | Nysson,488D3,4494665
+B206:1:325,Nysson interruptus,,Nysson,,interruptus,,species,,B206:1,accepted,,,B206:1:323,Nysson,,,,,Sphecidae,Nyssoninae,Nysson,,Sphecoidea | Sphecidae | Nyssoninae | Nysson,74CFJ,4494644
+B206:1:326,Nysson spinosus,,Nysson,,spinosus,,species,,B206:1,accepted,,,B206:1:323,Nysson,,,,,Sphecidae,Nyssoninae,Nysson,,Sphecoidea | Sphecidae | Nyssoninae | Nysson,488J7,9791194
+B206:1:327,Nysson trimaculatus,,Nysson,,trimaculatus,,species,,B206:1,accepted,,,B206:1:323,Nysson,,,,,Sphecidae,Nyssoninae,Nysson,,Sphecoidea | Sphecidae | Nyssoninae | Nysson,488JM,4494654
+B206:1:328,Alysson,,,,,,genus,,B206:1,accepted,,,B206:1:322,Nyssoninae,,,,,Sphecidae,Nyssoninae,Alysson,,Sphecoidea | Sphecidae | Nyssoninae,628TF,3693043
+B206:1:329,Didineis,,,,,,subgenus,,B206:1,accepted,,,B206:1:328,Alysson,,,,,Sphecidae,Nyssoninae,Alysson,Didineis,Sphecoidea | Sphecidae | Nyssoninae | Alysson,456C,
+B206:1:330,Alysson lunicornis,,Alysson,,lunicornis,,species,,B206:1,accepted,,,B206:1:329,Didineis,,,,,Sphecidae,Nyssoninae,Alysson,Didineis,Sphecoidea | Sphecidae | Nyssoninae | Alysson | Didineis,CCFN,8288346
+B206:1:332,Gorytes,,,,,,subgenus,,B206:1,accepted,,,B206:1:331,Gorytes,,,,,Sphecidae,Nyssoninae,Gorytes,Gorytes,Sphecoidea | Sphecidae | Nyssoninae | Gorytes,4QFG,
+B206:1:332,Gorytes,,,,,,subgenus,,B206:1,accepted,,,B206:1:331,Gorytes,,,,,Sphecidae,Nyssoninae,Gorytes,Gorytes,Sphecoidea | Sphecidae | Nyssoninae | Gorytes,4QFG,
+B206:1:333,Hoplisus,,,,,,subgenus,,B206:1,synonym,B206:1:332,Gorytes,,,,,,,Sphecidae,Nyssoninae,Gorytes,Hoplisus,Sphecoidea | Sphecidae | Nyssoninae | Gorytes,4YKM,
+B206:1:334,Gorytes laticinctus,,Gorytes,,laticinctus,,species,,B206:1,accepted,,,B206:1:332,Gorytes,,,,,Sphecidae,Nyssoninae,Gorytes,Gorytes,Sphecoidea | Sphecidae | Nyssoninae | Gorytes | Gorytes,3H3W9,8997839
+B206:1:335,Gorytes quadrifasciatus,,Gorytes,,quadrifasciatus,,species,,B206:1,accepted,,,B206:1:332,Gorytes,,,,,Sphecidae,Nyssoninae,Gorytes,Gorytes,Sphecoidea | Sphecidae | Nyssoninae | Gorytes | Gorytes,3H422,4494518
+B206:1:336,Lestiphorus,,,,,,subgenus,,B206:1,accepted,,,B206:1:331,Gorytes,,,,,Sphecidae,Nyssoninae,Gorytes,Lestiphorus,Sphecoidea | Sphecidae | Nyssoninae | Gorytes,5DMR,
+B206:1:337,Gorytes bicinctus,,Gorytes,,bicinctus,,species,,B206:1,accepted,,,B206:1:336,Lestiphorus,,,,,Sphecidae,Nyssoninae,Gorytes,Lestiphorus,Sphecoidea | Sphecidae | Nyssoninae | Gorytes | Lestiphorus,3H3Q9,8299413
+B206:1:338,Dienoplus,,,,,,subgenus,,B206:1,accepted,,,B206:1:331,Gorytes,,,,,Sphecidae,Nyssoninae,Gorytes,Dienoplus,Sphecoidea | Sphecidae | Nyssoninae | Gorytes,62RC9,
+B206:1:339,Harpactus,,,,,,subgenus,,B206:1,synonym,B206:1:338,Dienoplus,,,,,,,Sphecidae,Nyssoninae,Gorytes,Harpactus,Sphecoidea | Sphecidae | Nyssoninae | Gorytes,4TSL,
+B206:1:340,Gorytes tumidus,,Gorytes,,tumidus,,species,,B206:1,accepted,,,B206:1:338,Dienoplus,,,,,Sphecidae,Nyssoninae,Gorytes,Dienoplus,Sphecoidea | Sphecidae | Nyssoninae | Gorytes | Dienoplus,3H44N,8383254
+B206:1:341,Argogorytes,,,,,,genus,,B206:1,accepted,,,B206:1:322,Nyssoninae,,,,,Sphecidae,Nyssoninae,Argogorytes,,Sphecoidea | Sphecidae | Nyssoninae,32NH,1346025
+B206:1:342,Argogorytes fargeii,,Argogorytes,,fargeii,,species,,B206:1,accepted,,,B206:1:341,Argogorytes,,,,,Sphecidae,Nyssoninae,Argogorytes,,Sphecoidea | Sphecidae | Nyssoninae | Argogorytes,GH88,4494632
+B206:1:345,Argogorytes campestris,,Argogorytes,,campestris,,species,,B206:1,synonym,B206:1:344,Argogorytes mystaceus,,,,,,,Sphecidae,Nyssoninae,Argogorytes,,Sphecoidea | Sphecidae | Nyssoninae | Argogorytes,,11369740
+B206:1:344,Argogorytes mystaceus,,Argogorytes,,mystaceus,,species,,B206:1,accepted,,,B206:1:341,Argogorytes,,,,,Sphecidae,Nyssoninae,Argogorytes,,Sphecoidea | Sphecidae | Nyssoninae | Argogorytes,5W2SM,4494634
+B206:1:345,Argogorytes campestris,,Argogorytes,,campestris,,species,,B206:1,synonym,B206:1:344,Argogorytes mystaceus,,,,,,,Sphecidae,Nyssoninae,Argogorytes,,Sphecoidea | Sphecidae | Nyssoninae | Argogorytes,,11369740
+B206:1:346,Philanthinae,,,,,,subfamily,,B206:1,accepted,,,B206:1:97,Sphecidae,,,,,Sphecidae,Philanthinae,,,Sphecoidea | Sphecidae,K55,
+B206:1:347,Cerceris,,,,,,genus,,B206:1,accepted,,,B206:1:346,Philanthinae,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae,3KYS,1312205
+B206:1:348,Cerceris arenaria,,Cerceris,,arenaria,,species,,B206:1,accepted,,,B206:1:347,Cerceris,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,SR53,4495217
+B206:1:349,Cerceris quadricincta,,Cerceris,,quadricincta,,species,,B206:1,accepted,,,B206:1:347,Cerceris,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,SS3T,4495207
+B206:1:350,Cerceris quinquefasciata,,Cerceris,,quinquefasciata,,species,,B206:1,accepted,,,B206:1:347,Cerceris,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,SS49,4495233
+B206:1:351,Cerceris interrupta:,,Cerceris,,interrupta:,,species,,B206:1,synonym,B206:1:350,Cerceris quinquefasciata,,,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,3KYS,1312205
+B206:1:352,Cerceris ruficornis,,Cerceris,,ruficornis,,species,,B206:1,accepted,,,B206:1:347,Cerceris,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,SS5R,4495242
+B206:1:353,Cerceris labiata,,Cerceris,,labiata,,species,,B206:1,synonym,B206:1:352,Cerceris ruficornis,,,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,SRR3,7692214
+B206:1:354,Cerceris cunicularia,,Cerceris,,cunicularia,,species,,B206:1,synonym,B206:1:352,Cerceris ruficornis,,,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,SRCT,7986777
+B206:1:355,Cerceris rybyensis,,Cerceris,,rybyensis,,species,,B206:1,accepted,,,B206:1:347,Cerceris,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,SS6D,4495253
+B206:1:356,Cerceris ornata,,Cerceris,,ornata,,species,,B206:1,synonym,B206:1:355,Cerceris rybyensis,,,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,SRYL,7691252
+B206:1:357,Cerceris sabulosa,,Cerceris,,sabulosa,,species,,B206:1,accepted,,,B206:1:347,Cerceris,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,69KNB,4495274
+B206:1:358,Cerceris emarginata,,Cerceris,,emarginata,,species,,B206:1,synonym,B206:1:357,Cerceris sabulosa,,,,,,,Sphecidae,Philanthinae,Cerceris,,Sphecoidea | Sphecidae | Philanthinae | Cerceris,SRF9,7780565
+B206:1:359,Philanthus,,,,,,genus,,B206:1,accepted,,,B206:1:346,Philanthinae,,,,,Sphecidae,Philanthinae,Philanthus,,Sphecoidea | Sphecidae | Philanthinae,6NBT,1338932
+B206:1:360,Philanthus triangulum,,Philanthus,,triangulum,,species,,B206:1,accepted,,,B206:1:359,Philanthus,,,,,Sphecidae,Philanthinae,Philanthus,,Sphecoidea | Sphecidae | Philanthinae | Philanthus,4G5B4,5760758
+B206:1:361,Philanthus ruspatrix,,Philanthus,,ruspatrix,,species,,B206:1,synonym,B206:1:360,Philanthus triangulum,,,,,,,Sphecidae,Philanthinae,Philanthus,,Sphecoidea | Sphecidae | Philanthinae | Philanthus,4G59H,7700035

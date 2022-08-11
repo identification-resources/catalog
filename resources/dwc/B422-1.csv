@@ -1,0 +1,56 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B422:1:1,Simuliidae,,,,,,family,,B422:1,accepted,,,,,,,,,Simuliidae,,,,,6279F,3522
+B422:1:2,Simuliinae,,,,,,subfamily,,B422:1,accepted,,,B422:1:1,Simuliidae,,,,,Simuliidae,Simuliinae,,,Simuliidae,8MPQR,
+B422:1:3,Prosimuliini,,,,,,tribe,,B422:1,accepted,,,B422:1:2,Simuliinae,,,,,Simuliidae,Simuliinae,,,Simuliidae | Simuliinae,8NLBJ,
+B422:1:4,Cnephia,,,,,,genus,,B422:1,accepted,,,B422:1:3,Prosimuliini,,,,,Simuliidae,Simuliinae,Cnephia,,Simuliidae | Simuliinae | Prosimuliini,87F3V,1643466
+B422:1:5,Metacnephia,,,,,,genus,,B422:1,accepted,,,B422:1:3,Prosimuliini,,,,,Simuliidae,Simuliinae,Metacnephia,,Simuliidae | Simuliinae | Prosimuliini,5Q7P,1645995
+B422:1:6,Metacnephia coloradensis,,Metacnephia,,coloradensis,,species,,B422:1,accepted,,,B422:1:5,Metacnephia,,,,,Simuliidae,Simuliinae,Metacnephia,,Simuliidae | Simuliinae | Prosimuliini | Metacnephia,4299Z,1646017
+B422:1:7,Piezosimulium,,,,,,genus,,B422:1,accepted,,,B422:1:3,Prosimuliini,,,,,Simuliidae,Simuliinae,Piezosimulium,,Simuliidae | Simuliinae | Prosimuliini,89SZP,4578246
+B422:1:8,Piezosimulium jeanninae,,Piezosimulium,,jeanninae,,species,,B422:1,accepted,,,B422:1:7,Piezosimulium,,,,,Simuliidae,Simuliinae,Piezosimulium,,Simuliidae | Simuliinae | Prosimuliini | Piezosimulium,8DCZB,4789443
+B422:1:14,Prosimulium,,,,,,subgenus,,B422:1,accepted,,,B422:1:9,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Prosimulium,Simuliidae | Simuliinae | Prosimuliini | Prosimulium,87K3V,
+B422:1:10,Helodon,,,,,,subgenus,,B422:1,accepted,,,B422:1:9,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Helodon,Simuliidae | Simuliinae | Prosimuliini | Prosimulium,62VGK,
+B422:1:11,Prosimulium onychodactylum,,Prosimulium,,onychodactylum,,species,,B422:1,accepted,,,B422:1:10,Helodon,,,,,Simuliidae,Simuliinae,Prosimulium,Helodon,Simuliidae | Simuliinae | Prosimuliini | Prosimulium | Helodon,88ZV9,1646189
+B422:1:12,Parahelodon,,,,,,subgenus,,B422:1,accepted,,,B422:1:9,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Parahelodon,Simuliidae | Simuliinae | Prosimuliini | Prosimulium,89SWG,
+B422:1:13,Prosimulium decemarticulatum,,Prosimulium,,decemarticulatum,,species,,B422:1,accepted,,,B422:1:12,Parahelodon,,,,,Simuliidae,Simuliinae,Prosimulium,Parahelodon,Simuliidae | Simuliinae | Prosimuliini | Prosimulium | Parahelodon,,4297754
+B422:1:14,Prosimulium,,,,,,subgenus,,B422:1,accepted,,,B422:1:9,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Prosimulium,Simuliidae | Simuliinae | Prosimuliini | Prosimulium,87K3V,
+B422:1:15,Prosimulium exigens,,Prosimulium,,exigens,,species,,B422:1,accepted,,,B422:1:14,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Prosimulium,Simuliidae | Simuliinae | Prosimuliini | Prosimulium | Prosimulium,8DHB7,1646360
+B422:1:16,Prosimulium flaviantennum,,Prosimulium,,flaviantennum,,species,,B422:1,accepted,,,B422:1:14,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Prosimulium,Simuliidae | Simuliinae | Prosimuliini | Prosimulium | Prosimulium,8DHB8,1646319
+B422:1:17,Prosimulium frohnei,,Prosimulium,,frohnei,,species,,B422:1,accepted,,,B422:1:14,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Prosimulium,Simuliidae | Simuliinae | Prosimuliini | Prosimulium | Prosimulium,8DHBC,1646432
+B422:1:18,Prosimulium fulvum,,Prosimulium,,fulvum,,species,,B422:1,accepted,,,B422:1:14,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Prosimulium,Simuliidae | Simuliinae | Prosimuliini | Prosimulium | Prosimulium,8DHBF,1646397
+B422:1:19,Prosimulium opleri,,Prosimulium,,opleri,,species,,B422:1,accepted,,,B422:1:14,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Prosimulium,Simuliidae | Simuliinae | Prosimuliini | Prosimulium | Prosimulium,8DHBS,1646449
+B422:1:20,Prosimulium travisi,,Prosimulium,,travisi,,species,,B422:1,accepted,,,B422:1:14,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Prosimulium,Simuliidae | Simuliinae | Prosimuliini | Prosimulium | Prosimulium,8DHBY,1646384
+B422:1:21,Prosimulium wui,,Prosimulium,,wui,,species,,B422:1,accepted,,,B422:1:14,Prosimulium,,,,,Simuliidae,Simuliinae,Prosimulium,Prosimulium,Simuliidae | Simuliinae | Prosimuliini | Prosimulium | Prosimulium,8DHC5,1646441
+B422:1:22,Stegopterna,,,,,,genus,,B422:1,accepted,,,B422:1:3,Prosimuliini,,,,,Simuliidae,Simuliinae,Stegopterna,,Simuliidae | Simuliinae | Prosimuliini,87KQV,1643501
+B422:1:23,Stegopterna mutata,,Stegopterna,,mutata,,species,,B422:1,accepted,,,B422:1:22,Stegopterna,,,,,Simuliidae,Simuliinae,Stegopterna,,Simuliidae | Simuliinae | Prosimuliini | Stegopterna,4ZP8T,1643504
+B422:1:24,Simuliini,,,,,,tribe,,B422:1,accepted,,,B422:1:2,Simuliinae,,,,,Simuliidae,Simuliinae,,,Simuliidae | Simuliinae,8NLBV,
+B422:1:46,Simulium,,,,,,subgenus,,B422:1,accepted,,,B422:1:25,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium,87KMC,
+B422:1:26,Byssodon,,,,,,subgenus,,B422:1,accepted,,,B422:1:25,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Byssodon,Simuliidae | Simuliinae | Simuliini | Simulium,89S2D,
+B422:1:27,Simulium meridionale,,Simulium,,meridionale,,species,,B422:1,accepted,,,B422:1:26,Byssodon,,,,,Simuliidae,Simuliinae,Simulium,Byssodon,Simuliidae | Simuliinae | Simuliini | Simulium | Byssodon,8DX6Y,1644169
+B422:1:28,Eusitnulium,,,,,,subgenus,,B422:1,accepted,,,B422:1:25,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Eusitnulium,Simuliidae | Simuliinae | Simuliini | Simulium,,
+B422:1:29,Simulium aureum,,Simulium,,aureum,,species,,B422:1,accepted,,,B422:1:28,Eusitnulium,,,,,Simuliidae,Simuliinae,Simulium,Eusitnulium,Simuliidae | Simuliinae | Simuliini | Simulium | Eusitnulium,8DXBH,1643883
+B422:1:30,Hearlea,,,,,,subgenus,,B422:1,accepted,,,B422:1:25,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Hearlea,Simuliidae | Simuliinae | Simuliini | Simulium,89SFG,
+B422:1:31,Simulium canadense,,Simulium,,canadense,,species,,B422:1,accepted,,,B422:1:30,Hearlea,,,,,Simuliidae,Simuliinae,Simulium,Hearlea,Simuliidae | Simuliinae | Simuliini | Simulium | Hearlea,8DXLB,1643957
+B422:1:32,Hellichiella,,,,,,subgenus,,B422:1,accepted,,,B422:1:25,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Hellichiella,Simuliidae | Simuliinae | Simuliini | Simulium,89QCZ,
+B422:1:33,Simulium canonicola,,Simulium,,canonicola,,species,,B422:1,accepted,,,B422:1:32,Hellichiella,,,,,Simuliidae,Simuliinae,Simulium,Hellichiella,Simuliidae | Simuliinae | Simuliini | Simulium | Hellichiella,8DY39,1644393
+B422:1:34,Hemicnetha,,,,,,subgenus,,B422:1,accepted,,,B422:1:25,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Hemicnetha,Simuliidae | Simuliinae | Simuliini | Simulium,89SFP,
+B422:1:35,Simulium virgatum,,Simulium,,virgatum,,species,,B422:1,accepted,,,B422:1:34,Hemicnetha,,,,,Simuliidae,Simuliinae,Simulium,Hemicnetha,Simuliidae | Simuliinae | Simuliini | Simulium | Hemicnetha,8DXPH,1644810
+B422:1:36,Nevermannia,,,,,,subgenus,,B422:1,accepted,,,B422:1:25,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Nevermannia,Simuliidae | Simuliinae | Simuliini | Simulium,87HWM,
+B422:1:37,Simulium pugetense,,Simulium,,pugetense,,species,,B422:1,accepted,,,B422:1:36,Nevermannia,,,,,Simuliidae,Simuliinae,Simulium,Nevermannia,Simuliidae | Simuliinae | Simuliini | Simulium | Nevermannia,8DY75,1644202
+B422:1:38,Simulium vernum,,Simulium,,vernum,,species,,B422:1,accepted,,,B422:1:36,Nevermannia,,,,,Simuliidae,Simuliinae,Simulium,Nevermannia,Simuliidae | Simuliinae | Simuliini | Simulium | Nevermannia,8DY8M,1643766
+B422:1:39,Psilopelmia,,,,,,subgenus,,B422:1,accepted,,,B422:1:25,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Psilopelmia,Simuliidae | Simuliinae | Simuliini | Simulium,89T5D,
+B422:1:40,Simulium bivittatum,,Simulium,,bivittatum,,species,,B422:1,accepted,,,B422:1:39,Psilopelmia,,,,,Simuliidae,Simuliinae,Simulium,Psilopelmia,Simuliidae | Simuliinae | Simuliini | Simulium | Psilopelmia,8DYFQ,1644118
+B422:1:41,Simulium griseum,,Simulium,,griseum,,species,,B422:1,accepted,,,B422:1:39,Psilopelmia,,,,,Simuliidae,Simuliinae,Simulium,Psilopelmia,Simuliidae | Simuliinae | Simuliini | Simulium | Psilopelmia,8DYG4,1644111
+B422:1:42,Simulium venator,,Simulium,,venator,,species,,B422:1,accepted,,,B422:1:39,Psilopelmia,,,,,Simuliidae,Simuliinae,Simulium,Psilopelmia,Simuliidae | Simuliinae | Simuliini | Simulium | Psilopelmia,8DYHC,1644051
+B422:1:43,Psilozia,,,,,,subgenus,,B422:1,accepted,,,B422:1:25,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Psilozia,Simuliidae | Simuliinae | Simuliini | Simulium,89T5G,
+B422:1:44,Simulium argus,,Simulium,,argus,,species,,B422:1,accepted,,,B422:1:43,Psilozia,,,,,Simuliidae,Simuliinae,Simulium,Psilozia,Simuliidae | Simuliinae | Simuliini | Simulium | Psilozia,8DYHJ,1644039
+B422:1:45,Simulium vittatum,,Simulium,,vittatum,,species,,B422:1,accepted,,,B422:1:43,Psilozia,,,,,Simuliidae,Simuliinae,Simulium,Psilozia,Simuliidae | Simuliinae | Simuliini | Simulium | Psilozia,8DYHM,1644002
+B422:1:46,Simulium,,,,,,subgenus,,B422:1,accepted,,,B422:1:25,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium,87KMC,
+B422:1:47,Simulium arcticum,,Simulium,,arcticum,,species,,B422:1,accepted,,,B422:1:46,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium | Simulium,8DYL7,1643932
+B422:1:48,Simulium decorum,,Simulium,,decorum,,species,,B422:1,accepted,,,B422:1:46,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium | Simulium,8DYNM,1643815
+B422:1:49,Simulium defoliarti,,Simulium,,defoliarti,,species,,B422:1,accepted,,,B422:1:46,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium | Simulium,8DYNP,1643902
+B422:1:50,Simulium hunteri,,Simulium,,hunteri,,species,,B422:1,accepted,,,B422:1:46,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium | Simulium,8DYQP,1643794
+B422:1:51,Simulium jacumbae,,Simulium,,jacumbae,,species,,B422:1,accepted,,,B422:1:46,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium | Simulium,8DYQZ,1643785
+B422:1:52,Simulium piperi,,Simulium,,piperi,,species,,B422:1,accepted,,,B422:1:46,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium | Simulium,8DYWC,1645446
+B422:1:53,Simulium tuberosum,,Simulium,,tuberosum,,species,,B422:1,accepted,,,B422:1:46,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium | Simulium,8DZ23,1643648
+B422:1:54,Simulium venustum,,Simulium,,venustum,,species,,B422:1,accepted,,,B422:1:46,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium | Simulium,8DZ2H,1645497
+B422:1:55,Simulium verecundum,,Simulium,,verecundum,,species,,B422:1,accepted,,,B422:1:46,Simulium,,,,,Simuliidae,Simuliinae,Simulium,Simulium,Simuliidae | Simuliinae | Simuliini | Simulium | Simulium,8DZ2J,1643629

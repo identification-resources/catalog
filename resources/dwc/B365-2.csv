@@ -1,0 +1,15 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B365:2:1,Paederidus,,,,,,genus,,B365:2,accepted,,,,,,,,,,,Paederidus,,,6C7J,4406886
+B365:2:2,Paederidus ruficollis,,Paederidus,,ruficollis,,species,,B365:2,accepted,,,B365:2:1,Paederidus,,,,,,,Paederidus,,Paederidus,4BX24,4439222
+B365:2:3,Staphylinus ruficollis,,Staphylinus,,ruficollis,,species,,B365:2,synonym,B365:2:2,Paederidus ruficollis,,,,,,,,,Paederidus,,Paederidus,4ZKBX,9929586
+B365:2:4,Paederus gemellus,,Paederus,,gemellus,,species,,B365:2,synonym,B365:2:2,Paederidus ruficollis,,,,,,,,,Paederidus,,Paederidus,4BXHS,5746367
+B365:2:13,Paederus ruficollis,,Paederus,,ruficollis,,species,,B365:2,synonym,B365:2:12,Paederidus rubrothoracicus subsp. carpathicola,,,,,,,,,Paederidus,,Paederidus | Paederidus rubrothoracicus,4BXTP,5746368
+B365:2:6,Paederidus rubrothoracicus,,Paederidus,,rubrothoracicus,,species,,B365:2,accepted,,,B365:2:1,Paederidus,,,,,,,Paederidus,,Paederidus,4BX23,4439206
+B365:2:7,Paederidus rubrothoracicus subsp. rubrothoracicus,,Paederidus,,rubrothoracicus,rubrothoracicus,subspecies,,B365:2,accepted,,,B365:2:6,Paederidus rubrothoracicus,,,,,,,Paederidus,,Paederidus | Paederidus rubrothoracicus,,7647037
+B365:2:8,Staphylinus rubrothoracicus,,Staphylinus,,rubrothoracicus,,species,,B365:2,synonym,B365:2:7,Paederidus rubrothoracicus subsp. rubrothoracicus,,,,,,,,,Paederidus,,Paederidus | Paederidus rubrothoracicus,4ZKBW,4439214
+B365:2:9,Paederus sanguinicoliis,,Paederus,,sanguinicoliis,,species,,B365:2,synonym,B365:2:7,Paederidus rubrothoracicus subsp. rubrothoracicus,,,,,,,,,Paederidus,,Paederidus | Paederidus rubrothoracicus,6TKLS,10987376
+B365:2:13,Paederus ruficollis,,Paederus,,ruficollis,,species,,B365:2,synonym,B365:2:12,Paederidus rubrothoracicus subsp. carpathicola,,,,,,,,,Paederidus,,Paederidus | Paederidus rubrothoracicus,4BXTP,5746368
+B365:2:11,Paederus longicornis,,Paederus,,longicornis,,species,,B365:2,synonym,B365:2:7,Paederidus rubrothoracicus subsp. rubrothoracicus,,,,,,,,,Paederidus,,Paederidus | Paederidus rubrothoracicus,4BXMV,9983691
+B365:2:12,Paederidus rubrothoracicus subsp. carpathicola,,Paederidus,,rubrothoracicus,carpathicola,subspecies,,B365:2,accepted,,,B365:2:6,Paederidus rubrothoracicus,,,,,,,Paederidus,,Paederidus | Paederidus rubrothoracicus,,7986197
+B365:2:13,Paederus ruficollis,,Paederus,,ruficollis,,species,,B365:2,synonym,B365:2:12,Paederidus rubrothoracicus subsp. carpathicola,,,,,,,,,Paederidus,,Paederidus | Paederidus rubrothoracicus,4BXTP,5746368
+B365:2:14,Paederus sanguinicollis,,Paederus,,sanguinicollis,,species,,B365:2,synonym,B365:2:12,Paederidus rubrothoracicus subsp. carpathicola,,,,,,,,,Paederidus,,Paederidus | Paederidus rubrothoracicus,6TKLS,10987376

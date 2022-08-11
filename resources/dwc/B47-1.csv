@@ -1,0 +1,89 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B47:1:1,Conops,,,,,,genus,,B47:1,accepted,,,,,,,,,,,Conops,,,8NND6,1444664
+B47:1:2,Conops scutellatus Meigen,Meigen,Conops,,scutellatus,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,8BK7J,5076749
+B47:1:3,Conops silaceus Meigen,Meigen,Conops,,silaceus,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,8BK7L,5076736
+B47:1:4,Conops vitellinus Loew,Loew,Conops,,vitellinus,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,8BK7Y,5076816
+B47:1:5,Conops quadrifasciatus,,Conops,,quadrifasciatus,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,8BK78,5076797
+B47:1:6,Conops ceriaeformis Meigen,Meigen,Conops,,ceriaeformis,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,8BK5V,5076836
+B47:1:7,Conops elegans Meigen,Meigen,Conops,,elegans,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,XSM6,5076777
+B47:1:8,Conops flavifrons Meigen,Meigen,Conops,,flavifrons,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,8BK66,5076765
+B47:1:9,Conops strigatus Wiedemann,Wiedemann,Conops,,strigatus,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,8BK7M,5076739
+B47:1:10,Conops insignis Loew,Loew,Conops,,insignis,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,8BK6F,5076753
+B47:1:11,Conops vesicularis Linnaeus,Linnaeus,Conops,,vesicularis,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,XSTM,5076715
+B47:1:12,Conops flavipes Linnaeus,Linnaeus,Conops,,flavipes,,species,,B47:1,accepted,,,B47:1:1,Conops,,,,,,,Conops,,Conops,8BK67,5076862
+B47:1:13,"Dalmannia Robineau-Desvoidy, 1830","Robineau-Desvoidy, 1830",,,,,genus,,B47:1,accepted,,,,,,,,,,,Dalmannia,,,3ZLC,1569122
+B47:1:14,Dalmannia marginata Meigen,Meigen,Dalmannia,,marginata,,species,,B47:1,accepted,,,B47:1:13,"Dalmannia Robineau-Desvoidy, 1830",,,,,,,Dalmannia,,Dalmannia,6CBGD,1569136
+B47:1:15,Dalmannia aculeata Linnaeus,Linnaeus,Dalmannia,,aculeata,,species,,B47:1,accepted,,,B47:1:13,"Dalmannia Robineau-Desvoidy, 1830",,,,,,,Dalmannia,,Dalmannia,6CBGJ,1569128
+B47:1:16,Dalmannia punctata Fabricius,Fabricius,Dalmannia,,punctata,,species,,B47:1,accepted,,,B47:1:13,"Dalmannia Robineau-Desvoidy, 1830",,,,,,,Dalmannia,,Dalmannia,6CBG2,1569123
+B47:1:17,Dalmannia dorsalis (Fabricius),(Fabricius),Dalmannia,,dorsalis,,species,,B47:1,accepted,,,B47:1:13,"Dalmannia Robineau-Desvoidy, 1830",,,,,,,Dalmannia,,Dalmannia,6CBGQ,1569142
+B47:1:18,Dalmannia flavescens Meigen,Meigen,Dalmannia,,flavescens,,species,,B47:1,synonym,B47:1:17,Dalmannia dorsalis (Fabricius),,,,,,,,,Dalmannia,,Dalmannia,3ZLC,
+B47:1:19,Leopoldius,,,,,,genus,,B47:1,accepted,,,,,,,,,,,Leopoldius,,,5CCF,1568460
+B47:1:20,Leopoldius capitatum Loew,Loew,Leopoldius,,capitatum,,species,,B47:1,accepted,,,B47:1:19,Leopoldius,,,,,,,Leopoldius,,Leopoldius,5CCF,1568460
+B47:1:21,Leopoldius calceatum Rondani,Rondani,Leopoldius,,calceatum,,species,,B47:1,accepted,,,B47:1:19,Leopoldius,,,,,,,Leopoldius,,Leopoldius,3T7B3,5076683
+B47:1:22,Leopoldius coronatus Rondani,Rondani,Leopoldius,,coronatus,,species,,B47:1,accepted,,,B47:1:19,Leopoldius,,,,,,,Leopoldius,,Leopoldius,3T7B4,5076690
+B47:1:23,Leopoldius diadematum Rondani,Rondani,Leopoldius,,diadematum,,species,,B47:1,accepted,,,B47:1:19,Leopoldius,,,,,,,Leopoldius,,Leopoldius,3T7B5,5076684
+B47:1:24,Leopoldius valvatus Kröber,Kröber,Leopoldius,,valvatus,,species,,B47:1,accepted,,,B47:1:19,Leopoldius,,,,,,,Leopoldius,,Leopoldius,3T7BB,5076688
+B47:1:25,Leopoldius cabrilsensis Carles-Tolra,Carles-Tolra,Leopoldius,,cabrilsensis,,species,,B47:1,synonym,B47:1:24,Leopoldius valvatus Kröber,,,,,,,,,Leopoldius,,Leopoldius,3T7B2,5076687
+B47:1:26,Leopoldius brevirostris,,Leopoldius,,brevirostris,,species,,B47:1,accepted,,,B47:1:19,Leopoldius,,,,,,,Leopoldius,,Leopoldius,6P8NF,5076685
+B47:1:27,Leopoldius macrus Seguy,Seguy,Leopoldius,,macrus,,species,,B47:1,synonym,B47:1:26,Leopoldius brevirostris,,,,,,,,,Leopoldius,,Leopoldius,5CCF,1568460
+B47:1:28,Leopoldius signatus Wiedemann in Meigen,Wiedemann in Meigen,Leopoldius,,signatus,,species,,B47:1,accepted,,,B47:1:19,Leopoldius,,,,,,,Leopoldius,,Leopoldius,6P8NG,5076679
+B47:1:29,Melanosoma,,,,,,genus,,B47:1,accepted,,,,,,,,,,,Melanosoma,,,5NK2,1568741
+B47:1:30,Melanosoma bicolor Meigen,Meigen,Melanosoma,,bicolor,,species,,B47:1,accepted,,,B47:1:29,Melanosoma,,,,,,,Melanosoma,,Melanosoma,6R974,5076917
+B47:1:31,Melanosoma pallipes Meigen,Meigen,Melanosoma,,pallipes,,species,,B47:1,accepted,,,B47:1:29,Melanosoma,,,,,,,Melanosoma,,Melanosoma,5NK2,1568741
+B47:1:32,Melanosoma rubripes Villeneuve,Villeneuve,Melanosoma,,rubripes,,species,,B47:1,accepted,,,B47:1:29,Melanosoma,,,,,,,Melanosoma,,Melanosoma,8CSRG,5077010
+B47:1:33,Myopa,,,,,,genus,,B47:1,accepted,,,,,,,,,,,Myopa,,,63CSK,1568357
+B47:1:34,Myopa variegata Meigen,Meigen,Myopa,,variegata,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4554S,1568367
+B47:1:35,Myopa dorsalis Fabricius,Fabricius,Myopa,,dorsalis,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,7442P,1568413
+B47:1:36,Myopa morio Meigen,Meigen,Myopa,,morio,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4553G,1568365
+B47:1:37,Myopa occulta Wiedemann in Meigen,Wiedemann in Meigen,Myopa,,occulta,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4553S,1568371
+B47:1:38,Myopa fasciata Meigen,Meigen,Myopa,,fasciata,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4552J,1568404
+B47:1:39,Myopa curtirostris Kröber,Kröber,Myopa,,curtirostris,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4552D,1568408
+B47:1:40,Myopa buccata Linnaeus,Linnaeus,Myopa,,buccata,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,454ZY,1568432
+B47:1:41,Myopa picta Panzer,Panzer,Myopa,,picta,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4553Z,1568425
+B47:1:42,Myopa polystigma Rondani,Rondani,Myopa,,polystigma,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,45546,1568411
+B47:1:43,Myopa testacea Linnaeus,Linnaeus,Myopa,,testacea,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4554L,1568398
+B47:1:44,Myopa stigma Meigen,Meigen,Myopa,,stigma,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4554G,1568382
+B47:1:45,Myopa hirsuta Stuke,Stuke,Myopa,,hirsuta,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4552X,1568452
+B47:1:46,Myopa strandi Collin,Collin,Myopa,,strandi,,species,,B47:1,synonym,B47:1:45,Myopa hirsuta Stuke,,,,,,,,,Myopa,,Myopa,4554H,1568360
+B47:1:47,Myopa vicaria Walker,Walker,Myopa,,vicaria,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4554V,1568419
+B47:1:48,Myopa tessellatipennis Motchulsky,Motchulsky,Myopa,,tessellatipennis,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4554K,1568451
+B47:1:49,Myopa pellucida Robineau-Desvoidy,Robineau-Desvoidy,Myopa,,pellucida,,species,,B47:1,accepted,,,B47:1:33,Myopa,,,,,,,Myopa,,Myopa,4553X,1568397
+B47:1:50,Myopa extricata Collin,Collin,Myopa,,extricata,,species,,B47:1,synonym,B47:1:49,Myopa pellucida Robineau-Desvoidy,,,,,,,,,Myopa,,Myopa,4552H,1568395
+B47:1:51,Physocephala,,,,,,genus,,B47:1,accepted,,,,,,,,,,,Physocephala,,,6PYG,1568868
+B47:1:52,Physocephala vittata Fabricius,Fabricius,Physocephala,,vittata,,species,,B47:1,accepted,,,B47:1:51,Physocephala,,,,,,,Physocephala,,Physocephala,4HHKK,1569046
+B47:1:53,Physocephala curticornis,,Physocephala,,curticornis,,species,,B47:1,synonym,B47:1:52,Physocephala vittata Fabricius,,,,,,,,,Physocephala,,Physocephala,8BBPR,1569014
+B47:1:54,Physocephala rufipes (Fabricius),(Fabricius),Physocephala,,rufipes,,species,,B47:1,accepted,,,B47:1:51,Physocephala,,,,,,,Physocephala,,Physocephala,4HHJG,1568963
+B47:1:55,Physocephala laticincta,,Physocephala,,laticincta,,species,,B47:1,synonym,B47:1:54,Physocephala rufipes (Fabricius),,,,,,,,,Physocephala,,Physocephala,,1568977
+B47:1:56,Physocephala nigra DeGeer,DeGeer,Physocephala,,nigra,,species,,B47:1,accepted,,,B47:1:51,Physocephala,,,,,,,Physocephala,,Physocephala,4HHHL,1568956
+B47:1:57,Physocephala vaginalis (Rondani),(Rondani),Physocephala,,vaginalis,,species,,B47:1,accepted,,,B47:1:51,Physocephala,,,,,,,Physocephala,,Physocephala,4HHKF,1568879
+B47:1:58,Physocephala variegata Meigen,Meigen,Physocephala,,variegata,,species,,B47:1,accepted,,,B47:1:51,Physocephala,,,,,,,Physocephala,,Physocephala,4HHKG,1569101
+B47:1:59,Physocephala antiqua (Wiedemann),(Wiedemann),Physocephala,,antiqua,,species,,B47:1,accepted,,,B47:1:51,Physocephala,,,,,,,Physocephala,,Physocephala,77HZL,1569080
+B47:1:60,Physocephala pusilla Meigen,Meigen,Physocephala,,pusilla,,species,,B47:1,accepted,,,B47:1:51,Physocephala,,,,,,,Physocephala,,Physocephala,4HHJ5,1568897
+B47:1:61,Physocephala lacera,,Physocephala,,lacera,,species,,B47:1,synonym,B47:1:60,Physocephala pusilla Meigen,,,,,,,,,Physocephala,,Physocephala,4HHGT,1568891
+B47:1:62,Physocephala chrysorrhoea Meigen,Meigen,Physocephala,,chrysorrhoea,,species,,B47:1,accepted,,,B47:1:51,Physocephala,,,,,,,Physocephala,,Physocephala,4HHFS,1569093
+B47:1:63,Physocephala vittata (Fabricius),(Fabricius),Physocephala,,vittata,,species,colour morph truncata,B47:1,accepted,,,B47:1:51,Physocephala,,,,,,,Physocephala,,Physocephala,4HHKK,1569046
+B47:1:64,Sicus,,,,,,genus,,B47:1,accepted,,,,,,,,,,,Sicus,,,7GMX,11250884
+B47:1:65,Sicus nigritarsis Zimina,Zimina,Sicus,,nigritarsis,,species,,B47:1,accepted,,,B47:1:64,Sicus,,,,,,,Sicus,,Sicus,4X78L,5077021
+B47:1:66,Sicus ferrugineus Linnaeus,Linnaeus,Sicus,,ferrugineus,,species,,B47:1,accepted,,,B47:1:64,Sicus,,,,,,,Sicus,,Sicus,4X78G,8078708
+B47:1:67,Sicus alpinus Stuke,Stuke,Sicus,,alpinus,,species,,B47:1,accepted,,,B47:1:64,Sicus,,,,,,,Sicus,,Sicus,4X787,5077020
+B47:1:68,Sicus fusenensis Ouchi,Ouchi,Sicus,,fusenensis,,species,,B47:1,accepted,,,B47:1:64,Sicus,,,,,,,Sicus,,Sicus,4X78H,5077023
+B47:1:69,Sicus abdominalis Kröber,Kröber,Sicus,,abdominalis,,species,,B47:1,accepted,,,B47:1:64,Sicus,,,,,,,Sicus,,Sicus,4X786,5077017
+B47:1:70,Thecophora,,,,,,genus,,B47:1,accepted,,,,,,,,,,,Thecophora,,,7VH3,1569346
+B47:1:71,Thecophora longirostris Lyneborg,Lyneborg,Thecophora,,longirostris,,species,,B47:1,accepted,,,B47:1:70,Thecophora,,,,,,,Thecophora,,Thecophora,56759,1569391
+B47:1:72,Thecophora melanopa Rondani,Rondani,Thecophora,,melanopa,,species,,B47:1,accepted,,,B47:1:70,Thecophora,,,,,,,Thecophora,,Thecophora,8FDX8,1569347
+B47:1:73,Thecophora distincta Wiedemann in Meigen,Wiedemann in Meigen,Thecophora,,distincta,,species,,B47:1,accepted,,,B47:1:70,Thecophora,,,,,,,Thecophora,,Thecophora,5674X,1569433
+B47:1:74,Thecophora bimaculata (Preyssler),(Preyssler),Thecophora,,bimaculata,,species,,B47:1,accepted,,,B47:1:70,Thecophora,,,,,,,Thecophora,,Thecophora,5674T,5077117
+B47:1:75,Thecophora apivora Zimina,Zimina,Thecophora,,apivora,,species,,B47:1,accepted,,,B47:1:70,Thecophora,,,,,,,Thecophora,,Thecophora,5674Q,5077103
+B47:1:76,Thecophora jakutica Zimina,Zimina,Thecophora,,jakutica,,species,,B47:1,accepted,,,B47:1:70,Thecophora,,,,,,,Thecophora,,Thecophora,56757,5077110
+B47:1:77,Thecophora cinerascens (Meigen),(Meigen),Thecophora,,cinerascens,,species,,B47:1,accepted,,,B47:1:70,Thecophora,,,,,,,Thecophora,,Thecophora,5674V,5077105
+B47:1:78,Thecophora pusilla,,Thecophora,,pusilla,,species,,B47:1,synonym,B47:1:77,Thecophora cinerascens (Meigen),,,,,,,,,Thecophora,,Thecophora,8FDXF,5886613
+B47:1:79,Thecophora bimaculata,,Thecophora,,bimaculata,,species,,B47:1,synonym,B47:1:77,Thecophora cinerascens (Meigen),,,,,,,,,Thecophora,,Thecophora,5674T,5077117
+B47:1:80,Thecophora fulvipes Robineau-Desvoidy,Robineau-Desvoidy,Thecophora,,fulvipes,,species,,B47:1,accepted,,,B47:1:70,Thecophora,,,,,,,Thecophora,,Thecophora,56753,1569429
+B47:1:81,Thecophora atra Fabricius,Fabricius,Thecophora,,atra,,species,,B47:1,accepted,,,B47:1:70,Thecophora,,,,,,,Thecophora,,Thecophora,5674R,1569366
+B47:1:82,Zodion,,,,,,genus,,B47:1,accepted,,,,,,,,,,,Zodion,,,8B2J,1568754
+B47:1:83,Zodion nigritarsis Strobl,Strobl,Zodion,,nigritarsis,,species,,B47:1,accepted,,,B47:1:82,Zodion,,,,,,,Zodion,,Zodion,8FP3Y,11203240
+B47:1:84,Zodion cinereum Fabricius,Fabricius,Zodion,,cinereum,,species,,B47:1,accepted,,,B47:1:82,Zodion,,,,,,,Zodion,,Zodion,5D6FL,1568846
+B47:1:85,Zodion notatum Meigen,Meigen,Zodion,,notatum,,species,,B47:1,synonym,B47:1:84,Zodion cinereum Fabricius,,,,,,,,,Zodion,,Zodion,8FP3Z,8845324
+B47:1:86,Zodion kroeberi Szilady,Szilady,Zodion,,kroeberi,,species,,B47:1,accepted,,,B47:1:82,Zodion,,,,,,,Zodion,,Zodion,5D6G9,1568853
+B47:1:87,Zodion carceli,,Zodion,,carceli,,species,auctorum nec Robineau-Desvoidy,B47:1,synonym,B47:1:86,Zodion kroeberi Szilady,,,,,,,,,Zodion,,Zodion,5D6FG,1568854
+B47:1:88,Zodion erythrurum Rondani,Rondani,Zodion,,erythrurum,,species,,B47:1,accepted,,,B47:1:82,Zodion,,,,,,,Zodion,,Zodion,5D6FS,1568759
