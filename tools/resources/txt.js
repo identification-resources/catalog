@@ -2,6 +2,7 @@ const yaml = require('js-yaml')
 
 const RANKS = [
     'class',
+    'infraclass',
     'superorder',
     'order',
     'suborder',
@@ -13,11 +14,18 @@ const RANKS = [
     'subtribe',
     'genus',
     'subgenus',
+    'section', // not ICZN
+    'subsection', // not ICZN
+    'series', // not ICZN
     'group',
+    'subgroup', // ...
+    'aggregate', // not ICZN
+    'complex', // not ICZN
     'species',
     'subspecies',
     'variety',
-    'form'
+    'form',
+    'aberration' // not ICZN
 ]
 
 const DWC_RANKS = [
@@ -48,7 +56,8 @@ const INDET_SUFFIXES = new Set([
 const RANK_LABELS = {
     'subspecies': 'subsp.',
     'variety': 'var.',
-    'form': 'f.'
+    'form': 'f.',
+    'aberration': 'ab.'
 }
 
 const NAME_PATTERN = new RegExp(
@@ -58,7 +67,7 @@ const NAME_PATTERN = new RegExp(
         // $2 optional author citation
         '(?: ' +
             // but not auct(t).
-            '(?!auctt?\.)' +
+            '(?!auctt?\.|(syn|comb|sp|spec)\. n(ov)?\.)' +
         '(' +
             // $2.1 anything in parentheses
             '\\(.+?\\)' +
@@ -76,7 +85,7 @@ const NAME_PATTERN = new RegExp(
             '\\S+(?: in \\S+)?' +
         '))?' +
         // $3 optional notes
-        '(?: (.+))?' +
+        '(?:,? (.+))?' +
     '$'
 )
 
@@ -103,6 +112,16 @@ function isUpperCase (name) {
     return name === name.toUpperCase()
 }
 
+function getSynonymRank (name, rank) {
+    if (/^([A-Z]\S+ )?[a-z0-9-]+ (?!sensu)[a-z0-9-]+($| )/.test(name)) {
+        return 'subspecies'
+    } else if (/^([A-Z]\S+ )?[a-z0-9-]+($| (?![a-z0-9]))/.test(name)) {
+        return 'species'
+    } else {
+        return rank
+    }
+}
+
 function capitalizeAuthors (authors) {
     return authors
         .replace(
@@ -114,52 +133,65 @@ function capitalizeAuthors (authors) {
 
 function parseName (name, rank, parent) {
     const item = {}
-    // Parent context is used for parsing and formatting binomial names.
-    const parentContext = { ...parent, incorrect: { ...parent.incorrect } }
 
-    if (/^[+=>] /.test(name)) {
-        const type = name[0]
-        rank = parentContext.taxonRank
+    // Synonyms have the accepted name usage as 'parent'.
+    const isSynonym = /^[+=>] /.test(name)
+    if (isSynonym) {
+        item.taxonomicStatus = TAXONOMIC_STATUS[name[0]]
         name = name.replace(/^[+=>] (\? ?)?/, '')
-        item.taxonomicStatus = TAXONOMIC_STATUS[type]
-        const [, genus, subgenus, species] = name.match(BINAME_PATTERN) || []
-        if (genus) {
-            parentContext.genus = genus
-            parentContext.incorrect.genus = genus
-        }
-        if (subgenus) {
-            parentContext.subgenus = subgenus
-            parentContext.incorrect.subgenus = subgenus
-        } else if (genus) {
-            // If a genus is given but no subgenus, remove it from the parent context
-            delete parentContext.subgenus
-            delete parentContext.incorrect.subgenus
-        }
-        if (species) {
-            parentContext.specificEpithet = species
-            parentContext.incorrect.specificEpithet = species
-        }
+        rank = getSynonymRank(name, parent.taxonRank)
     } else {
         item.taxonomicStatus = 'accepted'
     }
 
-    if (compareRanks('subgenus', rank) < 0) {
+    // Parent context is used for parsing and formatting binomial names.
+    const parentContext = { ...parent }
+    if (parent.incorrect) { parentContext.incorrect = { ...parent.incorrect } }
+
+    // The parent context should be amended in the two cases where binomial names
+    // are truly accepted: synonyms and species (and below) without parents (resp.
+    // genera and genera and species) to provide parts of the name.
+    if (isSynonym || !parentContext.genus || (compareRanks('species', rank) < 0 && !parentContext.specificEpithet)) {
+        const [, genus, subgenus, species] = name.match(BINAME_PATTERN) || []
+        if (genus) {
+            parentContext.genus = capitalize(genus)
+            if (parentContext.incorrect) parentContext.incorrect.genus = capitalize(genus)
+        }
+        if (subgenus) {
+            parentContext.subgenus = capitalize(subgenus)
+            if (parentContext.incorrect) parentContext.incorrect.subgenus = capitalize(subgenus)
+        } else if (genus) {
+            // If a genus is given but no subgenus, remove it from the parent context
+            delete parentContext.subgenus
+            if (parentContext.incorrect) delete parentContext.incorrect.subgenus
+        }
+        if (species) {
+            parentContext.specificEpithet = species
+            if (parentContext.incorrect) parentContext.incorrect.specificEpithet = species
+        }
+    }
+
+    // In taxa of group, species or lower, the name should just contain the
+    // (inter)specific epithet and the author information & remarks when processing
+    // further.
+    if (compareRanks('group', rank) <= 0) {
         const parseContext = parentContext.incorrect || parentContext
         if (!parseContext.genus) { parseContext.genus = name.split(' ', 1)[0] }
-        const genusPrefix = parseContext.genus[0] + parseContext.genus.slice(1).toLowerCase() + ' '
-
-        if (name.startsWith(genusPrefix)) {
-            name = name.slice(genusPrefix.length).replace(/^\(.*?\) /, '')
+        const genusPrefix = new RegExp(`^${parentContext.genus} (\\(.*?\\) )?`, 'i')
+        if (name[0] === parentContext.genus[0].toUpperCase()) {
+            name = name.replace(genusPrefix, '')
         }
 
         if (compareRanks('species', rank) < 0) {
             const speciesPrefix = parseContext.specificEpithet + ' '
             if (name.startsWith(speciesPrefix)) {
-                name = name.slice(speciesPrefix.length).replace(/^(ssp\.|var\.|f\.) /, '')
+                name = name.slice(speciesPrefix.length).replace(/^(s(ub)?sp\.|var\.|f\.|ab\.) /, '')
             }
         }
     }
 
+    // Divide the name into the main scientific name (only the epithet for taxa
+    // lower than genus), the authorship information, and optionally remarks
     const nameParts = name.match(NAME_PATTERN)
     if (!nameParts) {
         throw new Error(`Taxon "${name}" could not be parsed`)
@@ -169,21 +201,29 @@ function parseName (name, rank, parent) {
     item.taxonRemarks = notes
     item.taxonRank = rank
 
-    if (compareRanks('subgenus', rank) >= 0) {
+    // Validate names and recompose binomial and trinomial names
+    if (compareRanks('group', rank) > 0) {
         item.scientificName = capitalize(taxon)
         if (item.scientificName[0] !== taxon[0]) {
             throw new Error(`Taxon name (${rank}) should be capitalized: "${taxon}"`)
         }
-    }
-
-    if (rank === 'group') {
+    } else if (rank === 'group') {
         item.genericName = parentContext.genus
         item.infragenericEpithet = parentContext.subgenus
-        const specificEpithet = taxon.toLowerCase().replace(/(-group)?$/, '-group')
-        item.scientificName = `${item.genericName} ${specificEpithet}`
-        if (specificEpithet !== taxon) {
+        const specificEpithet = taxon.toLowerCase().replace(/(-group)?$/, '')
+        item.scientificName = `${item.genericName} ${specificEpithet}-group`
+        if (taxon.toLowerCase() !== taxon) {
             console.log(item, taxon)
             throw new Error(`Group name should be lowercase: "${taxon}"`)
+        }
+    } else if (rank === 'subgroup') {
+        item.genericName = parentContext.genus
+        item.infragenericEpithet = parentContext.subgenus
+        const specificEpithet = taxon.toLowerCase().replace(/(-subgroup)?$/, '')
+        item.scientificName = `${item.genericName} ${specificEpithet}-subgroup`
+        if (taxon.toLowerCase() !== taxon) {
+            console.log(item, taxon)
+            throw new Error(`Subgroup name should be lowercase: "${taxon}"`)
         }
     } else if (rank === 'species') {
         item.genericName = parentContext.genus
@@ -199,6 +239,9 @@ function parseName (name, rank, parent) {
         item.infragenericEpithet = parentContext.subgenus
         item.specificEpithet = parentContext.specificEpithet
         item.intraspecificEpithet = taxon.toLowerCase()
+
+        // If possible, names below species should have abbreviations for ranks,
+        // like "subsp."
         const nameParts = [
             item.genericName,
             item.specificEpithet,
@@ -208,17 +251,20 @@ function parseName (name, rank, parent) {
             nameParts.splice(2, 0, RANK_LABELS[item.taxonRank])
         }
         item.scientificName = nameParts.join(' ')
+
         if (item.intraspecificEpithet !== taxon) {
             console.log(item, taxon)
             throw new Error(`Intraspecific epithet should be lowercase: "${taxon}"`)
         }
     }
 
+    // Re-add authorship information
     item.scientificNameOnly = item.scientificName
     if (item.scientificNameAuthorship) {
         item.scientificName += ` ${item.scientificNameAuthorship}`
     }
 
+    // Amend "parent" with corrections
     if (item.taxonomicStatus === 'incorrect') {
         parent.incorrect = { ...parent }
         for (const key in item) {
@@ -322,20 +368,27 @@ function parseResource (resource, workId, resourceIndex) {
         }
 
         item.scientificNameID = idBase + (++id).toString()
-        item.parentNameUsageID = isSynonym ? '' : parent.scientificNameID || ''
-        item.parentNameUsage = isSynonym ? '' : parent.scientificName || ''
-        item.acceptedNameUsageID = isSynonym ? parent.scientificNameID : ''
-        item.acceptedNameUsage = isSynonym ? parent.scientificName : ''
+        item.parentNameUsageID = isSynonym ? undefined : parent.scientificNameID
+        item.parentNameUsage = isSynonym ? undefined : parent.scientificName
+        item.acceptedNameUsageID = isSynonym ? parent.scientificNameID : undefined
+        item.acceptedNameUsage = isSynonym ? parent.scientificName : undefined
         item.collectionCode = idBase.slice(0, -1)
 
         for (const rank of DWC_RANKS) {
-            item[rank] = ''
+            item[rank] = undefined
             if (parent[rank]) {
                 item[rank] = parent[rank]
             }
             if (item.taxonRank === rank) {
                 item[rank] = item.scientificNameOnly
             }
+        }
+
+        if (item.genericName && !item.genus) {
+            item.genus = item.genericName
+        }
+        if (item.infragenericEpithet && !item.subgenus) {
+            item.subgenus = item.infragenericEpithet
         }
 
         if (isSynonym) {

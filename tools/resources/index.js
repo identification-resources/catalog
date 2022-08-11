@@ -4,11 +4,6 @@ const readline = require('readline')
 const { spawn } = require('child_process')
 const csv = require('../csv.js')
 
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-})
-
 const REPO_ROOT = path.join(__dirname, '..', '..', 'resources')
 const PROBLEMS_FILE = path.join(__dirname, 'problems.csv')
 
@@ -67,8 +62,6 @@ const GBIF_RANKS = [
     'variety'
 ]
 
-const PREFIX_PATTERN = /^(?:(.+)(?:\|.*)?(?:\n\1.*)+\n?|[\s\S]+)$/
-
 function formatCsv (data) {
     const table = [DWC_FIELDS]
 
@@ -80,7 +73,25 @@ function formatCsv (data) {
 }
 
 function prompt (question) {
-    return new Promise(resolve => { rl.question(question, resolve) })
+    const rl = readline.createInterface({
+        input: process.stdin,
+        output: process.stdout
+    })
+    return new Promise(resolve => {
+        rl.question(question, (answer) => {
+            rl.close()
+            resolve(answer)
+        })
+    })
+}
+
+async function promptForAnswers (question, answers) {
+    while (true) {
+        const answer = (await prompt(question))[0]
+        if (answers.includes(answer)) {
+            return answer
+        }
+    }
 }
 
 function runGnverifier (names) {
@@ -127,40 +138,6 @@ async function getResources (id) {
     }
 }
 
-function checkResults (resource, classifications) {
-    let correct = true
-    const missing = []
-
-    for (const id in resource.taxa) {
-        const taxon = resource.taxa[id]
-        if (taxon.taxonomicStatus !== 'accepted') { continue }
-
-        const missingCol = false // !taxon.colTaxonID
-        const missingGbif = GBIF_RANKS.includes(taxon.taxonRank) && !taxon.gbifTaxonID
-
-        if (missingCol || missingGbif) {
-            correct = false
-            missing.push(taxon)
-        }
-    }
-
-    if (missing.length) {
-        console.table(missing, DISPLAY_FIELDS)
-    }
-
-    for (const source in classifications) {
-        const match = classifications[source].join('\n').match(PREFIX_PATTERN)
-        const prefix = match[1] || ''
-        const length = prefix.split('|').length
-        if (length < 3) {
-            correct = false
-            console.log(`Short prefix "${prefix}" (${length} taxa)`)
-        }
-    }
-
-    return correct
-}
-
 async function matchNames (resource) {
     console.log(`${resource.workId}: matching ${resource.id}`)
     const taxa = {}
@@ -184,11 +161,11 @@ async function matchNames (resource) {
 
         if (source === '1' && !taxon.colTaxonID) {
             taxon.colTaxonID = id
-            classifications[source].push(classification)
+            classifications[source].push([taxon, classification])
         }
         if (source === '11' && GBIF_RANKS.includes(taxon.taxonRank) && !taxon.gbifTaxonID) {
             taxon.gbifTaxonID = id
-            classifications[source].push(classification)
+            classifications[source].push([taxon, classification])
         }
     }
 
@@ -204,37 +181,109 @@ async function matchNames (resource) {
     return [results, classifications]
 }
 
+async function checkPrefix (resource, classifications, source) {
+    const lists = classifications[source]
+    if (!lists.length) { return }
+    let prefix = lists[0][1].split('|')
+
+    for (const [taxon, list] of lists.slice(1)) {
+        const parts = list.split('|')
+        for (let i = 0; i < parts.length; i++) {
+            if (parts[i] !== prefix[i] && i < 3) {
+                let choice
+
+                if (source === '1' || taxon.taxonomicStatus !== 'accepted') {
+                    choice = 'd'
+                } else {
+                    console.log(`${resource.workId}: source ${source} results in short prefix "${prefix.slice(0, i).join('|')}" (${i} taxa)`)
+                    console.log(`  taxon: ${taxon.scientificNameID} "${taxon.scientificName}"`)
+                    console.log(`  class: ${parts.join('|')}`)
+                    console.log(`  prefx: ${prefix.join('|')}`)
+
+                    choice = await promptForAnswers(`  Keep or delete (k/d)? `, ['k', 'K', 'd', 'D'])
+                }
+
+                switch (choice) {
+                    case 'k':
+                    case 'K': {
+                        console.log(`  keeping...`)
+                        break
+                    }
+
+                    case 'd':
+                    case 'D': {
+                        console.log(`  deleting...`)
+                        if (source === '1') {
+                            delete taxon.colTaxonID
+                        } else if (source === '11') {
+                            delete taxon.gbifTaxonID
+                        }
+                        break
+                    }
+                }
+
+                break
+            }
+        }
+    }
+}
+
+function checkResults (resource) {
+    let correct = true
+    const missing = []
+
+    for (const id in resource.taxa) {
+        const taxon = resource.taxa[id]
+        if (taxon.taxonomicStatus !== 'accepted') { continue }
+
+        const missingCol = false // !taxon.colTaxonID
+        const missingGbif = GBIF_RANKS.includes(taxon.taxonRank) && !taxon.gbifTaxonID
+
+        if (missingCol || missingGbif) {
+            correct = false
+            missing.push(taxon)
+        }
+    }
+
+    if (missing.length) {
+        console.table(missing, DISPLAY_FIELDS)
+    }
+
+    return correct
+}
+
 async function getMatchedResources (id) {
     const parsed = await getResources(id)
     const resources = []
     for (const resource of parsed) {
         const [results, classifications] = await matchNames(resource)
+
+        for (const source in classifications) {
+            await checkPrefix(resource, classifications, source)
+        }
+
         const skip = await shouldBeSkipped(resource.id)
-
         if (!skip) {
+
             const correct = checkResults(results, classifications)
-            let skip = false
+            if (!correct) {
+                const choice = await promptForAnswers(
+                    `${resource.workId}: problems found in ${resource.id}. Skip or retry (s/r)? `,
+                    ['s', 'S', 'r', 'R']
+                )
 
-            while (true) {
-                if (skip) {
-                    console.log(`${resource.workId}: skipping ${resource.id}`)
-                    resources.push(results)
-                    break
-                }
-
-                const choice = await prompt(`${resource.workId}: problems found in ${resource.id}. Skip or retry (s/r)? `)
-
-                switch (choice[0]) {
+                switch (choice) {
                     case 's':
                     case 'S': {
                         const reason = await prompt('Reason for skipping? ')
-                        fs.appendFile(PROBLEMS_FILE, `${resource.workId},${resource.id},""${reason}""`)
-                        skip = true
+                        fs.appendFile(PROBLEMS_FILE, `${resource.workId},${resource.id},"${reason.replace(/"/g, '""')}"\n`)
+                        console.log(`${resource.workId}: skipping ${resource.id}`)
                         break
                     }
 
                     case 'r':
                     case 'R': {
+                        console.log(`${resource.workId}: retrying ${resource.id}`)
                         return getMatchedResources(id)
                     }
                 }
@@ -255,8 +304,6 @@ async function processWork (id) {
             formatCsv(Object.values(resource.taxa))
         )
     }))
-
-    rl.close()
 }
 
 async function main () {
