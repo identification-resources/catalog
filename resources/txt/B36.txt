@@ -3,6 +3,7 @@ levels:
   - family
   - genus
   - species
+  - subspecies
 ---
 
 Agelenidae
@@ -377,6 +378,7 @@ Araneidae
     opisthographa (Kulczyński, 1905)
     proxima (Kulczyński, 1885)
   Argiope
+    > Argiope Audouin, 1826
     australis (Walckenaer, 1805)
     bruennichi (Scopoli, 1772)
     lobata (Pallas, 1772)
@@ -588,6 +590,7 @@ Ctenidae
     pallida (L. Koch, 1875)
     syriaca (O. Pickard-Cambridge, 1872)
   Phoneutria
+    > Phoneutria Perty, 1833
     boliviensis (F. O. Pickard-Cambridge, 1897)
     depilata (Strand, 1909)
 Ctenizidae
@@ -1292,6 +1295,7 @@ Gnaphosidae
     spasskyi Ponomarev, 1979
     venatrix (O. Pickard-Cambridge, 1874)
   Callilepis
+    > Callilepis Westring, 1874
     concolor Simon, 1914
     cretica (Roewer, 1928)
     nocturna (Linnaeus, 1758)
@@ -1895,12 +1899,14 @@ Hahniidae
   Antistea
     elegans (Blackwall, 1841)
   Chorizomma
+    > Chorizomma Simon, 1872
     subterraneum Simon, 1872
   Cicurina
     cicur (Fabricius, 1793)
     japonica (Simon, 1886)
     paphlagoniae Brignoli, 1978
   Hahnia
+    > Hahnia C.L.Koch, 1841
     barbara Denis, 1937
     caeca (Georgescu & Sarbu, 1992)
     harmae Brignoli, 1977
@@ -1938,6 +1944,7 @@ Halonoproctidae
     picea Thorell, 1875
 Hersiliidae
   Hersilia
+    > Hersilia Audouin, 1826
     caudata Audouin, 1826
   Hersiliola
     bayrami Danişman, Sancak, Erdek & Coşar, 2012
@@ -2320,6 +2327,7 @@ Linyphiidae
     obscurus (Blackwall, 1834)
     tristis Denis, 1954
   Collinsia
+    > Collinsia O.P.-Cambridge, 1913
     borea (L. Koch, 1879)
     caliginosa (L. Koch, 1879)
       caliginosa nemenziana Thaler, 1980
@@ -3818,6 +3826,7 @@ Lycosidae
     variana C. L. Koch, 1847
     villica (Lucas, 1846)
   Aulonia
+    > Aulonia C.L.Koch, 1847
     albimana (Walckenaer, 1805)
     kratochvili Dunin, Buchar & Absolon, 1986
   Bogdocosa
@@ -5056,6 +5065,7 @@ Salticidae
     flavescens (O. Pickard-Cambridge, 1872)
     gestroi (Dalmas, 1920)
   Plexippus
+    > Plexippus Koch, 1846
     clemens (O. Pickard-Cambridge, 1872)
     devorans (O. Pickard-Cambridge, 1872)
     paykulli (Audouin, 1826)
@@ -5258,6 +5268,7 @@ Sparassidae
     walckenaeri (Audouin, 1826)
   Gnathopalystes
   Heteropoda
+    > Heteropoda Latreille, 1804
     variegata (Simon, 1874)
     venatoria (Linnaeus, 1767)
   Micrommata
@@ -5289,8 +5300,10 @@ Telemidae
     tenella Simon, 1882
 Tetragnathidae
   Glenognatha
+    > Glenognatha Simon, 1887
     argyrostilba (O. Pickard-Cambridge, 1876)
   Meta
+    > Meta C.L.Koch, 1836
     bourneti Simon, 1922
     menardi (Latreille, 1804)
   Metellina
@@ -5372,6 +5385,7 @@ Theridiidae
   Coscinida
     tibialis Simon, 1895
   Crustulina
+    > Crustulina Menge, 1868
     albovittata (Thorell, 1875)
     conspicua (O. Pickard-Cambridge, 1872)
     erythropus (Lucas, 1846)

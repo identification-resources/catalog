@@ -2,7 +2,9 @@
 levels:
   - class
   - family
-scope: adult from fresh or brackish water
+scope:
+  - adult
+  - fresh or brackish water
 catalog:
   pages: 60-62
 ---

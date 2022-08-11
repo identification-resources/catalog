@@ -1,32 +1,52 @@
 id,checklist_id,problem
-B1,B1:1,GBIF missing new (and older) taxa
-B2,B2:1,"Problems with GBIF data (Chrysis no author, Ch. borealis not in yet)"
-B7,B7:1,GNVerifier problem
-B9,B9:1,Machimus micans missing
-B10,B10:1,GNVerifier problem
-B16,B16:1,"Taxon names are misapplied, cannot be easily corrected"
-B19,B19:1,Only subfamilies
-B23,B23:1,"Rophitoides, Rophitoides canus"
-B35,B35:1,GN: Scymnus apetzi; GBIF: Chilocorus baileyi
-B36,B36:1,Mostly new taxa
-B37,B37:1,Correct (short) prefix
-B40,B40:1,Basionyms not in GBIF
-B43,B43:1,Problems with GNVerifier
-B47,B47:1,GNVerifier problem with Zodion nigritarsis
-B56,B56:1,GN: Phthiria pulicaria
-B64,B64:1,Bibio venosus
-B67,B67:1,"Bombus konradini Reinig, 1965"
-B72,B72:1,Not in GBIF?
-B74,B74:1,GN: Microcanthidae
-B78,B78:1,GN problems
-B85,B85:1,Swammerdamella spinigera not in GBIF
-B87,B87:1,Various not in GBIF; some not in GN
-B126,B126:1,Bibio venosus
-B138,B138:1,GN Sehirus biguttatus
-B144,B144:1,Thysanura is completely gone
-B145,B145:1,Missing from GN
-B141,B141:1,"GNames error, cannot be avoided"
-B153,B153:1,Synonym not in GBIF
-B156,B156:1,"GN not finding order, many weird name combinations"
-B159,B159:1,All matches fine
-B159,B159:2,Subspecies synonym missing in GBIF
+B23,B23:1,"missing genus"
+B36,B36:1,"some missing in GBIF"
+B78,B78:1,"not yet in GBIF"
+B141,B141:1,"TODO Gnaphosidae bug in GBIF"
+B144,B144:1,"TODO Diplura bug in GBIF"
+B160,B160:1,"not found in GBIF"
+B163,B163:1,"Phloeomyzidae not in GBIF"
+B163,B163:8,"Myzocallis species not in GBIF?"
+B163,B163:18,"Kallistaphis sp. not in GBIF?"
+B164,B164:1,"Spondyliaspidae not in GBIF"
+B169,B169:1,"families missing in GBIF; TODO coleoptera wrong"
+B186,B186:1,"old, invalid genus?"
+B187,B187:3,"TODO Tetratoma suddenly not found"
+B187,B187:15,"TODO"
+B188,B188:1,"TODO genera suddenly missing"
+B206,B206:1,"TODO genus suddenly missing"
+B209,B209:1,"TODO Cleptes missing"
+B216,B216:2,"TODO wrong genera suddenly"
+B221,B221:1,"old family"
+B221,B221:6,"old family"
+B226,B226:1,"Old families"
+B228,B228:1,"Lot of synonyms missing in GBIF"
+B229,B229:2,"Missing synonyms"
+B229,B229:7,"missing synonyms"
+B229,B229:8,"missing synonyms"
+B237,B237:1,"TODO GBIF/GN"
+B241,B241:2,"TODO"
+B242,B242:1,"TODO"
+B245,B245:2,"TODO"
+B246,B246:1,"TODO"
+B246,B246:3,"TODO"
+B253,B253:1,"TOOD"
+B273,B273:1,"TODO"
+B311,B311:1,"TODO"
+B312,B312:1,"TODO"
+B313,B313:1,"TODO"
+B314,B314:1,"TODO"
+B318,B318:1,"TODO"
+B319,B319:1,"TODO"
+B376,B376:1,"TODO"
+B380,B380:2,"TODO"
+B383,B383:1,"TODO"
+B384,B384:1,"TODO"
+B419,B419:1,"old family"
+B424,B424:2,"TODO GBIF error"
+B433,B433:1,"TODO"
+B442,B442:1,"TODO"
+B443,B443:1,"TODO"
+B444,B444:1,"TODO"
+B502,B502:1,"TODO"
+B749,B749:1,"TODO"

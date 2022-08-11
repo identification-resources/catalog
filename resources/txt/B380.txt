@@ -2,7 +2,7 @@
 levels:
   - suborder
   - superfamily
-  - clade
+  - superfamily
 catalog:
   pages: 149-149
 ---
@@ -18,7 +18,7 @@ Aculeata
 
 ---
 levels:
-  - clade
+  - superfamily
   - genus
 catalog:
   pages: 156-173
@@ -47,8 +47,10 @@ Apidae s.l.
   Halictus
   Heriades
   Hoplitis
+    > Hoplitis Klug, 1807
   Hylaeus
   Lasioglossum
+    > Lasioglossum Curtis, 1833
   Macropis
   Megachile
   Melecta
@@ -59,6 +61,7 @@ Apidae s.l.
   Rophites
   Sphecodes
   Stelis
+    > Stelis Panzer, 1806
   Tetralonia
   Thyreus
   Trachusa

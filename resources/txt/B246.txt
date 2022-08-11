@@ -22,6 +22,7 @@ TEPHRITIDAE
   ACANTHIOPHILUS
     belianthi (Rossi)
   TEPHRITIS
+    > Tephritis Latreille, 1804
     TEPHRITIS sp.
     cometa (Loew)
   TRUPANEA
@@ -95,7 +96,8 @@ levels:
   - genus
   - subgenus
   - species
-scope: Species that have been found in the British Isles but have not become established
+scope:
+  - Species that have been found in the British Isles but have not become established
 catalog:
   pages: 27-27
   key_type: checklist
@@ -303,7 +305,8 @@ levels:
   - tribe
   - genus
   - species
-scope: puparia
+scope:
+  - puparia
 catalog:
   pages: 54-55
 ---
@@ -323,7 +326,8 @@ TEPHRITIDAE
 ---
 levels:
   - species
-scope: puparia found in Carduus species
+scope:
+  - puparia found in Carduus species
 catalog:
   pages: 55-55
 ---
@@ -339,7 +343,8 @@ Terellia winthemi (Meigen)
 levels:
   - tribe
   - species
-scope: puparia found in Centaurea nigra and Centaurea debeauxii
+scope:
+  - puparia found in Centaurea nigra and Centaurea debeauxii
 catalog:
   pages: 55-56
 ---
@@ -355,7 +360,8 @@ TERELLIINI
 ---
 levels:
   - species
-scope: puparia found in Centaurea scabiosa
+scope:
+  - puparia found in Centaurea scabiosa
 catalog:
   pages: 56-56
 ---
@@ -371,7 +377,8 @@ Urophora cuspidata (Meigen)
 ---
 levels:
   - species
-scope: puparia found in Cirsium species
+scope:
+  - puparia found in Cirsium species
 catalog:
   pages: 56-56
 ---
@@ -391,7 +398,8 @@ Terellia ruficauda (Fabricius)
 ---
 levels:
   - species
-scope: puparia of stem and leaf-mining species
+scope:
+  - puparia of stem and leaf-mining species
 catalog:
   pages: 56-58
   key_type: matrix

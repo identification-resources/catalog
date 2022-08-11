@@ -73,13 +73,14 @@ levels:
   - subfamily
   - genus
   - species
+  - subspecies
 catalog:
   pages: 79-96
 ---
 
 PSYCHODIDAE
   TRICHOMYIINAE
-    Thrichomyia Haliday
+    Trichomyia Haliday
       urbica Haliday
     Sycorax Haliday
       silacea Curtis
@@ -301,7 +302,8 @@ levels:
   - subgenus
   - complex
   - species
-scope: fourth instar larvae
+scope:
+  - larvae, fourth instar
 catalog:
   pages: 117-120
 ---

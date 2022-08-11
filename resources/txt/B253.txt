@@ -1,5 +1,5 @@
 ---
-level:
+levels:
   - order
   - suborder
   - family
@@ -95,6 +95,7 @@ DIPTERA
     Anisopodidae
       Anisopodinae
           Sylvicola
+            > Sylvicola Harris, 1776
             = Anisopus
             Sylvicola indet.
       Mycetobiinae
@@ -260,7 +261,7 @@ DIPTERA
     Piophilidae
             Piophilidae indet.
       Neottiophilinae
-              Neottiophilinae indet.
+            Neottiophilinae indet.
     Opomyzidae
             Opomyzidae indet.
     Clusiidae
@@ -317,6 +318,7 @@ DIPTERA
     Anthomyiidae
             Anthomyiidae indet.
     Faniidae
+      > Fanniidae
             Faniidae indet.
     Muscidae
             Muscidae indet.
@@ -334,11 +336,12 @@ DIPTERA
 ===
 
 ---
-level:
+levels:
   - subfamily
   - genus
   - species
-scope: common 'pest' species usually found in pasture soil or gardens
+scope:
+  - common 'pest' species usually found in pasture soil or gardens
 catalog:
   pages: 36-36
 ---

@@ -2,7 +2,6 @@
 levels:
   - genus
   - species
-  - cultivar
 ---
 
 Acer
@@ -17,7 +16,7 @@ Alnus
 Amelanchier
   lamarckii
 Aronia
-  x prunifolia
+  Aronia sp.
 Berberis
   vulgaris
 Betula
@@ -27,6 +26,7 @@ Buddleja
 Carpinus
   betulus
 Castanea
+  > Castanea Mill.
   sativa
 Clematis
   vitalba
@@ -35,7 +35,6 @@ Cornus
   mas
   sanguinea
   stolonifera
-    "Flaviramea"
 Corylus
   avellana
 Crataegus
@@ -98,6 +97,7 @@ Prunus
 Pterocarya
   fraxinifolia
 Pyrus
+  > Pyrus L.
   communis
 Quercus
   Quercus sp.
@@ -109,6 +109,7 @@ Ribes
   sanguineum
   uva-crispa
 Robinia
+  > Robinia L.
   pseudo-acacia
 Rosa
   Rosa sp.
@@ -117,6 +118,7 @@ Rubus
   idaeus
   rubra
 Salix
+  > Salix L.
   Salix sp.
   purpurea
 Sambucus
@@ -134,6 +136,7 @@ Syringa
 Tilia
   Tilia sp.
 Ulmus
+  > Ulmus L.
   Ulmus sp.
 Viburnum
   lantana

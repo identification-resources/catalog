@@ -1,9 +1,11 @@
 ---
 levels:
   - family
+  - genus
   - species
   - subspecies
-scope: flowers with exclusively ligules and at least 2 leaves
+scope:
+  - flowers with exclusively ligules and at least 2 leaves
 ---
 
 Asteraceae

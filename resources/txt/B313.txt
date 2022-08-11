@@ -1,11 +1,10 @@
 ---
 levels:
-  - sectio
-  - subsectio
+  - section
+  - subsection
   - species
   - subspecies
   - variety
-  - cultivar
 ---
 
     Acanthus mollis
@@ -609,7 +608,6 @@ levels:
     Hibiscus syriacus
     Hieracium angustifolium
       = Pilosella glacialis
-          Hieracium angustifolium 'Hoppe'
     Hieracium maculatum
     Hippocrepis comosa
     Hippocrepis emerus
@@ -681,7 +679,6 @@ levels:
     Lamium amplexicaule
     Lamium hybridum
     Lamium maculatum
-          Lamium maculatum 'Variegatum'
     Lamium purpureum
     Lapsana communis
     Laserpitium halleri
@@ -1323,7 +1320,9 @@ levels:
     Trifolium subterraneum
     Trifolium tomentosum
     Trigonella foenum-graecum
-    Tripleurospermum inodorum( Matricaria inodora, Matricaria maritima)
+    Tripleurospermum inodorum
+      = Matricaria inodora
+      = Matricaria maritima
     Trocdaris verticillatum
       = Carum verticillatum
     Trollius europaeus

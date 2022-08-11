@@ -12,8 +12,8 @@ catalog:
 CHALCIDOIDEA
   APHELINIDAE
         APHELINIDAE indet.
-  CHALCIDIDEA
-        CHALCIDIDEA indet.
+  CHALCIDIDAE
+        CHALCIDIDAE indet.
   CLEONYMIDAE
         CLEONYMIDAE indet.
   ELASMIDAE
@@ -64,7 +64,7 @@ catalog:
   pages: 11-17
 ---
 
-CHALCIDIDEA
+CHALCIDIDAE
   HALTICHELLINAE
     Haltichella Spinola
       rufipes Olivier
@@ -210,6 +210,7 @@ CLEONYMIDAE
 levels:
   - family
   - genus
+  - subgenus
   - species
 catalog:
   pages: 30-32
@@ -221,3 +222,4 @@ THYSANIDAE
       ater Walker
     Signiphora Ashmead
       subaeneus (Förster)
+        > Chartocerus subaeneus (Förster)

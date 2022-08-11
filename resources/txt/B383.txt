@@ -3,7 +3,9 @@ levels:
   - family
   - subfamily
   - genus
+  - subgenus
   - species
+  - subspecies
 ---
 
 Acrididae
@@ -14,7 +16,7 @@ Acrididae
             = Acridium citrinum Serville, 1839
     Anacridium Uvarov, 1923
         melanorhodon
-          melanorhodon (Walker, 1870)
+          melanorhodon melanorhodon (Walker, 1870)
             = Acridium melanorhodon Walker, 1870
         aegyptium (Linné, 1764)
           = Gryllus (Locusta) aegyptius Linné, 1764
@@ -48,21 +50,21 @@ Acrididae
         errabundus Finot, 1893
         fischeri Azam, 1901
         insubricus
-          insubricus (Scopoli, 1786)
+          insubricus insubricus (Scopoli, 1786)
             = Gryllus insubricus Scopoli, 1786
         longipes (Charpentier, 1845(1841))
           = Oedipoda longipes Charpentier, 1845
         patruelis
-          patruelis (Herrich-Schäffer, 1838)
+          patruelis patruelis (Herrich-Schäffer, 1838)
             = Gryllus patruelis Herrich-Schäffer, 1838
     Aiolopus Fieber, 1853
         strepens
-          strepens (Latreille, 1804)
+          strepens strepens (Latreille, 1804)
             = Acrydium strepens Latreille, 1804
         puissanti Defaut, 2005
     Helioscirtus Saussure, 1884
         capsitanus
-          capsitanus (Bonnet, 1884)
+          capsitanus capsitanus (Bonnet, 1884)
             = Bryodema capsitana Bonnet, 1884
         gracilis Vosseler, 1902
         maroccanus Chopard, 1949 (1945-1947)
@@ -103,7 +105,7 @@ Acrididae
           = Sphingonotus desertorum Vosseler, 1902
         ebneri Mistshenko, 1936
         eurasius
-          eurasius Mistshenko, 1937
+          eurasius eurasius Mistshenko, 1937
         lucasii Saussure, 1888
           = Sphingonotus scabriusculus var. lucasii Saussure, 1888
         maroccanus Uvarov, 1930
@@ -111,7 +113,7 @@ Acrididae
         octofasciatus (Serville, 1839)
           = Oedipoda octofasciata Serville, 1839
         rubescens
-          rubescens (Walker, 1870)
+          rubescens rubescens (Walker, 1870)
             = Oedipoda rubescens Walker, 1870
         savignyi Saussure, 1884
       Neosphingonotus
@@ -136,7 +138,7 @@ Acrididae
         caerulescens
           sulfurescens Saussure, 1884
         fuscocincta
-          fuscocincta Lucas, 1849
+          fuscocincta fuscocincta Lucas, 1849
         miniata
           mauritanica Lucas, 1849
     Paracinema Fischer, 1853
@@ -145,7 +147,7 @@ Acrididae
             = Gryllus bisignatus Charpentier, 1825
     Scintharista Saussure, 1884
         notabilis
-          notabilis (Walker, 1870)
+          notabilis notabilis (Walker, 1870)
             = Oedipoda notabilis Walker, 1870
     Sphingoderus Bei-Bienko, 1950
         carinatus (Saussure, 1888)
@@ -180,12 +182,12 @@ Acrididae
         maroccana Werner, 1931
     Chorthippus Fieber, 1852
         apicalis
-          apicalis (Herrich-Schäffer, 1840)
+          apicalis apicalis (Herrich-Schäffer, 1840)
             = Acridium apicalis Herrich-Schäffer, 1840
         vagans
           africanus Nadig, 1981
         binotatus
-          binotatus (Charpentier, 1825)
+          binotatus binotatus (Charpentier, 1825)
             = Gryllus binotatus Charpentier, 1825
         szijji Harz, 1982
       Glyptobothrus
@@ -205,27 +207,27 @@ Acrididae
         hammadae Ingrisch, 1983
       Kazakia
         jagoi
-          jagoi Soltani, 1978
+          jagoi jagoi Soltani, 1978
     Euchorthippus Tarbinsky, 1926
         albolineatus
-          albolineatus (Lucas, 1849)
+          albolineatus albolineatus (Lucas, 1849)
             = Oedipoda albo lineata Lucas, 1849
     Notostaurus Bei-Bienko, 1933
         avicennai Soltani, 1978
     Ochrilidia Stål, 1873
         filicornis
-          filicornis (Krauss, 1902)
+          filicornis filicornis (Krauss, 1902)
             = Platypterna filicornis Krauss, 1902
         geniculata (Bolivar, 1913)
           = Platypterna geniculata Bolivar, 1913
           = Platypterna rothschildi Bolivar, 1913
           = Platypterna kraussi Bolivar, 1913
         gracilis
-          gracilis (Krauss, 1902)
+          gracilis gracilis (Krauss, 1902)
             = Platypterna gracilis Krauss, 1902
             = Platypterna obtusa Salfi, 1931
         harterti
-          harterti (Bolivar, 1913)
+          harterti harterti (Bolivar, 1913)
             = Platypterna harterti Bolivar, 1913
         surcoufi (Chopard, 1937 (1936))
           = Platypterna surcoufi Chopard, 1937
@@ -259,7 +261,7 @@ Acrididae
   Calliptaminae
     Calliptamus Serville, 1831
         barbarus
-          barbarus (Costa, 1836)
+          barbarus barbarus (Costa, 1836)
             = Acridium barbarum Costa, 1836
         montanus Chopard, 1937(1936))
         wattenwylianus (Pantel, 1896)
@@ -296,11 +298,11 @@ Acrididae
   Eyprepocnemidinae
     Eyprepocnemis Fieber, 1853
         plorans
-          plorans (Charpentier, 1825)
+          plorans plorans (Charpentier, 1825)
             = Gryllus plorans Charpentier, 1825
     Heteracris Walker, 1870
         adspersa
-          adspersa (Redtenbacher, 1889)
+          adspersa adspersa (Redtenbacher, 1889)
             = Euprepocnemis adspersa Redtenbacher, 1889
         annulosa Walker, 1870
           = Pezotettix (Euprepocnemis) charpentieri Stål, 1873
@@ -317,7 +319,7 @@ Acrididae
   Tropidopolinae
     Tropidopola Stål, 1873
         cylindrica
-          cylindrica (Marschall, 1836)
+          cylindrica cylindrica (Marschall, 1836)
             = Gryllus cylindricus Marschall, 1836
             = Tropidopola obtusa algeriana Uvarov, 1922
 Pamphagidae
@@ -385,7 +387,7 @@ Pamphagidae
         defauti La Greca, 1993
         laetus (Bolivar, 1907)
           = Eunapius laetus Bolivar, 1907
-        maroccanus(Saussure, 1887) (Saussure, 1887)
+        maroccanus (Saussure, 1887)
           = Eunapius maroccanus Saussure, 1887
         flexuosus Uvarov, 1927
         gharbensis Defaut, 1987
@@ -478,7 +480,7 @@ Pamphagidae
         pulchripennis (Serville, 1839)
           = Eremobia pulchripennis Serville, 1839
         maroccanus Bolivar, 1908
-          = Synonymes Tmethis maroccanus var. incristata Bolivar, 1908
+          = Tmethis maroccanus var. incristata Bolivar, 1908
     Tuarega Uvarov, 1943
         insignis (Lucas, 1851)
           = Oedipoda insignis Lucas, 1851
@@ -494,7 +496,7 @@ Dericorythidae
         lobata
           bolivari Krauss, 1892
         escalerai
-          escalerai (Bolivar, 1936)
+          escalerai escalerai (Bolivar, 1936)
             = Corystoderes escalerai Bolivar, 1936
         millierei Bonnet & Finot, 1884
         murati Uvarov, 1938
@@ -521,12 +523,12 @@ Pyrgomorphidae
         conica (Olivier, 1791)
           = Acridium conicum Olivier, 1791
         tricarinata
-          tricarinata Bolivar, 1884
+          tricarinata tricarinata Bolivar, 1884
         agarena
-          agarena Bolivar, 1894
+          agarena agarena Bolivar, 1894
         cognata Krauss, 1877
         lepineyi
-          lepineyi Chopard, 1943
+          lepineyi lepineyi Chopard, 1943
     Tenuitarsus Bolivar, 1904
         angustus (Blanchard,1836)
           = Ommexecha angustum Blanchard, 1836
