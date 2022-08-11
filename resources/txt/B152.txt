@@ -1,0 +1,185 @@
+---
+levels:
+  - order
+  - suborder
+  - family
+  - genus
+  - species
+  - subspecies
+---
+
+Odonata
+  Zygoptera
+    Agriidae
+      Agrion L.
+        splendens (Harris)
+        virgo (L.)
+    Lestidae
+      Lestes Leach
+        sponsa Hansemann
+        dryas Kirby
+    Platycnemididae
+      Platycnemis Burmeister
+        pennipes (Pallas)
+    Coenagriidae
+      Erythromma Charpentier
+        najas (Hansemann)
+      Enallagma Selys
+        cyathigerum (Charpentier)
+      Ischnura Charpentier
+        elegans (Van der Linden)
+        pumilio (Charpentier)
+      Ceriagrion Selys
+        tenellum (Villers)
+      Pyrrhosoma Charpentier
+        nymphula (Sulzer)
+      Coenagrion Kirby
+        scitulum (Rambur)
+        mercuriale (Charpentier)
+        pulchellum (Van der Linden)
+        puella (L.)
+        armatum (Charpentier)
+        hastulatum (Charpentier)
+  Anisoptera
+    Gomphidae
+      Gomphus Leach
+        vulgatissimus (L.)
+    Cordulegasteridae
+      Cordulegaster Leach
+        boltoni (Donovan)
+          > boltonii (Donovan)
+    Aeschnidae
+      Brachytron Evans
+        pratense (Müller)
+      Anax Leach
+        imperator Leach
+      Aeschna Fabricius
+        grandis (L.)
+        isosceles (Müller)
+        cyanea (Müller)
+        mixta Latreille
+        caerulea (Ström)
+        juncea (L.)
+    Corduliidae
+      Cordulia Leach
+        linaenea Fraser
+      Somatochlora Selys
+        metallica (Van der Linden)
+        arctica (Zetterstedt)
+        alpestris (Selys)
+      Oxygastra Selys
+        curtisi (Dale)
+          > curtisii (Dale)
+    Libellulidae
+      Sympetrum Newman
+        fonscolombei (Selys)
+          > fonscolombii (Selys)
+        flaveolum (L.)
+        vulgatum (L.)
+        nigrescens Lucas
+        striolatum
+          striolatum striolatum (Charpentier)
+        scoticum (Donovan)
+        sanguineum (Müller)
+      Leucorrhinia Brittinger
+        dubia (Van der Linden)
+      Libellula L.
+        depressa L.
+        quadrimaculata L.
+        fulva Müller
+      Orthetrum Newman
+        coerulescens (Fabricius)
+        cancelatum (L.)
+          > cancellatum (L.)
+
+===
+
+---
+scope:
+  - larvae
+levels:
+  - order
+  - suborder
+  - superfamily
+  - family
+  - genus
+  - species
+---
+
+Odonata
+  Zygoptera
+      Agriidae
+        Agrion L.
+          virgo (L.)
+          splendens (Harris)
+      Lestidae
+        Lestes Leach
+          sponsa (Hansemann)
+          dryas Kirby
+    Coenagrioidea
+      Platycnemididae
+        Platycnemis Burmeister
+          pennipes (Pallas)
+      Coenagriidae
+        Erythromma Charpentier
+          najas (Hansemann)
+        Ischnura Charpentier
+          elegans (Van der Linden)
+          pumilio (Charpentier)
+        Ceriagrion Selys
+          tenellum (Villers)
+        Pyrrhosoma Charpentier
+          nymphula (Sulzer)
+        Coenagrion Kirby
+          Coenagrion spec.
+        Enallagma Selys
+          cyathigerum (Charpentier)
+  Anisoptera
+      Gomphidae
+        Gomphus Leach
+          vulgatissimus (L.)
+      Cordulegasteridae
+        Cordulegaster Leach
+          boltoni (Donovan)
+            > boltonii (Donovan)
+      Aeschnidae
+        Brachytron Evans
+          pratense (Müller)
+        Anax Leach
+          imperator Leach
+        Aeschna Fabricius
+          grandis (L.)
+          isosceles (Müller)
+          cyanea (Müller)
+          mixta Latreille
+          caerulea (Ström)
+          juncea (L.)
+      Corduliidae
+        Cordulia Leach
+          linaenea Fraser
+        Somatochlora Selys
+          metallica (Van der Linden)
+          arctica (Zetterstedt)
+          alpestris (Selys)
+        Oxygastra Selys
+          curtisi (Dale)
+            > curtisii (Dale)
+      Libellulidae
+        Sympetrum Newman
+          fonscolombei (Selys)
+            > fonscolombii (Selys)
+          flaveolum (L.)
+          vulgatum (L.)
+          striolatum (Charpentier)
+          scoticum (Donovan)
+          sanguineum (Müller)
+        Leucorrhinia Brittinger
+          dubia (Van der Linden)
+        Libellula L.
+          depressa L.
+          quadrimaculata L.
+          fulva Müller
+        Orthetrum Newman
+          coerulescens (Fabricius)
+          cancelatum (L.)
+            > cancellatum (L.)
