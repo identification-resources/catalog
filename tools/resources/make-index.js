@@ -17,6 +17,36 @@ function parseResources (file) {
     return file.split('\n\n===\n\n').map(parseResource)
 }
 
+function numericSort (a, b) {
+    const as = a.split(/(\d+)/)
+    const bs = b.split(/(\d+)/)
+    for (let i = 0; i < Math.max(as.length, bs.length); i++) {
+        const ai = as[i]
+        const bi = bs[i]
+
+        if (ai === bi) {
+            continue
+        } else if (!ai) {
+            return 1
+        } else if (!bi) {
+            return -1
+        } else if (i % 2) {
+            return ai - bi
+        } else {
+            return ai > bi ? -1 : 1
+        }
+    }
+    return 0
+}
+
+function sortObject (object) {
+    const sorted = {}
+    for (const key of Object.keys(object).sort(numericSort)) {
+        sorted[key] = object[key]
+    }
+    return sorted
+}
+
 async function main () {
     const files = await fs.readdir(path.join(REPO_ROOT, 'txt'))
 
@@ -51,8 +81,8 @@ async function main () {
     }))
 
     await Promise.all([
-        fs.writeFile(path.join(REPO_ROOT, 'gbif.index.json'), JSON.stringify(gbifIndex, null, 2)),
-        fs.writeFile(path.join(REPO_ROOT, 'index.json'), JSON.stringify(resources, null, 2))
+        fs.writeFile(path.join(REPO_ROOT, 'gbif.index.json'), JSON.stringify(sortObject(gbifIndex), null, 2)),
+        fs.writeFile(path.join(REPO_ROOT, 'index.json'), JSON.stringify(sortObject(resources), null, 2))
     ])
 }
 
