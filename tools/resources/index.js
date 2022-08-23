@@ -185,6 +185,8 @@ async function matchNames (resource) {
     return [results, classifications]
 }
 
+const VALID_COMMON_PREFIXES = ['Plantae|Tracheophyta']
+
 async function checkPrefix (resource, classifications, source) {
     const lists = classifications[source]
     if (!lists.length) { return }
@@ -198,6 +200,8 @@ async function checkPrefix (resource, classifications, source) {
 
                 if (source === '1' || taxon.taxonomicStatus !== 'accepted') {
                     choice = 'd'
+                } else if (VALID_COMMON_PREFIXES.includes(prefix.slice(0, i).join('|'))) {
+                    choice = 'k'
                 } else {
                     console.log(`${resource.workId}: source ${source} results in short prefix "${prefix.slice(0, i).join('|')}" (${i} taxa)`)
                     console.log(`  taxon: ${taxon.scientificNameID} "${taxon.scientificName}"`)
