@@ -68,10 +68,12 @@ async function main () {
             for (const row of dwc.split('\n').slice(1)) {
                 const taxon = [...row.matchAll(/([^,"]*|"(""|[^"])*")(,|$)/g)].map(match => match[1])
                 const gbifId = taxon[25]
-                if (gbifId && gbifId in gbifIndex) {
+                if (gbifId) {
+                    if (!(gbifId in gbifIndex)) {
+                        gbifIndex[gbifId] = []
+                    }
                     gbifIndex[gbifId].push(taxon[0])
-                } else if (gbifId) {
-                    gbifIndex[gbifId] = [taxon[0]]
+                    gbifIndex[gbifId].sort(numericSort)
                 }
                 resource.taxonCount += 1
             }
