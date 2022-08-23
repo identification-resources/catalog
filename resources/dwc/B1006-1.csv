@@ -1,5 +1,5 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B1006:1:2,Dufourea,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:1,Dufourea,,,,,,,Dufourea,Dufourea,Dufourea,6338G,
+B1006:1:1,Dufourea,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Dufourea,,,6338G,1351817
 B1006:1:2,Dufourea,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:1,Dufourea,,,,,,,Dufourea,Dufourea,Dufourea,6338G,
 B1006:1:3,Dufourea halictula,,Dufourea,,halictula,,species,,B1006:1,accepted,,,B1006:1:2,Dufourea,,,,,,,Dufourea,Dufourea,Dufourea | Dufourea,,1351966
 B1006:1:4,Dufourea minuta,,Dufourea,,minuta,,species,,B1006:1,accepted,,,B1006:1:2,Dufourea,,,,,,,Dufourea,Dufourea,Dufourea | Dufourea,,1351974
@@ -20,13 +20,13 @@ B1006:1:18,Systropha planidens,,Systropha,,planidens,,species,,B1006:1,accepted,
 B1006:1:19,Nomiapis,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Nomiapis,,,,4405190
 B1006:1:20,Nomiapis diversipes,,Nomiapis,,diversipes,,species,,B1006:1,accepted,,,B1006:1:19,Nomiapis,,,,,,,Nomiapis,,Nomiapis,,4495972
 B1006:1:21,Nomiapis femoralis,,Nomiapis,,femoralis,,species,,B1006:1,accepted,,,B1006:1:19,Nomiapis,,,,,,,Nomiapis,,Nomiapis,,4495974
-B1006:1:23,Nomioides,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:22,Nomioides,,,,,,,Nomioides,Nomioides,Nomioides,,
+B1006:1:22,Nomioides,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Nomioides,,,,1352049
 B1006:1:23,Nomioides,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:22,Nomioides,,,,,,,Nomioides,Nomioides,Nomioides,,
 B1006:1:24,Nomioides minulissimus,,Nomioides,,minulissimus,,species,,B1006:1,accepted,,,B1006:1:23,Nomioides,,,,,,,Nomioides,Nomioides,Nomioides | Nomioides,,1352096
-B1006:1:26,Ceylalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:25,Ceylalictus,,,,,,,Ceylalictus,Ceylalictus,Ceylalictus,,
+B1006:1:25,Ceylalictus,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Ceylalictus,,,,1352660
 B1006:1:26,Ceylalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:25,Ceylalictus,,,,,,,Ceylalictus,Ceylalictus,Ceylalictus,,
 B1006:1:27,Ceylalictus variegatus,,Ceylalictus,,variegatus,,species,,B1006:1,accepted,,,B1006:1:26,Ceylalictus,,,,,,,Ceylalictus,Ceylalictus,Ceylalictus | Ceylalictus,,1352694
-B1006:1:29,Halictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,Halictus,,,,,,,Halictus,Halictus,Halictus,,
+B1006:1:28,Halictus,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Halictus,,,,9494286
 B1006:1:29,Halictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,Halictus,,,,,,,Halictus,Halictus,Halictus,,
 B1006:1:30,Halictus quadricinctus,,Halictus,,quadricinctus,,species,,B1006:1,accepted,,,B1006:1:29,Halictus,,,,,,,Halictus,Halictus,Halictus | Halictus,,1353236
 B1006:1:31,Protohalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,Halictus,,,,,,,Halictus,Protohalictus,Halictus,,
@@ -48,7 +48,7 @@ B1006:1:46,Seladonia leucahenea,,Seladonia,,leucahenea,,species,,B1006:1,accepte
 B1006:1:47,Seladonia tumulorum,,Seladonia,,tumulorum,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10586252
 B1006:1:48,Seladonia confusa,,Seladonia,,confusa,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10587258
 B1006:1:49,Seladonia gavarnica,,Seladonia,,gavarnica,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10096738
-B1006:1:51,Lasioglossum,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:50,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum,,
+B1006:1:50,Lasioglossum,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Lasioglossum,,,,
 B1006:1:51,Lasioglossum,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:50,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum,,
 B1006:1:52,Lasioglossum xanthopus,,Lasioglossum,,xanthopus,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,,1353731
 B1006:1:53,Lasioglossum subfasciatum,,Lasioglossum,,subfasciatum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,,11339304
