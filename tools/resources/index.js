@@ -144,7 +144,10 @@ async function matchNames (resource) {
     const names = []
     for (const id in resource.taxa) {
         const name = resource.taxa[id].scientificName
-        taxa[name] = { ...resource.taxa[id] }
+
+        if (!taxa[name]) { taxa[name] = {} }
+        taxa[name][id] = { ...resource.taxa[id] }
+
         names.push(name)
     }
 
@@ -157,25 +160,26 @@ async function matchNames (resource) {
         const source = match[header.indexOf('DataSourceId')]
         const id = match[header.indexOf('TaxonId')]
         const classification = match[header.indexOf('ClassificationPath')]
-        const taxon = taxa[name]
 
-        if (source === '1' && !taxon.colTaxonID) {
-            taxon.colTaxonID = id
-            classifications[source].push([taxon, classification])
-        }
-        if (source === '11' && GBIF_RANKS.includes(taxon.taxonRank) && !taxon.gbifTaxonID) {
-            taxon.gbifTaxonID = id
-            classifications[source].push([taxon, classification])
+        for (const loirId in taxa[name]) {
+            const taxon = taxa[name][loirId]
+            if (source === '1' && !taxon.colTaxonID) {
+                taxon.colTaxonID = id
+                classifications[source].push([taxon, classification])
+            }
+            if (source === '11' && GBIF_RANKS.includes(taxon.taxonRank) && !taxon.gbifTaxonID) {
+                taxon.gbifTaxonID = id
+                classifications[source].push([taxon, classification])
+            }
         }
     }
 
     const results = {
         ...resource,
-        taxa: Object.fromEntries(
-            Object.values(resource.taxa).map(
-                taxon => [taxon.scientificNameID, taxa[taxon.scientificName]]
-            )
-        )
+        taxa: Object.fromEntries(Object.values(resource.taxa).map(taxon => [
+            taxon.scientificNameID,
+            taxa[taxon.scientificName][taxon.scientificNameID]
+        ]))
     }
 
     return [results, classifications]
