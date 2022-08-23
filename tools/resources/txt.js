@@ -67,7 +67,7 @@ const NAME_PATTERN = new RegExp(
         // $2 optional author citation
         '(?: ' +
             // but not auct(t).
-            '(?!auctt?\.|(syn|comb|sp|spec)\. n(ov)?\.)' +
+            '(?!auctt?\.|(?:syn|comb|sp|spec)\. n(?:ov)?\.)' +
         '(' +
             // $2.1 anything in parentheses
             '\\(.+?\\)' +
