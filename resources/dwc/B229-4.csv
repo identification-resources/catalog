@@ -1,84 +1,84 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B229:4:1,Psychodidae,,,,,,family,,B229:4,accepted,,,,,,,,,Psychodidae,,,,,87C9G,9164
 B229:4:2,Trichomyiinae,,,,,,subfamily,,B229:4,accepted,,,B229:4:1,Psychodidae,,,,,Psychodidae,Trichomyiinae,,,Psychodidae,87CPL,
-B229:4:3,Trichomyia,,,,,,genus,,B229:4,accepted,,,B229:4:2,Trichomyiinae,,,,,Psychodidae,Trichomyiinae,Trichomyia,,Psychodidae | Trichomyiinae,8MVLX,1642407
-B229:4:4,Trichomyia urbica,,Trichomyia,,urbica,,species,,B229:4,accepted,,,B229:4:3,Trichomyia,,,,,Psychodidae,Trichomyiinae,Trichomyia,,Psychodidae | Trichomyiinae | Trichomyia,58FSL,1642445
-B229:4:5,Sycorax,,,,,,genus,,B229:4,accepted,,,B229:4:2,Trichomyiinae,,,,,Psychodidae,Trichomyiinae,Sycorax,,Psychodidae | Trichomyiinae,7QNH,1641999
-B229:4:6,Sycorax silacea,,Sycorax,,silacea,,species,,B229:4,accepted,,,B229:4:5,Sycorax,,,,,Psychodidae,Trichomyiinae,Sycorax,,Psychodidae | Trichomyiinae | Sycorax,53LZ8,1642023
+B229:4:3,Trichomyia Haliday,Haliday,,,,,genus,,B229:4,accepted,,,B229:4:2,Trichomyiinae,,,,,Psychodidae,Trichomyiinae,Trichomyia,,Psychodidae | Trichomyiinae,8MVLX,1642407
+B229:4:4,Trichomyia urbica Haliday,Haliday,Trichomyia,,urbica,,species,,B229:4,accepted,,,B229:4:3,Trichomyia Haliday,,,,,Psychodidae,Trichomyiinae,Trichomyia,,Psychodidae | Trichomyiinae | Trichomyia,58FSL,1642445
+B229:4:5,Sycorax Haliday,Haliday,,,,,genus,,B229:4,accepted,,,B229:4:2,Trichomyiinae,,,,,Psychodidae,Trichomyiinae,Sycorax,,Psychodidae | Trichomyiinae,7QNH,1641999
+B229:4:6,Sycorax silacea Curtis,Curtis,Sycorax,,silacea,,species,,B229:4,accepted,,,B229:4:5,Sycorax Haliday,,,,,Psychodidae,Trichomyiinae,Sycorax,,Psychodidae | Trichomyiinae | Sycorax,53LZ8,11277374
 B229:4:7,Psychodinae,,,,,,subfamily,,B229:4,accepted,,,B229:4:1,Psychodidae,,,,,Psychodidae,Psychodinae,,,Psychodidae,8MPQC,
-B229:4:8,Clytocerus,,,,,,genus,,B229:4,accepted,,,B229:4:7,Psychodinae,,,,,Psychodidae,Psychodinae,Clytocerus,,Psychodidae | Psychodinae,87G3B,1639663
-B229:4:9,Clytocerus ocellaris,,Clytocerus,,ocellaris,,species,,B229:4,accepted,,,B229:4:8,Clytocerus,,,,,Psychodidae,Psychodinae,Clytocerus,,Psychodidae | Psychodinae | Clytocerus,8BJFJ,1639682
-B229:4:10,Clytocerus dalii,,Clytocerus,,dalii,,species,,B229:4,accepted,,,B229:4:8,Clytocerus,,,,,Psychodidae,Psychodinae,Clytocerus,,Psychodidae | Psychodinae | Clytocerus,8BJFD,1639679
-B229:4:11,Pericoma,,,,,,genus,,B229:4,accepted,,,B229:4:7,Psychodinae,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae,8MT7H,10714528
-B229:4:12,Pericoma fusca,,Pericoma,,fusca,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11303720
-B229:4:13,Pericoma auriculata,,Pericoma,,auriculata,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11248909
-B229:4:14,Pericoma fuliginosa,,Pericoma,,fuliginosa,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11245503
-B229:4:15,Pericoma palustris,,Pericoma,,palustris,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11307323
-B229:4:16,Pericoma compta,,Pericoma,,compta,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8SN,1642895
-B229:4:17,Pericoma mutua,,Pericoma,,mutua,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8VL,1642888
-B229:4:18,Pericoma pilularia,,Pericoma,,pilularia,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8W3,1642865
-B229:4:19,Pericoma extricata,,Pericoma,,extricata,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8T4,1642879
-B229:4:20,Pericoma cognata,,Pericoma,,cognata,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8SM,1641644
-B229:4:21,Pericoma gracilis,,Pericoma,,gracilis,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8TF,1642828
-B229:4:22,Pericoma hibernica,,Pericoma,,hibernica,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8TK,1643387
-B229:4:23,Pericoma nubila,,Pericoma,,nubila,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11314136
-B229:4:24,Pericoma trivialis,,Pericoma,,trivialis,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8WZ,1642830
-B229:4:25,Pericoma canescens,,Pericoma,,canescens,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11351807
-B229:4:26,Pericoma neglecta,,Pericoma,,neglecta,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8VM,1642145
-B229:4:27,Pericoma blandula,,Pericoma,,blandula,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8PL,1641820
-B229:4:28,Pericoma pulchra,,Pericoma,,pulchra,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8WB,1642205
-B229:4:29,Pericoma calcilega,,Pericoma,,calcilega,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8Q3,1641962
-B229:4:30,Pericoma trifasciata,,Pericoma,,trifasciata,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8RM,1641958
-B229:4:31,Pericoma avicularia,,Pericoma,,avicularia,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,89NL7,1641903
-B229:4:32,Pericoma fallax,,Pericoma,,fallax,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8PM,1641957
-B229:4:33,Pericoma diversa,,Pericoma,,diversa,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8Q9,1641818
-B229:4:34,Pericoma pseudoexquisita,,Pericoma,,pseudoexquisita,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8R6,1641902
-B229:4:35,Pericoma exquisita,,Pericoma,,exquisita,,species,,B229:4,accepted,,,B229:4:11,Pericoma,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8QC,4522141
-B229:4:36,Telmatoscopus,,,,,,genus,,B229:4,accepted,,,B229:4:7,Psychodinae,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae,87KXB,1643172
-B229:4:37,Telmatoscopus notabilis,,Telmatoscopus,,notabilis,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
-B229:4:38,Telmatoscopus albifacies,,Telmatoscopus,,albifacies,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
-B229:4:39,Telmatoscopus goetghebueri,,Telmatoscopus,,goetghebueri,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
-B229:4:40,Telmatoscopus fraterculus,,Telmatoscopus,,fraterculus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,,11229369
-B229:4:41,Telmatoscopus labeculosus,,Telmatoscopus,,labeculosus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558HH,1643301
-B229:4:42,Telmatoscopus tristis,,Telmatoscopus,,tristis,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558KZ,5981280
-B229:4:43,Telmatoscopus rothschildi,,Telmatoscopus,,rothschildi,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558K8,1640776
-B229:4:44,Telmatoscopus ustulatus,,Telmatoscopus,,ustulatus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,,11223364
-B229:4:45,Telmatoscopus britteni,,Telmatoscopus,,britteni,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558FM,1643284
-B229:4:46,Telmatoscopus ambiguus,,Telmatoscopus,,ambiguus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558F9,1643225
-B229:4:47,Telmatoscopus advenus,,Telmatoscopus,,advenus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558F5,1643237
-B229:4:48,Telmatoscopus morulus,,Telmatoscopus,,morulus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558J6,1643268
-B229:4:49,Telmatoscopus angustipennis,,Telmatoscopus,,angustipennis,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
-B229:4:50,Telmatoscopus incertus,,Telmatoscopus,,incertus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
-B229:4:51,Telmatoscopus consors,,Telmatoscopus,,consors,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,,8759076
-B229:4:52,Telmatoscopus decipiens,,Telmatoscopus,,decipiens,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,,11324532
-B229:4:53,Telmatoscopus soleatus,,Telmatoscopus,,soleatus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,,8903479
-B229:4:54,Telmatoscopus revisendus,,Telmatoscopus,,revisendus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
-B229:4:55,Telmatoscopus andrenipes,,Telmatoscopus,,andrenipes,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
-B229:4:56,Telmatoscopus eatoni,,Telmatoscopus,,eatoni,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,8FD8P,1641426
-B229:4:57,Telmatoscopus caliginosus,,Telmatoscopus,,caliginosus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
-B229:4:58,Telmatoscopus palposus,,Telmatoscopus,,palposus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
-B229:4:59,Telmatoscopus furvus,,Telmatoscopus,,furvus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,8FD8X,1641339
-B229:4:60,Trichopsychoda,,,,,,genus,,B229:4,accepted,,,B229:4:7,Psychodinae,,,,,Psychodidae,Psychodinae,Trichopsychoda,,Psychodidae | Psychodinae,7ZL5,1642371
-B229:4:61,Trichopsychoda hirtella,,Trichopsychoda,,hirtella,,species,,B229:4,accepted,,,B229:4:60,Trichopsychoda,,,,,Psychodidae,Psychodinae,Trichopsychoda,,Psychodidae | Psychodinae | Trichopsychoda,58HVY,1642394
-B229:4:62,Psychoda,,,,,,genus,,B229:4,accepted,,,B229:4:7,Psychodinae,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae,8NYBV,1639725
-B229:4:63,Psychoda lucifuga,,Psychoda,,lucifuga,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,,8634026
-B229:4:64,Psychoda humeralis,,Psychoda,,humeralis,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,8DK4K,1641516
-B229:4:65,Psychoda cinerea,,Psychoda,,cinerea,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMHC,1640035
-B229:4:66,Psychoda compar,,Psychoda,,compar,,species,,B229:4,synonym,B229:4:65,Psychoda cinerea,,,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,,8902006
-B229:4:67,Psychoda gemina,,Psychoda,,gemina,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMKK,1640045
-B229:4:68,Psychoda obscura,,Psychoda,,obscura,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,8DK55,11118369
-B229:4:69,Psychoda erminea,,Psychoda,,erminea,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMJL,1640065
-B229:4:70,Psychoda brevicornis,,Psychoda,,brevicornis,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMGX,1639801
-B229:4:71,Psychoda setigera,,Psychoda,,setigera,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMR8,1639741
-B229:4:72,Psychoda trinodulosa,,Psychoda,,trinodulosa,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMSP,1640049
-B229:4:73,Psychoda alternata,,Psychoda,,alternata,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMFQ,1639760
-B229:4:74,Psychoda albipennis,,Psychoda,,albipennis,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMFK,1639846
-B229:4:75,Psychoda surcoufi,,Psychoda,,surcoufi,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMS5,1639822
-B229:4:76,Psychoda crassipenis,,Psychoda,,crassipenis,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMHM,4522043
-B229:4:77,Psychoda phalaenoides,,Psychoda,,phalaenoides,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,78JQX,1639964
-B229:4:78,Psychoda pusilla,,Psychoda,,pusilla,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMQ4,1640027
-B229:4:79,Psychoda spreta,,Psychoda,,spreta,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMRT,1640069
-B229:4:80,Psychoda grisescens,,Psychoda,,grisescens,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMKR,1639898
-B229:4:81,Psychoda lobata,,Psychoda,,lobata,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMLX,1639971
-B229:4:82,Psychoda servini,,Psychoda,,servini,,species,,B229:4,accepted,,,B229:4:62,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,8NYBV,1639725
-B229:4:83,Psychoda servini subsp. parthenogenetica,,Psychoda,,servini,parthenogenetica,subspecies,,B229:4,accepted,,,B229:4:82,Psychoda servini,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda | Psychoda servini,4PMP6,1639769
+B229:4:8,Clytocerus Eaton,Eaton,,,,,genus,,B229:4,accepted,,,B229:4:7,Psychodinae,,,,,Psychodidae,Psychodinae,Clytocerus,,Psychodidae | Psychodinae,87G3B,1639663
+B229:4:9,Clytocerus ocellaris Meigen,Meigen,Clytocerus,,ocellaris,,species,,B229:4,accepted,,,B229:4:8,Clytocerus Eaton,,,,,Psychodidae,Psychodinae,Clytocerus,,Psychodidae | Psychodinae | Clytocerus,8BJFJ,1639682
+B229:4:10,Clytocerus dalii Eaton,Eaton,Clytocerus,,dalii,,species,,B229:4,accepted,,,B229:4:8,Clytocerus Eaton,,,,,Psychodidae,Psychodinae,Clytocerus,,Psychodidae | Psychodinae | Clytocerus,8BJFD,1639679
+B229:4:11,Pericoma Walker,Walker,,,,,genus,,B229:4,accepted,,,B229:4:7,Psychodinae,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae,8MT7H,1641770
+B229:4:12,Pericoma fusca Macquart,Macquart,Pericoma,,fusca,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11303720
+B229:4:13,Pericoma auriculata Haliday,Haliday,Pericoma,,auriculata,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11248909
+B229:4:14,Pericoma fuliginosa Meigen,Meigen,Pericoma,,fuliginosa,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11245503
+B229:4:15,Pericoma palustris Meigen,Meigen,Pericoma,,palustris,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11307323
+B229:4:16,Pericoma compta Eaton,Eaton,Pericoma,,compta,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8SN,1642895
+B229:4:17,Pericoma mutua Eaton,Eaton,Pericoma,,mutua,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8VL,1642888
+B229:4:18,Pericoma pilularia Tonnoir,Tonnoir,Pericoma,,pilularia,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8W3,1642865
+B229:4:19,Pericoma extricata Eaton,Eaton,Pericoma,,extricata,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8T4,1642879
+B229:4:20,Pericoma cognata Eaton,Eaton,Pericoma,,cognata,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8SM,1641644
+B229:4:21,Pericoma gracilis Eaton,Eaton,Pericoma,,gracilis,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8TF,1642828
+B229:4:22,Pericoma hibernica Tonnoir,Tonnoir,Pericoma,,hibernica,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8TK,1643387
+B229:4:23,Pericoma nubila Meigen,Meigen,Pericoma,,nubila,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11314136
+B229:4:24,Pericoma trivialis Eaton,Eaton,Pericoma,,trivialis,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8WZ,1642830
+B229:4:25,Pericoma canescens Meigen,Meigen,Pericoma,,canescens,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,,11351807
+B229:4:26,Pericoma neglecta Eaton,Eaton,Pericoma,,neglecta,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8VM,1642145
+B229:4:27,Pericoma blandula Eaton,Eaton,Pericoma,,blandula,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8PL,1641820
+B229:4:28,Pericoma pulchra Eaton,Eaton,Pericoma,,pulchra,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8WB,1642205
+B229:4:29,Pericoma calcilega Tonnoir,Tonnoir,Pericoma,,calcilega,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8Q3,11239177
+B229:4:30,Pericoma trifasciata Meigen,Meigen,Pericoma,,trifasciata,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8RM,1641958
+B229:4:31,Pericoma avicularia Tonnoir,Tonnoir,Pericoma,,avicularia,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,89NL7,1641903
+B229:4:32,Pericoma fallax Eaton,Eaton,Pericoma,,fallax,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8PM,1641957
+B229:4:33,Pericoma diversa Tonnoir,Tonnoir,Pericoma,,diversa,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8Q9,1641818
+B229:4:34,Pericoma pseudoexquisita Tonnoir,Tonnoir,Pericoma,,pseudoexquisita,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8R6,1641902
+B229:4:35,Pericoma exquisita Tonnoir,Tonnoir,Pericoma,,exquisita,,species,,B229:4,accepted,,,B229:4:11,Pericoma Walker,,,,,Psychodidae,Psychodinae,Pericoma,,Psychodidae | Psychodinae | Pericoma,8D8QC,4522141
+B229:4:36,Telmatoscopus Eaton,Eaton,,,,,genus,,B229:4,accepted,,,B229:4:7,Psychodinae,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae,87KXB,1643172
+B229:4:37,Telmatoscopus notabilis Eaton,Eaton,Telmatoscopus,,notabilis,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
+B229:4:38,Telmatoscopus albifacies Tonnoir,Tonnoir,Telmatoscopus,,albifacies,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
+B229:4:39,Telmatoscopus goetghebueri Tonnoir,Tonnoir,Telmatoscopus,,goetghebueri,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
+B229:4:40,Telmatoscopus fraterculus Eaton,Eaton,Telmatoscopus,,fraterculus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,,11229369
+B229:4:41,Telmatoscopus labeculosus Eaton,Eaton,Telmatoscopus,,labeculosus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558HH,1643301
+B229:4:42,Telmatoscopus tristis Meigen,Meigen,Telmatoscopus,,tristis,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558KZ,5981280
+B229:4:43,Telmatoscopus rothschildi Eaton,Eaton,Telmatoscopus,,rothschildi,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558K8,1640776
+B229:4:44,Telmatoscopus ustulatus Walker,Walker,Telmatoscopus,,ustulatus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,,11223364
+B229:4:45,Telmatoscopus britteni Tonnoir,Tonnoir,Telmatoscopus,,britteni,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558FM,1643284
+B229:4:46,Telmatoscopus ambiguus Eaton,Eaton,Telmatoscopus,,ambiguus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558F9,1643225
+B229:4:47,Telmatoscopus advenus Eaton,Eaton,Telmatoscopus,,advenus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558F5,1643237
+B229:4:48,Telmatoscopus morulus Eaton,Eaton,Telmatoscopus,,morulus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,558J6,1643268
+B229:4:49,Telmatoscopus angustipennis Tonnoir,Tonnoir,Telmatoscopus,,angustipennis,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
+B229:4:50,Telmatoscopus incertus Eaton,Eaton,Telmatoscopus,,incertus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
+B229:4:51,Telmatoscopus consors Eaton,Eaton,Telmatoscopus,,consors,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,,8759076
+B229:4:52,Telmatoscopus decipiens Eaton,Eaton,Telmatoscopus,,decipiens,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,,11324532
+B229:4:53,Telmatoscopus soleatus Walker,Walker,Telmatoscopus,,soleatus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,,11291090
+B229:4:54,Telmatoscopus revisendus Eaton,Eaton,Telmatoscopus,,revisendus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
+B229:4:55,Telmatoscopus andrenipes Strobl,Strobl,Telmatoscopus,,andrenipes,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
+B229:4:56,Telmatoscopus eatoni Tonnoir,Tonnoir,Telmatoscopus,,eatoni,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,8FD8P,1641426
+B229:4:57,Telmatoscopus caliginosus Eaton,Eaton,Telmatoscopus,,caliginosus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
+B229:4:58,Telmatoscopus palposus Tonnoir,Tonnoir,Telmatoscopus,,palposus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,87KXB,1643172
+B229:4:59,Telmatoscopus furvus Tonnoir,Tonnoir,Telmatoscopus,,furvus,,species,,B229:4,accepted,,,B229:4:36,Telmatoscopus Eaton,,,,,Psychodidae,Psychodinae,Telmatoscopus,,Psychodidae | Psychodinae | Telmatoscopus,8FD8X,1641339
+B229:4:60,Trichopsychoda Tonnoir,Tonnoir,,,,,genus,,B229:4,accepted,,,B229:4:7,Psychodinae,,,,,Psychodidae,Psychodinae,Trichopsychoda,,Psychodidae | Psychodinae,7ZL5,1642371
+B229:4:61,Trichopsychoda hirtella Tonnoir,Tonnoir,Trichopsychoda,,hirtella,,species,,B229:4,accepted,,,B229:4:60,Trichopsychoda Tonnoir,,,,,Psychodidae,Psychodinae,Trichopsychoda,,Psychodidae | Psychodinae | Trichopsychoda,58HVY,1642394
+B229:4:62,Psychoda Latreille,Latreille,,,,,genus,,B229:4,accepted,,,B229:4:7,Psychodinae,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae,8NYBV,1639725
+B229:4:63,Psychoda lucifuga Walker,Walker,Psychoda,,lucifuga,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,,8634026
+B229:4:64,Psychoda humeralis Meigen,Meigen,Psychoda,,humeralis,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,8DK4K,1641516
+B229:4:65,Psychoda cinerea Banks,Banks,Psychoda,,cinerea,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMHC,1640035
+B229:4:66,Psychoda compar Eaton,Eaton,Psychoda,,compar,,species,,B229:4,synonym,B229:4:65,Psychoda cinerea Banks,,,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,,8902006
+B229:4:67,Psychoda gemina Eaton,Eaton,Psychoda,,gemina,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMKK,1640045
+B229:4:68,Psychoda obscura Tonnoir,Tonnoir,Psychoda,,obscura,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,8DK55,1641740
+B229:4:69,Psychoda erminea Eaton,Eaton,Psychoda,,erminea,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMJL,1640065
+B229:4:70,Psychoda brevicornis Tonnoir,Tonnoir,Psychoda,,brevicornis,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMGX,1639801
+B229:4:71,Psychoda setigera Tonnoir,Tonnoir,Psychoda,,setigera,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMR8,1639741
+B229:4:72,Psychoda trinodulosa Tonnoir,Tonnoir,Psychoda,,trinodulosa,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMSP,1640049
+B229:4:73,Psychoda alternata Say,Say,Psychoda,,alternata,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMFQ,1639760
+B229:4:74,Psychoda albipennis zetterstedti,zetterstedti,Psychoda,,albipennis,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,8H2Z7,4522040
+B229:4:75,Psychoda surcoufi Tonnoir,Tonnoir,Psychoda,,surcoufi,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMS5,1639822
+B229:4:76,Psychoda crassipenis Tonnoir,Tonnoir,Psychoda,,crassipenis,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMHM,4522043
+B229:4:77,Psychoda phalaenoides Eaton,Eaton,Psychoda,,phalaenoides,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,78JQX,1639964
+B229:4:78,Psychoda pusilla Tonnoir,Tonnoir,Psychoda,,pusilla,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMQ4,1640027
+B229:4:79,Psychoda spreta Tonnoir,Tonnoir,Psychoda,,spreta,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMRT,1640069
+B229:4:80,Psychoda grisescens Tonnoir,Tonnoir,Psychoda,,grisescens,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMKR,1639898
+B229:4:81,Psychoda lobata Tonnoir,Tonnoir,Psychoda,,lobata,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,4PMLX,1639971
+B229:4:82,Psychoda servini,,Psychoda,,servini,,species,,B229:4,accepted,,,B229:4:62,Psychoda Latreille,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda,8NYBV,1639725
+B229:4:83,Psychoda servini subsp. parthenogenetica Tonnoir,Tonnoir,Psychoda,,servini,parthenogenetica,subspecies,,B229:4,accepted,,,B229:4:82,Psychoda servini,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychoda | Psychoda servini,4PMP6,1639769

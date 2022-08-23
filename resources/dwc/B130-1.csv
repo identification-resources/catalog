@@ -1,8 +1,8 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B130:1:2,Orthoptera,,,,,,order,,B130:1,synonym,B130:1:1,Orthoptera,,,,,,Orthoptera,,,,,,8NKFC,1458
+B130:1:1,Orthoptera,,,,,,order,,B130:1,accepted,,,,,,,,Saltatoria,,,,,,8NKFC,1458
 B130:1:2,Orthoptera,,,,,,order,,B130:1,synonym,B130:1:1,Orthoptera,,,,,,Orthoptera,,,,,,8NKFC,1458
 B130:1:3,Ensifera,,,,,,suborder,,B130:1,accepted,,,B130:1:1,Orthoptera,,,,Saltatoria,,,,,Orthoptera,8NKFN,
-B130:1:5,Tettigoniidae,,,,,,family,,B130:1,accepted,,,B130:1:4,Tettigoniidae,,,,Saltatoria,Tettigoniidae,,,,Orthoptera | Ensifera | Tettigoniidae,8NKR2,3991
+B130:1:4,Tettigoniidae,,,,,,superfamily,,B130:1,accepted,,,B130:1:3,Ensifera,,,,Saltatoria,,,,,Orthoptera | Ensifera,8NKR2,
 B130:1:5,Tettigoniidae,,,,,,family,,B130:1,accepted,,,B130:1:4,Tettigoniidae,,,,Saltatoria,Tettigoniidae,,,,Orthoptera | Ensifera | Tettigoniidae,8NKR2,3991
 B130:1:6,Leptophyes,,,,,,genus,,B130:1,accepted,,,B130:1:5,Tettigoniidae,,,,Saltatoria,Tettigoniidae,,Leptophyes,,Orthoptera | Ensifera | Tettigoniidae | Tettigoniidae,8NTGZ,1688004
 B130:1:7,"Leptophyes punctatissima (Bosc, 1792)","(Bosc, 1792)",Leptophyes,,punctatissima,,species,,B130:1,accepted,,,B130:1:6,Leptophyes,,,,Saltatoria,Tettigoniidae,,Leptophyes,,Orthoptera | Ensifera | Tettigoniidae | Tettigoniidae | Leptophyes,3TT7Q,1688020

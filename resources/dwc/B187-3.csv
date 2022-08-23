@@ -1,6 +1,6 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B187:3:1,Tetratomidae,,,,,,family,,B187:3,accepted,,,,,,,,,Tetratomidae,,,,,626PK,4764
-B187:3:2,Tetratoma,,,,,,genus,,B187:3,accepted,,,B187:3:1,Tetratomidae,,,,,Tetratomidae,,Tetratoma,,Tetratomidae,646V2,
-B187:3:3,Tetratoma ancora,,Tetratoma,,ancora,,species,,B187:3,accepted,,,B187:3:2,Tetratoma,,,,,Tetratomidae,,Tetratoma,,Tetratomidae | Tetratoma,,5878217
-B187:3:4,Tetratoma fungorum,,Tetratoma,,fungorum,,species,,B187:3,accepted,,,B187:3:2,Tetratoma,,,,,Tetratomidae,,Tetratoma,,Tetratomidae | Tetratoma,,5878216
-B187:3:5,Tetratoma desmarestii,,Tetratoma,,desmarestii,,species,,B187:3,accepted,,,B187:3:2,Tetratoma,,,,,Tetratomidae,,Tetratoma,,Tetratomidae | Tetratoma,,6097719
+B187:3:2,Tetratoma Fabricius,Fabricius,,,,,genus,,B187:3,accepted,,,B187:3:1,Tetratomidae,,,,,Tetratomidae,,Tetratoma,,Tetratomidae,646V2,1045099
+B187:3:3,Tetratoma ancora Fabricius,Fabricius,Tetratoma,,ancora,,species,,B187:3,accepted,,,B187:3:2,Tetratoma Fabricius,,,,,Tetratomidae,,Tetratoma,,Tetratomidae | Tetratoma,,5878217
+B187:3:4,Tetratoma fungorum Fabricius,Fabricius,Tetratoma,,fungorum,,species,,B187:3,accepted,,,B187:3:2,Tetratoma Fabricius,,,,,Tetratomidae,,Tetratoma,,Tetratomidae | Tetratoma,,5878216
+B187:3:5,Tetratoma desmarestii Latreille,Latreille,Tetratoma,,desmarestii,,species,,B187:3,accepted,,,B187:3:2,Tetratoma Fabricius,,,,,Tetratomidae,,Tetratoma,,Tetratomidae | Tetratoma,,6097719

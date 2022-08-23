@@ -1,20 +1,20 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B365:3:2,Paederus,,,,,,subgenus,,B365:3,accepted,,,B365:3:1,Paederus,,,,,,,Paederus,Paederus,Paederus,6C7P,
-B365:3:2,Paederus,,,,,,subgenus,,B365:3,accepted,,,B365:3:1,Paederus,,,,,,,Paederus,Paederus,Paederus,6C7P,
-B365:3:6,Paederus riparius,,Paederus,,riparius,,species,,B365:3,synonym,B365:3:5,Paederus balcanicus,,,,,,,,,Paederus,Paederus,Paederus | Paederus,4BX8Q,5746383
-B365:3:4,Staphylinus riparius,,Staphylinus,,riparius,,species,,B365:3,synonym,B365:3:3,Paederus riparius,,,,,,,,,Paederus,Paederus,Paederus | Paederus,4ZKBR,4439244
-B365:3:5,Paederus balcanicus,,Paederus,,balcanicus,,species,,B365:3,accepted,,,B365:3:2,Paederus,,,,,,,Paederus,Paederus,Paederus | Paederus,75J58,5746381
-B365:3:6,Paederus riparius,,Paederus,,riparius,,species,,B365:3,synonym,B365:3:5,Paederus balcanicus,,,,,,,,,Paederus,Paederus,Paederus | Paederus,4BX8Q,5746383
-B365:3:7,Paederus trapeziceps,,Paederus,,trapeziceps,,species,,B365:3,synonym,B365:3:5,Paederus balcanicus,,,,,,,,,Paederus,Paederus,Paederus | Paederus,4BX8V,5746382
-B365:3:8,Heteropaederus,,,,,,subgenus,,B365:3,accepted,,,B365:3:1,Paederus,,,,,,,Paederus,Heteropaederus,Paederus,8DNM,
-B365:3:9,Paederus fuscipes,,Paederus,,fuscipes,,species,,B365:3,accepted,,,B365:3:8,Heteropaederus,,,,,,,Paederus,Heteropaederus,Paederus | Heteropaederus,4BX7C,5746394
-B365:3:10,Paederus kalalovae,,Paederus,,kalalovae,,species,,B365:3,synonym,B365:3:9,Paederus fuscipes,,,,,,,,,Paederus,Heteropaederus,Paederus | Heteropaederus,4BXL7,9290213
-B365:3:11,Eopaederus,,,,,,subgenus,,B365:3,accepted,,,B365:3:1,Paederus,,,,,,,Paederus,Eopaederus,Paederus,8D68,
-B365:3:12,Paederus limnophilus,,Paederus,,limnophilus,,species,,B365:3,accepted,,,B365:3:11,Eopaederus,,,,,,,Paederus,Eopaederus,Paederus | Eopaederus,4BX62,5746386
-B365:3:13,Paederus caligatus,,Paederus,,caligatus,,species,,B365:3,accepted,,,B365:3:11,Eopaederus,,,,,,,Paederus,Eopaederus,Paederus | Eopaederus,75J56,5746390
-B365:3:14,Dioncopaederus,,,,,,subgenus,,B365:3,accepted,,,B365:3:1,Paederus,,,,,,,Paederus,Dioncopaederus,Paederus,,
-B365:3:15,Paederus litoralis,,Paederus,,litoralis,,species,,B365:3,accepted,,,B365:3:14,Dioncopaederus,,,,,,,Paederus,Dioncopaederus,Paederus | Dioncopaederus,4BX8Y,5746412
-B365:3:16,Harpopaederus,,,,,,subgenus,,B365:3,accepted,,,B365:3:1,Paederus,,,,,,,Paederus,Harpopaederus,Paederus,8DL7,
-B365:3:17,Paederus brevipennis,,Paederus,,brevipennis,,species,,B365:3,accepted,,,B365:3:16,Harpopaederus,,,,,,,Paederus,Harpopaederus,Paederus | Harpopaederus,4BX6R,5746372
-B365:3:18,Paederus schoenherri,,Paederus,,schoenherri,,species,,B365:3,accepted,,,B365:3:16,Harpopaederus,,,,,,,Paederus,Harpopaederus,Paederus | Harpopaederus,4BX77,5746369
-B365:3:19,Paederus baudii,,Paederus,,baudii,,species,,B365:3,synonym,B365:3:18,Paederus schoenherri,,,,,,,,,Paederus,Harpopaederus,Paederus | Harpopaederus,4BX6P,5746374
+B365:3:1,"Paederus Fabricius, 1775","Fabricius, 1775",,,,,genus,,B365:3,accepted,,,,,,,,,,,Paederus,,,6C7P,3262381
+B365:3:2,Paederus s.,s.,,,,,subgenus,str.,B365:3,accepted,,,B365:3:1,"Paederus Fabricius, 1775",,,,,,,Paederus,Paederus,Paederus,6C7P,
+B365:3:3,"Paederus riparius (Linné, 1758)","(Linné, 1758)",Paederus,,riparius,,species,,B365:3,accepted,,,B365:3:2,Paederus s.,,,,,,,Paederus,Paederus,Paederus | Paederus,4BX8Q,5746383
+B365:3:4,"Staphylinus riparius Linné, 1758","Linné, 1758",Staphylinus,,riparius,,species,,B365:3,synonym,B365:3:3,"Paederus riparius (Linné, 1758)",,,,,,,,,Paederus,Paederus,Paederus | Paederus,4ZKBR,4439244
+B365:3:5,"Paederus balcanicus Koch, 1938","Koch, 1938",Paederus,,balcanicus,,species,,B365:3,accepted,,,B365:3:2,Paederus s.,,,,,,,Paederus,Paederus,Paederus | Paederus,75J58,5746381
+B365:3:6,"Paederus riparius ssp. balcanicus Koch, 1938","ssp. balcanicus Koch, 1938",Paederus,,riparius,,species,,B365:3,synonym,B365:3:5,"Paederus balcanicus Koch, 1938",,,,,,,,,Paederus,Paederus,Paederus | Paederus,75J58,5746381
+B365:3:7,"Paederus trapeziceps Scheerpeltz, 1957","Scheerpeltz, 1957",Paederus,,trapeziceps,,species,,B365:3,synonym,B365:3:5,"Paederus balcanicus Koch, 1938",,,,,,,,,Paederus,Paederus,Paederus | Paederus,4BX8V,5746382
+B365:3:8,"Heteropaederus Scheerpeltz, 1957","Scheerpeltz, 1957",,,,,subgenus,,B365:3,accepted,,,B365:3:1,"Paederus Fabricius, 1775",,,,,,,Paederus,Heteropaederus,Paederus,8DNM,
+B365:3:9,"Paederus fuscipes Curtis, 1826","Curtis, 1826",Paederus,,fuscipes,,species,,B365:3,accepted,,,B365:3:8,"Heteropaederus Scheerpeltz, 1957",,,,,,,Paederus,Heteropaederus,Paederus | Heteropaederus,4BX7C,5746394
+B365:3:10,"Paederus kalalovae Roubal, 1932","Roubal, 1932",Paederus,,kalalovae,,species,,B365:3,synonym,B365:3:9,"Paederus fuscipes Curtis, 1826",,,,,,,,,Paederus,Heteropaederus,Paederus | Heteropaederus,4BXL7,9290213
+B365:3:11,"Eopaederus Scheerpeltz, 1957","Scheerpeltz, 1957",,,,,subgenus,,B365:3,accepted,,,B365:3:1,"Paederus Fabricius, 1775",,,,,,,Paederus,Eopaederus,Paederus,8D68,
+B365:3:12,"Paederus limnophilus Erichson, 1840","Erichson, 1840",Paederus,,limnophilus,,species,,B365:3,accepted,,,B365:3:11,"Eopaederus Scheerpeltz, 1957",,,,,,,Paederus,Eopaederus,Paederus | Eopaederus,4BX62,5746386
+B365:3:13,"Paederus caligatus Erichson, 1840","Erichson, 1840",Paederus,,caligatus,,species,,B365:3,accepted,,,B365:3:11,"Eopaederus Scheerpeltz, 1957",,,,,,,Paederus,Eopaederus,Paederus | Eopaederus,75J56,5746390
+B365:3:14,"Dioncopaederus Scheerpeltz, 1957","Scheerpeltz, 1957",,,,,subgenus,,B365:3,accepted,,,B365:3:1,"Paederus Fabricius, 1775",,,,,,,Paederus,Dioncopaederus,Paederus,,
+B365:3:15,"Paederus litoralis Gravenhorst, 1802","Gravenhorst, 1802",Paederus,,litoralis,,species,,B365:3,accepted,,,B365:3:14,"Dioncopaederus Scheerpeltz, 1957",,,,,,,Paederus,Dioncopaederus,Paederus | Dioncopaederus,4BX8Y,5746412
+B365:3:16,"Harpopaederus Scheerpeltz, 1957","Scheerpeltz, 1957",,,,,subgenus,,B365:3,accepted,,,B365:3:1,"Paederus Fabricius, 1775",,,,,,,Paederus,Harpopaederus,Paederus,8DL7,
+B365:3:17,"Paederus brevipennis Lacordaire, 1835","Lacordaire, 1835",Paederus,,brevipennis,,species,,B365:3,accepted,,,B365:3:16,"Harpopaederus Scheerpeltz, 1957",,,,,,,Paederus,Harpopaederus,Paederus | Harpopaederus,4BX6R,5746372
+B365:3:18,"Paederus schoenherri Czwalina, 1889","Czwalina, 1889",Paederus,,schoenherri,,species,,B365:3,accepted,,,B365:3:16,"Harpopaederus Scheerpeltz, 1957",,,,,,,Paederus,Harpopaederus,Paederus | Harpopaederus,4BX77,5746369
+B365:3:19,"Paederus baudii Fauvel, 1872","Fauvel, 1872",Paederus,,baudii,,species,"nec Fairmaire, 1859",B365:3,synonym,B365:3:18,"Paederus schoenherri Czwalina, 1889",,,,,,,,,Paederus,Harpopaederus,Paederus | Harpopaederus,4BX6P,5746374

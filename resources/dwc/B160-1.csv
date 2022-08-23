@@ -2,268 +2,268 @@ scientificNameID,scientificName,scientificNameAuthorship,genericName,intrageneri
 B160:1:1,Deltocephalinae,,,,,,subfamily,,B160:1,accepted,,,,,,,,,,Deltocephalinae,,,,8JK43,
 B160:1:2,Euscelinae,,,,,,subfamily,,B160:1,synonym,B160:1:1,Deltocephalinae,,,,,,,,Euscelinae,,,,,
 B160:1:3,Doraturini,,,,,,tribe,,B160:1,accepted,,,B160:1:1,Deltocephalinae,,,,,,Deltocephalinae,,,Deltocephalinae,8JK82,
-B160:1:4,Doratura,,,,,,genus,,B160:1,accepted,,,B160:1:3,Doraturini,,,,,,Deltocephalinae,Doratura,,Deltocephalinae | Doraturini,8HHR5,2033962
-B160:1:5,Doratura impudica,,Doratura,,impudica,,species,,B160:1,accepted,,,B160:1:4,Doratura,,,,,,Deltocephalinae,Doratura,,Deltocephalinae | Doraturini | Doratura,6DFMC,2033968
-B160:1:6,Doratura stylata,,Doratura,,stylata,,species,,B160:1,accepted,,,B160:1:4,Doratura,,,,,,Deltocephalinae,Doratura,,Deltocephalinae | Doraturini | Doratura,6DFMD,4483016
-B160:1:7,Doratura exilis,,Doratura,,exilis,,species,,B160:1,synonym,B160:1:6,Doratura stylata,,,,,,,,Deltocephalinae,Doratura,,Deltocephalinae | Doraturini | Doratura,6DFMB,2033974
+B160:1:4,Doratura Sahlberg,Sahlberg,,,,,genus,,B160:1,accepted,,,B160:1:3,Doraturini,,,,,,Deltocephalinae,Doratura,,Deltocephalinae | Doraturini,8HHR5,2033962
+B160:1:5,Doratura impudica Horváth,Horváth,Doratura,,impudica,,species,,B160:1,accepted,,,B160:1:4,Doratura Sahlberg,,,,,,Deltocephalinae,Doratura,,Deltocephalinae | Doraturini | Doratura,6DFMC,2033968
+B160:1:6,Doratura stylata (Boheman),(Boheman),Doratura,,stylata,,species,,B160:1,accepted,,,B160:1:4,Doratura Sahlberg,,,,,,Deltocephalinae,Doratura,,Deltocephalinae | Doraturini | Doratura,6DFMD,4483016
+B160:1:7,Doratura exilis Le,Le,Doratura,,exilis,,species,"Quesne, nec Horváth",B160:1,synonym,B160:1:6,Doratura stylata (Boheman),,,,,,,,Deltocephalinae,Doratura,,Deltocephalinae | Doraturini | Doratura,6DFMB,2033974
 B160:1:8,Platymetopiini,,,,,,tribe,,B160:1,accepted,,,B160:1:1,Deltocephalinae,,,,,,Deltocephalinae,,,Deltocephalinae,8JKDP,
-B160:1:9,Platymetopius,,,,,,genus,,B160:1,accepted,,,B160:1:8,Platymetopiini,,,,,,Deltocephalinae,Platymetopius,,Deltocephalinae | Platymetopiini,,2047467
-B160:1:10,Platymetopius undatus,,Platymetopius,,undatus,,species,,B160:1,accepted,,,B160:1:9,Platymetopius,,,,,,Deltocephalinae,Platymetopius,,Deltocephalinae | Platymetopiini | Platymetopius,,4483332
+B160:1:9,Platymetopius Burmeister,Burmeister,,,,,genus,,B160:1,accepted,,,B160:1:8,Platymetopiini,,,,,,Deltocephalinae,Platymetopius,,Deltocephalinae | Platymetopiini,,2047467
+B160:1:10,Platymetopius undatus (DeGeer),(DeGeer),Platymetopius,,undatus,,species,,B160:1,accepted,,,B160:1:9,Platymetopius Burmeister,,,,,,Deltocephalinae,Platymetopius,,Deltocephalinae | Platymetopiini | Platymetopius,,4483332
 B160:1:11,Deltocephalini,,,,,,tribe,,B160:1,accepted,,,B160:1:1,Deltocephalinae,,,,,,Deltocephalinae,,,Deltocephalinae,8JK7W,
-B160:1:95,Paramesus,,,,,,genus,,B160:1,synonym,B160:1:94,Paralimnus,,,,,,,,Deltocephalinae,Paramesus,,Deltocephalinae | Deltocephalini,8HNX7,
-B160:1:13,Paramesus nervosus,,Paramesus,,nervosus,,species,,B160:1,accepted,,,B160:1:12,Paramesus,,,,,,Deltocephalinae,Paramesus,,Deltocephalinae | Deltocephalini | Paramesus,,9894353
-B160:1:14,Metalimnus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Metalimnus,,Deltocephalinae | Deltocephalini,,2031091
-B160:1:15,Scaphoideus,,,,,,genus,,B160:1,synonym,B160:1:14,Metalimnus,,,,,,,,Deltocephalinae,Scaphoideus,,Deltocephalinae | Deltocephalini,,2031211
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:17,Metalimnus formosus,,Metalimnus,,formosus,,species,,B160:1,accepted,,,B160:1:14,Metalimnus,,,,,,Deltocephalinae,Metalimnus,,Deltocephalinae | Deltocephalini | Metalimnus,,2031096
-B160:1:18,Recilia,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Recilia,,Deltocephalinae | Deltocephalini,,2038789
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:20,Recilia coronifera,,Recilia,,coronifera,,species,,B160:1,accepted,,,B160:1:18,Recilia,,,,,,Deltocephalinae,Recilia,,Deltocephalinae | Deltocephalini | Recilia,,4483427
-B160:1:21,Recilia coroniceps,,Recilia,,coroniceps,,species,,B160:1,synonym,B160:1:20,Recilia coronifera,,,,,,,,Deltocephalinae,Recilia,,Deltocephalinae | Deltocephalini | Recilia,,11328371
-B160:1:22,Recilia i-album,,Recilia,,i-album,,species,,B160:1,synonym,B160:1:20,Recilia coronifera,,,,,,,,Deltocephalinae,Recilia,,Deltocephalinae | Deltocephalini | Recilia,,11293536
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:24,Deltocephalus maculiceps,,Deltocephalus,,maculiceps,,species,,B160:1,accepted,,,B160:1:23,Deltocephalus,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini | Deltocephalus,,5154733
-B160:1:25,Deltocephalus pulicaris,,Deltocephalus,,pulicaris,,species,,B160:1,accepted,,,B160:1:23,Deltocephalus,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini | Deltocephalus,,5154811
-B160:1:26,Palus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Palus,,Deltocephalinae | Deltocephalini,,
-B160:1:27,Cosmotettix,,,,,,genus,,B160:1,synonym,B160:1:26,Palus,,,,,,,,Deltocephalinae,Cosmotettix,,Deltocephalinae | Deltocephalini,,2044256
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:29,Cosmotettix caudatus,,Cosmotettix,,caudatus,,species,,B160:1,accepted,,,B160:1:26,Palus,,,,,,Deltocephalinae,Palus,,Deltocephalinae | Deltocephalini | Palus,,4483603
-B160:1:30,Cosmotettix costalis,,Cosmotettix,,costalis,,species,,B160:1,accepted,,,B160:1:26,Palus,,,,,,Deltocephalinae,Palus,,Deltocephalinae | Deltocephalini | Palus,,2044264
-B160:1:31,Cosmotettix panzeri,,Cosmotettix,,panzeri,,species,,B160:1,accepted,,,B160:1:26,Palus,,,,,,Deltocephalinae,Palus,,Deltocephalinae | Deltocephalini | Palus,,2044265
-B160:1:32,Arocephalus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Arocephalus,,Deltocephalinae | Deltocephalini,,2048606
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:34,Arocephalus punctum,,Arocephalus,,punctum,,species,,B160:1,accepted,,,B160:1:32,Arocephalus,,,,,,Deltocephalinae,Arocephalus,,Deltocephalinae | Deltocephalini | Arocephalus,,2048608
-B160:1:35,Turrutus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Turrutus,,Deltocephalinae | Deltocephalini,,4406892
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:37,Turrutus socialis,,Turrutus,,socialis,,species,,B160:1,accepted,,,B160:1:35,Turrutus,,,,,,Deltocephalinae,Turrutus,,Deltocephalinae | Deltocephalini | Turrutus,,4483700
-B160:1:38,Errastunus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Errastunus,,Deltocephalinae | Deltocephalini,,2026240
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:40,Errastunus ocellaris,,Errastunus,,ocellaris,,species,,B160:1,accepted,,,B160:1:38,Errastunus,,,,,,Deltocephalinae,Errastunus,,Deltocephalinae | Deltocephalini | Errastunus,,2026242
-B160:1:41,Adarrus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Adarrus,,Deltocephalinae | Deltocephalini,,2035328
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:43,Adarrus multinotatus,,Adarrus,,multinotatus,,species,,B160:1,accepted,,,B160:1:41,Adarrus,,,,,,Deltocephalinae,Adarrus,,Deltocephalinae | Deltocephalini | Adarrus,,2035330
-B160:1:44,Jassargus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini,,2045713
-B160:1:45,Lausulus,,,,,,genus,,B160:1,synonym,B160:1:44,Jassargus,,,,,,,,Deltocephalinae,Lausulus,,Deltocephalinae | Deltocephalini,,4483612
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:47,Jassargus pseudocellaris,,Jassargus,,pseudocellaris,,species,,B160:1,accepted,,,B160:1:44,Jassargus,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,4483636
-B160:1:48,Jassargus distinguendus,,Jassargus,,distinguendus,,species,,B160:1,synonym,B160:1:47,Jassargus pseudocellaris,,,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,2045728
-B160:1:49,Jassargus repletus,,Jassargus,,repletus,,species,,B160:1,synonym,B160:1:47,Jassargus pseudocellaris,,,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,2045744
-B160:1:50,Jassargus paleaceus,,Jassargus,,paleaceus,,species,,B160:1,synonym,B160:1:47,Jassargus pseudocellaris,,,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,2045731
-B160:1:51,Jassargus flori,,Jassargus,,flori,,species,,B160:1,accepted,,,B160:1:44,Jassargus,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,2045747
-B160:1:52,Jassargus oculatus,,Jassargus,,oculatus,,species,,B160:1,synonym,B160:1:51,Jassargus flori,,,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,11277228
-B160:1:53,Jassargus picturatus,,Jassargus,,picturatus,,species,,B160:1,synonym,B160:1:51,Jassargus flori,,,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,11274839
-B160:1:54,Jassargus sursumflexus,,Jassargus,,sursumflexus,,species,,B160:1,accepted,,,B160:1:44,Jassargus,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,2045719
-B160:1:55,Diplocolenus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini,,2036269
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:149,Euscelis,,,,,,genus,,B160:1,synonym,B160:1:148,Euscelidius,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini,,2025998
-B160:1:58,Diplocolenus abdominalis,,Diplocolenus,,abdominalis,,species,,B160:1,accepted,,,B160:1:55,Diplocolenus,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini | Diplocolenus,,2036304
-B160:1:59,Diplocolenus abdominalis subsp. juvencus,,Diplocolenus,,abdominalis,juvencus,subspecies,,B160:1,accepted,,,B160:1:58,Diplocolenus abdominalis,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini | Diplocolenus | Diplocolenus abdominalis,,2036304
-B160:1:60,Diplocolenus temperei,,Diplocolenus,,temperei,,species,,B160:1,synonym,B160:1:59,Diplocolenus abdominalis subsp. juvencus,,,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini | Diplocolenus | Diplocolenus abdominalis,,2036293
-B160:1:61,Diplocolenus bensoni,,Diplocolenus,,bensoni,,species,,B160:1,accepted,,,B160:1:55,Diplocolenus,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini | Diplocolenus,,2036310
-B160:1:62,Diplocolenus obenbergeri,,Diplocolenus,,obenbergeri,,species,,B160:1,synonym,B160:1:61,Diplocolenus bensoni,,,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini | Diplocolenus,,2036269
-B160:1:63,Mocuellus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Mocuellus,,Deltocephalinae | Deltocephalini,,4408092
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:263,Cicadula,,,,,,genus,,B160:1,synonym,B160:1:261,Erotettix,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Macrostelini,8KHFM,2025305
-B160:1:66,Mocuellus collinus,,Mocuellus,,collinus,,species,,B160:1,accepted,,,B160:1:63,Mocuellus,,,,,,Deltocephalinae,Mocuellus,,Deltocephalinae | Deltocephalini | Mocuellus,,4483438
-B160:1:67,Mocuellus metrius,,Mocuellus,,metrius,,species,,B160:1,accepted,,,B160:1:63,Mocuellus,,,,,,Deltocephalinae,Mocuellus,,Deltocephalinae | Deltocephalini | Mocuellus,,4483444
-B160:1:68,Ebarrius,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Ebarrius,,Deltocephalinae | Deltocephalini,,2031082
-B160:1:69,Ebarrius cognatus,,Ebarrius,,cognatus,,species,,B160:1,accepted,,,B160:1:68,Ebarrius,,,,,,Deltocephalinae,Ebarrius,,Deltocephalinae | Deltocephalini | Ebarrius,,2031087
-B160:1:70,Sorhoanus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Sorhoanus,,Deltocephalinae | Deltocephalini,,3265709
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:72,Sorhoanus xanthoneurus,,Sorhoanus,,xanthoneurus,,species,,B160:1,accepted,,,B160:1:70,Sorhoanus,,,,,,Deltocephalinae,Sorhoanus,,Deltocephalinae | Deltocephalini | Sorhoanus,,2027607
-B160:1:73,Arthaldeus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Arthaldeus,,Deltocephalinae | Deltocephalini,,2047596
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:75,Arthaldeus striifrons,,Arthaldeus,,striifrons,,species,,B160:1,accepted,,,B160:1:73,Arthaldeus,,,,,,Deltocephalinae,Arthaldeus,,Deltocephalinae | Deltocephalini | Arthaldeus,,2047598
-B160:1:76,Arthaldeus pascuellus,,Arthaldeus,,pascuellus,,species,,B160:1,accepted,,,B160:1:73,Arthaldeus,,,,,,Deltocephalinae,Arthaldeus,,Deltocephalinae | Deltocephalini | Arthaldeus,,4483537
-B160:1:77,Psammotettix,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini,,2043258
-B160:1:78,Ribautiellus,,,,,,genus,,B160:1,synonym,B160:1:77,Psammotettix,,,,,,,,Deltocephalinae,Ribautiellus,,Deltocephalinae | Deltocephalini,8JLY3,4483488
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:80,Psammotettix albomarginatus,,Psammotettix,,albomarginatus,,species,,B160:1,accepted,,,B160:1:77,Psammotettix,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043324
-B160:1:81,Psammotettix frigidus,,Psammotettix,,frigidus,,species,,B160:1,accepted,,,B160:1:77,Psammotettix,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043357
-B160:1:82,Psammotettix nodosus,,Psammotettix,,nodosus,,species,,B160:1,accepted,,,B160:1:77,Psammotettix,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043293
-B160:1:88,Psammotettix striatus,,Psammotettix,,striatus,,species,,B160:1,accepted,,,B160:1:77,Psammotettix,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043289
-B160:1:85,Psammotettix putoni,,Psammotettix,,putoni,,species,,B160:1,accepted,,,B160:1:77,Psammotettix,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043286
-B160:1:85,Psammotettix putoni,,Psammotettix,,putoni,,species,,B160:1,accepted,,,B160:1:77,Psammotettix,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043286
-B160:1:86,Psammotettix halophilus,,Psammotettix,,halophilus,,species,,B160:1,synonym,B160:1:85,Psammotettix putoni,,,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,11356019
-B160:1:87,Psammotettix sambulicola,,Psammotettix,,sambulicola,,species,,B160:1,accepted,,,B160:1:77,Psammotettix,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043380
-B160:1:88,Psammotettix striatus,,Psammotettix,,striatus,,species,,B160:1,accepted,,,B160:1:77,Psammotettix,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043289
-B160:1:89,Psammotettix cephalotes,,Psammotettix,,cephalotes,,species,,B160:1,accepted,,,B160:1:77,Psammotettix,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043283
-B160:1:90,Psammotettix citrinellus,,Psammotettix,,citrinellus,,species,,B160:1,synonym,B160:1:89,Psammotettix cephalotes,,,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,11225851
-B160:1:91,Psammotettix normani,,Psammotettix,,normani,,species,,B160:1,synonym,B160:1:89,Psammotettix cephalotes,,,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,11284938
-B160:1:92,Psammotettix confinis,,Psammotettix,,confinis,,species,,B160:1,accepted,,,B160:1:77,Psammotettix,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043322
-B160:1:93,Psammotettix thenii,,Psammotettix,,thenii,,species,,B160:1,synonym,B160:1:92,Psammotettix confinis,,,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,11309910
-B160:1:94,Paralimnus,,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Paralimnus,,Deltocephalinae | Deltocephalini,,2033049
-B160:1:95,Paramesus,,,,,,genus,,B160:1,synonym,B160:1:94,Paralimnus,,,,,,,,Deltocephalinae,Paramesus,,Deltocephalinae | Deltocephalini,8HNX7,
-B160:1:96,Paralimnus phragmitis,,Paralimnus,,phragmitis,,species,,B160:1,accepted,,,B160:1:94,Paralimnus,,,,,,Deltocephalinae,Paralimnus,,Deltocephalinae | Deltocephalini | Paralimnus,,2033064
+B160:1:12,Paramesus Fieber,Fieber,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Paramesus,,Deltocephalinae | Deltocephalini,8HNX7,2031975
+B160:1:13,Paramesus nervosus (Falén),(Falén),Paramesus,,nervosus,,species,,B160:1,accepted,,,B160:1:12,Paramesus Fieber,,,,,,Deltocephalinae,Paramesus,,Deltocephalinae | Deltocephalini | Paramesus,,9894353
+B160:1:14,Metalimnus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Metalimnus,,Deltocephalinae | Deltocephalini,,2031091
+B160:1:15,Scaphoideus,,,,,,genus,"auctt., nec Uhler",B160:1,synonym,B160:1:14,Metalimnus Ribaut,,,,,,,,Deltocephalinae,Scaphoideus,,Deltocephalinae | Deltocephalini,,2031211
+B160:1:16,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:14,Metalimnus Ribaut,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:17,Metalimnus formosus (Boheman),(Boheman),Metalimnus,,formosus,,species,,B160:1,accepted,,,B160:1:14,Metalimnus Ribaut,,,,,,Deltocephalinae,Metalimnus,,Deltocephalinae | Deltocephalini | Metalimnus,,2031096
+B160:1:18,Recilia Edwards,Edwards,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Recilia,,Deltocephalinae | Deltocephalini,,2038789
+B160:1:19,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:18,Recilia Edwards,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:20,Recilia coronifera Marshall,Marshall,Recilia,,coronifera,,species,,B160:1,accepted,,,B160:1:18,Recilia Edwards,,,,,,Deltocephalinae,Recilia,,Deltocephalinae | Deltocephalini | Recilia,,4483427
+B160:1:21,Recilia coroniceps (Kirschbaum),(Kirschbaum),Recilia,,coroniceps,,species,,B160:1,synonym,B160:1:20,Recilia coronifera Marshall,,,,,,,,Deltocephalinae,Recilia,,Deltocephalinae | Deltocephalini | Recilia,,11328371
+B160:1:22,Recilia i-album (Scott),(Scott),Recilia,,i-album,,species,,B160:1,synonym,B160:1:20,Recilia coronifera Marshall,,,,,,,,Deltocephalinae,Recilia,,Deltocephalinae | Deltocephalini | Recilia,,11293536
+B160:1:23,Deltocephalus Burmeister,Burmeister,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:24,Deltocephalus maculiceps Boheman,Boheman,Deltocephalus,,maculiceps,,species,,B160:1,accepted,,,B160:1:23,Deltocephalus Burmeister,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini | Deltocephalus,,5154733
+B160:1:25,Deltocephalus pulicaris (Fallén),(Fallén),Deltocephalus,,pulicaris,,species,,B160:1,accepted,,,B160:1:23,Deltocephalus Burmeister,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini | Deltocephalus,,5154811
+B160:1:26,Palus DeLong & Sleesman,DeLong & Sleesman,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Palus,,Deltocephalinae | Deltocephalini,,3265430
+B160:1:27,Cosmotettix Ribaut,Ribaut,,,,,genus,,B160:1,synonym,B160:1:26,Palus DeLong & Sleesman,,,,,,,,Deltocephalinae,Cosmotettix,,Deltocephalinae | Deltocephalini,,2044256
+B160:1:28,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:26,Palus DeLong & Sleesman,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:29,Cosmotettix caudatus (Flor),(Flor),Cosmotettix,,caudatus,,species,,B160:1,accepted,,,B160:1:26,Palus DeLong & Sleesman,,,,,,Deltocephalinae,Palus,,Deltocephalinae | Deltocephalini | Palus,,4483603
+B160:1:30,Cosmotettix costalis (Fallén),(Fallén),Cosmotettix,,costalis,,species,,B160:1,accepted,,,B160:1:26,Palus DeLong & Sleesman,,,,,,Deltocephalinae,Palus,,Deltocephalinae | Deltocephalini | Palus,,2044264
+B160:1:31,Cosmotettix panzeri (Flor),(Flor),Cosmotettix,,panzeri,,species,,B160:1,accepted,,,B160:1:26,Palus DeLong & Sleesman,,,,,,Deltocephalinae,Palus,,Deltocephalinae | Deltocephalini | Palus,,2044265
+B160:1:32,Arocephalus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Arocephalus,,Deltocephalinae | Deltocephalini,,2048606
+B160:1:33,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:32,Arocephalus Ribaut,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:34,Arocephalus punctum (Flor),(Flor),Arocephalus,,punctum,,species,,B160:1,accepted,,,B160:1:32,Arocephalus Ribaut,,,,,,Deltocephalinae,Arocephalus,,Deltocephalinae | Deltocephalini | Arocephalus,,2048608
+B160:1:35,Turrutus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Turrutus,,Deltocephalinae | Deltocephalini,,4406892
+B160:1:36,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:35,Turrutus Ribaut,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:37,Turrutus socialis (Flor),(Flor),Turrutus,,socialis,,species,,B160:1,accepted,,,B160:1:35,Turrutus Ribaut,,,,,,Deltocephalinae,Turrutus,,Deltocephalinae | Deltocephalini | Turrutus,,4483700
+B160:1:38,Errastunus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Errastunus,,Deltocephalinae | Deltocephalini,,2026240
+B160:1:39,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:38,Errastunus Ribaut,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:40,Errastunus ocellaris (Fallén),(Fallén),Errastunus,,ocellaris,,species,,B160:1,accepted,,,B160:1:38,Errastunus Ribaut,,,,,,Deltocephalinae,Errastunus,,Deltocephalinae | Deltocephalini | Errastunus,,2026242
+B160:1:41,Adarrus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Adarrus,,Deltocephalinae | Deltocephalini,,2035328
+B160:1:42,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:41,Adarrus Ribaut,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:43,Adarrus multinotatus (Boheman),(Boheman),Adarrus,,multinotatus,,species,,B160:1,accepted,,,B160:1:41,Adarrus Ribaut,,,,,,Deltocephalinae,Adarrus,,Deltocephalinae | Deltocephalini | Adarrus,,2035330
+B160:1:44,Jassargus Zakhvatkin,Zakhvatkin,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini,,2045713
+B160:1:45,Lausulus Ribaut,Ribaut,,,,,genus,,B160:1,synonym,B160:1:44,Jassargus Zakhvatkin,,,,,,,,Deltocephalinae,Lausulus,,Deltocephalinae | Deltocephalini,,4483612
+B160:1:46,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:44,Jassargus Zakhvatkin,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:47,Jassargus pseudocellaris (Flor),(Flor),Jassargus,,pseudocellaris,,species,,B160:1,accepted,,,B160:1:44,Jassargus Zakhvatkin,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,4483636
+B160:1:48,Jassargus distinguendus (Flor),(Flor),Jassargus,,distinguendus,,species,,B160:1,synonym,B160:1:47,Jassargus pseudocellaris (Flor),,,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,2045728
+B160:1:49,Jassargus repletus (Edwards),(Edwards),Jassargus,,repletus,,species,nec (Fieber),B160:1,synonym,B160:1:47,Jassargus pseudocellaris (Flor),,,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,2045744
+B160:1:50,Jassargus paleaceus (Sahlberg),(Sahlberg),Jassargus,,paleaceus,,species,,B160:1,synonym,B160:1:47,Jassargus pseudocellaris (Flor),,,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,2045731
+B160:1:51,Jassargus flori (Fieber),(Fieber),Jassargus,,flori,,species,,B160:1,accepted,,,B160:1:44,Jassargus Zakhvatkin,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,2045747
+B160:1:52,Jassargus oculatus (Sahlberg),(Sahlberg),Jassargus,,oculatus,,species,,B160:1,synonym,B160:1:51,Jassargus flori (Fieber),,,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,11277228
+B160:1:53,Jassargus picturatus (Edwards),(Edwards),Jassargus,,picturatus,,species,nec (Fieber),B160:1,synonym,B160:1:51,Jassargus flori (Fieber),,,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,11274839
+B160:1:54,Jassargus sursumflexus (Then),(Then),Jassargus,,sursumflexus,,species,,B160:1,accepted,,,B160:1:44,Jassargus Zakhvatkin,,,,,,Deltocephalinae,Jassargus,,Deltocephalinae | Deltocephalini | Jassargus,,2045719
+B160:1:55,Diplocolenus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini,,2036269
+B160:1:56,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:55,Diplocolenus Ribaut,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:57,Euscelis,,,,,,genus,"auctt. partim, nec Brullé",B160:1,synonym,B160:1:55,Diplocolenus Ribaut,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Deltocephalini,,2025998
+B160:1:58,Diplocolenus abdominalis (Fabricius),(Fabricius),Diplocolenus,,abdominalis,,species,,B160:1,accepted,,,B160:1:55,Diplocolenus Ribaut,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini | Diplocolenus,,2036304
+B160:1:59,Diplocolenus abdominalis subsp. juvencus (Hardy),(Hardy),Diplocolenus,,abdominalis,juvencus,subspecies,,B160:1,accepted,,,B160:1:58,Diplocolenus abdominalis (Fabricius),,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini | Diplocolenus | Diplocolenus abdominalis,,2036304
+B160:1:60,Diplocolenus temperei Ribaut,Ribaut,Diplocolenus,,temperei,,species,,B160:1,synonym,B160:1:59,Diplocolenus abdominalis subsp. juvencus (Hardy),,,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini | Diplocolenus | Diplocolenus abdominalis,,2036293
+B160:1:61,Diplocolenus bensoni (China),(China),Diplocolenus,,bensoni,,species,,B160:1,accepted,,,B160:1:55,Diplocolenus Ribaut,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini | Diplocolenus,,2036310
+B160:1:62,Diplocolenus obenbergeri (Dlabola),(Dlabola),Diplocolenus,,obenbergeri,,species,,B160:1,synonym,B160:1:61,Diplocolenus bensoni (China),,,,,,,,Deltocephalinae,Diplocolenus,,Deltocephalinae | Deltocephalini | Diplocolenus,,2036269
+B160:1:63,Mocuellus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Mocuellus,,Deltocephalinae | Deltocephalini,,4408092
+B160:1:64,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:63,Mocuellus Ribaut,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:65,Cicadula,,,,,,genus,"auctt. partim, nec Zetterstedt",B160:1,synonym,B160:1:63,Mocuellus Ribaut,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Deltocephalini,8KHFM,2025305
+B160:1:66,Mocuellus collinus (Boheman),(Boheman),Mocuellus,,collinus,,species,,B160:1,accepted,,,B160:1:63,Mocuellus Ribaut,,,,,,Deltocephalinae,Mocuellus,,Deltocephalinae | Deltocephalini | Mocuellus,,4483438
+B160:1:67,Mocuellus metrius (Flor),(Flor),Mocuellus,,metrius,,species,,B160:1,accepted,,,B160:1:63,Mocuellus Ribaut,,,,,,Deltocephalinae,Mocuellus,,Deltocephalinae | Deltocephalini | Mocuellus,,4483444
+B160:1:68,Ebarrius Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Ebarrius,,Deltocephalinae | Deltocephalini,,2031082
+B160:1:69,Ebarrius cognatus (Fieber),(Fieber),Ebarrius,,cognatus,,species,,B160:1,accepted,,,B160:1:68,Ebarrius Ribaut,,,,,,Deltocephalinae,Ebarrius,,Deltocephalinae | Deltocephalini | Ebarrius,,2031087
+B160:1:70,Sorhoanus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Sorhoanus,,Deltocephalinae | Deltocephalini,,3265709
+B160:1:71,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:70,Sorhoanus Ribaut,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:72,Sorhoanus xanthoneurus (Fieber),(Fieber),Sorhoanus,,xanthoneurus,,species,,B160:1,accepted,,,B160:1:70,Sorhoanus Ribaut,,,,,,Deltocephalinae,Sorhoanus,,Deltocephalinae | Deltocephalini | Sorhoanus,,2027607
+B160:1:73,Arthaldeus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Arthaldeus,,Deltocephalinae | Deltocephalini,,2047596
+B160:1:74,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:73,Arthaldeus Ribaut,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:75,Arthaldeus striifrons (Kirschbaum),(Kirschbaum),Arthaldeus,,striifrons,,species,,B160:1,accepted,,,B160:1:73,Arthaldeus Ribaut,,,,,,Deltocephalinae,Arthaldeus,,Deltocephalinae | Deltocephalini | Arthaldeus,,2047598
+B160:1:76,Arthaldeus pascuellus (Fallén),(Fallén),Arthaldeus,,pascuellus,,species,,B160:1,accepted,,,B160:1:73,Arthaldeus Ribaut,,,,,,Deltocephalinae,Arthaldeus,,Deltocephalinae | Deltocephalini | Arthaldeus,,4483537
+B160:1:77,Psammotettix Haupt,Haupt,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini,,2043258
+B160:1:78,Ribautiellus Zakhvatkin,Zakhvatkin,,,,,genus,,B160:1,synonym,B160:1:77,Psammotettix Haupt,,,,,,,,Deltocephalinae,Ribautiellus,,Deltocephalinae | Deltocephalini,8JLY3,4483488
+B160:1:79,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:77,Psammotettix Haupt,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Deltocephalini,,2024963
+B160:1:80,Psammotettix albomarginatus Wagner,Wagner,Psammotettix,,albomarginatus,,species,,B160:1,accepted,,,B160:1:77,Psammotettix Haupt,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043324
+B160:1:81,Psammotettix frigidus (Boheman),(Boheman),Psammotettix,,frigidus,,species,,B160:1,accepted,,,B160:1:77,Psammotettix Haupt,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043357
+B160:1:82,Psammotettix nodosus (Ribaut),(Ribaut),Psammotettix,,nodosus,,species,,B160:1,accepted,,,B160:1:77,Psammotettix Haupt,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043293
+B160:1:83,Psammotettix striatus (Edwards),(Edwards),Psammotettix,,striatus,,species,nec (Linnaeus),B160:1,synonym,B160:1:82,Psammotettix nodosus (Ribaut),,,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043289
+B160:1:84,Psammotettix putoni Ribaut,Ribaut,Psammotettix,,putoni,,species,nec (Then),B160:1,synonym,B160:1:82,Psammotettix nodosus (Ribaut),,,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043286
+B160:1:85,Psammotettix putoni (Then),(Then),Psammotettix,,putoni,,species,,B160:1,accepted,,,B160:1:77,Psammotettix Haupt,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043286
+B160:1:86,Psammotettix halophilus (Edwards),(Edwards),Psammotettix,,halophilus,,species,,B160:1,synonym,B160:1:85,Psammotettix putoni (Then),,,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,11356019
+B160:1:87,Psammotettix sambulicola (Curtis),(Curtis),Psammotettix,,sambulicola,,species,,B160:1,accepted,,,B160:1:77,Psammotettix Haupt,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043380
+B160:1:88,Psammotettix striatus (Linnaeus),(Linnaeus),Psammotettix,,striatus,,species,,B160:1,accepted,,,B160:1:77,Psammotettix Haupt,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043289
+B160:1:89,Psammotettix cephalotes (Herrich-Schaeffer),(Herrich-Schaeffer),Psammotettix,,cephalotes,,species,,B160:1,accepted,,,B160:1:77,Psammotettix Haupt,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043283
+B160:1:90,Psammotettix citrinellus (Kirschbaum),(Kirschbaum),Psammotettix,,citrinellus,,species,,B160:1,synonym,B160:1:89,Psammotettix cephalotes (Herrich-Schaeffer),,,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,11225851
+B160:1:91,Psammotettix normani (Scott),(Scott),Psammotettix,,normani,,species,,B160:1,synonym,B160:1:89,Psammotettix cephalotes (Herrich-Schaeffer),,,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,11284938
+B160:1:92,Psammotettix confinis (Dahlbom),(Dahlbom),Psammotettix,,confinis,,species,,B160:1,accepted,,,B160:1:77,Psammotettix Haupt,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,2043322
+B160:1:93,Psammotettix thenii (Edwards),(Edwards),Psammotettix,,thenii,,species,,B160:1,synonym,B160:1:92,Psammotettix confinis (Dahlbom),,,,,,,,Deltocephalinae,Psammotettix,,Deltocephalinae | Deltocephalini | Psammotettix,,11309910
+B160:1:94,Paralimnus Matsumara,Matsumara,,,,,genus,,B160:1,accepted,,,B160:1:11,Deltocephalini,,,,,,Deltocephalinae,Paralimnus,,Deltocephalinae | Deltocephalini,,2033049
+B160:1:95,Paramesus,,,,,,genus,auctt. partim nec Fieber,B160:1,synonym,B160:1:94,Paralimnus Matsumara,,,,,,,,Deltocephalinae,Paramesus,,Deltocephalinae | Deltocephalini,8HNX7,
+B160:1:96,Paralimnus phragmitis (Boheman),(Boheman),Paralimnus,,phragmitis,,species,,B160:1,accepted,,,B160:1:94,Paralimnus Matsumara,,,,,,Deltocephalinae,Paralimnus,,Deltocephalinae | Deltocephalini | Paralimnus,,2033064
 B160:1:97,Athysanini,,,,,,tribe,,B160:1,accepted,,,B160:1:1,Deltocephalinae,,,,,,Deltocephalinae,,,Deltocephalinae,8JK67,
 B160:1:98,Euscelini,,,,,,tribe,,B160:1,synonym,B160:1:97,Athysanini,,,,,,,,Deltocephalinae,,,Deltocephalinae,,
-B160:1:99,Rhytistylus,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Rhytistylus,,Deltocephalinae | Athysanini,,2035580
-B160:1:100,Glyptocephalus,,,,,,genus,,B160:1,synonym,B160:1:99,Rhytistylus,,,,,,,,Deltocephalinae,Glyptocephalus,,Deltocephalinae | Athysanini,,
-B160:1:101,Edwardsiastes,,,,,,genus,,B160:1,synonym,B160:1:99,Rhytistylus,,,,,,,,Deltocephalinae,Edwardsiastes,,Deltocephalinae | Athysanini,,4483231
-B160:1:102,Rhytistylus proceps,,Rhytistylus,,proceps,,species,,B160:1,accepted,,,B160:1:99,Rhytistylus,,,,,,Deltocephalinae,Rhytistylus,,Deltocephalinae | Athysanini | Rhytistylus,,2035581
-B160:1:103,Graphocraerus,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Graphocraerus,,Deltocephalinae | Athysanini,,2049022
-B160:1:104,Graphocraerus ventralis,,Graphocraerus,,ventralis,,species,,B160:1,accepted,,,B160:1:103,Graphocraerus,,,,,,Deltocephalinae,Graphocraerus,,Deltocephalinae | Athysanini | Graphocraerus,,2049024
-B160:1:105,Sardius,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Sardius,,Deltocephalinae | Athysanini,,2032507
-B160:1:106,Deltocephalus,,,,,,genus,,B160:1,synonym,B160:1:105,Sardius,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
-B160:1:107,Sardius argus,,Sardius,,argus,,species,,B160:1,accepted,,,B160:1:105,Sardius,,,,,,Deltocephalinae,Sardius,,Deltocephalinae | Athysanini | Sardius,,2032508
-B160:1:108,Hardya,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Hardya,,Deltocephalinae | Athysanini,,2039449
-B160:1:109,Hardya melanopsis,,Hardya,,melanopsis,,species,,B160:1,accepted,,,B160:1:108,Hardya,,,,,,Deltocephalinae,Hardya,,Deltocephalinae | Athysanini | Hardya,,2039462
-B160:1:110,Allygidius,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Allygidius,,Deltocephalinae | Athysanini,,2030340
-B160:1:113,Allygus,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Allygus,,Deltocephalinae | Athysanini,,2029991
-B160:1:112,Allygidius commutatus,,Allygidius,,commutatus,,species,,B160:1,accepted,,,B160:1:110,Allygidius,,,,,,Deltocephalinae,Allygidius,,Deltocephalinae | Athysanini | Allygidius,,2030346
-B160:1:113,Allygus,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Allygus,,Deltocephalinae | Athysanini,,2029991
-B160:1:114,Jassus,,,,,,genus,,B160:1,synonym,B160:1:113,Allygus,,,,,,,,Deltocephalinae,Jassus,,Deltocephalinae | Athysanini,8HL3P,
-B160:1:115,Allygus modestus,,Allygus,,modestus,,species,,B160:1,accepted,,,B160:1:113,Allygus,,,,,,Deltocephalinae,Allygus,,Deltocephalinae | Athysanini | Allygus,,2029993
-B160:1:116,Allygus mixtus,,Allygus,,mixtus,,species,,B160:1,accepted,,,B160:1:113,Allygus,,,,,,Deltocephalinae,Allygus,,Deltocephalinae | Athysanini | Allygus,,4483219
-B160:1:117,Scleroracus,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini,8JLZH,4775553
-B160:1:118,Ophiola,,,,,,genus,,B160:1,synonym,B160:1:117,Scleroracus,,,,,,,,Deltocephalinae,Ophiola,,Deltocephalinae | Athysanini,8HT7W,4483194
-B160:1:202,Thamnotettix,,,,,,genus,,B160:1,synonym,B160:1:201,Lamprotettix,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
-B160:1:120,Scleroracus decumanus,,Scleroracus,,decumanus,,species,,B160:1,accepted,,,B160:1:117,Scleroracus,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,8JYYS,4483204
-B160:1:127,Scleroracus striatulus,,Scleroracus,,striatulus,,species,,B160:1,synonym,B160:1:126,Scleroracus corniculus,,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,,11356982
-B160:1:126,Scleroracus corniculus,,Scleroracus,,corniculus,,species,,B160:1,accepted,,,B160:1:117,Scleroracus,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,8JYYQ,8474754
-B160:1:123,Scleroracus plutonius,,Scleroracus,,plutonius,,species,,B160:1,accepted,,,B160:1:117,Scleroracus,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,8JYZK,11324542
-B160:1:124,Scleroracus striatulellus,,Scleroracus,,striatulellus,,species,,B160:1,synonym,B160:1:123,Scleroracus plutonius,,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,,11266458
-B160:1:125,Scleroracus russeolus,,Scleroracus,,russeolus,,species,,B160:1,synonym,B160:1:123,Scleroracus plutonius,,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,8JYZM,8519282
-B160:1:126,Scleroracus corniculus,,Scleroracus,,corniculus,,species,,B160:1,accepted,,,B160:1:117,Scleroracus,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,8JYYQ,8474754
-B160:1:127,Scleroracus striatulus,,Scleroracus,,striatulus,,species,,B160:1,synonym,B160:1:126,Scleroracus corniculus,,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,,11356982
-B160:1:128,Scleroracus intractabilis,,Scleroracus,,intractabilis,,species,,B160:1,synonym,B160:1:126,Scleroracus corniculus,,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,,11243915
-B160:1:223,Limotettix,,,,,,genus,,B160:1,synonym,B160:1:222,Opsius,,,,,,,,Deltocephalinae,Limotettix,,Deltocephalinae | Opsiini,8HLLV,2043709
-B160:1:130,Drylix,,,,,,genus,,B160:1,synonym,B160:1:129,Limotettix,,,,,,,,Deltocephalinae,Drylix,,Deltocephalinae | Athysanini,8K3G8,4483187
-B160:1:131,Limotettix striola,,Limotettix,,striola,,species,,B160:1,accepted,,,B160:1:129,Limotettix,,,,,,Deltocephalinae,Limotettix,,Deltocephalinae | Athysanini | Limotettix,72F9B,2043723
-B160:1:132,Limotettix atricapillus,,Limotettix,,atricapillus,,species,,B160:1,accepted,,,B160:1:129,Limotettix,,,,,,Deltocephalinae,Limotettix,,Deltocephalinae | Athysanini | Limotettix,72F9J,4483184
-B160:1:149,Euscelis,,,,,,genus,,B160:1,synonym,B160:1:148,Euscelidius,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini,,2025998
-B160:1:134,Phrynomorphus,,,,,,genus,,B160:1,synonym,B160:1:133,Euscelis,,,,,,,,Deltocephalinae,Phrynomorphus,,Deltocephalinae | Athysanini,,
-B160:1:163,Athysanus,,,,,,genus,,B160:1,synonym,B160:1:162,Macustus,,,,,,,,Deltocephalinae,Athysanus,,Deltocephalinae | Athysanini,,
-B160:1:202,Thamnotettix,,,,,,genus,,B160:1,synonym,B160:1:201,Lamprotettix,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
-B160:1:137,Euscelis obsoletus,,Euscelis,,obsoletus,,species,,B160:1,accepted,,,B160:1:133,Euscelis,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,10882812
-B160:1:138,Euscelis sejungendus,,Euscelis,,sejungendus,,species,,B160:1,synonym,B160:1:137,Euscelis obsoletus,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,2025998
-B160:1:139,Euscelis venosus,,Euscelis,,venosus,,species,,B160:1,accepted,,,B160:1:133,Euscelis,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,5154898
-B160:1:140,Euscelis ohausi,,Euscelis,,ohausi,,species,,B160:1,accepted,,,B160:1:133,Euscelis,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,5154903
-B160:1:141,Euscelis distinguendus,,Euscelis,,distinguendus,,species,,B160:1,synonym,B160:1:140,Euscelis ohausi,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,5154891
-B160:1:142,Euscelis lineolatus,,Euscelis,,lineolatus,,species,,B160:1,accepted,,,B160:1:133,Euscelis,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,5154915
-B160:1:143,Euscelis bilobatus,,Euscelis,,bilobatus,,species,,B160:1,synonym,B160:1:142,Euscelis lineolatus,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,7361064
-B160:1:144,Euscelis incisus,,Euscelis,,incisus,,species,,B160:1,accepted,,,B160:1:133,Euscelis,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,8929628
-B160:1:145,Euscelis plebejus,,Euscelis,,plebejus,,species,,B160:1,synonym,B160:1:144,Euscelis incisus,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,11274868
-B160:1:146,Euscelis albingensis,,Euscelis,,albingensis,,species,,B160:1,synonym,B160:1:144,Euscelis incisus,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,11277200
-B160:1:147,Euscelis galiberti,,Euscelis,,galiberti,,species,,B160:1,synonym,B160:1:144,Euscelis incisus,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,8179163
-B160:1:148,Euscelidius,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Euscelidius,,Deltocephalinae | Athysanini,,2026081
-B160:1:149,Euscelis,,,,,,genus,,B160:1,synonym,B160:1:148,Euscelidius,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini,,2025998
-B160:1:202,Thamnotettix,,,,,,genus,,B160:1,synonym,B160:1:201,Lamprotettix,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
-B160:1:151,Euscelidius variegatus,,Euscelidius,,variegatus,,species,,B160:1,accepted,,,B160:1:148,Euscelidius,,,,,,Deltocephalinae,Euscelidius,,Deltocephalinae | Athysanini | Euscelidius,,2026086
-B160:1:152,Euscelidius schenckii,,Euscelidius,,schenckii,,species,,B160:1,accepted,,,B160:1:148,Euscelidius,,,,,,Deltocephalinae,Euscelidius,,Deltocephalinae | Athysanini | Euscelidius,,2026084
-B160:1:153,Euscelidius plebejus,,Euscelidius,,plebejus,,species,,B160:1,synonym,B160:1:152,Euscelidius schenckii,,,,,,,,Deltocephalinae,Euscelidius,,Deltocephalinae | Athysanini | Euscelidius,,2026081
-B160:1:154,Streptanus,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini,,2047658
-B160:1:163,Athysanus,,,,,,genus,,B160:1,synonym,B160:1:162,Macustus,,,,,,,,Deltocephalinae,Athysanus,,Deltocephalinae | Athysanini,,
-B160:1:156,Streptanus marginatus,,Streptanus,,marginatus,,species,,B160:1,accepted,,,B160:1:154,Streptanus,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,2047663
-B160:1:157,Streptanus brevipennis,,Streptanus,,brevipennis,,species,,B160:1,synonym,B160:1:156,Streptanus marginatus,,,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,11241639
-B160:1:158,Streptanus depressus,,Streptanus,,depressus,,species,,B160:1,synonym,B160:1:156,Streptanus marginatus,,,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,11311425
-B160:1:159,Streptanus aemulans,,Streptanus,,aemulans,,species,,B160:1,accepted,,,B160:1:154,Streptanus,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,2047671
-B160:1:160,Streptanus sahlbergi,,Streptanus,,sahlbergi,,species,,B160:1,synonym,B160:1:159,Streptanus aemulans,,,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,11354484
-B160:1:161,Streptanus sordidus,,Streptanus,,sordidus,,species,,B160:1,accepted,,,B160:1:154,Streptanus,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,4483142
-B160:1:162,Macustus,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Macustus,,Deltocephalinae | Athysanini,,2039463
-B160:1:163,Athysanus,,,,,,genus,,B160:1,synonym,B160:1:162,Macustus,,,,,,,,Deltocephalinae,Athysanus,,Deltocephalinae | Athysanini,,
-B160:1:164,Macustus grisescens,,Macustus,,grisescens,,species,,B160:1,accepted,,,B160:1:162,Macustus,,,,,,Deltocephalinae,Macustus,,Deltocephalinae | Athysanini | Macustus,,2039464
-B160:1:165,Macustus argentarius,,Macustus,,argentarius,,species,,B160:1,accepted,,,B160:1:162,Macustus,,,,,,Deltocephalinae,Macustus,,Deltocephalinae | Athysanini | Macustus,,2039463
-B160:1:166,Macustus argentatus,,Macustus,,argentatus,,species,,B160:1,synonym,B160:1:165,Macustus argentarius,,,,,,,,Deltocephalinae,Macustus,,Deltocephalinae | Athysanini | Macustus,,2039463
-B160:1:167,Paluda,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini,,2035379
-B160:1:168,Rhopalopyx,,,,,,genus,,B160:1,synonym,B160:1:167,Paluda,,,,,,,,Deltocephalinae,Rhopalopyx,,Deltocephalinae | Athysanini,,2030934
-B160:1:169,Stictocoris,,,,,,genus,,B160:1,synonym,B160:1:167,Paluda,,,,,,,,Deltocephalinae,Stictocoris,,Deltocephalinae | Athysanini,,5155902
-B160:1:170,Paluda adumbrata,,Paluda,,adumbrata,,species,,B160:1,accepted,,,B160:1:167,Paluda,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda,,11222136
-B160:1:171,Paluda preyssleri,,Paluda,,preyssleri,,species,,B160:1,synonym,B160:1:170,Paluda adumbrata,,,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda,,11332351
-B160:1:172,Paluda flaveola,,Paluda,,flaveola,,species,,B160:1,accepted,,,B160:1:167,Paluda,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda,,2035385
-B160:1:173,Paluda vitripennis,,Paluda,,vitripennis,,species,,B160:1,accepted,,,B160:1:167,Paluda,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda,,11289776
-B160:1:174,Paluda vitripennis subsp. hibernica,,Paluda,,vitripennis,hibernica,subspecies,,B160:1,accepted,,,B160:1:173,Paluda vitripennis,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda | Paluda vitripennis,,11289776
-B160:1:175,Paluda monticola,,Paluda,,monticola,,species,,B160:1,synonym,B160:1:174,Paluda vitripennis subsp. hibernica,,,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda | Paluda vitripennis,,11262709
-B160:1:180,Mocydia,,,,,,genus,,B160:1,synonym,B160:1:179,Mocydiopsis,,,,,,,,Deltocephalinae,Mocydia,,Deltocephalinae | Athysanini,,2029116
-B160:1:202,Thamnotettix,,,,,,genus,,B160:1,synonym,B160:1:201,Lamprotettix,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
-B160:1:178,Mocydia crocea,,Mocydia,,crocea,,species,,B160:1,accepted,,,B160:1:176,Mocydia,,,,,,Deltocephalinae,Mocydia,,Deltocephalinae | Athysanini | Mocydia,,4483301
-B160:1:179,Mocydiopsis,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Mocydiopsis,,Deltocephalinae | Athysanini,,2029065
-B160:1:180,Mocydia,,,,,,genus,,B160:1,synonym,B160:1:179,Mocydiopsis,,,,,,,,Deltocephalinae,Mocydia,,Deltocephalinae | Athysanini,,2029116
-B160:1:202,Thamnotettix,,,,,,genus,,B160:1,synonym,B160:1:201,Lamprotettix,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
-B160:1:182,Mocydiopsis attenuata,,Mocydiopsis,,attenuata,,species,,B160:1,accepted,,,B160:1:179,Mocydiopsis,,,,,,Deltocephalinae,Mocydiopsis,,Deltocephalinae | Athysanini | Mocydiopsis,,2029073
-B160:1:183,Mocydiopsis parvicauda,,Mocydiopsis,,parvicauda,,species,,B160:1,accepted,,,B160:1:179,Mocydiopsis,,,,,,Deltocephalinae,Mocydiopsis,,Deltocephalinae | Athysanini | Mocydiopsis,,2029068
-B160:1:202,Thamnotettix,,,,,,genus,,B160:1,synonym,B160:1:201,Lamprotettix,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
-B160:1:185,Loepotettix,,,,,,genus,,B160:1,synonym,B160:1:184,Thamnotettix,,,,,,,,Deltocephalinae,Loepotettix,,Deltocephalinae | Athysanini,,4775951
-B160:1:186,Thamnotettix dilutior,,Thamnotettix,,dilutior,,species,,B160:1,accepted,,,B160:1:184,Thamnotettix,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini | Thamnotettix,,2026173
-B160:1:187,Thamnotettix confinis,,Thamnotettix,,confinis,,species,,B160:1,accepted,,,B160:1:184,Thamnotettix,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini | Thamnotettix,,2026152
-B160:1:188,Thamnotettix simplex,,Thamnotettix,,simplex,,species,,B160:1,synonym,B160:1:187,Thamnotettix confinis,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini | Thamnotettix,,11316474
-B160:1:189,Thamnotettix prasinus,,Thamnotettix,,prasinus,,species,,B160:1,synonym,B160:1:187,Thamnotettix confinis,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini | Thamnotettix,8JZX2,11275947
-B160:1:190,Speudotettix,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Speudotettix,,Deltocephalinae | Athysanini,,2026275
-B160:1:202,Thamnotettix,,,,,,genus,,B160:1,synonym,B160:1:201,Lamprotettix,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
-B160:1:192,Speudotettix subfusculus,,Speudotettix,,subfusculus,,species,,B160:1,accepted,,,B160:1:190,Speudotettix,,,,,,Deltocephalinae,Speudotettix,,Deltocephalinae | Athysanini | Speudotettix,,4483306
-B160:1:193,Idiodonus,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Idiodonus,,Deltocephalinae | Athysanini,,2033121
-B160:1:194,Orolix,,,,,,genus,,B160:1,synonym,B160:1:193,Idiodonus,,,,,,,,Deltocephalinae,Orolix,,Deltocephalinae | Athysanini,,4483402
-B160:1:202,Thamnotettix,,,,,,genus,,B160:1,synonym,B160:1:201,Lamprotettix,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
-B160:1:196,Idiodonus cruentatus,,Idiodonus,,cruentatus,,species,,B160:1,accepted,,,B160:1:193,Idiodonus,,,,,,Deltocephalinae,Idiodonus,,Deltocephalinae | Athysanini | Idiodonus,,4483399
-B160:1:197,Colladonus,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Colladonus,,Deltocephalinae | Athysanini,,2047272
-B160:1:198,Hypospadianus,,,,,,genus,,B160:1,synonym,B160:1:197,Colladonus,,,,,,,,Deltocephalinae,Hypospadianus,,Deltocephalinae | Athysanini,,4483223
-B160:1:202,Thamnotettix,,,,,,genus,,B160:1,synonym,B160:1:201,Lamprotettix,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
-B160:1:200,Colladonus torneellus,,Colladonus,,torneellus,,species,,B160:1,accepted,,,B160:1:197,Colladonus,,,,,,Deltocephalinae,Colladonus,,Deltocephalinae | Athysanini | Colladonus,,4483224
-B160:1:201,Lamprotettix,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Lamprotettix,,Deltocephalinae | Athysanini,,2045523
-B160:1:202,Thamnotettix,,,,,,genus,,B160:1,synonym,B160:1:201,Lamprotettix,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
-B160:1:203,Lamprotettix octopunctatus,,Lamprotettix,,octopunctatus,,species,,B160:1,accepted,,,B160:1:201,Lamprotettix,,,,,,Deltocephalinae,Lamprotettix,,Deltocephalinae | Athysanini | Lamprotettix,,11301159
-B160:1:204,Lamprotettix splendidulus,,Lamprotettix,,splendidulus,,species,,B160:1,synonym,B160:1:203,Lamprotettix octopunctatus,,,,,,,,Deltocephalinae,Lamprotettix,,Deltocephalinae | Athysanini | Lamprotettix,,11320365
-B160:1:263,Cicadula,,,,,,genus,,B160:1,synonym,B160:1:261,Erotettix,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Macrostelini,8KHFM,2025305
-B160:1:206,Cicadula intermedia,,Cicadula,,intermedia,,species,,B160:1,accepted,,,B160:1:205,Cicadula,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,5984736
-B160:1:207,Cicadula lunulifrons,,Cicadula,,lunulifrons,,species,,B160:1,synonym,B160:1:206,Cicadula intermedia,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,11297332
-B160:1:208,Cicadula frontalis,,Cicadula,,frontalis,,species,,B160:1,accepted,,,B160:1:205,Cicadula,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,8JN2C,11335628
-B160:1:209,Cicadula antennata,,Cicadula,,antennata,,species,,B160:1,synonym,B160:1:208,Cicadula frontalis,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,8KHFM,2025305
-B160:1:210,Cicadula pellucens,,Cicadula,,pellucens,,species,,B160:1,synonym,B160:1:208,Cicadula frontalis,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,8KHFM,2025305
-B160:1:211,Cicadula aurantipes,,Cicadula,,aurantipes,,species,,B160:1,accepted,,,B160:1:205,Cicadula,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,5984753
-B160:1:212,Cicadula quinquenotata,,Cicadula,,quinquenotata,,species,,B160:1,accepted,,,B160:1:205,Cicadula,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,5984749
-B160:1:213,Cicadula saturata,,Cicadula,,saturata,,species,,B160:1,accepted,,,B160:1:205,Cicadula,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,5984738
-B160:1:214,Cicadula quadrinotata,,Cicadula,,quadrinotata,,species,,B160:1,accepted,,,B160:1:205,Cicadula,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,6096828
-B160:1:215,Cicadula persimilis,,Cicadula,,persimilis,,species,,B160:1,accepted,,,B160:1:205,Cicadula,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,5984735
-B160:1:216,Elymana,,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Elymana,,Deltocephalinae | Athysanini,,2030417
-B160:1:217,Solenopyx,,,,,,genus,,B160:1,synonym,B160:1:216,Elymana,,,,,,,,Deltocephalinae,Solenopyx,,Deltocephalinae | Athysanini,,4483411
-B160:1:223,Limotettix,,,,,,genus,,B160:1,synonym,B160:1:222,Opsius,,,,,,,,Deltocephalinae,Limotettix,,Deltocephalinae | Opsiini,8HLLV,2043709
-B160:1:219,Elymana sulphurella,,Elymana,,sulphurella,,species,,B160:1,accepted,,,B160:1:216,Elymana,,,,,,Deltocephalinae,Elymana,,Deltocephalinae | Athysanini | Elymana,,2030420
-B160:1:220,Elymana virescens,,Elymana,,virescens,,species,,B160:1,synonym,B160:1:219,Elymana sulphurella,,,,,,,,Deltocephalinae,Elymana,,Deltocephalinae | Athysanini | Elymana,,11341357
+B160:1:99,Rhytistylus Fieber,Fieber,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Rhytistylus,,Deltocephalinae | Athysanini,,2035580
+B160:1:100,Glyptocephalus Edwards,Edwards,,,,,genus,,B160:1,synonym,B160:1:99,Rhytistylus Fieber,,,,,,,,Deltocephalinae,Glyptocephalus,,Deltocephalinae | Athysanini,,3265808
+B160:1:101,Edwardsiastes Kirby,Kirby,,,,,genus,,B160:1,synonym,B160:1:99,Rhytistylus Fieber,,,,,,,,Deltocephalinae,Edwardsiastes,,Deltocephalinae | Athysanini,,4483231
+B160:1:102,Rhytistylus proceps (Kirschbaum),(Kirschbaum),Rhytistylus,,proceps,,species,,B160:1,accepted,,,B160:1:99,Rhytistylus Fieber,,,,,,Deltocephalinae,Rhytistylus,,Deltocephalinae | Athysanini | Rhytistylus,,2035581
+B160:1:103,Graphocraerus Thomson,Thomson,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Graphocraerus,,Deltocephalinae | Athysanini,,2049022
+B160:1:104,Graphocraerus ventralis (Fallén),(Fallén),Graphocraerus,,ventralis,,species,,B160:1,accepted,,,B160:1:103,Graphocraerus Thomson,,,,,,Deltocephalinae,Graphocraerus,,Deltocephalinae | Athysanini | Graphocraerus,,2049024
+B160:1:105,Sardius Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Sardius,,Deltocephalinae | Athysanini,,2032507
+B160:1:106,Deltocephalus,,,,,,genus,"auctt. partim, nec Burmeister",B160:1,synonym,B160:1:105,Sardius Ribaut,,,,,,,,Deltocephalinae,Deltocephalus,,Deltocephalinae | Athysanini,,2024963
+B160:1:107,Sardius argus (Marshall),(Marshall),Sardius,,argus,,species,,B160:1,accepted,,,B160:1:105,Sardius Ribaut,,,,,,Deltocephalinae,Sardius,,Deltocephalinae | Athysanini | Sardius,,2032508
+B160:1:108,Hardya Edwards,Edwards,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Hardya,,Deltocephalinae | Athysanini,,2039449
+B160:1:109,Hardya melanopsis (Hardy),(Hardy),Hardya,,melanopsis,,species,,B160:1,accepted,,,B160:1:108,Hardya Edwards,,,,,,Deltocephalinae,Hardya,,Deltocephalinae | Athysanini | Hardya,,2039462
+B160:1:110,Allygidius Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Allygidius,,Deltocephalinae | Athysanini,,2030340
+B160:1:111,Allygus,,,,,,genus,auctt. partim nec Fieber,B160:1,synonym,B160:1:110,Allygidius Ribaut,,,,,,,,Deltocephalinae,Allygus,,Deltocephalinae | Athysanini,,2029991
+B160:1:112,Allygidius commutatus (Scott),(Scott),Allygidius,,commutatus,,species,,B160:1,accepted,,,B160:1:110,Allygidius Ribaut,,,,,,Deltocephalinae,Allygidius,,Deltocephalinae | Athysanini | Allygidius,,2030346
+B160:1:113,Allygus Fieber,Fieber,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Allygus,,Deltocephalinae | Athysanini,,2029991
+B160:1:114,Jassus,,,,,,genus,auctt. nec Fallén,B160:1,synonym,B160:1:113,Allygus Fieber,,,,,,,,Deltocephalinae,Jassus,,Deltocephalinae | Athysanini,8HL3P,
+B160:1:115,Allygus modestus Scott,Scott,Allygus,,modestus,,species,,B160:1,accepted,,,B160:1:113,Allygus Fieber,,,,,,Deltocephalinae,Allygus,,Deltocephalinae | Athysanini | Allygus,,2029993
+B160:1:116,Allygus mixtus (Fabricius),(Fabricius),Allygus,,mixtus,,species,,B160:1,accepted,,,B160:1:113,Allygus Fieber,,,,,,Deltocephalinae,Allygus,,Deltocephalinae | Athysanini | Allygus,,4483219
+B160:1:117,Scleroracus Van,Van,,,,,genus,Duzee,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini,8JLZH,4775553
+B160:1:118,Ophiola Edwards,Edwards,,,,,genus,,B160:1,synonym,B160:1:117,Scleroracus Van,,,,,,,,Deltocephalinae,Ophiola,,Deltocephalinae | Athysanini,8HT7W,4483194
+B160:1:119,Thamnotettix,,,,,,genus,"auctt. partim, nec Zetterstedt",B160:1,synonym,B160:1:117,Scleroracus Van,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
+B160:1:120,Scleroracus decumanus (Kontkanen),(Kontkanen),Scleroracus,,decumanus,,species,,B160:1,accepted,,,B160:1:117,Scleroracus Van,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,8JYYS,4483204
+B160:1:121,Scleroracus striatulus (Fallén),(Fallén),Scleroracus,,striatulus,,species,,B160:1,synonym,B160:1:120,Scleroracus decumanus (Kontkanen),,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,,11356982
+B160:1:122,Scleroracus corniculus (Ribaut),(Ribaut),Scleroracus,,corniculus,,species,nec (Marshall),B160:1,synonym,B160:1:120,Scleroracus decumanus (Kontkanen),,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,8JYYQ,8474754
+B160:1:123,Scleroracus plutonius (Uhler),(Uhler),Scleroracus,,plutonius,,species,,B160:1,accepted,,,B160:1:117,Scleroracus Van,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,8JYZK,11324542
+B160:1:124,Scleroracus striatulellus (Edwards),(Edwards),Scleroracus,,striatulellus,,species,,B160:1,synonym,B160:1:123,Scleroracus plutonius (Uhler),,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,,11266458
+B160:1:125,Scleroracus russeolus,,Scleroracus,,russeolus,,species,auctt. nec (Fallén),B160:1,synonym,B160:1:123,Scleroracus plutonius (Uhler),,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,8JYZM,8519282
+B160:1:126,Scleroracus corniculus (Marshall),(Marshall),Scleroracus,,corniculus,,species,,B160:1,accepted,,,B160:1:117,Scleroracus Van,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,8JYYQ,8474754
+B160:1:127,Scleroracus striatulus (Edwards),(Edwards),Scleroracus,,striatulus,,species,nec (Fallén),B160:1,synonym,B160:1:126,Scleroracus corniculus (Marshall),,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,,11356982
+B160:1:128,Scleroracus intractabilis (Kontkanen),(Kontkanen),Scleroracus,,intractabilis,,species,,B160:1,synonym,B160:1:126,Scleroracus corniculus (Marshall),,,,,,,,Deltocephalinae,Scleroracus,,Deltocephalinae | Athysanini | Scleroracus,,11243915
+B160:1:129,Limotettix Sahlberg,Sahlberg,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Limotettix,,Deltocephalinae | Athysanini,8HLLV,2043709
+B160:1:130,Drylix Edwards,Edwards,,,,,genus,,B160:1,synonym,B160:1:129,Limotettix Sahlberg,,,,,,,,Deltocephalinae,Drylix,,Deltocephalinae | Athysanini,8K3G8,4483187
+B160:1:131,Limotettix striola (Fallén),(Fallén),Limotettix,,striola,,species,,B160:1,accepted,,,B160:1:129,Limotettix Sahlberg,,,,,,Deltocephalinae,Limotettix,,Deltocephalinae | Athysanini | Limotettix,72F9B,2043723
+B160:1:132,Limotettix atricapillus (Boheman),(Boheman),Limotettix,,atricapillus,,species,,B160:1,accepted,,,B160:1:129,Limotettix Sahlberg,,,,,,Deltocephalinae,Limotettix,,Deltocephalinae | Athysanini | Limotettix,72F9J,4483184
+B160:1:133,Euscelis Brullé,Brullé,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini,8KNP9,2025998
+B160:1:134,Phrynomorphus Curtis,Curtis,,,,,genus,,B160:1,synonym,B160:1:133,Euscelis Brullé,,,,,,,,Deltocephalinae,Phrynomorphus,,Deltocephalinae | Athysanini,,3265384
+B160:1:135,Athysanus,,,,,,genus,auctt. partim nec Burmeister,B160:1,synonym,B160:1:133,Euscelis Brullé,,,,,,,,Deltocephalinae,Athysanus,,Deltocephalinae | Athysanini,,
+B160:1:136,Thamnotettix,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:133,Euscelis Brullé,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
+B160:1:137,Euscelis obsoletus (Kirschbaum),(Kirschbaum),Euscelis,,obsoletus,,species,,B160:1,accepted,,,B160:1:133,Euscelis Brullé,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,10882812
+B160:1:138,Euscelis sejungendus (Kirschbaum),(Kirschbaum),Euscelis,,sejungendus,,species,,B160:1,synonym,B160:1:137,Euscelis obsoletus (Kirschbaum),,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,8KNP9,2025998
+B160:1:139,Euscelis venosus (Kirschbaum),(Kirschbaum),Euscelis,,venosus,,species,,B160:1,accepted,,,B160:1:133,Euscelis Brullé,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,5154898
+B160:1:140,Euscelis ohausi Wagner,Wagner,Euscelis,,ohausi,,species,,B160:1,accepted,,,B160:1:133,Euscelis Brullé,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,5154903
+B160:1:141,Euscelis distinguendus (Edwards),(Edwards),Euscelis,,distinguendus,,species,nec. (Kirschbaum),B160:1,synonym,B160:1:140,Euscelis ohausi Wagner,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,5154891
+B160:1:142,Euscelis lineolatus Brullé,Brullé,Euscelis,,lineolatus,,species,,B160:1,accepted,,,B160:1:133,Euscelis Brullé,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,5154915
+B160:1:143,Euscelis bilobatus Wagner in Ribaut,Wagner in Ribaut,Euscelis,,bilobatus,,species,,B160:1,synonym,B160:1:142,Euscelis lineolatus Brullé,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,7361064
+B160:1:144,Euscelis incisus (Kirschbaum),(Kirschbaum),Euscelis,,incisus,,species,,B160:1,accepted,,,B160:1:133,Euscelis Brullé,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,8929628
+B160:1:145,Euscelis plebejus (Fallén),(Fallén),Euscelis,,plebejus,,species,nec (Scopoli),B160:1,synonym,B160:1:144,Euscelis incisus (Kirschbaum),,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,11274868
+B160:1:146,Euscelis albingensis Wagner,Wagner,Euscelis,,albingensis,,species,,B160:1,synonym,B160:1:144,Euscelis incisus (Kirschbaum),,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,11277200
+B160:1:147,Euscelis galiberti Salmon & Salmon,Salmon & Salmon,Euscelis,,galiberti,,species,,B160:1,synonym,B160:1:144,Euscelis incisus (Kirschbaum),,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini | Euscelis,,8179163
+B160:1:148,Euscelidius Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Euscelidius,,Deltocephalinae | Athysanini,,2026081
+B160:1:149,Euscelis,,,,,,genus,auctt. partim nec Brullé,B160:1,synonym,B160:1:148,Euscelidius Ribaut,,,,,,,,Deltocephalinae,Euscelis,,Deltocephalinae | Athysanini,,2025998
+B160:1:150,Thamnotettix,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:148,Euscelidius Ribaut,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
+B160:1:151,Euscelidius variegatus (Kirschbaum),(Kirschbaum),Euscelidius,,variegatus,,species,,B160:1,accepted,,,B160:1:148,Euscelidius Ribaut,,,,,,Deltocephalinae,Euscelidius,,Deltocephalinae | Athysanini | Euscelidius,,2026086
+B160:1:152,Euscelidius schenckii (Kirschbaum),(Kirschbaum),Euscelidius,,schenckii,,species,,B160:1,accepted,,,B160:1:148,Euscelidius Ribaut,,,,,,Deltocephalinae,Euscelidius,,Deltocephalinae | Athysanini | Euscelidius,,2026084
+B160:1:153,Euscelidius plebejus (Edwards),(Edwards),Euscelidius,,plebejus,,species,nec (Fallén),B160:1,synonym,B160:1:152,Euscelidius schenckii (Kirschbaum),,,,,,,,Deltocephalinae,Euscelidius,,Deltocephalinae | Athysanini | Euscelidius,,2026081
+B160:1:154,Streptanus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini,,2047658
+B160:1:155,Athysanus,,,,,,genus,auctt. partim nec Burmeister,B160:1,synonym,B160:1:154,Streptanus Ribaut,,,,,,,,Deltocephalinae,Athysanus,,Deltocephalinae | Athysanini,,
+B160:1:156,Streptanus marginatus (Kirschbaum),(Kirschbaum),Streptanus,,marginatus,,species,,B160:1,accepted,,,B160:1:154,Streptanus Ribaut,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,2047663
+B160:1:157,Streptanus brevipennis (Kirschbaum),(Kirschbaum),Streptanus,,brevipennis,,species,,B160:1,synonym,B160:1:156,Streptanus marginatus (Kirschbaum),,,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,11241639
+B160:1:158,Streptanus depressus (Scott),(Scott),Streptanus,,depressus,,species,,B160:1,synonym,B160:1:156,Streptanus marginatus (Kirschbaum),,,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,11311425
+B160:1:159,Streptanus aemulans (Kirschbaum),(Kirschbaum),Streptanus,,aemulans,,species,,B160:1,accepted,,,B160:1:154,Streptanus Ribaut,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,2047671
+B160:1:160,Streptanus sahlbergi (Reuter),(Reuter),Streptanus,,sahlbergi,,species,,B160:1,synonym,B160:1:159,Streptanus aemulans (Kirschbaum),,,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,11354484
+B160:1:161,Streptanus sordidus (Zetterstedt),(Zetterstedt),Streptanus,,sordidus,,species,,B160:1,accepted,,,B160:1:154,Streptanus Ribaut,,,,,,Deltocephalinae,Streptanus,,Deltocephalinae | Athysanini | Streptanus,,4483142
+B160:1:162,Macustus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Macustus,,Deltocephalinae | Athysanini,,2039463
+B160:1:163,Athysanus,,,,,,genus,auctt. partim nec Burmeister,B160:1,synonym,B160:1:162,Macustus Ribaut,,,,,,,,Deltocephalinae,Athysanus,,Deltocephalinae | Athysanini,,
+B160:1:164,Macustus grisescens (Zetterstedt),(Zetterstedt),Macustus,,grisescens,,species,,B160:1,accepted,,,B160:1:162,Macustus Ribaut,,,,,,Deltocephalinae,Macustus,,Deltocephalinae | Athysanini | Macustus,,2039464
+B160:1:165,Macustus argentarius Metcalf,Metcalf,Macustus,,argentarius,,species,,B160:1,accepted,,,B160:1:162,Macustus Ribaut,,,,,,Deltocephalinae,Macustus,,Deltocephalinae | Athysanini | Macustus,,2039463
+B160:1:166,Macustus argentatus (Fabricius),(Fabricius),Macustus,,argentatus,,species,nec (Olivier),B160:1,synonym,B160:1:165,Macustus argentarius Metcalf,,,,,,,,Deltocephalinae,Macustus,,Deltocephalinae | Athysanini | Macustus,,2039463
+B160:1:167,Paluda DeLong,DeLong,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini,,2035379
+B160:1:168,Rhopalopyx Ribaut,Ribaut,,,,,genus,,B160:1,synonym,B160:1:167,Paluda DeLong,,,,,,,,Deltocephalinae,Rhopalopyx,,Deltocephalinae | Athysanini,,2030934
+B160:1:169,Stictocoris,,,,,,genus, auctt. partim nec Thomson,B160:1,synonym,B160:1:167,Paluda DeLong,,,,,,,,Deltocephalinae,Stictocoris,,Deltocephalinae | Athysanini,,5155902
+B160:1:170,Paluda adumbrata Sahlberg,Sahlberg,Paluda,,adumbrata,,species,,B160:1,accepted,,,B160:1:167,Paluda DeLong,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda,,11222136
+B160:1:171,Paluda preyssleri,,Paluda,,preyssleri,,species,auctt. nec (Herrich-Schaeffer),B160:1,synonym,B160:1:170,Paluda adumbrata Sahlberg,,,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda,,11332351
+B160:1:172,Paluda flaveola (Boheman),(Boheman),Paluda,,flaveola,,species,,B160:1,accepted,,,B160:1:167,Paluda DeLong,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda,,2035385
+B160:1:173,Paluda vitripennis (Flor),(Flor),Paluda,,vitripennis,,species,,B160:1,accepted,,,B160:1:167,Paluda DeLong,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda,,11289776
+B160:1:174,Paluda vitripennis subsp. hibernica Le,Le,Paluda,,vitripennis,hibernica,subspecies,Quesne,B160:1,accepted,,,B160:1:173,Paluda vitripennis (Flor),,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda | Paluda vitripennis,,11289776
+B160:1:175,Paluda monticola Le,Le,Paluda,,monticola,,species,Quesne nec Ribaut,B160:1,synonym,B160:1:174,Paluda vitripennis subsp. hibernica Le,,,,,,,,Deltocephalinae,Paluda,,Deltocephalinae | Athysanini | Paluda | Paluda vitripennis,,11262709
+B160:1:176,Mocydia Edwards,Edwards,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Mocydia,,Deltocephalinae | Athysanini,,2029116
+B160:1:177,Thamnotettix,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:176,Mocydia Edwards,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
+B160:1:178,Mocydia crocea (Herrich-Schaeffer),(Herrich-Schaeffer),Mocydia,,crocea,,species,,B160:1,accepted,,,B160:1:176,Mocydia Edwards,,,,,,Deltocephalinae,Mocydia,,Deltocephalinae | Athysanini | Mocydia,,4483301
+B160:1:179,Mocydiopsis Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Mocydiopsis,,Deltocephalinae | Athysanini,,2029065
+B160:1:180,Mocydia,,,,,,genus,auctt. partim nec Edwards,B160:1,synonym,B160:1:179,Mocydiopsis Ribaut,,,,,,,,Deltocephalinae,Mocydia,,Deltocephalinae | Athysanini,,2029116
+B160:1:181,Thamnotettix,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:179,Mocydiopsis Ribaut,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
+B160:1:182,Mocydiopsis attenuata (Germar),(Germar),Mocydiopsis,,attenuata,,species,,B160:1,accepted,,,B160:1:179,Mocydiopsis Ribaut,,,,,,Deltocephalinae,Mocydiopsis,,Deltocephalinae | Athysanini | Mocydiopsis,,2029073
+B160:1:183,Mocydiopsis parvicauda Ribaut,Ribaut,Mocydiopsis,,parvicauda,,species,,B160:1,accepted,,,B160:1:179,Mocydiopsis Ribaut,,,,,,Deltocephalinae,Mocydiopsis,,Deltocephalinae | Athysanini | Mocydiopsis,,2029068
+B160:1:184,Thamnotettix Zetterstedt,Zetterstedt,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
+B160:1:185,Loepotettix Ribaut,Ribaut,,,,,genus,,B160:1,synonym,B160:1:184,Thamnotettix Zetterstedt,,,,,,,,Deltocephalinae,Loepotettix,,Deltocephalinae | Athysanini,,4775951
+B160:1:186,Thamnotettix dilutior (Kirschbaum),(Kirschbaum),Thamnotettix,,dilutior,,species,,B160:1,accepted,,,B160:1:184,Thamnotettix Zetterstedt,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini | Thamnotettix,,2026173
+B160:1:187,Thamnotettix confinis Zetterstedt,Zetterstedt,Thamnotettix,,confinis,,species,,B160:1,accepted,,,B160:1:184,Thamnotettix Zetterstedt,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini | Thamnotettix,,2026152
+B160:1:188,Thamnotettix simplex (Herrich-Schaeffer),(Herrich-Schaeffer),Thamnotettix,,simplex,,species,,B160:1,synonym,B160:1:187,Thamnotettix confinis Zetterstedt,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini | Thamnotettix,,11316474
+B160:1:189,Thamnotettix prasinus,,Thamnotettix,,prasinus,,species,auctt. nec (Fabricius),B160:1,synonym,B160:1:187,Thamnotettix confinis Zetterstedt,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini | Thamnotettix,8JZX2,11275947
+B160:1:190,Speudotettix Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Speudotettix,,Deltocephalinae | Athysanini,,2026275
+B160:1:191,Thamnotettix,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:190,Speudotettix Ribaut,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
+B160:1:192,Speudotettix subfusculus (Fallén),(Fallén),Speudotettix,,subfusculus,,species,,B160:1,accepted,,,B160:1:190,Speudotettix Ribaut,,,,,,Deltocephalinae,Speudotettix,,Deltocephalinae | Athysanini | Speudotettix,,4483306
+B160:1:193,Idiodonus Ball,Ball,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Idiodonus,,Deltocephalinae | Athysanini,,2033121
+B160:1:194,Orolix Ribaut,Ribaut,,,,,genus,,B160:1,synonym,B160:1:193,Idiodonus Ball,,,,,,,,Deltocephalinae,Orolix,,Deltocephalinae | Athysanini,,4483402
+B160:1:195,Thamnotettix,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:193,Idiodonus Ball,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
+B160:1:196,Idiodonus cruentatus (Panzer),(Panzer),Idiodonus,,cruentatus,,species,,B160:1,accepted,,,B160:1:193,Idiodonus Ball,,,,,,Deltocephalinae,Idiodonus,,Deltocephalinae | Athysanini | Idiodonus,,4483399
+B160:1:197,Colladonus Ball,Ball,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Colladonus,,Deltocephalinae | Athysanini,,2047272
+B160:1:198,Hypospadianus Ribaut,Ribaut,,,,,genus,,B160:1,synonym,B160:1:197,Colladonus Ball,,,,,,,,Deltocephalinae,Hypospadianus,,Deltocephalinae | Athysanini,,4483223
+B160:1:199,Thamnotettix,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:197,Colladonus Ball,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
+B160:1:200,Colladonus torneellus (Zetterstedt),(Zetterstedt),Colladonus,,torneellus,,species,,B160:1,accepted,,,B160:1:197,Colladonus Ball,,,,,,Deltocephalinae,Colladonus,,Deltocephalinae | Athysanini | Colladonus,,4483224
+B160:1:201,Lamprotettix Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Lamprotettix,,Deltocephalinae | Athysanini,,2045523
+B160:1:202,Thamnotettix,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:201,Lamprotettix Ribaut,,,,,,,,Deltocephalinae,Thamnotettix,,Deltocephalinae | Athysanini,8KHH9,2026120
+B160:1:203,Lamprotettix octopunctatus (Schrank),(Schrank),Lamprotettix,,octopunctatus,,species,,B160:1,accepted,,,B160:1:201,Lamprotettix Ribaut,,,,,,Deltocephalinae,Lamprotettix,,Deltocephalinae | Athysanini | Lamprotettix,,11301159
+B160:1:204,Lamprotettix splendidulus (Fabricius),(Fabricius),Lamprotettix,,splendidulus,,species,,B160:1,synonym,B160:1:203,Lamprotettix octopunctatus (Schrank),,,,,,,,Deltocephalinae,Lamprotettix,,Deltocephalinae | Athysanini | Lamprotettix,,11320365
+B160:1:205,Cicadula Zetterstedt,Zetterstedt,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini,8KHFM,2025305
+B160:1:206,Cicadula intermedia (Boheman),(Boheman),Cicadula,,intermedia,,species,,B160:1,accepted,,,B160:1:205,Cicadula Zetterstedt,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,5984736
+B160:1:207,Cicadula lunulifrons (Sahlberg),(Sahlberg),Cicadula,,lunulifrons,,species,,B160:1,synonym,B160:1:206,Cicadula intermedia (Boheman),,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,11297332
+B160:1:208,Cicadula frontalis (Herrich-Schaeffer),(Herrich-Schaeffer),Cicadula,,frontalis,,species,,B160:1,accepted,,,B160:1:205,Cicadula Zetterstedt,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,8JN2C,11335628
+B160:1:209,Cicadula antennata (Boheman),(Boheman),Cicadula,,antennata,,species,,B160:1,synonym,B160:1:208,Cicadula frontalis (Herrich-Schaeffer),,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,8KHFM,2025305
+B160:1:210,Cicadula pellucens Salmon,Salmon,Cicadula,,pellucens,,species,,B160:1,synonym,B160:1:208,Cicadula frontalis (Herrich-Schaeffer),,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,8KHFM,2025305
+B160:1:211,Cicadula aurantipes (Edwards),(Edwards),Cicadula,,aurantipes,,species,,B160:1,accepted,,,B160:1:205,Cicadula Zetterstedt,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,5984753
+B160:1:212,Cicadula quinquenotata (Boheman),(Boheman),Cicadula,,quinquenotata,,species,,B160:1,accepted,,,B160:1:205,Cicadula Zetterstedt,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,5984749
+B160:1:213,Cicadula saturata (Edwards),(Edwards),Cicadula,,saturata,,species,,B160:1,accepted,,,B160:1:205,Cicadula Zetterstedt,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,5984738
+B160:1:214,Cicadula quadrinotata (Fabricius),(Fabricius),Cicadula,,quadrinotata,,species,,B160:1,accepted,,,B160:1:205,Cicadula Zetterstedt,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,6096828
+B160:1:215,Cicadula persimilis (Edwards),(Edwards),Cicadula,,persimilis,,species,,B160:1,accepted,,,B160:1:205,Cicadula Zetterstedt,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Athysanini | Cicadula,,5984735
+B160:1:216,Elymana DeLong,DeLong,,,,,genus,,B160:1,accepted,,,B160:1:97,Athysanini,,,,,,Deltocephalinae,Elymana,,Deltocephalinae | Athysanini,,2030417
+B160:1:217,Solenopyx Ribaut,Ribaut,,,,,genus,,B160:1,synonym,B160:1:216,Elymana DeLong,,,,,,,,Deltocephalinae,Solenopyx,,Deltocephalinae | Athysanini,,4483411
+B160:1:218,Limotettix,,,,,,genus,auctt. partim nec Sahlberg,B160:1,synonym,B160:1:216,Elymana DeLong,,,,,,,,Deltocephalinae,Limotettix,,Deltocephalinae | Athysanini,8HLLV,2043709
+B160:1:219,Elymana sulphurella Zetterstedt,Zetterstedt,Elymana,,sulphurella,,species,,B160:1,accepted,,,B160:1:216,Elymana DeLong,,,,,,Deltocephalinae,Elymana,,Deltocephalinae | Athysanini | Elymana,,2030420
+B160:1:220,Elymana virescens (Fabricius),(Fabricius),Elymana,,virescens,,species,nec (Gmelin),B160:1,synonym,B160:1:219,Elymana sulphurella Zetterstedt,,,,,,,,Deltocephalinae,Elymana,,Deltocephalinae | Athysanini | Elymana,,11341357
 B160:1:221,Opsiini,,,,,,tribe,,B160:1,accepted,,,B160:1:1,Deltocephalinae,,,,,,Deltocephalinae,,,Deltocephalinae,8JKCW,
-B160:1:222,Opsius,,,,,,genus,,B160:1,accepted,,,B160:1:221,Opsiini,,,,,,Deltocephalinae,Opsius,,Deltocephalinae | Opsiini,,2038157
-B160:1:223,Limotettix,,,,,,genus,,B160:1,synonym,B160:1:222,Opsius,,,,,,,,Deltocephalinae,Limotettix,,Deltocephalinae | Opsiini,8HLLV,2043709
-B160:1:224,Opsius stactogallus,,Opsius,,stactogallus,,species,,B160:1,accepted,,,B160:1:222,Opsius,,,,,,Deltocephalinae,Opsius,,Deltocephalinae | Opsiini | Opsius,,2038171
+B160:1:222,Opsius Fieber,Fieber,,,,,genus,,B160:1,accepted,,,B160:1:221,Opsiini,,,,,,Deltocephalinae,Opsius,,Deltocephalinae | Opsiini,,2038157
+B160:1:223,Limotettix,,,,,,genus,auctt. partim nec Sahlberg,B160:1,synonym,B160:1:222,Opsius Fieber,,,,,,,,Deltocephalinae,Limotettix,,Deltocephalinae | Opsiini,8HLLV,2043709
+B160:1:224,Opsius stactogallus Fieber,Fieber,Opsius,,stactogallus,,species,,B160:1,accepted,,,B160:1:222,Opsius Fieber,,,,,,Deltocephalinae,Opsius,,Deltocephalinae | Opsiini | Opsius,,2038171
 B160:1:225,Grypotini,,,,,,tribe,,B160:1,accepted,,,B160:1:1,Deltocephalinae,,,,,,Deltocephalinae,,,Deltocephalinae,,
-B160:1:226,Grypotes,,,,,,genus,,B160:1,accepted,,,B160:1:225,Grypotini,,,,,,Deltocephalinae,Grypotes,,Deltocephalinae | Grypotini,8HK5N,2041727
-B160:1:227,Grypotes puncticollis,,Grypotes,,puncticollis,,species,,B160:1,accepted,,,B160:1:226,Grypotes,,,,,,Deltocephalinae,Grypotes,,Deltocephalinae | Grypotini | Grypotes,3HHQN,5155632
-B160:1:228,Grypotes pinetellus,,Grypotes,,pinetellus,,species,,B160:1,synonym,B160:1:227,Grypotes puncticollis,,,,,,,,Deltocephalinae,Grypotes,,Deltocephalinae | Grypotini | Grypotes,,11303519
+B160:1:226,Grypotes Fieber,Fieber,,,,,genus,,B160:1,accepted,,,B160:1:225,Grypotini,,,,,,Deltocephalinae,Grypotes,,Deltocephalinae | Grypotini,8HK5N,2041727
+B160:1:227,Grypotes puncticollis (Herrich-Schaeffer),(Herrich-Schaeffer),Grypotes,,puncticollis,,species,,B160:1,accepted,,,B160:1:226,Grypotes Fieber,,,,,,Deltocephalinae,Grypotes,,Deltocephalinae | Grypotini | Grypotes,3HHQN,5155632
+B160:1:228,Grypotes pinetellus (Zetterstedt),(Zetterstedt),Grypotes,,pinetellus,,species,,B160:1,synonym,B160:1:227,Grypotes puncticollis (Herrich-Schaeffer),,,,,,,,Deltocephalinae,Grypotes,,Deltocephalinae | Grypotini | Grypotes,,11303519
 B160:1:229,Fieberiellini,,,,,,tribe,,B160:1,accepted,,,B160:1:1,Deltocephalinae,,,,,,Deltocephalinae,,,Deltocephalinae,8JK8N,
 B160:1:230,Synophropsini,,,,,,tribe,,B160:1,synonym,B160:1:229,Fieberiellini,,,,,,,,Deltocephalinae,,,Deltocephalinae,8JKFY,
-B160:1:231,Placotettix,,,,,,genus,,B160:1,accepted,,,B160:1:229,Fieberiellini,,,,,,Deltocephalinae,Placotettix,,Deltocephalinae | Fieberiellini,8HPLF,2048954
-B160:1:232,Placotettix taeniatifrons,,Placotettix,,taeniatifrons,,species,,B160:1,accepted,,,B160:1:231,Placotettix,,,,,,Deltocephalinae,Placotettix,,Deltocephalinae | Fieberiellini | Placotettix,6VNCG,2048955
+B160:1:231,Placotettix Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:229,Fieberiellini,,,,,,Deltocephalinae,Placotettix,,Deltocephalinae | Fieberiellini,8HPLF,2048954
+B160:1:232,Placotettix taeniatifrons (Kirschbaum),(Kirschbaum),Placotettix,,taeniatifrons,,species,,B160:1,accepted,,,B160:1:231,Placotettix Ribaut,,,,,,Deltocephalinae,Placotettix,,Deltocephalinae | Fieberiellini | Placotettix,6VNCG,2048955
 B160:1:233,Macrostelini,,,,,,tribe,,B160:1,accepted,,,B160:1:1,Deltocephalinae,,,,,,Deltocephalinae,,,Deltocephalinae,8JKBM,
-B160:1:234,Sonronius,,,,,,genus,,B160:1,accepted,,,B160:1:233,Macrostelini,,,,,,Deltocephalinae,Sonronius,,Deltocephalinae | Macrostelini,8HR76,2028306
-B160:1:263,Cicadula,,,,,,genus,,B160:1,synonym,B160:1:261,Erotettix,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Macrostelini,8KHFM,2025305
-B160:1:262,Macrosteles,,,,,,genus,,B160:1,synonym,B160:1:261,Erotettix,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini,8HLVC,2039592
-B160:1:237,Sonronius dahlbomi,,Sonronius,,dahlbomi,,species,,B160:1,accepted,,,B160:1:234,Sonronius,,,,,,Deltocephalinae,Sonronius,,Deltocephalinae | Macrostelini | Sonronius,4Y9ZJ,2028308
-B160:1:238,Sonronius quadrinotata,,Sonronius,,quadrinotata,,species,,B160:1,synonym,B160:1:237,Sonronius dahlbomi,,,,,,,,Deltocephalinae,Sonronius,,Deltocephalinae | Macrostelini | Sonronius,8HR76,2028306
-B160:1:239,Sagatus,,,,,,genus,,B160:1,accepted,,,B160:1:233,Macrostelini,,,,,,Deltocephalinae,Sagatus,,Deltocephalinae | Macrostelini,8JLYK,4405869
-B160:1:240,Sagatus punctifrons,,Sagatus,,punctifrons,,species,,B160:1,accepted,,,B160:1:239,Sagatus,,,,,,Deltocephalinae,Sagatus,,Deltocephalinae | Macrostelini | Sagatus,8JYGL,4482918
-B160:1:262,Macrosteles,,,,,,genus,,B160:1,synonym,B160:1:261,Erotettix,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini,8HLVC,2039592
-B160:1:263,Cicadula,,,,,,genus,,B160:1,synonym,B160:1:261,Erotettix,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Macrostelini,8KHFM,2025305
-B160:1:243,Macrosteles oshanini,,Macrosteles,,oshanini,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW9W,2039663
-B160:1:244,Macrosteles opacipennis,,Macrosteles,,opacipennis,,species,,B160:1,synonym,B160:1:243,Macrosteles oshanini,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,,4482943
-B160:1:245,Macrosteles quadripunctulatus,,Macrosteles,,quadripunctulatus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWBG,2039602
-B160:1:246,Macrosteles septemnotatus,,Macrosteles,,septemnotatus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWBQ,4482929
-B160:1:247,Macrosteles variatus,,Macrosteles,,variatus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWCD,4482934
-B160:1:248,Macrosteles horvathi,,Macrosteles,,horvathi,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW93,2039612
-B160:1:249,Macrosteles frontalis,,Macrosteles,,frontalis,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW8S,2039598
-B160:1:250,Macrosteles sordidipennis,,Macrosteles,,sordidipennis,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWC6,2039648
-B160:1:251,Macrosteles salinus,,Macrosteles,,salinus,,species,,B160:1,synonym,B160:1:250,Macrosteles sordidipennis,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,,11235633
-B160:1:252,Macrosteles fieberi,,Macrosteles,,fieberi,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW8L,2039667
-B160:1:253,Macrosteles lividus,,Macrosteles,,lividus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW9L,4482956
-B160:1:254,Macrosteles viridigriseus,,Macrosteles,,viridigriseus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWCJ,4482969
-B160:1:256,Macrosteles ossiannilssoni,,Macrosteles,,ossiannilssoni,,species,,B160:1,synonym,B160:1:255,Macrosteles ossiannilssoni,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW9X,2039659
-B160:1:256,Macrosteles ossiannilssoni,,Macrosteles,,ossiannilssoni,,species,,B160:1,synonym,B160:1:255,Macrosteles ossiannilssoni,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW9X,2039659
-B160:1:257,Macrosteles sexnotatus,,Macrosteles,,sexnotatus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWBT,4482962
-B160:1:258,Macrosteles laevis,,Macrosteles,,laevis,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW99,2039616
-B160:1:259,Macrosteles cristatus,,Macrosteles,,cristatus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW82,4482949
-B160:1:260,Macrosteles alpinus,,Macrosteles,,alpinus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW7H,4482932
-B160:1:261,Erotettix,,,,,,genus,,B160:1,accepted,,,B160:1:233,Macrostelini,,,,,,Deltocephalinae,Erotettix,,Deltocephalinae | Macrostelini,8JMV6,4482913
-B160:1:262,Macrosteles,,,,,,genus,,B160:1,synonym,B160:1:261,Erotettix,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini,8HLVC,2039592
-B160:1:263,Cicadula,,,,,,genus,,B160:1,synonym,B160:1:261,Erotettix,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Macrostelini,8KHFM,2025305
-B160:1:264,Erotettix cyane,,Erotettix,,cyane,,species,,B160:1,accepted,,,B160:1:261,Erotettix,,,,,,Deltocephalinae,Erotettix,,Deltocephalinae | Macrostelini | Erotettix,8JWDV,4482914
+B160:1:234,Sonronius Dorst,Dorst,,,,,genus,,B160:1,accepted,,,B160:1:233,Macrostelini,,,,,,Deltocephalinae,Sonronius,,Deltocephalinae | Macrostelini,8HR76,2028306
+B160:1:235,Cicadula,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:234,Sonronius Dorst,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Macrostelini,8KHFM,2025305
+B160:1:236,Macrosteles,,,,,,genus,auctt. partim nec Fieber,B160:1,synonym,B160:1:234,Sonronius Dorst,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini,8HLVC,2039592
+B160:1:237,Sonronius dahlbomi (Zetterstedt),(Zetterstedt),Sonronius,,dahlbomi,,species,,B160:1,accepted,,,B160:1:234,Sonronius Dorst,,,,,,Deltocephalinae,Sonronius,,Deltocephalinae | Macrostelini | Sonronius,4Y9ZJ,2028308
+B160:1:238,Sonronius quadrinotata (Fallén),(Fallén),Sonronius,,quadrinotata,,species,nec (de Villers),B160:1,synonym,B160:1:237,Sonronius dahlbomi (Zetterstedt),,,,,,,,Deltocephalinae,Sonronius,,Deltocephalinae | Macrostelini | Sonronius,8HR76,2028306
+B160:1:239,Sagatus Ribaut,Ribaut,,,,,genus,,B160:1,accepted,,,B160:1:233,Macrostelini,,,,,,Deltocephalinae,Sagatus,,Deltocephalinae | Macrostelini,8JLYK,4405869
+B160:1:240,Sagatus punctifrons (Fallén),(Fallén),Sagatus,,punctifrons,,species,,B160:1,accepted,,,B160:1:239,Sagatus Ribaut,,,,,,Deltocephalinae,Sagatus,,Deltocephalinae | Macrostelini | Sagatus,8JYGL,4482918
+B160:1:241,Macrosteles Fieber,Fieber,,,,,genus,,B160:1,accepted,,,B160:1:233,Macrostelini,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini,8HLVC,2039592
+B160:1:242,Cicadula,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:241,Macrosteles Fieber,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Macrostelini,8KHFM,2025305
+B160:1:243,Macrosteles oshanini Razvyaskina,Razvyaskina,Macrosteles,,oshanini,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW9W,2039663
+B160:1:244,Macrosteles opacipennis,,Macrosteles,,opacipennis,,species,auctt. nec (Lethierry),B160:1,synonym,B160:1:243,Macrosteles oshanini Razvyaskina,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,,4482943
+B160:1:245,Macrosteles quadripunctulatus (Kirschbaum),(Kirschbaum),Macrosteles,,quadripunctulatus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWBG,2039602
+B160:1:246,Macrosteles septemnotatus (Fallén),(Fallén),Macrosteles,,septemnotatus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWBQ,4482929
+B160:1:247,Macrosteles variatus (Fallén),(Fallén),Macrosteles,,variatus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWCD,4482934
+B160:1:248,Macrosteles horvathi Wagner,Wagner,Macrosteles,,horvathi,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW93,2039612
+B160:1:249,Macrosteles frontalis (Scott),(Scott),Macrosteles,,frontalis,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW8S,2039598
+B160:1:250,Macrosteles sordidipennis (Stål),(Stål),Macrosteles,,sordidipennis,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWC6,2039648
+B160:1:251,Macrosteles salinus (Reuter),(Reuter),Macrosteles,,salinus,,species,,B160:1,synonym,B160:1:250,Macrosteles sordidipennis (Stål),,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,,11235633
+B160:1:252,Macrosteles fieberi (Edwards),(Edwards),Macrosteles,,fieberi,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW8L,2039667
+B160:1:253,Macrosteles lividus (Edwards),(Edwards),Macrosteles,,lividus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW9L,4482956
+B160:1:254,Macrosteles viridigriseus (Edwards),(Edwards),Macrosteles,,viridigriseus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWCJ,4482969
+B160:1:255,Macrosteles ossiannilssoni Lindberg,Lindberg,Macrosteles,,ossiannilssoni,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW9X,2039659
+B160:1:256,Macrosteles ossiannilssoni Le,Le,Macrosteles,,ossiannilssoni,,species,Quesne,B160:1,synonym,B160:1:255,Macrosteles ossiannilssoni Lindberg,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8J85T,7889371
+B160:1:257,Macrosteles sexnotatus (Fallén),(Fallén),Macrosteles,,sexnotatus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JWBT,4482962
+B160:1:258,Macrosteles laevis (Ribaut),(Ribaut),Macrosteles,,laevis,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW99,2039616
+B160:1:259,Macrosteles cristatus Ribaut,Ribaut,Macrosteles,,cristatus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW82,4482949
+B160:1:260,Macrosteles alpinus (Zetterstedt),(Zetterstedt),Macrosteles,,alpinus,,species,,B160:1,accepted,,,B160:1:241,Macrosteles Fieber,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini | Macrosteles,8JW7H,4482932
+B160:1:261,Erotettix Haupt,Haupt,,,,,genus,,B160:1,accepted,,,B160:1:233,Macrostelini,,,,,,Deltocephalinae,Erotettix,,Deltocephalinae | Macrostelini,8JMV6,4482913
+B160:1:262,Macrosteles,,,,,,genus,auctt. partim nec Fieber,B160:1,synonym,B160:1:261,Erotettix Haupt,,,,,,,,Deltocephalinae,Macrosteles,,Deltocephalinae | Macrostelini,8HLVC,2039592
+B160:1:263,Cicadula,,,,,,genus,auctt. partim nec Zetterstedt,B160:1,synonym,B160:1:261,Erotettix Haupt,,,,,,,,Deltocephalinae,Cicadula,,Deltocephalinae | Macrostelini,8KHFM,2025305
+B160:1:264,Erotettix cyane (Boheman),(Boheman),Erotettix,,cyane,,species,,B160:1,accepted,,,B160:1:261,Erotettix Haupt,,,,,,Deltocephalinae,Erotettix,,Deltocephalinae | Macrostelini | Erotettix,8JWDV,4482914
 B160:1:265,Balcluthini,,,,,,tribe,,B160:1,accepted,,,B160:1:1,Deltocephalinae,,,,,,Deltocephalinae,,,Deltocephalinae,8JK6G,
-B160:1:266,Balclutha,,,,,,genus,,B160:1,accepted,,,B160:1:265,Balcluthini,,,,,,Deltocephalinae,Balclutha,,Deltocephalinae | Balcluthini,8HCZH,2044091
-B160:1:267,Gnathodus,,,,,,genus,,B160:1,synonym,B160:1:266,Balclutha,,,,,,,,Deltocephalinae,Gnathodus,,Deltocephalinae | Balcluthini,8JL7X,
-B160:1:268,Balclutha punctata,,Balclutha,,punctata,,species,,B160:1,accepted,,,B160:1:266,Balclutha,,,,,,Deltocephalinae,Balclutha,,Deltocephalinae | Balcluthini | Balclutha,KGNC,2044166
+B160:1:266,Balclutha Kirkaldy,Kirkaldy,,,,,genus,,B160:1,accepted,,,B160:1:265,Balcluthini,,,,,,Deltocephalinae,Balclutha,,Deltocephalinae | Balcluthini,8HCZH,2044091
+B160:1:267,Gnathodus Fieber,Fieber,,,,,genus,nec Pander,B160:1,synonym,B160:1:266,Balclutha Kirkaldy,,,,,,,,Deltocephalinae,Gnathodus,,Deltocephalinae | Balcluthini,8JL7X,3265388
+B160:1:268,Balclutha punctata (Thunberg),(Thunberg),Balclutha,,punctata,,species,,B160:1,accepted,,,B160:1:266,Balclutha Kirkaldy,,,,,,Deltocephalinae,Balclutha,,Deltocephalinae | Balcluthini | Balclutha,KGNC,2044166

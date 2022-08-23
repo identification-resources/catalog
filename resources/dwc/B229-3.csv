@@ -1,10 +1,10 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B229:3:1,Ptychopteridae,,,,,,family,,B229:3,accepted,,,,,,,,,Ptychopteridae,,,,,6277P,5585
-B229:3:2,Ptychoptera,,,,,,genus,,B229:3,accepted,,,B229:3:1,Ptychopteridae,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae,8KYNJ,1646623
-B229:3:3,Ptychoptera contaminata,,Ptychoptera,,contaminata,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,6WMTM,5089477
-B229:3:4,Ptychoptera albimana,,Ptychoptera,,albimana,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,8DGSF,11190377
-B229:3:5,Ptychoptera scutellaris,,Ptychoptera,,scutellaris,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,6WMTV,5089442
-B229:3:6,Ptychoptera minuta,,Ptychoptera,,minuta,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,6WN5R,5089430
-B229:3:7,Ptychoptera paludosa,,Ptychoptera,,paludosa,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,6WN66,5089468
-B229:3:8,Ptychoptera lacustris,,Ptychoptera,,lacustris,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,6WMTP,5089461
-B229:3:9,Ptychoptera longicauda,,Ptychoptera,,longicauda,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,78N5P,5089449
+B229:3:2,Ptychoptera Meigen,Meigen,,,,,genus,,B229:3,accepted,,,B229:3:1,Ptychopteridae,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae,8KYNJ,1646623
+B229:3:3,Ptychoptera contaminata Linnaeus,Linnaeus,Ptychoptera,,contaminata,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera Meigen,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,6WMTM,5089477
+B229:3:4,Ptychoptera albimana Fabricius,Fabricius,Ptychoptera,,albimana,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera Meigen,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,78MVH,11190377
+B229:3:5,Ptychoptera scutellaris Meigen,Meigen,Ptychoptera,,scutellaris,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera Meigen,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,6WMTV,10780826
+B229:3:6,Ptychoptera minuta Tonnoir,Tonnoir,Ptychoptera,,minuta,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera Meigen,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,6WN5R,5089430
+B229:3:7,Ptychoptera paludosa Meigen,Meigen,Ptychoptera,,paludosa,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera Meigen,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,6WN66,5089468
+B229:3:8,Ptychoptera lacustris Meigen,Meigen,Ptychoptera,,lacustris,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera Meigen,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,6WMTP,5089461
+B229:3:9,Ptychoptera longicauda Tonnoir,Tonnoir,Ptychoptera,,longicauda,,species,,B229:3,accepted,,,B229:3:2,Ptychoptera Meigen,,,,,Ptychopteridae,,Ptychoptera,,Ptychopteridae | Ptychoptera,78N5P,5089449

@@ -1,38 +1,38 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B443:1:1,Cleptinae,,,,,,subfamily,,B443:1,accepted,,,,,,,,,,Cleptinae,,,,,
-B443:1:31,Cleptes,,,,,,subgenus,,B443:1,accepted,,,B443:1:2,Cleptes,,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes,,
-B443:1:3,Oxycleptes,,,,,,subgenus,,B443:1,accepted,,,B443:1:2,Cleptes,,,,,,Cleptinae,Cleptes,Oxycleptes,Cleptinae | Cleptes,,
-B443:1:4,Cleptes orientalis-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:3,Oxycleptes,,,,,,Cleptinae,Cleptes,Oxycleptes,Cleptinae | Cleptes | Oxycleptes,,
-B443:1:5,Cleptes orientalis,,Cleptes,,orientalis,,species,,B443:1,accepted,,,B443:1:4,Cleptes orientalis-group,,,,,,Cleptinae,Cleptes,Oxycleptes,Cleptinae | Cleptes | Oxycleptes | Cleptes orientalis-group,,8822833
-B443:1:6,Chrysocleptes,,,,,,subgenus,,B443:1,accepted,,,B443:1:2,Cleptes,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes,,
-B443:1:7,Cleptes putoni-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:6,Chrysocleptes,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes,,
-B443:1:8,Cleptes putoni,,Cleptes,,putoni,,species,,B443:1,accepted,,,B443:1:7,Cleptes putoni-group,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes | Cleptes putoni-group,,8144291
-B443:1:9,Cleptes buyssonis,,Cleptes,,buyssonis,,species,,B443:1,synonym,B443:1:8,Cleptes putoni,,,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes | Cleptes putoni-group,,
-B443:1:10,Cleptes saussurei,,Cleptes,,saussurei,,species,,B443:1,synonym,B443:1:8,Cleptes putoni,,,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes | Cleptes putoni-group,,7367760
-B443:1:11,Cleptes semenovi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:6,Chrysocleptes,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes,,
-B443:1:12,Cleptes semenovi,,Cleptes,,semenovi,,species,,B443:1,accepted,,,B443:1:11,Cleptes semenovi-group,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes | Cleptes semenovi-group,,
-B443:1:13,Cleptes viridis,,Cleptes,,viridis,,species,,B443:1,accepted,,,B443:1:11,Cleptes semenovi-group,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes | Cleptes semenovi-group,,11147089
-B443:1:14,Maculosicleptes,,,,,,subgenus,,B443:1,accepted,,,B443:1:2,Cleptes,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes,,
-B443:1:15,Cleptes dahlbomi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:14,Maculosicleptes,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes | Maculosicleptes,,
-B443:1:16,Cleptes affulgens,,Cleptes,,affulgens,,species,,B443:1,accepted,,,B443:1:15,Cleptes dahlbomi-group,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes | Maculosicleptes | Cleptes dahlbomi-group,,11141704
-B443:1:17,Cleptes dahlbomi,,Cleptes,,dahlbomi,,species,,B443:1,accepted,,,B443:1:15,Cleptes dahlbomi-group,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes | Maculosicleptes | Cleptes dahlbomi-group,,
-B443:1:18,Cleptes aurata,,Cleptes,,aurata,,species,,B443:1,synonym,B443:1:17,Cleptes dahlbomi,,,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes | Maculosicleptes | Cleptes dahlbomi-group,,9582744
-B443:1:19,Cleptes schmidti,,Cleptes,,schmidti,,species,,B443:1,accepted,,,B443:1:15,Cleptes dahlbomi-group,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes | Maculosicleptes | Cleptes dahlbomi-group,,8984446
-B443:1:20,Neocleptes,,,,,,subgenus,,B443:1,accepted,,,B443:1:2,Cleptes,,,,,,Cleptinae,Cleptes,Neocleptes,Cleptinae | Cleptes,,
-B443:1:21,Cleptes fritzi,,Cleptes,,fritzi,,species,,B443:1,accepted,,,B443:1:20,Neocleptes,,,,,,Cleptinae,Cleptes,Neocleptes,Cleptinae | Cleptes | Neocleptes,,
-B443:1:22,Leiocleptes,,,,,,subgenus,,B443:1,accepted,,,B443:1:2,Cleptes,,,,,,Cleptinae,Cleptes,Leiocleptes,Cleptinae | Cleptes,,
-B443:1:23,Cleptes nitidulus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:22,Leiocleptes,,,,,,Cleptinae,Cleptes,Leiocleptes,Cleptinae | Cleptes | Leiocleptes,,
-B443:1:24,Cleptes rugulosus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:22,Leiocleptes,,,,,,Cleptinae,Cleptes,Leiocleptes,Cleptinae | Cleptes | Leiocleptes,,
-B443:1:25,Cleptes alienus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:22,Leiocleptes,,,,,,Cleptinae,Cleptes,Leiocleptes,Cleptinae | Cleptes | Leiocleptes,,
-B443:1:26,Cleptes morawitzi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:22,Leiocleptes,,,,,,Cleptinae,Cleptes,Leiocleptes,Cleptinae | Cleptes | Leiocleptes,,
-B443:1:27,Holocleptes,,,,,,subgenus,,B443:1,accepted,,,B443:1:2,Cleptes,,,,,,Cleptinae,Cleptes,Holocleptes,Cleptinae | Cleptes,,
-B443:1:28,Cleptes fudzi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:27,Holocleptes,,,,,,Cleptinae,Cleptes,Holocleptes,Cleptinae | Cleptes | Holocleptes,,
-B443:1:29,Cleptes juengeri-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:27,Holocleptes,,,,,,Cleptinae,Cleptes,Holocleptes,Cleptinae | Cleptes | Holocleptes,,
-B443:1:30,Cleptes aerosus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:27,Holocleptes,,,,,,Cleptinae,Cleptes,Holocleptes,Cleptinae | Cleptes | Holocleptes,,
-B443:1:31,Cleptes,,,,,,subgenus,,B443:1,accepted,,,B443:1:2,Cleptes,,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes,,
-B443:1:32,Cleptes townesi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:31,Cleptes,,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes | Cleptes,,
-B443:1:33,Cleptes semiauratus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:31,Cleptes,,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes | Cleptes,,
-B443:1:34,Cleptes satoi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:31,Cleptes,,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes | Cleptes,,
-B443:1:35,Cleptes asianus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:31,Cleptes,,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes | Cleptes,,
-B443:1:36,Lustriana,,,,,,genus,,B443:1,accepted,,,B443:1:1,Cleptinae,,,,,,Cleptinae,Lustriana,,Cleptinae,,
-B443:1:37,Cleptidae,,,,,,genus,,B443:1,accepted,,,B443:1:1,Cleptinae,,,,,,Cleptinae,Cleptidae,,Cleptinae,,
+B443:1:2,"Cleptes Latreille, 1802","Latreille, 1802",,,,,genus,,B443:1,accepted,,,B443:1:1,Cleptinae,,,,,,Cleptinae,Cleptes,,Cleptinae,,8802199
+B443:1:3,"Oxycleptes Móczár, 1962","Móczár, 1962",,,,,subgenus,,B443:1,accepted,,,B443:1:2,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Oxycleptes,Cleptinae | Cleptes,,
+B443:1:4,Cleptes orientalis-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:3,"Oxycleptes Móczár, 1962",,,,,,Cleptinae,Cleptes,Oxycleptes,Cleptinae | Cleptes | Oxycleptes,,
+B443:1:5,"Cleptes orientalis Dahlbom, 1854","Dahlbom, 1854",Cleptes,,orientalis,,species,,B443:1,accepted,,,B443:1:4,Cleptes orientalis-group,,,,,,Cleptinae,Cleptes,Oxycleptes,Cleptinae | Cleptes | Oxycleptes | Cleptes orientalis-group,,8822833
+B443:1:6,"Chrysocleptes Móczár, 1962","Móczár, 1962",,,,,subgenus,,B443:1,accepted,,,B443:1:2,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes,,
+B443:1:7,Cleptes putoni-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:6,"Chrysocleptes Móczár, 1962",,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes,,
+B443:1:8,"Cleptes putoni Buysson, 1886","Buysson, 1886",Cleptes,,putoni,,species,,B443:1,accepted,,,B443:1:7,Cleptes putoni-group,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes | Cleptes putoni-group,,8144291
+B443:1:9,"Cleptes buyssonis Semenov, 1891","Semenov, 1891",Cleptes,,buyssonis,,species,,B443:1,synonym,B443:1:8,"Cleptes putoni Buysson, 1886",,,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes | Cleptes putoni-group,,
+B443:1:10,"Cleptes saussurei Mocsáry, 1189","Mocsáry, 1189",Cleptes,,saussurei,,species,,B443:1,synonym,B443:1:8,"Cleptes putoni Buysson, 1886",,,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes | Cleptes putoni-group,,7367760
+B443:1:11,Cleptes semenovi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:6,"Chrysocleptes Móczár, 1962",,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes,,
+B443:1:12,"Cleptes semenovi Kusnetzov-Ugamszkii, 1927","Kusnetzov-Ugamszkii, 1927",Cleptes,,semenovi,,species,,B443:1,accepted,,,B443:1:11,Cleptes semenovi-group,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes | Cleptes semenovi-group,,
+B443:1:13,"Cleptes viridis Gravenhorst, 1807","Gravenhorst, 1807",Cleptes,,viridis,,species,,B443:1,accepted,,,B443:1:11,Cleptes semenovi-group,,,,,,Cleptinae,Cleptes,Chrysocleptes,Cleptinae | Cleptes | Chrysocleptes | Cleptes semenovi-group,,11147089
+B443:1:14,Maculosicleptes subgen.,subgen.,,,,,subgenus,nov.,B443:1,accepted,,,B443:1:2,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes,,
+B443:1:15,Cleptes dahlbomi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:14,Maculosicleptes subgen.,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes | Maculosicleptes,,
+B443:1:16,"Cleptes affulgens Linsenmaier, 1994","Linsenmaier, 1994",Cleptes,,affulgens,,species,,B443:1,accepted,,,B443:1:15,Cleptes dahlbomi-group,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes | Maculosicleptes | Cleptes dahlbomi-group,,11141704
+B443:1:17,"Cleptes dahlbomi Semenov, 1920","Semenov, 1920",Cleptes,,dahlbomi,,species,,B443:1,accepted,,,B443:1:15,Cleptes dahlbomi-group,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes | Maculosicleptes | Cleptes dahlbomi-group,,
+B443:1:18,"Cleptes aurata Dahlbom, 1845","Dahlbom, 1845",Cleptes,,aurata,,species,,B443:1,synonym,B443:1:17,"Cleptes dahlbomi Semenov, 1920",,,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes | Maculosicleptes | Cleptes dahlbomi-group,,9582744
+B443:1:19,"Cleptes schmidti Linsenmaier, 1968","Linsenmaier, 1968",Cleptes,,schmidti,,species,,B443:1,accepted,,,B443:1:15,Cleptes dahlbomi-group,,,,,,Cleptinae,Cleptes,Maculosicleptes,Cleptinae | Cleptes | Maculosicleptes | Cleptes dahlbomi-group,,8984446
+B443:1:20,"Neocleptes Kimsey, 1981","Kimsey, 1981",,,,,subgenus,,B443:1,accepted,,,B443:1:2,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Neocleptes,Cleptinae | Cleptes,,
+B443:1:21,"Cleptes fritzi Kimsey, 1981","Kimsey, 1981",Cleptes,,fritzi,,species,,B443:1,accepted,,,B443:1:20,"Neocleptes Kimsey, 1981",,,,,,Cleptinae,Cleptes,Neocleptes,Cleptinae | Cleptes | Neocleptes,,
+B443:1:22,"Leiocleptes Móczár, 1962","Móczár, 1962",,,,,subgenus,,B443:1,accepted,,,B443:1:2,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Leiocleptes,Cleptinae | Cleptes,,
+B443:1:23,Cleptes nitidulus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:22,"Leiocleptes Móczár, 1962",,,,,,Cleptinae,Cleptes,Leiocleptes,Cleptinae | Cleptes | Leiocleptes,,
+B443:1:24,Cleptes rugulosus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:22,"Leiocleptes Móczár, 1962",,,,,,Cleptinae,Cleptes,Leiocleptes,Cleptinae | Cleptes | Leiocleptes,,
+B443:1:25,Cleptes alienus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:22,"Leiocleptes Móczár, 1962",,,,,,Cleptinae,Cleptes,Leiocleptes,Cleptinae | Cleptes | Leiocleptes,,
+B443:1:26,Cleptes morawitzi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:22,"Leiocleptes Móczár, 1962",,,,,,Cleptinae,Cleptes,Leiocleptes,Cleptinae | Cleptes | Leiocleptes,,
+B443:1:27,"Holocleptes Móczár, 1962","Móczár, 1962",,,,,subgenus,,B443:1,accepted,,,B443:1:2,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Holocleptes,Cleptinae | Cleptes,,
+B443:1:28,Cleptes fudzi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:27,"Holocleptes Móczár, 1962",,,,,,Cleptinae,Cleptes,Holocleptes,Cleptinae | Cleptes | Holocleptes,,
+B443:1:29,Cleptes juengeri-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:27,"Holocleptes Móczár, 1962",,,,,,Cleptinae,Cleptes,Holocleptes,Cleptinae | Cleptes | Holocleptes,,
+B443:1:30,Cleptes aerosus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:27,"Holocleptes Móczár, 1962",,,,,,Cleptinae,Cleptes,Holocleptes,Cleptinae | Cleptes | Holocleptes,,
+B443:1:31,"Cleptes Latreille, 1802","Latreille, 1802",,,,,subgenus,,B443:1,accepted,,,B443:1:2,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes,,
+B443:1:32,Cleptes townesi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:31,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes | Cleptes,,
+B443:1:33,Cleptes semiauratus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:31,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes | Cleptes,,
+B443:1:34,Cleptes satoi-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:31,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes | Cleptes,,
+B443:1:35,Cleptes asianus-group,,Cleptes,,,,group,,B443:1,accepted,,,B443:1:31,"Cleptes Latreille, 1802",,,,,,Cleptinae,Cleptes,Cleptes,Cleptinae | Cleptes | Cleptes,,
+B443:1:36,"Lustriana Kurian, 1955","Kurian, 1955",,,,,genus,,B443:1,accepted,,,B443:1:1,Cleptinae,,,,,,Cleptinae,Lustriana,,Cleptinae,,
+B443:1:37,"Cleptidae Mocsáry, 1904","Mocsáry, 1904",,,,,genus,,B443:1,accepted,,,B443:1:1,Cleptinae,,,,,,Cleptinae,Cleptidae,,Cleptinae,,

@@ -1,22 +1,22 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B365:4:13,Astenus,,,,,,subgenus,,B365:4,accepted,,,B365:4:1,Astenus,,,,,,,Astenus,Astenus,Astenus,62DZG,
-B365:4:2,Sunius,,,,,,genus,,B365:4,synonym,B365:4:1,Astenus,,,,,,,,,Sunius,,,7QDC,10967695
-B365:4:3,Astenognathus,,,,,,subgenus,,B365:4,accepted,,,B365:4:1,Astenus,,,,,,,Astenus,Astenognathus,Astenus,,
-B365:4:4,Astenus procerus,,Astenus,,procerus,,species,,B365:4,accepted,,,B365:4:3,Astenognathus,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,HP2H,5746494
-B365:4:5,Paederus procerus,,Paederus,,procerus,,species,,B365:4,synonym,B365:4:4,Astenus procerus,,,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,4BXSM,5746497
-B365:4:6,Paederus filiformis,,Paederus,,filiformis,,species,,B365:4,synonym,B365:4:4,Astenus procerus,,,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,4BXGS,5746357
-B365:4:7,Astenus pulchellus,,Astenus,,pulchellus,,species,,B365:4,accepted,,,B365:4:3,Astenognathus,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,HP2L,5746445
-B365:4:8,Sunius pulchellus,,Sunius,,pulchellus,,species,,B365:4,synonym,B365:4:7,Astenus pulchellus,,,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,53GRX,11076196
-B365:4:9,Astenus bimaculatus,,Astenus,,bimaculatus,,species,,B365:4,accepted,,,B365:4:3,Astenognathus,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,HNYF,5746486
-B365:4:10,Sunius bimaculatus,,Sunius,,bimaculatus,,species,,B365:4,synonym,B365:4:9,Astenus bimaculatus,,,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,53GK4,9162514
-B365:4:11,Astenus melanurus,,Astenus,,melanurus,,species,,B365:4,accepted,,,B365:4:3,Astenognathus,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,HNXW,5746442
-B365:4:12,Astenus nohelt,,Astenus,,nohelt,,species,,B365:4,accepted,,,B365:4:3,Astenognathus,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,HNX8,5746457
-B365:4:13,Astenus,,,,,,subgenus,,B365:4,accepted,,,B365:4:1,Astenus,,,,,,,Astenus,Astenus,Astenus,62DZG,
-B365:4:14,Astenus rutilipennis,,Astenus,,rutilipennis,,species,,B365:4,accepted,,,B365:4:13,Astenus,,,,,,,Astenus,Astenus,Astenus | Astenus,HP2R,7595825
-B365:4:15,Astenus immaculatus,,Astenus,,immaculatus,,species,,B365:4,accepted,,,B365:4:13,Astenus,,,,,,,Astenus,Astenus,Astenus | Astenus,HNZB,5746428
-B365:4:16,Astenus longelytratus,,Astenus,,longelytratus,,species,,B365:4,accepted,,,B365:4:13,Astenus,,,,,,,Astenus,Astenus,Astenus | Astenus,5W6KY,5746433
-B365:4:18,Astenus angustatus,,Astenus,,angustatus,,species,,B365:4,accepted,,,B365:4:13,Astenus,,,,,,,Astenus,Astenus,Astenus | Astenus,,8299708
-B365:4:18,Astenus angustatus,,Astenus,,angustatus,,species,,B365:4,accepted,,,B365:4:13,Astenus,,,,,,,Astenus,Astenus,Astenus | Astenus,,8299708
-B365:4:19,Staphylinus angustatus,,Staphylinus,,angustatus,,species,,B365:4,synonym,B365:4:18,Astenus angustatus,,,,,,,,,Astenus,Astenus,Astenus | Astenus,4ZJQZ,11093672
-B365:4:20,Staphylinus gracilis,,Staphylinus,,gracilis,,species,,B365:4,synonym,B365:4:18,Astenus angustatus,,,,,,,,,Astenus,Astenus,Astenus | Astenus,4ZK2J,4439331
-B365:4:21,Sunius neglectus,,Sunius,,neglectus,,species,,B365:4,synonym,B365:4:18,Astenus angustatus,,,,,,,,,Astenus,Astenus,Astenus | Astenus,53GQN,7716632
+B365:4:1,"Astenus Dejean, 1883","Dejean, 1883",,,,,genus,,B365:4,accepted,,,,,,,,,,,Astenus,,,62DZG,5431102
+B365:4:2,"Sunius Erichson, 1839","Erichson, 1839",,,,,genus,,B365:4,synonym,B365:4:1,"Astenus Dejean, 1883",,,,,,,,,Sunius,,,7QDC,7854925
+B365:4:3,"Astenognathus Reitter, 1909","Reitter, 1909",,,,,subgenus,,B365:4,accepted,,,B365:4:1,"Astenus Dejean, 1883",,,,,,,Astenus,Astenognathus,Astenus,,
+B365:4:4,"Astenus procerus (Gravenhorst, 1806)","(Gravenhorst, 1806)",Astenus,,procerus,,species,,B365:4,accepted,,,B365:4:3,"Astenognathus Reitter, 1909",,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,HP2H,5746494
+B365:4:5,"Paederus procerus Gravenhorst, 1806","Gravenhorst, 1806",Paederus,,procerus,,species,,B365:4,synonym,B365:4:4,"Astenus procerus (Gravenhorst, 1806)",,,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,4BXSM,5746497
+B365:4:6,"Paederus filiformis Latreille, 1806","Latreille, 1806",Paederus,,filiformis,,species,,B365:4,synonym,B365:4:4,"Astenus procerus (Gravenhorst, 1806)",,,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,4BXGS,8356710
+B365:4:7,"Astenus pulchellus (Heer, 1839)","(Heer, 1839)",Astenus,,pulchellus,,species,,B365:4,accepted,,,B365:4:3,"Astenognathus Reitter, 1909",,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,HP2L,5746445
+B365:4:8,"Sunius pulchellus Heer, 1839","Heer, 1839",Sunius,,pulchellus,,species,,B365:4,synonym,B365:4:7,"Astenus pulchellus (Heer, 1839)",,,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,53GRX,11076196
+B365:4:9,"Astenus bimaculatus (Erichson, 1839)","(Erichson, 1839)",Astenus,,bimaculatus,,species,,B365:4,accepted,,,B365:4:3,"Astenognathus Reitter, 1909",,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,HNYF,5746486
+B365:4:10,"Sunius bimaculatus Erichson, 1839","Erichson, 1839",Sunius,,bimaculatus,,species,,B365:4,synonym,B365:4:9,"Astenus bimaculatus (Erichson, 1839)",,,,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,53GK4,9162514
+B365:4:11,"Astenus melanurus Küster, 1853","Küster, 1853",Astenus,,melanurus,,species,,B365:4,accepted,,,B365:4:3,"Astenognathus Reitter, 1909",,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,HNXW,5746442
+B365:4:12,"Astenus nohelt Coiffait, 1968","Coiffait, 1968",Astenus,,nohelt,,species,,B365:4,accepted,,,B365:4:3,"Astenognathus Reitter, 1909",,,,,,,Astenus,Astenognathus,Astenus | Astenognathus,HNX8,5746457
+B365:4:13,Astenus s.,s.,,,,,subgenus,str.,B365:4,accepted,,,B365:4:1,"Astenus Dejean, 1883",,,,,,,Astenus,Astenus,Astenus,62DZG,
+B365:4:14,"Astenus rutilipennis Reitter, 1909","Reitter, 1909",Astenus,,rutilipennis,,species,,B365:4,accepted,,,B365:4:13,Astenus s.,,,,,,,Astenus,Astenus,Astenus | Astenus,HP2R,5746424
+B365:4:15,"Astenus immaculatus Stephens, 1883","Stephens, 1883",Astenus,,immaculatus,,species,,B365:4,accepted,,,B365:4:13,Astenus s.,,,,,,,Astenus,Astenus,Astenus | Astenus,HNZB,5746428
+B365:4:16,"Astenus longelytratus Palm, 1936","Palm, 1936",Astenus,,longelytratus,,species,,B365:4,accepted,,,B365:4:13,Astenus s.,,,,,,,Astenus,Astenus,Astenus | Astenus,5W6KY,5746433
+B365:4:17,"Astenus angustatus Palm, 1936","Palm, 1936",Astenus,,angustatus,,species,,B365:4,synonym,B365:4:16,"Astenus longelytratus Palm, 1936",,,,,,,,,Astenus,Astenus,Astenus | Astenus,,8299708
+B365:4:18,"Astenus angustatus (Paykull, 1789)","(Paykull, 1789)",Astenus,,angustatus,,species,,B365:4,accepted,,,B365:4:13,Astenus s.,,,,,,,Astenus,Astenus,Astenus | Astenus,,8299708
+B365:4:19,"Staphylinus angustatus Paykull, 1789","Paykull, 1789",Staphylinus,,angustatus,,species,,B365:4,synonym,B365:4:18,"Astenus angustatus (Paykull, 1789)",,,,,,,,,Astenus,Astenus,Astenus | Astenus,4ZJQZ,7454278
+B365:4:20,"Staphylinus gracilis Paykull, 1789","Paykull, 1789",Staphylinus,,gracilis,,species,,B365:4,synonym,B365:4:18,"Astenus angustatus (Paykull, 1789)",,,,,,,,,Astenus,Astenus,Astenus | Astenus,4ZK2J,4439331
+B365:4:21,"Sunius neglectus Maerkel, 1845","Maerkel, 1845",Sunius,,neglectus,,species,,B365:4,synonym,B365:4:18,"Astenus angustatus (Paykull, 1789)",,,,,,,,,Astenus,Astenus,Astenus | Astenus,53GQN,7716632

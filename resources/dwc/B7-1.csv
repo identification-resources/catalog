@@ -1,30 +1,30 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B7:1:1,Clogmia albipunctatus,,Clogmia,,albipunctatus,,species,,B7:1,accepted,,,,,,,,,,,,,,8BJCZ,1640760
-B7:1:2,Clogmia tristis,,Clogmia,,tristis,,species,,B7:1,accepted,,,,,,,,,,,,,,,1640740
-B7:1:3,Psychoda sigma,,Psychoda,,sigma,,species,,B7:1,accepted,,,,,,,,,,,,,,4PMRB,1640028
-B7:1:4,Psychoda surcoufi,,Psychoda,,surcoufi,,species,,B7:1,synonym,B7:1:3,Psychoda sigma,,,,,,,,,,,,4PMS5,1639822
-B7:1:5,Psychoda erminea,,Psychoda,,erminea,,species,,B7:1,accepted,,,,,,,,,,,,,,4PMJL,1640065
-B7:1:6,Psychoda alternata,,Psychoda,,alternata,,species,,B7:1,accepted,,,,,,,,,,,,,,4PMFQ,1639760
-B7:1:7,Tinearia alternata,,Tinearia,,alternata,,species,,B7:1,synonym,B7:1:6,Psychoda alternata,,,,,,,,,,,,,5767673
-B7:1:8,Psychoda lativentris,,Psychoda,,lativentris,,species,,B7:1,accepted,,,,,,,,,,,,,,892WM,1641673
-B7:1:9,Tinearia lativentris,,Tinearia,,lativentris,,species,,B7:1,synonym,B7:1:8,Psychoda lativentris,,,,,,,,,,,,,5767672
-B7:1:10,Philosepedon humeralis,,Philosepedon,,humeralis,,species,,B7:1,accepted,,,,,,,,,,,,,,4GD39,1641515
-B7:1:11,Philosepedon perdecorum,,Philosepedon,,perdecorum,,species,,B7:1,accepted,,,,,,,,,,,,,,,8597569
-B7:1:12,Trichopsychoda hirtella,,Trichopsychoda,,hirtella,,species,,B7:1,accepted,,,,,,,,,,,,,,58HVY,1642394
-B7:1:13,Trichomyia urbica,,Trichomyia,,urbica,,species,,B7:1,accepted,,,,,,,,,,,,,,58FSL,1642445
-B7:1:14,Clogmia rothschildi,,Clogmia,,rothschildi,,species,,B7:1,accepted,,,,,,,,,,,,,,,1640775
-B7:1:15,Panimerus albomaculata,,Panimerus,,albomaculata,,species,,B7:1,accepted,,,,,,,,,,,,,,4CFP5,5089258
-B7:1:16,Pericoma trifasciata,,Pericoma,,trifasciata,,species,,B7:1,accepted,,,,,,,,,,,,,,8D8RM,1641958
-B7:1:17,Tonnoiriella pulchra,,Tonnoiriella,,pulchra,,species,,B7:1,accepted,,,,,,,,,,,,,,7CHTS,4522026
-B7:1:18,Clytocerus splendidus,,Clytocerus,,splendidus,,species,,B7:1,accepted,,,,,,,,,,,,,,8H3YH,5981132
-B7:1:19,Clytocerus ocellaris,,Clytocerus,,ocellaris,,species,,B7:1,accepted,,,,,,,,,,,,,,8BJFJ,1639682
-B7:1:20,Clytocerus dalii,,Clytocerus,,dalii,,species,,B7:1,accepted,,,,,,,,,,,,,,8BJFD,1639679
-B7:1:21,Clytocerus longicorniculatus,,Clytocerus,,longicorniculatus,,species,,B7:1,accepted,,,,,,,,,,,,,,5ZFHC,1639681
-B7:1:22,Clytocerus rivosus,,Clytocerus,,rivosus,,species,,B7:1,accepted,,,,,,,,,,,,,,8BJFK,1639672
-B7:1:23,Paramormia ustulata,,Paramormia,,ustulata,,species,,B7:1,accepted,,,,,,,,,,,,,,89N5K,5089273
-B7:1:24,Peripsychoda fusca,,Peripsychoda,,fusca,,species,,B7:1,accepted,,,,,,,,,,,,,,4F3SC,1642769
-B7:1:25,Peripsychoda auriculata,,Peripsychoda,,auriculata,,species,,B7:1,accepted,,,,,,,,,,,,,,4F3RX,1642750
-B7:1:26,Ulomyia fuliginosa,,Ulomyia,,fuliginosa,,species,,B7:1,accepted,,,,,,,,,,,,,,7DFJG,1641633
-B7:1:27,Pneumia canescens,,Pneumia,,canescens,,species,,B7:1,accepted,,,,,,,,,,,,,,8DFPS,6098412
-B7:1:28,Jungiella consors,,Jungiella,,consors,,species,,B7:1,accepted,,,,,,,,,,,,,,8CFPR,1642589
-B7:1:29,Jungiella soleata,,Jungiella,,soleata,,species,,B7:1,accepted,,,,,,,,,,,,,,8CFPL,1642624
+B7:1:1,Clogmia albipunctatus,,Clogmia,,albipunctatus,,species,,B7:1,accepted,,,,,,,,,,,Clogmia,,,8BJCZ,1640760
+B7:1:2,Clogmia tristis,,Clogmia,,tristis,,species,,B7:1,accepted,,,,,,,,,,,Clogmia,,,,1640740
+B7:1:3,Psychoda sigma,,Psychoda,,sigma,,species,,B7:1,accepted,,,,,,,,,,,Psychoda,,,4PMRB,1640028
+B7:1:4,Psychoda surcoufi,,Psychoda,,surcoufi,,species,,B7:1,synonym,B7:1:3,Psychoda sigma,,,,,,,,,Psychoda,,,4PMS5,1639822
+B7:1:5,Psychoda erminea,,Psychoda,,erminea,,species,,B7:1,accepted,,,,,,,,,,,Psychoda,,,4PMJL,1640065
+B7:1:6,Psychoda alternata,,Psychoda,,alternata,,species,,B7:1,accepted,,,,,,,,,,,Psychoda,,,4PMFQ,1639760
+B7:1:7,Tinearia alternata,,Tinearia,,alternata,,species,,B7:1,synonym,B7:1:6,Psychoda alternata,,,,,,,,,Psychoda,,,,5767673
+B7:1:8,Psychoda lativentris,,Psychoda,,lativentris,,species,,B7:1,accepted,,,,,,,,,,,Psychoda,,,892WM,1641673
+B7:1:9,Tinearia lativentris,,Tinearia,,lativentris,,species,,B7:1,synonym,B7:1:8,Psychoda lativentris,,,,,,,,,Psychoda,,,,5767672
+B7:1:10,Philosepedon humeralis,,Philosepedon,,humeralis,,species,,B7:1,accepted,,,,,,,,,,,Philosepedon,,,4GD39,1641515
+B7:1:11,Philosepedon perdecorum,,Philosepedon,,perdecorum,,species,,B7:1,accepted,,,,,,,,,,,Philosepedon,,,,8597569
+B7:1:12,Trichopsychoda hirtella,,Trichopsychoda,,hirtella,,species,,B7:1,accepted,,,,,,,,,,,Trichopsychoda,,,58HVY,1642394
+B7:1:13,Trichomyia urbica,,Trichomyia,,urbica,,species,,B7:1,accepted,,,,,,,,,,,Trichomyia,,,58FSL,1642445
+B7:1:14,Clogmia rothschildi,,Clogmia,,rothschildi,,species,,B7:1,accepted,,,,,,,,,,,Clogmia,,,,1640775
+B7:1:15,Panimerus albomaculata,,Panimerus,,albomaculata,,species,,B7:1,accepted,,,,,,,,,,,Panimerus,,,4CFP5,5089258
+B7:1:16,Pericoma trifasciata,,Pericoma,,trifasciata,,species,,B7:1,accepted,,,,,,,,,,,Pericoma,,,8D8RM,1641958
+B7:1:17,Tonnoiriella pulchra,,Tonnoiriella,,pulchra,,species,,B7:1,accepted,,,,,,,,,,,Tonnoiriella,,,7CHTS,4522026
+B7:1:18,Clytocerus splendidus,,Clytocerus,,splendidus,,species,,B7:1,accepted,,,,,,,,,,,Clytocerus,,,8H3YH,5981132
+B7:1:19,Clytocerus ocellaris,,Clytocerus,,ocellaris,,species,,B7:1,accepted,,,,,,,,,,,Clytocerus,,,8BJFJ,1639682
+B7:1:20,Clytocerus dalii,,Clytocerus,,dalii,,species,,B7:1,accepted,,,,,,,,,,,Clytocerus,,,8BJFD,1639679
+B7:1:21,Clytocerus longicorniculatus,,Clytocerus,,longicorniculatus,,species,,B7:1,accepted,,,,,,,,,,,Clytocerus,,,5ZFHC,1639681
+B7:1:22,Clytocerus rivosus,,Clytocerus,,rivosus,,species,,B7:1,accepted,,,,,,,,,,,Clytocerus,,,8BJFK,1639672
+B7:1:23,Paramormia ustulata,,Paramormia,,ustulata,,species,,B7:1,accepted,,,,,,,,,,,Paramormia,,,89N5K,5089273
+B7:1:24,Peripsychoda fusca,,Peripsychoda,,fusca,,species,,B7:1,accepted,,,,,,,,,,,Peripsychoda,,,4F3SC,1642769
+B7:1:25,Peripsychoda auriculata,,Peripsychoda,,auriculata,,species,,B7:1,accepted,,,,,,,,,,,Peripsychoda,,,4F3RX,1642750
+B7:1:26,Ulomyia fuliginosa,,Ulomyia,,fuliginosa,,species,,B7:1,accepted,,,,,,,,,,,Ulomyia,,,7DFJG,1641633
+B7:1:27,Pneumia canescens,,Pneumia,,canescens,,species,,B7:1,accepted,,,,,,,,,,,Pneumia,,,8DFPS,6098412
+B7:1:28,Jungiella consors,,Jungiella,,consors,,species,,B7:1,accepted,,,,,,,,,,,Jungiella,,,8CFPR,1642589
+B7:1:29,Jungiella soleata,,Jungiella,,soleata,,species,,B7:1,accepted,,,,,,,,,,,Jungiella,,,8CFPL,1642624

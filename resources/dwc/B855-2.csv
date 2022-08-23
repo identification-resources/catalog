@@ -1,14 +1,14 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B855:2:2,Lobrathium,,,,,,subgenus,,B855:2,accepted,,,B855:2:1,Lobrathium,,,,,,,Lobrathium,Lobrathium,Lobrathium,5G3N,
-B855:2:2,Lobrathium,,,,,,subgenus,,B855:2,accepted,,,B855:2:1,Lobrathium,,,,,,,Lobrathium,Lobrathium,Lobrathium,5G3N,
-B855:2:3,Lobrathium multipunctum,,Lobrathium,,multipunctum,,species,,B855:2,accepted,,,B855:2:2,Lobrathium,,,,,,,Lobrathium,Lobrathium,Lobrathium | Lobrathium,6QLM4,4438946
-B855:2:4,Lathrobium multipunctum,,Lathrobium,,multipunctum,,species,,B855:2,synonym,B855:2:3,Lobrathium multipunctum,,,,,,,,,Lobrathium,Lobrathium,Lobrathium | Lobrathium,3SK6X,4438952
-B855:2:5,Platydomene,,,,,,subgenus,,B855:2,accepted,,,B855:2:1,Lobrathium,,,,,,,Lobrathium,Platydomene,Lobrathium,6RT5,
-B855:2:6,Lobrathium angusticolle,,Lobrathium,,angusticolle,,species,,B855:2,accepted,,,B855:2:5,Platydomene,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,5G3N,4407237
-B855:2:7,Lathrobium angusticolle,,Lathrobium,,angusticolle,,species,,B855:2,synonym,B855:2:6,Lobrathium angusticolle,,,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,3SJQX,10475421
-B855:2:8,Lobrathium sodale,,Lobrathium,,sodale,,species,,B855:2,accepted,,,B855:2:5,Platydomene,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,5G3N,4407237
-B855:2:9,Lathrobium sodale,,Lathrobium,,sodale,,species,,B855:2,synonym,B855:2:8,Lobrathium sodale,,,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,3SKDF,10453303
-B855:2:10,Lobrathium bicolor,,Lobrathium,,bicolor,,species,,B855:2,accepted,,,B855:2:5,Platydomene,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,5G3N,4407237
-B855:2:11,Lathrobium bicolor,,Lathrobium,,bicolor,,species,,B855:2,synonym,B855:2:10,Lobrathium bicolor,,,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,3SJSJ,7607191
-B855:2:12,Lobrathium picipes,,Lobrathium,,picipes,,species,,B855:2,accepted,,,B855:2:5,Platydomene,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,5G3N,4407237
-B855:2:13,Lathrobium picipes,,Lathrobium,,picipes,,species,,B855:2,synonym,B855:2:12,Lobrathium picipes,,,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,6P2MC,4439167
+B855:2:1,"Lobrathium Mulsant & Rey, 1878","Mulsant & Rey, 1878",,,,,genus,,B855:2,accepted,,,,,,,,,,,Lobrathium,,,5G3N,4407237
+B855:2:2,Lobrathium s.,s.,,,,,subgenus,str.,B855:2,accepted,,,B855:2:1,"Lobrathium Mulsant & Rey, 1878",,,,,,,Lobrathium,Lobrathium,Lobrathium,5G3N,
+B855:2:3,"Lobrathium multipunctum (Gravenhorst, 1802)","(Gravenhorst, 1802)",Lobrathium,,multipunctum,,species,,B855:2,accepted,,,B855:2:2,Lobrathium s.,,,,,,,Lobrathium,Lobrathium,Lobrathium | Lobrathium,6QLM4,4438946
+B855:2:4,"Lathrobium multipunctum Gravenhorst, 1802","Gravenhorst, 1802",Lathrobium,,multipunctum,,species,,B855:2,synonym,B855:2:3,"Lobrathium multipunctum (Gravenhorst, 1802)",,,,,,,,,Lobrathium,Lobrathium,Lobrathium | Lobrathium,3SK6X,4438952
+B855:2:5,"Platydomene Gangblauer, 1895","Gangblauer, 1895",,,,,subgenus,,B855:2,accepted,,,B855:2:1,"Lobrathium Mulsant & Rey, 1878",,,,,,,Lobrathium,Platydomene,Lobrathium,6RT5,
+B855:2:6,"Lobrathium angusticolle (Lacordaire, 1835)","(Lacordaire, 1835)",Lobrathium,,angusticolle,,species,,B855:2,accepted,,,B855:2:5,"Platydomene Gangblauer, 1895",,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,5G3N,4407237
+B855:2:7,"Lathrobium angusticolle Lacordaire in Boisduval & Lacordaire, 1835","Lacordaire in Boisduval & Lacordaire, 1835",Lathrobium,,angusticolle,,species,,B855:2,synonym,B855:2:6,"Lobrathium angusticolle (Lacordaire, 1835)",,,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,3SJQX,10475421
+B855:2:8,"Lobrathium sodale (Kraatz, 1857)","(Kraatz, 1857)",Lobrathium,,sodale,,species,,B855:2,accepted,,,B855:2:5,"Platydomene Gangblauer, 1895",,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,5G3N,4407237
+B855:2:9,"Lathrobium sodale Kraatz, 1857","Kraatz, 1857",Lathrobium,,sodale,,species,,B855:2,synonym,B855:2:8,"Lobrathium sodale (Kraatz, 1857)",,,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,3SKDF,10453303
+B855:2:10,"Lobrathium bicolor (Erichson, 1840)","(Erichson, 1840)",Lobrathium,,bicolor,,species,,B855:2,accepted,,,B855:2:5,"Platydomene Gangblauer, 1895",,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,5G3N,4407237
+B855:2:11,"Lathrobium bicolor Erichson, 1840","Erichson, 1840",Lathrobium,,bicolor,,species,,B855:2,synonym,B855:2:10,"Lobrathium bicolor (Erichson, 1840)",,,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,3SJSJ,10663367
+B855:2:12,"Lobrathium picipes (Erichson, 1840)","(Erichson, 1840)",Lobrathium,,picipes,,species,,B855:2,accepted,,,B855:2:5,"Platydomene Gangblauer, 1895",,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,5G3N,4407237
+B855:2:13,"Lathrobium picipes Erichson, 1840","Erichson, 1840",Lathrobium,,picipes,,species,,B855:2,synonym,B855:2:12,"Lobrathium picipes (Erichson, 1840)",,,,,,,,,Lobrathium,Platydomene,Lobrathium | Platydomene,6P2MC,4439167

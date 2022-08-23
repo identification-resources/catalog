@@ -1,343 +1,343 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B237:1:1,Syrphidae,,,,,,family,,B237:1,accepted,,,,,,,,,Syrphidae,,,,,GVS,6920
 B237:1:2,Microdontinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Microdontinae,,,Syrphidae,87CJY,
-B237:1:3,Microdon,,,,,,genus,,B237:1,accepted,,,B237:1:2,Microdontinae,,,,,Syrphidae,Microdontinae,Microdon,,Syrphidae | Microdontinae,87HGZ,1542207
-B237:1:4,Microdon mutabilis,,Microdon,,mutabilis,,species,,B237:1,accepted,,,B237:1:3,Microdon,,,,,Syrphidae,Microdontinae,Microdon,,Syrphidae | Microdontinae | Microdon,8CV5B,1542226
-B237:1:5,Microdon devius,,Microdon,,devius,,species,,B237:1,accepted,,,B237:1:3,Microdon,,,,,Syrphidae,Microdontinae,Microdon,,Syrphidae | Microdontinae | Microdon,8CV4C,1542409
-B237:1:6,Microdon eggeri,,Microdon,,eggeri,,species,,B237:1,accepted,,,B237:1:3,Microdon,,,,,Syrphidae,Microdontinae,Microdon,,Syrphidae | Microdontinae | Microdon,8CV4F,5072027
+B237:1:3,Microdon Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:2,Microdontinae,,,,,Syrphidae,Microdontinae,Microdon,,Syrphidae | Microdontinae,87HGZ,1542207
+B237:1:4,Microdon mutabilis Linnaeus,Linnaeus,Microdon,,mutabilis,,species,,B237:1,accepted,,,B237:1:3,Microdon Meigen,,,,,Syrphidae,Microdontinae,Microdon,,Syrphidae | Microdontinae | Microdon,8CV59,11291023
+B237:1:5,Microdon devius Linnaeus,Linnaeus,Microdon,,devius,,species,,B237:1,accepted,,,B237:1:3,Microdon Meigen,,,,,Syrphidae,Microdontinae,Microdon,,Syrphidae | Microdontinae | Microdon,8CV4C,1542409
+B237:1:6,Microdon eggeri Mik,Mik,Microdon,,eggeri,,species,,B237:1,accepted,,,B237:1:3,Microdon Meigen,,,,,Syrphidae,Microdontinae,Microdon,,Syrphidae | Microdontinae | Microdon,8CV4F,5072027
 B237:1:7,Eumerinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Eumerinae,,,Syrphidae,,
-B237:1:8,Eumerus,,,,,,genus,,B237:1,accepted,,,B237:1:7,Eumerinae,,,,,Syrphidae,Eumerinae,Eumerus,,Syrphidae | Eumerinae,4FYK,3261029
-B237:1:9,Paragopsis,,,,,,genus,,B237:1,synonym,B237:1:8,Eumerus,,,,,,,Syrphidae,Eumerinae,Paragopsis,,Syrphidae | Eumerinae,,1536043
-B237:1:10,Eumerus sabulonum,,Eumerus,,sabulonum,,species,,B237:1,accepted,,,B237:1:8,Eumerus,,,,,Syrphidae,Eumerinae,Eumerus,,Syrphidae | Eumerinae | Eumerus,6H8QX,1534643
-B237:1:11,Eumerus strigatus,,Eumerus,,strigatus,,species,,B237:1,accepted,,,B237:1:8,Eumerus,,,,,Syrphidae,Eumerinae,Eumerus,,Syrphidae | Eumerinae | Eumerus,6GX2R,1534515
-B237:1:12,Eumerus tuberculatus,,Eumerus,,tuberculatus,,species,,B237:1,accepted,,,B237:1:8,Eumerus,,,,,Syrphidae,Eumerinae,Eumerus,,Syrphidae | Eumerinae | Eumerus,6H8SK,5070681
-B237:1:13,Eumerus ornatus,,Eumerus,,ornatus,,species,,B237:1,accepted,,,B237:1:8,Eumerus,,,,,Syrphidae,Eumerinae,Eumerus,,Syrphidae | Eumerinae | Eumerus,3CDZ5,1534751
+B237:1:8,Eumerus Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:7,Eumerinae,,,,,Syrphidae,Eumerinae,Eumerus,,Syrphidae | Eumerinae,4FYK,1534472
+B237:1:9,Paragopsis Matsumura,Matsumura,,,,,genus,,B237:1,synonym,B237:1:8,Eumerus Meigen,,,,,,,Syrphidae,Eumerinae,Paragopsis,,Syrphidae | Eumerinae,,1536043
+B237:1:10,Eumerus sabulonum Fallén,Fallén,Eumerus,,sabulonum,,species,,B237:1,accepted,,,B237:1:8,Eumerus Meigen,,,,,Syrphidae,Eumerinae,Eumerus,,Syrphidae | Eumerinae | Eumerus,6H8QX,1534643
+B237:1:11,Eumerus strigatus Fallén,Fallén,Eumerus,,strigatus,,species,,B237:1,accepted,,,B237:1:8,Eumerus Meigen,,,,,Syrphidae,Eumerinae,Eumerus,,Syrphidae | Eumerinae | Eumerus,6GX2R,1534515
+B237:1:12,Eumerus tuberculatus Rondani,Rondani,Eumerus,,tuberculatus,,species,,B237:1,accepted,,,B237:1:8,Eumerus Meigen,,,,,Syrphidae,Eumerinae,Eumerus,,Syrphidae | Eumerinae | Eumerus,6H8SK,5070681
+B237:1:13,Eumerus ornatus Meigen,Meigen,Eumerus,,ornatus,,species,,B237:1,accepted,,,B237:1:8,Eumerus Meigen,,,,,Syrphidae,Eumerinae,Eumerus,,Syrphidae | Eumerinae | Eumerus,3CDZ5,1534751
 B237:1:14,Syrphinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Syrphinae,,,Syrphidae,8NL3K,
-B237:1:15,Paragus,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Paragus,,Syrphidae | Syrphinae,63JTG,1535699
-B237:1:16,Paragus tibialis,,Paragus,,tibialis,,species,,B237:1,accepted,,,B237:1:15,Paragus,,,,,Syrphidae,Syrphinae,Paragus,,Syrphidae | Syrphinae | Paragus,8D6LY,1535751
-B237:1:17,Paragus bicolor,,Paragus,,bicolor,,species,,B237:1,accepted,,,B237:1:15,Paragus,,,,,Syrphidae,Syrphinae,Paragus,,Syrphidae | Syrphinae | Paragus,8D6MK,1535710
-B237:1:18,Baccha,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Baccha,,Syrphidae | Syrphinae,372P,1536538
-B237:1:19,Baccha elongata,,Baccha,,elongata,,species,,B237:1,accepted,,,B237:1:18,Baccha,,,,,Syrphidae,Syrphinae,Baccha,,Syrphidae | Syrphinae | Baccha,K6V8,1536559
-B237:1:20,Baccha obscuripennis,,Baccha,,obscuripennis,,species,,B237:1,accepted,,,B237:1:18,Baccha,,,,,Syrphidae,Syrphinae,Baccha,,Syrphidae | Syrphinae | Baccha,87WTF,1536556
-B237:1:21,Pyrophaena,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Pyrophaena,,Syrphidae | Syrphinae,89T5W,1544498
-B237:1:208,Cheilosia,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae,3MHY,1539835
-B237:1:23,Pyrophaena granditarsa,,Pyrophaena,,granditarsa,,species,,B237:1,accepted,,,B237:1:21,Pyrophaena,,,,,Syrphidae,Syrphinae,Pyrophaena,,Syrphidae | Syrphinae | Pyrophaena,,5886305
-B237:1:24,Pyrophaena rosarum,,Pyrophaena,,rosarum,,species,,B237:1,accepted,,,B237:1:21,Pyrophaena,,,,,Syrphidae,Syrphinae,Pyrophaena,,Syrphidae | Syrphinae | Pyrophaena,,4294542
-B237:1:25,Platychirus,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae,,1537668
-B237:1:26,Platychirus melanopsis,,Platychirus,,melanopsis,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDX8,1543175
-B237:1:27,Platychirus discimanus,,Platychirus,,discimanus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDZZ,1543135
-B237:1:28,Platychirus manicatus,,Platychirus,,manicatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDX6,1543197
-B237:1:29,Platychirus tarsalis,,Platychirus,,tarsalis,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,,4516771
-B237:1:30,Platychirus peltatus,,Platychirus,,peltatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDXX,1543292
-B237:1:31,Platychirus timeo,,Platychirus,,timeo,,species,,B237:1,synonym,B237:1:30,Platychirus peltatus,,,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,,11278382
-B237:1:32,Platychirus scutatus,,Platychirus,,scutatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDYD,1543099
-B237:1:33,Platychirus albimanus,,Platychirus,,albimanus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDVG,4516769
-B237:1:34,Platychirus podagratus,,Platychirus,,podagratus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDY3,4516757
-B237:1:35,Platychirus immarginatus,,Platychirus,,immarginatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDWP,1543300
-B237:1:36,Platychirus scambus,,Platychirus,,scambus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDYC,1543125
-B237:1:37,Platychirus sticticus,,Platychirus,,sticticus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDYN,1543080
-B237:1:38,Platychirus fulviventris,,Platychirus,,fulviventris,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDWD,1543011
-B237:1:39,Platychirus perpallidus,,Platychirus,,perpallidus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,,4516762
-B237:1:40,Platychirus clypeatus,,Platychirus,,clypeatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDW2,1543183
-B237:1:41,Platychirus angustatus,,Platychirus,,angustatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDVJ,1543227
-B237:1:42,Xanthandrus,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Xanthandrus,,Syrphidae | Syrphinae,8MVS5,1538937
-B237:1:43,Xanthandrus comtus,,Xanthandrus,,comtus,,species,,B237:1,accepted,,,B237:1:42,Xanthandrus,,,,,Syrphidae,Syrphinae,Xanthandrus,,Syrphidae | Syrphinae | Xanthandrus,8FMX5,1538946
-B237:1:44,Melanostoma,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Melanostoma,,Syrphidae | Syrphinae,5NKF,1533169
-B237:1:45,Melanostoma ambiguum,,Melanostoma,,ambiguum,,species,,B237:1,accepted,,,B237:1:44,Melanostoma,,,,,Syrphidae,Syrphinae,Melanostoma,,Syrphidae | Syrphinae | Melanostoma,5NKF,1533169
-B237:1:46,Melanostoma scalare,,Melanostoma,,scalare,,species,,B237:1,accepted,,,B237:1:44,Melanostoma,,,,,Syrphidae,Syrphinae,Melanostoma,,Syrphidae | Syrphinae | Melanostoma,3ZBJB,5766556
-B237:1:47,Melanostoma mellinum,,Melanostoma,,mellinum,,species,,B237:1,accepted,,,B237:1:44,Melanostoma,,,,,Syrphidae,Syrphinae,Melanostoma,,Syrphidae | Syrphinae | Melanostoma,8P98V,5766554
-B237:1:48,Melanostoma mellinum var. dubium,,Melanostoma,,mellinum,dubium,variety,,B237:1,accepted,,,B237:1:47,Melanostoma mellinum,,,,,Syrphidae,Syrphinae,Melanostoma,,Syrphidae | Syrphinae | Melanostoma | Melanostoma mellinum,7396D,5766559
-B237:1:49,Sphaerophoria,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae,87KP6,1539106
-B237:1:50,Sphaerophoria loewii,,Sphaerophoria,,loewii,,species,,B237:1,accepted,,,B237:1:49,Sphaerophoria,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria,8F3RL,1539169
-B237:1:51,Sphaerophoria rueppellii,,Sphaerophoria,,rueppellii,,species,,B237:1,accepted,,,B237:1:49,Sphaerophoria,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria,4YRBV,1539204
-B237:1:52,Sphaerophoria rueppellii var. nitidicollis,,Sphaerophoria,,rueppellii,nitidicollis,variety,,B237:1,accepted,,,B237:1:51,Sphaerophoria rueppellii,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria rueppellii,8F3TY,1539205
-B237:1:53,Sphaerophoria scripta,,Sphaerophoria,,scripta,,species,,B237:1,accepted,,,B237:1:49,Sphaerophoria,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria,8F3SP,1539177
-B237:1:54,Sphaerophoria scripta var. dispar,,Sphaerophoria,,scripta,dispar,variety,,B237:1,accepted,,,B237:1:53,Sphaerophoria scripta,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria scripta,4YR9V,1539136
-B237:1:55,Sphaerophoria scripta var. strigata,,Sphaerophoria,,scripta,strigata,variety,,B237:1,accepted,,,B237:1:53,Sphaerophoria scripta,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria scripta,895WJ,1539182
-B237:1:56,Sphaerophoria menthastri,,Sphaerophoria,,menthastri,,species,,B237:1,accepted,,,B237:1:49,Sphaerophoria,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria,8F3SG,1539147
-B237:1:57,Sphaerophoria menthastri var. taeniata,,Sphaerophoria,,menthastri,taeniata,variety,,B237:1,accepted,,,B237:1:56,Sphaerophoria menthastri,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria menthastri,8F3SR,1539123
-B237:1:58,Sphaerophoria menthastri var. picta,,Sphaerophoria,,menthastri,picta,variety,,B237:1,accepted,,,B237:1:56,Sphaerophoria menthastri,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria menthastri,,6098355
-B237:1:59,Sphaerophoria menthastri var. dubia,,Sphaerophoria,,menthastri,dubia,variety,,B237:1,accepted,,,B237:1:56,Sphaerophoria menthastri,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria menthastri,,1539111
-B237:1:60,Doros,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Doros,,Syrphidae | Syrphinae,47VZ,1544508
-B237:1:61,Doros conopseus,,Doros,,conopseus,,species,,B237:1,accepted,,,B237:1:60,Doros,,,,,Syrphidae,Syrphinae,Doros,,Syrphidae | Syrphinae | Doros,,6098364
-B237:1:62,Xanthogramma,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Xanthogramma,,Syrphidae | Syrphinae,,1538494
-B237:1:63,Xanthogramma pedissequum,,Xanthogramma,,pedissequum,,species,,B237:1,accepted,,,B237:1:62,Xanthogramma,,,,,Syrphidae,Syrphinae,Xanthogramma,,Syrphidae | Syrphinae | Xanthogramma,,5071297
-B237:1:64,Xanthogramma ornatum,,Xanthogramma,,ornatum,,species,,B237:1,synonym,B237:1:63,Xanthogramma pedissequum,,,,,,,Syrphidae,Syrphinae,Xanthogramma,,Syrphidae | Syrphinae | Xanthogramma,,6098351
-B237:1:65,Xanthogramma citrofasciatum,,Xanthogramma,,citrofasciatum,,species,,B237:1,accepted,,,B237:1:62,Xanthogramma,,,,,Syrphidae,Syrphinae,Xanthogramma,,Syrphidae | Syrphinae | Xanthogramma,,5766549
-B237:1:66,Leucozona,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Leucozona,,Syrphidae | Syrphinae,5DZR,1536498
-B237:1:77,Syrphus,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae,87KW4,1444606
-B237:1:68,Leucozona lucorum,,Leucozona,,lucorum,,species,,B237:1,accepted,,,B237:1:66,Leucozona,,,,,Syrphidae,Syrphinae,Leucozona,,Syrphidae | Syrphinae | Leucozona,8CJSK,5071172
-B237:1:69,Scaeva,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Scaeva,,Syrphidae | Syrphinae,7CX9,1537685
-B237:1:70,Scaeva selenitica,,Scaeva,,selenitica,,species,,B237:1,accepted,,,B237:1:69,Scaeva,,,,,Syrphidae,Syrphinae,Scaeva,,Syrphidae | Syrphinae | Scaeva,6Y4HJ,1537717
-B237:1:71,Scaeva pyrastri,,Scaeva,,pyrastri,,species,,B237:1,accepted,,,B237:1:69,Scaeva,,,,,Syrphidae,Syrphinae,Scaeva,,Syrphidae | Syrphinae | Scaeva,894DF,1537719
-B237:1:72,Scaeva albomaculata,,Scaeva,,albomaculata,,species,,B237:1,accepted,,,B237:1:69,Scaeva,,,,,Syrphidae,Syrphinae,Scaeva,,Syrphidae | Syrphinae | Scaeva,6Y4DX,1537703
-B237:1:73,Didea,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Didea,,Syrphidae | Syrphinae,455H,1542022
-B237:1:74,Didea fasciata,,Didea,,fasciata,,species,,B237:1,accepted,,,B237:1:73,Didea,,,,,Syrphidae,Syrphinae,Didea,,Syrphidae | Syrphinae | Didea,35WJG,1542027
-B237:1:75,Didea alneti,,Didea,,alneti,,species,,B237:1,accepted,,,B237:1:73,Didea,,,,,Syrphidae,Syrphinae,Didea,,Syrphidae | Syrphinae | Didea,35WJC,1542030
-B237:1:76,Didea intermedia,,Didea,,intermedia,,species,,B237:1,accepted,,,B237:1:73,Didea,,,,,Syrphidae,Syrphinae,Didea,,Syrphidae | Syrphinae | Didea,35WJK,1542026
-B237:1:77,Syrphus,,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae,87KW4,1444606
-B237:1:78,Syrphus torvus,,Syrphus,,torvus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7SS,1537245
-B237:1:79,Syrphus ribesii,,Syrphus,,ribesii,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7SN,1537266
-B237:1:80,Syrphus vitripennis,,Syrphus,,vitripennis,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7ST,1537212
-B237:1:81,Syrphus albostriatus,,Syrphus,,albostriatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
-B237:1:82,Syrphus grossulariae,,Syrphus,,grossulariae,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897NH,1536091
-B237:1:83,Syrphus diaphanus,,Syrphus,,diaphanus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,543HK,11334578
-B237:1:84,Syrphus eligans,,Syrphus,,eligans,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11331134
-B237:1:85,Syrphus bifasciatus,,Syrphus,,bifasciatus,,species,,B237:1,synonym,B237:1:84,Syrphus eligans,,,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,8239568
-B237:1:86,Syrphus tricintus,,Syrphus,,tricintus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F8BX,1538803
-B237:1:87,Syrphus venustus,,Syrphus,,venustus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F8CL,1542101
-B237:1:88,Syrphus lunulatus,,Syrphus,,lunulatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,543MR,7198294
-B237:1:89,Syrphus mecogramma,,Syrphus,,mecogramma,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
-B237:1:90,Syrphus lapponicus,,Syrphus,,lapponicus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
-B237:1:91,Syrphus arcuatus,,Syrphus,,arcuatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11278463
-B237:1:92,Syrphus nitens,,Syrphus,,nitens,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
-B237:1:93,Syrphus corollae,,Syrphus,,corollae,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7XG,1540758
-B237:1:94,Syrphus consisto,,Syrphus,,consisto,,species,,B237:1,synonym,B237:1:93,Syrphus corollae,,,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
-B237:1:95,Syrphus latifasciatus,,Syrphus,,latifasciatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897NV,1540694
-B237:1:96,Syrphus latilunulatus,,Syrphus,,latilunulatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F849,1540771
-B237:1:97,Syrphus luniger,,Syrphus,,luniger,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897P3,1540876
-B237:1:98,Syrphus annulipes,,Syrphus,,annulipes,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7TS,1533230
-B237:1:99,Syrphus nitidicollis,,Syrphus,,nitidicollis,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897PG,1536134
-B237:1:100,Syrphus balteatus,,Syrphus,,balteatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,7922320
-B237:1:101,Syrphus auricollis,,Syrphus,,auricollis,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,4516807
-B237:1:102,Syrphus cinctellus,,Syrphus,,cinctellus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
-B237:1:103,Syrphus punctulatus,,Syrphus,,punctulatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F88G,1533042
-B237:1:104,Syrphus nigritarsis,,Syrphus,,nigritarsis,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
-B237:1:105,Syrphus annulatus,,Syrphus,,annulatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7TR,1544333
-B237:1:106,Syrphus malinellus,,Syrphus,,malinellus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F84Z,1533074
-B237:1:107,Syrphus vittiger,,Syrphus,,vittiger,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
-B237:1:108,Syrphus lineola,,Syrphus,,lineola,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,543MH,1535956
-B237:1:109,Syrphus cinctus,,Syrphus,,cinctus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11307255
-B237:1:110,Syrphus euchromus,,Syrphus,,euchromus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,4516849
-B237:1:111,Syrphus triangulifer,,Syrphus,,triangulifer,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11265350
-B237:1:112,Syrphus guttatus,,Syrphus,,guttatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11287038
-B237:1:113,Syrphus lasiophthalmus,,Syrphus,,lasiophthalmus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11271311
-B237:1:114,Syrphus barbifrons,,Syrphus,,barbifrons,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
-B237:1:115,Syrphus arcticus,,Syrphus,,arcticus,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11239104
-B237:1:116,Syrphus umbellatarum,,Syrphus,,umbellatarum,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897QQ,1536641
-B237:1:117,Syrphus ericarum,,Syrphus,,ericarum,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7YR,1536632
-B237:1:118,Syrphus labiatarum,,Syrphus,,labiatarum,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F845,1536608
-B237:1:119,Syrphus compositarum,,Syrphus,,compositarum,,species,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897MQ,1536645
-B237:1:120,Ischyrosyrphus,,,,,,subgenus,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,Ischyrosyrphus,Syrphidae | Syrphinae | Syrphus,87HSB,
-B237:1:121,Syrphus glaucius,,Syrphus,,glaucius,,species,,B237:1,accepted,,,B237:1:120,Ischyrosyrphus,,,,,Syrphidae,Syrphinae,Syrphus,Ischyrosyrphus,Syrphidae | Syrphinae | Syrphus | Ischyrosyrphus,,11323103
-B237:1:122,Syrphus laternarius,,Syrphus,,laternarius,,species,,B237:1,accepted,,,B237:1:120,Ischyrosyrphus,,,,,Syrphidae,Syrphinae,Syrphus,Ischyrosyrphus,Syrphidae | Syrphinae | Syrphus | Ischyrosyrphus,,11367836
-B237:1:123,Melangyna,,,,,,subgenus,,B237:1,accepted,,,B237:1:77,Syrphus,,,,,Syrphidae,Syrphinae,Syrphus,Melangyna,Syrphidae | Syrphinae | Syrphus,87H9K,
-B237:1:124,Syrphus quadrimaculatus,,Syrphus,,quadrimaculatus,,species,,B237:1,accepted,,,B237:1:123,Melangyna,,,,,Syrphidae,Syrphinae,Syrphus,Melangyna,Syrphidae | Syrphinae | Syrphus | Melangyna,897Q5,4294496
+B237:1:15,Paragus Latreille,Latreille,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Paragus,,Syrphidae | Syrphinae,63JTG,1535699
+B237:1:16,Paragus tibialis Fallén,Fallén,Paragus,,tibialis,,species,,B237:1,accepted,,,B237:1:15,Paragus Latreille,,,,,Syrphidae,Syrphinae,Paragus,,Syrphidae | Syrphinae | Paragus,8D6LY,1535751
+B237:1:17,Paragus bicolor Fabricius,Fabricius,Paragus,,bicolor,,species,,B237:1,accepted,,,B237:1:15,Paragus Latreille,,,,,Syrphidae,Syrphinae,Paragus,,Syrphidae | Syrphinae | Paragus,8D6MK,1535710
+B237:1:18,Baccha Fabricius,Fabricius,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Baccha,,Syrphidae | Syrphinae,372P,1536538
+B237:1:19,Baccha elongata Fabricius,Fabricius,Baccha,,elongata,,species,,B237:1,accepted,,,B237:1:18,Baccha Fabricius,,,,,Syrphidae,Syrphinae,Baccha,,Syrphidae | Syrphinae | Baccha,K6V8,1536559
+B237:1:20,Baccha obscuripennis Meigen,Meigen,Baccha,,obscuripennis,,species,,B237:1,accepted,,,B237:1:18,Baccha Fabricius,,,,,Syrphidae,Syrphinae,Baccha,,Syrphidae | Syrphinae | Baccha,87WTF,1536556
+B237:1:21,Pyrophaena Schiner,Schiner,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Pyrophaena,,Syrphidae | Syrphinae,89T5W,1544498
+B237:1:22,Cheilosia Panzer,Panzer,,,,,genus,,B237:1,synonym,B237:1:21,Pyrophaena Schiner,,,,,,,Syrphidae,Syrphinae,Cheilosia,,Syrphidae | Syrphinae,3MHY,7354253
+B237:1:23,Pyrophaena granditarsa Forster,Forster,Pyrophaena,,granditarsa,,species,,B237:1,accepted,,,B237:1:21,Pyrophaena Schiner,,,,,Syrphidae,Syrphinae,Pyrophaena,,Syrphidae | Syrphinae | Pyrophaena,,5886305
+B237:1:24,Pyrophaena rosarum Fabricius,Fabricius,Pyrophaena,,rosarum,,species,,B237:1,accepted,,,B237:1:21,Pyrophaena Schiner,,,,,Syrphidae,Syrphinae,Pyrophaena,,Syrphidae | Syrphinae | Pyrophaena,,4294542
+B237:1:25,Platychirus St.,St.,,,,,genus,Fargeau and Serville,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae,,1537668
+B237:1:26,Platychirus melanopsis Loew,Loew,Platychirus,,melanopsis,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDX8,1543175
+B237:1:27,Platychirus discimanus Loew,Loew,Platychirus,,discimanus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDZZ,1543135
+B237:1:28,Platychirus manicatus Meigen,Meigen,Platychirus,,manicatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDX6,1543197
+B237:1:29,Platychirus tarsalis Schummel,Schummel,Platychirus,,tarsalis,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,,4516771
+B237:1:30,Platychirus peltatus Meigen,Meigen,Platychirus,,peltatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDXX,1543292
+B237:1:31,Platychirus timeo Harris,Harris,Platychirus,,timeo,,species,,B237:1,synonym,B237:1:30,Platychirus peltatus Meigen,,,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,,11278382
+B237:1:32,Platychirus scutatus Meigen,Meigen,Platychirus,,scutatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDYD,1543099
+B237:1:33,Platychirus albimanus Fabricius,Fabricius,Platychirus,,albimanus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDVG,4516769
+B237:1:34,Platychirus podagratus Zetterstedt,Zetterstedt,Platychirus,,podagratus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDY3,4516757
+B237:1:35,Platychirus immarginatus Zetterstedt,Zetterstedt,Platychirus,,immarginatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDWP,1543300
+B237:1:36,Platychirus scambus Staeger,Staeger,Platychirus,,scambus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDYC,1543125
+B237:1:37,Platychirus sticticus Meigen,Meigen,Platychirus,,sticticus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDYN,1543080
+B237:1:38,Platychirus fulviventris Macquart,Macquart,Platychirus,,fulviventris,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDWD,1543011
+B237:1:39,Platychirus perpallidus Verrall,Verrall,Platychirus,,perpallidus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,,4516762
+B237:1:40,Platychirus clypeatus Meigen,Meigen,Platychirus,,clypeatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDW2,1543183
+B237:1:41,Platychirus angustatus Zetterstedt,Zetterstedt,Platychirus,,angustatus,,species,,B237:1,accepted,,,B237:1:25,Platychirus St.,,,,,Syrphidae,Syrphinae,Platychirus,,Syrphidae | Syrphinae | Platychirus,8DDVJ,1543227
+B237:1:42,Xanthandrus Verrall,Verrall,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Xanthandrus,,Syrphidae | Syrphinae,8MVS5,1538937
+B237:1:43,Xanthandrus comtus Harris,Harris,Xanthandrus,,comtus,,species,,B237:1,accepted,,,B237:1:42,Xanthandrus Verrall,,,,,Syrphidae,Syrphinae,Xanthandrus,,Syrphidae | Syrphinae | Xanthandrus,8FMX5,1538946
+B237:1:44,Melanostoma Schiner,Schiner,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Melanostoma,,Syrphidae | Syrphinae,5NKF,1533169
+B237:1:45,Melanostoma ambiguum Fallén,Fallén,Melanostoma,,ambiguum,,species,,B237:1,accepted,,,B237:1:44,Melanostoma Schiner,,,,,Syrphidae,Syrphinae,Melanostoma,,Syrphidae | Syrphinae | Melanostoma,5NKF,1533169
+B237:1:46,Melanostoma scalare Fabricius,Fabricius,Melanostoma,,scalare,,species,,B237:1,accepted,,,B237:1:44,Melanostoma Schiner,,,,,Syrphidae,Syrphinae,Melanostoma,,Syrphidae | Syrphinae | Melanostoma,3ZBJB,5766556
+B237:1:47,Melanostoma mellinum Linnaeus,Linnaeus,Melanostoma,,mellinum,,species,,B237:1,accepted,,,B237:1:44,Melanostoma Schiner,,,,,Syrphidae,Syrphinae,Melanostoma,,Syrphidae | Syrphinae | Melanostoma,8P98V,5766554
+B237:1:48,Melanostoma mellinum var. dubium Verrall,Verrall,Melanostoma,,mellinum,dubium,variety,nec Zetterstedt,B237:1,accepted,,,B237:1:47,Melanostoma mellinum Linnaeus,,,,,Syrphidae,Syrphinae,Melanostoma,,Syrphidae | Syrphinae | Melanostoma | Melanostoma mellinum,7396D,11304710
+B237:1:49,Sphaerophoria St.,St.,,,,,genus,Fargeau and Serville,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae,87KP6,1539106
+B237:1:50,Sphaerophoria loewii Zetterstedt,Zetterstedt,Sphaerophoria,,loewii,,species,,B237:1,accepted,,,B237:1:49,Sphaerophoria St.,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria,8F3RL,1539169
+B237:1:51,Sphaerophoria rueppellii Wiedemann,Wiedemann,Sphaerophoria,,rueppellii,,species,,B237:1,accepted,,,B237:1:49,Sphaerophoria St.,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria,4YRBV,1539204
+B237:1:52,Sphaerophoria rueppellii var. nitidicollis Zetterstedt,Zetterstedt,Sphaerophoria,,rueppellii,nitidicollis,variety,,B237:1,accepted,,,B237:1:51,Sphaerophoria rueppellii Wiedemann,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria rueppellii,8F3TY,1539205
+B237:1:53,Sphaerophoria scripta Linnaeus,Linnaeus,Sphaerophoria,,scripta,,species,,B237:1,accepted,,,B237:1:49,Sphaerophoria St.,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria,8F3SP,1539177
+B237:1:54,Sphaerophoria scripta var. dispar Loew,Loew,Sphaerophoria,,scripta,dispar,variety,,B237:1,accepted,,,B237:1:53,Sphaerophoria scripta Linnaeus,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria scripta,4YR9V,1539136
+B237:1:55,Sphaerophoria scripta var. strigata Staeger,Staeger,Sphaerophoria,,scripta,strigata,variety,,B237:1,accepted,,,B237:1:53,Sphaerophoria scripta Linnaeus,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria scripta,895WJ,1539182
+B237:1:56,Sphaerophoria menthastri Linnaeus,Linnaeus,Sphaerophoria,,menthastri,,species,,B237:1,accepted,,,B237:1:49,Sphaerophoria St.,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria,8F3SG,1539147
+B237:1:57,Sphaerophoria menthastri var. taeniata Meigen,Meigen,Sphaerophoria,,menthastri,taeniata,variety,,B237:1,accepted,,,B237:1:56,Sphaerophoria menthastri Linnaeus,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria menthastri,8F3SR,1539123
+B237:1:58,Sphaerophoria menthastri var. picta Meigen,Meigen,Sphaerophoria,,menthastri,picta,variety,,B237:1,accepted,,,B237:1:56,Sphaerophoria menthastri Linnaeus,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria menthastri,,6098355
+B237:1:59,Sphaerophoria menthastri var. dubia Zetterstedt,Zetterstedt,Sphaerophoria,,menthastri,dubia,variety,,B237:1,accepted,,,B237:1:56,Sphaerophoria menthastri Linnaeus,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Sphaerophoria | Sphaerophoria menthastri,,1539111
+B237:1:60,Doros Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Doros,,Syrphidae | Syrphinae,47VZ,1544508
+B237:1:61,Doros conopseus Fabricius,Fabricius,Doros,,conopseus,,species,,B237:1,accepted,,,B237:1:60,Doros Meigen,,,,,Syrphidae,Syrphinae,Doros,,Syrphidae | Syrphinae | Doros,,6098364
+B237:1:62,Xanthogramma Schiner,Schiner,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Xanthogramma,,Syrphidae | Syrphinae,,1538494
+B237:1:63,Xanthogramma pedissequum Harris,Harris,Xanthogramma,,pedissequum,,species,,B237:1,accepted,,,B237:1:62,Xanthogramma Schiner,,,,,Syrphidae,Syrphinae,Xanthogramma,,Syrphidae | Syrphinae | Xanthogramma,,5071297
+B237:1:64,Xanthogramma ornatum Meigen,Meigen,Xanthogramma,,ornatum,,species,,B237:1,synonym,B237:1:63,Xanthogramma pedissequum Harris,,,,,,,Syrphidae,Syrphinae,Xanthogramma,,Syrphidae | Syrphinae | Xanthogramma,,6098351
+B237:1:65,Xanthogramma citrofasciatum Degeer,Degeer,Xanthogramma,,citrofasciatum,,species,,B237:1,accepted,,,B237:1:62,Xanthogramma Schiner,,,,,Syrphidae,Syrphinae,Xanthogramma,,Syrphidae | Syrphinae | Xanthogramma,,5766549
+B237:1:66,Leucozona Schiner,Schiner,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Leucozona,,Syrphidae | Syrphinae,5DZR,1536498
+B237:1:67,Syrphus Fabricius,Fabricius,,,,,genus,,B237:1,synonym,B237:1:66,Leucozona Schiner,,,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae,87KW4,1444606
+B237:1:68,Leucozona lucorum Linnaeus,Linnaeus,Leucozona,,lucorum,,species,,B237:1,accepted,,,B237:1:66,Leucozona Schiner,,,,,Syrphidae,Syrphinae,Leucozona,,Syrphidae | Syrphinae | Leucozona,8CJSK,5071172
+B237:1:69,Scaeva Fabricius,Fabricius,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Scaeva,,Syrphidae | Syrphinae,7CX9,1537685
+B237:1:70,Scaeva selenitica Meigen,Meigen,Scaeva,,selenitica,,species,,B237:1,accepted,,,B237:1:69,Scaeva Fabricius,,,,,Syrphidae,Syrphinae,Scaeva,,Syrphidae | Syrphinae | Scaeva,6Y4HJ,1537717
+B237:1:71,Scaeva pyrastri Linnaeus,Linnaeus,Scaeva,,pyrastri,,species,,B237:1,accepted,,,B237:1:69,Scaeva Fabricius,,,,,Syrphidae,Syrphinae,Scaeva,,Syrphidae | Syrphinae | Scaeva,79SHC,1537719
+B237:1:72,Scaeva albomaculata Macquart,Macquart,Scaeva,,albomaculata,,species,,B237:1,accepted,,,B237:1:69,Scaeva Fabricius,,,,,Syrphidae,Syrphinae,Scaeva,,Syrphidae | Syrphinae | Scaeva,6Y4DX,1537703
+B237:1:73,Didea Macquart,Macquart,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Didea,,Syrphidae | Syrphinae,455H,1542022
+B237:1:74,Didea fasciata Macquart,Macquart,Didea,,fasciata,,species,,B237:1,accepted,,,B237:1:73,Didea Macquart,,,,,Syrphidae,Syrphinae,Didea,,Syrphidae | Syrphinae | Didea,35WJG,1542027
+B237:1:75,Didea alneti Fallén,Fallén,Didea,,alneti,,species,,B237:1,accepted,,,B237:1:73,Didea Macquart,,,,,Syrphidae,Syrphinae,Didea,,Syrphidae | Syrphinae | Didea,35WJC,1542030
+B237:1:76,Didea intermedia Loew,Loew,Didea,,intermedia,,species,,B237:1,accepted,,,B237:1:73,Didea Macquart,,,,,Syrphidae,Syrphinae,Didea,,Syrphidae | Syrphinae | Didea,35WJK,1542026
+B237:1:77,Syrphus Fabricius,Fabricius,,,,,genus,,B237:1,accepted,,,B237:1:14,Syrphinae,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae,87KW4,1444606
+B237:1:78,Syrphus torvus Osten-Sacken,Osten-Sacken,Syrphus,,torvus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7SS,1537245
+B237:1:79,Syrphus ribesii Linnaeus,Linnaeus,Syrphus,,ribesii,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7SN,1537266
+B237:1:80,Syrphus vitripennis Meigen,Meigen,Syrphus,,vitripennis,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7ST,1537212
+B237:1:81,Syrphus albostriatus Fallén,Fallén,Syrphus,,albostriatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
+B237:1:82,Syrphus grossulariae Meigen,Meigen,Syrphus,,grossulariae,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897NH,1536091
+B237:1:83,Syrphus diaphanus Zetterstedt,Zetterstedt,Syrphus,,diaphanus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,543HK,11334578
+B237:1:84,Syrphus eligans Harris,Harris,Syrphus,,eligans,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11331134
+B237:1:85,Syrphus bifasciatus Fabricius,Fabricius,Syrphus,,bifasciatus,,species,,B237:1,synonym,B237:1:84,Syrphus eligans Harris,,,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,7628476
+B237:1:86,Syrphus tricintus Fallén,Fallén,Syrphus,,tricintus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F8BX,1538803
+B237:1:87,Syrphus venustus Meigen,Meigen,Syrphus,,venustus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F8CL,1542101
+B237:1:88,Syrphus lunulatus Meigen,Meigen,Syrphus,,lunulatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,543MR,7198294
+B237:1:89,Syrphus mecogramma Bigot,Bigot,Syrphus,,mecogramma,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
+B237:1:90,Syrphus lapponicus Zetterstedt,Zetterstedt,Syrphus,,lapponicus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
+B237:1:91,Syrphus arcuatus Fallén,Fallén,Syrphus,,arcuatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11278463
+B237:1:92,Syrphus nitens Zetterstedt,Zetterstedt,Syrphus,,nitens,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
+B237:1:93,Syrphus corollae Fabricius,Fabricius,Syrphus,,corollae,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7XG,1540758
+B237:1:94,Syrphus consisto Harris,Harris,Syrphus,,consisto,,species,,B237:1,synonym,B237:1:93,Syrphus corollae Fabricius,,,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
+B237:1:95,Syrphus latifasciatus Macquart,Macquart,Syrphus,,latifasciatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897NV,1540694
+B237:1:96,Syrphus latilunulatus Collin,Collin,Syrphus,,latilunulatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F849,1540771
+B237:1:97,Syrphus luniger Meigen,Meigen,Syrphus,,luniger,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897P3,1540876
+B237:1:98,Syrphus annulipes Zetterstedt,Zetterstedt,Syrphus,,annulipes,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7TS,11336086
+B237:1:99,Syrphus nitidicollis Meigen,Meigen,Syrphus,,nitidicollis,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897PG,1536134
+B237:1:100,Syrphus balteatus Degeer,Degeer,Syrphus,,balteatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,7922320
+B237:1:101,Syrphus auricollis Meigen,Meigen,Syrphus,,auricollis,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,4516807
+B237:1:102,Syrphus cinctellus Zetterstedt,Zetterstedt,Syrphus,,cinctellus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
+B237:1:103,Syrphus punctulatus Verrall,Verrall,Syrphus,,punctulatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F88G,1533042
+B237:1:104,Syrphus nigritarsis Zetterstedt,Zetterstedt,Syrphus,,nigritarsis,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
+B237:1:105,Syrphus annulatus Zetterstedt,Zetterstedt,Syrphus,,annulatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7TR,1544333
+B237:1:106,Syrphus malinellus Collin,Collin,Syrphus,,malinellus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F84Z,1533074
+B237:1:107,Syrphus vittiger Zetterstedt,Zetterstedt,Syrphus,,vittiger,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
+B237:1:108,Syrphus lineola Zetterstedt,Zetterstedt,Syrphus,,lineola,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,543MH,11292437
+B237:1:109,Syrphus cinctus Fallén,Fallén,Syrphus,,cinctus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11307255
+B237:1:110,Syrphus euchromus Kowarz,Kowarz,Syrphus,,euchromus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,4516849
+B237:1:111,Syrphus triangulifer Zetterstedt,Zetterstedt,Syrphus,,triangulifer,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11265350
+B237:1:112,Syrphus guttatus Fallén,Fallén,Syrphus,,guttatus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11287038
+B237:1:113,Syrphus lasiophthalmus Zetterstedt,Zetterstedt,Syrphus,,lasiophthalmus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11271311
+B237:1:114,Syrphus barbifrons Fallén,Fallén,Syrphus,,barbifrons,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,87KW4,1444606
+B237:1:115,Syrphus arcticus Zetterstedt,Zetterstedt,Syrphus,,arcticus,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,,11239104
+B237:1:116,Syrphus umbellatarum Fabricius,Fabricius,Syrphus,,umbellatarum,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897QQ,1536641
+B237:1:117,Syrphus ericarum Collin,Collin,Syrphus,,ericarum,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F7YR,1536632
+B237:1:118,Syrphus labiatarum Verrall,Verrall,Syrphus,,labiatarum,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,8F845,1536608
+B237:1:119,Syrphus compositarum Verrall,Verrall,Syrphus,,compositarum,,species,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,,Syrphidae | Syrphinae | Syrphus,897MQ,1536645
+B237:1:120,Ischyrosyrphus Bigot,Bigot,,,,,subgenus,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,Ischyrosyrphus,Syrphidae | Syrphinae | Syrphus,87HSB,
+B237:1:121,Syrphus glaucius Linnaeus,Linnaeus,Syrphus,,glaucius,,species,,B237:1,accepted,,,B237:1:120,Ischyrosyrphus Bigot,,,,,Syrphidae,Syrphinae,Syrphus,Ischyrosyrphus,Syrphidae | Syrphinae | Syrphus | Ischyrosyrphus,,11323103
+B237:1:122,Syrphus laternarius Mueller,Mueller,Syrphus,,laternarius,,species,,B237:1,accepted,,,B237:1:120,Ischyrosyrphus Bigot,,,,,Syrphidae,Syrphinae,Syrphus,Ischyrosyrphus,Syrphidae | Syrphinae | Syrphus | Ischyrosyrphus,,11367836
+B237:1:123,Melangyna Verrall,Verrall,,,,,subgenus,,B237:1,accepted,,,B237:1:77,Syrphus Fabricius,,,,,Syrphidae,Syrphinae,Syrphus,Melangyna,Syrphidae | Syrphinae | Syrphus,87H9K,
+B237:1:124,Syrphus quadrimaculatus Verrall,Verrall,Syrphus,,quadrimaculatus,,species,,B237:1,accepted,,,B237:1:123,Melangyna Verrall,,,,,Syrphidae,Syrphinae,Syrphus,Melangyna,Syrphidae | Syrphinae | Syrphus | Melangyna,897Q5,11351753
 B237:1:125,Chrysotoxinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Chrysotoxinae,,,Syrphidae,,
-B237:1:126,Chrysotoxum,,,,,,genus,,B237:1,accepted,,,B237:1:125,Chrysotoxinae,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae,3PMG,1535870
-B237:1:127,Chrysotoxum festivum,,Chrysotoxum,,festivum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,,4516839
-B237:1:128,Chrysotoxum vernale,,Chrysotoxum,,vernale,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2LR,1536015
-B237:1:129,Chrysotoxum bicintum,,Chrysotoxum,,bicintum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,8P7ZD,1536009
-B237:1:130,Chrysotoxum arcuatum,,Chrysotoxum,,arcuatum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2GC,1535878
-B237:1:131,Chrysotoxum cautum,,Chrysotoxum,,cautum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,5YTCL,1535990
-B237:1:132,Chrysotoxum verralli,,Chrysotoxum,,verralli,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2LT,1535909
-B237:1:133,Chrysotoxum octomaculatum,,Chrysotoxum,,octomaculatum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2KB,1535899
-B237:1:134,Chrysotoxum elegans,,Chrysotoxum,,elegans,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2HG,1535931
-B237:1:135,Chrysotoxum latilimbatum,,Chrysotoxum,,latilimbatum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2JN,1535941
+B237:1:126,Chrysotoxum Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:125,Chrysotoxinae,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae,3PMG,1535870
+B237:1:127,Chrysotoxum festivum Linnaeus,Linnaeus,Chrysotoxum,,festivum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum Meigen,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,,4516839
+B237:1:128,Chrysotoxum vernale Loew,Loew,Chrysotoxum,,vernale,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum Meigen,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2LR,1536015
+B237:1:129,Chrysotoxum bicintum Linnaeus,Linnaeus,Chrysotoxum,,bicintum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum Meigen,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,8P7ZD,1536009
+B237:1:130,Chrysotoxum arcuatum Linnaeus,Linnaeus,Chrysotoxum,,arcuatum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum Meigen,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2GC,1535878
+B237:1:131,Chrysotoxum cautum Harris,Harris,Chrysotoxum,,cautum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum Meigen,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,5YTCL,1535990
+B237:1:132,Chrysotoxum verralli Collin,Collin,Chrysotoxum,,verralli,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum Meigen,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2LT,1535909
+B237:1:133,Chrysotoxum octomaculatum Curtis,Curtis,Chrysotoxum,,octomaculatum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum Meigen,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2KB,1535899
+B237:1:134,Chrysotoxum elegans Loew,Loew,Chrysotoxum,,elegans,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum Meigen,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2HG,1535931
+B237:1:135,Chrysotoxum latilimbatum Collin,Collin,Chrysotoxum,,latilimbatum,,species,,B237:1,accepted,,,B237:1:126,Chrysotoxum Meigen,,,,,Syrphidae,Chrysotoxinae,Chrysotoxum,,Syrphidae | Chrysotoxinae | Chrysotoxum,V2JN,1535941
 B237:1:136,Cheilosiinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Cheilosiinae,,,Syrphidae,,
-B237:1:137,Rhingia,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Rhingia,,Syrphidae | Cheilosiinae,78MV,1537399
-B237:1:138,Rhingia campestris,,Rhingia,,campestris,,species,,B237:1,accepted,,,B237:1:137,Rhingia,,,,,Syrphidae,Cheilosiinae,Rhingia,,Syrphidae | Cheilosiinae | Rhingia,8DMS3,1537412
-B237:1:139,Rhingia macrocephala,,Rhingia,,macrocephala,,species,,B237:1,synonym,B237:1:138,Rhingia campestris,,,,,,,Syrphidae,Cheilosiinae,Rhingia,,Syrphidae | Cheilosiinae | Rhingia,,11297043
-B237:1:140,Rhingia rostrata,,Rhingia,,rostrata,,species,,B237:1,accepted,,,B237:1:137,Rhingia,,,,,Syrphidae,Cheilosiinae,Rhingia,,Syrphidae | Cheilosiinae | Rhingia,8DMST,8170685
-B237:1:141,Ferdinandea,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Ferdinandea,,Syrphidae | Cheilosiinae,4JSX,1542953
-B237:1:142,Ferdinandea cuprea,,Ferdinandea,,cuprea,,species,,B237:1,accepted,,,B237:1:141,Ferdinandea,,,,,Syrphidae,Cheilosiinae,Ferdinandea,,Syrphidae | Cheilosiinae | Ferdinandea,6HR7J,1542979
-B237:1:143,Ferdinandea ruficornis,,Ferdinandea,,ruficornis,,species,,B237:1,accepted,,,B237:1:141,Ferdinandea,,,,,Syrphidae,Cheilosiinae,Ferdinandea,,Syrphidae | Cheilosiinae | Ferdinandea,3DYGV,1542961
-B237:1:144,Hammerschmidtia,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Hammerschmidtia,,Syrphidae | Cheilosiinae,89QCH,8860633
-B237:1:145,Hammerschmidtia ferruginea,,Hammerschmidtia,,ferruginea,,species,,B237:1,accepted,,,B237:1:144,Hammerschmidtia,,,,,Syrphidae,Cheilosiinae,Hammerschmidtia,,Syrphidae | Cheilosiinae | Hammerschmidtia,,4516884
-B237:1:146,Brachyopa,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Brachyopa,,Syrphidae | Cheilosiinae,87DQ9,1534367
-B237:1:147,Brachyopa insensilis,,Brachyopa,,insensilis,,species,,B237:1,accepted,,,B237:1:146,Brachyopa,,,,,Syrphidae,Cheilosiinae,Brachyopa,,Syrphidae | Cheilosiinae | Brachyopa,8B8VC,1534410
-B237:1:148,Brachyopa bicolor,,Brachyopa,,bicolor,,species,,B237:1,accepted,,,B237:1:146,Brachyopa,,,,,Syrphidae,Cheilosiinae,Brachyopa,,Syrphidae | Cheilosiinae | Brachyopa,8B8V2,1534412
-B237:1:149,Brachyopa scutellaris,,Brachyopa,,scutellaris,,species,,B237:1,accepted,,,B237:1:146,Brachyopa,,,,,Syrphidae,Cheilosiinae,Brachyopa,,Syrphidae | Cheilosiinae | Brachyopa,8B8VV,1534396
-B237:1:150,Brachyopa pilosa,,Brachyopa,,pilosa,,species,,B237:1,accepted,,,B237:1:146,Brachyopa,,,,,Syrphidae,Cheilosiinae,Brachyopa,,Syrphidae | Cheilosiinae | Brachyopa,8B8VN,1534395
-B237:1:151,Myolepta,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Myolepta,,Syrphidae | Cheilosiinae,5WDQ,1533883
-B237:1:152,Myolepta luteola,,Myolepta,,luteola,,species,,B237:1,accepted,,,B237:1:151,Myolepta,,,,,Syrphidae,Cheilosiinae,Myolepta,,Syrphidae | Cheilosiinae | Myolepta,,6098374
-B237:1:154,Myolepta potens,,Myolepta,,potens,,species,,B237:1,accepted,,,B237:1:151,Myolepta,,,,,Syrphidae,Cheilosiinae,Myolepta,,Syrphidae | Cheilosiinae | Myolepta,8CY6H,1533938
-B237:1:154,Myolepta potens,,Myolepta,,potens,,species,,B237:1,accepted,,,B237:1:151,Myolepta,,,,,Syrphidae,Cheilosiinae,Myolepta,,Syrphidae | Cheilosiinae | Myolepta,8CY6H,1533938
-B237:1:155,Psilota,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Psilota,,Syrphidae | Cheilosiinae,63QT9,1534962
-B237:1:156,Psilota anthracina,,Psilota,,anthracina,,species,,B237:1,accepted,,,B237:1:155,Psilota,,,,,Syrphidae,Cheilosiinae,Psilota,,Syrphidae | Cheilosiinae | Psilota,4PJPF,1534984
-B237:1:157,Psilota atra,,Psilota,,atra,,species,,B237:1,synonym,B237:1:156,Psilota anthracina,,,,,,,Syrphidae,Cheilosiinae,Psilota,,Syrphidae | Cheilosiinae | Psilota,4PJPG,1534988
-B237:1:169,Chrysogaster,,,,,,subgenus,,B237:1,accepted,,,B237:1:158,Chrysogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster,3PHN,
-B237:1:159,Liogaster,,,,,,subgenus,,B237:1,accepted,,,B237:1:158,Chrysogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Liogaster,Syrphidae | Cheilosiinae | Chrysogaster,,
-B237:1:160,Sulcatella,,,,,,subgenus,,B237:1,synonym,B237:1:159,Liogaster,,,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Sulcatella,Syrphidae | Cheilosiinae | Chrysogaster,,
-B237:1:161,Chrysogaster metallina,,Chrysogaster,,metallina,,species,,B237:1,accepted,,,B237:1:159,Liogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Liogaster,Syrphidae | Cheilosiinae | Chrysogaster | Liogaster,3PHN,1536707
-B237:1:162,Chrysogaster splendida,,Chrysogaster,,splendida,,species,,B237:1,accepted,,,B237:1:159,Liogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Liogaster,Syrphidae | Cheilosiinae | Chrysogaster | Liogaster,5YP64,7198278
-B237:1:163,Chrysogaster tarsata,,Chrysogaster,,tarsata,,species,,B237:1,synonym,B237:1:162,Chrysogaster splendida,,,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Liogaster,Syrphidae | Cheilosiinae | Chrysogaster | Liogaster,8BHBD,1537394
-B237:1:164,Orthoneura,,,,,,subgenus,,B237:1,accepted,,,B237:1:158,Chrysogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Orthoneura,Syrphidae | Cheilosiinae | Chrysogaster,,
-B237:1:165,Chrysogaster splendens,,Chrysogaster,,splendens,,species,,B237:1,accepted,,,B237:1:164,Orthoneura,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Orthoneura,Syrphidae | Cheilosiinae | Chrysogaster | Orthoneura,8BHBC,1537536
-B237:1:166,Chrysogaster geniculata,,Chrysogaster,,geniculata,,species,,B237:1,accepted,,,B237:1:164,Orthoneura,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Orthoneura,Syrphidae | Cheilosiinae | Chrysogaster | Orthoneura,8BH9V,1537549
-B237:1:167,Chrysogaster brevicornis,,Chrysogaster,,brevicornis,,species,,B237:1,accepted,,,B237:1:164,Orthoneura,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Orthoneura,Syrphidae | Cheilosiinae | Chrysogaster | Orthoneura,8BH9P,1537539
-B237:1:168,Chrysogaster nobilis,,Chrysogaster,,nobilis,,species,,B237:1,accepted,,,B237:1:164,Orthoneura,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Orthoneura,Syrphidae | Cheilosiinae | Chrysogaster | Orthoneura,3PHN,1536707
-B237:1:169,Chrysogaster,,,,,,subgenus,,B237:1,accepted,,,B237:1:158,Chrysogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster,3PHN,
-B237:1:170,Chrysogaster hirtella,,Chrysogaster,,hirtella,,species,,B237:1,accepted,,,B237:1:169,Chrysogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster | Chrysogaster,5YP56,1536711
-B237:1:171,Chrysogaster macquarti,,Chrysogaster,,macquarti,,species,,B237:1,accepted,,,B237:1:169,Chrysogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster | Chrysogaster,5YP4S,1536751
-B237:1:172,Chrysogaster solstitialis,,Chrysogaster,,solstitialis,,species,,B237:1,accepted,,,B237:1:169,Chrysogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster | Chrysogaster,5YP63,1536716
-B237:1:173,Chrysogaster chalybeata,,Chrysogaster,,chalybeata,,species,,B237:1,accepted,,,B237:1:169,Chrysogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster | Chrysogaster,5YP4Y,1536763
-B237:1:174,Chrysogaster virescens,,Chrysogaster,,virescens,,species,,B237:1,accepted,,,B237:1:169,Chrysogaster,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster | Chrysogaster,5YP7C,1536725
-B237:1:175,Neoascia,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae,5YQL,1536777
-B237:1:176,Neoascia podagrica,,Neoascia,,podagrica,,species,,B237:1,accepted,,,B237:1:175,Neoascia,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae | Neoascia,8CYX2,1536796
-B237:1:177,Neoascia obliqua,,Neoascia,,obliqua,,species,,B237:1,accepted,,,B237:1:175,Neoascia,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae | Neoascia,8CYXD,1536794
-B237:1:178,Neoascia geniculata,,Neoascia,,geniculata,,species,,B237:1,accepted,,,B237:1:175,Neoascia,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae | Neoascia,8CYX9,1536812
-B237:1:179,Neoascia aenea,,Neoascia,,aenea,,species,,B237:1,accepted,,,B237:1:175,Neoascia,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae | Neoascia,,6098368
-B237:1:180,Neoascia dispar,,Neoascia,,dispar,,species,,B237:1,accepted,,,B237:1:175,Neoascia,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae | Neoascia,,6098367
-B237:1:181,Sphegina,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Sphegina,,Syrphidae | Cheilosiinae,87KPD,1535557
-B237:1:182,Sphegina verecunda,,Sphegina,,verecunda,,species,,B237:1,accepted,,,B237:1:181,Sphegina,,,,,Syrphidae,Cheilosiinae,Sphegina,,Syrphidae | Cheilosiinae | Sphegina,8F444,1535651
-B237:1:183,Sphegina clunipes,,Sphegina,,clunipes,,species,,B237:1,accepted,,,B237:1:181,Sphegina,,,,,Syrphidae,Cheilosiinae,Sphegina,,Syrphidae | Cheilosiinae | Sphegina,8F42S,1535561
-B237:1:184,Sphegina kimakowiczi,,Sphegina,,kimakowiczi,,species,,B237:1,accepted,,,B237:1:181,Sphegina,,,,,Syrphidae,Cheilosiinae,Sphegina,,Syrphidae | Cheilosiinae | Sphegina,8F45V,1535659
-B237:1:185,Triglyphus,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Triglyphus,,Syrphidae | Cheilosiinae,7ZXD,1544500
-B237:1:186,Triglyphus primus,,Triglyphus,,primus,,species,,B237:1,accepted,,,B237:1:185,Triglyphus,,,,,Syrphidae,Cheilosiinae,Triglyphus,,Syrphidae | Cheilosiinae | Triglyphus,58QPN,5072223
-B237:1:187,Parapenium,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Parapenium,,Syrphidae | Cheilosiinae,,4786148
-B237:1:188,Parapenium flavitarsis,,Parapenium,,flavitarsis,,species,,B237:1,accepted,,,B237:1:187,Parapenium,,,,,Syrphidae,Cheilosiinae,Parapenium,,Syrphidae | Cheilosiinae | Parapenium,,4786148
-B237:1:189,Pipiza,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae,6QRP,1536264
-B237:1:190,Pipiza luteitarsis,,Pipiza,,luteitarsis,,species,,B237:1,accepted,,,B237:1:189,Pipiza,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,4J6PD,1536360
-B237:1:191,Pipiza austriaca,,Pipiza,,austriaca,,species,,B237:1,accepted,,,B237:1:189,Pipiza,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,8BJBT,1536326
-B237:1:192,Pipiza lugubris,,Pipiza,,lugubris,,species,,B237:1,accepted,,,B237:1:189,Pipiza,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,6VKNZ,1536370
-B237:1:193,Pipiza fenestrata,,Pipiza,,fenestrata,,species,,B237:1,accepted,,,B237:1:189,Pipiza,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,4J6NG,1536367
-B237:1:194,Pipiza bimaculata,,Pipiza,,bimaculata,,species,,B237:1,accepted,,,B237:1:189,Pipiza,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,4J6MQ,1536283
-B237:1:195,Pipiza noctiluca,,Pipiza,,noctiluca,,species,,B237:1,accepted,,,B237:1:189,Pipiza,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,4J6PX,1536342
-B237:1:196,Pipizella,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Pipizella,,Syrphidae | Cheilosiinae,6QRQ,1532919
-B237:1:197,Phalangus,,,,,,genus,,B237:1,synonym,B237:1:196,Pipizella,,,,,,,Syrphidae,Cheilosiinae,Phalangus,,Syrphidae | Cheilosiinae,,1533011
-B237:1:198,Pipizella varipes,,Pipizella,,varipes,,species,,B237:1,accepted,,,B237:1:196,Pipizella,,,,,Syrphidae,Cheilosiinae,Pipizella,,Syrphidae | Cheilosiinae | Pipizella,,6098349
-B237:1:199,Pipizella virens,,Pipizella,,virens,,species,,B237:1,accepted,,,B237:1:196,Pipizella,,,,,Syrphidae,Cheilosiinae,Pipizella,,Syrphidae | Cheilosiinae | Pipizella,4J6T2,1532941
-B237:1:200,Pipizella maculipennis,,Pipizella,,maculipennis,,species,,B237:1,accepted,,,B237:1:196,Pipizella,,,,,Syrphidae,Cheilosiinae,Pipizella,,Syrphidae | Cheilosiinae | Pipizella,4J6S8,1532927
-B237:1:201,Heringia,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Heringia,,Syrphidae | Cheilosiinae,,3257234
-B237:1:202,Heringia heringii,,Heringia,,heringii,,species,,B237:1,accepted,,,B237:1:201,Heringia,,,,,Syrphidae,Cheilosiinae,Heringia,,Syrphidae | Cheilosiinae | Heringia,3KZ2X,1535185
-B237:1:203,Cnemodon,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Cnemodon,,Syrphidae | Cheilosiinae,,10561671
-B237:1:204,Neocnemodon,,,,,,genus,,B237:1,synonym,B237:1:203,Cnemodon,,,,,,,Syrphidae,Cheilosiinae,Neocnemodon,,Syrphidae | Cheilosiinae,89QSP,
-B237:1:205,Cnemodon latitarsis,,Cnemodon,,latitarsis,,species,,B237:1,accepted,,,B237:1:203,Cnemodon,,,,,Syrphidae,Cheilosiinae,Cnemodon,,Syrphidae | Cheilosiinae | Cnemodon,87Y2X,1535184
-B237:1:206,Cnemodon verrucula,,Cnemodon,,verrucula,,species,,B237:1,accepted,,,B237:1:203,Cnemodon,,,,,Syrphidae,Cheilosiinae,Cnemodon,,Syrphidae | Cheilosiinae | Cnemodon,8BJGD,1535172
-B237:1:207,Cnemodon vitripennis,,Cnemodon,,vitripennis,,species,,B237:1,accepted,,,B237:1:203,Cnemodon,,,,,Syrphidae,Cheilosiinae,Cnemodon,,Syrphidae | Cheilosiinae | Cnemodon,,10561671
-B237:1:208,Cheilosia,,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae,3MHY,1539835
-B237:1:209,Cheilosia maculata,,Cheilosia,,maculata,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,7436454
-B237:1:210,Cheilosia illustrata,,Cheilosia,,illustrata,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSNG,1540302
-B237:1:211,Cheilosia pubera,,Cheilosia,,pubera,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,5XRKR,1540581
-B237:1:212,Cheilosia antiqua,,Cheilosia,,antiqua,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSH7,1540488
-B237:1:213,Cheilosia nigripes,,Cheilosia,,nigripes,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSRW,1540138
-B237:1:214,Cheilosia variabilis,,Cheilosia,,variabilis,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSY8,1540086
-B237:1:215,Cheilosia funebres,,Cheilosia,,funebres,,species,,B237:1,synonym,B237:1:214,Cheilosia variabilis,,,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,8BFVB,11152996
-B237:1:216,Cheilosia impressa,,Cheilosia,,impressa,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSNJ,1540633
-B237:1:217,Cheilosia fasciata,,Cheilosia,,fasciata,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSLQ,1540113
-B237:1:218,Cheilosia intonsa,,Cheilosia,,intonsa,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSNQ,1540563
-B237:1:219,Cheilosia soror,,Cheilosia,,soror,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSWL,4516703
-B237:1:220,Cheilosia paganus,,Cheilosia,,paganus,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TST4,1539941
-B237:1:221,Cheilosia pulchripes,,Cheilosia,,pulchripes,,species,,B237:1,synonym,B237:1:220,Cheilosia paganus,,,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,11288554
-B237:1:222,Cheilosia albitarsis,,Cheilosia,,albitarsis,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,4516695
-B237:1:223,Cheilosia mutabilis,,Cheilosia,,mutabilis,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSRF,1540212
-B237:1:224,Cheilosia scutellata,,Cheilosia,,scutellata,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,4516681
-B237:1:225,Cheilosia longula,,Cheilosia,,longula,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,888RW,1540390
-B237:1:226,Cheilosia honesta,,Cheilosia,,honesta,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,888RQ,1540553
-B237:1:227,Cheilosia barbata,,Cheilosia,,barbata,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSHW,1540549
-B237:1:228,Cheilosia vulpina,,Cheilosia,,vulpina,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSYS,1539896
-B237:1:229,Cheilosia grossa,,Cheilosia,,grossa,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,8BFVC,4516680
-B237:1:230,Cheilosia corydon,,Cheilosia,,corydon,,species,,B237:1,synonym,B237:1:229,Cheilosia grossa,,,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSKM,1539854
-B237:1:231,Cheilosia chrysocoma,,Cheilosia,,chrysocoma,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSK9,1540278
-B237:1:232,Cheilosia nebulosa,,Cheilosia,,nebulosa,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSRP,1540167
-B237:1:233,Cheilosia albipila,,Cheilosia,,albipila,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSGK,1540020
-B237:1:234,Cheilosia fraterna,,Cheilosia,,fraterna,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSM8,1540067
-B237:1:235,Cheilosia bergenstammi,,Cheilosia,,bergenstammi,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSJ6,1540517
-B237:1:236,Cheilosia praecox,,Cheilosia,,praecox,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,6098376
-B237:1:237,Cheilosia ruralis,,Cheilosia,,ruralis,,species,,B237:1,synonym,B237:1:236,Cheilosia praecox,,,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,888SJ,1540446
-B237:1:238,Cheilosia globulipes,,Cheilosia,,globulipes,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,11342572
-B237:1:239,Cheilosia cynocephala,,Cheilosia,,cynocephala,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,5XRJT,1540189
-B237:1:240,Cheilosia carbonaria,,Cheilosia,,carbonaria,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSJW,1540334
-B237:1:241,Cheilosia vernalis,,Cheilosia,,vernalis,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSYG,1539991
-B237:1:242,Cheilosia velutina,,Cheilosia,,velutina,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSYD,1540047
-B237:1:243,Cheilosia proxima,,Cheilosia,,proxima,,species,,B237:1,accepted,,,B237:1:208,Cheilosia,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,5Y3KQ,1540608
+B237:1:137,Rhingia Scopoli,Scopoli,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Rhingia,,Syrphidae | Cheilosiinae,78MV,1537399
+B237:1:138,Rhingia campestris Meigen,Meigen,Rhingia,,campestris,,species,,B237:1,accepted,,,B237:1:137,Rhingia Scopoli,,,,,Syrphidae,Cheilosiinae,Rhingia,,Syrphidae | Cheilosiinae | Rhingia,8DMS3,1537412
+B237:1:139,Rhingia macrocephala Harris,Harris,Rhingia,,macrocephala,,species,,B237:1,synonym,B237:1:138,Rhingia campestris Meigen,,,,,,,Syrphidae,Cheilosiinae,Rhingia,,Syrphidae | Cheilosiinae | Rhingia,,11297043
+B237:1:140,Rhingia rostrata Linnaeus,Linnaeus,Rhingia,,rostrata,,species,,B237:1,accepted,,,B237:1:137,Rhingia Scopoli,,,,,Syrphidae,Cheilosiinae,Rhingia,,Syrphidae | Cheilosiinae | Rhingia,8DMST,8170685
+B237:1:141,Ferdinandea Rondani,Rondani,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Ferdinandea,,Syrphidae | Cheilosiinae,4JSX,1542953
+B237:1:142,Ferdinandea cuprea Scopoli,Scopoli,Ferdinandea,,cuprea,,species,,B237:1,accepted,,,B237:1:141,Ferdinandea Rondani,,,,,Syrphidae,Cheilosiinae,Ferdinandea,,Syrphidae | Cheilosiinae | Ferdinandea,6HR7J,1542979
+B237:1:143,Ferdinandea ruficornis Fabricius,Fabricius,Ferdinandea,,ruficornis,,species,,B237:1,accepted,,,B237:1:141,Ferdinandea Rondani,,,,,Syrphidae,Cheilosiinae,Ferdinandea,,Syrphidae | Cheilosiinae | Ferdinandea,3DYGV,1542961
+B237:1:144,Hammerschmidtia Schummel,Schummel,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Hammerschmidtia,,Syrphidae | Cheilosiinae,89QCH,8860633
+B237:1:145,Hammerschmidtia ferruginea Fallén,Fallén,Hammerschmidtia,,ferruginea,,species,,B237:1,accepted,,,B237:1:144,Hammerschmidtia Schummel,,,,,Syrphidae,Cheilosiinae,Hammerschmidtia,,Syrphidae | Cheilosiinae | Hammerschmidtia,,4516884
+B237:1:146,Brachyopa Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Brachyopa,,Syrphidae | Cheilosiinae,87DQ9,1534367
+B237:1:147,Brachyopa insensilis Collin,Collin,Brachyopa,,insensilis,,species,,B237:1,accepted,,,B237:1:146,Brachyopa Meigen,,,,,Syrphidae,Cheilosiinae,Brachyopa,,Syrphidae | Cheilosiinae | Brachyopa,8B8VC,1534410
+B237:1:148,Brachyopa bicolor Fallén,Fallén,Brachyopa,,bicolor,,species,,B237:1,accepted,,,B237:1:146,Brachyopa Meigen,,,,,Syrphidae,Cheilosiinae,Brachyopa,,Syrphidae | Cheilosiinae | Brachyopa,8B8V2,1534412
+B237:1:149,Brachyopa scutellaris Desvoidy,Desvoidy,Brachyopa,,scutellaris,,species,,B237:1,accepted,,,B237:1:146,Brachyopa Meigen,,,,,Syrphidae,Cheilosiinae,Brachyopa,,Syrphidae | Cheilosiinae | Brachyopa,8B8VV,1534396
+B237:1:150,Brachyopa pilosa Collin,Collin,Brachyopa,,pilosa,,species,,B237:1,accepted,,,B237:1:146,Brachyopa Meigen,,,,,Syrphidae,Cheilosiinae,Brachyopa,,Syrphidae | Cheilosiinae | Brachyopa,8B8VN,1534395
+B237:1:151,Myolepta Newman,Newman,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Myolepta,,Syrphidae | Cheilosiinae,5WDQ,1533883
+B237:1:152,Myolepta luteola Gmelin,Gmelin,Myolepta,,luteola,,species,,B237:1,accepted,,,B237:1:151,Myolepta Newman,,,,,Syrphidae,Cheilosiinae,Myolepta,,Syrphidae | Cheilosiinae | Myolepta,,6098374
+B237:1:153,Myolepta potens Harris,Harris,Myolepta,,potens,,species,,B237:1,synonym,B237:1:152,Myolepta luteola Gmelin,,,,,,,Syrphidae,Cheilosiinae,Myolepta,,Syrphidae | Cheilosiinae | Myolepta,8CY6H,1533938
+B237:1:154,Myolepta potens Harris,Harris,Myolepta,,potens,,species,,B237:1,accepted,,,B237:1:151,Myolepta Newman,,,,,Syrphidae,Cheilosiinae,Myolepta,,Syrphidae | Cheilosiinae | Myolepta,8CY6H,1533938
+B237:1:155,Psilota Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Psilota,,Syrphidae | Cheilosiinae,63QT9,1534962
+B237:1:156,Psilota anthracina Meigen,Meigen,Psilota,,anthracina,,species,,B237:1,accepted,,,B237:1:155,Psilota Meigen,,,,,Syrphidae,Cheilosiinae,Psilota,,Syrphidae | Cheilosiinae | Psilota,4PJPF,1534984
+B237:1:157,Psilota atra Fallén,Fallén,Psilota,,atra,,species,,B237:1,synonym,B237:1:156,Psilota anthracina Meigen,,,,,,,Syrphidae,Cheilosiinae,Psilota,,Syrphidae | Cheilosiinae | Psilota,4PJPG,1534988
+B237:1:158,Chrysogaster Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Chrysogaster,,Syrphidae | Cheilosiinae,3PHN,1536707
+B237:1:159,Liogaster Rondani,Rondani,,,,,subgenus,,B237:1,accepted,,,B237:1:158,Chrysogaster Meigen,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Liogaster,Syrphidae | Cheilosiinae | Chrysogaster,,
+B237:1:160,Sulcatella Goffe,Goffe,,,,,subgenus,,B237:1,synonym,B237:1:159,Liogaster Rondani,,,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Sulcatella,Syrphidae | Cheilosiinae | Chrysogaster,,
+B237:1:161,Chrysogaster metallina Fabricius,Fabricius,Chrysogaster,,metallina,,species,,B237:1,accepted,,,B237:1:159,Liogaster Rondani,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Liogaster,Syrphidae | Cheilosiinae | Chrysogaster | Liogaster,3PHN,1536707
+B237:1:162,Chrysogaster splendida Meigen,Meigen,Chrysogaster,,splendida,,species,,B237:1,accepted,,,B237:1:159,Liogaster Rondani,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Liogaster,Syrphidae | Cheilosiinae | Chrysogaster | Liogaster,5YP64,7198278
+B237:1:163,Chrysogaster tarsata Meigen,Meigen,Chrysogaster,,tarsata,,species,,B237:1,synonym,B237:1:162,Chrysogaster splendida Meigen,,,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Liogaster,Syrphidae | Cheilosiinae | Chrysogaster | Liogaster,8BHBD,1537394
+B237:1:164,Orthoneura Macquart,Macquart,,,,,subgenus,,B237:1,accepted,,,B237:1:158,Chrysogaster Meigen,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Orthoneura,Syrphidae | Cheilosiinae | Chrysogaster,,
+B237:1:165,Chrysogaster splendens Meigen,Meigen,Chrysogaster,,splendens,,species,,B237:1,accepted,,,B237:1:164,Orthoneura Macquart,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Orthoneura,Syrphidae | Cheilosiinae | Chrysogaster | Orthoneura,8BHBC,1537536
+B237:1:166,Chrysogaster geniculata Meigen,Meigen,Chrysogaster,,geniculata,,species,,B237:1,accepted,,,B237:1:164,Orthoneura Macquart,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Orthoneura,Syrphidae | Cheilosiinae | Chrysogaster | Orthoneura,8BH9V,1537549
+B237:1:167,Chrysogaster brevicornis Loew,Loew,Chrysogaster,,brevicornis,,species,,B237:1,accepted,,,B237:1:164,Orthoneura Macquart,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Orthoneura,Syrphidae | Cheilosiinae | Chrysogaster | Orthoneura,8BH9P,1537539
+B237:1:168,Chrysogaster nobilis Fallén,Fallén,Chrysogaster,,nobilis,,species,,B237:1,accepted,,,B237:1:164,Orthoneura Macquart,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Orthoneura,Syrphidae | Cheilosiinae | Chrysogaster | Orthoneura,3PHN,1536707
+B237:1:169,Chrysogaster Meigen,Meigen,,,,,subgenus,s. str.,B237:1,accepted,,,B237:1:158,Chrysogaster Meigen,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster,3PHN,
+B237:1:170,Chrysogaster hirtella Loew,Loew,Chrysogaster,,hirtella,,species,,B237:1,accepted,,,B237:1:169,Chrysogaster Meigen,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster | Chrysogaster,5YP56,1536711
+B237:1:171,Chrysogaster macquarti Loew,Loew,Chrysogaster,,macquarti,,species,,B237:1,accepted,,,B237:1:169,Chrysogaster Meigen,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster | Chrysogaster,5YP4S,1536751
+B237:1:172,Chrysogaster solstitialis Fallén,Fallén,Chrysogaster,,solstitialis,,species,,B237:1,accepted,,,B237:1:169,Chrysogaster Meigen,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster | Chrysogaster,5YP63,1536716
+B237:1:173,Chrysogaster chalybeata Meigen,Meigen,Chrysogaster,,chalybeata,,species,,B237:1,accepted,,,B237:1:169,Chrysogaster Meigen,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster | Chrysogaster,5YP4Y,1536763
+B237:1:174,Chrysogaster virescens Loew,Loew,Chrysogaster,,virescens,,species,,B237:1,accepted,,,B237:1:169,Chrysogaster Meigen,,,,,Syrphidae,Cheilosiinae,Chrysogaster,Chrysogaster,Syrphidae | Cheilosiinae | Chrysogaster | Chrysogaster,5YP7C,1536725
+B237:1:175,Neoascia Williston,Williston,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae,5YQL,1536777
+B237:1:176,Neoascia podagrica Fabricius,Fabricius,Neoascia,,podagrica,,species,,B237:1,accepted,,,B237:1:175,Neoascia Williston,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae | Neoascia,8CYX2,1536796
+B237:1:177,Neoascia obliqua Coe,Coe,Neoascia,,obliqua,,species,,B237:1,accepted,,,B237:1:175,Neoascia Williston,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae | Neoascia,8CYXD,1536794
+B237:1:178,Neoascia geniculata Meigen,Meigen,Neoascia,,geniculata,,species,,B237:1,accepted,,,B237:1:175,Neoascia Williston,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae | Neoascia,8CYX9,1536812
+B237:1:179,Neoascia aenea Meigen,Meigen,Neoascia,,aenea,,species,,B237:1,accepted,,,B237:1:175,Neoascia Williston,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae | Neoascia,,6098368
+B237:1:180,Neoascia dispar Meigen,Meigen,Neoascia,,dispar,,species,,B237:1,accepted,,,B237:1:175,Neoascia Williston,,,,,Syrphidae,Cheilosiinae,Neoascia,,Syrphidae | Cheilosiinae | Neoascia,,6098367
+B237:1:181,Sphegina Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Sphegina,,Syrphidae | Cheilosiinae,87KPD,1535557
+B237:1:182,Sphegina verecunda Collin,Collin,Sphegina,,verecunda,,species,,B237:1,accepted,,,B237:1:181,Sphegina Meigen,,,,,Syrphidae,Cheilosiinae,Sphegina,,Syrphidae | Cheilosiinae | Sphegina,8F444,1535651
+B237:1:183,Sphegina clunipes Fallén,Fallén,Sphegina,,clunipes,,species,,B237:1,accepted,,,B237:1:181,Sphegina Meigen,,,,,Syrphidae,Cheilosiinae,Sphegina,,Syrphidae | Cheilosiinae | Sphegina,8F42S,1535561
+B237:1:184,Sphegina kimakowiczi Strobl,Strobl,Sphegina,,kimakowiczi,,species,,B237:1,accepted,,,B237:1:181,Sphegina Meigen,,,,,Syrphidae,Cheilosiinae,Sphegina,,Syrphidae | Cheilosiinae | Sphegina,8F45V,1535659
+B237:1:185,Triglyphus Loew,Loew,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Triglyphus,,Syrphidae | Cheilosiinae,7ZXD,1544500
+B237:1:186,Triglyphus primus Loew,Loew,Triglyphus,,primus,,species,,B237:1,accepted,,,B237:1:185,Triglyphus Loew,,,,,Syrphidae,Cheilosiinae,Triglyphus,,Syrphidae | Cheilosiinae | Triglyphus,58QPN,5072223
+B237:1:187,Parapenium Collin,Collin,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Parapenium,,Syrphidae | Cheilosiinae,,4786148
+B237:1:188,Parapenium flavitarsis Meigen,Meigen,Parapenium,,flavitarsis,,species,,B237:1,accepted,,,B237:1:187,Parapenium Collin,,,,,Syrphidae,Cheilosiinae,Parapenium,,Syrphidae | Cheilosiinae | Parapenium,,4786148
+B237:1:189,Pipiza Fallén,Fallén,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae,6QRP,1536264
+B237:1:190,Pipiza luteitarsis Zetterstedt,Zetterstedt,Pipiza,,luteitarsis,,species,,B237:1,accepted,,,B237:1:189,Pipiza Fallén,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,4J6PD,1536360
+B237:1:191,Pipiza austriaca Meigen,Meigen,Pipiza,,austriaca,,species,,B237:1,accepted,,,B237:1:189,Pipiza Fallén,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,8BJBT,1536326
+B237:1:192,Pipiza lugubris Fabricius,Fabricius,Pipiza,,lugubris,,species,,B237:1,accepted,,,B237:1:189,Pipiza Fallén,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,6VKNZ,1536370
+B237:1:193,Pipiza fenestrata Meigen,Meigen,Pipiza,,fenestrata,,species,,B237:1,accepted,,,B237:1:189,Pipiza Fallén,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,4J6NG,1536367
+B237:1:194,Pipiza bimaculata Meigen,Meigen,Pipiza,,bimaculata,,species,,B237:1,accepted,,,B237:1:189,Pipiza Fallén,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,4J6MQ,1536283
+B237:1:195,Pipiza noctiluca Linnaeus,Linnaeus,Pipiza,,noctiluca,,species,,B237:1,accepted,,,B237:1:189,Pipiza Fallén,,,,,Syrphidae,Cheilosiinae,Pipiza,,Syrphidae | Cheilosiinae | Pipiza,4J6PX,1536342
+B237:1:196,Pipizella Rondani,Rondani,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Pipizella,,Syrphidae | Cheilosiinae,6QRQ,1532919
+B237:1:197,Phalangus Meigen,Meigen,,,,,genus,,B237:1,synonym,B237:1:196,Pipizella Rondani,,,,,,,Syrphidae,Cheilosiinae,Phalangus,,Syrphidae | Cheilosiinae,,1533011
+B237:1:198,Pipizella varipes Meigen,Meigen,Pipizella,,varipes,,species,,B237:1,accepted,,,B237:1:196,Pipizella Rondani,,,,,Syrphidae,Cheilosiinae,Pipizella,,Syrphidae | Cheilosiinae | Pipizella,,6098349
+B237:1:199,Pipizella virens Fabricius,Fabricius,Pipizella,,virens,,species,,B237:1,accepted,,,B237:1:196,Pipizella Rondani,,,,,Syrphidae,Cheilosiinae,Pipizella,,Syrphidae | Cheilosiinae | Pipizella,4J6T2,1532941
+B237:1:200,Pipizella maculipennis Meigen,Meigen,Pipizella,,maculipennis,,species,,B237:1,accepted,,,B237:1:196,Pipizella Rondani,,,,,Syrphidae,Cheilosiinae,Pipizella,,Syrphidae | Cheilosiinae | Pipizella,4J6S8,1532927
+B237:1:201,Heringia Rondani,Rondani,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Heringia,,Syrphidae | Cheilosiinae,4VT9,1535116
+B237:1:202,Heringia heringii Zetterstedt,Zetterstedt,Heringia,,heringii,,species,,B237:1,accepted,,,B237:1:201,Heringia Rondani,,,,,Syrphidae,Cheilosiinae,Heringia,,Syrphidae | Cheilosiinae | Heringia,3KZ2X,1535185
+B237:1:203,Cnemodon Egger,Egger,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Cnemodon,,Syrphidae | Cheilosiinae,,8602653
+B237:1:204,Neocnemodon Goffe,Goffe,,,,,genus,,B237:1,synonym,B237:1:203,Cnemodon Egger,,,,,,,Syrphidae,Cheilosiinae,Neocnemodon,,Syrphidae | Cheilosiinae,89QSP,1536263
+B237:1:205,Cnemodon latitarsis Egger,Egger,Cnemodon,,latitarsis,,species,,B237:1,accepted,,,B237:1:203,Cnemodon Egger,,,,,Syrphidae,Cheilosiinae,Cnemodon,,Syrphidae | Cheilosiinae | Cnemodon,87Y2X,1535184
+B237:1:206,Cnemodon verrucula Collin,Collin,Cnemodon,,verrucula,,species,,B237:1,accepted,,,B237:1:203,Cnemodon Egger,,,,,Syrphidae,Cheilosiinae,Cnemodon,,Syrphidae | Cheilosiinae | Cnemodon,8BJGD,1535172
+B237:1:207,Cnemodon vitripennis Meigen,Meigen,Cnemodon,,vitripennis,,species,,B237:1,accepted,,,B237:1:203,Cnemodon Egger,,,,,Syrphidae,Cheilosiinae,Cnemodon,,Syrphidae | Cheilosiinae | Cnemodon,,8602653
+B237:1:208,Cheilosia Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:136,Cheilosiinae,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae,3MHY,1539835
+B237:1:209,Cheilosia maculata Fallén,Fallén,Cheilosia,,maculata,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,7436454
+B237:1:210,Cheilosia illustrata Harris,Harris,Cheilosia,,illustrata,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSNG,1540302
+B237:1:211,Cheilosia pubera Zetterstedt,Zetterstedt,Cheilosia,,pubera,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,5XRKR,1540581
+B237:1:212,Cheilosia antiqua Meigen,Meigen,Cheilosia,,antiqua,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSH7,1540488
+B237:1:213,Cheilosia nigripes Meigen,Meigen,Cheilosia,,nigripes,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSRW,1540138
+B237:1:214,Cheilosia variabilis Panzer,Panzer,Cheilosia,,variabilis,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSY8,1540086
+B237:1:215,Cheilosia funebres Harris,Harris,Cheilosia,,funebres,,species,,B237:1,synonym,B237:1:214,Cheilosia variabilis Panzer,,,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,8BFVB,11152996
+B237:1:216,Cheilosia impressa Loew,Loew,Cheilosia,,impressa,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSNJ,1540633
+B237:1:217,Cheilosia fasciata Schiner,Schiner,Cheilosia,,fasciata,,species,and Egger,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSLQ,1540113
+B237:1:218,Cheilosia intonsa Loew,Loew,Cheilosia,,intonsa,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSNQ,1540563
+B237:1:219,Cheilosia soror Zetterstedt,Zetterstedt,Cheilosia,,soror,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSWL,4516703
+B237:1:220,Cheilosia paganus Meigen,Meigen,Cheilosia,,paganus,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TST4,1539941
+B237:1:221,Cheilosia pulchripes Loew,Loew,Cheilosia,,pulchripes,,species,,B237:1,synonym,B237:1:220,Cheilosia paganus Meigen,,,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,11288554
+B237:1:222,Cheilosia albitarsis Meigen,Meigen,Cheilosia,,albitarsis,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,4516695
+B237:1:223,Cheilosia mutabilis Fallén,Fallén,Cheilosia,,mutabilis,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSRF,1540212
+B237:1:224,Cheilosia scutellata Fallén,Fallén,Cheilosia,,scutellata,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,4516681
+B237:1:225,Cheilosia longula Zetterstedt,Zetterstedt,Cheilosia,,longula,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,69RJV,1540390
+B237:1:226,Cheilosia honesta Rondani,Rondani,Cheilosia,,honesta,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,888RQ,1540553
+B237:1:227,Cheilosia barbata Loew,Loew,Cheilosia,,barbata,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSHW,1540549
+B237:1:228,Cheilosia vulpina Meigen,Meigen,Cheilosia,,vulpina,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSYS,1539896
+B237:1:229,Cheilosia grossa Fallén,Fallén,Cheilosia,,grossa,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,8BFVC,4516680
+B237:1:230,Cheilosia corydon Harris,Harris,Cheilosia,,corydon,,species,,B237:1,synonym,B237:1:229,Cheilosia grossa Fallén,,,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSKM,1539854
+B237:1:231,Cheilosia chrysocoma Meigen,Meigen,Cheilosia,,chrysocoma,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSK9,1540278
+B237:1:232,Cheilosia nebulosa Verrall,Verrall,Cheilosia,,nebulosa,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSRP,1540167
+B237:1:233,Cheilosia albipila Meigen,Meigen,Cheilosia,,albipila,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSGK,1540020
+B237:1:234,Cheilosia fraterna Meigen,Meigen,Cheilosia,,fraterna,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSM8,1540067
+B237:1:235,Cheilosia bergenstammi Becker,Becker,Cheilosia,,bergenstammi,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSJ6,1540517
+B237:1:236,Cheilosia praecox Zetterstedt,Zetterstedt,Cheilosia,,praecox,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,6098376
+B237:1:237,Cheilosia ruralis Becker,Becker,Cheilosia,,ruralis,,species,nec Meigen,B237:1,synonym,B237:1:236,Cheilosia praecox Zetterstedt,,,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,888SJ,1540446
+B237:1:238,Cheilosia globulipes Becker,Becker,Cheilosia,,globulipes,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,,11342572
+B237:1:239,Cheilosia cynocephala Loew,Loew,Cheilosia,,cynocephala,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,5XRJT,1540189
+B237:1:240,Cheilosia carbonaria Egger,Egger,Cheilosia,,carbonaria,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSJW,1540334
+B237:1:241,Cheilosia vernalis Fallén,Fallén,Cheilosia,,vernalis,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSYG,1539991
+B237:1:242,Cheilosia velutina Loew,Loew,Cheilosia,,velutina,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,TSYD,1540047
+B237:1:243,Cheilosia proxima Zetterstedt,Zetterstedt,Cheilosia,,proxima,,species,,B237:1,accepted,,,B237:1:208,Cheilosia Meigen,,,,,Syrphidae,Cheilosiinae,Cheilosia,,Syrphidae | Cheilosiinae | Cheilosia,5Y3KQ,1540608
 B237:1:244,Vollucellinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Vollucellinae,,,Syrphidae,,
-B237:1:245,Volucella,,,,,,genus,,B237:1,accepted,,,B237:1:244,Vollucellinae,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae,877Q,1483491
-B237:1:246,Volucella bombylans,,Volucella,,bombylans,,species,,B237:1,accepted,,,B237:1:245,Volucella,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella,7FT9W,1541763
-B237:1:247,Volucella bombylans var. plumata,,Volucella,,bombylans,plumata,variety,,B237:1,accepted,,,B237:1:246,Volucella bombylans,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella | Volucella bombylans,,7801957
-B237:1:248,Volucella bombylans var. bombylans,,Volucella,,bombylans,bombylans,variety,,B237:1,accepted,,,B237:1:246,Volucella bombylans,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella | Volucella bombylans,,11134127
-B237:1:249,Volucella zonaria,,Volucella,,zonaria,,species,,B237:1,accepted,,,B237:1:245,Volucella,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella,5BPK3,1541832
-B237:1:250,Volucella inanis,,Volucella,,inanis,,species,,B237:1,accepted,,,B237:1:245,Volucella,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella,5BPFW,1541740
-B237:1:251,Volucella inflata,,Volucella,,inflata,,species,,B237:1,accepted,,,B237:1:245,Volucella,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella,5BPG2,1541819
-B237:1:252,Volucella pellucens,,Volucella,,pellucens,,species,,B237:1,accepted,,,B237:1:245,Volucella,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella,5BPH6,1541799
+B237:1:245,Volucella Müller,Müller,,,,,genus,,B237:1,accepted,,,B237:1:244,Vollucellinae,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae,877Q,1483491
+B237:1:246,Volucella bombylans Linnaeus,Linnaeus,Volucella,,bombylans,,species,,B237:1,accepted,,,B237:1:245,Volucella Müller,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella,7FT9W,1541763
+B237:1:247,Volucella bombylans var. plumata Meigen,Meigen,Volucella,,bombylans,plumata,variety,,B237:1,accepted,,,B237:1:246,Volucella bombylans Linnaeus,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella | Volucella bombylans,,7801957
+B237:1:248,Volucella bombylans var. bombylans Linnaeus,Linnaeus,Volucella,,bombylans,bombylans,variety,,B237:1,accepted,,,B237:1:246,Volucella bombylans Linnaeus,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella | Volucella bombylans,,11134127
+B237:1:249,Volucella zonaria Poda,Poda,Volucella,,zonaria,,species,,B237:1,accepted,,,B237:1:245,Volucella Müller,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella,5BPK3,1541832
+B237:1:250,Volucella inanis Linnaeus,Linnaeus,Volucella,,inanis,,species,,B237:1,accepted,,,B237:1:245,Volucella Müller,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella,5BPFW,1541740
+B237:1:251,Volucella inflata Fabricius,Fabricius,Volucella,,inflata,,species,,B237:1,accepted,,,B237:1:245,Volucella Müller,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella,5BPG2,1541819
+B237:1:252,Volucella pellucens Linnaeus,Linnaeus,Volucella,,pellucens,,species,,B237:1,accepted,,,B237:1:245,Volucella Müller,,,,,Syrphidae,Vollucellinae,Volucella,,Syrphidae | Vollucellinae | Volucella,5BPH6,1541799
 B237:1:253,Sericomyiinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Sericomyiinae,,,Syrphidae,,
-B237:1:254,Sericomyia,,,,,,genus,,B237:1,accepted,,,B237:1:253,Sericomyiinae,,,,,Syrphidae,Sericomyiinae,Sericomyia,,Syrphidae | Sericomyiinae,87KL3,1538780
-B237:1:255,Cinxia,,,,,,genus,,B237:1,synonym,B237:1:254,Sericomyia,,,,,,,Syrphidae,Sericomyiinae,Cinxia,,Syrphidae | Sericomyiinae,,1541734
-B237:1:256,Sericomyia silentis,,Sericomyia,,silentis,,species,,B237:1,accepted,,,B237:1:254,Sericomyia,,,,,Syrphidae,Sericomyiinae,Sericomyia,,Syrphidae | Sericomyiinae | Sericomyia,8DWMD,1538798
-B237:1:257,Sericomyia borealis,,Sericomyia,,borealis,,species,,B237:1,synonym,B237:1:256,Sericomyia silentis,,,,,,,Syrphidae,Sericomyiinae,Sericomyia,,Syrphidae | Sericomyiinae | Sericomyia,,6098363
-B237:1:258,Sericomyia lappona,,Sericomyia,,lappona,,species,,B237:1,accepted,,,B237:1:254,Sericomyia,,,,,Syrphidae,Sericomyiinae,Sericomyia,,Syrphidae | Sericomyiinae | Sericomyia,8DWM6,1538831
-B237:1:259,Arctophila,,,,,,genus,,B237:1,accepted,,,B237:1:253,Sericomyiinae,,,,,Syrphidae,Sericomyiinae,Arctophila,,Syrphidae | Sericomyiinae,,9026378
-B237:1:260,Arctophila fulva,,Arctophila,,fulva,,species,,B237:1,accepted,,,B237:1:259,Arctophila,,,,,Syrphidae,Sericomyiinae,Arctophila,,Syrphidae | Sericomyiinae | Arctophila,,
-B237:1:261,Arctophila mussitans,,Arctophila,,mussitans,,species,,B237:1,synonym,B237:1:260,Arctophila fulva,,,,,,,Syrphidae,Sericomyiinae,Arctophila,,Syrphidae | Sericomyiinae | Arctophila,,6098370
+B237:1:254,Sericomyia Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:253,Sericomyiinae,,,,,Syrphidae,Sericomyiinae,Sericomyia,,Syrphidae | Sericomyiinae,87KL3,1538780
+B237:1:255,Cinxia Meigen,Meigen,,,,,genus,,B237:1,synonym,B237:1:254,Sericomyia Meigen,,,,,,,Syrphidae,Sericomyiinae,Cinxia,,Syrphidae | Sericomyiinae,,1541734
+B237:1:256,Sericomyia silentis Harris,Harris,Sericomyia,,silentis,,species,,B237:1,accepted,,,B237:1:254,Sericomyia Meigen,,,,,Syrphidae,Sericomyiinae,Sericomyia,,Syrphidae | Sericomyiinae | Sericomyia,8DWMD,1538798
+B237:1:257,Sericomyia borealis Fallén,Fallén,Sericomyia,,borealis,,species,,B237:1,synonym,B237:1:256,Sericomyia silentis Harris,,,,,,,Syrphidae,Sericomyiinae,Sericomyia,,Syrphidae | Sericomyiinae | Sericomyia,,6098363
+B237:1:258,Sericomyia lappona Linnaeus,Linnaeus,Sericomyia,,lappona,,species,,B237:1,accepted,,,B237:1:254,Sericomyia Meigen,,,,,Syrphidae,Sericomyiinae,Sericomyia,,Syrphidae | Sericomyiinae | Sericomyia,8DWM6,1538831
+B237:1:259,Arctophila Schiner,Schiner,,,,,genus,,B237:1,accepted,,,B237:1:253,Sericomyiinae,,,,,Syrphidae,Sericomyiinae,Arctophila,,Syrphidae | Sericomyiinae,,9026378
+B237:1:260,Arctophila fulva Harris,Harris,Arctophila,,fulva,,species,,B237:1,accepted,,,B237:1:259,Arctophila Schiner,,,,,Syrphidae,Sericomyiinae,Arctophila,,Syrphidae | Sericomyiinae | Arctophila,,6098371
+B237:1:261,Arctophila mussitans Fabricius,Fabricius,Arctophila,,mussitans,,species,,B237:1,synonym,B237:1:260,Arctophila fulva Harris,,,,,,,Syrphidae,Sericomyiinae,Arctophila,,Syrphidae | Sericomyiinae | Arctophila,,6098370
 B237:1:262,Eristalinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Eristalinae,,,Syrphidae,8MPMV,
-B237:1:263,Eristalis,,,,,,genus,,B237:1,accepted,,,B237:1:262,Eristalinae,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae,87FWS,1491190
-B237:1:264,Eristalis sepulchralis,,Eristalis,,sepulchralis,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,8134424
-B237:1:265,Eristalis aeneus,,Eristalis,,aeneus,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,7635166
-B237:1:266,Eristalis cryptarum,,Eristalis,,cryptarum,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,3B7NX,1541325
-B237:1:267,Eristalis pertinax,,Eristalis,,pertinax,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,1541116
-B237:1:268,Eristalis intricarius,,Eristalis,,intricarius,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,1541262
-B237:1:269,Eristalis intricarius var. furvus,,Eristalis,,intricarius,furvus,variety,,B237:1,accepted,,,B237:1:268,Eristalis intricarius,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis | Eristalis intricarius,88RYJ,1541267
-B237:1:270,Eristalis tenax,,Eristalis,,tenax,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,3B7X4,1541217
-B237:1:271,Eristalis abusivus,,Eristalis,,abusivus,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,88RW6,1541164
-B237:1:272,Eristalis lyra,,Eristalis,,lyra,,species,,B237:1,synonym,B237:1:271,Eristalis abusivus,,,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,11308633
-B237:1:273,Eristalis arbustorum,,Eristalis,,arbustorum,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,1541146
-B237:1:274,Eristalis horticola,,Eristalis,,horticola,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,6098381
-B237:1:275,Eristalis nemorum,,Eristalis,,nemorum,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,6098383
-B237:1:276,Eristalis rupium,,Eristalis,,rupium,,species,,B237:1,accepted,,,B237:1:263,Eristalis,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,887MG,1541339
-B237:1:277,Merodon,,,,,,genus,,B237:1,accepted,,,B237:1:262,Eristalinae,,,,,Syrphidae,Eristalinae,Merodon,,Syrphidae | Eristalinae,87HC8,1544143
-B237:1:278,Lampetia,,,,,,genus,,B237:1,synonym,B237:1:277,Merodon,,,,,,,Syrphidae,Eristalinae,Lampetia,,Syrphidae | Eristalinae,,
-B237:1:279,Merodon equestris,,Merodon,,equestris,,species,,B237:1,accepted,,,B237:1:277,Merodon,,,,,Syrphidae,Eristalinae,Merodon,,Syrphidae | Eristalinae | Merodon,8CSYW,1544340
-B237:1:280,Merodon equestris var. validus,,Merodon,,equestris,validus,variety,,B237:1,accepted,,,B237:1:279,Merodon equestris,,,,,Syrphidae,Eristalinae,Merodon,,Syrphidae | Eristalinae | Merodon | Merodon equestris,,11228358
-B237:1:281,Merodon equestris var. narcissi,,Merodon,,equestris,narcissi,variety,,B237:1,accepted,,,B237:1:279,Merodon equestris,,,,,Syrphidae,Eristalinae,Merodon,,Syrphidae | Eristalinae | Merodon | Merodon equestris,,11340129
-B237:1:282,Merodon equestris var. transversalis,,Merodon,,equestris,transversalis,variety,,B237:1,accepted,,,B237:1:279,Merodon equestris,,,,,Syrphidae,Eristalinae,Merodon,,Syrphidae | Eristalinae | Merodon | Merodon equestris,,11282328
-B237:1:283,Myiatropa,,,,,,genus,,B237:1,accepted,,,B237:1:262,Eristalinae,,,,,Syrphidae,Eristalinae,Myiatropa,,Syrphidae | Eristalinae,,5072194
-B237:1:284,Myiatropa florea,,Myiatropa,,florea,,species,,B237:1,accepted,,,B237:1:283,Myiatropa,,,,,Syrphidae,Eristalinae,Myiatropa,,Syrphidae | Eristalinae | Myiatropa,,5072194
-B237:1:285,Helophilus,,,,,,genus,,B237:1,accepted,,,B237:1:262,Eristalinae,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae,87GD9,6007034
-B237:1:286,Helophilus vittatus,,Helophilus,,vittatus,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,,11241883
-B237:1:287,Helophilus trivittatus,,Helophilus,,trivittatus,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,8C9WZ,5071382
-B237:1:288,Helophilus parallelus,,Helophilus,,parallelus,,species,,B237:1,synonym,B237:1:287,Helophilus trivittatus,,,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,,6098361
-B237:1:289,Helophilus pendulus,,Helophilus,,pendulus,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,8C9WX,5071352
-B237:1:290,Helophilus hybridus,,Helophilus,,hybridus,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,8C9WN,5071368
-B237:1:291,Helophilus groenlandicus,,Helophilus,,groenlandicus,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,8C9WM,5071362
-B237:1:292,Helophilus frutetorum,,Helophilus,,frutetorum,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,87GD9,6007034
-B237:1:293,Helophilus versicolor,,Helophilus,,versicolor,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,87GD9,6007034
-B237:1:294,Helophilus consimilis,,Helophilus,,consimilis,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,8C9XS,5071496
-B237:1:295,Helophilus lineatus,,Helophilus,,lineatus,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,87GD9,6007034
-B237:1:296,Helophilus lunulatus,,Helophilus,,lunulatus,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,88C2Z,5071279
-B237:1:297,Helophilus transfugus,,Helophilus,,transfugus,,species,,B237:1,accepted,,,B237:1:285,Helophilus,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,87GD9,6007034
-B237:1:298,Mallota,,,,,,genus,,B237:1,accepted,,,B237:1:262,Eristalinae,,,,,Syrphidae,Eristalinae,Mallota,,Syrphidae | Eristalinae,5KN7,1541361
-B237:1:299,Mallota cimbiciformis,,Mallota,,cimbiciformis,,species,,B237:1,accepted,,,B237:1:298,Mallota,,,,,Syrphidae,Eristalinae,Mallota,,Syrphidae | Eristalinae | Mallota,3XPQT,1541364
+B237:1:263,Eristalis Latreille,Latreille,,,,,genus,,B237:1,accepted,,,B237:1:262,Eristalinae,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae,87FWS,1491190
+B237:1:264,Eristalis sepulchralis Linnaeus,Linnaeus,Eristalis,,sepulchralis,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,8134424
+B237:1:265,Eristalis aeneus Scopoli,Scopoli,Eristalis,,aeneus,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,7635166
+B237:1:266,Eristalis cryptarum Fabricius,Fabricius,Eristalis,,cryptarum,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,3B7NX,1541325
+B237:1:267,Eristalis pertinax Scopoli,Scopoli,Eristalis,,pertinax,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,1541116
+B237:1:268,Eristalis intricarius Linnaeus,Linnaeus,Eristalis,,intricarius,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,1541262
+B237:1:269,Eristalis intricarius var. furvus Verrall,Verrall,Eristalis,,intricarius,furvus,variety,,B237:1,accepted,,,B237:1:268,Eristalis intricarius Linnaeus,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis | Eristalis intricarius,88RYJ,1541267
+B237:1:270,Eristalis tenax Linnaeus,Linnaeus,Eristalis,,tenax,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,3B7X4,1541217
+B237:1:271,Eristalis abusivus Collin,Collin,Eristalis,,abusivus,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,88RW6,1541164
+B237:1:272,Eristalis lyra Harris,Harris,Eristalis,,lyra,,species,,B237:1,synonym,B237:1:271,Eristalis abusivus Collin,,,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,11308633
+B237:1:273,Eristalis arbustorum Linnaeus,Linnaeus,Eristalis,,arbustorum,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,1541146
+B237:1:274,Eristalis horticola Degeer,Degeer,Eristalis,,horticola,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,6098381
+B237:1:275,Eristalis nemorum Linnaeus,Linnaeus,Eristalis,,nemorum,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,,6098383
+B237:1:276,Eristalis rupium Fabricius,Fabricius,Eristalis,,rupium,,species,,B237:1,accepted,,,B237:1:263,Eristalis Latreille,,,,,Syrphidae,Eristalinae,Eristalis,,Syrphidae | Eristalinae | Eristalis,887MG,1541339
+B237:1:277,Merodon Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:262,Eristalinae,,,,,Syrphidae,Eristalinae,Merodon,,Syrphidae | Eristalinae,87HC8,1544143
+B237:1:278,Lampetia Meigen,Meigen,,,,,genus,,B237:1,synonym,B237:1:277,Merodon Meigen,,,,,,,Syrphidae,Eristalinae,Lampetia,,Syrphidae | Eristalinae,,1540898
+B237:1:279,Merodon equestris Fabricius,Fabricius,Merodon,,equestris,,species,,B237:1,accepted,,,B237:1:277,Merodon Meigen,,,,,Syrphidae,Eristalinae,Merodon,,Syrphidae | Eristalinae | Merodon,8CSYW,1544340
+B237:1:280,Merodon equestris var. validus Meigen,Meigen,Merodon,,equestris,validus,variety,,B237:1,accepted,,,B237:1:279,Merodon equestris Fabricius,,,,,Syrphidae,Eristalinae,Merodon,,Syrphidae | Eristalinae | Merodon | Merodon equestris,,11228358
+B237:1:281,Merodon equestris var. narcissi Fabricius,Fabricius,Merodon,,equestris,narcissi,variety,,B237:1,accepted,,,B237:1:279,Merodon equestris Fabricius,,,,,Syrphidae,Eristalinae,Merodon,,Syrphidae | Eristalinae | Merodon | Merodon equestris,,11340129
+B237:1:282,Merodon equestris var. transversalis Meigen,Meigen,Merodon,,equestris,transversalis,variety,,B237:1,accepted,,,B237:1:279,Merodon equestris Fabricius,,,,,Syrphidae,Eristalinae,Merodon,,Syrphidae | Eristalinae | Merodon | Merodon equestris,,11282328
+B237:1:283,Myiatropa Rondani,Rondani,,,,,genus,,B237:1,accepted,,,B237:1:262,Eristalinae,,,,,Syrphidae,Eristalinae,Myiatropa,,Syrphidae | Eristalinae,,5072194
+B237:1:284,Myiatropa florea Linnaeus,Linnaeus,Myiatropa,,florea,,species,,B237:1,accepted,,,B237:1:283,Myiatropa Rondani,,,,,Syrphidae,Eristalinae,Myiatropa,,Syrphidae | Eristalinae | Myiatropa,,5072194
+B237:1:285,Helophilus Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:262,Eristalinae,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae,87GD9,6007034
+B237:1:286,Helophilus vittatus Meigen,Meigen,Helophilus,,vittatus,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,,11241883
+B237:1:287,Helophilus trivittatus Fabricius,Fabricius,Helophilus,,trivittatus,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,8C9WZ,5071382
+B237:1:288,Helophilus parallelus Harris,Harris,Helophilus,,parallelus,,species,,B237:1,synonym,B237:1:287,Helophilus trivittatus Fabricius,,,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,,6098361
+B237:1:289,Helophilus pendulus Linnaeus,Linnaeus,Helophilus,,pendulus,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,8C9WX,5071352
+B237:1:290,Helophilus hybridus Loew,Loew,Helophilus,,hybridus,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,8C9WN,5071368
+B237:1:291,Helophilus groenlandicus Fabricius,Fabricius,Helophilus,,groenlandicus,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,8C9WM,5071362
+B237:1:292,Helophilus frutetorum Fabricius,Fabricius,Helophilus,,frutetorum,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,87GD9,
+B237:1:293,Helophilus versicolor Fabricius,Fabricius,Helophilus,,versicolor,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,87GD9,
+B237:1:294,Helophilus consimilis Malm,Malm,Helophilus,,consimilis,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,8C9XS,5071496
+B237:1:295,Helophilus lineatus Fabricius,Fabricius,Helophilus,,lineatus,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,87GD9,
+B237:1:296,Helophilus lunulatus Meigen,Meigen,Helophilus,,lunulatus,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,88C2Z,5071279
+B237:1:297,Helophilus transfugus Linnaeus,Linnaeus,Helophilus,,transfugus,,species,,B237:1,accepted,,,B237:1:285,Helophilus Meigen,,,,,Syrphidae,Eristalinae,Helophilus,,Syrphidae | Eristalinae | Helophilus,87GD9,6007034
+B237:1:298,Mallota Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:262,Eristalinae,,,,,Syrphidae,Eristalinae,Mallota,,Syrphidae | Eristalinae,5KN7,1541361
+B237:1:299,Mallota cimbiciformis Fallén,Fallén,Mallota,,cimbiciformis,,species,,B237:1,accepted,,,B237:1:298,Mallota Meigen,,,,,Syrphidae,Eristalinae,Mallota,,Syrphidae | Eristalinae | Mallota,3XPQT,1541364
 B237:1:300,Xylotinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Xylotinae,,,Syrphidae,,
-B237:1:301,Tropidia,,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Tropidia,,Syrphidae | Xylotinae,,
-B237:1:302,Tropidia scita,,Tropidia,,scita,,species,,B237:1,accepted,,,B237:1:301,Tropidia,,,,,Syrphidae,Xylotinae,Tropidia,,Syrphidae | Xylotinae | Tropidia,8FJS8,1542175
-B237:1:303,Syritta,,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Syritta,,Syrphidae | Xylotinae,63TFG,1544405
-B237:1:304,Syritta pipiens,,Syritta,,pipiens,,species,,B237:1,accepted,,,B237:1:303,Syritta,,,,,Syrphidae,Xylotinae,Syritta,,Syrphidae | Xylotinae | Syritta,542RH,1544431
-B237:1:305,Pocota,,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Pocota,,Syrphidae | Xylotinae,63NK5,1533099
-B237:1:306,Pocota personata,,Pocota,,personata,,species,,B237:1,accepted,,,B237:1:305,Pocota,,,,,Syrphidae,Xylotinae,Pocota,,Syrphidae | Xylotinae | Pocota,4KNKL,1533100
-B237:1:307,Cynorrhina,,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Cynorrhina,,Syrphidae | Xylotinae,,1544141
-B237:1:308,Blera,,,,,,genus,,B237:1,synonym,B237:1:307,Cynorrhina,,,,,,,Syrphidae,Xylotinae,Blera,,Syrphidae | Xylotinae,62HMZ,1536144
-B237:1:309,Cynorrhina fallax,,Cynorrhina,,fallax,,species,,B237:1,accepted,,,B237:1:307,Cynorrhina,,,,,Syrphidae,Xylotinae,Cynorrhina,,Syrphidae | Xylotinae | Cynorrhina,,1544141
-B237:1:310,Calliprobola,,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Calliprobola,,Syrphidae | Xylotinae,,1542206
-B237:1:311,Calliprobola speciosa,,Calliprobola,,speciosa,,species,,B237:1,accepted,,,B237:1:310,Calliprobola,,,,,Syrphidae,Xylotinae,Calliprobola,,Syrphidae | Xylotinae | Calliprobola,PKSD,1533005
-B237:1:312,Xylota,,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae,89LD,1541512
-B237:1:313,Xylota lenta,,Xylota,,lenta,,species,,B237:1,accepted,,,B237:1:312,Xylota,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,8FNFG,1541550
-B237:1:314,Xylota sylvarum,,Xylota,,sylvarum,,species,,B237:1,accepted,,,B237:1:312,Xylota,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,5CN7P,1541654
-B237:1:315,Xylota xanthocnema,,Xylota,,xanthocnema,,species,,B237:1,accepted,,,B237:1:312,Xylota,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,8FNJW,1541545
-B237:1:316,Xylota segnis,,Xylota,,segnis,,species,,B237:1,accepted,,,B237:1:312,Xylota,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,5CN72,1541562
-B237:1:317,Xylota tarda,,Xylota,,tarda,,species,,B237:1,accepted,,,B237:1:312,Xylota,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,8FNJQ,1541612
-B237:1:318,Xylota nemorum,,Xylota,,nemorum,,species,,B237:1,accepted,,,B237:1:312,Xylota,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,,7863494
-B237:1:319,Xylota florum,,Xylota,,florum,,species,,B237:1,accepted,,,B237:1:312,Xylota,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,8FNHH,1541616
-B237:1:320,Xylota abiens,,Xylota,,abiens,,species,,B237:1,accepted,,,B237:1:312,Xylota,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,8FNGG,10878032
-B237:1:321,Xylota semulatra,,Xylota,,semulatra,,species,,B237:1,synonym,B237:1:320,Xylota abiens,,,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,,11260933
-B237:1:322,Brachypalpus,,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Brachypalpus,,Syrphidae | Xylotinae,3CGL,1529391
-B237:1:323,Brachypalpus bimaculatus,,Brachypalpus,,bimaculatus,,species,,B237:1,accepted,,,B237:1:322,Brachypalpus,,,,,Syrphidae,Xylotinae,Brachypalpus,,Syrphidae | Xylotinae | Brachypalpus,,6098380
-B237:1:324,Brachypalpus eunotus,,Brachypalpus,,eunotus,,species,,B237:1,accepted,,,B237:1:322,Brachypalpus,,,,,Syrphidae,Xylotinae,Brachypalpus,,Syrphidae | Xylotinae | Brachypalpus,,4516829
-B237:1:325,Criorhina,,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae,3VWS,7639300
-B237:1:326,Penthesilea,,,,,,genus,,B237:1,synonym,B237:1:325,Criorhina,,,,,,,Syrphidae,Xylotinae,Penthesilea,,Syrphidae | Xylotinae,6KVH,3257649
-B237:1:327,Criorhina ranunculi,,Criorhina,,ranunculi,,species,,B237:1,accepted,,,B237:1:325,Criorhina,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae | Criorhina,ZHK9,5071002
-B237:1:328,Criorhina asilica,,Criorhina,,asilica,,species,,B237:1,accepted,,,B237:1:325,Criorhina,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae | Criorhina,ZHHY,5071001
-B237:1:329,Criorhina floccosa,,Criorhina,,floccosa,,species,,B237:1,accepted,,,B237:1:325,Criorhina,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae | Criorhina,ZHJF,5071031
-B237:1:330,Criorhina berberina,,Criorhina,,berberina,,species,,B237:1,accepted,,,B237:1:325,Criorhina,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae | Criorhina,ZHJ3,5070993
-B237:1:331,Criorhina berberina var. oxyacanthae,,Criorhina,,berberina,oxyacanthae,variety,,B237:1,accepted,,,B237:1:330,Criorhina berberina,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae | Criorhina | Criorhina berberina,,11293770
+B237:1:301,Tropidia Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Tropidia,,Syrphidae | Xylotinae,,1542171
+B237:1:302,Tropidia scita Harris,Harris,Tropidia,,scita,,species,,B237:1,accepted,,,B237:1:301,Tropidia Meigen,,,,,Syrphidae,Xylotinae,Tropidia,,Syrphidae | Xylotinae | Tropidia,8FJS8,1542175
+B237:1:303,Syritta St.,St.,,,,,genus,Fargeau and Serville,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Syritta,,Syrphidae | Xylotinae,63TFG,1544405
+B237:1:304,Syritta pipiens Linnaeus,Linnaeus,Syritta,,pipiens,,species,,B237:1,accepted,,,B237:1:303,Syritta St.,,,,,Syrphidae,Xylotinae,Syritta,,Syrphidae | Xylotinae | Syritta,542RH,1544431
+B237:1:305,Pocota St.,St.,,,,,genus,Fargeau and Serville,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Pocota,,Syrphidae | Xylotinae,63NK5,1533099
+B237:1:306,Pocota personata Harris,Harris,Pocota,,personata,,species,,B237:1,accepted,,,B237:1:305,Pocota St.,,,,,Syrphidae,Xylotinae,Pocota,,Syrphidae | Xylotinae | Pocota,4KNKL,1533100
+B237:1:307,Cynorrhina Williston,Williston,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Cynorrhina,,Syrphidae | Xylotinae,,1544141
+B237:1:308,Blera Billberg,Billberg,,,,,genus,,B237:1,synonym,B237:1:307,Cynorrhina Williston,,,,,,,Syrphidae,Xylotinae,Blera,,Syrphidae | Xylotinae,62HMZ,1536144
+B237:1:309,Cynorrhina fallax Linnaeus,Linnaeus,Cynorrhina,,fallax,,species,,B237:1,accepted,,,B237:1:307,Cynorrhina Williston,,,,,Syrphidae,Xylotinae,Cynorrhina,,Syrphidae | Xylotinae | Cynorrhina,,1544141
+B237:1:310,Calliprobola Rondani,Rondani,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Calliprobola,,Syrphidae | Xylotinae,,1542206
+B237:1:311,Calliprobola speciosa Rossi,Rossi,Calliprobola,,speciosa,,species,,B237:1,accepted,,,B237:1:310,Calliprobola Rondani,,,,,Syrphidae,Xylotinae,Calliprobola,,Syrphidae | Xylotinae | Calliprobola,PKSD,1533005
+B237:1:312,Xylota Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae,89LD,1541512
+B237:1:313,Xylota lenta Meigen,Meigen,Xylota,,lenta,,species,,B237:1,accepted,,,B237:1:312,Xylota Meigen,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,8FNFG,1541550
+B237:1:314,Xylota sylvarum Linnaeus,Linnaeus,Xylota,,sylvarum,,species,,B237:1,accepted,,,B237:1:312,Xylota Meigen,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,5CN7P,1541654
+B237:1:315,Xylota xanthocnema Collin,Collin,Xylota,,xanthocnema,,species,,B237:1,accepted,,,B237:1:312,Xylota Meigen,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,8FNJW,1541545
+B237:1:316,Xylota segnis Linnaeus,Linnaeus,Xylota,,segnis,,species,,B237:1,accepted,,,B237:1:312,Xylota Meigen,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,5CN72,1541562
+B237:1:317,Xylota tarda Meigen,Meigen,Xylota,,tarda,,species,,B237:1,accepted,,,B237:1:312,Xylota Meigen,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,8FNJQ,1541612
+B237:1:318,Xylota nemorum Fabricius,Fabricius,Xylota,,nemorum,,species,,B237:1,accepted,,,B237:1:312,Xylota Meigen,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,,7863494
+B237:1:319,Xylota florum Fabricius,Fabricius,Xylota,,florum,,species,,B237:1,accepted,,,B237:1:312,Xylota Meigen,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,8FNHJ,11408474
+B237:1:320,Xylota abiens Meigen,Meigen,Xylota,,abiens,,species,,B237:1,accepted,,,B237:1:312,Xylota Meigen,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,8FNGG,10878032
+B237:1:321,Xylota semulatra Harris,Harris,Xylota,,semulatra,,species,,B237:1,synonym,B237:1:320,Xylota abiens Meigen,,,,,,,Syrphidae,Xylotinae,Xylota,,Syrphidae | Xylotinae | Xylota,,11260933
+B237:1:322,Brachypalpus Macquart,Macquart,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Brachypalpus,,Syrphidae | Xylotinae,3CGL,1529391
+B237:1:323,Brachypalpus bimaculatus Macquart,Macquart,Brachypalpus,,bimaculatus,,species,,B237:1,accepted,,,B237:1:322,Brachypalpus Macquart,,,,,Syrphidae,Xylotinae,Brachypalpus,,Syrphidae | Xylotinae | Brachypalpus,,6098380
+B237:1:324,Brachypalpus eunotus Loew,Loew,Brachypalpus,,eunotus,,species,,B237:1,accepted,,,B237:1:322,Brachypalpus Macquart,,,,,Syrphidae,Xylotinae,Brachypalpus,,Syrphidae | Xylotinae | Brachypalpus,,4516829
+B237:1:325,Criorhina Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:300,Xylotinae,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae,3VWS,5070963
+B237:1:326,Penthesilea Meigen,Meigen,,,,,genus,,B237:1,synonym,B237:1:325,Criorhina Meigen,,,,,,,Syrphidae,Xylotinae,Penthesilea,,Syrphidae | Xylotinae,6KVH,1542986
+B237:1:327,Criorhina ranunculi Panzer,Panzer,Criorhina,,ranunculi,,species,,B237:1,accepted,,,B237:1:325,Criorhina Meigen,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae | Criorhina,ZHK9,5071002
+B237:1:328,Criorhina asilica Fallén,Fallén,Criorhina,,asilica,,species,,B237:1,accepted,,,B237:1:325,Criorhina Meigen,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae | Criorhina,ZHHY,5071001
+B237:1:329,Criorhina floccosa Meigen,Meigen,Criorhina,,floccosa,,species,,B237:1,accepted,,,B237:1:325,Criorhina Meigen,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae | Criorhina,ZHJF,5071031
+B237:1:330,Criorhina berberina Fabricius,Fabricius,Criorhina,,berberina,,species,,B237:1,accepted,,,B237:1:325,Criorhina Meigen,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae | Criorhina,ZHJ3,5070993
+B237:1:331,Criorhina berberina var. oxyacanthae Meigen,Meigen,Criorhina,,berberina,oxyacanthae,variety,,B237:1,accepted,,,B237:1:330,Criorhina berberina Fabricius,,,,,Syrphidae,Xylotinae,Criorhina,,Syrphidae | Xylotinae | Criorhina | Criorhina berberina,,11293770
 B237:1:332,Callicerinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Callicerinae,,,Syrphidae,,
-B237:1:333,Callicera,,,,,,genus,,B237:1,accepted,,,B237:1:332,Callicerinae,,,,,Syrphidae,Callicerinae,Callicera,,Syrphidae | Callicerinae,3FCY,1533540
-B237:1:334,Callicera rufa,,Callicera,,rufa,,species,,B237:1,accepted,,,B237:1:333,Callicera,,,,,Syrphidae,Callicerinae,Callicera,,Syrphidae | Callicerinae | Callicera,PMNH,5070391
-B237:1:335,Callicera spinolae,,Callicera,,spinolae,,species,,B237:1,accepted,,,B237:1:333,Callicera,,,,,Syrphidae,Callicerinae,Callicera,,Syrphidae | Callicerinae | Callicera,PMNK,5070407
-B237:1:336,Callicera aenea,,Callicera,,aenea,,species,,B237:1,accepted,,,B237:1:333,Callicera,,,,,Syrphidae,Callicerinae,Callicera,,Syrphidae | Callicerinae | Callicera,68VT2,5070396
+B237:1:333,Callicera Panzer,Panzer,,,,,genus,,B237:1,accepted,,,B237:1:332,Callicerinae,,,,,Syrphidae,Callicerinae,Callicera,,Syrphidae | Callicerinae,3FCY,1533540
+B237:1:334,Callicera rufa Schummel,Schummel,Callicera,,rufa,,species,,B237:1,accepted,,,B237:1:333,Callicera Panzer,,,,,Syrphidae,Callicerinae,Callicera,,Syrphidae | Callicerinae | Callicera,PMNH,5070391
+B237:1:335,Callicera spinolae Rondani,Rondani,Callicera,,spinolae,,species,,B237:1,accepted,,,B237:1:333,Callicera Panzer,,,,,Syrphidae,Callicerinae,Callicera,,Syrphidae | Callicerinae | Callicera,PMNK,5070407
+B237:1:336,Callicera aenea Fabricius,Fabricius,Callicera,,aenea,,species,,B237:1,accepted,,,B237:1:333,Callicera Panzer,,,,,Syrphidae,Callicerinae,Callicera,,Syrphidae | Callicerinae | Callicera,68VT2,5070396
 B237:1:337,Pelecocerinae,,,,,,subfamily,,B237:1,accepted,,,B237:1:1,Syrphidae,,,,,Syrphidae,Pelecocerinae,,,Syrphidae,,
-B237:1:338,Pelecocera,,,,,,genus,,B237:1,accepted,,,B237:1:337,Pelecocerinae,,,,,Syrphidae,Pelecocerinae,Pelecocera,,Syrphidae | Pelecocerinae,6K82,1537579
-B237:1:339,Pelecocera tricinta,,Pelecocera,,tricinta,,species,,B237:1,accepted,,,B237:1:338,Pelecocera,,,,,Syrphidae,Pelecocerinae,Pelecocera,,Syrphidae | Pelecocerinae | Pelecocera,75Z8X,1537582
-B237:1:340,Chamaesyrphus,,,,,,genus,,B237:1,accepted,,,B237:1:337,Pelecocerinae,,,,,Syrphidae,Pelecocerinae,Chamaesyrphus,,Syrphidae | Pelecocerinae,87DXS,1539243
-B237:1:341,Chamaesyrphus scaevoides,,Chamaesyrphus,,scaevoides,,species,,B237:1,accepted,,,B237:1:340,Chamaesyrphus,,,,,Syrphidae,Pelecocerinae,Chamaesyrphus,,Syrphidae | Pelecocerinae | Chamaesyrphus,8BFQ6,4516740
-B237:1:342,Chamaesyrphus caledonicus,,Chamaesyrphus,,caledonicus,,species,,B237:1,accepted,,,B237:1:340,Chamaesyrphus,,,,,Syrphidae,Pelecocerinae,Chamaesyrphus,,Syrphidae | Pelecocerinae | Chamaesyrphus,888LT,1537581
+B237:1:338,Pelecocera Meigen,Meigen,,,,,genus,,B237:1,accepted,,,B237:1:337,Pelecocerinae,,,,,Syrphidae,Pelecocerinae,Pelecocera,,Syrphidae | Pelecocerinae,6K82,1537579
+B237:1:339,Pelecocera tricinta Meigen,Meigen,Pelecocera,,tricinta,,species,,B237:1,accepted,,,B237:1:338,Pelecocera Meigen,,,,,Syrphidae,Pelecocerinae,Pelecocera,,Syrphidae | Pelecocerinae | Pelecocera,75Z8X,1537582
+B237:1:340,Chamaesyrphus Mik,Mik,,,,,genus,,B237:1,accepted,,,B237:1:337,Pelecocerinae,,,,,Syrphidae,Pelecocerinae,Chamaesyrphus,,Syrphidae | Pelecocerinae,87DXS,1539243
+B237:1:341,Chamaesyrphus scaevoides Fallén,Fallén,Chamaesyrphus,,scaevoides,,species,,B237:1,accepted,,,B237:1:340,Chamaesyrphus Mik,,,,,Syrphidae,Pelecocerinae,Chamaesyrphus,,Syrphidae | Pelecocerinae | Chamaesyrphus,8BFQ6,4516740
+B237:1:342,Chamaesyrphus caledonicus Collin,Collin,Chamaesyrphus,,caledonicus,,species,,B237:1,accepted,,,B237:1:340,Chamaesyrphus Mik,,,,,Syrphidae,Pelecocerinae,Chamaesyrphus,,Syrphidae | Pelecocerinae | Chamaesyrphus,888LT,1537581

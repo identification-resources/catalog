@@ -1,15 +1,15 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B187:15:1,Meloidae,,,,,,family,,B187:15,accepted,,,,,,,,,Melöidae,,,,,624LC,4742
-B187:15:2,Lytta,,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Melöidae,,Lytta,,Meloidae,5HX6,1046543
-B187:15:3,Lytta vesicatoria,,Lytta,,vesicatoria,,species,,B187:15,accepted,,,B187:15:2,Lytta,,,,,Melöidae,,Lytta,,Meloidae | Lytta,,1046592
-B187:15:4,Apalus,,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Melöidae,,Apalus,,Meloidae,,9097944
-B187:15:5,Sitaris,,,,,,genus,,B187:15,synonym,B187:15:4,Apalus,,,,,,,Melöidae,,Sitaris,,Meloidae,,8967425
-B187:15:6,Apalus muralis,,Apalus,,muralis,,species,,B187:15,accepted,,,B187:15:4,Apalus,,,,,Melöidae,,Apalus,,Meloidae | Apalus,,11298795
-B187:15:7,Meloe,,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Melöidae,,Melöe,,Meloidae,62YT9,1046316
-B187:15:8,Melöe autumnalis,,Melöe,,autumnalis,,species,,B187:15,accepted,,,B187:15:7,Meloe,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457519
-B187:15:9,Melöe violaceus,,Melöe,,violaceus,,species,,B187:15,accepted,,,B187:15:7,Meloe,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457477
-B187:15:10,Melöe proscarabeus,,Melöe,,proscarabeus,,species,,B187:15,accepted,,,B187:15:7,Meloe,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,
-B187:15:11,Melöe rugosus,,Melöe,,rugosus,,species,,B187:15,accepted,,,B187:15:7,Meloe,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457556
-B187:15:12,Melöe brevicollis,,Melöe,,brevicollis,,species,,B187:15,accepted,,,B187:15:7,Meloe,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457545
-B187:15:13,Melöe cicatricosus,,Melöe,,cicatricosus,,species,,B187:15,accepted,,,B187:15:7,Meloe,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457570
-B187:15:14,Melöe variegatus,,Melöe,,variegatus,,species,,B187:15,accepted,,,B187:15:7,Meloe,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457509
+B187:15:2,Lytta Fabricius,Fabricius,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Melöidae,,Lytta,,Meloidae,5HX6,1046543
+B187:15:3,Lytta vesicatoria (Linnaeus),(Linnaeus),Lytta,,vesicatoria,,species,,B187:15,accepted,,,B187:15:2,Lytta Fabricius,,,,,Melöidae,,Lytta,,Meloidae | Lytta,,1046592
+B187:15:4,Apalus Fabricius,Fabricius,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Melöidae,,Apalus,,Meloidae,,9097944
+B187:15:5,Sitaris Latreille,Latreille,,,,,genus,,B187:15,synonym,B187:15:4,Apalus Fabricius,,,,,,,Melöidae,,Sitaris,,Meloidae,,8967425
+B187:15:6,Apalus muralis (Forster),(Forster),Apalus,,muralis,,species,,B187:15,accepted,,,B187:15:4,Apalus Fabricius,,,,,Melöidae,,Apalus,,Meloidae | Apalus,,11298795
+B187:15:7,Meloe Linnaeus,Linnaeus,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Melöidae,,Melöe,,Meloidae,62YT9,1046316
+B187:15:8,Melöe autumnalis Olivier,Olivier,Melöe,,autumnalis,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457519
+B187:15:9,Melöe violaceus Marsham,Marsham,Melöe,,violaceus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457477
+B187:15:10,Melöe proscarabeus Linnaeus,Linnaeus,Melöe,,proscarabeus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,
+B187:15:11,Melöe rugosus Marsham,Marsham,Melöe,,rugosus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457556
+B187:15:12,Melöe brevicollis Panzer,Panzer,Melöe,,brevicollis,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457545
+B187:15:13,Melöe cicatricosus Leach,Leach,Melöe,,cicatricosus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457570
+B187:15:14,Melöe variegatus Donovan,Donovan,Melöe,,variegatus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Melöidae,,Melöe,,Meloidae | Meloe,,4457509

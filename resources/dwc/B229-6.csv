@@ -1,33 +1,33 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B229:6:1,Culicidae,,,,,,family,,B229:6,accepted,,,,,,,,,Culicidae,,,,,8SG,3346
 B229:6:2,Dixinae,,,,,,subfamily,,B229:6,accepted,,,B229:6:1,Culicidae,,,,,Culicidae,Dixinae,,,Culicidae,,
-B229:6:4,Dixa,,,,,,subgenus,,B229:6,accepted,,,B229:6:3,Dixa,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa,87FNN,
-B229:6:4,Dixa,,,,,,subgenus,,B229:6,accepted,,,B229:6:3,Dixa,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa,87FNN,
-B229:6:5,Dixa nebulosa,,Dixa,,nebulosa,,species,,B229:6,accepted,,,B229:6:4,Dixa,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,3722J,1569644
-B229:6:6,Dixa nubilipennis,,Dixa,,nubilipennis,,species,,B229:6,accepted,,,B229:6:4,Dixa,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,3722R,1569618
-B229:6:7,Dixa puberula,,Dixa,,puberula,,species,,B229:6,accepted,,,B229:6:4,Dixa,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,37238,1569560
-B229:6:8,Dixa dilatata,,Dixa,,dilatata,,species,,B229:6,accepted,,,B229:6:4,Dixa,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,6DBP6,1569597
-B229:6:9,Dixa maculata,,Dixa,,maculata,,species,,B229:6,accepted,,,B229:6:4,Dixa,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,37222,1569673
-B229:6:10,Dixa submaculata,,Dixa,,submaculata,,species,,B229:6,accepted,,,B229:6:4,Dixa,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,3723V,1569651
-B229:6:11,Paradixa,,,,,,subgenus,,B229:6,accepted,,,B229:6:3,Dixa,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa,,
-B229:6:12,Dixa filicornis,,Dixa,,filicornis,,species,,B229:6,accepted,,,B229:6:11,Paradixa,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTFF,1569791
-B229:6:13,Dixa obscura,,Dixa,,obscura,,species,,B229:6,accepted,,,B229:6:11,Paradixa,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTG6,1569768
-B229:6:14,Dixa serotina,,Dixa,,serotina,,species,,B229:6,accepted,,,B229:6:11,Paradixa,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTGF,10682708
-B229:6:15,Dixa autumnalis,,Dixa,,autumnalis,,species,,B229:6,accepted,,,B229:6:11,Paradixa,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTF5,1569725
-B229:6:16,Dixa aestivalis,,Dixa,,aestivalis,,species,,B229:6,accepted,,,B229:6:11,Paradixa,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTDY,1569765
-B229:6:17,Dixa martinii,,Dixa,,martinii,,species,,B229:6,accepted,,,B229:6:11,Paradixa,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTFX,1569693
-B229:6:18,Dixa laeta,,Dixa,,laeta,,species,,B229:6,synonym,B229:6:17,Dixa martinii,,,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTFT,1569715
-B229:6:19,Dixa amphibia,,Dixa,,amphibia,,species,,B229:6,accepted,,,B229:6:11,Paradixa,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,,8016801
+B229:6:3,Dixa Meigen,Meigen,,,,,genus,,B229:6,accepted,,,B229:6:2,Dixinae,,,,,Culicidae,Dixinae,Dixa,,Culicidae | Dixinae,87FNN,1569552
+B229:6:4,Dixa Meigen,Meigen,,,,,subgenus,,B229:6,accepted,,,B229:6:3,Dixa Meigen,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa,87FNN,
+B229:6:5,Dixa nebulosa Meigen,Meigen,Dixa,,nebulosa,,species,,B229:6,accepted,,,B229:6:4,Dixa Meigen,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,3722J,1569644
+B229:6:6,Dixa nubilipennis Curtis,Curtis,Dixa,,nubilipennis,,species,,B229:6,accepted,,,B229:6:4,Dixa Meigen,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,3722R,1569618
+B229:6:7,Dixa puberula Loew,Loew,Dixa,,puberula,,species,,B229:6,accepted,,,B229:6:4,Dixa Meigen,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,37238,1569560
+B229:6:8,Dixa dilatata Strobl,Strobl,Dixa,,dilatata,,species,,B229:6,accepted,,,B229:6:4,Dixa Meigen,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,6DBP6,1569597
+B229:6:9,Dixa maculata Meigen,Meigen,Dixa,,maculata,,species,,B229:6,accepted,,,B229:6:4,Dixa Meigen,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,37222,1569673
+B229:6:10,Dixa submaculata Edwards,Edwards,Dixa,,submaculata,,species,,B229:6,accepted,,,B229:6:4,Dixa Meigen,,,,,Culicidae,Dixinae,Dixa,Dixa,Culicidae | Dixinae | Dixa | Dixa,3723V,1569651
+B229:6:11,Paradixa Tonnoir,Tonnoir,,,,,subgenus,,B229:6,accepted,,,B229:6:3,Dixa Meigen,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa,,
+B229:6:12,Dixa filicornis Edwards,Edwards,Dixa,,filicornis,,species,,B229:6,accepted,,,B229:6:11,Paradixa Tonnoir,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTFF,1569791
+B229:6:13,Dixa obscura Loew,Loew,Dixa,,obscura,,species,,B229:6,accepted,,,B229:6:11,Paradixa Tonnoir,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTG6,1569768
+B229:6:14,Dixa serotina Meigen,Meigen,Dixa,,serotina,,species,,B229:6,accepted,,,B229:6:11,Paradixa Tonnoir,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTGF,1569756
+B229:6:15,Dixa autumnalis Meigen,Meigen,Dixa,,autumnalis,,species,,B229:6,accepted,,,B229:6:11,Paradixa Tonnoir,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTF5,1569725
+B229:6:16,Dixa aestivalis Meigen,Meigen,Dixa,,aestivalis,,species,,B229:6,accepted,,,B229:6:11,Paradixa Tonnoir,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTDY,1569765
+B229:6:17,Dixa martinii Peus,Peus,Dixa,,martinii,,species,,B229:6,accepted,,,B229:6:11,Paradixa Tonnoir,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTFX,1569693
+B229:6:18,Dixa laeta Goetghebuer,Goetghebuer,Dixa,,laeta,,species,nec Loew,B229:6,synonym,B229:6:17,Dixa martinii Peus,,,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,8BTFT,1569715
+B229:6:19,Dixa amphibia Degeer,Degeer,Dixa,,amphibia,,species,,B229:6,accepted,,,B229:6:11,Paradixa Tonnoir,,,,,Culicidae,Dixinae,Dixa,Paradixa,Culicidae | Dixinae | Dixa | Paradixa,,8016801
 B229:6:20,Chaoborinae,,,,,,subfamily,,B229:6,accepted,,,B229:6:1,Culicidae,,,,,Culicidae,Chaoborinae,,,Culicidae,,
 B229:6:21,Corethrinae,,,,,,subfamily,,B229:6,synonym,B229:6:20,Chaoborinae,,,,,,,Culicidae,Corethrinae,,,Culicidae,,
-B229:6:22,Mochlonyx,,,,,,genus,,B229:6,accepted,,,B229:6:20,Chaoborinae,,,,,Culicidae,Chaoborinae,Mochlonyx,,Culicidae | Chaoborinae,63BV5,1679472
-B229:6:23,Chaoborus,,,,,,genus,,B229:6,accepted,,,B229:6:20,Chaoborinae,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae,87DXV,1679383
-B229:6:24,Corethra,,,,,,genus,,B229:6,synonym,B229:6:23,Chaoborus,,,,,,,Culicidae,Chaoborinae,Corethra,,Culicidae | Chaoborinae,,1456578
-B229:6:25,Chaoborus culiciformis,,Chaoborus,,culiciformis,,species,,B229:6,accepted,,,B229:6:23,Chaoborus,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,87DXV,1679383
-B229:6:26,Chaoborus martinii,,Chaoborus,,martinii,,species,,B229:6,accepted,,,B229:6:23,Chaoborus,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,87DXV,1679383
-B229:6:27,Chaoborus velutinus,,Chaoborus,,velutinus,,species,,B229:6,synonym,B229:6:26,Chaoborus martinii,,,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,87DXV,1679383
-B229:6:28,Chaoborus pallidus,,Chaoborus,,pallidus,,species,,B229:6,accepted,,,B229:6:23,Chaoborus,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,TM8M,1679462
-B229:6:29,Chaoborus crystallinus,,Chaoborus,,crystallinus,,species,,B229:6,accepted,,,B229:6:23,Chaoborus,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,TM7X,1679430
-B229:6:30,Chaoborus obscuripes,,Chaoborus,,obscuripes,,species,,B229:6,accepted,,,B229:6:23,Chaoborus,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,TM8J,1679427
-B229:6:31,Chaoborus flavicans,,Chaoborus,,flavicans,,species,,B229:6,accepted,,,B229:6:23,Chaoborus,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,TM85,1679392
+B229:6:22,Mochlonyx Loew,Loew,,,,,genus,,B229:6,accepted,,,B229:6:20,Chaoborinae,,,,,Culicidae,Chaoborinae,Mochlonyx,,Culicidae | Chaoborinae,63BV5,1679472
+B229:6:23,Chaoborus Lichtenstein,Lichtenstein,,,,,genus,,B229:6,accepted,,,B229:6:20,Chaoborinae,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae,87DXV,1679383
+B229:6:24,Corethra Meigen,Meigen,,,,,genus,,B229:6,synonym,B229:6:23,Chaoborus Lichtenstein,,,,,,,Culicidae,Chaoborinae,Corethra,,Culicidae | Chaoborinae,,1456578
+B229:6:25,Chaoborus culiciformis Degeer,Degeer,Chaoborus,,culiciformis,,species,,B229:6,accepted,,,B229:6:23,Chaoborus Lichtenstein,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,87DXV,1679383
+B229:6:26,Chaoborus martinii Edwards,Edwards,Chaoborus,,martinii,,species,,B229:6,accepted,,,B229:6:23,Chaoborus Lichtenstein,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,87DXV,1679383
+B229:6:27,Chaoborus velutinus Martini,Martini,Chaoborus,,velutinus,,species,nec Ruthe,B229:6,synonym,B229:6:26,Chaoborus martinii Edwards,,,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,87DXV,1679383
+B229:6:28,Chaoborus pallidus Fabricius,Fabricius,Chaoborus,,pallidus,,species,,B229:6,accepted,,,B229:6:23,Chaoborus Lichtenstein,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,TM8M,1679462
+B229:6:29,Chaoborus crystallinus Degeer,Degeer,Chaoborus,,crystallinus,,species,,B229:6,accepted,,,B229:6:23,Chaoborus Lichtenstein,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,TM7X,1679430
+B229:6:30,Chaoborus obscuripes Van,Van,Chaoborus,,obscuripes,,species,der Wulp,B229:6,accepted,,,B229:6:23,Chaoborus Lichtenstein,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,TM8J,1679427
+B229:6:31,Chaoborus flavicans Meigen,Meigen,Chaoborus,,flavicans,,species,,B229:6,accepted,,,B229:6:23,Chaoborus Lichtenstein,,,,,Culicidae,Chaoborinae,Chaoborus,,Culicidae | Chaoborinae | Chaoborus,TM85,1679392
 B229:6:32,Culicinae,,,,,,subfamily,,B229:6,accepted,,,B229:6:1,Culicidae,,,,,Culicidae,Culicinae,,,Culicidae,87CGC,

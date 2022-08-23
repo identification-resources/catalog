@@ -1,9 +1,9 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B366:5:2,Pseudomedon,,,,,,subgenus,,B366:5,accepted,,,B366:5:1,Pseudomedon,,,,,,,Pseudomedon,Pseudomedon,Pseudomedon,72KR,
-B366:5:2,Pseudomedon,,,,,,subgenus,,B366:5,accepted,,,B366:5:1,Pseudomedon,,,,,,,Pseudomedon,Pseudomedon,Pseudomedon,72KR,
-B366:5:3,Pseudomedon obsoletus,,Pseudomedon,,obsoletus,,species,,B366:5,accepted,,,B366:5:2,Pseudomedon,,,,,,,Pseudomedon,Pseudomedon,Pseudomedon | Pseudomedon,4P2SK,4439754
-B366:5:4,Lathrobium obsoletum,,Lathrobium,,obsoletum,,species,,B366:5,synonym,B366:5:3,Pseudomedon obsoletus,,,,,,,,,Pseudomedon,Pseudomedon,Pseudomedon | Pseudomedon,3SK82,4439756
-B366:5:5,Pseudomedon obscurellus,,Pseudomedon,,obscurellus,,species,,B366:5,accepted,,,B366:5:2,Pseudomedon,,,,,,,Pseudomedon,Pseudomedon,Pseudomedon | Pseudomedon,4P2SJ,4439752
-B366:5:6,Lithocharis obscurella,,Lithocharis,,obscurella,,species,,B366:5,synonym,B366:5:5,Pseudomedon obscurellus,,,,,,,,,Pseudomedon,Pseudomedon,Pseudomedon | Pseudomedon,3VKCL,4439753
-B366:5:7,Euphonus,,,,,,subgenus,,B366:5,accepted,,,B366:5:1,Pseudomedon,,,,,,,Pseudomedon,Euphonus,Pseudomedon,,
-B366:5:8,Pseudomedon huetheri,,Pseudomedon,,huetheri,,species,,B366:5,accepted,,,B366:5:7,Euphonus,,,,,,,Pseudomedon,Euphonus,Pseudomedon | Euphonus,4P2SB,4439760
+B366:5:1,"Pseudomedon Mulsant & Rey, 1878","Mulsant & Rey, 1878",,,,,genus,,B366:5,accepted,,,,,,,,,,,Pseudomedon,,,72KR,4439751
+B366:5:2,Pseudomedon s.,s.,,,,,subgenus,str.,B366:5,accepted,,,B366:5:1,"Pseudomedon Mulsant & Rey, 1878",,,,,,,Pseudomedon,Pseudomedon,Pseudomedon,72KR,
+B366:5:3,"Pseudomedon obsoletus (Nordmann, 1837)","(Nordmann, 1837)",Pseudomedon,,obsoletus,,species,,B366:5,accepted,,,B366:5:2,Pseudomedon s.,,,,,,,Pseudomedon,Pseudomedon,Pseudomedon | Pseudomedon,4P2SK,4439754
+B366:5:4,"Lathrobium obsoletum Nordmann, 1837","Nordmann, 1837",Lathrobium,,obsoletum,,species,,B366:5,synonym,B366:5:3,"Pseudomedon obsoletus (Nordmann, 1837)",,,,,,,,,Pseudomedon,Pseudomedon,Pseudomedon | Pseudomedon,3SK82,4439756
+B366:5:5,"Pseudomedon obscurellus (Erichson, 1840)","(Erichson, 1840)",Pseudomedon,,obscurellus,,species,,B366:5,accepted,,,B366:5:2,Pseudomedon s.,,,,,,,Pseudomedon,Pseudomedon,Pseudomedon | Pseudomedon,4P2SJ,4439752
+B366:5:6,"Lithocharis obscurella Erichson, 1840","Erichson, 1840",Lithocharis,,obscurella,,species,,B366:5,synonym,B366:5:5,"Pseudomedon obscurellus (Erichson, 1840)",,,,,,,,,Pseudomedon,Pseudomedon,Pseudomedon | Pseudomedon,3VKCL,4439753
+B366:5:7,"Euphonus Fauvel, 1891","Fauvel, 1891",,,,,subgenus,,B366:5,accepted,,,B366:5:1,"Pseudomedon Mulsant & Rey, 1878",,,,,,,Pseudomedon,Euphonus,Pseudomedon,,
+B366:5:8,"Pseudomedon huetheri Hubenthal, 1927","Hubenthal, 1927",Pseudomedon,,huetheri,,species,,B366:5,accepted,,,B366:5:7,"Euphonus Fauvel, 1891",,,,,,,Pseudomedon,Euphonus,Pseudomedon | Euphonus,4P2SB,4439760

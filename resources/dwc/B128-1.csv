@@ -1,6 +1,6 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B128:1:1,Latridiidae,,,,,,family,,B128:1,accepted,,,,,,,,,Latridiidae,,,,,BT8,7834
-B128:1:33,Latridius,,,,,,genus,,B128:1,synonym,B128:1:32,Stephostethus,,,,,,,Latridiidae,,Latridius,,Latridiidae,,1043934
+B128:1:2,Latridius,,,,,,genus,,B128:1,accepted,,,B128:1:1,Latridiidae,,,,,Latridiidae,,Latridius,,Latridiidae,,1043934
 B128:1:3,Latridius hirtus Gyll.,Gyll.,Latridius,,hirtus,,species,,B128:1,accepted,,,B128:1:2,Latridius,,,,,Latridiidae,,Latridius,,Latridiidae | Latridius,,4451222
 B128:1:4,Latridius consimilis Mannerheim,Mannerheim,Latridius,,consimilis,,species,,B128:1,accepted,,,B128:1:2,Latridius,,,,,Latridiidae,,Latridius,,Latridiidae | Latridius,,4451246
 B128:1:5,Latridius anthracinus Mannerheim,Mannerheim,Latridius,,anthracinus,,species,,B128:1,accepted,,,B128:1:2,Latridius,,,,,Latridiidae,,Latridius,,Latridiidae | Latridius,,6097710
@@ -71,7 +71,7 @@ B128:1:69,Corticaria foveola Beck,Beck,Corticaria,,foveola,,species,,B128:1,acce
 B128:1:70,Corticaria rubripes Mannerheim,Mannerheim,Corticaria,,rubripes,,species,,B128:1,accepted,,,B128:1:49,Corticaria,,,,,Latridiidae,,Corticaria,,Latridiidae | Corticaria,,4450983
 B128:1:71,Corticaria linearis Paykull,Paykull,Corticaria,,linearis,,species,,B128:1,synonym,B128:1:70,Corticaria rubripes Mannerheim,,,,,,,Latridiidae,,Corticaria,,Latridiidae | Corticaria,,6097718
 B128:1:72,Corticaria polypori J.Salhberg,J.Salhberg,Corticaria,,polypori,,species,,B128:1,accepted,,,B128:1:49,Corticaria,,,,,Latridiidae,,Corticaria,,Latridiidae | Corticaria,,4451002
-B128:1:79,Corticaria eppelsheimi Reitt.,Reitt.,Corticaria,,eppelsheimi,,species,,B128:1,synonym,B128:1:78,Corticaria lateritia Mannerheim,,,,,,,Latridiidae,,Corticaria,,Latridiidae | Corticaria,,9824721
+B128:1:73,Corticaria eppelsheimi Reitt.,Reitt.,Corticaria,,eppelsheimi,,species,,B128:1,synonym,B128:1:72,Corticaria polypori J.Salhberg,,,,,,,Latridiidae,,Corticaria,,Latridiidae | Corticaria,,9824721
 B128:1:74,Corticaria alleni Johnson,Johnson,Corticaria,,alleni,,species,,B128:1,accepted,,,B128:1:49,Corticaria,,,,,Latridiidae,,Corticaria,,Latridiidae | Corticaria,,4450860
 B128:1:75,Corticaria longicollis Zetterstedt,Zetterstedt,Corticaria,,longicollis,,species,,B128:1,accepted,,,B128:1:49,Corticaria,,,,,Latridiidae,,Corticaria,,Latridiidae | Corticaria,,4450913
 B128:1:76,Corticaria crenicollis Mannerheim,Mannerheim,Corticaria,,crenicollis,,species,,B128:1,accepted,,,B128:1:49,Corticaria,,,,,Latridiidae,,Corticaria,,Latridiidae | Corticaria,,4450989

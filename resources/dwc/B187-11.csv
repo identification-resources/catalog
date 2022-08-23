@@ -1,8 +1,8 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B187:11:1,Pyrochroidae,,,,,,family,,B187:11,accepted,,,,,,,,,Pyrochroidae,,,,,FGL,4756
-B187:11:2,Pyrochroa,,,,,,genus,,B187:11,accepted,,,B187:11:1,Pyrochroidae,,,,,Pyrochroidae,,Pyrochroa,,Pyrochroidae,,3262768
-B187:11:3,Pyrochroa serraticornis,,Pyrochroa,,serraticornis,,species,,B187:11,accepted,,,B187:11:2,Pyrochroa,,,,,Pyrochroidae,,Pyrochroa,,Pyrochroidae | Pyrochroa,,8843472
-B187:11:4,Pyrochroa coccinea,,Pyrochroa,,coccinea,,species,,B187:11,accepted,,,B187:11:2,Pyrochroa,,,,,Pyrochroidae,,Pyrochroa,,Pyrochroidae | Pyrochroa,,5751237
-B187:11:5,Schizotus,,,,,,genus,,B187:11,accepted,,,B187:11:1,Pyrochroidae,,,,,Pyrochroidae,,Schizotus,,Pyrochroidae,,4404985
-B187:11:6,Pyrochroella,,,,,,genus,,B187:11,synonym,B187:11:5,Schizotus,,,,,,,Pyrochroidae,,Pyrochroella,,Pyrochroidae,,4458627
-B187:11:7,Schizotus pectinicornis,,Schizotus,,pectinicornis,,species,,B187:11,accepted,,,B187:11:5,Schizotus,,,,,Pyrochroidae,,Schizotus,,Pyrochroidae | Schizotus,,4458628
+B187:11:2,Pyrochroa Geoffroy,Geoffroy,,,,,genus,,B187:11,accepted,,,B187:11:1,Pyrochroidae,,,,,Pyrochroidae,,Pyrochroa,,Pyrochroidae,,3262768
+B187:11:3,Pyrochroa serraticornis (Scopoli),(Scopoli),Pyrochroa,,serraticornis,,species,,B187:11,accepted,,,B187:11:2,Pyrochroa Geoffroy,,,,,Pyrochroidae,,Pyrochroa,,Pyrochroidae | Pyrochroa,,8843472
+B187:11:4,Pyrochroa coccinea (Linnaeus),(Linnaeus),Pyrochroa,,coccinea,,species,,B187:11,accepted,,,B187:11:2,Pyrochroa Geoffroy,,,,,Pyrochroidae,,Pyrochroa,,Pyrochroidae | Pyrochroa,,5751237
+B187:11:5,Schizotus Newman,Newman,,,,,genus,,B187:11,accepted,,,B187:11:1,Pyrochroidae,,,,,Pyrochroidae,,Schizotus,,Pyrochroidae,,4404985
+B187:11:6,Pyrochroella Reitter,Reitter,,,,,genus,,B187:11,synonym,B187:11:5,Schizotus Newman,,,,,,,Pyrochroidae,,Pyrochroella,,Pyrochroidae,,4458627
+B187:11:7,Schizotus pectinicornis (Linnaeus),(Linnaeus),Schizotus,,pectinicornis,,species,,B187:11,accepted,,,B187:11:5,Schizotus Newman,,,,,Pyrochroidae,,Schizotus,,Pyrochroidae | Schizotus,,4458628

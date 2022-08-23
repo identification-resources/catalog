@@ -1,30 +1,30 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B366:7:2,Scopaeus,,,,,,subgenus,,B366:7,accepted,,,B366:7:1,Scopaeus,,,,,,,Scopaeus,Scopaeus,Scopaeus,64579,
-B366:7:2,Scopaeus,,,,,,subgenus,,B366:7,accepted,,,B366:7:1,Scopaeus,,,,,,,Scopaeus,Scopaeus,Scopaeus,64579,
-B366:7:3,Scopaeus laevigatus,,Scopaeus,,laevigatus,,species,,B366:7,accepted,,,B366:7:2,Scopaeus,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,79XN2,4438658
-B366:7:4,Paederus laevigatus,,Paederus,,laevigatus,,species,,B366:7,synonym,B366:7:3,Scopaeus laevigatus,,,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,4BXM3,5746352
-B366:7:5,Scopaeus bicolor,,Scopaeus,,bicolor,,species,,B366:7,accepted,,,B366:7:2,Scopaeus,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,6XXNQ,4438719
-B366:7:6,Scopaeus sulcicollis,,Scopaeus,,sulcicollis,,species,,B366:7,accepted,,,B366:7:2,Scopaeus,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,6XXBH,4438714
-B366:7:7,Astenus sulcicollis,,Astenus,,sulcicollis,,species,,B366:7,synonym,B366:7:6,Scopaeus sulcicollis,,,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,HPF6,5746353
-B366:7:8,Scopaeus cognatus,,Scopaeus,,cognatus,,species,,B366:7,synonym,B366:7:6,Scopaeus sulcicollis,,,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,6XXC4,4438716
-B366:7:9,Euscopaeus,,,,,,subgenus,,B366:7,accepted,,,B366:7:1,Scopaeus,,,,,,,Scopaeus,Euscopaeus,Scopaeus,63594,
-B366:7:10,Scopaeus didymus,,Scopaeus,,didymus,,species,,B366:7,accepted,,,B366:7:9,Euscopaeus,,,,,,,Scopaeus,Euscopaeus,Scopaeus | Euscopaeus,79XM7,4438641
-B366:7:11,Scopaeus minutus,,Scopaeus,,minutus,,species,,B366:7,accepted,,,B366:7:9,Euscopaeus,,,,,,,Scopaeus,Euscopaeus,Scopaeus | Euscopaeus,79XMV,4438643
-B366:7:12,Scopaeus pusillus,,Scopaeus,,pusillus,,species,,B366:7,accepted,,,B366:7:9,Euscopaeus,,,,,,,Scopaeus,Euscopaeus,Scopaeus | Euscopaeus,79XB8,4438652
-B366:7:13,Hyposcopaeus,,,,,,subgenus,,B366:7,accepted,,,B366:7:1,Scopaeus,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus,,
-B366:7:21,Scopaeus minimus,,Scopaeus,,minimus,,species,,B366:7,synonym,B366:7:19,Scopaeus ryei,,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6Y9MV,4438680
-B366:7:15,Lathrobium minimum,,Lathrobium,,minimum,,species,,B366:7,synonym,B366:7:14,Scopaeus minimus,,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,3SK6M,4438682
-B366:7:17,Scopaeus scitulus,,Scopaeus,,scitulus,,species,,B366:7,synonym,B366:7:16,Scopaeus scitulus,,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XZ3G,4438664
-B366:7:17,Scopaeus scitulus,,Scopaeus,,scitulus,,species,,B366:7,synonym,B366:7:16,Scopaeus scitulus,,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XZ3G,4438664
-B366:7:18,Scopgeus debilis,,Scopgeus,,debilis,,species,,B366:7,synonym,B366:7:16,Scopaeus scitulus,,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,79XLV,4438644
-B366:7:20,Scopaeus ryei,,Scopaeus,,ryei,,species,,B366:7,synonym,B366:7:19,Scopaeus ryei,,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XXBC,4438708
-B366:7:20,Scopaeus ryei,,Scopaeus,,ryei,,species,,B366:7,synonym,B366:7:19,Scopaeus ryei,,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XXBC,4438708
-B366:7:21,Scopaeus minimus,,Scopaeus,,minimus,,species,,B366:7,synonym,B366:7:19,Scopaeus ryei,,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6Y9MV,4438680
-B366:7:22,Scopaeus jarrigei,,Scopaeus,,jarrigei,,species,,B366:7,synonym,B366:7:19,Scopaeus ryei,,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6Y9NJ,4438709
-B366:7:23,Scopaeus armeniacus,,Scopaeus,,armeniacus,,species,,B366:7,accepted,,,B366:7:13,Hyposcopaeus,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XXKR,4438634
-B366:7:24,Scopaeus furcatus,,Scopaeus,,furcatus,,species,,B366:7,accepted,,,B366:7:13,Hyposcopaeus,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XXND,4438681
-B366:7:25,Heteroscopaeus,,,,,,subgenus,,B366:7,accepted,,,B366:7:1,Scopaeus,,,,,,,Scopaeus,Heteroscopaeus,Scopaeus,,
-B366:7:26,Scopaeus rubidus,,Scopaeus,,rubidus,,species,,B366:7,accepted,,,B366:7:25,Heteroscopaeus,,,,,,,Scopaeus,Heteroscopaeus,Scopaeus | Heteroscopaeus,6Y9BB,4438721
-B366:7:27,Scopaeus gracilis,,Scopaeus,,gracilis,,species,,B366:7,accepted,,,B366:7:25,Heteroscopaeus,,,,,,,Scopaeus,Heteroscopaeus,Scopaeus | Heteroscopaeus,6XXMJ,4438668
-B366:7:28,Xantholinus gracilis,,Xantholinus,,gracilis,,species,,B366:7,synonym,B366:7:27,Scopaeus gracilis,,,,,,,,,Scopaeus,Heteroscopaeus,Scopaeus | Heteroscopaeus,5C645,11054472
-B366:7:29,Scopaeus sericans,,Scopaeus,,sericans,,species,,B366:7,accepted,,,B366:7:25,Heteroscopaeus,,,,,,,Scopaeus,Heteroscopaeus,Scopaeus | Heteroscopaeus,79XBF,4438661
+B366:7:1,"Scopaeus Erichson, 1840","Erichson, 1840",,,,,genus,,B366:7,accepted,,,,,,,,,,,Scopaeus,,,64579,4404665
+B366:7:2,Scopaeus s.,s.,,,,,subgenus,str.,B366:7,accepted,,,B366:7:1,"Scopaeus Erichson, 1840",,,,,,,Scopaeus,Scopaeus,Scopaeus,64579,
+B366:7:3,"Scopaeus laevigatus (Gyllenhal, 1827)","(Gyllenhal, 1827)",Scopaeus,,laevigatus,,species,,B366:7,accepted,,,B366:7:2,Scopaeus s.,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,79XN2,4438658
+B366:7:4,"Paederus laevigatus Gyllenhal, 1827","Gyllenhal, 1827",Paederus,,laevigatus,,species,,B366:7,synonym,B366:7:3,"Scopaeus laevigatus (Gyllenhal, 1827)",,,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,4BXM3,5746352
+B366:7:5,"Scopaeus bicolor Baudi, 1848","Baudi, 1848",Scopaeus,,bicolor,,species,,B366:7,accepted,,,B366:7:2,Scopaeus s.,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,6XXNQ,4438719
+B366:7:6,"Scopaeus sulcicollis (Stephens, 1833)","(Stephens, 1833)",Scopaeus,,sulcicollis,,species,,B366:7,accepted,,,B366:7:2,Scopaeus s.,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,6XXBH,4438714
+B366:7:7,"Astenus sulcicollis Stephens, 1833","Stephens, 1833",Astenus,,sulcicollis,,species,,B366:7,synonym,B366:7:6,"Scopaeus sulcicollis (Stephens, 1833)",,,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,HPF6,5746353
+B366:7:8,"Scopaeus cognatus Mulsant & Rey, 1855","Mulsant & Rey, 1855",Scopaeus,,cognatus,,species,,B366:7,synonym,B366:7:6,"Scopaeus sulcicollis (Stephens, 1833)",,,,,,,,,Scopaeus,Scopaeus,Scopaeus | Scopaeus,6XXC4,4438716
+B366:7:9,Euscopaeus Coiffait,Coiffait,,,,,subgenus,,B366:7,accepted,,,B366:7:1,"Scopaeus Erichson, 1840",,,,,,,Scopaeus,Euscopaeus,Scopaeus,63594,
+B366:7:10,"Scopaeus didymus Erichson, 1840","Erichson, 1840",Scopaeus,,didymus,,species,,B366:7,accepted,,,B366:7:9,Euscopaeus Coiffait,,,,,,,Scopaeus,Euscopaeus,Scopaeus | Euscopaeus,79XM7,4438641
+B366:7:11,"Scopaeus minutus Erichson, 1840","Erichson, 1840",Scopaeus,,minutus,,species,,B366:7,accepted,,,B366:7:9,Euscopaeus Coiffait,,,,,,,Scopaeus,Euscopaeus,Scopaeus | Euscopaeus,79XMV,4438643
+B366:7:12,"Scopaeus pusillus Kiesenwetter, 1843","Kiesenwetter, 1843",Scopaeus,,pusillus,,species,,B366:7,accepted,,,B366:7:9,Euscopaeus Coiffait,,,,,,,Scopaeus,Euscopaeus,Scopaeus | Euscopaeus,79XB8,4438652
+B366:7:13,Hyposcopaeus Coiffait,Coiffait,,,,,subgenus,,B366:7,accepted,,,B366:7:1,"Scopaeus Erichson, 1840",,,,,,,Scopaeus,Hyposcopaeus,Scopaeus,,
+B366:7:14,"Scopaeus minimus (Erichson, 1839)","(Erichson, 1839)",Scopaeus,,minimus,,species,,B366:7,accepted,,,B366:7:13,Hyposcopaeus Coiffait,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6Y9MV,4438680
+B366:7:15,"Lathrobium minimum Erichson, 1840","Erichson, 1840",Lathrobium,,minimum,,species,,B366:7,synonym,B366:7:14,"Scopaeus minimus (Erichson, 1839)",,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,3SK6M,4438682
+B366:7:16,"Scopaeus scitulus Baudi, 1857","Baudi, 1857",Scopaeus,,scitulus,,species,,B366:7,accepted,,,B366:7:13,Hyposcopaeus Coiffait,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XZ3G,4438664
+B366:7:17,"Scopaeus scitulus Baudi, 1857","Baudi, 1857",Scopaeus,,scitulus,,species,,B366:7,synonym,B366:7:16,"Scopaeus scitulus Baudi, 1857",,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XZ3G,4438664
+B366:7:18,"Scopgeus debilis Gangblauer, 1895","Gangblauer, 1895",Scopgeus,,debilis,,species,"nec Hochhuth, 1851",B366:7,synonym,B366:7:16,"Scopaeus scitulus Baudi, 1857",,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,79XLV,4438644
+B366:7:19,"Scopaeus ryei Wollaston, 1872","Wollaston, 1872",Scopaeus,,ryei,,species,,B366:7,accepted,,,B366:7:13,Hyposcopaeus Coiffait,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XXBC,4438708
+B366:7:20,"Scopaeus ryei Wollaston, 1872","Wollaston, 1872",Scopaeus,,ryei,,species,,B366:7,synonym,B366:7:19,"Scopaeus ryei Wollaston, 1872",,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XXBC,4438708
+B366:7:21,"Scopaeus minimus Coiffait, 1952","Coiffait, 1952",Scopaeus,,minimus,,species,"nec Erichson, 1839",B366:7,synonym,B366:7:19,"Scopaeus ryei Wollaston, 1872",,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6Y9MV,4438680
+B366:7:22,"Scopaeus jarrigei Coiffait, 1953","Coiffait, 1953",Scopaeus,,jarrigei,,species,,B366:7,synonym,B366:7:19,"Scopaeus ryei Wollaston, 1872",,,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6Y9NJ,4438709
+B366:7:23,"Scopaeus armeniacus Coiffait, 1968","Coiffait, 1968",Scopaeus,,armeniacus,,species,,B366:7,accepted,,,B366:7:13,Hyposcopaeus Coiffait,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XXKR,4438634
+B366:7:24,"Scopaeus furcatus Binhauhi, 1935","Binhauhi, 1935",Scopaeus,,furcatus,,species,,B366:7,accepted,,,B366:7:13,Hyposcopaeus Coiffait,,,,,,,Scopaeus,Hyposcopaeus,Scopaeus | Hyposcopaeus,6XXND,4438681
+B366:7:25,Heteroscopaeus Coiffait,Coiffait,,,,,subgenus,,B366:7,accepted,,,B366:7:1,"Scopaeus Erichson, 1840",,,,,,,Scopaeus,Heteroscopaeus,Scopaeus,,
+B366:7:26,"Scopaeus rubidus Mulsant & Rey, 1855","Mulsant & Rey, 1855",Scopaeus,,rubidus,,species,,B366:7,accepted,,,B366:7:25,Heteroscopaeus Coiffait,,,,,,,Scopaeus,Heteroscopaeus,Scopaeus | Heteroscopaeus,6Y9BB,4438721
+B366:7:27,"Scopaeus gracilis (Sperk, 1835)","(Sperk, 1835)",Scopaeus,,gracilis,,species,,B366:7,accepted,,,B366:7:25,Heteroscopaeus Coiffait,,,,,,,Scopaeus,Heteroscopaeus,Scopaeus | Heteroscopaeus,6XXMJ,4438668
+B366:7:28,"Xantholinus gracilis Sperk, 1835","Sperk, 1835",Xantholinus,,gracilis,,species,,B366:7,synonym,B366:7:27,"Scopaeus gracilis (Sperk, 1835)",,,,,,,,,Scopaeus,Heteroscopaeus,Scopaeus | Heteroscopaeus,5C645,4438671
+B366:7:29,"Scopaeus sericans Mulsant & Rey, 1855","Mulsant & Rey, 1855",Scopaeus,,sericans,,species,,B366:7,accepted,,,B366:7:25,Heteroscopaeus Coiffait,,,,,,,Scopaeus,Heteroscopaeus,Scopaeus | Heteroscopaeus,79XBF,4438661

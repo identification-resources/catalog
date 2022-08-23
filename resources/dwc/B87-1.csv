@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B87:1:1,Psilidae,,,,,,family,,B87:1,accepted,,,,,,,,,Psilidae,,,,,62774,6183
 B87:1:2,"Tropeopsila Shatalkin, 1983","Shatalkin, 1983",,,,,genus,,B87:1,accepted,,,B87:1:1,Psilidae,,,,,Psilidae,,Tropeopsila,,Psilidae,82YB,1673773
-B87:1:6,"Loxocera Meigen, 1803","Meigen, 1803",,,,,subgenus,sensu stricto,B87:1,accepted,,,B87:1:3,"Loxocera Meigen, 1803",,,,,Psilidae,,Loxocera,Loxocera,Psilidae | Loxocera,87GZX,
+B87:1:3,"Loxocera Meigen, 1803","Meigen, 1803",,,,,genus,,B87:1,accepted,,,B87:1:1,Psilidae,,,,,Psilidae,,Loxocera,,Psilidae,87GZX,1673949
 B87:1:4,"Platystyla Macquart, 1835","Macquart, 1835",,,,,subgenus,,B87:1,accepted,,,B87:1:3,"Loxocera Meigen, 1803",,,,,Psilidae,,Loxocera,Platystyla,Psilidae | Loxocera,,
 B87:1:5,"Loxocera hoffmannseggi Meigen, 1826","Meigen, 1826",Loxocera,,hoffmannseggi,,species,,B87:1,accepted,,,B87:1:4,"Platystyla Macquart, 1835",,,,,Psilidae,,Loxocera,Platystyla,Psilidae | Loxocera | Platystyla,8CNFT,1673959
 B87:1:6,"Loxocera Meigen, 1803","Meigen, 1803",,,,,subgenus,sensu stricto,B87:1,accepted,,,B87:1:3,"Loxocera Meigen, 1803",,,,,Psilidae,,Loxocera,Loxocera,Psilidae | Loxocera,87GZX,
@@ -12,7 +12,7 @@ B87:1:10,"Imantimyia sylvatica Meigen, 1826","Meigen, 1826",Imantimyia,,sylvatic
 B87:1:11,"Imantimyia fulviventris Meigen, 1826","Meigen, 1826",Imantimyia,,fulviventris,,species,,B87:1,accepted,,,B87:1:9,"Imantimyia Frey, 1925",,,,,Psilidae,,Imantimyia,,Psilidae | Imantimyia,,9770812
 B87:1:12,"Imantimyia albisetus (Schrank, 1803)","(Schrank, 1803)",Imantimyia,,albisetus,,species,,B87:1,accepted,,,B87:1:9,"Imantimyia Frey, 1925",,,,,Psilidae,,Imantimyia,,Psilidae | Imantimyia,,9651331
 B87:1:13,"Imantimyia nigrifrons (Macquart, 1835)","(Macquart, 1835)",Imantimyia,,nigrifrons,,species,,B87:1,accepted,,,B87:1:9,"Imantimyia Frey, 1925",,,,,Psilidae,,Imantimyia,,Psilidae | Imantimyia,,9688352
-B87:1:18,"Chyliza Fallén, 1820","Fallén, 1820",,,,,subgenus,sensu stricto,B87:1,accepted,,,B87:1:14,"Chyliza Fallén, 1820",,,,,Psilidae,,Chyliza,Chyliza,Psilidae | Chyliza,3PQ8,
+B87:1:14,"Chyliza Fallén, 1820","Fallén, 1820",,,,,genus,,B87:1,accepted,,,B87:1:1,Psilidae,,,,,Psilidae,,Chyliza,,Psilidae,3PQ8,1522803
 B87:1:15,"Dasyna Robineau-Desvoidy, 1830","Robineau-Desvoidy, 1830",,,,,subgenus,,B87:1,accepted,,,B87:1:14,"Chyliza Fallén, 1820",,,,,Psilidae,,Chyliza,Dasyna,Psilidae | Chyliza,89S6S,
 B87:1:16,"Chyliza extenuata (Rossi, 1790)","(Rossi, 1790)",Chyliza,,extenuata,,species,,B87:1,accepted,,,B87:1:15,"Dasyna Robineau-Desvoidy, 1830",,,,,Psilidae,,Chyliza,Dasyna,Psilidae | Chyliza | Dasyna,8BHWS,1674139
 B87:1:17,"Chyliza qaradaghi Khaghaninia & Gharajedaghi, 2014","Khaghaninia & Gharajedaghi, 2014",Chyliza,,qaradaghi,,species,,B87:1,accepted,,,B87:1:15,"Dasyna Robineau-Desvoidy, 1830",,,,,Psilidae,,Chyliza,Dasyna,Psilidae | Chyliza | Dasyna,3PQ8,1522803

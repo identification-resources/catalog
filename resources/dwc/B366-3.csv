@@ -1,6 +1,6 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B366:3:1,Luzea,,,,,,genus,,B366:3,accepted,,,,,,,,,,,Luzea,,,5HG4,9193256
-B366:3:2,Micromedon,,,,,,genus,,B366:3,synonym,B366:3:1,Luzea,,,,,,,,,Micromedon,,,,3262251
-B366:3:3,Stictomedon,,,,,,genus,,B366:3,synonym,B366:3:1,Luzea,,,,,,,,,Stictomedon,,,,7008678
-B366:3:4,Luzea nigritula,,Luzea,,nigritula,,species,,B366:3,accepted,,,B366:3:1,Luzea,,,,,,,Luzea,,Luzea,3WH8Y,4439738
-B366:3:5,Lithocharis nigritula,,Lithocharis,,nigritula,,species,,B366:3,synonym,B366:3:4,Luzea nigritula,,,,,,,,,Luzea,,Luzea,6QKZG,4439740
+B366:3:1,"Luzea BLackwelder, 1952","BLackwelder, 1952",,,,,genus,,B366:3,accepted,,,,,,,,,,,Luzea,,,5HG4,9193256
+B366:3:2,"Micromedon Luze, 1911","Luze, 1911",,,,,genus,,B366:3,synonym,B366:3:1,"Luzea BLackwelder, 1952",,,,,,,,,Micromedon,,,,7008677
+B366:3:3,"Stictomedon Scheerpeltz, 1968","Scheerpeltz, 1968",,,,,genus,,B366:3,synonym,B366:3:1,"Luzea BLackwelder, 1952",,,,,,,,,Stictomedon,,,,7008678
+B366:3:4,"Luzea nigritula (Erichson, 1840)","(Erichson, 1840)",Luzea,,nigritula,,species,,B366:3,accepted,,,B366:3:1,"Luzea BLackwelder, 1952",,,,,,,Luzea,,Luzea,3WH8Y,4439738
+B366:3:5,"Lithocharis nigritula Erichson, 1840","Erichson, 1840",Lithocharis,,nigritula,,species,,B366:3,synonym,B366:3:4,"Luzea nigritula (Erichson, 1840)",,,,,,,,,Luzea,,Luzea,6QKZG,4439740

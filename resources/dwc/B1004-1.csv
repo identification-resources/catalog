@@ -1,61 +1,61 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B1004:1:1,Bombus,,,,,,genus,,B1004:1,accepted,,,,,,,,,,,Bombus,,,62H8K,11239415
 B1004:1:2,Alpinobombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Alpinobombus,Bombus,,
-B1004:1:3,Bombus alpinus,,Bombus,,alpinus,,species,,B1004:1,accepted,,,B1004:1:2,Alpinobombus,,,,,,,Bombus,Alpinobombus,Bombus | Alpinobombus,MFDH,1340325
+B1004:1:3,Bombus alpinus (Linnaeus 1758),(Linnaeus 1758),Bombus,,alpinus,,species,,B1004:1,accepted,,,B1004:1:2,Alpinobombus,,,,,,,Bombus,Alpinobombus,Bombus | Alpinobombus,MFDH,1340325
 B1004:1:4,Megabombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Megabombus,Bombus,,
-B1004:1:5,Bombus argillaceus,,Bombus,,argillaceus,,species,,B1004:1,accepted,,,B1004:1:4,Megabombus,,,,,,,Bombus,Megabombus,Bombus | Megabombus,MFDX,1340531
-B1004:1:6,Bombus gerstaeckeri,,Bombus,,gerstaeckeri,,species,,B1004:1,accepted,,,B1004:1:4,Megabombus,,,,,,,Bombus,Megabombus,Bombus | Megabombus,MFK5,1340384
-B1004:1:7,Bombus hortorum,,Bombus,,hortorum,,species,,B1004:1,accepted,,,B1004:1:4,Megabombus,,,,,,,Bombus,Megabombus,Bombus | Megabombus,MFKV,1340542
-B1004:1:8,Bombus ruderatus,,Bombus,,ruderatus,,species,,B1004:1,accepted,,,B1004:1:4,Megabombus,,,,,,,Bombus,Megabombus,Bombus | Megabombus,5WNR9,1340383
+B1004:1:5,Bombus argillaceus (Scopoli 1763),(Scopoli 1763),Bombus,,argillaceus,,species,,B1004:1,accepted,,,B1004:1:4,Megabombus,,,,,,,Bombus,Megabombus,Bombus | Megabombus,MFDX,1340531
+B1004:1:6,Bombus gerstaeckeri Morawitz 1881,Morawitz 1881,Bombus,,gerstaeckeri,,species,,B1004:1,accepted,,,B1004:1:4,Megabombus,,,,,,,Bombus,Megabombus,Bombus | Megabombus,MFK5,1340384
+B1004:1:7,Bombus hortorum (Linnaeus 1761),(Linnaeus 1761),Bombus,,hortorum,,species,,B1004:1,accepted,,,B1004:1:4,Megabombus,,,,,,,Bombus,Megabombus,Bombus | Megabombus,MFKV,1340542
+B1004:1:8,Bombus ruderatus (Fabricius 1775),(Fabricius 1775),Bombus,,ruderatus,,species,,B1004:1,accepted,,,B1004:1:4,Megabombus,,,,,,,Bombus,Megabombus,Bombus | Megabombus,5WNR9,1340383
 B1004:1:9,Thoracobombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Thoracobombus,Bombus,,
-B1004:1:10,Bombus armeniacus,,Bombus,,armeniacus,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFDZ,1340522
-B1004:1:11,Bombus humilis,,Bombus,,humilis,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFL3,1340523
-B1004:1:12,Bombus inexspectatus,,Bombus,,inexspectatus,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFLH,1340424
-B1004:1:13,Bombus laesus,,Bombus,,laesus,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFMN,1340311
-B1004:1:14,Bombus mesomelas,,Bombus,,mesomelas,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFPN,1340420
-B1004:1:15,Bombus mucidus,,Bombus,,mucidus,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFQS,1340297
-B1004:1:16,Bombus muscorum,,Bombus,,muscorum,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFQT,1340286
-B1004:1:17,Bombus pascuorum,,Bombus,,pascuorum,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFS2,1340405
-B1004:1:18,Bombus pomorum,,Bombus,,pomorum,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFSK,1340327
-B1004:1:19,Bombus ruderarius,,Bombus,,ruderarius,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFTT,1340394
-B1004:1:20,Bombus sylvarum,,Bombus,,sylvarum,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFV6,1340342
-B1004:1:21,Bombus veteranus,,Bombus,,veteranus,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFXX,1340387
+B1004:1:10,Bombus armeniacus Radoszkowski 1877,Radoszkowski 1877,Bombus,,armeniacus,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFDZ,1340522
+B1004:1:11,Bombus humilis Illiger 1805,Illiger 1805,Bombus,,humilis,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFL3,1340523
+B1004:1:12,Bombus inexspectatus (Tkalců 1963),(Tkalců 1963),Bombus,,inexspectatus,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFLH,1340424
+B1004:1:13,Bombus laesus Morawitz 1875,Morawitz 1875,Bombus,,laesus,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFMN,1340311
+B1004:1:14,Bombus mesomelas Gerstaecker 1869,Gerstaecker 1869,Bombus,,mesomelas,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFPN,1340420
+B1004:1:15,Bombus mucidus Gerstaecker 1869,Gerstaecker 1869,Bombus,,mucidus,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFQS,1340297
+B1004:1:16,Bombus muscorum (Linnaeus 1758),(Linnaeus 1758),Bombus,,muscorum,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFQT,1340286
+B1004:1:17,Bombus pascuorum (Scopoli 1763),(Scopoli 1763),Bombus,,pascuorum,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFS2,1340405
+B1004:1:18,Bombus pomorum (Panzer 1805),(Panzer 1805),Bombus,,pomorum,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFSK,1340327
+B1004:1:19,Bombus ruderarius (Müller 1776),(Müller 1776),Bombus,,ruderarius,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFTT,1340394
+B1004:1:20,Bombus sylvarum (Linnaeus 1761),(Linnaeus 1761),Bombus,,sylvarum,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFV6,1340342
+B1004:1:21,Bombus veteranus (Fabricius 1793),(Fabricius 1793),Bombus,,veteranus,,species,,B1004:1,accepted,,,B1004:1:9,Thoracobombus,,,,,,,Bombus,Thoracobombus,Bombus | Thoracobombus,MFXX,1340387
 B1004:1:22,Psithyrus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Psithyrus,Bombus,74BX,
-B1004:1:23,Bombus bohemicus,,Bombus,,bohemicus,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,68NQ9,1340362
-B1004:1:24,Bombus compestris,,Bombus,,compestris,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,MFFQ,1340527
-B1004:1:25,Bombus flavidus,,Bombus,,flavidus,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,5WNPD,1340484
-B1004:1:26,Bombus norvegicus,,Bombus,,norvegicus,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,5WNPQ,1340506
-B1004:1:27,Bombus quadricolor,,Bombus,,quadricolor,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,MFT6,1340515
-B1004:1:28,Bombus rupestris,,Bombus,,rupestris,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,5WNQV,1340344
-B1004:1:29,Bombus sylvestris,,Bombus,,sylvestris,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,MFW9,1340333
-B1004:1:30,Bombus vestalis,,Bombus,,vestalis,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,MFXW,1340418
+B1004:1:23,Bombus bohemicus Seidl 1837,Seidl 1837,Bombus,,bohemicus,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,68NQ9,1340362
+B1004:1:24,Bombus compestris (Panzer 1801),(Panzer 1801),Bombus,,compestris,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,MFFQ,1340527
+B1004:1:25,Bombus flavidus (Eversmann 1852),(Eversmann 1852),Bombus,,flavidus,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,5WNPD,1340484
+B1004:1:26,Bombus norvegicus (Sparre Schneider 1918),(Sparre Schneider 1918),Bombus,,norvegicus,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,5WNPQ,1340506
+B1004:1:27,Bombus quadricolor (Lepeletier 1832),(Lepeletier 1832),Bombus,,quadricolor,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,MFT6,1340515
+B1004:1:28,Bombus rupestris (Fabricius 1793),(Fabricius 1793),Bombus,,rupestris,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,5WNQV,1340344
+B1004:1:29,Bombus sylvestris (Lepeletier 1832),(Lepeletier 1832),Bombus,,sylvestris,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,MFW9,1340333
+B1004:1:30,Bombus vestalis (Geoffroy 1785),(Geoffroy 1785),Bombus,,vestalis,,species,,B1004:1,accepted,,,B1004:1:22,Psithyrus,,,,,,,Bombus,Psithyrus,Bombus | Psithyrus,MFXW,1340418
 B1004:1:31,Bombias,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Bombias,Bombus,,
-B1004:1:32,Bombus confusus,,Bombus,,confusus,,species,,B1004:1,accepted,,,B1004:1:31,Bombias,,,,,,,Bombus,Bombias,Bombus | Bombias,MFGD,1340477
+B1004:1:32,Bombus confusus Schenck 1859,Schenck 1859,Bombus,,confusus,,species,,B1004:1,accepted,,,B1004:1:31,Bombias,,,,,,,Bombus,Bombias,Bombus | Bombias,MFGD,1340477
 B1004:1:33,Bombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Bombus,Bombus,62H8K,
-B1004:1:34,Bombus cryptarum,,Bombus,,cryptarum,,species,,B1004:1,accepted,,,B1004:1:33,Bombus,,,,,,,Bombus,Bombus,Bombus | Bombus,MFGS,5870368
-B1004:1:35,Bombus lucorum,,Bombus,,lucorum,,species,,B1004:1,accepted,,,B1004:1:33,Bombus,,,,,,,Bombus,Bombus,Bombus | Bombus,MFNK,1340298
-B1004:1:36,Bombus magnus,,Bombus,,magnus,,species,,B1004:1,accepted,,,B1004:1:33,Bombus,,,,,,,Bombus,Bombus,Bombus | Bombus,MFNS,4496017
-B1004:1:37,Bombus terrestris,,Bombus,,terrestris,,species,,B1004:1,accepted,,,B1004:1:33,Bombus,,,,,,,Bombus,Bombus,Bombus | Bombus,MFWK,1340503
+B1004:1:34,Bombus cryptarum (Fabricius 1775),(Fabricius 1775),Bombus,,cryptarum,,species,,B1004:1,accepted,,,B1004:1:33,Bombus,,,,,,,Bombus,Bombus,Bombus | Bombus,MFGS,5870368
+B1004:1:35,Bombus lucorum (Linnaeus 1761),(Linnaeus 1761),Bombus,,lucorum,,species,,B1004:1,accepted,,,B1004:1:33,Bombus,,,,,,,Bombus,Bombus,Bombus | Bombus,MFNK,1340298
+B1004:1:36,Bombus magnus (Vogt 1911),(Vogt 1911),Bombus,,magnus,,species,,B1004:1,accepted,,,B1004:1:33,Bombus,,,,,,,Bombus,Bombus,Bombus | Bombus,MFNS,4496017
+B1004:1:37,Bombus terrestris (Linnaeus 1758),(Linnaeus 1758),Bombus,,terrestris,,species,,B1004:1,accepted,,,B1004:1:33,Bombus,,,,,,,Bombus,Bombus,Bombus | Bombus,MFWK,1340503
 B1004:1:38,Cullumanobombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Cullumanobombus,Bombus,,
-B1004:1:39,Bombus cullumanus,,Bombus,,cullumanus,,species,,B1004:1,accepted,,,B1004:1:38,Cullumanobombus,,,,,,,Bombus,Cullumanobombus,Bombus | Cullumanobombus,MFGT,1340407
-B1004:1:40,Bombus semenoviellus,,Bombus,,semenoviellus,,species,,B1004:1,accepted,,,B1004:1:38,Cullumanobombus,,,,,,,Bombus,Cullumanobombus,Bombus | Cullumanobombus,68NRB,1340281
+B1004:1:39,Bombus cullumanus (Kirby 1802),(Kirby 1802),Bombus,,cullumanus,,species,,B1004:1,accepted,,,B1004:1:38,Cullumanobombus,,,,,,,Bombus,Cullumanobombus,Bombus | Cullumanobombus,MFGT,1340407
+B1004:1:40,Bombus semenoviellus Skorikov 1910,Skorikov 1910,Bombus,,semenoviellus,,species,,B1004:1,accepted,,,B1004:1:38,Cullumanobombus,,,,,,,Bombus,Cullumanobombus,Bombus | Cullumanobombus,68NRB,1340281
 B1004:1:41,Subterraneobombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Subterraneobombus,Bombus,,
-B1004:1:42,Bombus distingeundus,,Bombus,,distingeundus,,species,,B1004:1,accepted,,,B1004:1:41,Subterraneobombus,,,,,,,Bombus,Subterraneobombus,Bombus | Subterraneobombus,62H8K,11239415
-B1004:1:43,Bombus fragrans,,Bombus,,fragrans,,species,,B1004:1,accepted,,,B1004:1:41,Subterraneobombus,,,,,,,Bombus,Subterraneobombus,Bombus | Subterraneobombus,MFJQ,1340461
-B1004:1:44,Bombus subterraneus,,Bombus,,subterraneus,,species,,B1004:1,accepted,,,B1004:1:41,Subterraneobombus,,,,,,,Bombus,Subterraneobombus,Bombus | Subterraneobombus,MFVY,1340422
+B1004:1:42,Bombus distingeundus Morawitz 1869,Morawitz 1869,Bombus,,distingeundus,,species,,B1004:1,accepted,,,B1004:1:41,Subterraneobombus,,,,,,,Bombus,Subterraneobombus,Bombus | Subterraneobombus,62H8K,4669778
+B1004:1:43,Bombus fragrans (Pallas 1771),(Pallas 1771),Bombus,,fragrans,,species,,B1004:1,accepted,,,B1004:1:41,Subterraneobombus,,,,,,,Bombus,Subterraneobombus,Bombus | Subterraneobombus,MFJQ,1340461
+B1004:1:44,Bombus subterraneus (Linnaeus 1758),(Linnaeus 1758),Bombus,,subterraneus,,species,,B1004:1,accepted,,,B1004:1:41,Subterraneobombus,,,,,,,Bombus,Subterraneobombus,Bombus | Subterraneobombus,MFVY,1340422
 B1004:1:45,Pyrobombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Pyrobombus,Bombus,,
-B1004:1:46,Bombus heamaturus,,Bombus,,heamaturus,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,62H8K,11239415
-B1004:1:47,Bombus hypnorum,,Bombus,,hypnorum,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,MFL7,1340513
-B1004:1:48,Bombus jonellus,,Bombus,,jonellus,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,MFLX,1340308
-B1004:1:49,Bombus monticola,,Bombus,,monticola,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,MFQF,1340341
-B1004:1:50,Bombus pratorum,,Bombus,,pratorum,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,MFSN,1340305
-B1004:1:51,Bombus pyraneus,,Bombus,,pyraneus,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,62H8K,11239415
+B1004:1:46,Bombus heamaturus Kriechbaumer 1870,Kriechbaumer 1870,Bombus,,heamaturus,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,62H8K,4669778
+B1004:1:47,Bombus hypnorum (Linnaeus 1758),(Linnaeus 1758),Bombus,,hypnorum,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,MFL7,1340513
+B1004:1:48,Bombus jonellus (Kirby 1802),(Kirby 1802),Bombus,,jonellus,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,MFLX,1340308
+B1004:1:49,Bombus monticola Smith 1849,Smith 1849,Bombus,,monticola,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,MFQF,1340341
+B1004:1:50,Bombus pratorum (Linnaeus 1761),(Linnaeus 1761),Bombus,,pratorum,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,MFSN,1340305
+B1004:1:51,Bombus pyraneus (Pérez 1879),(Pérez 1879),Bombus,,pyraneus,,species,,B1004:1,accepted,,,B1004:1:45,Pyrobombus,,,,,,,Bombus,Pyrobombus,Bombus | Pyrobombus,62H8K,4669778
 B1004:1:52,Melanobombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Melanobombus,Bombus,,
-B1004:1:53,Bombus lapidarius,,Bombus,,lapidarius,,species,,B1004:1,accepted,,,B1004:1:52,Melanobombus,,,,,,,Bombus,Melanobombus,Bombus | Melanobombus,MFMT,1340301
-B1004:1:54,Bombus sichelii,,Bombus,,sichelii,,species,,B1004:1,accepted,,,B1004:1:52,Melanobombus,,,,,,,Bombus,Melanobombus,Bombus | Melanobombus,MFV2,1340500
+B1004:1:53,Bombus lapidarius (Linnaeus 1758),(Linnaeus 1758),Bombus,,lapidarius,,species,,B1004:1,accepted,,,B1004:1:52,Melanobombus,,,,,,,Bombus,Melanobombus,Bombus | Melanobombus,MFMT,1340301
+B1004:1:54,Bombus sichelii Radoszkowski 1859,Radoszkowski 1859,Bombus,,sichelii,,species,,B1004:1,accepted,,,B1004:1:52,Melanobombus,,,,,,,Bombus,Melanobombus,Bombus | Melanobombus,MFV2,1340500
 B1004:1:55,Mendacibombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Mendacibombus,Bombus,,
-B1004:1:56,Bombus mendax,,Bombus,,mendax,,species,,B1004:1,accepted,,,B1004:1:55,Mendacibombus,,,,,,,Bombus,Mendacibombus,Bombus | Mendacibombus,MFPJ,1340431
+B1004:1:56,Bombus mendax Gerstaecker 1869,Gerstaecker 1869,Bombus,,mendax,,species,,B1004:1,accepted,,,B1004:1:55,Mendacibombus,,,,,,,Bombus,Mendacibombus,Bombus | Mendacibombus,MFPJ,1340431
 B1004:1:57,Kallobombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Kallobombus,Bombus,,
-B1004:1:58,Bombus soroeensis,,Bombus,,soroeensis,,species,,B1004:1,accepted,,,B1004:1:57,Kallobombus,,,,,,,Bombus,Kallobombus,Bombus | Kallobombus,MFVQ,1340444
+B1004:1:58,Bombus soroeensis (Fabricius 1776),(Fabricius 1776),Bombus,,soroeensis,,species,,B1004:1,accepted,,,B1004:1:57,Kallobombus,,,,,,,Bombus,Kallobombus,Bombus | Kallobombus,MFVQ,1340444
 B1004:1:59,Alpigenobombus,,,,,,subgenus,,B1004:1,accepted,,,B1004:1:1,Bombus,,,,,,,Bombus,Alpigenobombus,Bombus,,
-B1004:1:60,Bombus wurflenii,,Bombus,,wurflenii,,species,,B1004:1,accepted,,,B1004:1:59,Alpigenobombus,,,,,,,Bombus,Alpigenobombus,Bombus | Alpigenobombus,68NQT,1340358
+B1004:1:60,Bombus wurflenii radoszkoWski 1859,radoszkoWski 1859,Bombus,,wurflenii,,species,,B1004:1,accepted,,,B1004:1:59,Alpigenobombus,,,,,,,Bombus,Alpigenobombus,Bombus | Alpigenobombus,68NQT,1340358

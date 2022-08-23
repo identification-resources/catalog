@@ -1,18 +1,18 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B187:13:1,Anthicidae,,,,,,family,,B187:13,accepted,,,,,,,,,Anthicidae,,,,,6H2,7771
-B187:13:2,Notoxus,,,,,,genus,,B187:13,accepted,,,B187:13:1,Anthicidae,,,,,Anthicidae,,Notoxus,,Anthicidae,65LZ,1046737
-B187:13:3,Notoxus monoceros,,Notoxus,,monoceros,,species,,B187:13,accepted,,,B187:13:2,Notoxus,,,,,Anthicidae,,Notoxus,,Anthicidae | Notoxus,,4457616
-B187:13:4,Anthicus,,,,,,genus,,B187:13,accepted,,,B187:13:1,Anthicidae,,,,,Anthicidae,,Anthicus,,Anthicidae,XCF,1046876
-B187:13:5,Anthicus bimaculatus,,Anthicus,,bimaculatus,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4308780
-B187:13:6,Anthicus salinus,,Anthicus,,salinus,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4458094
-B187:13:7,Anthicus constrictus,,Anthicus,,constrictus,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4458128
-B187:13:8,Anthicus humilis,,Anthicus,,humilis,,species,,B187:13,synonym,B187:13:7,Anthicus constrictus,,,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4458143
-B187:13:9,Anthicus bifasciatus,,Anthicus,,bifasciatus,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,1046940
-B187:13:10,Anthicus floralis,,Anthicus,,floralis,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,1046853
-B187:13:11,Anthicus quisquilius,,Anthicus,,quisquilius,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,6998155
-B187:13:12,Anthicus scoticus,,Anthicus,,scoticus,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,9493425
-B187:13:13,Anthicus angustatus,,Anthicus,,angustatus,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4458027
-B187:13:14,Anthicus tobias,,Anthicus,,tobias,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,1047040
-B187:13:15,Anthicus instabilis,,Anthicus,,instabilis,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4457982
-B187:13:16,Anthicus tibialis,,Anthicus,,tibialis,,species,,B187:13,synonym,B187:13:15,Anthicus instabilis,,,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4457943
-B187:13:17,Anthicus antherinus,,Anthicus,,antherinus,,species,,B187:13,accepted,,,B187:13:4,Anthicus,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4458005
+B187:13:2,Notoxus Geoffroy,Geoffroy,,,,,genus,,B187:13,accepted,,,B187:13:1,Anthicidae,,,,,Anthicidae,,Notoxus,,Anthicidae,65LZ,1046737
+B187:13:3,Notoxus monoceros (Linnaeus),(Linnaeus),Notoxus,,monoceros,,species,,B187:13,accepted,,,B187:13:2,Notoxus Geoffroy,,,,,Anthicidae,,Notoxus,,Anthicidae | Notoxus,,4457616
+B187:13:4,Anthicus Paykull,Paykull,,,,,genus,,B187:13,accepted,,,B187:13:1,Anthicidae,,,,,Anthicidae,,Anthicus,,Anthicidae,XCF,1046876
+B187:13:5,Anthicus bimaculatus Illiger,Illiger,Anthicus,,bimaculatus,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4308780
+B187:13:6,Anthicus salinus Crotch,Crotch,Anthicus,,salinus,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4458094
+B187:13:7,Anthicus constrictus Curtis,Curtis,Anthicus,,constrictus,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4458128
+B187:13:8,Anthicus humilis,,Anthicus,,humilis,,species,auct. Brit. nec Germar,B187:13,synonym,B187:13:7,Anthicus constrictus Curtis,,,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4458143
+B187:13:9,Anthicus bifasciatus (Rossi),(Rossi),Anthicus,,bifasciatus,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,1046940
+B187:13:10,Anthicus floralis (Linnaeus),(Linnaeus),Anthicus,,floralis,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,1046853
+B187:13:11,Anthicus quisquilius Thomson,Thomson,Anthicus,,quisquilius,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,6998155
+B187:13:12,Anthicus scoticus Rye,Rye,Anthicus,,scoticus,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,9493425
+B187:13:13,Anthicus angustatus Curtis,Curtis,Anthicus,,angustatus,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4458027
+B187:13:14,Anthicus tobias Marseul,Marseul,Anthicus,,tobias,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,1047040
+B187:13:15,Anthicus instabilis Schmidt,Schmidt,Anthicus,,instabilis,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4457982
+B187:13:16,Anthicus tibialis Curtis,Curtis,Anthicus,,tibialis,,species,nec Waltl,B187:13,synonym,B187:13:15,Anthicus instabilis Schmidt,,,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4457943
+B187:13:17,Anthicus antherinus (Linnaeus),(Linnaeus),Anthicus,,antherinus,,species,,B187:13,accepted,,,B187:13:4,Anthicus Paykull,,,,,Anthicidae,,Anthicus,,Anthicidae | Anthicus,,4458005

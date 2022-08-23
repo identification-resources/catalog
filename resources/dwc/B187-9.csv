@@ -1,17 +1,17 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
 B187:9:1,Mordellidae,,,,,,family,,B187:9,accepted,,,,,,,,,Mordellidae,,,,,CXS,4746
-B187:9:2,Mordella,,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Mordella,,Mordellidae,63CZV,1045999
-B187:9:3,Mordella villosa,,Mordella,,villosa,,species,,B187:9,accepted,,,B187:9:2,Mordella,,,,,Mordellidae,,Mordella,,Mordellidae | Mordella,,4456519
-B187:9:4,Mordella fasciata,,Mordella,,fasciata,,species,,B187:9,synonym,B187:9:3,Mordella villosa,,,,,,,Mordellidae,,Mordella,,Mordellidae | Mordella,,4456343
-B187:9:5,Mordella aculeata,,Mordella,,aculeata,,species,,B187:9,accepted,,,B187:9:2,Mordella,,,,,Mordellidae,,Mordella,,Mordellidae | Mordella,,10926292
-B187:9:6,Tomoxia,,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Tomoxia,,Mordellidae,7XNL,1046048
-B187:9:7,Tomoxia biguttata,,Tomoxia,,biguttata,,species,,B187:9,accepted,,,B187:9:6,Tomoxia,,,,,Mordellidae,,Tomoxia,,Mordellidae | Tomoxia,,7568878
-B187:9:8,Mordellistena,,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Mordellistena,,Mordellidae,5V5H,1046076
-B187:9:9,Mordellistena abdominalis,,Mordellistena,,abdominalis,,species,,B187:9,accepted,,,B187:9:8,Mordellistena,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,10047911
-B187:9:10,Mordellistena parvula,,Mordellistena,,parvula,,species,,B187:9,accepted,,,B187:9:8,Mordellistena,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456675
-B187:9:11,Mordellistena parvula var. inaequalis,,Mordellistena,,parvula,inaequalis,variety,,B187:9,accepted,,,B187:9:10,Mordellistena parvula,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena | Mordellistena parvula,,4456797
-B187:9:12,Mordellistena pumila,,Mordellistena,,pumila,,species,,B187:9,accepted,,,B187:9:8,Mordellistena,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456780
-B187:9:13,Mordellistena brevicauda,,Mordellistena,,brevicauda,,species,,B187:9,accepted,,,B187:9:8,Mordellistena,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456771
-B187:9:14,Mordellistena neuwaldeggiana,,Mordellistena,,neuwaldeggiana,,species,,B187:9,accepted,,,B187:9:8,Mordellistena,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456646
-B187:9:15,Mordellistena humeralis,,Mordellistena,,humeralis,,species,,B187:9,accepted,,,B187:9:8,Mordellistena,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456638
-B187:9:16,Mordellistena variegata,,Mordellistena,,variegata,,species,,B187:9,accepted,,,B187:9:8,Mordellistena,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456740
+B187:9:2,Mordella Linnaeus,Linnaeus,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Mordella,,Mordellidae,63CZV,1045999
+B187:9:3,Mordella villosa (Schrank),(Schrank),Mordella,,villosa,,species,,B187:9,accepted,,,B187:9:2,Mordella Linnaeus,,,,,Mordellidae,,Mordella,,Mordellidae | Mordella,,4456519
+B187:9:4,Mordella fasciata Fabricius,Fabricius,Mordella,,fasciata,,species,,B187:9,synonym,B187:9:3,Mordella villosa (Schrank),,,,,,,Mordellidae,,Mordella,,Mordellidae | Mordella,,4456343
+B187:9:5,Mordella aculeata Linnaeus,Linnaeus,Mordella,,aculeata,,species,,B187:9,accepted,,,B187:9:2,Mordella Linnaeus,,,,,Mordellidae,,Mordella,,Mordellidae | Mordella,,4456565
+B187:9:6,Tomoxia Costa,Costa,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Tomoxia,,Mordellidae,7XNL,1046048
+B187:9:7,Tomoxia biguttata (Gyllenhal),(Gyllenhal),Tomoxia,,biguttata,,species,,B187:9,accepted,,,B187:9:6,Tomoxia Costa,,,,,Mordellidae,,Tomoxia,,Mordellidae | Tomoxia,,7568878
+B187:9:8,Mordellistena Costa,Costa,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Mordellistena,,Mordellidae,5V5H,1046076
+B187:9:9,Mordellistena abdominalis (Fabricius),(Fabricius),Mordellistena,,abdominalis,,species,,B187:9,accepted,,,B187:9:8,Mordellistena Costa,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,10047911
+B187:9:10,Mordellistena parvula (Gyllenhal),(Gyllenhal),Mordellistena,,parvula,,species,,B187:9,accepted,,,B187:9:8,Mordellistena Costa,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456675
+B187:9:11,Mordellistena parvula var. inaequalis Mulsant,Mulsant,Mordellistena,,parvula,inaequalis,variety,,B187:9,accepted,,,B187:9:10,Mordellistena parvula (Gyllenhal),,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena | Mordellistena parvula,,4456797
+B187:9:12,Mordellistena pumila (Gyllenhal),(Gyllenhal),Mordellistena,,pumila,,species,,B187:9,accepted,,,B187:9:8,Mordellistena Costa,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456780
+B187:9:13,Mordellistena brevicauda (Boheman),(Boheman),Mordellistena,,brevicauda,,species,,B187:9,accepted,,,B187:9:8,Mordellistena Costa,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456771
+B187:9:14,Mordellistena neuwaldeggiana (Panzer),(Panzer),Mordellistena,,neuwaldeggiana,,species,,B187:9,accepted,,,B187:9:8,Mordellistena Costa,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456646
+B187:9:15,Mordellistena humeralis (Linnaeus),(Linnaeus),Mordellistena,,humeralis,,species,,B187:9,accepted,,,B187:9:8,Mordellistena Costa,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456638
+B187:9:16,Mordellistena variegata (Fabricius),(Fabricius),Mordellistena,,variegata,,species,,B187:9,accepted,,,B187:9:8,Mordellistena Costa,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,,4456740
