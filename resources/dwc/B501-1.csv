@@ -1,0 +1,91 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B501:1:1,Pompilidae,,,,,,family,,B501:1,accepted,,,,,,,,,Pompilidae,,,,,627L7,7913
+B501:1:2,Pepsinae,,,,,,subfamily,,B501:1,accepted,,,B501:1:1,Pompilidae,,,,,Pompilidae,Pepsinae,,,Pompilidae,,
+B501:1:3,Cryptocheilus,,,,,,genus,,B501:1,accepted,,,B501:1:2,Pepsinae,,,,,Pompilidae,Pepsinae,Cryptocheilus,,Pompilidae | Pepsinae,3WHM,1311931
+B501:1:4,Adonta,,,,,,subgenus,,B501:1,accepted,,,B501:1:3,Cryptocheilus,,,,,Pompilidae,Pepsinae,Cryptocheilus,Adonta,Pompilidae | Pepsinae | Cryptocheilus,,
+B501:1:5,Cryptocheilus fabricii,,Cryptocheilus,,fabricii,,species,,B501:1,accepted,,,B501:1:4,Adonta,,,,,Pompilidae,Pepsinae,Cryptocheilus,Adonta,Pompilidae | Pepsinae | Cryptocheilus | Adonta,ZVWS,4504978
+B501:1:6,Cryptocheilus notatus,,Cryptocheilus,,notatus,,species,,B501:1,accepted,,,B501:1:4,Adonta,,,,,Pompilidae,Pepsinae,Cryptocheilus,Adonta,Pompilidae | Pepsinae | Cryptocheilus | Adonta,ZVZB,4504947
+B501:1:7,Priocnemis,,,,,,genus,,B501:1,accepted,,,B501:1:2,Pepsinae,,,,,Pompilidae,Pepsinae,Priocnemis,,Pompilidae | Pepsinae,87K3C,9500065
+B501:1:8,Priocnemis,,,,,,subgenus,,B501:1,accepted,,,B501:1:7,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis,87K3C,
+B501:1:9,Priocnemis agilis,,Priocnemis,,agilis,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,6W8M8,4505088
+B501:1:10,Priocnemis cordivalvata,,Priocnemis,,cordivalvata,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,788PD,4505117
+B501:1:11,Priocnemis exaltata,,Priocnemis,,exaltata,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,6VX22,4505074
+B501:1:12,Priocnemis fennica,,Priocnemis,,fennica,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,78925,4505101
+B501:1:13,Priocnemis gracilis,,Priocnemis,,gracilis,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,78929,4505082
+B501:1:14,Priocnemis hyalinata,,Priocnemis,,hyalinata,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,6VWP5,4505102
+B501:1:15,Priocnemis minuta,,Priocnemis,,minuta,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,6VX3J,11007866
+B501:1:16,Priocnemis parvula,,Priocnemis,,parvula,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,77WS2,11029158
+B501:1:17,Priocnemis propinqua,,Priocnemis,,propinqua,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,77WRS,4505122
+B501:1:18,Priocnemis pusilla,,Priocnemis,,pusilla,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,77WS6,8583297
+B501:1:19,Priocnemis schioedtei,,Priocnemis,,schioedtei,,species,,B501:1,accepted,,,B501:1:8,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Priocnemis,Pompilidae | Pepsinae | Priocnemis | Priocnemis,78948,4505110
+B501:1:20,Umbripennis,,,,,,subgenus,,B501:1,accepted,,,B501:1:7,Priocnemis,,,,,Pompilidae,Pepsinae,Priocnemis,Umbripennis,Pompilidae | Pepsinae | Priocnemis,,
+B501:1:21,Priocnemis coriacea,,Priocnemis,,coriacea,,species,,B501:1,accepted,,,B501:1:20,Umbripennis,,,,,Pompilidae,Pepsinae,Priocnemis,Umbripennis,Pompilidae | Pepsinae | Priocnemis | Umbripennis,788PC,4405637
+B501:1:22,Priocnemis enslini,,Priocnemis,,enslini,,species,,B501:1,accepted,,,B501:1:20,Umbripennis,,,,,Pompilidae,Pepsinae,Priocnemis,Umbripennis,Pompilidae | Pepsinae | Priocnemis | Umbripennis,77X23,4405661
+B501:1:23,Priocnemis perturbator,,Priocnemis,,perturbator,,species,,B501:1,accepted,,,B501:1:20,Umbripennis,,,,,Pompilidae,Pepsinae,Priocnemis,Umbripennis,Pompilidae | Pepsinae | Priocnemis | Umbripennis,6W945,10962583
+B501:1:24,Priocnemis susterai,,Priocnemis,,susterai,,species,,B501:1,accepted,,,B501:1:20,Umbripennis,,,,,Pompilidae,Pepsinae,Priocnemis,Umbripennis,Pompilidae | Pepsinae | Priocnemis | Umbripennis,788QC,4405642
+B501:1:25,Priocnemis vulgaris,,Priocnemis,,vulgaris,,species,,B501:1,accepted,,,B501:1:20,Umbripennis,,,,,Pompilidae,Pepsinae,Priocnemis,Umbripennis,Pompilidae | Pepsinae | Priocnemis | Umbripennis,6W92K,9806059
+B501:1:26,Caliadurgus,,,,,,genus,,B501:1,accepted,,,B501:1:2,Pepsinae,,,,,Pompilidae,Pepsinae,Caliadurgus,,Pompilidae | Pepsinae,3F7F,3259127
+B501:1:27,Caliadurgus fasciatellus,,Caliadurgus,,fasciatellus,,species,,B501:1,accepted,,,B501:1:26,Caliadurgus,,,,,Pompilidae,Pepsinae,Caliadurgus,,Pompilidae | Pepsinae | Caliadurgus,PJMV,4504921
+B501:1:28,Dipogon,,,,,,genus,,B501:1,accepted,,,B501:1:2,Pepsinae,,,,,Pompilidae,Pepsinae,Dipogon,,Pompilidae | Pepsinae,,
+B501:1:29,Deuteragenia,,,,,,subgenus,,B501:1,accepted,,,B501:1:28,Dipogon,,,,,Pompilidae,Pepsinae,Dipogon,Deuteragenia,Pompilidae | Pepsinae | Dipogon,62PNW,
+B501:1:30,Dipogon bifasciatus,,Dipogon,,bifasciatus,,species,,B501:1,accepted,,,B501:1:29,Deuteragenia,,,,,Pompilidae,Pepsinae,Dipogon,Deuteragenia,Pompilidae | Pepsinae | Dipogon | Deuteragenia,6CXLG,8703749
+B501:1:31,Dipogon subintermedius,,Dipogon,,subintermedius,,species,,B501:1,accepted,,,B501:1:29,Deuteragenia,,,,,Pompilidae,Pepsinae,Dipogon,Deuteragenia,Pompilidae | Pepsinae | Dipogon | Deuteragenia,36PXD,5762550
+B501:1:32,Auplopus,,,,,,genus,,B501:1,accepted,,,B501:1:2,Pepsinae,,,,,Pompilidae,Pepsinae,Auplopus,,Pompilidae | Pepsinae,35TP,4404428
+B501:1:33,Auplopus carbonarius,,Auplopus,,carbonarius,,species,,B501:1,accepted,,,B501:1:32,Auplopus,,,,,Pompilidae,Pepsinae,Auplopus,,Pompilidae | Pepsinae | Auplopus,JT3F,4505140
+B501:1:34,Pompilinae,,,,,,subfamily,,B501:1,accepted,,,B501:1:1,Pompilidae,,,,,Pompilidae,Pompilinae,,,Pompilidae,,
+B501:1:35,Agenioideus,,,,,,genus,,B501:1,accepted,,,B501:1:34,Pompilinae,,,,,Pompilidae,Pompilinae,Agenioideus,,Pompilidae | Pompilinae,QP3,4404608
+B501:1:36,Agenioideus apicalis,,Agenioideus,,apicalis,,species,,B501:1,accepted,,,B501:1:35,Agenioideus,,,,,Pompilidae,Pompilinae,Agenioideus,,Pompilidae | Pompilinae | Agenioideus,65RTJ,4505312
+B501:1:37,Agenioideus cinctellus,,Agenioideus,,cinctellus,,species,,B501:1,accepted,,,B501:1:35,Agenioideus,,,,,Pompilidae,Pompilinae,Agenioideus,,Pompilidae | Pompilinae | Agenioideus,6645M,11016385
+B501:1:38,Agenioideus sericeus,,Agenioideus,,sericeus,,species,,B501:1,accepted,,,B501:1:35,Agenioideus,,,,,Pompilidae,Pompilinae,Agenioideus,,Pompilidae | Pompilinae | Agenioideus,5TS6P,4505324
+B501:1:39,Pompilus,,,,,,genus,,B501:1,accepted,,,B501:1:34,Pompilinae,,,,,Pompilidae,Pompilinae,Pompilus,,Pompilidae | Pompilinae,63NZ9,1339228
+B501:1:40,Pompilus cinereus,,Pompilus,,cinereus,,species,,B501:1,accepted,,,B501:1:39,Pompilus,,,,,Pompilidae,Pompilinae,Pompilus,,Pompilidae | Pompilinae | Pompilus,4LRRB,5870782
+B501:1:41,Arachnospila,,,,,,genus,,B501:1,accepted,,,B501:1:34,Pompilinae,,,,,Pompilidae,Pompilinae,Arachnospila,,Pompilidae | Pompilinae,ZM9,4406260
+B501:1:42,Arachnospila,,,,,,subgenus,,B501:1,accepted,,,B501:1:41,Arachnospila,,,,,Pompilidae,Pompilinae,Arachnospila,Arachnospila,Pompilidae | Pompilinae | Arachnospila,ZM9,
+B501:1:43,Arachnospila fumipennis,,Arachnospila,,fumipennis,,species,,B501:1,accepted,,,B501:1:42,Arachnospila,,,,,Pompilidae,Pompilinae,Arachnospila,Arachnospila,Pompilidae | Pompilinae | Arachnospila | Arachnospila,G3S2,4505772
+B501:1:44,Arachnospila rufa,,Arachnospila,,rufa,,species,,B501:1,accepted,,,B501:1:42,Arachnospila,,,,,Pompilidae,Pompilinae,Arachnospila,Arachnospila,Pompilidae | Pompilinae | Arachnospila | Arachnospila,5W2K2,4505768
+B501:1:45,Ammosphex,,,,,,subgenus,,B501:1,accepted,,,B501:1:41,Arachnospila,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila,TYT,
+B501:1:46,Arachnospila abnormis,,Arachnospila,,abnormis,,species,,B501:1,accepted,,,B501:1:45,Ammosphex,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila | Ammosphex,G3QL,4505721
+B501:1:47,Arachnospila alvarabnormis,,Arachnospila,,alvarabnormis,,species,,B501:1,accepted,,,B501:1:45,Ammosphex,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila | Ammosphex,G3QP,4505743
+B501:1:48,Arachnospila anceps,,Arachnospila,,anceps,,species,,B501:1,accepted,,,B501:1:45,Ammosphex,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila | Ammosphex,G3QR,4505694
+B501:1:49,Arachnospila ausa,,Arachnospila,,ausa,,species,,B501:1,accepted,,,B501:1:45,Ammosphex,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila | Ammosphex,G3R9,8977656
+B501:1:50,Arachnospila consobrina,,Arachnospila,,consobrina,,species,,B501:1,accepted,,,B501:1:45,Ammosphex,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila | Ammosphex,G3RK,4505725
+B501:1:51,Arachnospila pseudabnormis,,Arachnospila,,pseudabnormis,,species,,B501:1,accepted,,,B501:1:45,Ammosphex,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila | Ammosphex,67QJJ,7947466
+B501:1:52,Arachnospila trivialis,,Arachnospila,,trivialis,,species,,B501:1,accepted,,,B501:1:45,Ammosphex,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila | Ammosphex,G3V4,4505753
+B501:1:53,Arachnospila virgilabnormis,,Arachnospila,,virgilabnormis,,species,,B501:1,accepted,,,B501:1:45,Ammosphex,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila | Ammosphex,G3VG,4505742
+B501:1:54,Arachnospila wesmaeli,,Arachnospila,,wesmaeli,,species,,B501:1,accepted,,,B501:1:45,Ammosphex,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila | Ammosphex,G3VJ,4505759
+B501:1:55,Arachnospila westerlundi,,Arachnospila,,westerlundi,,species,,B501:1,accepted,,,B501:1:45,Ammosphex,,,,,Pompilidae,Pompilinae,Arachnospila,Ammosphex,Pompilidae | Pompilinae | Arachnospila | Ammosphex,G3VK,4505717
+B501:1:56,Anoplochares,,,,,,subgenus,,B501:1,accepted,,,B501:1:41,Arachnospila,,,,,Pompilidae,Pompilinae,Arachnospila,Anoplochares,Pompilidae | Pompilinae | Arachnospila,,
+B501:1:57,Arachnospila fuscomarginata,,Arachnospila,,fuscomarginata,,species,,B501:1,accepted,,,B501:1:56,Anoplochares,,,,,Pompilidae,Pompilinae,Arachnospila,Anoplochares,Pompilidae | Pompilinae | Arachnospila | Anoplochares,G3S5,4505810
+B501:1:58,Arachnospila minutula,,Arachnospila,,minutula,,species,,B501:1,accepted,,,B501:1:56,Anoplochares,,,,,Pompilidae,Pompilinae,Arachnospila,Anoplochares,Pompilidae | Pompilinae | Arachnospila | Anoplochares,G3TC,4505799
+B501:1:59,Arachnospila spissa,,Arachnospila,,spissa,,species,,B501:1,accepted,,,B501:1:56,Anoplochares,,,,,Pompilidae,Pompilinae,Arachnospila,Anoplochares,Pompilidae | Pompilinae | Arachnospila | Anoplochares,5VQK5,4505795
+B501:1:60,Aporinellus,,,,,,genus,,B501:1,accepted,,,B501:1:34,Pompilinae,,,,,Pompilidae,Pompilinae,Aporinellus,,Pompilidae | Pompilinae,Z3P,4406469
+B501:1:61,Aporinellus sexmaculatus,,Aporinellus,,sexmaculatus,,species,,B501:1,accepted,,,B501:1:60,Aporinellus,,,,,Pompilidae,Pompilinae,Aporinellus,,Pompilidae | Pompilinae | Aporinellus,5VQM9,10933485
+B501:1:62,Evagetes,,,,,,genus,,B501:1,accepted,,,B501:1:34,Pompilinae,,,,,Pompilidae,Pompilinae,Evagetes,,Pompilidae | Pompilinae,4HKZ,3259139
+B501:1:63,Evagetes crassicornis,,Evagetes,,crassicornis,,species,,B501:1,accepted,,,B501:1:62,Evagetes,,,,,Pompilidae,Pompilinae,Evagetes,,Pompilidae | Pompilinae | Evagetes,3DGDK,4505425
+B501:1:64,Evagetes dubius,,Evagetes,,dubius,,species,,B501:1,accepted,,,B501:1:62,Evagetes,,,,,Pompilidae,Pompilinae,Evagetes,,Pompilidae | Pompilinae | Evagetes,3DGDX,11004696
+B501:1:65,Evagetes gibbulus,,Evagetes,,gibbulus,,species,,B501:1,accepted,,,B501:1:62,Evagetes,,,,,Pompilidae,Pompilinae,Evagetes,,Pompilidae | Pompilinae | Evagetes,6HLSV,4505486
+B501:1:66,Evagetes littoralis,,Evagetes,,littoralis,,species,,B501:1,accepted,,,B501:1:62,Evagetes,,,,,Pompilidae,Pompilinae,Evagetes,,Pompilidae | Pompilinae | Evagetes,3DGF8,4505494
+B501:1:67,Evagetes pectinipes,,Evagetes,,pectinipes,,species,,B501:1,accepted,,,B501:1:62,Evagetes,,,,,Pompilidae,Pompilinae,Evagetes,,Pompilidae | Pompilinae | Evagetes,3DGG5,4505498
+B501:1:68,Evagetes proximus,,Evagetes,,proximus,,species,,B501:1,accepted,,,B501:1:62,Evagetes,,,,,Pompilidae,Pompilinae,Evagetes,,Pompilidae | Pompilinae | Evagetes,3DGGF,4505436
+B501:1:69,Evagetes sahlbergi,,Evagetes,,sahlbergi,,species,,B501:1,accepted,,,B501:1:62,Evagetes,,,,,Pompilidae,Pompilinae,Evagetes,,Pompilidae | Pompilinae | Evagetes,3DGGP,4505509
+B501:1:70,Evagetes siculus,,Evagetes,,siculus,,species,,B501:1,accepted,,,B501:1:62,Evagetes,,,,,Pompilidae,Pompilinae,Evagetes,,Pompilidae | Pompilinae | Evagetes,3DGH2,4505462
+B501:1:71,Episyron,,,,,,genus,,B501:1,accepted,,,B501:1:34,Pompilinae,,,,,Pompilidae,Pompilinae,Episyron,,Pompilidae | Pompilinae,4DFJ,1311933
+B501:1:72,Episyron albonotatum,,Episyron,,albonotatum,,species,,B501:1,accepted,,,B501:1:71,Episyron,,,,,Pompilidae,Pompilinae,Episyron,,Pompilidae | Pompilinae | Episyron,6FXMN,4505237
+B501:1:73,Episyron rufipes,,Episyron,,rufipes,,species,,B501:1,accepted,,,B501:1:71,Episyron,,,,,Pompilidae,Pompilinae,Episyron,,Pompilidae | Pompilinae | Episyron,6G9PZ,4505244
+B501:1:74,Anoplius,,,,,,genus,,B501:1,accepted,,,B501:1:34,Pompilinae,,,,,Pompilidae,Pompilinae,Anoplius,,Pompilidae | Pompilinae,WY5,1311909
+B501:1:75,Anoplius,,,,,,subgenus,,B501:1,accepted,,,B501:1:74,Anoplius,,,,,Pompilidae,Pompilinae,Anoplius,Anoplius,Pompilidae | Pompilinae | Anoplius,WY5,
+B501:1:76,Anoplius alpinobalticus,,Anoplius,,alpinobalticus,,species,,B501:1,accepted,,,B501:1:75,Anoplius,,,,,Pompilidae,Pompilinae,Anoplius,Anoplius,Pompilidae | Pompilinae | Anoplius | Anoplius,66VB6,4505594
+B501:1:77,Anoplius caviventris,,Anoplius,,caviventris,,species,,B501:1,accepted,,,B501:1:75,Anoplius,,,,,Pompilidae,Pompilinae,Anoplius,Anoplius,Pompilidae | Pompilinae | Anoplius | Anoplius,66VBQ,4505585
+B501:1:78,Anoplius concinnus,,Anoplius,,concinnus,,species,,B501:1,accepted,,,B501:1:75,Anoplius,,,,,Pompilidae,Pompilinae,Anoplius,Anoplius,Pompilidae | Pompilinae | Anoplius | Anoplius,66VBT,4505598
+B501:1:79,Anoplius nigerrimus,,Anoplius,,nigerrimus,,species,,B501:1,accepted,,,B501:1:75,Anoplius,,,,,Pompilidae,Pompilinae,Anoplius,Anoplius,Pompilidae | Pompilinae | Anoplius | Anoplius,677F3,4505578
+B501:1:80,Arachnophroctonus,,,,,,subgenus,,B501:1,accepted,,,B501:1:74,Anoplius,,,,,Pompilidae,Pompilinae,Anoplius,Arachnophroctonus,Pompilidae | Pompilinae | Anoplius,ZLW,
+B501:1:81,Anoplius infuscatus,,Anoplius,,infuscatus,,species,,B501:1,accepted,,,B501:1:80,Arachnophroctonus,,,,,Pompilidae,Pompilinae,Anoplius,Arachnophroctonus,Pompilidae | Pompilinae | Anoplius | Arachnophroctonus,5V7CY,4505544
+B501:1:82,Anoplius viaticus,,Anoplius,,viaticus,,species,,B501:1,accepted,,,B501:1:80,Arachnophroctonus,,,,,Pompilidae,Pompilinae,Anoplius,Arachnophroctonus,Pompilidae | Pompilinae | Anoplius | Arachnophroctonus,5V9BF,4505565
+B501:1:83,Homonotus,,,,,,genus,,B501:1,accepted,,,B501:1:34,Pompilinae,,,,,Pompilidae,Pompilinae,Homonotus,,Pompilidae | Pompilinae,636WW,3259147
+B501:1:84,Homonotus sanguinolentus,,Homonotus,,sanguinolentus,,species,,B501:1,accepted,,,B501:1:83,Homonotus,,,,,Pompilidae,Pompilinae,Homonotus,,Pompilidae | Pompilinae | Homonotus,3MHDD,8230768
+B501:1:85,Aporus,,,,,,genus,,B501:1,accepted,,,B501:1:34,Pompilinae,,,,,Pompilidae,Pompilinae,Aporus,,Pompilidae | Pompilinae,Z4T,3258816
+B501:1:86,Aporus unicolor,,Aporus,,unicolor,,species,,B501:1,accepted,,,B501:1:85,Aporus,,,,,Pompilidae,Pompilinae,Aporus,,Pompilidae | Pompilinae | Aporus,FV8H,5762566
+B501:1:87,Ceropalinae,,,,,,subfamily,,B501:1,accepted,,,B501:1:1,Pompilidae,,,,,Pompilidae,Ceropalinae,,,Pompilidae,,
+B501:1:88,Ceropales,,,,,,genus,,B501:1,accepted,,,B501:1:87,Ceropalinae,,,,,Pompilidae,Ceropalinae,Ceropales,,Pompilidae | Ceropalinae,3L7H,3259130
+B501:1:89,Ceropales maculata,,Ceropales,,maculata,,species,,B501:1,accepted,,,B501:1:88,Ceropales,,,,,Pompilidae,Ceropalinae,Ceropales,,Pompilidae | Ceropalinae | Ceropales,T2SH,4504885
+B501:1:90,Ceropales variegata,,Ceropales,,variegata,,species,,B501:1,accepted,,,B501:1:88,Ceropales,,,,,Pompilidae,Ceropalinae,Ceropales,,Pompilidae | Ceropalinae | Ceropales,5XNDQ,11369005
