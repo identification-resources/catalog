@@ -67,6 +67,7 @@ to the (currently theoretical) identification interface will be researched.
 You are of course welcome to help improve the catalog. You can do this in a number of ways,
 including
 
-  1. [Suggesting new keys or other resources to add to the catalog.](https://github.com/identification-resources/catalog/issues/new?assignees=&labels=untriaged%2C+untriaged%3A+addition&template=addition-to-the-catalog.md&title=)
+  1. [Suggesting new keys or other works to add to the catalog.](https://github.com/identification-resources/catalog/issues/new?assignees=&labels=untriaged%2C+untriaged%3A+addition&template=addition-to-the-catalog.md&title=)
   2. [Reporting errors in the metadata of already added resources.](https://github.com/identification-resources/catalog/issues/new?assignees=&labels=untriaged%2C+untriaged%3A+error&template=catalog-error.md&title=)
-  3. [Adding or improving resources yourself by editing the catalog file and making a pull request.](https://github.com/identification-resources/catalog/blob/main/CONTRIBUTING.md#adding-resources)
+  3. [Adding or improving works yourself by editing the catalog file and making a pull request.](https://github.com/identification-resources/catalog/blob/main/CONTRIBUTING.md#adding-works)
+  4. [Adding or improving resources within works](https://github.com/identification-resources/catalog/blob/main/CONTRIBUTING.md#adding-resources-within-works)
