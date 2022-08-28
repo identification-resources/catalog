@@ -1,0 +1,235 @@
+---
+levels:
+  - order
+  - suborder
+  - family
+  - genus
+  - species
+  - variety
+  - form
+catalog:
+  key_type: key
+  pages: 4-91
+---
+
+Neuroptera
+  Planipennia
+    Myrmeleontidae Newm.
+      Myrmeleon Linn.
+        formicarius Linn.
+      Euroleon Esb.-P.
+        europaeus Mac Lachl.
+    Osmylidae Newm.
+      Osmylus Latr.
+        chrysops Linn.
+    Sisyridae Handl.
+      Sisyra Burm.
+        fuscata Fabr.
+        dalii Mac Lachl.
+        jutlandica Esb.-P.
+        terminalis Curt.
+    Hemerobiidae Westw.
+      Hemerobius Linn.
+        nitidulus Fabr.
+        micans Oliv.
+            fuscinervis Schneider
+        marginatus Steph.
+        lutescens Steph.
+        humuli Linn.
+        pini Leach
+        atrifrons Mac Lachl.
+        limbatellus Zett.
+        stigma Steph.
+          = strigosus Zett.
+        simulans Walker
+          = orotypus Wallengr.
+      Boriomyia Banks
+        concinna  Steph.
+        quadrifasciata Reut.
+        betulina Ström
+          = nervosa Fabr.
+        subnebulosa Steph.
+      Niremberge Navas
+        fuscescens Wallengr.
+          = inconspicua Mac Lachl.
+        pellucida Walker
+      Sympherobius Banks
+        elegans Steph.
+          = striatellus Klap.
+        pygmaeus Ramb.
+      Drepanopteryx Burm.
+        phalaenoides Linn.
+      Megalomus Ramb.
+        hirtus Linn.
+      Micromus Rambur
+        paganus Linn.
+        variegatus Fabr.
+        angulatus Steph.
+          = aphidivorus Schranck
+      Psectra Hagen
+        diptera Burm.
+    Chrysopidae Newm.
+      Chrysopa Leach
+        vulgaris Schn.
+        perla L.
+        dorsalis Burm.
+        phyllochroma Wesm.
+        abbreviata Curt.
+          germanica Esb.-P.
+        septempunctata Wesm.
+        prasina Burm.
+          = aspersa Wesm.
+            prasina f. abdominalis Brauer
+        ventralis Curt.
+        flava Scop.
+        vittata Wesm.
+        alba Linn.
+        flavifrons Br.
+        tenella Schneid.
+      Hypochrysa Hag.
+        nobilis Schneid.
+      Nothochrysa Mac Lachl.
+        fulviceps Steph.
+        capitata Fabr.
+    Coniopterygidae Burm.
+      Coniopteryx Curt.
+        tineiformis Curt.
+        pygmaea Endl.
+      Semidalis Endl.
+        aleurodiformis Steph.
+      Parasemidalis Endl.
+        fuscipennis Reuter
+      Conwentzia Endl.
+        psociformis Curt.
+      Helicoconis Endl.
+        lutea Wallengr.
+      Aleuropteryx Loew
+        lowei Klap.
+  Megaloptera
+      Sialis Latr.
+        lutaria L.
+        fuliginosa Pict.
+  Rhapidioidea
+      Raphidia Linn.
+        notata Fabr.
+          laticeps Wallengr.
+        major Burm.
+        flavipes Stein.
+        xanthostigma Schneid.
+        opphiopsis Linn.
+      Inocellia Schneid.
+        crassicornis Schneid.
+Mecoptera
+    Panorpidae Steph.
+      Panorpa Linn.
+        cognata Ramb.
+        communis L.
+        germanica L.
+            borealis Steph.
+        hybrida Mac Lachl.
+    Boreidae Mac Lachl.
+      Boreus Latr.
+        hyemalis L.
+        westwoodi Hag.
+
+===
+
+---
+levels:
+  - order
+  - suborder
+scope:
+  - larvae
+  - puppa
+catalog:
+  pages: 92-92
+  key_type: key
+---
+
+Neuroptera
+  Planipennia
+  Megaloptera
+  Raphidioidea
+Mecoptera
+
+===
+
+---
+levels:
+  - suborder
+  - family
+scope:
+  - larvae
+  - puppa
+catalog:
+  pages: 95-95
+  key_type: key
+---
+
+Planipennia
+  Myrmeleontidae
+  Osmylidae
+  Sisyridae
+  Hemerobiidae
+  Chrysopidae
+  Coniopterygidae
+
+===
+
+---
+levels:
+  - order
+  - suborder
+  - family
+  - species
+catalog:
+  pages: 92-129
+  key_type: reference
+---
+
+Neuroptera
+  Planipennia
+    Myrmeleontidae
+      Myrmeleon formicarius Linn.
+    Osmylidae
+      Osmylus chrysops Linn.
+    Sisyridae
+      Sisyra fuscata Fabr.
+    Hemerobiidae
+      Hemerobius nitidulus Fabr.
+      Hemerobius stigma Steph.
+      Hemerobius micans Oliv.
+      Hemerobius humili L.
+      Hemerobius lutescens Fabr.
+      Boriomyia subnebulosa Steph.
+      Boriomyia concinna Steph.
+      Sympherobius pygmaeus Ramb.
+      Sympherobius elegans Steph.
+      Niremberge fuscescens Wallengr.
+      Drepanopteryx phalaenoides Linn.
+      Micromus paganus Linn.
+    Chrysopidae
+      Chrysopa flava Scop.
+      Chrysopa vittata Wesm.
+      Chrysopa vulgaris Schn.
+      Chrysopa perla L.
+      Chrysopa phyllochroma Wesm.
+      Chrysopa tenelela Schn.
+      Chrysopa alba Linn.
+      Chrysopa flavifrons Brauer
+      Chrysopa prasina Burm.
+      Chrysopa ventralis Curtis
+      Chrysopa septempunctata Wesm.
+      Nothochrysa capitata Fabr.
+    Coniopterygidae
+      Conwentzia psociformis Curt.
+      Coniopteryx tineiformis Curtis
+      Coniopteryx pygmaea Endl.
+      Semidalis aleurodiformis Steph.
+  Megaloptera
+      Sialis lutaria Linn.
+  Raphidioidea
+      Raphidia xanthostigma Schumm.
+Mecoptera
+      Panorpa communis Linn.
+      Boreus hyemalis Linn.

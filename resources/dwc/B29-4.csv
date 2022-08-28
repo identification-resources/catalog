@@ -1,0 +1,47 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B29:4:1,Neuroptera,,,,,,order,,B29:4,accepted,,,,,,,,Neuroptera,,,,,,3ND,1501
+B29:4:2,Planipennia,,,,,,suborder,,B29:4,accepted,,,B29:4:1,Neuroptera,,,,Neuroptera,,,,,Neuroptera,,
+B29:4:3,Myrmeleontidae,,,,,,family,,B29:4,accepted,,,B29:4:2,Planipennia,,,,Neuroptera,Myrmeleontidae,,,,Neuroptera | Planipennia,D3X,5471
+B29:4:4,Myrmeleon formicarius Linn.,Linn.,Myrmeleon,,formicarius,,species,,B29:4,accepted,,,B29:4:3,Myrmeleontidae,,,,Neuroptera,Myrmeleontidae,,Myrmeleon,,Neuroptera | Planipennia | Myrmeleontidae,45BXT,2100670
+B29:4:5,Osmylidae,,,,,,family,,B29:4,accepted,,,B29:4:2,Planipennia,,,,Neuroptera,Osmylidae,,,,Neuroptera | Planipennia,DRB,9380
+B29:4:6,Osmylus chrysops Linn.,Linn.,Osmylus,,chrysops,,species,,B29:4,accepted,,,B29:4:5,Osmylidae,,,,Neuroptera,Osmylidae,,Osmylus,,Neuroptera | Planipennia | Osmylidae,75BYZ,5165431
+B29:4:7,Sisyridae,,,,,,family,,B29:4,accepted,,,B29:4:2,Planipennia,,,,Neuroptera,Sisyridae,,,,Neuroptera | Planipennia,GC9,6180
+B29:4:8,Sisyra fuscata Fabr.,Fabr.,Sisyra,,fuscata,,species,,B29:4,accepted,,,B29:4:7,Sisyridae,,,,Neuroptera,Sisyridae,,Sisyra,,Neuroptera | Planipennia | Sisyridae,4XSF7,2097041
+B29:4:9,Hemerobiidae,,,,,,family,,B29:4,accepted,,,B29:4:2,Planipennia,,,,Neuroptera,Hemerobiidae,,,,Neuroptera | Planipennia,624S6,3532
+B29:4:10,Hemerobius nitidulus Fabr.,Fabr.,Hemerobius,,nitidulus,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Planipennia | Hemerobiidae,3KKPQ,2102180
+B29:4:11,Hemerobius stigma Steph.,Steph.,Hemerobius,,stigma,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Planipennia | Hemerobiidae,3KKTH,2101986
+B29:4:12,Hemerobius micans Oliv.,Oliv.,Hemerobius,,micans,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Planipennia | Hemerobiidae,6LNWK,2102064
+B29:4:13,Hemerobius humili L.,L.,Hemerobius,,humili,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Planipennia | Hemerobiidae,,10554921
+B29:4:14,Hemerobius lutescens Fabr.,Fabr.,Hemerobius,,lutescens,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Hemerobius,,Neuroptera | Planipennia | Hemerobiidae,3KKMS,2102238
+B29:4:15,Boriomyia subnebulosa Steph.,Steph.,Boriomyia,,subnebulosa,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Boriomyia,,Neuroptera | Planipennia | Hemerobiidae,68PD9,11031879
+B29:4:16,Boriomyia concinna Steph.,Steph.,Boriomyia,,concinna,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Boriomyia,,Neuroptera | Planipennia | Hemerobiidae,MK57,5165035
+B29:4:17,Sympherobius pygmaeus Ramb.,Ramb.,Sympherobius,,pygmaeus,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Sympherobius,,Neuroptera | Planipennia | Hemerobiidae,53PDW,2101634
+B29:4:18,Sympherobius elegans Steph.,Steph.,Sympherobius,,elegans,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Sympherobius,,Neuroptera | Planipennia | Hemerobiidae,53PC9,2101719
+B29:4:19,Niremberge fuscescens Wallengr.,Wallengr.,Niremberge,,fuscescens,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Niremberge,,Neuroptera | Planipennia | Hemerobiidae,47HLH,2101687
+B29:4:20,Drepanopteryx phalaenoides Linn.,Linn.,Drepanopteryx,,phalaenoides,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Drepanopteryx,,Neuroptera | Planipennia | Hemerobiidae,37MYF,2102890
+B29:4:21,Micromus paganus Linn.,Linn.,Micromus,,paganus,,species,,B29:4,accepted,,,B29:4:9,Hemerobiidae,,,,Neuroptera,Hemerobiidae,,Micromus,,Neuroptera | Planipennia | Hemerobiidae,42ZJV,2102545
+B29:4:22,Chrysopidae,,,,,,family,,B29:4,accepted,,,B29:4:2,Planipennia,,,,Neuroptera,Chrysopidae,,,,Neuroptera | Planipennia,624B9,9265
+B29:4:23,Chrysopa flava Scop.,Scop.,Chrysopa,,flava,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5YPKD,2104133
+B29:4:24,Chrysopa vittata Wesm.,Wesm.,Chrysopa,,vittata,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5YPM9,11094353
+B29:4:25,Chrysopa vulgaris Schn.,Schn.,Chrysopa,,vulgaris,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5YQ8N,11018507
+B29:4:26,Chrysopa perla L.,L.,Chrysopa,,perla,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5Z36G,2105962
+B29:4:27,Chrysopa phyllochroma Wesm.,Wesm.,Chrysopa,,phyllochroma,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5Z35M,2105923
+B29:4:28,Chrysopa tenelela Schn.,Schn.,Chrysopa,,tenelela,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5YQW8,8709858
+B29:4:29,Chrysopa alba Linn.,Linn.,Chrysopa,,alba,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5YPVW,11068936
+B29:4:30,Chrysopa flavifrons Brauer,Brauer,Chrysopa,,flavifrons,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5YQ85,11093189
+B29:4:31,Chrysopa prasina Burm.,Burm.,Chrysopa,,prasina,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5YPJT,11026225
+B29:4:32,Chrysopa ventralis Curtis,Curtis,Chrysopa,,ventralis,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5Z27J,11078566
+B29:4:33,Chrysopa septempunctata Wesm.,Wesm.,Chrysopa,,septempunctata,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Chrysopa,,Neuroptera | Planipennia | Chrysopidae,5Z36S,11043394
+B29:4:34,Nothochrysa capitata Fabr.,Fabr.,Nothochrysa,,capitata,,species,,B29:4,accepted,,,B29:4:22,Chrysopidae,,,,Neuroptera,Chrysopidae,,Nothochrysa,,Neuroptera | Planipennia | Chrysopidae,47SSP,2103956
+B29:4:35,Coniopterygidae,,,,,,family,,B29:4,accepted,,,B29:4:2,Planipennia,,,,Neuroptera,Coniopterygidae,,,,Neuroptera | Planipennia,8HJ,5204
+B29:4:36,Conwentzia psociformis Curt.,Curt.,Conwentzia,,psociformis,,species,,B29:4,accepted,,,B29:4:35,Coniopterygidae,,,,Neuroptera,Coniopterygidae,,Conwentzia,,Neuroptera | Planipennia | Coniopterygidae,XZYN,2109176
+B29:4:37,Coniopteryx tineiformis Curtis,Curtis,Coniopteryx,,tineiformis,,species,,B29:4,accepted,,,B29:4:35,Coniopterygidae,,,,Neuroptera,Coniopterygidae,,Coniopteryx,,Neuroptera | Planipennia | Coniopterygidae,5ZST6,2108856
+B29:4:38,Coniopteryx pygmaea Endl.,Endl.,Coniopteryx,,pygmaea,,species,,B29:4,accepted,,,B29:4:35,Coniopterygidae,,,,Neuroptera,Coniopterygidae,,Coniopteryx,,Neuroptera | Planipennia | Coniopterygidae,XMPZ,2108709
+B29:4:39,Semidalis aleurodiformis Steph.,Steph.,Semidalis,,aleurodiformis,,species,,B29:4,accepted,,,B29:4:35,Coniopterygidae,,,,Neuroptera,Coniopterygidae,,Semidalis,,Neuroptera | Planipennia | Coniopterygidae,,8528734
+B29:4:40,Megaloptera,,,,,,suborder,,B29:4,accepted,,,B29:4:1,Neuroptera,,,,Neuroptera,,,,,Neuroptera,3J8,
+B29:4:41,Sialis lutaria Linn.,Linn.,Sialis,,lutaria,,species,,B29:4,accepted,,,B29:4:40,Megaloptera,,,,Neuroptera,,,Sialis,,Neuroptera | Megaloptera,4X5J4,5101313
+B29:4:42,Raphidioidea,,,,,,suborder,,B29:4,accepted,,,B29:4:1,Neuroptera,,,,Neuroptera,,,,,Neuroptera,,
+B29:4:43,Raphidia xanthostigma Schumm.,Schumm.,Raphidia,,xanthostigma,,species,,B29:4,accepted,,,B29:4:42,Raphidioidea,,,,Neuroptera,,,Raphidia,,Neuroptera | Raphidioidea,4RK74,11039633
+B29:4:44,Mecoptera,,,,,,order,,B29:4,accepted,,,,,,,,Mecoptera,,,,,,3J4,3256713
+B29:4:45,Panorpa communis Linn.,Linn.,Panorpa,,communis,,species,,B29:4,accepted,,,B29:4:44,Mecoptera,,,,Mecoptera,,,Panorpa,,Mecoptera,6TMC4,5742495
+B29:4:46,Boreus hyemalis Linn.,Linn.,Boreus,,hyemalis,,species,,B29:4,accepted,,,B29:4:44,Mecoptera,,,,Mecoptera,,,Boreus,,Mecoptera,MJZS,4421212
