@@ -1,10 +1,10 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B365:3:1,"Paederus Fabricius, 1775","Fabricius, 1775",,,,,genus,,B365:3,accepted,,,,,,,,,,,Paederus,,,6C7P,3262381
-B365:3:2,Paederus s.,s.,,,,,subgenus,str.,B365:3,accepted,,,B365:3:1,"Paederus Fabricius, 1775",,,,,,,Paederus,Paederus,Paederus,6C7P,
+B365:3:1,"Paederus Fabricius, 1775","Fabricius, 1775",,,,,genus,,B365:3,accepted,,,,,,,,,,,Paederus,,,6C7N,3262381
+B365:3:2,Paederus s.,s.,,,,,subgenus,str.,B365:3,accepted,,,B365:3:1,"Paederus Fabricius, 1775",,,,,,,Paederus,Paederus,Paederus,6C7N,
 B365:3:3,"Paederus riparius (Linné, 1758)","(Linné, 1758)",Paederus,,riparius,,species,,B365:3,accepted,,,B365:3:2,Paederus s.,,,,,,,Paederus,Paederus,Paederus | Paederus,4BX8Q,5746383
 B365:3:4,"Staphylinus riparius Linné, 1758","Linné, 1758",Staphylinus,,riparius,,species,,B365:3,synonym,B365:3:3,"Paederus riparius (Linné, 1758)",,,,,,,,,Paederus,Paederus,Paederus | Paederus,4ZKBR,4439244
 B365:3:5,"Paederus balcanicus Koch, 1938","Koch, 1938",Paederus,,balcanicus,,species,,B365:3,accepted,,,B365:3:2,Paederus s.,,,,,,,Paederus,Paederus,Paederus | Paederus,75J58,5746381
-B365:3:6,"Paederus riparius ssp. balcanicus Koch, 1938","ssp. balcanicus Koch, 1938",Paederus,,riparius,,species,,B365:3,synonym,B365:3:5,"Paederus balcanicus Koch, 1938",,,,,,,,,Paederus,Paederus,Paederus | Paederus,75J58,5746381
+B365:3:6,"Paederus riparius subsp. balcanicus Koch, 1938","Koch, 1938",Paederus,,riparius,balcanicus,subspecies,,B365:3,synonym,B365:3:5,"Paederus balcanicus Koch, 1938",,,,,,,,,Paederus,Paederus,Paederus | Paederus,75J58,5746381
 B365:3:7,"Paederus trapeziceps Scheerpeltz, 1957","Scheerpeltz, 1957",Paederus,,trapeziceps,,species,,B365:3,synonym,B365:3:5,"Paederus balcanicus Koch, 1938",,,,,,,,,Paederus,Paederus,Paederus | Paederus,4BX8V,5746382
 B365:3:8,"Heteropaederus Scheerpeltz, 1957","Scheerpeltz, 1957",,,,,subgenus,,B365:3,accepted,,,B365:3:1,"Paederus Fabricius, 1775",,,,,,,Paederus,Heteropaederus,Paederus,8DNM,
 B365:3:9,"Paederus fuscipes Curtis, 1826","Curtis, 1826",Paederus,,fuscipes,,species,,B365:3,accepted,,,B365:3:8,"Heteropaederus Scheerpeltz, 1957",,,,,,,Paederus,Heteropaederus,Paederus | Heteropaederus,4BX7C,5746394

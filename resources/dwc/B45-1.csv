@@ -7,7 +7,7 @@ B45:1:5,"Atylotus plebeius (Fallén, 1817)","(Fallén, 1817)",Atylotus,,plebeius
 B45:1:6,"Atylotus rusticus (Linnaeus, 1767)","(Linnaeus, 1767)",Atylotus,,rusticus,,species,,B45:1,accepted,,,B45:1:1,"Atylotus Osten Sacken, 1876",,,,,,,Atylotus,,Atylotus,67Y2C,1494276
 B45:1:7,"Atylotus sublunaticornis (Zetterstedt, 1842)","(Zetterstedt, 1842)",Atylotus,,sublunaticornis,,species,,B45:1,accepted,,,B45:1:1,"Atylotus Osten Sacken, 1876",,,,,,,Atylotus,,Atylotus,JNQJ,1494198
 B45:1:8,"Chrysops Meigen, 1803","Meigen, 1803",,,,,genus,,B45:1,accepted,,,,,,,,,,,Chrysops,,,3PLD,1497045
-B45:1:9,"Chrysops caecutiens (Linnaeus, 1758)","(Linnaeus, 1758)",Chrysops,,caecutiens,,species,,B45:1,accepted,,,B45:1:8,"Chrysops Meigen, 1803",,,,,,,Chrysops,,Chrysops,8BHFW,1497483
+B45:1:9,"Chrysops caecutiens (Linnaeus, 1758)","(Linnaeus, 1758)",Chrysops,,caecutiens,,species,,B45:1,accepted,,,B45:1:8,"Chrysops Meigen, 1803",,,,,,,Chrysops,,Chrysops,5YS8S,1497483
 B45:1:10,"Chrysops coecutiens (Linnaeus, 1758)","(Linnaeus, 1758)",Chrysops,,coecutiens,,species,,B45:1,synonym,B45:1:9,"Chrysops caecutiens (Linnaeus, 1758)",,,,,,,,,Chrysops,,Chrysops,,6098327
 B45:1:11,"Chrysops divaricatus Loew, 1858","Loew, 1858",Chrysops,,divaricatus,,species,,B45:1,accepted,,,B45:1:8,"Chrysops Meigen, 1803",,,,,,,Chrysops,,Chrysops,8BHGP,1497153
 B45:1:12,"Chrysops relictus Meigen, 1820","Meigen, 1820",Chrysops,,relictus,,species,,B45:1,accepted,,,B45:1:8,"Chrysops Meigen, 1803",,,,,,,Chrysops,,Chrysops,8BHJS,1497357
@@ -32,7 +32,7 @@ B45:1:30,"Heptatoma pellucens (Fabricius, 1776)","(Fabricius, 1776)",Heptatoma,,
 B45:1:31,"Hybomitra Enderlein, 1922","Enderlein, 1922",,,,,genus,,B45:1,accepted,,,,,,,,,,,Hybomitra,,,8MRCJ,1500153
 B45:1:32,"Hybomitra arpadi (Szilády, 1923)","(Szilády, 1923)",Hybomitra,,arpadi,,species,,B45:1,accepted,,,B45:1:31,"Hybomitra Enderlein, 1922",,,,,,,Hybomitra,,Hybomitra,3MY8Z,1500283
 B45:1:33,"Hybomitra auripila (Meigen, 1820)","(Meigen, 1820)",Hybomitra,,auripila,,species,,B45:1,accepted,,,B45:1:31,"Hybomitra Enderlein, 1922",,,,,,,Hybomitra,,Hybomitra,6MHZD,1500523
-B45:1:34,Hybomitra aterrima var.,var.,Hybomitra,,aterrima,,species,auripila,B45:1,synonym,B45:1:33,"Hybomitra auripila (Meigen, 1820)",,,,,,,,,Hybomitra,,Hybomitra,3MY95,1500505
+B45:1:34,Hybomitra aterrima var. auripila,,Hybomitra,,aterrima,auripila,variety,,B45:1,synonym,B45:1:33,"Hybomitra auripila (Meigen, 1820)",,,,,,,,,Hybomitra,,Hybomitra,6MHZD,1500523
 B45:1:35,"Hybomitra bimaculata (Macquart, 1826)","(Macquart, 1826)",Hybomitra,,bimaculata,,species,,B45:1,accepted,,,B45:1:31,"Hybomitra Enderlein, 1922",,,,,,,Hybomitra,,Hybomitra,3MY9G,1500480
 B45:1:36,"Hybomitra bisignata (Jaennicke, 1866)","(Jaennicke, 1866)",Hybomitra,,bisignata,,species,,B45:1,synonym,B45:1:35,"Hybomitra bimaculata (Macquart, 1826)",,,,,,,,,Hybomitra,,Hybomitra,,6098330
 B45:1:37,"Hybomitra solstitialis Lyneborg, 1959","Lyneborg, 1959",Hybomitra,,solstitialis,,species,"nec (Meigen, 1820)",B45:1,synonym,B45:1:35,"Hybomitra bimaculata (Macquart, 1826)",,,,,,,,,Hybomitra,,Hybomitra,6MHQT,1500247
@@ -46,7 +46,7 @@ B45:1:44,"Hybomitra lurida (Fallén, 1817)","(Fallén, 1817)",Hybomitra,,lurida,
 B45:1:45,"Hybomitra micans (Meigen, 1804)","(Meigen, 1804)",Hybomitra,,micans,,species,,B45:1,accepted,,,B45:1:31,"Hybomitra Enderlein, 1922",,,,,,,Hybomitra,,Hybomitra,3MYCL,1500594
 B45:1:46,"Hybomitra montana (Meigen, 1820)","(Meigen, 1820)",Hybomitra,,montana,,species,,B45:1,accepted,,,B45:1:31,"Hybomitra Enderlein, 1922",,,,,,,Hybomitra,,Hybomitra,3MYCS,1500532
 B45:1:47,"Hybomitra morgani (Surcouf, 1912)","(Surcouf, 1912)",Hybomitra,,morgani,,species,,B45:1,accepted,,,B45:1:31,"Hybomitra Enderlein, 1922",,,,,,,Hybomitra,,Hybomitra,3MYCT,1500494
-B45:1:48,"Hybomitra montana ssp. morgani (Surcouf, 1912)","ssp. morgani (Surcouf, 1912)",Hybomitra,,montana,,species,,B45:1,synonym,B45:1:47,"Hybomitra morgani (Surcouf, 1912)",,,,,,,,,Hybomitra,,Hybomitra,3MYCT,1500494
+B45:1:48,"Hybomitra montana subsp. morgani (Surcouf, 1912)","(Surcouf, 1912)",Hybomitra,,montana,morgani,subspecies,,B45:1,synonym,B45:1:47,"Hybomitra morgani (Surcouf, 1912)",,,,,,,,,Hybomitra,,Hybomitra,3MYCT,1500494
 B45:1:49,"Hybomitra muehlfeldi (Brauer, 1880)","(Brauer, 1880)",Hybomitra,,muehlfeldi,,species,,B45:1,accepted,,,B45:1:31,"Hybomitra Enderlein, 1922",,,,,,,Hybomitra,,Hybomitra,3MYCV,1500456
 B45:1:50,Hybomitra muehlfeldi,,Hybomitra,,muehlfeldi,,species,,B45:1,synonym,B45:1:49,"Hybomitra muehlfeldi (Brauer, 1880)",,,,,,,,,Hybomitra,,Hybomitra,3MYCV,1500456
 B45:1:51,"Hybomitra pilosa (Loew, 1858)","(Loew, 1858)",Hybomitra,,pilosa,,species,,B45:1,accepted,,,B45:1:31,"Hybomitra Enderlein, 1922",,,,,,,Hybomitra,,Hybomitra,3MYDT,1500592
@@ -55,13 +55,13 @@ B45:1:53,"Hybomitra ciureai (Séguy, 1937)","(Séguy, 1937)",Hybomitra,,ciureai,
 B45:1:54,"Hybomitra schineri Lyneborg, 1959","Lyneborg, 1959",Hybomitra,,schineri,,species,,B45:1,synonym,B45:1:52,Hybomitra solstitialis (Meigen 1820),,,,,,,,,Hybomitra,,Hybomitra,6MHPK,1500238
 B45:1:55,"Hybomitra tarandina (Linnaeus, 1758)","(Linnaeus, 1758)",Hybomitra,,tarandina,,species,,B45:1,accepted,,,B45:1:31,"Hybomitra Enderlein, 1922",,,,,,,Hybomitra,,Hybomitra,3MYFK,1500218
 B45:1:56,"Hybomitra tropica (Linnaeus, 1758)","(Linnaeus, 1758)",Hybomitra,,tropica,,species,,B45:1,accepted,,,B45:1:31,"Hybomitra Enderlein, 1922",,,,,,,Hybomitra,,Hybomitra,6MHR8,1500185
-B45:1:57,"Pangonius Latreille, 1802","Latreille, 1802",,,,,genus,,B45:1,accepted,,,,,,,,,,,Pangonius,,,87JP3,1494793
+B45:1:57,"Pangonius Latreille, 1802","Latreille, 1802",,,,,genus,,B45:1,accepted,,,,,,,,,,,Pangonius,,,6D7X,1494793
 B45:1:58,"Pangonius micans Meigen, 1820","Meigen, 1820",Pangonius,,micans,,species,,B45:1,accepted,,,B45:1:57,"Pangonius Latreille, 1802",,,,,,,Pangonius,,Pangonius,8D628,1494815
 B45:1:59,"Philipomyia Enderlein, 1922","Enderlein, 1922",,,,,genus,,B45:1,accepted,,,,,,,,,,,Philipomyia,,,6NDY,1496791
 B45:1:60,"Philipomyia aprica (Meigen, 1820)","(Meigen, 1820)",Philipomyia,,aprica,,species,,B45:1,accepted,,,B45:1:59,"Philipomyia Enderlein, 1922",,,,,,,Philipomyia,,Philipomyia,8D9RQ,4516172
-B45:1:61,"Silvius Meigen, 1820","Meigen, 1820",,,,,genus,,B45:1,accepted,,,,,,,,,,,Silvius,,,87KM4,1500840
+B45:1:61,"Silvius Meigen, 1820","Meigen, 1820",,,,,genus,,B45:1,accepted,,,,,,,,,,,Silvius,,,7GY2,1500840
 B45:1:62,"Silvius alpinus (Scopoli, 1763)","(Scopoli, 1763)",Silvius,,alpinus,,species,,B45:1,accepted,,,B45:1:61,"Silvius Meigen, 1820",,,,,,,Silvius,,Silvius,8DWYJ,1500842
-B45:1:63,"Tabanus Linnaeus, 1758","Linnaeus, 1758",,,,,genus,,B45:1,accepted,,,,,,,,,,,Tabanus,,,8NZQT,1444264
+B45:1:63,"Tabanus Linnaeus, 1758","Linnaeus, 1758",,,,,genus,,B45:1,accepted,,,,,,,,,,,Tabanus,,,87KW7,1444264
 B45:1:64,"Tabanus autumnalis Linnaeus, 1758","Linnaeus, 1758",Tabanus,,autumnalis,,species,,B45:1,accepted,,,B45:1:63,"Tabanus Linnaeus, 1758",,,,,,,Tabanus,,Tabanus,547H8,1499769
 B45:1:65,"Tabanus bovinus Linnaeus, 1758","Linnaeus, 1758",Tabanus,,bovinus,,species,,B45:1,accepted,,,B45:1:63,"Tabanus Linnaeus, 1758",,,,,,,Tabanus,,Tabanus,547KT,1499136
 B45:1:66,"Tabanus bromius Linnaeus, 1758","Linnaeus, 1758",Tabanus,,bromius,,species,,B45:1,accepted,,,B45:1:63,"Tabanus Linnaeus, 1758",,,,,,,Tabanus,,Tabanus,547LF,1499099
