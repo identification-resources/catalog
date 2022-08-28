@@ -322,7 +322,7 @@ async function main () {
         .sort((a, b) => a.slice(1) - b.slice(1))
 
     for (const id of ids) {
-        if (output.some(file => file.startsWith(id))) {
+        if (output.some(file => file.startsWith(id + '-'))) {
             continue
         }
         await processWork(id)
