@@ -60,6 +60,14 @@ const RANK_LABELS = {
     'aberration': 'ab.'
 }
 
+const RANK_LABELS_REVERSE = {
+    'ab': 'aberration',
+    'f': 'form',
+    'var': 'variety',
+    'ssp': 'subspecies',
+    'subsp': 'subspecies'
+}
+
 const NAME_PATTERN = new RegExp(
     '^' +
         // $1 main name part
@@ -113,12 +121,18 @@ function isUpperCase (name) {
 }
 
 function getSynonymRank (name, rank) {
-    if (/^([A-Z]\S+ )?[a-z0-9-]+ (?!sensu)[a-z0-9-]+($| )/.test(name)) {
-        return 'subspecies'
-    } else if (/^([A-Z]\S+ )?[a-z0-9-]+($| (?![a-z0-9]))/.test(name)) {
-        return 'species'
-    } else {
+    const BINAME_PATTERN = /^([A-Z]\S+ (\([A-Z]\S+\) )?)?[a-z0-9-]+/
+    if (!BINAME_PATTERN.test(name)) {
         return rank
+    }
+    const rest = name.replace(BINAME_PATTERN, '')
+    const rankPrefix = rest.match(/^ (ab|f|var|ssp|subsp)\. /)
+    if (rankPrefix) {
+        return RANK_LABELS_REVERSE[rankPrefix[1]]
+    } else if (/^ (?!sensu)[a-z0-9-]+($| )/.test(rest)) {
+        return 'subspecies'
+    } else {
+        return 'species'
     }
 }
 
