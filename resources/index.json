@@ -79,6 +79,18 @@
     "id": "B12:1",
     "taxonCount": 50
   },
+  "B13:1": {
+    "levels": [
+      "order",
+      "suborder",
+      "series",
+      "section",
+      "family"
+    ],
+    "scope": [],
+    "id": "B13:1",
+    "taxonCount": 95
+  },
   "B14:1": {
     "levels": [
       "species"
@@ -175,6 +187,86 @@
     "id": "B23:1",
     "taxonCount": 42
   },
+  "B24:1": {
+    "levels": [
+      "order",
+      "suborder",
+      "family",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "pages": "216-229"
+    },
+    "id": "B24:1",
+    "taxonCount": 200
+  },
+  "B29:1": {
+    "levels": [
+      "order",
+      "suborder",
+      "family",
+      "genus",
+      "species",
+      "variety",
+      "form"
+    ],
+    "scope": [],
+    "catalog": {
+      "key_type": "key",
+      "pages": "4-91"
+    },
+    "id": "B29:1",
+    "taxonCount": 119
+  },
+  "B29:2": {
+    "levels": [
+      "order",
+      "suborder"
+    ],
+    "scope": [
+      "larvae",
+      "puppa"
+    ],
+    "catalog": {
+      "pages": "92-92",
+      "key_type": "key"
+    },
+    "id": "B29:2",
+    "taxonCount": 5
+  },
+  "B29:3": {
+    "levels": [
+      "suborder",
+      "family"
+    ],
+    "scope": [
+      "larvae",
+      "puppa"
+    ],
+    "catalog": {
+      "pages": "95-95",
+      "key_type": "key"
+    },
+    "id": "B29:3",
+    "taxonCount": 7
+  },
+  "B29:4": {
+    "levels": [
+      "order",
+      "suborder",
+      "family",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "pages": "92-129",
+      "key_type": "reference"
+    },
+    "id": "B29:4",
+    "taxonCount": 46
+  },
   "B32:1": {
     "levels": [
       "species"
@@ -190,6 +282,16 @@
     "scope": [],
     "id": "B33:1",
     "taxonCount": 68
+  },
+  "B34:1": {
+    "levels": [
+      "suborder",
+      "group",
+      "species"
+    ],
+    "scope": [],
+    "id": "B34:1",
+    "taxonCount": 23
   },
   "B35:1": {
     "levels": [
@@ -614,6 +716,18 @@
     "scope": [],
     "id": "B87:1",
     "taxonCount": 69
+  },
+  "B91:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "id": "B91:1",
+    "taxonCount": 224
   },
   "B92:1": {
     "levels": [
@@ -2332,6 +2446,86 @@
     "id": "B190:1",
     "taxonCount": 164
   },
+  "B191:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species",
+      "variety"
+    ],
+    "scope": [
+      "adults"
+    ],
+    "id": "B191:1",
+    "taxonCount": 150
+  },
+  "B192:1": {
+    "levels": [
+      "family",
+      "tribe",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "id": "B192:1",
+    "taxonCount": 120
+  },
+  "B201:1": {
+    "levels": [
+      "suborder",
+      "superfamily",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [],
+    "id": "B201:1",
+    "taxonCount": 207
+  },
+  "B203:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "group",
+      "species",
+      "subspecies"
+    ],
+    "scope": [],
+    "id": "B203:1",
+    "taxonCount": 468
+  },
+  "B204:1": {
+    "levels": [
+      "subfamily",
+      "tribe",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [],
+    "id": "B204:1",
+    "taxonCount": 357
+  },
+  "B205:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "group",
+      "species"
+    ],
+    "scope": [],
+    "id": "B205:1",
+    "taxonCount": 124
+  },
   "B206:1": {
     "levels": [
       "superfamily",
@@ -3105,6 +3299,22 @@
     },
     "id": "B232:1",
     "taxonCount": 353
+  },
+  "B233:1": {
+    "levels": [
+      "order",
+      "suborder",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "group",
+      "species",
+      "form"
+    ],
+    "scope": [],
+    "id": "B233:1",
+    "taxonCount": 272
   },
   "B234:1": {
     "levels": [
