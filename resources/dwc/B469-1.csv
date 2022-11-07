@@ -1,0 +1,88 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B469:1:1,"Lasius Fabricius, 1804","Fabricius, 1804",,,,,subgenus,,B469:1,accepted,,,,,,,,,,,,Lasius,,5B7S,
+B469:1:2,"Lasius brunneus (Latreille, 1798)","(Latreille, 1798)",Lasius,,brunneus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,6P3BM,5035823
+B469:1:3,"Formica brunnea Latreille, 1798","Latreille, 1798",Formica,,brunnea,,species,,B469:1,synonym,B469:1:2,"Lasius brunneus (Latreille, 1798)",,,,,,,,,Lasius,Lasius,Lasius,,8315058
+B469:1:4,"Lasius pallidus (Latreille, 1798)","(Latreille, 1798)",Lasius,,pallidus,,species,,B469:1,synonym,B469:1:2,"Lasius brunneus (Latreille, 1798)",,,,,,,,,Lasius,Lasius,Lasius,5B7S,6007033
+B469:1:5,"Formica pallida Latreille, 1798","Latreille, 1798",Formica,,pallida,,species,,B469:1,synonym,B469:1:2,"Lasius brunneus (Latreille, 1798)",,,,,,,,,Lasius,Lasius,Lasius,,7796388
+B469:1:6,"Lasius timidus (Foerster, 1850)","(Foerster, 1850)",Lasius,,timidus,,species,,B469:1,synonym,B469:1:2,"Lasius brunneus (Latreille, 1798)",,,,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:7,"Formica timida Foerster, 1850","Foerster, 1850",Formica,,timida,,species,,B469:1,synonym,B469:1:2,"Lasius brunneus (Latreille, 1798)",,,,,,,,,Lasius,Lasius,Lasius,,7894803
+B469:1:8,"Lasius alienobrunneus Forel, 1874","Forel, 1874",Lasius,,alienobrunneus,,species,,B469:1,synonym,B469:1:2,"Lasius brunneus (Latreille, 1798)",,,,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:9,"Lasius niger var. alienobrunneus Forel, 1874","Forel, 1874",Lasius,,niger,alienobrunneus,variety,,B469:1,synonym,B469:1:2,"Lasius brunneus (Latreille, 1798)",,,,,,,,,Lasius,Lasius,Lasius,3SGXX,5035785
+B469:1:10,Lasius silvaticus,,Lasius,,silvaticus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:11,"Lasius himalayanus Bingham, 1903","Bingham, 1903",Lasius,,himalayanus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGX5,5035796
+B469:1:12,Lasius excavatus,,Lasius,,excavatus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:13,"Lasius lasioides (Emery, 1869)","(Emery, 1869)",Lasius,,lasioides,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGXC,5035838
+B469:1:14,"Prenolepis lasioides Emery, 1869","Emery, 1869",Prenolepis,,lasioides,,species,,B469:1,synonym,B469:1:13,"Lasius lasioides (Emery, 1869)",,,,,,,,,Lasius,Lasius,Lasius,,9008864
+B469:1:15,"Lasius fusculus (Emery, 1869)","(Emery, 1869)",Lasius,,fusculus,,species,,B469:1,synonym,B469:1:13,"Lasius lasioides (Emery, 1869)",,,,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:16,"Prenolepis fuscula Emery, 1869","Emery, 1869",Prenolepis,,fuscula,,species,,B469:1,synonym,B469:1:13,"Lasius lasioides (Emery, 1869)",,,,,,,,,Lasius,Lasius,Lasius,6VK5,1323588
+B469:1:17,"Lasius nigrobrunneus (Donisthorpe, 1926)","(Donisthorpe, 1926)",Lasius,,nigrobrunneus,,species,,B469:1,synonym,B469:1:13,"Lasius lasioides (Emery, 1869)",,,,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:18,"Acanthomyops brunneus var. nigrobrunneus Donisthorpe, 1926","Donisthorpe, 1926",Acanthomyops,,brunneus,nigrobrunneus,variety,,B469:1,synonym,B469:1:13,"Lasius lasioides (Emery, 1869)",,,,,,,,,Lasius,Lasius,Lasius,M9T,1323750
+B469:1:19,"Lasius barbarus Santschi, 1931","Santschi, 1931",Lasius,,barbarus,,species,,B469:1,synonym,B469:1:13,"Lasius lasioides (Emery, 1869)",,,,,,,,,Lasius,Lasius,Lasius,,
+B469:1:20,"Lasius alienus var. barbarus Santschi, 1931","Santschi, 1931",Lasius,,alienus,barbarus,variety,,B469:1,synonym,B469:1:13,"Lasius lasioides (Emery, 1869)",,,,,,,,,Lasius,Lasius,Lasius,3SGW5,5035777
+B469:1:21,"Lasius austriacus Schlick-Steiner, 2003","Schlick-Steiner, 2003",Lasius,,austriacus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,,8944953
+B469:1:22,"Lasius neglectus Van Loon, Boomsma & Andrasfalvy, 1990","Van Loon, Boomsma & Andrasfalvy, 1990",Lasius,,neglectus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,,7358948
+B469:1:23,Lasius precursor,,Lasius,,precursor,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:24,"Lasius turcicus Santschi, 1921","Santschi, 1921",Lasius,,turcicus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGZ4,5035780
+B469:1:25,"Lasius niger st. turcica Santschi, 1921","st. turcica Santschi, 1921",Lasius,,niger,,species,,B469:1,synonym,B469:1:24,"Lasius turcicus Santschi, 1921",,,,,,,,,Lasius,Lasius,Lasius,3SGZ4,5035780
+B469:1:26,"Lasius tapinomoides Salata & Borowiec, 2018","Salata & Borowiec, 2018",Lasius,,tapinomoides,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,,10065782
+B469:1:27,Lasius israelicus,,Lasius,,israelicus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:28,"Lasius obscuratus Stitz, 1930","Stitz, 1930",Lasius,,obscuratus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGY4,5035861
+B469:1:29,"Lasius brunneus var. obscuratus Stitz, 1930","Stitz, 1930",Lasius,,brunneus,obscuratus,variety,,B469:1,synonym,B469:1:28,"Lasius obscuratus Stitz, 1930",,,,,,,,,Lasius,Lasius,Lasius,3SGY4,5035861
+B469:1:30,"Lasius psammophilus Seifert, 1992","Seifert, 1992",Lasius,,psammophilus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,6P3DH,5035767
+B469:1:31,"Lasius piliferus Seifert, 1992","Seifert, 1992",Lasius,,piliferus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,6P3DG,5035801
+B469:1:32,Lasius creticus,,Lasius,,creticus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:33,Lasius brevipalpus,,Lasius,,brevipalpus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:34,"Lasius paralienus Seifert, 1992","Seifert, 1992",Lasius,,paralienus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGY8,5035816
+B469:1:35,"Lasius bombycina Seifert & Galkowski, 2016","Seifert & Galkowski, 2016",Lasius,,bombycina,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,,8449397
+B469:1:36,"Lasius casevitzi Seifert & Galkowski, 2016","Seifert & Galkowski, 2016",Lasius,,casevitzi,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,,8653554
+B469:1:37,Lasius kritikos,,Lasius,,kritikos,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:38,"Lasius alienus (Foerster, 1850)","(Foerster, 1850)",Lasius,,alienus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGW5,5035777
+B469:1:39,"Formica aliena Foerster, 1850","Foerster, 1850",Formica,,aliena,,species,,B469:1,synonym,B469:1:38,"Lasius alienus (Foerster, 1850)",,,,,,,,,Lasius,Lasius,Lasius,,7917871
+B469:1:40,"Lasius karpinisi Seifert, 1992","Seifert, 1992",Lasius,,karpinisi,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,6P3BL,5035855
+B469:1:41,"Lasius schulzi Seifert, 1992","Seifert, 1992",Lasius,,schulzi,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGYR,5035773
+B469:1:42,"Lasius uzbeki Seifert, 1992","Seifert, 1992",Lasius,,uzbeki,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGZ6,5035866
+B469:1:43,"Lasius niger (Linnaeus, 1758)","(Linnaeus, 1758)",Lasius,,niger,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGXX,5035785
+B469:1:44,"Formica nigra Linnaeus, 1758","Linnaeus, 1758",Formica,,nigra,,species,,B469:1,synonym,B469:1:43,"Lasius niger (Linnaeus, 1758)",,,,,,,,,Lasius,Lasius,Lasius,6JGHV,8350865
+B469:1:45,Lasius vostochni,,Lasius,,vostochni,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:46,"Lasius japonicus Santschi, 1941","Santschi, 1941",Lasius,,japonicus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGX8,5035763
+B469:1:47,"Lasius emarginatus var. japonicus Santschi, 1941","Santschi, 1941",Lasius,,emarginatus,japonicus,variety,,B469:1,synonym,B469:1:46,"Lasius japonicus Santschi, 1941",,,,,,,,,Lasius,Lasius,Lasius,3SGX8,5035763
+B469:1:48,Lasius chinensis,,Lasius,,chinensis,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SCW9,10287346
+B469:1:49,"Lasius platythorax Seifert, 1991","Seifert, 1991",Lasius,,platythorax,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGYB,5035793
+B469:1:50,Lasius cyperus,,Lasius,,cyperus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:51,"Lasius flavescens Forel, 1904","Forel, 1904",Lasius,,flavescens,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,6P3BK,5035764
+B469:1:52,"Lasius niger r. flavescens Forel, 1904","r. flavescens Forel, 1904",Lasius,,niger,,species,,B469:1,synonym,B469:1:51,"Lasius flavescens Forel, 1904",,,,,,,,,Lasius,Lasius,Lasius,3SGXX,5035785
+B469:1:53,"Lasius flavoniger Seifert, 1992","Seifert, 1992",Lasius,,flavoniger,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGWV,5035757
+B469:1:54,"Lasius grandis Forel, 1909","Forel, 1909",Lasius,,grandis,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGX2,5035819
+B469:1:55,"Lasius niger var. grandis Forel, 1909","Forel, 1909",Lasius,,niger,grandis,variety,,B469:1,synonym,B469:1:54,"Lasius grandis Forel, 1909",,,,,,,,,Lasius,Lasius,Lasius,3SGX2,5035819
+B469:1:56,Lasius mauretanicus,,Lasius,,mauretanicus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:57,"Lasius cinereus Seifert, 1992","Seifert, 1992",Lasius,,cinereus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGWF,5035783
+B469:1:58,"Lasius balearicus Talavera, Espadaler & Vila, 2014","Talavera, Espadaler & Vila, 2014",Lasius,,balearicus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:59,Lasius persicus,,Lasius,,persicus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:60,"Lasius emarginatus (Olivier, 1791)","(Olivier, 1791)",Lasius,,emarginatus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGWP,5035813
+B469:1:61,Formica emarginata Olivier 1791,Olivier 1791,Formica,,emarginata,,species,,B469:1,synonym,B469:1:60,"Lasius emarginatus (Olivier, 1791)",,,,,,,,,Lasius,Lasius,Lasius,,8091855
+B469:1:62,"Lasius brunneoemarginatus Forel, 1874","Forel, 1874",Lasius,,brunneoemarginatus,,species,,B469:1,synonym,B469:1:60,"Lasius emarginatus (Olivier, 1791)",,,,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:63,"Lasius emarginatus var. brunneoemarginatus Forel, 1874","Forel, 1874",Lasius,,emarginatus,brunneoemarginatus,variety,,B469:1,synonym,B469:1:60,"Lasius emarginatus (Olivier, 1791)",,,,,,,,,Lasius,Lasius,Lasius,3SGWP,5035813
+B469:1:64,"Lasius brunneoides Forel, 1874","Forel, 1874",Lasius,,brunneoides,,species,,B469:1,synonym,B469:1:60,"Lasius emarginatus (Olivier, 1791)",,,,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:65,"Lasius emarginatus var. brunneoides Forel, 1874","Forel, 1874",Lasius,,emarginatus,brunneoides,variety,,B469:1,synonym,B469:1:60,"Lasius emarginatus (Olivier, 1791)",,,,,,,,,Lasius,Lasius,Lasius,3SGWP,5035813
+B469:1:66,"Lasius illyricus Zimmermann, 1935","Zimmermann, 1935",Lasius,,illyricus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,,10830378
+B469:1:67,"Lasius alienus subsp. illyricus Zimmermann, 1935","Zimmermann, 1935",Lasius,,alienus,illyricus,subspecies,,B469:1,synonym,B469:1:66,"Lasius illyricus Zimmermann, 1935",,,,,,,,,Lasius,Lasius,Lasius,,10830378
+B469:1:68,"Lasius ponticus Stärcke, 1944","Stärcke, 1944",Lasius,,ponticus,,species,,B469:1,synonym,B469:1:66,"Lasius illyricus Zimmermann, 1935",,,,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:69,"Lasius alienus var. pontica Stärcke, 1944","Stärcke, 1944",Lasius,,alienus,pontica,variety,,B469:1,synonym,B469:1:66,"Lasius illyricus Zimmermann, 1935",,,,,,,,,Lasius,Lasius,Lasius,3SGW5,5035777
+B469:1:70,Lasius maltaeus,,Lasius,,maltaeus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:71,"Lasius tebessae Seifert, 1992","Seifert, 1992",Lasius,,tebessae,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGYY,5035812
+B469:1:72,Lasius tunisius,,Lasius,,tunisius,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:73,"Lasius magnus Seifert, 1992","Seifert, 1992",Lasius,,magnus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGXG,5035795
+B469:1:74,"Lasius lawarai Seifert, 1992","Seifert, 1992",Lasius,,lawarai,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGXD,5035828
+B469:1:75,"Lasius wittmeri Seifert, 1992","Seifert, 1992",Lasius,,wittmeri,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,6P3DC,5035829
+B469:1:76,"Lasius hirsutus Seifert, 1992","Seifert, 1992",Lasius,,hirsutus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGX6,5035779
+B469:1:77,"Lasius nigrescens Stitz, 1930","Stitz, 1930",Lasius,,nigrescens,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGXZ,5035776
+B469:1:78,"Lasius schaeferi Seifert, 1992","Seifert, 1992",Lasius,,schaeferi,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGYP,5035791
+B469:1:79,"Lasius coloratus Santschi, 1937","Santschi, 1937",Lasius,,coloratus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGWH,5035766
+B469:1:80,Lasius niger st. coloratus Santschi 1937,st. coloratus Santschi 1937,Lasius,,niger,,species,,B469:1,synonym,B469:1:79,"Lasius coloratus Santschi, 1937",,,,,,,,,Lasius,Lasius,Lasius,3SGWH,5035766
+B469:1:81,Lasius sichuense,,Lasius,,sichuense,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:82,Lasius kabaki,,Lasius,,kabaki,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:83,Lasius longipalpus,,Lasius,,longipalpus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
+B469:1:84,"Lasius productus Wilson, 1955","Wilson, 1955",Lasius,,productus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGYC,5035784
+B469:1:85,"Lasius koreanus Seifert, 1992","Seifert, 1992",Lasius,,koreanus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGXB,5035848
+B469:1:86,"Lasius hayashi Yamauchi & Hayashida, 1970","Yamauchi & Hayashida, 1970",Lasius,,hayashi,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGX3,5035811
+B469:1:87,"Lasius sakagamii Yamauchi & Hayashida, 1970","Yamauchi & Hayashida, 1970",Lasius,,sakagamii,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGYM,5035799
