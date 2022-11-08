@@ -25,7 +25,9 @@ const RANKS = [
     'subspecies',
     'variety',
     'form',
-    'aberration' // not ICZN
+    'aberration', // not ICZN
+    'race', // not ICZN
+    'stirps' // not ICZN
 ]
 
 const DWC_RANKS = [
@@ -57,10 +59,14 @@ const RANK_LABELS = {
     'subspecies': 'subsp.',
     'variety': 'var.',
     'form': 'f.',
-    'aberration': 'ab.'
+    'aberration': 'ab.',
+    'race': 'r.',
+    'stirps': 'st.'
 }
 
 const RANK_LABELS_REVERSE = {
+    'st': 'stirps',
+    'r': 'race',
     'ab': 'aberration',
     'f': 'form',
     'var': 'variety',
@@ -126,7 +132,7 @@ function getSynonymRank (name, rank) {
         return rank
     }
     const rest = name.replace(BINAME_PATTERN, '')
-    const rankPrefix = rest.match(/^ (ab|f|var|ssp|subsp)\. /)
+    const rankPrefix = rest.match(/^ (st|r|ab|f|var|ssp|subsp)\. /)
     if (rankPrefix) {
         return RANK_LABELS_REVERSE[rankPrefix[1]]
     } else if (/^ (?!sensu)[a-z0-9-]+($| )/.test(rest)) {
@@ -199,7 +205,7 @@ function parseName (name, rank, parent) {
         if (compareRanks('species', rank) < 0) {
             const speciesPrefix = parseContext.specificEpithet + ' '
             if (name.startsWith(speciesPrefix)) {
-                name = name.slice(speciesPrefix.length).replace(/^(s(ub)?sp\.|var\.|f\.|ab\.) /, '')
+                name = name.slice(speciesPrefix.length).replace(/^(st|r|ab|f|var|ssp|subsp)\. /, '')
             }
         }
     }
