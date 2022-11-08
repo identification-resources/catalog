@@ -23,7 +23,7 @@ B469:1:21,"Lasius austriacus Schlick-Steiner, 2003","Schlick-Steiner, 2003",Lasi
 B469:1:22,"Lasius neglectus Van Loon, Boomsma & Andrasfalvy, 1990","Van Loon, Boomsma & Andrasfalvy, 1990",Lasius,,neglectus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,,7358948
 B469:1:23,Lasius precursor,,Lasius,,precursor,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
 B469:1:24,"Lasius turcicus Santschi, 1921","Santschi, 1921",Lasius,,turcicus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGZ4,5035780
-B469:1:25,"Lasius niger st. turcica Santschi, 1921","st. turcica Santschi, 1921",Lasius,,niger,,species,,B469:1,synonym,B469:1:24,"Lasius turcicus Santschi, 1921",,,,,,,,,Lasius,Lasius,Lasius,3SGZ4,5035780
+B469:1:25,"Lasius niger st. turcica Santschi, 1921","Santschi, 1921",Lasius,,niger,turcica,stirps,,B469:1,synonym,B469:1:24,"Lasius turcicus Santschi, 1921",,,,,,,,,Lasius,Lasius,Lasius,3SGZ4,
 B469:1:26,"Lasius tapinomoides Salata & Borowiec, 2018","Salata & Borowiec, 2018",Lasius,,tapinomoides,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,,10065782
 B469:1:27,Lasius israelicus,,Lasius,,israelicus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
 B469:1:28,"Lasius obscuratus Stitz, 1930","Stitz, 1930",Lasius,,obscuratus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGY4,5035861
@@ -50,7 +50,7 @@ B469:1:48,Lasius chinensis,,Lasius,,chinensis,,species,sp. nov.,B469:1,accepted,
 B469:1:49,"Lasius platythorax Seifert, 1991","Seifert, 1991",Lasius,,platythorax,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGYB,5035793
 B469:1:50,Lasius cyperus,,Lasius,,cyperus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
 B469:1:51,"Lasius flavescens Forel, 1904","Forel, 1904",Lasius,,flavescens,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,6P3BK,5035764
-B469:1:52,"Lasius niger r. flavescens Forel, 1904","r. flavescens Forel, 1904",Lasius,,niger,,species,,B469:1,synonym,B469:1:51,"Lasius flavescens Forel, 1904",,,,,,,,,Lasius,Lasius,Lasius,3SGXX,5035785
+B469:1:52,"Lasius niger r. flavescens Forel, 1904","Forel, 1904",Lasius,,niger,flavescens,race,,B469:1,synonym,B469:1:51,"Lasius flavescens Forel, 1904",,,,,,,,,Lasius,Lasius,Lasius,3SGXX,
 B469:1:53,"Lasius flavoniger Seifert, 1992","Seifert, 1992",Lasius,,flavoniger,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGWV,5035757
 B469:1:54,"Lasius grandis Forel, 1909","Forel, 1909",Lasius,,grandis,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGX2,5035819
 B469:1:55,"Lasius niger var. grandis Forel, 1909","Forel, 1909",Lasius,,niger,grandis,variety,,B469:1,synonym,B469:1:54,"Lasius grandis Forel, 1909",,,,,,,,,Lasius,Lasius,Lasius,3SGX2,5035819
@@ -78,7 +78,7 @@ B469:1:76,"Lasius hirsutus Seifert, 1992","Seifert, 1992",Lasius,,hirsutus,,spec
 B469:1:77,"Lasius nigrescens Stitz, 1930","Stitz, 1930",Lasius,,nigrescens,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGXZ,5035776
 B469:1:78,"Lasius schaeferi Seifert, 1992","Seifert, 1992",Lasius,,schaeferi,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGYP,5035791
 B469:1:79,"Lasius coloratus Santschi, 1937","Santschi, 1937",Lasius,,coloratus,,species,,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,3SGWH,5035766
-B469:1:80,Lasius niger st. coloratus Santschi 1937,st. coloratus Santschi 1937,Lasius,,niger,,species,,B469:1,synonym,B469:1:79,"Lasius coloratus Santschi, 1937",,,,,,,,,Lasius,Lasius,Lasius,3SGWH,5035766
+B469:1:80,Lasius niger st. coloratus Santschi 1937,Santschi 1937,Lasius,,niger,coloratus,stirps,,B469:1,synonym,B469:1:79,"Lasius coloratus Santschi, 1937",,,,,,,,,Lasius,Lasius,Lasius,3SGWH,
 B469:1:81,Lasius sichuense,,Lasius,,sichuense,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
 B469:1:82,Lasius kabaki,,Lasius,,kabaki,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
 B469:1:83,Lasius longipalpus,,Lasius,,longipalpus,,species,sp. nov.,B469:1,accepted,,,B469:1:1,"Lasius Fabricius, 1804",,,,,,,Lasius,Lasius,Lasius,5B7S,1325751
