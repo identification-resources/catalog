@@ -4,11 +4,12 @@ name,qid,display_name
 Africa,Q15,
 "Africa, Algeria",Q262,Algeria
 "Africa, Egypt, Sinai",Q36755,"Sinai Peninsula, Egypt"
+"Africa, Libya",Q1016,Libya
 "Africa, Madagascar",Q1019,Madagascar
-"Africa, Maghreb",Q28227,Maghreb
+"Africa, Mauritania",Q1025,Mauritania
 "Africa, Morocco",Q1028,Morocco
 "Africa, North",Q27381,Northern Africa
-"Africa, Northern",Q27381,Northern Africa
+"Africa, Portugal, Madeira",Q26253,Madeira
 "Africa, Spain, Canary Islands",Q5813,"Canary Islands, Spain"
 "Africa, Sub-Sahara",Q132959,Sub-Saharan Africa
 "Africa, Tunisia",Q948,Tunisia
@@ -26,13 +27,13 @@ Asia,Q48,
 "Asia, Israel",Q801,Israel
 "Asia, Japan",Q17,Japan
 "Asia, Jordan",Q810,Jordan
-"Asia, Korea",Q18097,Korea
 "Asia, Lebanon",Q822,Lebanon
 "Asia, Middle East",Q7204,
-"Asia, Minor",Q51614,Anatolia
+"Asia, North Korea",Q423,North Korea
 "Asia, Orient",Q757081,Indomalayan realm
 "Asia, Russia, Far East",Q609176,Russian Far East
-"Asia, Southeast",Q11708,
+"Asia, South Korea",Q884,South Korea
+"Asia, Southeast",Q11708,Southeast Asia
 "Asia, Sri Lanka",Q854,Sri Lanka
 "Asia, Syria",Q858,Syria
 "Asia, Turkey",Q43,Turkey
@@ -51,15 +52,13 @@ Europe,Q46,
 "Europe, Belgium",Q31,Belgium
 "Europe, Belgium, Ardennes",Q151985,"Ardennes, Belgium"
 "Europe, Belgium, Flanders",Q9337,"Flanders, Belgium"
-"Europe, Belgium, Vlaanderen",Q9337,"Flanders, Belgium"
 "Europe, Belgium, Wallonia",Q231,"Wallonia, Belgium"
-"Europe, Benelux",Q13116,Benelux
 "Europe, Central",Q27509,Central Europe
-"Europe, Cyprus",Q644636,Island of Cyprus
+"Europe, Cyprus",Q229,Cyprus
 "Europe, Czech Republic",Q213,Czech Republic
-"Europe, Czechoslovakia",Q33946,Czechoslovakia
 "Europe, DDR",Q16957,East Germany
 "Europe, Denmark",Q35,Denmark
+"Europe, Estonia",Q191,Estonia
 "Europe, Finland",Q33,Finland
 "Europe, France",Q142,France
 "Europe, France, Corsica",Q14112,"Corsica, France"
@@ -69,21 +68,19 @@ Europe,Q46,
 "Europe, Germany, Western",Q181576,Western Germany
 "Europe, Greece, Peloponnese",Q78967,"Peloponnese, Greece"
 "Europe, Hungary",Q28,Hungary
-"Europe, Iberian",Q12837,Iberian Peninsula
 "Europe, Ireland",Q27,Ireland
 "Europe, Italy",Q38,Italy
 "Europe, Italy, Apennines",Q1285,"Apennine Mountains, Italy"
 "Europe, Italy, Coast",,
 "Europe, Italy, Padana",Q202207,"Pianura Padana, Italy"
-"Europe, Italy, Sardinia",Q3760293,"Island of Sardinia, Italy"
-"Europe, Italy, Sicily",Q4951156,"Island of Sicily, Italy"
+"Europe, Italy, Sardinia",Q1462,"Sardinia, Italy"
+"Europe, Italy, Sicily",Q1460,"Sicily, Italy"
+"Europe, Latvia",Q211,Latvia
 "Europe, Lithuania",Q37,Lithuania
 "Europe, Luxembourg",Q32,Luxembourg
 "Europe, Moldova",Q217,Moldova
 "Europe, Netherlands",Q55,Netherlands
-"Europe, Nordic",Q27479,Northern Europe
 "Europe, Northern",Q27479,Northern Europe
-"Europe, Northwest",Q1414323,Northwestern Europe
 "Europe, Northwestern",Q1414323,Northwestern Europe
 "Europe, Norway",Q20,Norway
 "Europe, Poland",Q36,Poland
@@ -96,7 +93,6 @@ Europe,Q46,
 "Europe, Spain",Q29,Spain
 "Europe, Spain, Castilla-La Mancha",Q5748,"Castilla-La Mancha, Spain"
 "Europe, Sweden",Q34,Sweden
-"Europe, Swiss",Q39,Switzerland
 "Europe, Switzerland",Q39,Switzerland
 "Europe, UK",Q145,United Kingdom
 "Europe, UK, England",Q21,"England, United Kingdom"
@@ -105,10 +101,7 @@ Europe,Q46,
 Holarctic,Q847051,Holarctic realm
 Kerguelen Islands,Q46772,Kerguelen Islands
 Nearctic,Q737742,Nearctic realm
-Northeastern Nearctic,,
-Palaearctic,Q106447,Palearctic realm
+Northeastern Nearctic,,Northeastern Nearctic realm
 Palearctic,Q106447,Palearctic realm
 Western Hemisphere,Q181982,
-Western Palearctic,Q3200589,Western Palearctic realm
-Western Palearctic,Q3200589,Western Palearctic realm
 Western Palearctic,Q3200589,Western Palearctic realm
