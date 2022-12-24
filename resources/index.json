@@ -4928,6 +4928,106 @@
     "id": "B477:1",
     "taxonCount": 120
   },
+  "B478:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "group",
+      "species"
+    ],
+    "scope": [
+      "worker caste"
+    ],
+    "id": "B478:1",
+    "taxonCount": 429
+  },
+  "B479:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "scope": [],
+    "id": "B479:1",
+    "taxonCount": 134
+  },
+  "B481:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "id": "B481:1",
+    "taxonCount": 170
+  },
+  "B489:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "variety",
+      "race"
+    ],
+    "scope": [],
+    "id": "B489:1",
+    "taxonCount": 108
+  },
+  "B491:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [
+      "worker caste"
+    ],
+    "id": "B491:1",
+    "taxonCount": 339
+  },
+  "B500:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "key_type": "checklist",
+      "pages": "38-39"
+    },
+    "id": "B500:1",
+    "taxonCount": 85
+  },
+  "B500:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "key_type": "key"
+    },
+    "id": "B500:2",
+    "taxonCount": 89
+  },
   "B501:1": {
     "levels": [
       "family",
@@ -4952,6 +5052,163 @@
     "scope": [],
     "id": "B502:1",
     "taxonCount": 265
+  },
+  "B503:1": {
+    "levels": [
+      "species"
+    ],
+    "scope": [
+      "female"
+    ],
+    "id": "B503:1",
+    "taxonCount": 18
+  },
+  "B504:1": {
+    "levels": [
+      "species"
+    ],
+    "scope": [
+      "female"
+    ],
+    "id": "B504:1",
+    "taxonCount": 2
+  },
+  "B505:1": {
+    "levels": [
+      "species"
+    ],
+    "scope": [
+      "female"
+    ],
+    "catalog": {
+      "key_type": "matrix",
+      "pages": "38-38"
+    },
+    "id": "B505:1",
+    "taxonCount": 2
+  },
+  "B505:2": {
+    "levels": [
+      "species"
+    ],
+    "scope": [
+      "female"
+    ],
+    "catalog": {
+      "key_type": "matrix",
+      "pages": "40-40"
+    },
+    "id": "B505:2",
+    "taxonCount": 2
+  },
+  "B505:3": {
+    "levels": [
+      "species"
+    ],
+    "scope": [
+      "female"
+    ],
+    "catalog": {
+      "key_type": "matrix",
+      "pages": "41-41"
+    },
+    "id": "B505:3",
+    "taxonCount": 2
+  },
+  "B505:4": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "scope": [
+      "female"
+    ],
+    "catalog": {
+      "key_type": "key",
+      "pages": "40-40"
+    },
+    "id": "B505:4",
+    "taxonCount": 3
+  },
+  "B505:5": {
+    "levels": [
+      "species"
+    ],
+    "scope": [
+      "male"
+    ],
+    "catalog": {
+      "key_type": "matrix",
+      "pages": "43-43"
+    },
+    "id": "B505:5",
+    "taxonCount": 2
+  },
+  "B505:6": {
+    "levels": [
+      "species"
+    ],
+    "scope": [
+      "male"
+    ],
+    "catalog": {
+      "key_type": "matrix",
+      "pages": "43-43"
+    },
+    "id": "B505:6",
+    "taxonCount": 2
+  },
+  "B506:1": {
+    "levels": [
+      "species"
+    ],
+    "scope": [
+      "female"
+    ],
+    "id": "B506:1",
+    "taxonCount": 2
+  },
+  "B513:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [],
+    "id": "B513:1",
+    "taxonCount": 89
+  },
+  "B516:1": {
+    "levels": [
+      "subfamily",
+      "genus"
+    ],
+    "scope": [
+      "nests"
+    ],
+    "catalog": {
+      "key_type": "key"
+    },
+    "id": "B516:1",
+    "taxonCount": 33
+  },
+  "B516:2": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [
+      "nests"
+    ],
+    "catalog": {
+      "key_type": "checklist"
+    },
+    "id": "B516:2",
+    "taxonCount": 430
   },
   "B656:1": {
     "levels": [
