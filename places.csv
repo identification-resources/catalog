@@ -14,12 +14,6 @@ Africa,Q15,
 "Africa, Sub-Sahara",Q132959,Sub-Saharan Africa
 "Africa, Tunisia",Q948,Tunisia
 "Africa, Western Sahara",Q6250,Western Sahara
-"America, Canada",Q16,Canada
-"America, North",Q49,North America
-"America, USA",Q30,USA
-"America, USA, CO",Q1261,"Colorado, USA"
-"America, USA, HI",Q782,"Hawaii, USA"
-"America, USA, SC",Q1456,"South Carolina, USA"
 Asia,Q48,
 "Asia, Empire of Japan",Q188712,Empire of Japan
 "Asia, India",Q668,India
@@ -40,13 +34,14 @@ Asia,Q48,
 "Asia, UAE",Q878,United Arab Emirates
 Caucasus,Q18869,
 Europe,Q46,
+"Europe, Adriatic Sea",Q13924,Adriatic Sea
 "Europe, Alps",Q1286,Alps
 "Europe, Armenia",Q399,Armenia
 "Europe, Austria",Q40,Austria
 "Europe, Austria, Linzer Großraum",Q41329,Linzer Großraum
 "Europe, Austria, Vienna",Q1741,"Vienna, Austria"
 "Europe, Azerbaijan",Q227,Azerbaijan
-"Europe, Baltic",Q39731,Baltic states
+"Europe, Baltic Sea",Q545,Baltic Sea
 "Europe, Bassin occidental méditerranéen",Q111207474,Bassin occidental méditerranéen
 "Europe, Belarus",Q184,Belarus
 "Europe, Belgium",Q31,Belgium
@@ -80,6 +75,7 @@ Europe,Q46,
 "Europe, Luxembourg",Q32,Luxembourg
 "Europe, Moldova",Q217,Moldova
 "Europe, Netherlands",Q55,Netherlands
+"Europe, North Sea",Q1693,North Sea
 "Europe, Northern",Q27479,Northern Europe
 "Europe, Northwestern",Q1414323,Northwestern Europe
 "Europe, Norway",Q20,Norway
@@ -101,6 +97,13 @@ Europe,Q46,
 Holarctic,Q847051,Holarctic realm
 Kerguelen Islands,Q46772,Kerguelen Islands
 Nearctic,Q737742,Nearctic realm
+North America,Q49,
+"North America, Canada",Q16,Canada
+"North America, USA",Q30,USA
+"North America, USA, CO",Q1261,"Colorado, USA"
+"North America, USA, HI",Q782,"Hawaii, USA"
+"North America, USA, MI",Q1166,"Michigan, USA"
+"North America, USA, SC",Q1456,"South Carolina, USA"
 Northeastern Nearctic,,Northeastern Nearctic realm
 Palearctic,Q106447,Palearctic realm
 Western Hemisphere,Q181982,
