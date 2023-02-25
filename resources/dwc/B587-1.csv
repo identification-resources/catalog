@@ -1,0 +1,139 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
+B587:1:1,Nomada,,,,,,genus,,B587:1,accepted,,,,,,,,,,,Nomada,,,64QG,1343230
+B587:1:2,Nomada sexfasciata Pz.,Pz.,Nomada,,sexfasciata,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NHV,1343381
+B587:1:3,Nomada imperialis Schm.,Schm.,Nomada,,imperialis,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N7N,1343934
+B587:1:4,Nomada fulvipes Brullé,Brullé,Nomada,,fulvipes,,species,,B587:1,synonym,B587:1:3,Nomada imperialis Schm.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:5,Nomada nobilis H.,H.,Nomada,,nobilis,,species,Sch.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,73Z8Z,1343366
+B587:1:6,Nomada calabra Mor.,Mor.,Nomada,,calabra,,species,,B587:1,synonym,B587:1:5,Nomada nobilis H.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:7,Nomada aberrans Ev.,Ev.,Nomada,,aberrans,,species,,B587:1,synonym,B587:1:5,Nomada nobilis H.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:8,Nomada sybarita (Mocs.),(Mocs.),Nomada,,sybarita,,species,Schm.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,73YYG,1343796
+B587:1:9,Nomada rufipes F.,F.,Nomada,,rufipes,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NGX,1343593
+B587:1:10,Nomada solidaginis Pz.,Pz.,Nomada,,solidaginis,,species,,B587:1,synonym,B587:1:9,Nomada rufipes F.,,,,,,,,,Nomada,,Nomada,,9568038
+B587:1:11,Nomada rufipes var. rufopicta K.,K.,Nomada,,rufipes,rufopicta,variety,,B587:1,accepted,,,B587:1:9,Nomada rufipes F.,,,,,,,Nomada,,Nomada | Nomada rufipes,,11266261
+B587:1:12,Nomada rufipes var. picta K.,K.,Nomada,,rufipes,picta,variety,,B587:1,accepted,,,B587:1:9,Nomada rufipes F.,,,,,,,Nomada,,Nomada | Nomada rufipes,,11357177
+B587:1:13,Nomada rufipes var. nigriventris Alfk.,Alfk.,Nomada,,rufipes,nigriventris,variety,,B587:1,accepted,,,B587:1:9,Nomada rufipes F.,,,,,,,Nomada,,Nomada | Nomada rufipes,47NGX,1343593
+B587:1:14,Nomada fennica Alfk.,Alfk.,Nomada,,fennica,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,,10100558
+B587:1:15,Nomada errans Lep.,Lep.,Nomada,,errans,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N44,1343552
+B587:1:16,Nomada emarginata Mor.,Mor.,Nomada,,emarginata,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N3Z,1343584
+B587:1:17,Nomada fulvicornis F.,F.,Nomada,,fulvicornis,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N5J,1343909
+B587:1:18,Nomada succincta,,Nomada,,succincta,,species,auct. partim,B587:1,synonym,B587:1:17,Nomada fulvicornis F.,,,,,,,,,Nomada,,Nomada,47NK4,1343826
+B587:1:19,Nomada goodeniana K.,K.,Nomada,,goodeniana,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N63,1343694
+B587:1:20,Nomada succincta,,Nomada,,succincta,,species,auct. partim,B587:1,synonym,B587:1:19,Nomada goodeniana K.,,,,,,,,,Nomada,,Nomada,47NK4,1343826
+B587:1:21,Nomada alternata K.,K.,Nomada,,alternata,,species,,B587:1,synonym,B587:1:19,Nomada goodeniana K.,,,,,,,,,Nomada,,Nomada,,10968009
+B587:1:22,Nomada goodeniana var. rufula Fr.,Fr.,Nomada,,goodeniana,rufula,variety,,B587:1,accepted,,,B587:1:19,Nomada goodeniana K.,,,,,,,Nomada,,Nomada | Nomada goodeniana,64QG,1343230
+B587:1:23,Nomada marshamella K.,K.,Nomada,,marshamella,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,73YXG,1343878
+B587:1:24,Nomada alternata,,Nomada,,alternata,,species,auct. nec K.,B587:1,synonym,B587:1:23,Nomada marshamella K.,,,,,,,,,Nomada,,Nomada,,10968009
+B587:1:25,Nomada flavopicta K.,K.,Nomada,,flavopicta,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N56,1343989
+B587:1:26,Nomada jacobaeae,,Nomada,,jacobaeae,,species,auct. nec Pz.,B587:1,synonym,B587:1:25,Nomada flavopicta K.,,,,,,,,,Nomada,,Nomada,,11250134
+B587:1:27,Nomada melathoracica Ihm.,Ihm.,Nomada,,melathoracica,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,6RZ9C,1343800
+B587:1:28,Nomada frey-gessneri Schmied.,Schmied.,Nomada,,frey-gessneri,,species,,B587:1,synonym,B587:1:27,Nomada melathoracica Ihm.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:29,Nomada fulvicornis Lep.,Lep.,Nomada,,fulvicornis,,species,nec F.,B587:1,synonym,B587:1:27,Nomada melathoracica Ihm.,,,,,,,,,Nomada,,Nomada,47N5J,1343909
+B587:1:30,Nomada lineola Pz.,Pz.,Nomada,,lineola,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,,6096986
+B587:1:31,Nomada lineola var. meridionalis (Kriechb.),(Kriechb.),Nomada,,lineola,meridionalis,variety,Schmied.,B587:1,accepted,,,B587:1:30,Nomada lineola Pz.,,,,,,,Nomada,,Nomada | Nomada lineola,,10590042
+B587:1:32,Nomada lineola var. latistriga (Kriechb.),(Kriechb.),Nomada,,lineola,latistriga,variety,Schm.,B587:1,accepted,,,B587:1:30,Nomada lineola Pz.,,,,,,,Nomada,,Nomada | Nomada lineola,,6096986
+B587:1:33,Nomada lineola var. aurigera Schmied.,Schmied.,Nomada,,lineola,aurigera,variety,,B587:1,accepted,,,B587:1:30,Nomada lineola Pz.,,,,,,,Nomada,,Nomada | Nomada lineola,64QG,1343230
+B587:1:34,Nomada lineola var. subcornuta K.,K.,Nomada,,lineola,subcornuta,variety,,B587:1,accepted,,,B587:1:30,Nomada lineola Pz.,,,,,,,Nomada,,Nomada | Nomada lineola,,7442089
+B587:1:35,Nomada lineola var. cornigera K.,K.,Nomada,,lineola,cornigera,variety,,B587:1,accepted,,,B587:1:30,Nomada lineola Pz.,,,,,,,Nomada,,Nomada | Nomada lineola,,11319017
+B587:1:36,Nomada lineola var. rossica Schmied.,Schmied.,Nomada,,lineola,rossica,variety,,B587:1,accepted,,,B587:1:30,Nomada lineola Pz.,,,,,,,Nomada,,Nomada | Nomada lineola,,6096986
+B587:1:37,Nomada lineola var. schmiedeknechti (Mocs.),(Mocs.),Nomada,,lineola,schmiedeknechti,variety,Schmied.,B587:1,accepted,,,B587:1:30,Nomada lineola Pz.,,,,,,,Nomada,,Nomada | Nomada lineola,64QG,1343230
+B587:1:38,Nomada romana Fr.,Fr.,Nomada,,romana,,species,,B587:1,synonym,B587:1:37,Nomada lineola var. schmiedeknechti (Mocs.),,,,,,,,,Nomada,,Nomada | Nomada lineola,64QG,1343230
+B587:1:39,Nomada italica D.,D.,Nomada,,italica,,species,T. et Fr.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N82,1343782
+B587:1:40,Nomada festiva Schmied.,Schmied.,Nomada,,festiva,,species,,B587:1,synonym,B587:1:39,Nomada italica D.,,,,,,,,,Nomada,,Nomada,73Z9Q,1343394
+B587:1:41,Nomada obtusifrons Nyl.,Nyl.,Nomada,,obtusifrons,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NCT,1343247
+B587:1:42,Nomada montana Mocs.,Mocs.,Nomada,,montana,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,,11110733
+B587:1:43,Nomadita montana Mocs.,Mocs.,Nomadita,,montana,,species,,B587:1,synonym,B587:1:42,Nomada montana Mocs.,,,,,,,,,Nomada,,Nomada,,4670338
+B587:1:44,Nomada roberjeotiana Pz.,Pz.,Nomada,,roberjeotiana,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NGB,1343801
+B587:1:45,Nomada tormentillae Aflk.,Aflk.,Nomada,,tormentillae,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,,6096983
+B587:1:46,Nomada gribodoi Schmied.,Schmied.,Nomada,,gribodoi,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N6C,1343606
+B587:1:47,Nomada elegans Mocs.,Mocs.,Nomada,,elegans,,species,,B587:1,synonym,B587:1:46,Nomada gribodoi Schmied.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:48,Nomada pulchra Arnold,Arnold,Nomada,,pulchra,,species,,B587:1,synonym,B587:1:46,Nomada gribodoi Schmied.,,,,,,,,,Nomada,,Nomada,47NFJ,1343973
+B587:1:49,Nomada pectoralis Mor.,Mor.,Nomada,,pectoralis,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,6RYZ7,1343650
+B587:1:50,Nomada panurgina Mor.,Mor.,Nomada,,panurgina,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NDX,1343751
+B587:1:51,Nomada panurgina subsp. julliani Schmied.,Schmied.,Nomada,,panurgina,julliani,subspecies,,B587:1,accepted,,,B587:1:50,Nomada panurgina Mor.,,,,,,,Nomada,,Nomada | Nomada panurgina,64QG,1343230
+B587:1:52,Nomada chrysopyga Mor.,Mor.,Nomada,,chrysopyga,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47MZB,1343461
+B587:1:53,Nomada cruenta (Mocs.),(Mocs.),Nomada,,cruenta,,species,Schmied.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N2K,1343933
+B587:1:54,Nomada fucata Pz.,Pz.,Nomada,,fucata,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N5G,1343957
+B587:1:55,Nomada mauritanica Lep.,Lep.,Nomada,,mauritanica,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,6RYXF,1343863
+B587:1:56,Nomada mauritanica var. manni Mor.,Mor.,Nomada,,mauritanica,manni,variety,,B587:1,accepted,,,B587:1:55,Nomada mauritanica Lep.,,,,,,,Nomada,,Nomada | Nomada mauritanica,,11067142
+B587:1:57,Nomada flava Pz.,Pz.,Nomada,,flava,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N4W,1343896
+B587:1:58,Nomada zonata Pz.,Pz.,Nomada,,zonata,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NN5,1343298
+B587:1:59,Nomada verna (Mocs.),(Mocs.),Nomada,,verna,,species,Schmied.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NLV,1343508
+B587:1:60,Nomada mutica Mor.,Mor.,Nomada,,mutica,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NBS,1343514
+B587:1:61,Nomada melathoracica Imh.,Imh.,Nomada,,melathoracica,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,6RZ9C,1343800
+B587:1:62,Nomada montana Mocs.,Mocs.,Nomada,,montana,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,,11110733
+B587:1:63,Nomada hungarica D.,D.,Nomada,,hungarica,,species,T. et Fr.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N7C,1343232
+B587:1:64,Nomada scita Schmied.,Schmied.,Nomada,,scita,,species,,B587:1,synonym,B587:1:63,Nomada hungarica D.,,,,,,,,,Nomada,,Nomada,47NHH,1343336
+B587:1:65,Nomada melanopyga (Mocs.),(Mocs.),Nomada,,melanopyga,,species,Schmied.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,73YXD,1343832
+B587:1:66,Nomada guttulata Schck.,Schck.,Nomada,,guttulata,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N6J,1343512
+B587:1:67,Nomada obscura Zett.,Zett.,Nomada,,obscura,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NCP,1343303
+B587:1:68,Nomada obscura var. bitincta Alfk.,Alfk.,Nomada,,obscura,bitincta,variety,,B587:1,accepted,,,B587:1:67,Nomada obscura Zett.,,,,,,,Nomada,,Nomada | Nomada obscura,64QG,1343230
+B587:1:69,Nomada alboguttata H.,H.,Nomada,,alboguttata,,species,Sch.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47MW3,1343792
+B587:1:70,Nomada 5-spinosa Ths.,Ths.,Nomada,,5-spinosa,,species,,B587:1,synonym,B587:1:69,Nomada alboguttata H.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:71,Nomada baccata Sm.,Sm.,Nomada,,baccata,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47MXQ,1343279
+B587:1:72,Nomada pusilla Lep.,Lep.,Nomada,,pusilla,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NFM,1343958
+B587:1:73,Nomada pusilla subsp. lepeletieri Pér.,Pér.,Nomada,,pusilla,lepeletieri,subspecies,,B587:1,accepted,,,B587:1:72,Nomada pusilla Lep.,,,,,,,Nomada,,Nomada | Nomada pusilla,,6096985
+B587:1:74,Nomada mocsaryi Schmied.,Schmied.,Nomada,,mocsaryi,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NBB,1343679
+B587:1:75,Nomada trispinosa Schmied.,Schmied.,Nomada,,trispinosa,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NL8,1343570
+B587:1:76,Nomada melanostoma H.,H.,Nomada,,melanostoma,,species,Sch.,B587:1,synonym,B587:1:75,Nomada trispinosa Schmied.,,,,,,,,,Nomada,,Nomada,73Z9D,1343262
+B587:1:77,Nomada basalis H.,H.,Nomada,,basalis,,species,Sch.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47MXX,1343956
+B587:1:78,Nomada tripunctata Mor.,Mor.,Nomada,,tripunctata,,species,,B587:1,synonym,B587:1:77,Nomada basalis H.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:79,Nomada flavomaculata Luc.,Luc.,Nomada,,flavomaculata,,species,,B587:1,synonym,B587:1:77,Nomada basalis H.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:80,Nomada flavoguttata K.,K.,Nomada,,flavoguttata,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N55,1344004
+B587:1:81,Nomada eustalacta Gerst.,Gerst.,Nomada,,eustalacta,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:82,Nomada robusta Mor.,Mor.,Nomada,,robusta,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:83,Nomada rhenana Mor.,Mor.,Nomada,,rhenana,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NFZ,1343847
+B587:1:84,Nomada xanthosticta K.,K.,Nomada,,xanthosticta,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NMP,1343310
+B587:1:85,Nomada lateralis Pz.,Pz.,Nomada,,lateralis,,species,nec Sm.,B587:1,synonym,B587:1:84,Nomada xanthosticta K.,,,,,,,,,Nomada,,Nomada,,11260140
+B587:1:86,Nomada xanthosticta var. blancoburgensis Schmied.,Schmied.,Nomada,,xanthosticta,blancoburgensis,variety,,B587:1,accepted,,,B587:1:84,Nomada xanthosticta K.,,,,,,,Nomada,,Nomada | Nomada xanthosticta,64QG,1343230
+B587:1:87,Nomada armata H.,H.,Nomada,,armata,,species,Sch.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47MWV,1343523
+B587:1:88,Nomada fabriciana L.,L.,Nomada,,fabriciana,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N4F,1343441
+B587:1:89,Nomada conjungens H.,H.,Nomada,,conjungens,,species,Sch.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47MZX,1343331
+B587:1:90,Nomada dallatorreana Schmied.,Schmied.,Nomada,,dallatorreana,,species,,B587:1,synonym,B587:1:89,Nomada conjungens H.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:91,Nomada mutabilis Mor.,Mor.,Nomada,,mutabilis,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NBQ,1343533
+B587:1:92,Nomada mutabilis var. lucifera Schmied.,Schmied.,Nomada,,mutabilis,lucifera,variety,,B587:1,accepted,,,B587:1:91,Nomada mutabilis Mor.,,,,,,,Nomada,,Nomada | Nomada mutabilis,47NBQ,1343533
+B587:1:93,Nomada braunsiana Schmied.,Schmied.,Nomada,,braunsiana,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47MYP,1343728
+B587:1:94,Nomada calimorpha (Mocs.),(Mocs.),Nomada,,calimorpha,,species,Schmied.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47MYV,1343661
+B587:1:95,Nomada carniolica Schmied.,Schmied.,Nomada,,carniolica,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:96,Nomada bifida Ths.,Ths.,Nomada,,bifida,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,,6096987
+B587:1:97,Nomada moeschleri Alfk.,Alfk.,Nomada,,moeschleri,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NBC,1343663
+B587:1:98,Nomada opaca Alfk.,Alfk.,Nomada,,opaca,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47ND4,1343952
+B587:1:99,Nomada hillana K.,K.,Nomada,,hillana,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,,6096984
+B587:1:100,Nomada ochrostoma K.,K.,Nomada,,ochrostoma,,species,,B587:1,synonym,B587:1:99,Nomada hillana K.,,,,,,,,,Nomada,,Nomada,,10280589
+B587:1:101,Nomada punctiseuta Ths.,Ths.,Nomada,,punctiseuta,,species,,B587:1,synonym,B587:1:99,Nomada hillana K.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:102,Nomada dzieduszyckii Nosk.,Nosk.,Nomada,,dzieduszyckii,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:103,Nomada villosa Ths.,Ths.,Nomada,,villosa,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NM5,1343495
+B587:1:104,Nomada hillana,,Nomada,,hillana,,species,auct. necK.,B587:1,synonym,B587:1:103,Nomada villosa Ths.,,,,,,,,,Nomada,,Nomada,,6096984
+B587:1:105,Nomada trapeziformis Schmied.,Schmied.,Nomada,,trapeziformis,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NL3,1343614
+B587:1:106,Nomada auctumnalis Ducke,Ducke,Nomada,,auctumnalis,,species,,B587:1,synonym,B587:1:105,Nomada trapeziformis Schmied.,,,,,,,,,Nomada,,Nomada,47MXJ,1343511
+B587:1:107,Nomada hirtipes Pér.,Pér.,Nomada,,hirtipes,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N75,1343302
+B587:1:108,Nomada bucephalae Perk.,Perk.,Nomada,,bucephalae,,species,,B587:1,synonym,B587:1:107,Nomada hirtipes Pér.,,,,,,,,,Nomada,,Nomada,,11363952
+B587:1:109,Nomada lateralis Sm.,Sm.,Nomada,,lateralis,,species,nec Pz.,B587:1,synonym,B587:1:107,Nomada hirtipes Pér.,,,,,,,,,Nomada,,Nomada,,11260140
+B587:1:110,Nomada leucophthalma K.,K.,Nomada,,leucophthalma,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N9G,1343697
+B587:1:111,Nomada borealis Zett.,Zett.,Nomada,,borealis,,species,,B587:1,synonym,B587:1:110,Nomada leucophthalma K.,,,,,,,,,Nomada,,Nomada,,11081601
+B587:1:112,Nomada ruficornis L.,L.,Nomada,,ruficornis,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NGW,1343608
+B587:1:113,Nomada glabella Ths.,Ths.,Nomada,,glabella,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,,6096990
+B587:1:114,Nomada discrepans Schmied.,Schmied.,Nomada,,discrepans,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N3B,1343766
+B587:1:115,Nomada cinnabarina Mor.,Mor.,Nomada,,cinnabarina,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,,6096989
+B587:1:116,Nomada cinnabarina var. obscurata Schmied.,Schmied.,Nomada,,cinnabarina,obscurata,variety,,B587:1,accepted,,,B587:1:115,Nomada cinnabarina Mor.,,,,,,,Nomada,,Nomada | Nomada cinnabarina,,6096989
+B587:1:117,Nomada dira (Mocs.),(Mocs.),Nomada,,dira,,species,Schmied.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N38,11039148
+B587:1:118,Nomada furva Pz.,Pz.,Nomada,,furva,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N5K,1343893
+B587:1:119,Nomada dalii Curt.,Curt.,Nomada,,dalii,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,,8003910
+B587:1:120,Nomada furva E.,E.,Nomada,,furva,,species,"Saund., Perk. nec Pz.",B587:1,synonym,B587:1:119,Nomada dalii Curt.,,,,,,,,,Nomada,,Nomada,47N5K,1343893
+B587:1:121,Nomada erythrocephala Mor.,Mor.,Nomada,,erythrocephala,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N47,1343524
+B587:1:122,Nomada distinguenda Mor.,Mor.,Nomada,,distinguenda,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,6RYY2,1343736
+B587:1:123,Nomada kohli Schmied.,Schmied.,Nomada,,kohli,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N8Q,1343568
+B587:1:124,Nomada rugithorax Per.,Per.,Nomada,,rugithorax,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:125,Nomada argentata H.,H.,Nomada,,argentata,,species,Sch.,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47MWR,1343598
+B587:1:126,Nomada brevicornis Schmied.,Schmied.,Nomada,,brevicornis,,species,,B587:1,synonym,B587:1:125,Nomada argentata H.,,,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:127,Nomada atrata Sm.,Sm.,Nomada,,atrata,,species,,B587:1,synonym,B587:1:125,Nomada argentata H.,,,,,,,,,Nomada,,Nomada,,11275950
+B587:1:128,Nomada femoralis Mor.,Mor.,Nomada,,femoralis,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N4M,1343357
+B587:1:129,Nomada glaberrima Schmied.,Schmied.,Nomada,,glaberrima,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N5Y,1343742
+B587:1:130,Nomada similis Mor.,Mor.,Nomada,,similis,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47NJ6,1343234
+B587:1:131,Nomada fuscicornis Nyl.,Nyl.,Nomada,,fuscicornis,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N5P,1343831
+B587:1:132,Nomada bispinosa Mocs.,Mocs.,Nomada,,bispinosa,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47MYG,1343829
+B587:1:133,Nomada excisa Pér.,Pér.,Nomada,,excisa,,species,,B587:1,synonym,B587:1:132,Nomada bispinosa Mocs.,,,,,,,,,Nomada,,Nomada,47N4C,1343830
+B587:1:134,Nomada atroscutellaris Strand.,Strand.,Nomada,,atroscutellaris,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,6RYXS,1343400
+B587:1:135,Nomada corcyraea Schmied.,Schmied.,Nomada,,corcyraea,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N24,1343275
+B587:1:136,Nomada ferruginata L.,L.,Nomada,,ferruginata,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,47N4R,1343309
+B587:1:137,Nomada major Mor.,Mor.,Nomada,,major,,species,,B587:1,accepted,,,B587:1:1,Nomada,,,,,,,Nomada,,Nomada,64QG,1343230
+B587:1:138,Nomada morawitzi Pér.,Pér.,Nomada,,morawitzi,,species,nec Rad.,B587:1,synonym,B587:1:137,Nomada major Mor.,,,,,,,,,Nomada,,Nomada,64QG,1343230
