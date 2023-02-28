@@ -6797,5 +6797,39 @@
     "scope": [],
     "id": "B1329:1",
     "taxonCount": 395
+  },
+  "B1376:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "form"
+    ],
+    "scope": [
+      "adults"
+    ],
+    "id": "B1376:1",
+    "taxonCount": 345
+  },
+  "B1376:2": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "form"
+    ],
+    "scope": [
+      "nypmhs"
+    ],
+    "id": "B1376:2",
+    "taxonCount": 317
   }
 }
