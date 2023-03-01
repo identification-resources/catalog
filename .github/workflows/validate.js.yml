@@ -20,4 +20,4 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
-    - run: ./tools/validate.sh
+    - run: npx -y -p @larsgw/formica loir-validate-catalog *.csv
