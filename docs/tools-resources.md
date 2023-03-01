@@ -2,13 +2,10 @@
 
   1. Install [Node.js](https://nodejs.org/en/).
   2. Install [gnverifier](https://github.com/gnames/gnverifier).
-  3. `cd tools/resources`
-  4. `npm install`
-  5. (`cd ../..`)
 
 # Running
 
-When running `tools/resources/index.js`, you are sometimes prompted for input.
+When running `loir-resources-process`, you are sometimes prompted for input.
 Here are some instructions for this:
 
 ## Generating Darwin Core failed, retry?

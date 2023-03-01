@@ -44,6 +44,5 @@ When adding new resources within works, the following principles should be consi
 To do this, follow the following steps:
 
   1. Create a text+YAML file specifying the resources [according to this document](docs/resources-txt.md).
-  2. [Set up `tools/resources`](docs/tools-resources.md#setup), if you have not already.
-  3. Generate the [DwC file](docs/resources-dwc.md) by running `node tools/resources/index.js` [following these instructions](docs/tools-resources.md#running).
-  4. Update the indices by running `node tools/resources/make-index.js`.
+  2. Generate the [DwC file](docs/resources-dwc.md) by running `npx -p @larsgw/formica loir-resources-process ./resources` [following these instructions](docs/tools-resources.md#running).
+  3. Update the indices by running `npx -p @larsgw/formica loir-resources-index ./resources`.
