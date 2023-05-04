@@ -6687,6 +6687,19 @@
     "id": "B1169:1",
     "taxonCount": 105
   },
+  "B1289:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [],
+    "id": "B1289:1",
+    "taxonCount": 23
+  },
   "B1311:1": {
     "levels": [
       "genus",
@@ -6900,7 +6913,7 @@
       "adults"
     ],
     "id": "B1376:1",
-    "taxonCount": 345
+    "taxonCount": 346
   },
   "B1376:2": {
     "levels": [
@@ -6917,6 +6930,6 @@
       "nypmhs"
     ],
     "id": "B1376:2",
-    "taxonCount": 317
+    "taxonCount": 318
   }
 }
