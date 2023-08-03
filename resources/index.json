@@ -5266,6 +5266,119 @@
     "id": "B513:1",
     "taxonCount": 89
   },
+  "B514:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [],
+    "catalog": {
+      "key_type": "checklist"
+    },
+    "id": "B514:1",
+    "taxonCount": 216
+  },
+  "B514:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "key_type": "key",
+      "title": "Key to the species of Ammatomus from the Arabian Peninsula",
+      "pages": "490-490"
+    },
+    "id": "B514:2",
+    "taxonCount": 4
+  },
+  "B514:3": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "key_type": "key",
+      "title": "Key to the species of Belomicrus and Guichardus from the Arabian Peninsula",
+      "pages": "494-495"
+    },
+    "id": "B514:3",
+    "taxonCount": 6
+  },
+  "B514:4": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "key_type": "key",
+      "title": "Key to the species of Eremiasphecium from the Arabian Peninsula",
+      "pages": "527-528"
+    },
+    "id": "B514:4",
+    "taxonCount": 4
+  },
+  "B514:5": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "scope": [
+      "females"
+    ],
+    "catalog": {
+      "key_type": "key",
+      "title": "Key to the species of Miscophus from the Arabian Peninsula",
+      "pages": "546-551"
+    },
+    "id": "B514:5",
+    "taxonCount": 9
+  },
+  "B514:6": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "key_type": "key",
+      "title": "Key to the Arabian species of the Oxybelus lamellatus-group",
+      "pages": "559-559"
+    },
+    "id": "B514:6",
+    "taxonCount": 4
+  },
+  "B514:7": {
+    "levels": [
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "key_type": "matrix",
+      "title": "Differences between Plenoculus vanharteni nov. spec. and Plenoculus murgabensis",
+      "pages": "577-577"
+    },
+    "id": "B514:7",
+    "taxonCount": 1
+  },
+  "B514:8": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "key_type": "key",
+      "title": "Key to the species of Solierella from the UAE",
+      "pages": "582-582"
+    },
+    "id": "B514:8",
+    "taxonCount": 5
+  },
   "B516:1": {
     "levels": [
       "subfamily",
@@ -6931,5 +7044,37 @@
     ],
     "id": "B1376:2",
     "taxonCount": 317
+  },
+  "B1441:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [],
+    "id": "B1441:1",
+    "taxonCount": 36
+  },
+  "B1442:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "id": "B1442:1",
+    "taxonCount": 7
+  },
+  "B1443:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [],
+    "id": "B1443:1",
+    "taxonCount": 36
   }
 }
