@@ -25,7 +25,8 @@
 | `language`   | ✔        | ✔               | The language(s) in which a majority of the entry is written, not just the title and/or abstract | [IETF BCP 47 language tag](https://en.wikipedia.org/wiki/IETF_language_tag) |
 | `license`    | ❌        | ✔               | The license or copyright information | An [SPDX license identifier](https://spdx.dev/ids/), `<public domain>`, or a very short comment between angle brackets (e.g. `<CC-BY-NC-SA?>`) |
 | `key_type`   | ✔        | ✔               | The types of resources within the entry | `key`, `matrix`, `reference`, `gallery`, `checklist`, `supplement`, `collection` ([definitions](#adding-resources)) |
-| `scope`      | ❌        | ✔               | Any notes limiting the scope of the resource | Plain text |
+| `taxon_scope` | ❌        | ✔               | Any notes limiting the taxonomic scope of the resource | Plain text |
+| `scope`      | ❌        | ✔               | Any notes limiting the kind (life stage, caste, sex) of individuals that the resource can be used with | Plain text |
 | `taxon`      | ✔        | ✔               | The higher-level groups  | Taxon names |
 | `region`     | ✔        | ✔               | The area for which the resource is intended to be used, or a smaller area if the resource is only complete for a part of that area | For [realms](https://en.wikipedia.org/wiki/Biogeographic_realm) just the name, for the entire world a hyphen (`-`), when unknown a question mark (`?`), otherwise `Continent, Country, Region`, `Continent, Country`, or `Continent`, whichever level of precision is applicable |
 | `complete`   | ❌        | ❌               | Whether the resources where thought to be complete at the time | `TRUE` or `FALSE` |
