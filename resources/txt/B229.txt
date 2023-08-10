@@ -212,11 +212,11 @@ CULICIDAE
   CHAOBORINAE
     = CORETHRINAE
     Mochlonyx Loew
-    Chaoborus Lichtenstein
-      = Corethra Meigen
         culiciformis Degeer
         martinii Edwards
           = velutinus Martini nec Ruthe
+    Chaoborus Lichtenstein
+      = Corethra Meigen
         pallidus Fabricius
         crystallinus Degeer
         obscuripes Van der Wulp
@@ -234,6 +234,7 @@ levels:
   - subgenus
   - complex
   - species
+  - subspecies
 catalog:
   author: P F Mattingly
   pages: 102-116
@@ -247,6 +248,11 @@ CULICINAE
           claviger Meigen
           plumbeus Stephens
         maculipennis
+          [_] messeae Falleroni
+            = maculipennis var. messeae
+          [_] labranchiae
+            labranchiae subsp. atroparvus van Thiel
+              = maculipennis var. atroparvus
   CULCINI
     Aëdes Meigen
       Aëdes Meigen
@@ -302,8 +308,9 @@ levels:
   - subgenus
   - complex
   - species
+  - subspecies
 scope:
-  - larvae, fourth instar
+  - larvae (instar IV)
 catalog:
   pages: 117-120
 ---
@@ -316,6 +323,11 @@ CULICINAE
           claviger Meigen
           plumbeus Stephens
         maculipennis
+          [_] messeae Falleroni
+            = maculipennis var. messeae
+          [_] labranchiae
+            labranchiae subsp. atroparvus van Thiel
+              = maculipennis var. atroparvus
   CULCINI
     Aëdes Meigen
       Aëdes Meigen

@@ -1,5 +1,5 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B201:1:1,Symphyta,,,,,,suborder,,B201:1,accepted,,,,,,,,,,,,,,7QWK,
+B201:1:1,Symphyta,,,,,,suborder,,B201:1,accepted,,,,,,,,,,,,,,92NKS,
 B201:1:2,Xyeloidea,,,,,,superfamily,,B201:1,accepted,,,B201:1:1,Symphyta,,,,,,,,,Symphyta,5TP,
 B201:1:3,Xyelidae,,,,,,family,,B201:1,accepted,,,B201:1:2,Xyeloidea,,,,,Xyelidae,,,,Symphyta | Xyeloidea,HYJ,7921
 B201:1:4,Xyelinae,,,,,,subfamily,,B201:1,accepted,,,B201:1:3,Xyelidae,,,,,Xyelidae,Xyelinae,,,Symphyta | Xyeloidea | Xyelidae,,
@@ -33,7 +33,7 @@ B201:1:31,Pamphilius histrio (Latreille),(Latreille),Pamphilius,,histrio,,specie
 B201:1:32,Pamphilius flaviventris Retzius in Stephens,Retzius in Stephens,Pamphilius,,flaviventris,,species,nec Retzius,B201:1,synonym,B201:1:31,Pamphilius histrio (Latreille),,,,,,,Pamphiliidae,Pamphiliinae,Pamphilius,,Symphyta | Megalodontoidea | Pamphiliidae | Pamphiliinae | Pamphilius,,11324192
 B201:1:33,Pamphilius latifrons (Fallén),(Fallén),Pamphilius,,latifrons,,species,,B201:1,accepted,,,B201:1:26,Pamphilius Latreille,,,,,Pamphiliidae,Pamphiliinae,Pamphilius,,Symphyta | Megalodontoidea | Pamphiliidae | Pamphiliinae | Pamphilius,,4492300
 B201:1:34,Pamphilius stramineipes (Hartig),(Hartig),Pamphilius,,stramineipes,,species,,B201:1,accepted,,,B201:1:26,Pamphilius Latreille,,,,,Pamphiliidae,Pamphiliinae,Pamphilius,,Symphyta | Megalodontoidea | Pamphiliidae | Pamphiliinae | Pamphilius,,4492302
-B201:1:35,Pamphilius arbustorum F. in Cameron,F. in Cameron,Pamphilius,,arbustorum,,species,,B201:1,synonym,B201:1:34,Pamphilius stramineipes (Hartig),,,,,,,Pamphiliidae,Pamphiliinae,Pamphilius,,Symphyta | Megalodontoidea | Pamphiliidae | Pamphiliinae | Pamphilius,,11352137
+B201:1:35,Pamphilius arbustorum F. in Cameron,F. in Cameron,Pamphilius,,arbustorum,,species,,B201:1,synonym,B201:1:34,Pamphilius stramineipes (Hartig),,,,,,,Pamphiliidae,Pamphiliinae,Pamphilius,,Symphyta | Megalodontoidea | Pamphiliidae | Pamphiliinae | Pamphilius,,11239475
 B201:1:36,Pamphilius varius (Lepeletier),(Lepeletier),Pamphilius,,varius,,species,,B201:1,accepted,,,B201:1:26,Pamphilius Latreille,,,,,Pamphiliidae,Pamphiliinae,Pamphilius,,Symphyta | Megalodontoidea | Pamphiliidae | Pamphiliinae | Pamphilius,,4492311
 B201:1:37,Pamphilius vafer L.,L.,Pamphilius,,vafer,,species,auctt. nec L.,B201:1,synonym,B201:1:36,Pamphilius varius (Lepeletier),,,,,,,Pamphiliidae,Pamphiliinae,Pamphilius,,Symphyta | Megalodontoidea | Pamphiliidae | Pamphiliinae | Pamphilius,,4492312
 B201:1:38,Pamphilius balteatus (Fallén),(Fallén),Pamphilius,,balteatus,,species,,B201:1,accepted,,,B201:1:26,Pamphilius Latreille,,,,,Pamphiliidae,Pamphiliinae,Pamphilius,,Symphyta | Megalodontoidea | Pamphiliidae | Pamphiliinae | Pamphilius,,4492291
@@ -87,12 +87,12 @@ B201:1:85,Cephoidea,,,,,,superfamily,,B201:1,accepted,,,B201:1:1,Symphyta,,,,,,,
 B201:1:86,Cephidae,,,,,,family,,B201:1,accepted,,,B201:1:85,Cephoidea,,,,,Cephidae,,,,Symphyta | Cephoidea,622LS,4337
 B201:1:87,Cephinae,,,,,,subfamily,,B201:1,accepted,,,B201:1:86,Cephidae,,,,,Cephidae,Cephinae,,,Symphyta | Cephoidea | Cephidae,,
 B201:1:88,Hartigiini,,,,,,tribe,,B201:1,accepted,,,B201:1:87,Cephinae,,,,,Cephidae,Cephinae,,,Symphyta | Cephoidea | Cephidae | Cephinae,,
-B201:1:89,Hartigia Schiödte,Schiödte,,,,,genus,,B201:1,accepted,,,B201:1:88,Hartigiini,,,,,Cephidae,Cephinae,Hartigia,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini,,1483222
+B201:1:89,Hartigia Schiödte,Schiödte,,,,,genus,,B201:1,accepted,,,B201:1:88,Hartigiini,,,,,Cephidae,Cephinae,Hartigia,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini,,7710880
 B201:1:90,Phylloecus E.,E.,,,,,genus,Newman,B201:1,synonym,B201:1:89,Hartigia Schiödte,,,,,,,Cephidae,Cephinae,Phylloecus,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini,,4670796
 B201:1:91,Macrocephus Schlechtendal,Schlechtendal,,,,,genus,,B201:1,synonym,B201:1:89,Hartigia Schiödte,,,,,,,Cephidae,Cephinae,Macrocephus,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini,,4680695
 B201:1:92,Hartigia nigra (Harris),(Harris),Hartigia,,nigra,,species,,B201:1,accepted,,,B201:1:89,Hartigia Schiödte,,,,,Cephidae,Cephinae,Hartigia,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini | Hartigia,,6096930
 B201:1:93,Hartigia satyrus Panzer,Panzer,Hartigia,,satyrus,,species,,B201:1,synonym,B201:1:92,Hartigia nigra (Harris),,,,,,,Cephidae,Cephinae,Hartigia,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini | Hartigia,,11349291
-B201:1:94,Hartigia xanthosotma Eversmann,Eversmann,Hartigia,,xanthosotma,,species,,B201:1,accepted,,,B201:1:89,Hartigia Schiödte,,,,,Cephidae,Cephinae,Hartigia,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini | Hartigia,,1483222
+B201:1:94,Hartigia xanthosotma Eversmann,Eversmann,Hartigia,,xanthosotma,,species,,B201:1,accepted,,,B201:1:89,Hartigia Schiödte,,,,,Cephidae,Cephinae,Hartigia,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini | Hartigia,,7710880
 B201:1:95,Hartigia linearis (Schrank),(Schrank),Hartigia,,linearis,,species,,B201:1,accepted,,,B201:1:89,Hartigia Schiödte,,,,,Cephidae,Cephinae,Hartigia,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini | Hartigia,,6096928
 B201:1:96,Janus Stephens,Stephens,,,,,genus,,B201:1,accepted,,,B201:1:88,Hartigiini,,,,,Cephidae,Cephinae,Janus,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini,56B9,1334172
 B201:1:97,Janus femoratus Curtis,Curtis,Janus,,femoratus,,species,,B201:1,accepted,,,B201:1:96,Janus Stephens,,,,,Cephidae,Cephinae,Janus,,Symphyta | Cephoidea | Cephidae | Cephinae | Hartigiini | Janus,,5759846
@@ -102,12 +102,15 @@ B201:1:100,Cephini,,,,,,tribe,,B201:1,accepted,,,B201:1:87,Cephinae,,,,,Cephidae
 B201:1:101,Cephus Latreille,Latreille,,,,,genus,,B201:1,accepted,,,B201:1:100,Cephini,,,,,Cephidae,Cephinae,Cephus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini,3KKH,1334167
 B201:1:102,Cephus nigrinus Thomson,Thomson,Cephus,,nigrinus,,species,,B201:1,accepted,,,B201:1:101,Cephus Latreille,,,,,Cephidae,Cephinae,Cephus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini | Cephus,,6096925
 B201:1:103,Cephus cultratus Eversmann,Eversmann,Cephus,,cultratus,,species,,B201:1,accepted,,,B201:1:101,Cephus Latreille,,,,,Cephidae,Cephinae,Cephus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini | Cephus,,6096924
-B201:1:104,Cephus pusillus Stephens,Stephens,Cephus,,pusillus,,species,,B201:1,synonym,B201:1:103,Cephus cultratus Eversmann,,,,,,,Cephidae,Cephinae,Cephus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini | Cephus,,9255622
+B201:1:104,Cephus pusillus Stephens,Stephens,Cephus,,pusillus,,species,,B201:1,synonym,B201:1:103,Cephus cultratus Eversmann,,,,,,,Cephidae,Cephinae,Cephus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini | Cephus,,11369745
 B201:1:105,Cephus pilosulus Thomson,Thomson,Cephus,,pilosulus,,species,,B201:1,synonym,B201:1:103,Cephus cultratus Eversmann,,,,,,,Cephidae,Cephinae,Cephus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini | Cephus,,8427320
 B201:1:106,Cephus pygmaeus (L.),(L.),Cephus,,pygmaeus,,species,,B201:1,accepted,,,B201:1:101,Cephus Latreille,,,,,Cephidae,Cephinae,Cephus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini | Cephus,,7596780
-B201:1:107,Trachelus Jurine,Jurine,,,,,genus,,B201:1,accepted,,,B201:1:100,Cephini,,,,,Cephidae,Cephinae,Trachelus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini,8MVKR,1334170
+B201:1:107,Trachelus Jurine,Jurine,,,,,genus,,B201:1,accepted,,,B201:1:100,Cephini,,,,,Cephidae,Cephinae,Trachelus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini,9WN5Q,1334170
 B201:1:108,Cephus Latreille,Latreille,,,,,genus,,B201:1,heterotypic synonym,B201:1:107,Trachelus Jurine,,,,,,,Cephidae,Cephinae,Cephus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini,3KKH,1334167
 B201:1:109,Astatus Panzer,Panzer,,,,,genus,,B201:1,synonym,B201:1:107,Trachelus Jurine,,,,,,,Cephidae,Cephinae,Astatus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini,349W,7235986
+B201:1:208,Trachelus troglodyta (Fabricius),(Fabricius),Trachelus,,troglodyta,,species,,B201:1,accepted,,,B201:1:107,Trachelus Jurine,,,,,Cephidae,Cephinae,Trachelus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini | Trachelus,,7756316
+B201:1:209,Trachelus niger Cameron,Cameron,Trachelus,,niger,,species,,B201:1,synonym,B201:1:208,Trachelus troglodyta (Fabricius),,,,,,,Cephidae,Cephinae,Trachelus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini | Trachelus,,11310038
+B201:1:210,Trachelus tabidus (Fabricius),(Fabricius),Trachelus,,tabidus,,species,,B201:1,accepted,,,B201:1:107,Trachelus Jurine,,,,,Cephidae,Cephinae,Trachelus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini | Trachelus,,5759865
 B201:1:110,Calameuta Konow,Konow,,,,,genus,,B201:1,accepted,,,B201:1:100,Cephini,,,,,Cephidae,Cephinae,Calameuta,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini,,4406679
 B201:1:111,Cephus Latreille,Latreille,,,,,genus,,B201:1,heterotypic synonym,B201:1:110,Calameuta Konow,,,,,,,Cephidae,Cephinae,Cephus,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini,3KKH,1334167
 B201:1:112,Calameuta filiformis Eversmann,Eversmann,Calameuta,,filiformis,,species,,B201:1,accepted,,,B201:1:110,Calameuta Konow,,,,,Cephidae,Cephinae,Calameuta,,Symphyta | Cephoidea | Cephidae | Cephinae | Cephini | Calameuta,,4492444
@@ -188,7 +191,7 @@ B201:1:186,Monocteninae,,,,,,subfamily,,B201:1,accepted,,,B201:1:185,Diprionidae
 B201:1:187,Monoctenus Dahlbom,Dahlbom,,,,,genus,,B201:1,accepted,,,B201:1:186,Monocteninae,,,,,Diprionidae,Monocteninae,Monoctenus,,Symphyta | Tenthredinoidea | Diprionidae | Monocteninae,,4407838
 B201:1:188,Monoctenus juniperi (L.),(L.),Monoctenus,,juniperi,,species,,B201:1,accepted,,,B201:1:187,Monoctenus Dahlbom,,,,,Diprionidae,Monocteninae,Monoctenus,,Symphyta | Tenthredinoidea | Diprionidae | Monocteninae | Monoctenus,,4492186
 B201:1:189,Diprioninae,,,,,,subfamily,,B201:1,accepted,,,B201:1:185,Diprionidae,,,,,Diprionidae,Diprioninae,,,Symphyta | Tenthredinoidea | Diprionidae,,
-B201:1:190,Lophyrus auctt.,,Lophyrus,,auctt.,,species,,B201:1,synonym,B201:1:189,Diprioninae,,,,,,,Diprionidae,Diprioninae,Lophyrus,,Symphyta | Tenthredinoidea | Diprionidae,,
+B201:1:190,Lophyrus,,,,,,subfamily,auctt.,B201:1,synonym,B201:1:189,Diprioninae,,,,,,,Diprionidae,Lophyrus,,,Symphyta | Tenthredinoidea | Diprionidae,,
 B201:1:191,Microdiprion Enslin,Enslin,,,,,genus,,B201:1,accepted,,,B201:1:189,Diprioninae,,,,,Diprionidae,Diprioninae,Microdiprion,,Symphyta | Tenthredinoidea | Diprionidae | Diprioninae,,4492171
 B201:1:192,Microdiprion pallipes (Fallén),(Fallén),Microdiprion,,pallipes,,species,,B201:1,accepted,,,B201:1:191,Microdiprion Enslin,,,,,Diprionidae,Diprioninae,Microdiprion,,Symphyta | Tenthredinoidea | Diprionidae | Diprioninae | Microdiprion,,4492174
 B201:1:193,Neodiprion Rohwer,Rohwer,,,,,genus,,B201:1,accepted,,,B201:1:189,Diprioninae,,,,,Diprionidae,Diprioninae,Neodiprion,,Symphyta | Tenthredinoidea | Diprionidae | Diprioninae,5ZCN,1249720

@@ -532,7 +532,7 @@
     ],
     "scope": [],
     "id": "B69:1",
-    "taxonCount": 136
+    "taxonCount": 135
   },
   "B70:1": {
     "levels": [
@@ -2484,7 +2484,7 @@
     ],
     "scope": [],
     "id": "B201:1",
-    "taxonCount": 207
+    "taxonCount": 210
   },
   "B203:1": {
     "levels": [
@@ -2608,9 +2608,7 @@
     "levels": [
       "subfamily",
       "tribe",
-      "genus",
-      "species",
-      "subspecies"
+      "genus"
     ],
     "scope": [],
     "catalog": {
@@ -3237,7 +3235,8 @@
       "genus",
       "subgenus",
       "complex",
-      "species"
+      "species",
+      "subspecies"
     ],
     "scope": [],
     "catalog": {
@@ -3245,7 +3244,7 @@
       "pages": "102-116"
     },
     "id": "B229:7",
-    "taxonCount": 52
+    "taxonCount": 57
   },
   "B229:8": {
     "levels": [
@@ -3254,16 +3253,17 @@
       "genus",
       "subgenus",
       "complex",
-      "species"
+      "species",
+      "subspecies"
     ],
     "scope": [
-      "larvae, fourth instar"
+      "larvae (instar IV)"
     ],
     "catalog": {
       "pages": "117-120"
     },
     "id": "B229:8",
-    "taxonCount": 52
+    "taxonCount": 57
   },
   "B230:1": {
     "levels": [
@@ -4531,7 +4531,7 @@
     ],
     "scope": [],
     "id": "B383:1",
-    "taxonCount": 525
+    "taxonCount": 529
   },
   "B384:1": {
     "levels": [
@@ -4544,7 +4544,7 @@
     ],
     "scope": [],
     "id": "B384:1",
-    "taxonCount": 525
+    "taxonCount": 529
   },
   "B385:1": {
     "levels": [
@@ -6992,8 +6992,6 @@
   },
   "B1328:4": {
     "levels": [
-      "family",
-      "genus",
       "species"
     ],
     "scope": [],
