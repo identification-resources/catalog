@@ -1,120 +1,120 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B1006:1:1,"Dufourea Lepeletier, 1841","Lepeletier, 1841",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Dufourea,,,48NF,1351817
-B1006:1:2,Dufourea,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:1,"Dufourea Lepeletier, 1841",,,,,,,Dufourea,Dufourea,Dufourea,,
-B1006:1:3,"Dufourea halictula (Nylander, 1852)","(Nylander, 1852)",Dufourea,,halictula,,species,,B1006:1,accepted,,,B1006:1:2,Dufourea,,,,,,,Dufourea,Dufourea,Dufourea | Dufourea,37ZLJ,1351966
-B1006:1:4,"Dufourea minuta (Lepeletier, 1841)","(Lepeletier, 1841)",Dufourea,,minuta,,species,,B1006:1,accepted,,,B1006:1:2,Dufourea,,,,,,,Dufourea,Dufourea,Dufourea | Dufourea,37ZMS,1351974
-B1006:1:5,Halictoides,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:1,"Dufourea Lepeletier, 1841",,,,,,,Dufourea,Halictoides,Dufourea,,
-B1006:1:6,"Dufourea dentiventris (Nylander, 1848)","(Nylander, 1848)",Dufourea,,dentiventris,,species,,B1006:1,accepted,,,B1006:1:5,Halictoides,,,,,,,Dufourea,Halictoides,Dufourea | Halictoides,37ZKN,1351938
-B1006:1:7,"Dufourea inermis (Nylander, 1848)","(Nylander, 1848)",Dufourea,,inermis,,species,,B1006:1,accepted,,,B1006:1:5,Halictoides,,,,,,,Dufourea,Halictoides,Dufourea | Halictoides,37ZLS,1351953
-B1006:1:8,Cephalictoides,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:1,"Dufourea Lepeletier, 1841",,,,,,,Dufourea,Cephalictoides,Dufourea,,
-B1006:1:9,"Dufourea paradoxa (Morawitz, 1867)","(Morawitz, 1867)",Dufourea,,paradoxa,,species,,B1006:1,accepted,,,B1006:1:8,Cephalictoides,,,,,,,Dufourea,Cephalictoides,Dufourea | Cephalictoides,6DPGS,1351869
-B1006:1:10,"Rhophitoides Schenck, 1861","Schenck, 1861",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Rhophitoides,,,,4496154
-B1006:1:11,"Rhophitoides canus (Eversmann, 1852)","(Eversmann, 1852)",Rhophitoides,,canus,,species,,B1006:1,accepted,,,B1006:1:10,"Rhophitoides Schenck, 1861",,,,,,,Rhophitoides,,Rhophitoides,,9445413
-B1006:1:12,Rophites,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Rophites,,,64476,1352005
-B1006:1:13,"Rophites quinquespinosus Spinola, 1808","Spinola, 1808",Rophites,,quinquespinosus,,species,,B1006:1,accepted,,,B1006:1:12,Rophites,,,,,,,Rophites,,Rophites,4TC9S,1352014
-B1006:1:14,"Rophites algirus Perez, 1895","Perez, 1895",Rophites,,algirus,,species,,B1006:1,accepted,,,B1006:1:12,Rophites,,,,,,,Rophites,,Rophites,4TC99,1352007
-B1006:1:15,"Rophites hartmanni Friese, 1902","Friese, 1902",Rophites,,hartmanni,,species,,B1006:1,accepted,,,B1006:1:12,Rophites,,,,,,,Rophites,,Rophites,4TC9K,1352012
-B1006:1:16,Systropha,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Systropha,,,7RP2,1351635
-B1006:1:17,"Systropha curvicornis (Scopoli, 1770)","(Scopoli, 1770)",Systropha,,curvicornis,,species,,B1006:1,accepted,,,B1006:1:16,Systropha,,,,,,,Systropha,,Systropha,5457X,1351642
-B1006:1:18,"Systropha planidens Giraud, 1861","Giraud, 1861",Systropha,,planidens,,species,,B1006:1,accepted,,,B1006:1:16,Systropha,,,,,,,Systropha,,Systropha,5458D,1351648
-B1006:1:19,"Nomiapis Cockerell, 1919","Cockerell, 1919",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Nomiapis,,,,4405190
-B1006:1:20,"Nomiapis diversipes (Latreille, 1806)","(Latreille, 1806)",Nomiapis,,diversipes,,species,,B1006:1,accepted,,,B1006:1:19,"Nomiapis Cockerell, 1919",,,,,,,Nomiapis,,Nomiapis,,4495972
-B1006:1:21,"Nomiapis femoralis (Pallas, 1773)","(Pallas, 1773)",Nomiapis,,femoralis,,species,,B1006:1,accepted,,,B1006:1:19,"Nomiapis Cockerell, 1919",,,,,,,Nomiapis,,Nomiapis,,4495974
-B1006:1:22,"Nomioides Schenck, 1867","Schenck, 1867",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Nomioides,,,64R9,1352049
-B1006:1:23,Nomioides,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:22,"Nomioides Schenck, 1867",,,,,,,Nomioides,Nomioides,Nomioides,64R9,
-B1006:1:24,"Nomioides minulissimus (Rossi, 1790)","(Rossi, 1790)",Nomioides,,minulissimus,,species,,B1006:1,accepted,,,B1006:1:23,Nomioides,,,,,,,Nomioides,Nomioides,Nomioides | Nomioides,47P23,1352096
-B1006:1:25,"Ceylalictus Strand, 1913","Strand, 1913",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Ceylalictus,,,62JZZ,1352660
-B1006:1:26,Ceylalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:25,"Ceylalictus Strand, 1913",,,,,,,Ceylalictus,Ceylalictus,Ceylalictus,62JZZ,
-B1006:1:27,"Ceylalictus variegatus (Olivier, 1789)","(Olivier, 1789)",Ceylalictus,,variegatus,,species,,B1006:1,accepted,,,B1006:1:26,Ceylalictus,,,,,,,Ceylalictus,Ceylalictus,Ceylalictus | Ceylalictus,T934,1352694
-B1006:1:28,"Halictus Latreille, 1804","Latreille, 1804",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Halictus,,,4SQY,1347978
-B1006:1:29,Halictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,"Halictus Latreille, 1804",,,,,,,Halictus,Halictus,Halictus,4SQX,
-B1006:1:30,"Halictus quadricinctus (Fabricius, 1776)","(Fabricius, 1776)",Halictus,,quadricinctus,,species,,B1006:1,accepted,,,B1006:1:29,Halictus,,,,,,,Halictus,Halictus,Halictus | Halictus,3JDCB,1353236
-B1006:1:31,Protohalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,"Halictus Latreille, 1804",,,,,,,Halictus,Protohalictus,Halictus,,
-B1006:1:32,"Halictus rubicundus (Chris, 1791)","(Chris, 1791)",Halictus,,rubicundus,,species,,B1006:1,accepted,,,B1006:1:31,Protohalictus,,,,,,,Halictus,Protohalictus,Halictus | Protohalictus,3JDCM,1353453
-B1006:1:33,Monilapis,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,"Halictus Latreille, 1804",,,,,,,Halictus,Monilapis,Halictus,,
-B1006:1:34,"Halictus compressus (Walckenaer, 1802)","(Walckenaer, 1802)",Halictus,,compressus,,species,,B1006:1,accepted,,,B1006:1:33,Monilapis,,,,,,,Halictus,Monilapis,Halictus | Monilapis,3JD64,1353390
-B1006:1:35,"Halictus simplex Blüthgen, 1923","Blüthgen, 1923",Halictus,,simplex,,species,,B1006:1,accepted,,,B1006:1:33,Monilapis,,,,,,,Halictus,Monilapis,Halictus | Monilapis,3JDD4,1353310
-B1006:1:36,Tytthalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,"Halictus Latreille, 1804",,,,,,,Halictus,Tytthalictus,Halictus,,
-B1006:1:37,"Halictus maculatus Smith, 1848","Smith, 1848",Halictus,,maculatus,,species,,B1006:1,accepted,,,B1006:1:36,Tytthalictus,,,,,,,Halictus,Tytthalictus,Halictus | Tytthalictus,3JD9Q,1353364
-B1006:1:38,Hexataenites,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,"Halictus Latreille, 1804",,,,,,,Halictus,Hexataenites,Halictus,,
-B1006:1:39,"Halictus sexcinctus (Fabricius, 1775)","(Fabricius, 1775)",Halictus,,sexcinctus,,species,,B1006:1,accepted,,,B1006:1:38,Hexataenites,,,,,,,Halictus,Hexataenites,Halictus | Hexataenites,3JDD3,1353322
-B1006:1:40,Seladonia,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Seladonia,,,,1353491
-B1006:1:41,"Seladonia seladonia (Fabricius, 1794)","(Fabricius, 1794)",Seladonia,,seladonia,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10492536
-B1006:1:42,"Seladonia subaurate (Rossi, 1792)","(Rossi, 1792)",Seladonia,,subaurate,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10189950
-B1006:1:43,"Seladonia smaragdula (Vachal, 1895)","(Vachal, 1895)",Seladonia,,smaragdula,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,8460202
-B1006:1:44,"Seladonia semitecta (Morawitz, 1874)","(Morawitz, 1874)",Seladonia,,semitecta,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,1353491
-B1006:1:45,"Seladonia kessleri (Bramson, 1879)","(Bramson, 1879)",Seladonia,,kessleri,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10435729
-B1006:1:46,"Seladonia leucahenea (Bramson, 1879)","(Bramson, 1879)",Seladonia,,leucahenea,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10040379
-B1006:1:47,"Seladonia tumulorum (Linnaeus, 1758)","(Linnaeus, 1758)",Seladonia,,tumulorum,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10586252
-B1006:1:48,"Seladonia confusa (Smith, 1853)","(Smith, 1853)",Seladonia,,confusa,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10587258
-B1006:1:49,"Seladonia gavarnica (Pérez, 1903)","(Pérez, 1903)",Seladonia,,gavarnica,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10096738
-B1006:1:50,"Lasioglossum Curtis, 1833","Curtis, 1833",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Lasioglossum,,,5B4P,1353501
-B1006:1:51,Lasioglossum,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:50,"Lasioglossum Curtis, 1833",,,,,,,Lasioglossum,Lasioglossum,Lasioglossum,5B4P,
-B1006:1:52,"Lasioglossum xanthopus (Kirby, 1802)","(Kirby, 1802)",Lasioglossum,,xanthopus,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,3SFBM,1353731
-B1006:1:53,"Lasioglossum subfasciatum (Imhoff, 1832)","(Imhoff, 1832)",Lasioglossum,,subfasciatum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,3SF59,1354039
-B1006:1:54,"Lasioglossum sexnotatum (Kirby, 1802)","(Kirby, 1802)",Lasioglossum,,sexnotatum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,3SF2L,1354966
-B1006:1:55,"Lasioglossum breviventre (Schenck, 1853)","(Schenck, 1853)",Lasioglossum,,breviventre,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,6NYB2,1354798
-B1006:1:56,"Lasioglossum sexnotatulum (Nylander, 1852)","(Nylander, 1852)",Lasioglossum,,sexnotatulum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,3SF2K,1354973
-B1006:1:57,"Lasioglossum sexmaculatum (Schenck, 1853)","(Schenck, 1853)",Lasioglossum,,sexmaculatum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,3SF2J,1354982
-B1006:1:58,"Lasioglossum prasinum (Smith, 1848)","(Smith, 1848)",Lasioglossum,,prasinum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,6P2JW,1355107
-B1006:1:59,Pallhalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:50,"Lasioglossum Curtis, 1833",,,,,,,Lasioglossum,Pallhalictus,Lasioglossum,,
-B1006:1:60,"Lasioglossum quadrinotatum (Kirby, 1802)","(Kirby, 1802)",Lasioglossum,,quadrinotatum,,species,,B1006:1,accepted,,,B1006:1:59,Pallhalictus,,,,,,,Lasioglossum,Pallhalictus,Lasioglossum | Pallhalictus,6P2BN,1354607
-B1006:1:61,"Lasioglossum lativentre (Schenck, 1853)","(Schenck, 1853)",Lasioglossum,,lativentre,,species,,B1006:1,accepted,,,B1006:1:59,Pallhalictus,,,,,,,Lasioglossum,Pallhalictus,Lasioglossum | Pallhalictus,6NZMH,1354007
-B1006:1:62,"Lasioglossum pallens (Brullé, 1832)","(Brullé, 1832)",Lasioglossum,,pallens,,species,,B1006:1,accepted,,,B1006:1:59,Pallhalictus,,,,,,,Lasioglossum,Pallhalictus,Lasioglossum | Pallhalictus,6P2F9,1354551
-B1006:1:63,Ebmeria,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:50,"Lasioglossum Curtis, 1833",,,,,,,Lasioglossum,Ebmeria,Lasioglossum,,
-B1006:1:64,"Lasioglossum costulatum (Kriechbaumer, 1873)","(Kriechbaumer, 1873)",Lasioglossum,,costulatum,,species,,B1006:1,accepted,,,B1006:1:63,Ebmeria,,,,,,,Lasioglossum,Ebmeria,Lasioglossum | Ebmeria,3SDZR,1354961
-B1006:1:65,Lauchalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:50,"Lasioglossum Curtis, 1833",,,,,,,Lasioglossum,Lauchalictus,Lasioglossum,,
-B1006:1:66,"Lasioglossum majus (Nylander, 1832)","(Nylander, 1832)",Lasioglossum,,majus,,species,,B1006:1,accepted,,,B1006:1:65,Lauchalictus,,,,,,,Lasioglossum,Lauchalictus,Lasioglossum | Lauchalictus,6NZNL,1355095
-B1006:1:67,"Lasioglossum zonulum (Smith, 1848)","(Smith, 1848)",Lasioglossum,,zonulum,,species,,B1006:1,accepted,,,B1006:1:65,Lauchalictus,,,,,,,Lasioglossum,Lauchalictus,Lasioglossum | Lauchalictus,3SFCC,1355337
-B1006:1:68,"Lasioglossum leucozonium (Schrank, 1781)","(Schrank, 1781)",Lasioglossum,,leucozonium,,species,,B1006:1,accepted,,,B1006:1:65,Lauchalictus,,,,,,,Lasioglossum,Lauchalictus,Lasioglossum | Lauchalictus,6NZM3,1353805
-B1006:1:69,"Lasioglossum alinense (Cockerell, 1924)","(Cockerell, 1924)",Lasioglossum,,alinense,,species,,B1006:1,accepted,,,B1006:1:65,Lauchalictus,,,,,,,Lasioglossum,Lauchalictus,Lasioglossum | Lauchalictus,3SDPC,1354808
-B1006:1:70,Evylaeus,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Evylaeus,,,,4677124
-B1006:1:71,"Evylaeus calceatus (Scopoli, 1763)","(Scopoli, 1763)",Evylaeus,,calceatus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,10296945
-B1006:1:72,"Evylaeus albipes (Fabricius, 1781)","(Fabricius, 1781)",Evylaeus,,albipes,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:73,"Evylaeus nigripes (Lepeletier, 1841)","(Lepeletier, 1841)",Evylaeus,,nigripes,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:74,"Evylaeus euboeensis (Strand, 1909)","(Strand, 1909)",Evylaeus,,euboeensis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:75,"Evylaeus obscuratus (Morawitz, 1875)","(Morawitz, 1875)",Evylaeus,,obscuratus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:76,"Evylaeus malachurus (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,malachurus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:77,"Evylaeus linearis (Schenck, 1869)","(Schenck, 1869)",Evylaeus,,linearis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:78,"Evylaeus pauxillus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,pauxillus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:79,"Evylaeus laticeps (Schenck, 1869)","(Schenck, 1869)",Evylaeus,,laticeps,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:80,"Evylaeus marginatus (Brullé, 1832)","(Brullé, 1832)",Evylaeus,,marginatus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:81,"Evylaeus tricinctus (Schenck, 1874)","(Schenck, 1874)",Evylaeus,,tricinctus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:82,"Evylaeus setulellus (Strand, 1909)","(Strand, 1909)",Evylaeus,,setulellus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:83,"Evylaeus fulvicornis (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,fulvicornis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,6128674
-B1006:1:84,"Evylaeus fratellus (Pérez, 1903)","(Pérez, 1903)",Evylaeus,,fratellus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:85,"Evylaeus laevis (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,laevis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:86,"Evylaeus interruptus (Panzer, 1798)","(Panzer, 1798)",Evylaeus,,interruptus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:87,"Evylaeus minutulus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,minutulus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:88,"Evylaeus setulosus (Strand, 1909)","(Strand, 1909)",Evylaeus,,setulosus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:89,"Evylaeus brevicornis (Schenck, 1863)","(Schenck, 1863)",Evylaeus,,brevicornis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:90,"Evylaeus limbellus (Morawitz, 1876)","(Morawitz, 1876)",Evylaeus,,limbellus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:91,"Evylaeus sexstrigatus (Schenck, 1869)","(Schenck, 1869)",Evylaeus,,sexstrigatus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:92,"Evylaeus politus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,politus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:93,"Evylaeus glabriusculus (Morawitz, 1872)","(Morawitz, 1872)",Evylaeus,,glabriusculus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:94,"Evylaeus trichopygus (Blüthgen, 1923)","(Blüthgen, 1923)",Evylaeus,,trichopygus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:95,"Evylaeus quandrinotatulis (Schenck, 1861)","(Schenck, 1861)",Evylaeus,,quandrinotatulis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:96,"Evylaeus minutissimus (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,minutissimus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:97,"Evylaeus intermedius (Schenck, 1869)","(Schenck, 1869)",Evylaeus,,intermedius,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:98,"Evylaeus semilucens (Alfken, 1914)","(Alfken, 1914)",Evylaeus,,semilucens,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,9838513
-B1006:1:99,"Evylaeus lucidulus (Schenck, 1861)","(Schenck, 1861)",Evylaeus,,lucidulus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:100,"Evylaeus tarsatus (Schenck, 1869)","(Schenck, 1869)",Evylaeus,,tarsatus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:101,"Evylaeus marginellus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,marginellus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:102,"Evylaeus quadrisignatus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,quadrisignatus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:103,"Evylaeus punctatissimus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,punctatissimus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:104,"Evylaeus clypearis (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,clypearis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:105,"Evylaeus convexiusculus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,convexiusculus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:106,"Evylaeus nitidiusculus (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,nitidiusculus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:107,"Evylaeus parvulus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,parvulus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:108,"Evylaeus rufitarsis (Zetterstedt, 1838)","(Zetterstedt, 1838)",Evylaeus,,rufitarsis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:109,"Evylaeus pygmaeus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,pygmaeus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:110,"Evylaeus puncticollis (Morawitz, 1872)","(Morawitz, 1872)",Evylaeus,,puncticollis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:111,"Evylaeus villosulus (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,villosulus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,6128675
-B1006:1:112,"Evylaeus aeratus (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,aeratus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:113,"Evylaeus lecupos (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,lecupos,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:114,"Evylaeus morio (Fabricius, 1793)","(Fabricius, 1793)",Evylaeus,,morio,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:115,"Evylaeus nitidulus (Fabricius, 1804)","(Fabricius, 1804)",Evylaeus,,nitidulus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:116,"Evylaeus podolicus (Noskiewicz, 1925)","(Noskiewicz, 1925)",Evylaeus,,podolicus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:117,"Evylaeus lissonotus (Noskiewicz, 1926)","(Noskiewicz, 1926)",Evylaeus,,lissonotus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:118,"Evylaeus cupromicans (Pérez, 1903)","(Pérez, 1903)",Evylaeus,,cupromicans,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
-B1006:1:119,"Evylaeus bavaricus (Blüthgen, 1930)","(Blüthgen, 1930)",Evylaeus,,bavaricus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,4677124
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1006:1:1,"Dufourea Lepeletier, 1841","Lepeletier, 1841",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Dufourea,,,48NF,1351817,48NF,1351817
+B1006:1:2,Dufourea,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:1,"Dufourea Lepeletier, 1841",,,,,,,Dufourea,Dufourea,Dufourea,48NF,,48NF,
+B1006:1:3,"Dufourea halictula (Nylander, 1852)","(Nylander, 1852)",Dufourea,,halictula,,species,,B1006:1,accepted,,,B1006:1:2,Dufourea,,,,,,,Dufourea,Dufourea,Dufourea | Dufourea,37ZLJ,1351966,37ZLJ,1351966
+B1006:1:4,"Dufourea minuta (Lepeletier, 1841)","(Lepeletier, 1841)",Dufourea,,minuta,,species,,B1006:1,accepted,,,B1006:1:2,Dufourea,,,,,,,Dufourea,Dufourea,Dufourea | Dufourea,37ZMS,1351974,37ZMS,1351974
+B1006:1:5,Halictoides,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:1,"Dufourea Lepeletier, 1841",,,,,,,Dufourea,Halictoides,Dufourea,,,,
+B1006:1:6,"Dufourea dentiventris (Nylander, 1848)","(Nylander, 1848)",Dufourea,,dentiventris,,species,,B1006:1,accepted,,,B1006:1:5,Halictoides,,,,,,,Dufourea,Halictoides,Dufourea | Halictoides,37ZKN,1351938,37ZKN,1351938
+B1006:1:7,"Dufourea inermis (Nylander, 1848)","(Nylander, 1848)",Dufourea,,inermis,,species,,B1006:1,accepted,,,B1006:1:5,Halictoides,,,,,,,Dufourea,Halictoides,Dufourea | Halictoides,37ZLS,1351953,37ZLS,1351953
+B1006:1:8,Cephalictoides,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:1,"Dufourea Lepeletier, 1841",,,,,,,Dufourea,Cephalictoides,Dufourea,,,,
+B1006:1:9,"Dufourea paradoxa (Morawitz, 1867)","(Morawitz, 1867)",Dufourea,,paradoxa,,species,,B1006:1,accepted,,,B1006:1:8,Cephalictoides,,,,,,,Dufourea,Cephalictoides,Dufourea | Cephalictoides,6DPGS,1351869,6DPGS,1351869
+B1006:1:10,"Rhophitoides Schenck, 1861","Schenck, 1861",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Rhophitoides,,,,4496154,,4496154
+B1006:1:11,"Rhophitoides canus (Eversmann, 1852)","(Eversmann, 1852)",Rhophitoides,,canus,,species,,B1006:1,accepted,,,B1006:1:10,"Rhophitoides Schenck, 1861",,,,,,,Rhophitoides,,Rhophitoides,,9445413,,1352023
+B1006:1:12,Rophites,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Rophites,,,64476,1352005,64476,1352005
+B1006:1:13,"Rophites quinquespinosus Spinola, 1808","Spinola, 1808",Rophites,,quinquespinosus,,species,,B1006:1,accepted,,,B1006:1:12,Rophites,,,,,,,Rophites,,Rophites,4TC9S,1352014,4TC9S,1352014
+B1006:1:14,"Rophites algirus Perez, 1895","Perez, 1895",Rophites,,algirus,,species,,B1006:1,accepted,,,B1006:1:12,Rophites,,,,,,,Rophites,,Rophites,4TC99,1352007,4TC99,1352007
+B1006:1:15,"Rophites hartmanni Friese, 1902","Friese, 1902",Rophites,,hartmanni,,species,,B1006:1,accepted,,,B1006:1:12,Rophites,,,,,,,Rophites,,Rophites,4TC9K,1352012,4TC9K,1352012
+B1006:1:16,Systropha,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Systropha,,,7RP2,1351635,7RP2,1351635
+B1006:1:17,"Systropha curvicornis (Scopoli, 1770)","(Scopoli, 1770)",Systropha,,curvicornis,,species,,B1006:1,accepted,,,B1006:1:16,Systropha,,,,,,,Systropha,,Systropha,5457X,1351642,5457X,1351642
+B1006:1:18,"Systropha planidens Giraud, 1861","Giraud, 1861",Systropha,,planidens,,species,,B1006:1,accepted,,,B1006:1:16,Systropha,,,,,,,Systropha,,Systropha,5458D,1351648,5458D,1351648
+B1006:1:19,"Nomiapis Cockerell, 1919","Cockerell, 1919",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Nomiapis,,,,4405190,,1353092
+B1006:1:20,"Nomiapis diversipes (Latreille, 1806)","(Latreille, 1806)",Nomiapis,,diversipes,,species,,B1006:1,accepted,,,B1006:1:19,"Nomiapis Cockerell, 1919",,,,,,,Nomiapis,,Nomiapis,,4495972,,1353125
+B1006:1:21,"Nomiapis femoralis (Pallas, 1773)","(Pallas, 1773)",Nomiapis,,femoralis,,species,,B1006:1,accepted,,,B1006:1:19,"Nomiapis Cockerell, 1919",,,,,,,Nomiapis,,Nomiapis,,4495974,,1353098
+B1006:1:22,"Nomioides Schenck, 1867","Schenck, 1867",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Nomioides,,,64R9,1352049,64R9,1352049
+B1006:1:23,Nomioides,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:22,"Nomioides Schenck, 1867",,,,,,,Nomioides,Nomioides,Nomioides,64R9,,64R9,
+B1006:1:24,"Nomioides minulissimus (Rossi, 1790)","(Rossi, 1790)",Nomioides,,minulissimus,,species,,B1006:1,accepted,,,B1006:1:23,Nomioides,,,,,,,Nomioides,Nomioides,Nomioides | Nomioides,47P23,1352096,47P23,1352096
+B1006:1:25,"Ceylalictus Strand, 1913","Strand, 1913",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Ceylalictus,,,62JZZ,1352660,62JZZ,1352660
+B1006:1:26,Ceylalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:25,"Ceylalictus Strand, 1913",,,,,,,Ceylalictus,Ceylalictus,Ceylalictus,62JZZ,,62JZZ,
+B1006:1:27,"Ceylalictus variegatus (Olivier, 1789)","(Olivier, 1789)",Ceylalictus,,variegatus,,species,,B1006:1,accepted,,,B1006:1:26,Ceylalictus,,,,,,,Ceylalictus,Ceylalictus,Ceylalictus | Ceylalictus,T934,1352694,T934,1352694
+B1006:1:28,"Halictus Latreille, 1804","Latreille, 1804",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Halictus,,,4SQY,1347978,4SQY,1347978
+B1006:1:29,Halictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,"Halictus Latreille, 1804",,,,,,,Halictus,Halictus,Halictus,4SQY,,4SQY,
+B1006:1:30,"Halictus quadricinctus (Fabricius, 1776)","(Fabricius, 1776)",Halictus,,quadricinctus,,species,,B1006:1,accepted,,,B1006:1:29,Halictus,,,,,,,Halictus,Halictus,Halictus | Halictus,3JDCB,1353236,3JDCB,1353236
+B1006:1:31,Protohalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,"Halictus Latreille, 1804",,,,,,,Halictus,Protohalictus,Halictus,,,,
+B1006:1:32,"Halictus rubicundus (Chris, 1791)","(Chris, 1791)",Halictus,,rubicundus,,species,,B1006:1,accepted,,,B1006:1:31,Protohalictus,,,,,,,Halictus,Protohalictus,Halictus | Protohalictus,3JDCM,1353453,3JDCM,1353453
+B1006:1:33,Monilapis,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,"Halictus Latreille, 1804",,,,,,,Halictus,Monilapis,Halictus,,,,
+B1006:1:34,"Halictus compressus (Walckenaer, 1802)","(Walckenaer, 1802)",Halictus,,compressus,,species,,B1006:1,accepted,,,B1006:1:33,Monilapis,,,,,,,Halictus,Monilapis,Halictus | Monilapis,3JD64,1353390,3JD64,1353390
+B1006:1:35,"Halictus simplex Blüthgen, 1923","Blüthgen, 1923",Halictus,,simplex,,species,,B1006:1,accepted,,,B1006:1:33,Monilapis,,,,,,,Halictus,Monilapis,Halictus | Monilapis,3JDD4,1353310,3JDD4,1353310
+B1006:1:36,Tytthalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,"Halictus Latreille, 1804",,,,,,,Halictus,Tytthalictus,Halictus,,,,
+B1006:1:37,"Halictus maculatus Smith, 1848","Smith, 1848",Halictus,,maculatus,,species,,B1006:1,accepted,,,B1006:1:36,Tytthalictus,,,,,,,Halictus,Tytthalictus,Halictus | Tytthalictus,3JD9Q,1353364,3JD9Q,1353364
+B1006:1:38,Hexataenites,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:28,"Halictus Latreille, 1804",,,,,,,Halictus,Hexataenites,Halictus,,,,
+B1006:1:39,"Halictus sexcinctus (Fabricius, 1775)","(Fabricius, 1775)",Halictus,,sexcinctus,,species,,B1006:1,accepted,,,B1006:1:38,Hexataenites,,,,,,,Halictus,Hexataenites,Halictus | Hexataenites,3JDD3,1353322,3JDD3,1353322
+B1006:1:40,Seladonia,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Seladonia,,,,1353491,,1353491
+B1006:1:41,"Seladonia seladonia (Fabricius, 1794)","(Fabricius, 1794)",Seladonia,,seladonia,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10492536,,1353374
+B1006:1:42,"Seladonia subaurate (Rossi, 1792)","(Rossi, 1792)",Seladonia,,subaurate,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10189950,,1353234
+B1006:1:43,"Seladonia smaragdula (Vachal, 1895)","(Vachal, 1895)",Seladonia,,smaragdula,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,8460202,,1353300
+B1006:1:44,"Seladonia semitecta (Morawitz, 1874)","(Morawitz, 1874)",Seladonia,,semitecta,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,,,
+B1006:1:45,"Seladonia kessleri (Bramson, 1879)","(Bramson, 1879)",Seladonia,,kessleri,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10435729,,1353283
+B1006:1:46,"Seladonia leucahenea (Bramson, 1879)","(Bramson, 1879)",Seladonia,,leucahenea,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10040379,,1353181
+B1006:1:47,"Seladonia tumulorum (Linnaeus, 1758)","(Linnaeus, 1758)",Seladonia,,tumulorum,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10586252,,1353289
+B1006:1:48,"Seladonia confusa (Smith, 1853)","(Smith, 1853)",Seladonia,,confusa,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10587258,,1353363
+B1006:1:49,"Seladonia gavarnica (Pérez, 1903)","(Pérez, 1903)",Seladonia,,gavarnica,,species,,B1006:1,accepted,,,B1006:1:40,Seladonia,,,,,,,Seladonia,,Seladonia,,10096738,,1353295
+B1006:1:50,"Lasioglossum Curtis, 1833","Curtis, 1833",,,,,genus,,B1006:1,accepted,,,,,,,,,,,Lasioglossum,,,5B4P,1353501,5B4P,1353501
+B1006:1:51,Lasioglossum,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:50,"Lasioglossum Curtis, 1833",,,,,,,Lasioglossum,Lasioglossum,Lasioglossum,5B4P,,5B4P,
+B1006:1:52,"Lasioglossum xanthopus (Kirby, 1802)","(Kirby, 1802)",Lasioglossum,,xanthopus,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,3SFBM,1353731,3SFBM,1353731
+B1006:1:53,"Lasioglossum subfasciatum (Imhoff, 1832)","(Imhoff, 1832)",Lasioglossum,,subfasciatum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,3SF59,1354039,3SF59,1354039
+B1006:1:54,"Lasioglossum sexnotatum (Kirby, 1802)","(Kirby, 1802)",Lasioglossum,,sexnotatum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,3SF2L,1354966,3SF2L,1354966
+B1006:1:55,"Lasioglossum breviventre (Schenck, 1853)","(Schenck, 1853)",Lasioglossum,,breviventre,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,6NYB2,1354798,6NYB2,1354798
+B1006:1:56,"Lasioglossum sexnotatulum (Nylander, 1852)","(Nylander, 1852)",Lasioglossum,,sexnotatulum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,3SF2K,1354973,3SF2K,1354973
+B1006:1:57,"Lasioglossum sexmaculatum (Schenck, 1853)","(Schenck, 1853)",Lasioglossum,,sexmaculatum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,3SF2J,1354982,3SF2J,1354982
+B1006:1:58,"Lasioglossum prasinum (Smith, 1848)","(Smith, 1848)",Lasioglossum,,prasinum,,species,,B1006:1,accepted,,,B1006:1:51,Lasioglossum,,,,,,,Lasioglossum,Lasioglossum,Lasioglossum | Lasioglossum,6P2JW,1355107,6P2JW,1355107
+B1006:1:59,Pallhalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:50,"Lasioglossum Curtis, 1833",,,,,,,Lasioglossum,Pallhalictus,Lasioglossum,,,,
+B1006:1:60,"Lasioglossum quadrinotatum (Kirby, 1802)","(Kirby, 1802)",Lasioglossum,,quadrinotatum,,species,,B1006:1,accepted,,,B1006:1:59,Pallhalictus,,,,,,,Lasioglossum,Pallhalictus,Lasioglossum | Pallhalictus,6P2BN,1354607,6P2BN,1354607
+B1006:1:61,"Lasioglossum lativentre (Schenck, 1853)","(Schenck, 1853)",Lasioglossum,,lativentre,,species,,B1006:1,accepted,,,B1006:1:59,Pallhalictus,,,,,,,Lasioglossum,Pallhalictus,Lasioglossum | Pallhalictus,6NZMH,1354007,6NZMH,1354007
+B1006:1:62,"Lasioglossum pallens (Brullé, 1832)","(Brullé, 1832)",Lasioglossum,,pallens,,species,,B1006:1,accepted,,,B1006:1:59,Pallhalictus,,,,,,,Lasioglossum,Pallhalictus,Lasioglossum | Pallhalictus,6P2F9,1354551,6P2F9,1354551
+B1006:1:63,Ebmeria,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:50,"Lasioglossum Curtis, 1833",,,,,,,Lasioglossum,Ebmeria,Lasioglossum,,,,
+B1006:1:64,"Lasioglossum costulatum (Kriechbaumer, 1873)","(Kriechbaumer, 1873)",Lasioglossum,,costulatum,,species,,B1006:1,accepted,,,B1006:1:63,Ebmeria,,,,,,,Lasioglossum,Ebmeria,Lasioglossum | Ebmeria,3SDZR,1354961,3SDZR,1354961
+B1006:1:65,Lauchalictus,,,,,,subgenus,,B1006:1,accepted,,,B1006:1:50,"Lasioglossum Curtis, 1833",,,,,,,Lasioglossum,Lauchalictus,Lasioglossum,,,,
+B1006:1:66,"Lasioglossum majus (Nylander, 1832)","(Nylander, 1832)",Lasioglossum,,majus,,species,,B1006:1,accepted,,,B1006:1:65,Lauchalictus,,,,,,,Lasioglossum,Lauchalictus,Lasioglossum | Lauchalictus,6NZNL,1355095,6NZNL,1355095
+B1006:1:67,"Lasioglossum zonulum (Smith, 1848)","(Smith, 1848)",Lasioglossum,,zonulum,,species,,B1006:1,accepted,,,B1006:1:65,Lauchalictus,,,,,,,Lasioglossum,Lauchalictus,Lasioglossum | Lauchalictus,3SFCC,1355337,3SFCC,1355337
+B1006:1:68,"Lasioglossum leucozonium (Schrank, 1781)","(Schrank, 1781)",Lasioglossum,,leucozonium,,species,,B1006:1,accepted,,,B1006:1:65,Lauchalictus,,,,,,,Lasioglossum,Lauchalictus,Lasioglossum | Lauchalictus,6NZM3,1353805,6NZM3,1353805
+B1006:1:69,"Lasioglossum alinense (Cockerell, 1924)","(Cockerell, 1924)",Lasioglossum,,alinense,,species,,B1006:1,accepted,,,B1006:1:65,Lauchalictus,,,,,,,Lasioglossum,Lauchalictus,Lasioglossum | Lauchalictus,3SDPC,1354808,3SDPC,1354808
+B1006:1:70,Evylaeus,,,,,,genus,,B1006:1,accepted,,,,,,,,,,,Evylaeus,,,,4677124,,4677124
+B1006:1:71,"Evylaeus calceatus (Scopoli, 1763)","(Scopoli, 1763)",Evylaeus,,calceatus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,10296945,,1354476
+B1006:1:72,"Evylaeus albipes (Fabricius, 1781)","(Fabricius, 1781)",Evylaeus,,albipes,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:73,"Evylaeus nigripes (Lepeletier, 1841)","(Lepeletier, 1841)",Evylaeus,,nigripes,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:74,"Evylaeus euboeensis (Strand, 1909)","(Strand, 1909)",Evylaeus,,euboeensis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:75,"Evylaeus obscuratus (Morawitz, 1875)","(Morawitz, 1875)",Evylaeus,,obscuratus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:76,"Evylaeus malachurus (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,malachurus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:77,"Evylaeus linearis (Schenck, 1869)","(Schenck, 1869)",Evylaeus,,linearis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:78,"Evylaeus pauxillus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,pauxillus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:79,"Evylaeus laticeps (Schenck, 1869)","(Schenck, 1869)",Evylaeus,,laticeps,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:80,"Evylaeus marginatus (Brullé, 1832)","(Brullé, 1832)",Evylaeus,,marginatus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:81,"Evylaeus tricinctus (Schenck, 1874)","(Schenck, 1874)",Evylaeus,,tricinctus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:82,"Evylaeus setulellus (Strand, 1909)","(Strand, 1909)",Evylaeus,,setulellus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:83,"Evylaeus fulvicornis (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,fulvicornis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,6128674,,6128674
+B1006:1:84,"Evylaeus fratellus (Pérez, 1903)","(Pérez, 1903)",Evylaeus,,fratellus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:85,"Evylaeus laevis (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,laevis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:86,"Evylaeus interruptus (Panzer, 1798)","(Panzer, 1798)",Evylaeus,,interruptus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:87,"Evylaeus minutulus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,minutulus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:88,"Evylaeus setulosus (Strand, 1909)","(Strand, 1909)",Evylaeus,,setulosus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:89,"Evylaeus brevicornis (Schenck, 1863)","(Schenck, 1863)",Evylaeus,,brevicornis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:90,"Evylaeus limbellus (Morawitz, 1876)","(Morawitz, 1876)",Evylaeus,,limbellus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:91,"Evylaeus sexstrigatus (Schenck, 1869)","(Schenck, 1869)",Evylaeus,,sexstrigatus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:92,"Evylaeus politus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,politus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:93,"Evylaeus glabriusculus (Morawitz, 1872)","(Morawitz, 1872)",Evylaeus,,glabriusculus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:94,"Evylaeus trichopygus (Blüthgen, 1923)","(Blüthgen, 1923)",Evylaeus,,trichopygus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:95,"Evylaeus quandrinotatulis (Schenck, 1861)","(Schenck, 1861)",Evylaeus,,quandrinotatulis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:96,"Evylaeus minutissimus (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,minutissimus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:97,"Evylaeus intermedius (Schenck, 1869)","(Schenck, 1869)",Evylaeus,,intermedius,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:98,"Evylaeus semilucens (Alfken, 1914)","(Alfken, 1914)",Evylaeus,,semilucens,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,9838513,,1355126
+B1006:1:99,"Evylaeus lucidulus (Schenck, 1861)","(Schenck, 1861)",Evylaeus,,lucidulus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:100,"Evylaeus tarsatus (Schenck, 1869)","(Schenck, 1869)",Evylaeus,,tarsatus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:101,"Evylaeus marginellus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,marginellus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:102,"Evylaeus quadrisignatus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,quadrisignatus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:103,"Evylaeus punctatissimus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,punctatissimus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:104,"Evylaeus clypearis (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,clypearis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:105,"Evylaeus convexiusculus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,convexiusculus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:106,"Evylaeus nitidiusculus (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,nitidiusculus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:107,"Evylaeus parvulus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,parvulus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:108,"Evylaeus rufitarsis (Zetterstedt, 1838)","(Zetterstedt, 1838)",Evylaeus,,rufitarsis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:109,"Evylaeus pygmaeus (Schenck, 1853)","(Schenck, 1853)",Evylaeus,,pygmaeus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:110,"Evylaeus puncticollis (Morawitz, 1872)","(Morawitz, 1872)",Evylaeus,,puncticollis,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:111,"Evylaeus villosulus (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,villosulus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,6128675,,6128675
+B1006:1:112,"Evylaeus aeratus (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,aeratus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:113,"Evylaeus lecupos (Kirby, 1802)","(Kirby, 1802)",Evylaeus,,lecupos,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:114,"Evylaeus morio (Fabricius, 1793)","(Fabricius, 1793)",Evylaeus,,morio,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:115,"Evylaeus nitidulus (Fabricius, 1804)","(Fabricius, 1804)",Evylaeus,,nitidulus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:116,"Evylaeus podolicus (Noskiewicz, 1925)","(Noskiewicz, 1925)",Evylaeus,,podolicus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:117,"Evylaeus lissonotus (Noskiewicz, 1926)","(Noskiewicz, 1926)",Evylaeus,,lissonotus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:118,"Evylaeus cupromicans (Pérez, 1903)","(Pérez, 1903)",Evylaeus,,cupromicans,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,
+B1006:1:119,"Evylaeus bavaricus (Blüthgen, 1930)","(Blüthgen, 1930)",Evylaeus,,bavaricus,,species,,B1006:1,accepted,,,B1006:1:70,Evylaeus,,,,,,,Evylaeus,,Evylaeus,,,,

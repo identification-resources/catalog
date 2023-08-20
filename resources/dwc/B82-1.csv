@@ -1,29 +1,29 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B82:1:1,Hippoboscidae,,,,,,family,,B82:1,accepted,,,,,,,,,Hippoboscidae,,,,,B39,9491
-B82:1:2,Ornithoica,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Ornithoica,,Hippoboscidae,69XX,1638922
-B82:1:3,"Ornithoica turdi (Olivier in Latreille, 1812)","(Olivier in Latreille, 1812)",Ornithoica,,turdi,,species,,B82:1,accepted,,,B82:1:2,Ornithoica,,,,,Hippoboscidae,,Ornithoica,,Hippoboscidae | Ornithoica,6SVZP,1638947
-B82:1:4,Lipoptena,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Lipoptena,,Hippoboscidae,639XR,1638562
-B82:1:5,"Lipoptena cervi (Linnaeus, 1758)","(Linnaeus, 1758)",Lipoptena,,cervi,,species,,B82:1,accepted,,,B82:1:4,Lipoptena,,,,,Hippoboscidae,,Lipoptena,,Hippoboscidae | Lipoptena,3VB49,1638597
-B82:1:6,Hippobosca,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Hippobosca,,Hippoboscidae,6376V,1587266
-B82:1:7,"Hippobosca equina Linnaeus, 1758","Linnaeus, 1758",Hippobosca,,equina,,species,,B82:1,accepted,,,B82:1:6,Hippobosca,,,,,Hippoboscidae,,Hippobosca,,Hippoboscidae | Hippobosca,3LZHX,1638218
-B82:1:8,Ornithophila,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Ornithophila,,Hippoboscidae,69Y2,1638961
-B82:1:9,"Ornithophila metallica (Schiner, 1864)","(Schiner, 1864)",Ornithophila,,metallica,,species,,B82:1,accepted,,,B82:1:8,Ornithophila,,,,,Hippoboscidae,,Ornithophila,,Hippoboscidae | Ornithophila,74WB4,1638964
-B82:1:10,Ornithoctona,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Ornithoctona,,Hippoboscidae,87J6H,1639031
-B82:1:11,Ornithoctona laticornis (Macquart),(Macquart),Ornithoctona,,laticornis,,species,,B82:1,accepted,,,B82:1:10,Ornithoctona,,,,,Hippoboscidae,,Ornithoctona,,Hippoboscidae | Ornithoctona,756JW,1639032
-B82:1:12,Ornithomya,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Ornithomya,,Hippoboscidae,69XY,1638350
-B82:1:13,"Ornithomya biloba Dufour, 1827","Dufour, 1827",Ornithomya,,biloba,,species,,B82:1,accepted,,,B82:1:12,Ornithomya,,,,,Hippoboscidae,,Ornithomya,,Hippoboscidae | Ornithomya,6SVZL,1638404
-B82:1:14,"Ornithomya avicularia (Linnaeus, 1758)","(Linnaeus, 1758)",Ornithomya,,avicularia,,species,,B82:1,accepted,,,B82:1:12,Ornithomya,,,,,Hippoboscidae,,Ornithomya,,Hippoboscidae | Ornithomya,757ZM,1638360
-B82:1:15,"Ornithomya fringillina Curtis, 1836","Curtis, 1836",Ornithomya,,fringillina,,species,,B82:1,accepted,,,B82:1:12,Ornithomya,,,,,Hippoboscidae,,Ornithomya,,Hippoboscidae | Ornithomya,8D3ZD,1638390
-B82:1:16,"Ornithomya chloropus Bergroth, 1901","Bergroth, 1901",Ornithomya,,chloropus,,species,,B82:1,accepted,,,B82:1:12,Ornithomya,,,,,Hippoboscidae,,Ornithomya,,Hippoboscidae | Ornithomya,757ZL,1638374
-B82:1:17,Pseudolynchia,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Pseudolynchia,,Hippoboscidae,72HX,1639223
-B82:1:18,Pseudolynchia canariensis (Bequaert),(Bequaert),Pseudolynchia,,canariensis,,species,,B82:1,accepted,,,B82:1:17,Pseudolynchia,,,,,Hippoboscidae,,Pseudolynchia,,Hippoboscidae | Pseudolynchia,4P25G,1639231
-B82:1:19,Icosta,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Icosta,,Hippoboscidae,87GJG,1639003
-B82:1:20,"Icosta ardeae (Macquart, 1835)","(Macquart, 1835)",Icosta,,ardeae,,species,,B82:1,accepted,,,B82:1:19,Icosta,,,,,Hippoboscidae,,Icosta,,Hippoboscidae | Icosta,,4516469
-B82:1:21,Olfersia,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Olfersia,,Hippoboscidae,,1639013
-B82:1:22,Olfersia fumipennis (Sahlberg),(Sahlberg),Olfersia,,fumipennis,,species,,B82:1,accepted,,,B82:1:21,Olfersia,,,,,Hippoboscidae,,Olfersia,,Hippoboscidae | Olfersia,494QW,5088701
-B82:1:23,Stenepteryx,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Stenepteryx,,Hippoboscidae,89RJP,8966456
-B82:1:24,"Stenepteryx hirudinis (Linnaeus, 1758)","(Linnaeus, 1758)",Stenepteryx,,hirudinis,,species,,B82:1,accepted,,,B82:1:23,Stenepteryx,,,,,Hippoboscidae,,Stenepteryx,,Hippoboscidae | Stenepteryx,,6098835
-B82:1:25,Crataerina,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Crataerina,,Hippoboscidae,87GCL,1638278
-B82:1:26,"Crataerina pallida (Olivier in Latreille, 1812)","(Olivier in Latreille, 1812)",Crataerina,,pallida,,species,,B82:1,accepted,,,B82:1:25,Crataerina,,,,,Hippoboscidae,,Crataerina,,Hippoboscidae | Crataerina,6BB8J,1638292
-B82:1:27,Melophagus,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Melophagus,,Hippoboscidae,8MS34,1638982
-B82:1:28,"Melophagus ovinus (Linnaeus, 1758)","(Linnaeus, 1758)",Melophagus,,ovinus,,species,,B82:1,accepted,,,B82:1:27,Melophagus,,,,,Hippoboscidae,,Melophagus,,Hippoboscidae | Melophagus,3ZN23,1638988
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B82:1:1,Hippoboscidae,,,,,,family,,B82:1,accepted,,,,,,,,,Hippoboscidae,,,,,B39,9491,B39,9491
+B82:1:2,Ornithoica,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Ornithoica,,Hippoboscidae,69XX,1638922,69XX,1638922
+B82:1:3,"Ornithoica turdi (Olivier in Latreille, 1812)","(Olivier in Latreille, 1812)",Ornithoica,,turdi,,species,,B82:1,accepted,,,B82:1:2,Ornithoica,,,,,Hippoboscidae,,Ornithoica,,Hippoboscidae | Ornithoica,6SVZP,1638947,6SVZP,1638947
+B82:1:4,Lipoptena,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Lipoptena,,Hippoboscidae,639XR,1638562,639XR,1638562
+B82:1:5,"Lipoptena cervi (Linnaeus, 1758)","(Linnaeus, 1758)",Lipoptena,,cervi,,species,,B82:1,accepted,,,B82:1:4,Lipoptena,,,,,Hippoboscidae,,Lipoptena,,Hippoboscidae | Lipoptena,3VB49,1638597,3VB49,1638597
+B82:1:6,Hippobosca,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Hippobosca,,Hippoboscidae,6376V,1587266,6376V,1587266
+B82:1:7,"Hippobosca equina Linnaeus, 1758","Linnaeus, 1758",Hippobosca,,equina,,species,,B82:1,accepted,,,B82:1:6,Hippobosca,,,,,Hippoboscidae,,Hippobosca,,Hippoboscidae | Hippobosca,3LZHX,1638218,3LZHX,1638218
+B82:1:8,Ornithophila,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Ornithophila,,Hippoboscidae,69Y2,1638961,69Y2,1638961
+B82:1:9,"Ornithophila metallica (Schiner, 1864)","(Schiner, 1864)",Ornithophila,,metallica,,species,,B82:1,accepted,,,B82:1:8,Ornithophila,,,,,Hippoboscidae,,Ornithophila,,Hippoboscidae | Ornithophila,74WB4,1638964,74WB4,1638964
+B82:1:10,Ornithoctona,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Ornithoctona,,Hippoboscidae,87J6H,1639031,87J6H,1639031
+B82:1:11,Ornithoctona laticornis (Macquart),(Macquart),Ornithoctona,,laticornis,,species,,B82:1,accepted,,,B82:1:10,Ornithoctona,,,,,Hippoboscidae,,Ornithoctona,,Hippoboscidae | Ornithoctona,756JW,1639032,756JW,1639032
+B82:1:12,Ornithomya,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Ornithomya,,Hippoboscidae,69XY,1638350,69XY,1638350
+B82:1:13,"Ornithomya biloba Dufour, 1827","Dufour, 1827",Ornithomya,,biloba,,species,,B82:1,accepted,,,B82:1:12,Ornithomya,,,,,Hippoboscidae,,Ornithomya,,Hippoboscidae | Ornithomya,6SVZL,1638404,6SVZL,1638404
+B82:1:14,"Ornithomya avicularia (Linnaeus, 1758)","(Linnaeus, 1758)",Ornithomya,,avicularia,,species,,B82:1,accepted,,,B82:1:12,Ornithomya,,,,,Hippoboscidae,,Ornithomya,,Hippoboscidae | Ornithomya,757ZM,1638360,757ZM,1638360
+B82:1:15,"Ornithomya fringillina Curtis, 1836","Curtis, 1836",Ornithomya,,fringillina,,species,,B82:1,accepted,,,B82:1:12,Ornithomya,,,,,Hippoboscidae,,Ornithomya,,Hippoboscidae | Ornithomya,74VZK,1638390,74VZK,1638390
+B82:1:16,"Ornithomya chloropus Bergroth, 1901","Bergroth, 1901",Ornithomya,,chloropus,,species,,B82:1,accepted,,,B82:1:12,Ornithomya,,,,,Hippoboscidae,,Ornithomya,,Hippoboscidae | Ornithomya,757ZL,1638374,757ZL,1638374
+B82:1:17,Pseudolynchia,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Pseudolynchia,,Hippoboscidae,72HX,1639223,72HX,1639223
+B82:1:18,Pseudolynchia canariensis (Bequaert),(Bequaert),Pseudolynchia,,canariensis,,species,,B82:1,accepted,,,B82:1:17,Pseudolynchia,,,,,Hippoboscidae,,Pseudolynchia,,Hippoboscidae | Pseudolynchia,4P25G,1639231,4P25G,1639231
+B82:1:19,Icosta,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Icosta,,Hippoboscidae,87GJH,1639003,87GJH,1639003
+B82:1:20,"Icosta ardeae (Macquart, 1835)","(Macquart, 1835)",Icosta,,ardeae,,species,,B82:1,accepted,,,B82:1:19,Icosta,,,,,Hippoboscidae,,Icosta,,Hippoboscidae | Icosta,,4516469,,5088612
+B82:1:21,Olfersia,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Olfersia,,Hippoboscidae,67LH,1639013,67LH,1639013
+B82:1:22,Olfersia fumipennis (Sahlberg),(Sahlberg),Olfersia,,fumipennis,,species,,B82:1,accepted,,,B82:1:21,Olfersia,,,,,Hippoboscidae,,Olfersia,,Hippoboscidae | Olfersia,494QW,5088701,494QW,5088701
+B82:1:23,Stenepteryx,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Stenepteryx,,Hippoboscidae,89RJQ,8966456,89RJQ,8966456
+B82:1:24,"Stenepteryx hirudinis (Linnaeus, 1758)","(Linnaeus, 1758)",Stenepteryx,,hirudinis,,species,,B82:1,accepted,,,B82:1:23,Stenepteryx,,,,,Hippoboscidae,,Stenepteryx,,Hippoboscidae | Stenepteryx,,6098835,,6098835
+B82:1:25,Crataerina,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Crataerina,,Hippoboscidae,87GCL,1638278,87GCL,1638278
+B82:1:26,"Crataerina pallida (Olivier in Latreille, 1812)","(Olivier in Latreille, 1812)",Crataerina,,pallida,,species,,B82:1,accepted,,,B82:1:25,Crataerina,,,,,Hippoboscidae,,Crataerina,,Hippoboscidae | Crataerina,6BB8J,1638292,6BB8J,1638292
+B82:1:27,Melophagus,,,,,,genus,,B82:1,accepted,,,B82:1:1,Hippoboscidae,,,,,Hippoboscidae,,Melophagus,,Hippoboscidae,9XC9T,1638982,9XC9T,1638982
+B82:1:28,"Melophagus ovinus (Linnaeus, 1758)","(Linnaeus, 1758)",Melophagus,,ovinus,,species,,B82:1,accepted,,,B82:1:27,Melophagus,,,,,Hippoboscidae,,Melophagus,,Hippoboscidae | Melophagus,3ZN23,1638988,3ZN23,1638988

@@ -1,6 +1,6 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B222:1:1,Elasmidae,,,,,,family,,B222:1,accepted,,,,,,,,,Elasmidae,,,,,,4679688
-B222:1:2,Elasmus Westwood,Westwood,,,,,genus,,B222:1,accepted,,,B222:1:1,Elasmidae,,,,,Elasmidae,,Elasmus,,Elasmidae,62QC9,1383236
-B222:1:3,Elasmus albipennis Thomson,Thomson,Elasmus,,albipennis,,species,,B222:1,accepted,,,B222:1:2,Elasmus Westwood,,,,,Elasmidae,,Elasmus,,Elasmidae | Elasmus,394W3,1383250
-B222:1:4,Elasmus flabellatus (Fonscolombe),(Fonscolombe),Elasmus,,flabellatus,,species,,B222:1,accepted,,,B222:1:2,Elasmus Westwood,,,,,Elasmidae,,Elasmus,,Elasmidae | Elasmus,6F2SP,1383260
-B222:1:5,Elasmus anius Walker,Walker,Elasmus,,anius,,species,,B222:1,accepted,,,B222:1:2,Elasmus Westwood,,,,,Elasmidae,,Elasmus,,Elasmidae | Elasmus,394W9,1383493
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B222:1:1,Elasmidae,,,,,,family,,B222:1,accepted,,,,,,,,,Elasmidae,,,,,,4679688,,4679688
+B222:1:2,Elasmus Westwood,Westwood,,,,,genus,,B222:1,accepted,,,B222:1:1,Elasmidae,,,,,Elasmidae,,Elasmus,,Elasmidae,62QC9,1383236,62QC9,1383236
+B222:1:3,Elasmus albipennis Thomson,Thomson,Elasmus,,albipennis,,species,,B222:1,accepted,,,B222:1:2,Elasmus Westwood,,,,,Elasmidae,,Elasmus,,Elasmidae | Elasmus,394W3,1383250,3953C,1383249
+B222:1:4,Elasmus flabellatus (Fonscolombe),(Fonscolombe),Elasmus,,flabellatus,,species,,B222:1,accepted,,,B222:1:2,Elasmus Westwood,,,,,Elasmidae,,Elasmus,,Elasmidae | Elasmus,6F2SP,1383260,6F2SP,1383260
+B222:1:5,Elasmus anius Walker,Walker,Elasmus,,anius,,species,,B222:1,accepted,,,B222:1:2,Elasmus Westwood,,,,,Elasmidae,,Elasmus,,Elasmidae | Elasmus,394W9,1383493,394W9,1383493

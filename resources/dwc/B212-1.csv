@@ -1,37 +1,37 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B212:1:1,Ichneumonidae,,,,,,family,,B212:1,accepted,,,,,,,,,Ichneumonidae,,,,,BCL,3512
-B212:1:2,Adelognathinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Adelognathinae,,,Ichneumonidae,,
-B212:1:3,Agriotypinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Agriotypinae,,,Ichneumonidae,,
-B212:1:4,Agriotypus,,,,,,genus,,B212:1,accepted,,,B212:1:3,Agriotypinae,,,,,Ichneumonidae,Agriotypinae,Agriotypus,,Ichneumonidae | Agriotypinae,QYZ,1295985
-B212:1:5,Agriotypus armatus Curtis,Curtis,Agriotypus,,armatus,,species,,B212:1,accepted,,,B212:1:4,Agriotypus,,,,,Ichneumonidae,Agriotypinae,Agriotypus,,Ichneumonidae | Agriotypinae | Agriotypus,B7W6,1296000
-B212:1:6,Alominae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Alominae,,,Ichneumonidae,,
-B212:1:7,Collyriinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Collyriinae,,,Ichneumonidae,,
-B212:1:8,Cryptinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Cryptinae,,,Ichneumonidae,,
-B212:1:9,Helcostizus,,,,,,genus,,B212:1,accepted,,,B212:1:8,Cryptinae,,,,,Ichneumonidae,Cryptinae,Helcostizus,,Ichneumonidae | Cryptinae,62THQ,1288467
-B212:1:10,Ctenopelmatinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Ctenopelmatinae,,,Ichneumonidae,,
-B212:1:11,Mesoleiinae,,,,,,subfamily,,B212:1,synonym,B212:1:10,Ctenopelmatinae,,,,,,,Ichneumonidae,Mesoleiinae,,,Ichneumonidae,,
-B212:1:12,Diplazoninae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Diplazoninae,,,Ichneumonidae,,
-B212:1:13,Euceratinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Euceratinae,,,Ichneumonidae,,
-B212:1:14,Ichneumoninae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Ichneumoninae,,,Ichneumonidae,,
-B212:1:15,Lissonotinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Lissonotinae,,,Ichneumonidae,,
-B212:1:16,Banchini,,,,,,tribe,,B212:1,accepted,,,B212:1:15,Lissonotinae,,,,,Ichneumonidae,Lissonotinae,,,Ichneumonidae | Lissonotinae,,
-B212:1:17,Neorhacodini,,,,,,tribe,,B212:1,accepted,,,B212:1:15,Lissonotinae,,,,,Ichneumonidae,Lissonotinae,,,Ichneumonidae | Lissonotinae,,
-B212:1:18,Neorhacodes,,,,,,genus,,B212:1,accepted,,,B212:1:17,Neorhacodini,,,,,Ichneumonidae,Lissonotinae,Neorhacodes,,Ichneumonidae | Lissonotinae | Neorhacodini,62HV,1303569
-B212:1:19,Neorhacodes enslini (Ruschka),(Ruschka),Neorhacodes,,enslini,,species,,B212:1,accepted,,,B212:1:18,Neorhacodes,,,,,Ichneumonidae,Lissonotinae,Neorhacodes,,Ichneumonidae | Lissonotinae | Neorhacodini | Neorhacodes,73VRY,1303572
-B212:1:20,Lycorininae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Lycorininae,,,Ichneumonidae,,
-B212:1:21,Mesochorinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Mesochorinae,,,Ichneumonidae,,
-B212:1:22,Metopiinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Metopiinae,,,Ichneumonidae,,
-B212:1:23,Ophioninae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Ophioninae,,,Ichneumonidae,,
-B212:1:24,Ophionini,,,,,,tribe,,B212:1,accepted,,,B212:1:23,Ophioninae,,,,,Ichneumonidae,Ophioninae,,,Ichneumonidae | Ophioninae,,
-B212:1:25,Tersilochini,,,,,,tribe,,B212:1,accepted,,,B212:1:23,Ophioninae,,,,,Ichneumonidae,Ophioninae,,,Ichneumonidae | Ophioninae,,
-B212:1:26,Therionini,,,,,,tribe,,B212:1,accepted,,,B212:1:23,Ophioninae,,,,,Ichneumonidae,Ophioninae,,,Ichneumonidae | Ophioninae,,
-B212:1:27,Orthocentrinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Orthocentrinae,,,Ichneumonidae,,
-B212:1:28,Orthopelmatinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Orthopelmatinae,,,Ichneumonidae,,
-B212:1:29,Phrudinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Phrudinae,,,Ichneumonidae,,
-B212:1:30,Pimplinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Pimplinae,,,Ichneumonidae,,
-B212:1:31,Agaenitini,,,,,,tribe,,B212:1,accepted,,,B212:1:30,Pimplinae,,,,,Ichneumonidae,Pimplinae,,,Ichneumonidae | Pimplinae,,
-B212:1:32,Plectiscinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Plectiscinae,,,Ichneumonidae,,
-B212:1:33,Stilbopinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Stilbopinae,,,Ichneumonidae,,
-B212:1:34,Tryphoninae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Tryphoninae,,,Ichneumonidae,,
-B212:1:35,Neteliini,,,,,,tribe,,B212:1,accepted,,,B212:1:34,Tryphoninae,,,,,Ichneumonidae,Tryphoninae,,,Ichneumonidae | Tryphoninae,,
-B212:1:36,Thymaridini,,,,,,tribe,,B212:1,accepted,,,B212:1:34,Tryphoninae,,,,,Ichneumonidae,Tryphoninae,,,Ichneumonidae | Tryphoninae,,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B212:1:1,Ichneumonidae,,,,,,family,,B212:1,accepted,,,,,,,,,Ichneumonidae,,,,,BCL,3512,BCL,3512
+B212:1:2,Adelognathinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Adelognathinae,,,Ichneumonidae,,,,
+B212:1:3,Agriotypinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Agriotypinae,,,Ichneumonidae,,,,
+B212:1:4,Agriotypus,,,,,,genus,,B212:1,accepted,,,B212:1:3,Agriotypinae,,,,,Ichneumonidae,Agriotypinae,Agriotypus,,Ichneumonidae | Agriotypinae,QYZ,1295985,QYZ,1295985
+B212:1:5,Agriotypus armatus Curtis,Curtis,Agriotypus,,armatus,,species,,B212:1,accepted,,,B212:1:4,Agriotypus,,,,,Ichneumonidae,Agriotypinae,Agriotypus,,Ichneumonidae | Agriotypinae | Agriotypus,B7W6,1296000,B7W6,1296000
+B212:1:6,Alominae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Alominae,,,Ichneumonidae,,,,
+B212:1:7,Collyriinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Collyriinae,,,Ichneumonidae,,,,
+B212:1:8,Cryptinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Cryptinae,,,Ichneumonidae,,,,
+B212:1:9,Helcostizus,,,,,,genus,,B212:1,accepted,,,B212:1:8,Cryptinae,,,,,Ichneumonidae,Cryptinae,Helcostizus,,Ichneumonidae | Cryptinae,62THQ,1288467,62THQ,1288467
+B212:1:10,Ctenopelmatinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Ctenopelmatinae,,,Ichneumonidae,,,,
+B212:1:11,Mesoleiinae,,,,,,subfamily,,B212:1,synonym,B212:1:10,Ctenopelmatinae,,,,,,,Ichneumonidae,Mesoleiinae,,,Ichneumonidae,,,,
+B212:1:12,Diplazoninae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Diplazoninae,,,Ichneumonidae,,,,
+B212:1:13,Euceratinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Euceratinae,,,Ichneumonidae,,,,
+B212:1:14,Ichneumoninae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Ichneumoninae,,,Ichneumonidae,,,,
+B212:1:15,Lissonotinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Lissonotinae,,,Ichneumonidae,,,,
+B212:1:16,Banchini,,,,,,tribe,,B212:1,accepted,,,B212:1:15,Lissonotinae,,,,,Ichneumonidae,Lissonotinae,,,Ichneumonidae | Lissonotinae,,,,
+B212:1:17,Neorhacodini,,,,,,tribe,,B212:1,accepted,,,B212:1:15,Lissonotinae,,,,,Ichneumonidae,Lissonotinae,,,Ichneumonidae | Lissonotinae,,,,
+B212:1:18,Neorhacodes,,,,,,genus,,B212:1,accepted,,,B212:1:17,Neorhacodini,,,,,Ichneumonidae,Lissonotinae,Neorhacodes,,Ichneumonidae | Lissonotinae | Neorhacodini,62HV,1303569,62HV,1303569
+B212:1:19,Neorhacodes enslini (Ruschka),(Ruschka),Neorhacodes,,enslini,,species,,B212:1,accepted,,,B212:1:18,Neorhacodes,,,,,Ichneumonidae,Lissonotinae,Neorhacodes,,Ichneumonidae | Lissonotinae | Neorhacodini | Neorhacodes,73VRY,1303572,73VRY,1303572
+B212:1:20,Lycorininae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Lycorininae,,,Ichneumonidae,,,,
+B212:1:21,Mesochorinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Mesochorinae,,,Ichneumonidae,,,,
+B212:1:22,Metopiinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Metopiinae,,,Ichneumonidae,,,,
+B212:1:23,Ophioninae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Ophioninae,,,Ichneumonidae,,,,
+B212:1:24,Ophionini,,,,,,tribe,,B212:1,accepted,,,B212:1:23,Ophioninae,,,,,Ichneumonidae,Ophioninae,,,Ichneumonidae | Ophioninae,,,,
+B212:1:25,Tersilochini,,,,,,tribe,,B212:1,accepted,,,B212:1:23,Ophioninae,,,,,Ichneumonidae,Ophioninae,,,Ichneumonidae | Ophioninae,,,,
+B212:1:26,Therionini,,,,,,tribe,,B212:1,accepted,,,B212:1:23,Ophioninae,,,,,Ichneumonidae,Ophioninae,,,Ichneumonidae | Ophioninae,,,,
+B212:1:27,Orthocentrinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Orthocentrinae,,,Ichneumonidae,,,,
+B212:1:28,Orthopelmatinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Orthopelmatinae,,,Ichneumonidae,,,,
+B212:1:29,Phrudinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Phrudinae,,,Ichneumonidae,,,,
+B212:1:30,Pimplinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Pimplinae,,,Ichneumonidae,,,,
+B212:1:31,Agaenitini,,,,,,tribe,,B212:1,accepted,,,B212:1:30,Pimplinae,,,,,Ichneumonidae,Pimplinae,,,Ichneumonidae | Pimplinae,,,,
+B212:1:32,Plectiscinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Plectiscinae,,,Ichneumonidae,,,,
+B212:1:33,Stilbopinae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Stilbopinae,,,Ichneumonidae,,,,
+B212:1:34,Tryphoninae,,,,,,subfamily,,B212:1,accepted,,,B212:1:1,Ichneumonidae,,,,,Ichneumonidae,Tryphoninae,,,Ichneumonidae,,,,
+B212:1:35,Neteliini,,,,,,tribe,,B212:1,accepted,,,B212:1:34,Tryphoninae,,,,,Ichneumonidae,Tryphoninae,,,Ichneumonidae | Tryphoninae,,,,
+B212:1:36,Thymaridini,,,,,,tribe,,B212:1,accepted,,,B212:1:34,Tryphoninae,,,,,Ichneumonidae,Tryphoninae,,,Ichneumonidae | Tryphoninae,,,,

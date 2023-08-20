@@ -1,5 +1,5 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B136:5:1,Harminius,,,,,,genus,,B136:5,accepted,,,,,,,,,,,Harminius,,,,4428925
-B136:5:2,Harminius undulatus (Deg.),(Deg.),Harminius,,undulatus,,species,,B136:5,accepted,,,B136:5:1,Harminius,,,,,,,Harminius,,Harminius,,7700521
-B136:5:3,Stenagostus,,,,,,genus,,B136:5,accepted,,,,,,,,,,,Stenagostus,,,,4407321
-B136:5:4,Stenagostus rufus (Deg.),(Deg.),Stenagostus,,rufus,,species,,B136:5,accepted,,,B136:5:3,Stenagostus,,,,,,,Stenagostus,,Stenagostus,,4428700
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:5:1,Harminius,,,,,,genus,,B136:5,accepted,,,,,,,,,,,Harminius,,,,4428925,,4428925
+B136:5:2,Harminius undulatus (Deg.),(Deg.),Harminius,,undulatus,,species,,B136:5,accepted,,,B136:5:1,Harminius,,,,,,,Harminius,,Harminius,,7700521,,4428970
+B136:5:3,Stenagostus,,,,,,genus,,B136:5,accepted,,,,,,,,,,,Stenagostus,,,,4407321,,4407321
+B136:5:4,Stenagostus rufus (Deg.),(Deg.),Stenagostus,,rufus,,species,,B136:5,accepted,,,B136:5:3,Stenagostus,,,,,,,Stenagostus,,Stenagostus,,4428700,,4428700

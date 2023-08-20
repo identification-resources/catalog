@@ -1,431 +1,431 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B516:2:1,Vespinae,,,,,,subfamily,,B516:2,accepted,,,,,,,,,,Vespinae,,,,,
-B516:2:2,Vespa,,,,,,genus,,B516:2,accepted,,,B516:2:1,Vespinae,,,,,,Vespinae,Vespa,,Vespinae,86JM,1311334
-B516:2:3,Vespa affinis,,Vespa,,affinis,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,5B9QF,1311357
-B516:2:4,Vespa analis,,Vespa,,analis,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,5B9QR,11004388
-B516:2:5,Vespa cincta,,Vespa,,cincta,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,5B9SJ,7780410
-B516:2:6,Vespa crabro,,Vespa,,crabro,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,5B9T3,1311527
-B516:2:7,Vespa mongolica,,Vespa,,mongolica,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,86JM,1311334
-B516:2:8,Vespa parallela,,Vespa,,parallela,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,86JM,1311334
-B516:2:9,Vespa tropica,,Vespa,,tropica,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,7G3C3,1311336
-B516:2:10,Vespa velutina,,Vespa,,velutina,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,7G3C6,1311477
-B516:2:11,Provespa,,,,,,genus,,B516:2,accepted,,,B516:2:1,Vespinae,,,,,,Vespinae,Provespa,,Vespinae,6Y4X,1310483
-B516:2:12,Provespa anomala,,Provespa,,anomala,,species,,B516:2,accepted,,,B516:2:11,Provespa,,,,,,Vespinae,Provespa,,Vespinae | Provespa,4N82J,1310484
-B516:2:13,Dolichovespula,,,,,,genus,,B516:2,accepted,,,B516:2:1,Vespinae,,,,,,Vespinae,Dolichovespula,,Vespinae,47KP,1311794
-B516:2:14,Dolichovespula arenaria,,Dolichovespula,,arenaria,,species,,B516:2,accepted,,,B516:2:13,Dolichovespula,,,,,,Vespinae,Dolichovespula,,Vespinae | Dolichovespula,377DM,1311820
-B516:2:15,Dolichovespula maculata,,Dolichovespula,,maculata,,species,,B516:2,accepted,,,B516:2:13,Dolichovespula,,,,,,Vespinae,Dolichovespula,,Vespinae | Dolichovespula,377DZ,1311815
-B516:2:16,Dolichovespula media,,Dolichovespula,,media,,species,,B516:2,accepted,,,B516:2:13,Dolichovespula,,,,,,Vespinae,Dolichovespula,,Vespinae | Dolichovespula,6DD4G,1311838
-B516:2:17,Dolichovespula norvegica,,Dolichovespula,,norvegica,,species,,B516:2,accepted,,,B516:2:13,Dolichovespula,,,,,,Vespinae,Dolichovespula,,Vespinae | Dolichovespula,,8303880
-B516:2:18,Dolichovespula sylvestris,,Dolichovespula,,sylvestris,,species,,B516:2,accepted,,,B516:2:13,Dolichovespula,,,,,,Vespinae,Dolichovespula,,Vespinae | Dolichovespula,6DD4M,1311798
-B516:2:19,Vespula,,,,,,genus,,B516:2,accepted,,,B516:2:1,Vespinae,,,,,,Vespinae,Vespula,,Vespinae,86KD,1311631
-B516:2:20,Vespula germanica,,Vespula,,germanica,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7G2VS,1311649
-B516:2:21,Vespula maculifrons,,Vespula,,maculifrons,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7FR7G,1311693
-B516:2:22,Vespula pensylvanica,,Vespula,,pensylvanica,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7FQVJ,1311698
-B516:2:23,Vespula rufa,,Vespula,,rufa,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7G2VJ,1311676
-B516:2:24,Vespula squamosa,,Vespula,,squamosa,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7G37K,1311662
-B516:2:25,Vespula vulgaris,,Vespula,,vulgaris,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7G35Z,1311671
-B516:2:26,Polistinae,,,,,,subfamily,,B516:2,accepted,,,,,,,,,,Polistinae,,,,,
-B516:2:27,Polistes,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Polistes,,Polistinae,63NNT,
-B516:2:28,Aphanilopterus,,,,,,subgenus,,B516:2,accepted,,,B516:2:27,Polistes,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes,62D82,
-B516:2:29,Epicnemius,,,,,,subgenus,,B516:2,synonym,B516:2:28,Aphanilopterus,,,,,,,,Polistinae,Polistes,Epicnemius,Polistinae | Polistes,,
-B516:2:30,Fuscopolistes,,,,,,subgenus,,B516:2,synonym,B516:2:28,Aphanilopterus,,,,,,,,Polistinae,Polistes,Fuscopolistes,Polistinae | Polistes,,
-B516:2:31,Onerarius,,,,,,subgenus,,B516:2,synonym,B516:2:28,Aphanilopterus,,,,,,,,Polistinae,Polistes,Onerarius,Polistinae | Polistes,,
-B516:2:32,Palisotius,,,,,,subgenus,,B516:2,synonym,B516:2:28,Aphanilopterus,,,,,,,,Polistinae,Polistes,Palisotius,Polistinae | Polistes,,
-B516:2:33,Polistes annularis,,Polistes,,annularis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY87,1310936
-B516:2:34,Polistes apicalis,,Polistes,,apicalis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY89,1310907
-B516:2:35,Polistes aterrimus,,Polistes,,aterrimus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY8K,1310872
-B516:2:36,Polistes buyssoni,,Polistes,,buyssoni,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY9M,1310749
-B516:2:37,Polistes canadensis,,Polistes,,canadensis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY9Q,1310702
-B516:2:38,Polistes cavapyta,,Polistes,,cavapyta,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY9X,1310930
-B516:2:39,Polistes cinctus,,Polistes,,cinctus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6VSPQ,1310956
-B516:2:40,Polistes comanchus,,Polistes,,comanchus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,784Q2,1310841
-B516:2:41,Polistes crinitus,,Polistes,,crinitus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6W4Q5,1310738
-B516:2:42,Polistes cubensis,,Polistes,,cubensis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6W525,1310700
-B516:2:43,Polistes dominica,,Polistes,,dominica,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6VT24,1310955
-B516:2:44,Polistes erythrocephalus,,Polistes,,erythrocephalus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYBF,1310781
-B516:2:45,Polistes exclamans,,Polistes,,exclamans,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYBJ,1310760
-B516:2:46,Polistes goeldii,,Polistes,,goeldii,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYC9,1310933
-B516:2:47,Polistes infuscatus,,Polistes,,infuscatus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYCR,1310658
-B516:2:48,Polistes instabilis,,Polistes,,instabilis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYCV,1310836
-B516:2:49,Polistes versicolor,,Polistes,,versicolor,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYKH,1310680
-B516:2:50,Polistes bicolor,,Polistes,,bicolor,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY96,1310727
-B516:2:51,Polistes billardieri,,Polistes,,billardieri,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY9B,1310868
-B516:2:52,Polistes cinerascens,,Polistes,,cinerascens,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6VSQ2,10953930
-B516:2:53,Polistes pacificus,,Polistes,,pacificus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYFY,1310902
-B516:2:54,Polistes testaceicolor,,Polistes,,testaceicolor,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYJQ,1310852
-B516:2:55,Polistes apachus,,Polistes,,apachus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY88,1310927
-B516:2:56,Polistes carolina,,Polistes,,carolina,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,784Q3,1310944
-B516:2:57,Polistes dorsalis,,Polistes,,dorsalis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,77SPS,1310908
-B516:2:58,Polistes fuscatus,,Polistes,,fuscatus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYC2,1310556
-B516:2:59,Polistes metricus,,Polistes,,metricus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6W4PX,1310805
-B516:2:60,Polistes poeyi,,Polistes,,poeyi,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYGK,1310730
-B516:2:61,Polistes carnifex,,Polistes,,carnifex,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY9T,1310539
-B516:2:62,Polistes major,,Polistes,,major,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,77SQ7,1310743
-B516:2:63,Gyrostoma,,,,,,subgenus,,B516:2,accepted,,,B516:2:27,Polistes,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes,,
-B516:2:64,Nygmopolistes,,,,,,subgenus,,B516:2,synonym,B516:2:63,Gyrostoma,,,,,,,,Polistinae,Polistes,Nygmopolistes,Polistinae | Polistes,,
-B516:2:65,Polistes diabolicus,,Polistes,,diabolicus,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,6VSPS,1311002
-B516:2:66,Polistes jadwigae,,Polistes,,jadwigae,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,4KYD3,1310776
-B516:2:67,Polistes olivaceus,,Polistes,,olivaceus,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,4KYFM,1310922
-B516:2:68,Polistes minor,,Polistes,,minor,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,6VSQ9,1310793
-B516:2:69,Polistes stenopus,,Polistes,,stenopus,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,4KYJ7,1310594
-B516:2:70,Polistes tenebricosus,,Polistes,,tenebricosus,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,4KYJK,1310581
-B516:2:71,Polistes tepidus,,Polistes,,tepidus,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,4KYJP,1310960
-B516:2:72,Polistella,,,,,,subgenus,,B516:2,accepted,,,B516:2:27,Polistes,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes,,
-B516:2:73,Stenopolistes,,,,,,subgenus,,B516:2,synonym,B516:2:72,Polistella,,,,,,,,Polistinae,Polistes,Stenopolistes,Polistinae | Polistes,,
-B516:2:74,Polistes albocalcaratus,,Polistes,,albocalcaratus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KY7Z,1310602
-B516:2:75,Polistes aquilinus,,Polistes,,aquilinus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,6W523,1310892
-B516:2:76,Polistes bernardii,,Polistes,,bernardii,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,63NNT,
-B516:2:77,Polistes defectivus,,Polistes,,defectivus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,784PT,1310598
-B516:2:78,Polistes fastidiosus,,Polistes,,fastidiosus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYBP,1310724
-B516:2:79,Polistes flavobilineatus,,Polistes,,flavobilineatus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYBS,1310693
-B516:2:80,Polistes haugi,,Polistes,,haugi,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYCB,1310921
-B516:2:81,Polistes humilis,,Polistes,,humilis,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYCK,1310818
-B516:2:82,Polistes madecassus,,Polistes,,madecassus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,6W4Q7,1310796
-B516:2:83,Polistes mandarinus,,Polistes,,mandarinus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,77T27,1310641
-B516:2:84,Polistes mandiburens,,Polistes,,mandiburens,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,6W527,1310726
-B516:2:85,Polistes manillensis,,Polistes,,manillensis,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,63NNT,
-B516:2:86,Polistes nigrifrons,,Polistes,,nigrifrons,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,6VT28,1310694
-B516:2:87,Polistes nigrifrons subsp. stotheri,,Polistes,,nigrifrons,stotheri,subspecies,,B516:2,accepted,,,B516:2:86,Polistes nigrifrons,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella | Polistes nigrifrons,6VT28,1310694
-B516:2:88,Polistes sagittarius,,Polistes,,sagittarius,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYHC,1310617
-B516:2:89,Polistes saussurei,,Polistes,,saussurei,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYHF,1310990
-B516:2:90,Polistes sikorae,,Polistes,,sikorae,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYHP,1310887
-B516:2:91,Polistes smithii,,Polistes,,smithii,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYHV,1310765
-B516:2:92,Polistes smithii,,Polistes,,smithii,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYHV,1310765
-B516:2:93,Polistes smithii subsp. neavei,,Polistes,,smithii,neavei,subspecies,,B516:2,accepted,,,B516:2:92,Polistes smithii,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella | Polistes smithii,5KKD5,6249482
-B516:2:94,Polistes stigma,,Polistes,,stigma,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYJ8,1310970
-B516:2:95,Polistes takasagonus,,Polistes,,takasagonus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYJG,1310753
-B516:2:96,Polistes,,,,,,subgenus,,B516:2,accepted,,,B516:2:27,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes,63NNT,
-B516:2:97,Sulcopolistes,,,,,,subgenus,,B516:2,synonym,B516:2:96,Polistes,,,,,,,,Polistinae,Polistes,Sulcopolistes,Polistinae | Polistes,,
-B516:2:98,Polistes africanus,,Polistes,,africanus,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KY7W,1310501
-B516:2:99,Polistes associus,,Polistes,,associus,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KY8G,1310647
-B516:2:100,Polistes badius,,Polistes,,badius,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KY8T,1310712
-B516:2:101,Polistes dominulus,,Polistes,,dominulus,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,6W524,1310668
-B516:2:102,Polistes gallicus,,Polistes,,gallicus,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KYC4,1310622
-B516:2:103,Polistes marginalis,,Polistes,,marginalis,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,784Q7,1310567
-B516:2:104,Polistes nimpha,,Polistes,,nimpha,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KYF7,1310811
-B516:2:105,Polistes tenellus,,Polistes,,tenellus,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KYJL,1310552
-B516:2:106,Mischocyttarus,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Mischocyttarus,,Polistinae,5TQM,1309719
-B516:2:107,Clypeopolybia,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Clypeopolybia,Polistinae | Mischocyttarus,,
-B516:2:108,Mischocyttarus carbonarius,,Mischocyttarus,,carbonarius,,species,,B516:2,accepted,,,B516:2:107,Clypeopolybia,,,,,,Polistinae,Mischocyttarus,Clypeopolybia,Polistinae | Mischocyttarus | Clypeopolybia,73LNH,1309788
-B516:2:109,Mischocyttarus piger,,Mischocyttarus,,piger,,species,,B516:2,accepted,,,B516:2:107,Clypeopolybia,,,,,,Polistinae,Mischocyttarus,Clypeopolybia,Polistinae | Mischocyttarus | Clypeopolybia,43N2R,1310008
-B516:2:110,Haplometrobius,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus,,
-B516:2:111,Mischocyttarus alboniger,,Mischocyttarus,,alboniger,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MTR,1309723
-B516:2:112,Mischocyttarus artifex,,Mischocyttarus,,artifex,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,73LNS,1309883
-B516:2:113,Mischocyttarus cerberus,,Mischocyttarus,,cerberus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,6RLNC,1309878
-B516:2:114,Mischocyttarus cooperi,,Mischocyttarus,,cooperi,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MVK,1309974
-B516:2:115,Mischocyttarus decimus,,Mischocyttarus,,decimus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MVW,1309889
-B516:2:116,Mischocyttarus dimorphus,,Mischocyttarus,,dimorphus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MVY,1309863
-B516:2:117,Mischocyttarus iheringi,,Mischocyttarus,,iheringi,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MXJ,1310015
-B516:2:118,Mischocyttarus illusorius,,Mischocyttarus,,illusorius,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MXL,1309984
-B516:2:119,Mischocyttarus mirificus,,Mischocyttarus,,mirificus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,6RLP3,1309755
-B516:2:120,Mischocyttarus nigropygialis,,Mischocyttarus,,nigropygialis,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,6RLP2,1309917
-B516:2:121,Mischocyttarus oecothrix,,Mischocyttarus,,oecothrix,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MZY,1309896
-B516:2:122,Mischocyttarus ornatus,,Mischocyttarus,,ornatus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N25,1309862
-B516:2:123,Mischocyttarus prominulus,,Mischocyttarus,,prominulus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N2V,1309962
-B516:2:124,Mischocyttarus silvicola,,Mischocyttarus,,silvicola,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N3Q,1310028
-B516:2:125,Mischocyttarus stenoecus,,Mischocyttarus,,stenoecus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N3Z,1309948
-B516:2:126,Mischocyttarus surinamensis,,Mischocyttarus,,surinamensis,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N45,1309908
-B516:2:127,Mischocyttarus sylvestris,,Mischocyttarus,,sylvestris,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N46,1309865
-B516:2:128,Mischocyttarus tenius,,Mischocyttarus,,tenius,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,5TQM,1309719
-B516:2:129,Mischocyttarus undulatus,,Mischocyttarus,,undulatus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N4M,1310023
-B516:2:130,Mischocyttarus vredeni,,Mischocyttarus,,vredeni,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N4T,1309989
-B516:2:131,Mischocyttarus weyrauchi,,Mischocyttarus,,weyrauchi,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N4V,1309956
-B516:2:132,Mischocyttarus xanthocerus,,Mischocyttarus,,xanthocerus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N4Y,1309904
-B516:2:133,Mischocyttarus ypiranguensis,,Mischocyttarus,,ypiranguensis,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N4Z,1309897
-B516:2:134,Kappa,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus,,
-B516:2:135,Mischocyttarus atramentaris,,Mischocyttarus,,atramentaris,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,6RLNR,1309871
-B516:2:136,Mischocyttarus bertoni,,Mischocyttarus,,bertoni,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,73LNM,1310026
-B516:2:137,Mischocyttarus comunalis,,Mischocyttarus,,comunalis,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43MVC,1310040
-B516:2:138,Mischocyttarus injuncundus,,Mischocyttarus,,injuncundus,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43MXV,1309911
-B516:2:139,Mischocyttarus latior,,Mischocyttarus,,latior,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43MYB,1309769
-B516:2:140,Mischocyttarus latissimus,,Mischocyttarus,,latissimus,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43MYC,1309890
-B516:2:141,Mischocyttarus metathoracicus,,Mischocyttarus,,metathoracicus,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43MZ5,1309832
-B516:2:142,Mischocyttarus pseudomimeticus,,Mischocyttarus,,pseudomimeticus,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43N2X,1309942
-B516:2:143,Mischocyttarus shunkei,,Mischocyttarus,,shunkei,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43N3J,1309759
-B516:2:144,Mischocyttarus socialis,,Mischocyttarus,,socialis,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,6RLPX,1309978
-B516:2:145,Mischocyttarus tolensis,,Mischocyttarus,,tolensis,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43N4F,1309775
-B516:2:146,Megacanthopus,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus,5MKY,
-B516:2:147,Mischocyttarus collarellus,,Mischocyttarus,,collarellus,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,43MV9,1309767
-B516:2:148,Mischocyttarus collaris,,Mischocyttarus,,collaris,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,6RLP9,1309756
-B516:2:149,Mischocyttarus melanopygus,,Mischocyttarus,,melanopygus,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,43MYZ,1309876
-B516:2:150,Mischocyttarus parallelogrammus,,Mischocyttarus,,parallelogrammus,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,43N2C,1309795
-B516:2:151,Mischocyttarus saturatus,,Mischocyttarus,,saturatus,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,43N3F,1309792
-B516:2:152,Mischocyttarus superus,,Mischocyttarus,,superus,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,43N44,1309922
-B516:2:153,Mischocyttarus,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus,5TQM,
-B516:2:154,Mischocyttarus cinerascens,,Mischocyttarus,,cinerascens,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43MV3,1309815
-B516:2:155,Mischocyttarus drewseni,,Mischocyttarus,,drewseni,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43MVZ,1309846
-B516:2:156,Mischocyttarus gynandormorphus,,Mischocyttarus,,gynandormorphus,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,5TQM,1309719
-B516:2:157,Mischocyttarus labiatus,,Mischocyttarus,,labiatus,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43MY9,1309791
-B516:2:158,Mischocyttarus matograssoensis,,Mischocyttarus,,matograssoensis,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,5TQM,1309719
-B516:2:159,Mischocyttarus melananus,,Mischocyttarus,,melananus,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43MYW,1309905
-B516:2:160,Mischocyttarus rotundicollis,,Mischocyttarus,,rotundicollis,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43N38,1309836
-B516:2:161,Mischocyttarus tomentosus,,Mischocyttarus,,tomentosus,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43N4G,1309764
-B516:2:162,Monacanthocnemis,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Monacanthocnemis,Polistinae | Mischocyttarus,63BMR,
-B516:2:163,Mischocyttarus buyssoni,,Mischocyttarus,,buyssoni,,species,,B516:2,accepted,,,B516:2:162,Monacanthocnemis,,,,,,Polistinae,Mischocyttarus,Monacanthocnemis,Polistinae | Mischocyttarus | Monacanthocnemis,73LNK,1309739
-B516:2:164,Mischocyttarus punctatus,,Mischocyttarus,,punctatus,,species,,B516:2,accepted,,,B516:2:162,Monacanthocnemis,,,,,,Polistinae,Mischocyttarus,Monacanthocnemis,Polistinae | Mischocyttarus | Monacanthocnemis,43N2Y,1309926
-B516:2:165,Mischocyttarus vaqueroi,,Mischocyttarus,,vaqueroi,,species,,B516:2,accepted,,,B516:2:162,Monacanthocnemis,,,,,,Polistinae,Mischocyttarus,Monacanthocnemis,Polistinae | Mischocyttarus | Monacanthocnemis,43N4P,1310010
-B516:2:166,Monogynoecus,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus,,
-B516:2:167,Mischocyttarus alienus,,Mischocyttarus,,alienus,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43MTT,1309999
-B516:2:168,Mischocyttarus fraudulentus,,Mischocyttarus,,fraudulentus,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43MWQ,1309895
-B516:2:169,Mischocyttarus insolitus,,Mischocyttarus,,insolitus,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43MXW,1309881
-B516:2:170,Mischocyttarus metoecus,,Mischocyttarus,,metoecus,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43MZ6,1309822
-B516:2:171,Mischocyttarus moralesi,,Mischocyttarus,,moralesi,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43MZH,1310022
-B516:2:172,Mischocyttarus pelor,,Mischocyttarus,,pelor,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43N2J,1309761
-B516:2:173,Phi,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus,,
-B516:2:174,Mischocyttarus alfleni,,Mischocyttarus,,alfleni,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MTS,1310033
-B516:2:175,Mischocyttarus araujoi,,Mischocyttarus,,araujoi,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,6RLNT,1309894
-B516:2:176,Mischocyttarus barbatulus,,Mischocyttarus,,barbatulus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,6RLNP,1309958
-B516:2:177,Mischocyttarus barbatus,,Mischocyttarus,,barbatus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,73LNP,1309975
-B516:2:178,Mischocyttarus basimacula,,Mischocyttarus,,basimacula,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,6RLNN,1309992
-B516:2:179,Mischocyttarus cassununga,,Mischocyttarus,,cassununga,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,73LNG,1309935
-B516:2:180,Mischocyttarus cubensis,,Mischocyttarus,,cubensis,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MVT,1309919
-B516:2:181,Mischocyttarus flavicornis,,Mischocyttarus,,flavicornis,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,6RLP7,1310000
-B516:2:182,Mischocyttarus flavoniger,,Mischocyttarus,,flavoniger,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MWK,1309944
-B516:2:183,Mischocyttarus hirsutus,,Mischocyttarus,,hirsutus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MXC,1309747
-B516:2:184,Mischocyttarus imeldai,,Mischocyttarus,,imeldai,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MXM,1309961
-B516:2:185,Mischocyttarus lilae,,Mischocyttarus,,lilae,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MYG,1310012
-B516:2:186,Mischocyttarus lules,,Mischocyttarus,,lules,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MYL,1309977
-B516:2:187,Mischocyttarus mexicanus,,Mischocyttarus,,mexicanus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MZ7,1309809
-B516:2:188,Mischocyttarus oreophilus,,Mischocyttarus,,oreophilus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43N23,1309874
-B516:2:189,Mischocyttarus pallidipectus,,Mischocyttarus,,pallidipectus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43N26,1309843
-B516:2:190,Mischocyttarus paraguaensis,,Mischocyttarus,,paraguaensis,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,73LP2,1309820
-B516:2:191,Mischocyttarus phthisicus,,Mischocyttarus,,phthisicus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43N2N,1310031
-B516:2:192,Mischocyttarus tarmensis,,Mischocyttarus,,tarmensis,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43N49,1309823
-B516:2:193,Mischocyttarus wagneri,,Mischocyttarus,,wagneri,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,73LPX,1309971
-B516:2:194,Ropalidia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Ropalidia,,Polistinae,63RV3,1311012
-B516:2:195,Ropalidia ambigua,,Ropalidia,,ambigua,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:196,Ropalidia anarchica,,Ropalidia,,anarchica,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:197,Ropalidia antennata,,Ropalidia,,antennata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBV5,1311199
-B516:2:198,Ropalidia aristocratica,,Ropalidia,,aristocratica,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBV7,1311178
-B516:2:199,Ropalidia artifex,,Ropalidia,,artifex,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBV8,1311156
-B516:2:200,Ropalidia bambusae,,Ropalidia,,bambusae,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBVB,1311073
-B516:2:201,Ropalidia bicincta,,Ropalidia,,bicincta,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,6X8C8,1311276
-B516:2:202,Ropalidia bilineata,,Ropalidia,,bilineata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:203,Ropalidia brazzai,,Ropalidia,,brazzai,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBVM,1311042
-B516:2:204,Ropalidia cabeti,,Ropalidia,,cabeti,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:205,Ropalidia capensis,,Ropalidia,,capensis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBVR,1311241
-B516:2:206,Ropalidia carinata,,Ropalidia,,carinata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBVS,1311214
-B516:2:207,Ropalidia cincta,,Ropalidia,,cincta,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBVV,1311149
-B516:2:208,Ropalidia constitutionalis,,Ropalidia,,constitutionalis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBW3,1311270
-B516:2:209,Ropalidia cyathiformis,,Ropalidia,,cyathiformis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,78WC8,1311121
-B516:2:210,Ropalidia distigma,,Ropalidia,,distigma,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBWK,1311267
-B516:2:211,Ropalidia fasciata,,Ropalidia,,fasciata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBWX,1311296
-B516:2:212,Ropalidia ferruginea,,Ropalidia,,ferruginea,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:213,Ropalidia flavopicta,,Ropalidia,,flavopicta,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBX3,1311200
-B516:2:214,Ropalidia flavoviridis,,Ropalidia,,flavoviridis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBX4,1311230
-B516:2:215,Ropalidia formosa,,Ropalidia,,formosa,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBX6,1311097
-B516:2:216,Ropalidia galimatia,,Ropalidia,,galimatia,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,6WWBV,1311013
-B516:2:217,Ropalidia guttatipennis,,Ropalidia,,guttatipennis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXJ,1311088
-B516:2:218,Ropalidia grandidieri,,Ropalidia,,grandidieri,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXF,1311196
-B516:2:219,Ropalidia granulata,,Ropalidia,,granulata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXG,1311173
-B516:2:220,Ropalidia gregaria,,Ropalidia,,gregaria,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXH,1311134
-B516:2:221,Ropalidia honkongensis,,Ropalidia,,honkongensis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXL,1311043
-B516:2:222,Ropalidia horni,,Ropalidia,,horni,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXM,1311274
-B516:2:223,Ropalidia ignobilis,,Ropalidia,,ignobilis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:224,Ropalidia jacobsoni,,Ropalidia,,jacobsoni,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBY4,1311084
-B516:2:225,Ropalidia lacustris,,Ropalidia,,lacustris,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:226,Ropalidia latebalteata,,Ropalidia,,latebalteata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYB,1311271
-B516:2:227,Ropalidia maculiventris,,Ropalidia,,maculiventris,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYP,1311025
-B516:2:228,Ropalidia madecassa,,Ropalidia,,madecassa,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:229,Ropalidia malayana,,Ropalidia,,malayana,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYS,1311207
-B516:2:230,Ropalidia marginata,,Ropalidia,,marginata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYT,1311181
-B516:2:231,Ropalidia mathematica,,Ropalidia,,mathematica,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,78WC7,1311050
-B516:2:232,Ropalidia melania,,Ropalidia,,melania,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYV,1311300
-B516:2:233,Ropalidia minor,,Ropalidia,,minor,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYX,1311039
-B516:2:234,Ropalidia morosa,,Ropalidia,,morosa,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:235,Ropalidia nitidula,,Ropalidia,,nitidula,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBZD,1311277
-B516:2:236,Ropalidia nobilis,,Ropalidia,,nobilis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,798C7,1311249
-B516:2:237,Ropalidia opifex,,Ropalidia,,opifex,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBZM,1311138
-B516:2:238,Ropalidia phalansterica,,Ropalidia,,phalansterica,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBZV,1311291
-B516:2:239,Ropalidia picta,,Ropalidia,,picta,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:240,Ropalidia plebeiana,,Ropalidia,,plebeiana,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBZZ,1311170
-B516:2:241,Ropalidia prasina,,Ropalidia,,prasina,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC23,1311129
-B516:2:242,Ropalidia ranavali,,Ropalidia,,ranavali,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC29,1311068
-B516:2:243,Ropalidia revolutionalis,,Ropalidia,,revolutionalis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC2C,1311272
-B516:2:244,Ropalidia romandi,,Ropalidia,,romandi,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,78WBY,1311237
-B516:2:245,Ropalidia rufoplagiata,,Ropalidia,,rufoplagiata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC2H,1311146
-B516:2:246,Ropalidia schultessi,,Ropalidia,,schultessi,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC2M,1311305
-B516:2:247,Ropalidia shestakovi,,Ropalidia,,shestakovi,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC2V,1311187
-B516:2:248,Ropalidia stigma,,Ropalidia,,stigma,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC34,1311055
-B516:2:249,Ropalidia sumatrae,,Ropalidia,,sumatrae,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC36,1311258
-B516:2:250,Ropalidia timida,,Ropalidia,,timida,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,6WWBX,1311160
-B516:2:251,Ropalidia tomentosa,,Ropalidia,,tomentosa,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC3C,1311142
-B516:2:252,Ropalidia turneri,,Ropalidia,,turneri,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC3H,1311076
-B516:2:253,Ropalidia variabilis,,Ropalidia,,variabilis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC3L,1311295
-B516:2:254,Ropalidia variegata,,Ropalidia,,variegata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC3M,1311278
-B516:2:255,Ropalidia vitripennis,,Ropalidia,,vitripennis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC3S,1311197
-B516:2:256,Ropalidia xanthura,,Ropalidia,,xanthura,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,63RV3,1311012
-B516:2:257,Parapolybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Parapolybia,,Polistinae,6GD5,1311769
-B516:2:258,Parapolybia nodosa,,Parapolybia,,nodosa,,species,,B516:2,accepted,,,B516:2:257,Parapolybia,,,,,,Polistinae,Parapolybia,,Polistinae | Parapolybia,4D9FY,1311772
-B516:2:259,Parapolybia orientalis,,Parapolybia,,orientalis,,species,,B516:2,accepted,,,B516:2:257,Parapolybia,,,,,,Polistinae,Parapolybia,,Polistinae | Parapolybia,6GD5,1311769
-B516:2:260,Parapolybia varia,,Parapolybia,,varia,,species,,B516:2,accepted,,,B516:2:257,Parapolybia,,,,,,Polistinae,Parapolybia,,Polistinae | Parapolybia,4D9G3,1311773
-B516:2:261,Polybioides,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Polybioides,,Polistinae,6TWX,1310120
-B516:2:262,Polybioides melainus,,Polybioides,,melainus,,species,,B516:2,accepted,,,B516:2:261,Polybioides,,,,,,Polistinae,Polybioides,,Polistinae | Polybioides,4L28N,1310121
-B516:2:263,Polybioides raphigastra,,Polybioides,,raphigastra,,species,,B516:2,accepted,,,B516:2:261,Polybioides,,,,,,Polistinae,Polybioides,,Polistinae | Polybioides,4L28Q,1310122
-B516:2:264,Polybioides tabidus,,Polybioides,,tabidus,,species,,B516:2,accepted,,,B516:2:261,Polybioides,,,,,,Polistinae,Polybioides,,Polistinae | Polybioides,4L28R,1310131
-B516:2:265,Belonogaster,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Belonogaster,,Polistinae,62GH5,1310193
-B516:2:266,Belonogaster abyssinica,,Belonogaster,,abyssinica,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBVQ,1310194
-B516:2:267,Belonogaster brachycera,,Belonogaster,,brachycera,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBW8,1310239
-B516:2:268,Belonogaster brevipetiolata,,Belonogaster,,brevipetiolata,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWB,1310214
-B516:2:269,Belonogaster brunnea,,Belonogaster,,brunnea,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWD,1310276
-B516:2:270,Belonogaster clypeata,,Belonogaster,,clypeata,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWH,1310219
-B516:2:271,Belonogaster discifera,,Belonogaster,,discifera,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWK,1310290
-B516:2:272,Belonogaster dubia,,Belonogaster,,dubia,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWM,1310263
-B516:2:273,Belonogaster eumenoides,,Belonogaster,,eumenoides,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWR,1310227
-B516:2:274,Belonogaster filiventris,,Belonogaster,,filiventris,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWW,1310231
-B516:2:275,Belonogaster fulvipennis,,Belonogaster,,fulvipennis,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBX2,1310281
-B516:2:276,Belonogaster grisea,,Belonogaster,,grisea,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBX5,1310296
-B516:2:277,Belonogaster guerini,,Belonogaster,,guerini,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBX6,1310258
-B516:2:278,Belonogaster juncea,,Belonogaster,,juncea,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBXC,1310245
-B516:2:279,Belonogaster rufipennis,,Belonogaster,,rufipennis,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,62GH5,1310193
-B516:2:280,Belonogaster vassae,,Belonogaster,,vassae,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBYZ,1310262
-B516:2:281,Apoica,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Apoica,,Polistinae,YY2,1310488
-B516:2:282,Apoica flavissima,,Apoica,,flavissima,,species,,B516:2,accepted,,,B516:2:281,Apoica,,,,,,Polistinae,Apoica,,Polistinae | Apoica,FTCX,1310493
-B516:2:283,Apoica gelida,,Apoica,,gelida,,species,,B516:2,accepted,,,B516:2:281,Apoica,,,,,,Polistinae,Apoica,,Polistinae | Apoica,FTCY,1310490
-B516:2:284,Apoica pallens,,Apoica,,pallens,,species,,B516:2,accepted,,,B516:2:281,Apoica,,,,,,Polistinae,Apoica,,Polistinae | Apoica,FTCZ,1310495
-B516:2:285,Apoica pallida,,Apoica,,pallida,,species,,B516:2,accepted,,,B516:2:281,Apoica,,,,,,Polistinae,Apoica,,Polistinae | Apoica,FTD2,1310489
-B516:2:286,Apoica thoracica,,Apoica,,thoracica,,species,,B516:2,accepted,,,B516:2:281,Apoica,,,,,,Polistinae,Apoica,,Polistinae | Apoica,FTD4,1310492
-B516:2:287,Agelaia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Agelaia,,Polistinae,629D7,1310134
-B516:2:288,Agelaia angulata,,Agelaia,,angulata,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,662DQ,1310164
-B516:2:289,Agelaia areata,,Agelaia,,areata,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,65QDN,1310168
-B516:2:290,Agelaia cajennensis,,Agelaia,,cajennensis,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,5TQD4,1310154
-B516:2:291,Agelaia flavipennis,,Agelaia,,flavipennis,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,5TQCT,1310141
-B516:2:292,Agelaia fulvofasciata,,Agelaia,,fulvofasciata,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,5TQD5,1310176
-B516:2:293,Agelaia lobipleura,,Agelaia,,lobipleura,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,662D5,1310142
-B516:2:294,Agelaia myrmecophila,,Agelaia,,myrmecophila,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,65QD2,1310144
-B516:2:295,Agelaia pallipes,,Agelaia,,pallipes,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,65QCR,1310145
-B516:2:296,Agelaia vicina,,Agelaia,,vicina,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,65QCW,1310152
-B516:2:297,Agelaia xanthopus,,Agelaia,,xanthopus,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,65QD8,1310137
-B516:2:298,Angiopolybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Angiopolybia,,Polistinae,W5M,1311731
-B516:2:299,Angiopolybia pallens,,Angiopolybia,,pallens,,species,,B516:2,accepted,,,B516:2:298,Angiopolybia,,,,,,Polistinae,Angiopolybia,,Polistinae | Angiopolybia,6734N,1311737
-B516:2:300,Angiopolybia paraensis,,Angiopolybia,,paraensis,,species,,B516:2,accepted,,,B516:2:298,Angiopolybia,,,,,,Polistinae,Angiopolybia,,Polistinae | Angiopolybia,5V366,1311734
-B516:2:301,Pseudopolybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Pseudopolybia,,Polistinae,,5430724
-B516:2:302,Pseudopolybia compressa,,Pseudopolybia,,compressa,,species,,B516:2,accepted,,,B516:2:301,Pseudopolybia,,,,,,Polistinae,Pseudopolybia,,Polistinae | Pseudopolybia,4P8HF,5032935
-B516:2:303,Pseudopolybia difficilis,,Pseudopolybia,,difficilis,,species,,B516:2,accepted,,,B516:2:301,Pseudopolybia,,,,,,Polistinae,Pseudopolybia,,Polistinae | Pseudopolybia,4P8HG,5032934
-B516:2:304,Pseudopolybia vespiceps,,Pseudopolybia,,vespiceps,,species,,B516:2,accepted,,,B516:2:301,Pseudopolybia,,,,,,Polistinae,Pseudopolybia,,Polistinae | Pseudopolybia,4P8HJ,11083873
-B516:2:305,Parachartergus,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Parachartergus,,Polistinae,6DYB,1310084
-B516:2:306,Parachartergus apicalis,,Parachartergus,,apicalis,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPBV,1310086
-B516:2:307,Parachartergus aztecus,,Parachartergus,,aztecus,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPBX,1310104
-B516:2:308,Parachartergus colobopterus,,Parachartergus,,colobopterus,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPC2,1310085
-B516:2:309,Parachartergus fraternus,,Parachartergus,,fraternus,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPC7,1310088
-B516:2:310,Parachartergus fulgidipennis,,Parachartergus,,fulgidipennis,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPC8,1310098
-B516:2:311,Parachartergus richardsi,,Parachartergus,,richardsi,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPCF,1310108
-B516:2:312,Parachartergus smithii,,Parachartergus,,smithii,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPCG,1310092
-B516:2:313,Parachartergus weyrauchi,,Parachartergus,,weyrauchi,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPCL,1310094
-B516:2:314,Chartergellus,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Chartergellus,,Polistinae,3MC2,1311759
-B516:2:315,Chartergellus amazonicus,,Chartergellus,,amazonicus,,species,,B516:2,accepted,,,B516:2:314,Chartergellus,,,,,,Polistinae,Chartergellus,,Polistinae | Chartergellus,TPP2,5871407
-B516:2:316,Chartergellus communis,,Chartergellus,,communis,,species,,B516:2,accepted,,,B516:2:314,Chartergellus,,,,,,Polistinae,Chartergellus,,Polistinae | Chartergellus,TPP5,1311765
-B516:2:317,Chartergellus punctatior,,Chartergellus,,punctatior,,species,,B516:2,accepted,,,B516:2:314,Chartergellus,,,,,,Polistinae,Chartergellus,,Polistinae | Chartergellus,TPP8,1311768
-B516:2:318,Nectarinella,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Nectarinella,,Polistinae,5Y75,1311744
-B516:2:319,Nectarinella championi,,Nectarinella,,championi,,species,,B516:2,accepted,,,B516:2:318,Nectarinella,,,,,,Polistinae,Nectarinella,,Polistinae | Nectarinella,462MF,1311745
-B516:2:320,Leipomeles,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Leipomeles,,Polistinae,5BZQ,1311748
-B516:2:321,Leipomeles dorsata,,Leipomeles,,dorsata,,species,,B516:2,accepted,,,B516:2:320,Leipomeles,,,,,,Polistinae,Leipomeles,,Polistinae | Leipomeles,3T2W2,6247514
-B516:2:322,Leipomeles nana,,Leipomeles,,nana,,species,,B516:2,accepted,,,B516:2:320,Leipomeles,,,,,,Polistinae,Leipomeles,,Polistinae | Leipomeles,5BZQ,1311748
-B516:2:323,Marimbonda,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Marimbonda,,Polistinae,,1311600
-B516:2:324,Marimbonda albogrisea,,Marimbonda,,albogrisea,,species,,B516:2,accepted,,,B516:2:323,Marimbonda,,,,,,Polistinae,Marimbonda,,Polistinae | Marimbonda,3Y6LG,1311756
-B516:2:325,Synoeca,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Synoeca,,Polistinae,7RBT,1311714
-B516:2:326,Synoeca chalibea,,Synoeca,,chalibea,,species,,B516:2,accepted,,,B516:2:325,Synoeca,,,,,,Polistinae,Synoeca,,Polistinae | Synoeca,53XW8,1311725
-B516:2:327,Synoeca cyanea,,Synoeca,,cyanea,,species,,B516:2,accepted,,,B516:2:325,Synoeca,,,,,,Polistinae,Synoeca,,Polistinae | Synoeca,53XW9,1311718
-B516:2:328,Synoeca septentrionalis,,Synoeca,,septentrionalis,,species,,B516:2,accepted,,,B516:2:325,Synoeca,,,,,,Polistinae,Synoeca,,Polistinae | Synoeca,7B9P2,1311727
-B516:2:329,Synoeca surinama,,Synoeca,,surinama,,species,,B516:2,accepted,,,B516:2:325,Synoeca,,,,,,Polistinae,Synoeca,,Polistinae | Synoeca,53XWC,1311722
-B516:2:330,Synoeca virginea,,Synoeca,,virginea,,species,,B516:2,accepted,,,B516:2:325,Synoeca,,,,,,Polistinae,Synoeca,,Polistinae | Synoeca,53XWG,1311715
-B516:2:331,Clypearia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Clypearia,,Polistinae,62L94,1311003
-B516:2:332,Clypearia duckei,,Clypearia,,duckei,,species,,B516:2,accepted,,,B516:2:331,Clypearia,,,,,,Polistinae,Clypearia,,Polistinae | Clypearia,WDWK,5032887
-B516:2:333,Clypearia sulcata,,Clypearia,,sulcata,,species,,B516:2,accepted,,,B516:2:331,Clypearia,,,,,,Polistinae,Clypearia,,Polistinae | Clypearia,WDWR,5032883
-B516:2:334,Clypearia weyrauchi,,Clypearia,,weyrauchi,,species,,B516:2,accepted,,,B516:2:331,Clypearia,,,,,,Polistinae,Clypearia,,Polistinae | Clypearia,WDWS,5032890
-B516:2:335,Metapolybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Metapolybia,,Polistinae,5QK9,1310465
-B516:2:336,Metapolybia acincta,,Metapolybia,,acincta,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CNB,1310467
-B516:2:337,Metapolybia azteca,,Metapolybia,,azteca,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CNC,1310472
-B516:2:338,Metapolybia aztecoides,,Metapolybia,,aztecoides,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CND,1310478
-B516:2:339,Metapolybia cingulata,,Metapolybia,,cingulata,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CNF,1310479
-B516:2:340,Metapolybia docilis,,Metapolybia,,docilis,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CNH,1310474
-B516:2:341,Metapolybia suffusa,,Metapolybia,,suffusa,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CNR,1310475
-B516:2:342,Asteloeca,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Asteloeca,,Polistinae,62DY9,1310497
-B516:2:343,Asteloeca traili,,Asteloeca,,traili,,species,,B516:2,accepted,,,B516:2:342,Asteloeca,,,,,,Polistinae,Asteloeca,,Polistinae | Asteloeca,686KS,1310498
-B516:2:344,Protopolybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Protopolybia,,Polistinae,6XWM,1311851
-B516:2:345,Protopolybia including Pseudochartergus,Pseudochartergus,Protopolybia,,including,,species,,B516:2,heterotypic synonym,B516:2:344,Protopolybia,,,,,,,,Polistinae,Protopolybia,,Polistinae,6XWM,1311851
-B516:2:346,Protopolybia acutiscutis,,Protopolybia,,acutiscutis,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6NN,1311864
-B516:2:347,Protopolybia biguttata,,Protopolybia,,biguttata,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6NT,1311879
-B516:2:348,Protopolybia chanchamayensis,,Protopolybia,,chanchamayensis,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6NW,1311859
-B516:2:349,Protopolybia chartergoides,,Protopolybia,,chartergoides,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6NX,1311881
-B516:2:350,Protopolybia exigua,,Protopolybia,,exigua,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6P3,1311872
-B516:2:351,Protopolybia fuscatus,,Protopolybia,,fuscatus,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6P4,1311852
-B516:2:352,Protopolybia holoxantha,,Protopolybia,,holoxantha,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6P5,1311875
-B516:2:353,Protopolybia minutissima,,Protopolybia,,minutissima,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6P8,1311876
-B516:2:354,Protopolybia pallidibaleatus,,Protopolybia,,pallidibaleatus,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,6VYGB,1311854
-B516:2:355,Protopolybia panamensis,,Protopolybia,,panamensis,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PB,1311865
-B516:2:356,Protopolybia picteti,,Protopolybia,,picteti,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PD,1311877
-B516:2:357,Protopolybia sedula,,Protopolybia,,sedula,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PK,1311885
-B516:2:358,Protopolybia scutellaris,,Protopolybia,,scutellaris,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PJ,1311860
-B516:2:359,Protopolybia weyrauchi,,Protopolybia,,weyrauchi,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PM,1311888
-B516:2:360,Protopolybia wheeleri,,Protopolybia,,wheeleri,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PN,1311871
-B516:2:361,Charterginus,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Charterginus,,Polistinae,3MC3,1311621
-B516:2:362,Charterginus aberrans,,Charterginus,,aberrans,,species,,B516:2,accepted,,,B516:2:361,Charterginus,,,,,,Polistinae,Charterginus,,Polistinae | Charterginus,3MC3,1311621
-B516:2:363,Charterginus fulvus,,Charterginus,,fulvus,,species,,B516:2,accepted,,,B516:2:361,Charterginus,,,,,,Polistinae,Charterginus,,Polistinae | Charterginus,5XQ39,1311627
-B516:2:364,Charterginus nevermanni,,Charterginus,,nevermanni,,species,,B516:2,accepted,,,B516:2:361,Charterginus,,,,,,Polistinae,Charterginus,,Polistinae | Charterginus,TPPF,1311625
-B516:2:365,Chartergus,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Chartergus,,Polistinae,3MC4,1311565
-B516:2:366,Chartergus chartarius,,Chartergus,,chartarius,,species,,B516:2,accepted,,,B516:2:365,Chartergus,,,,,,Polistinae,Chartergus,,Polistinae | Chartergus,3MC4,1311565
-B516:2:367,Chartergus globiventris,,Chartergus,,globiventris,,species,,B516:2,accepted,,,B516:2:365,Chartergus,,,,,,Polistinae,Chartergus,,Polistinae | Chartergus,TPPT,1311566
-B516:2:368,Chartergus metanotalis,,Chartergus,,metanotalis,,species,,B516:2,accepted,,,B516:2:365,Chartergus,,,,,,Polistinae,Chartergus,,Polistinae | Chartergus,5XPQX,1311572
-B516:2:369,Brachygastra,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Brachygastra,,Polistinae,3CCQ,1310045
-B516:2:370,Brachygastra augusti,,Brachygastra,,augusti,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW7Q,1310065
-B516:2:371,Brachygastra azteca,,Brachygastra,,azteca,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW7S,1310082
-B516:2:372,Brachygastra bilineolata,,Brachygastra,,bilineolata,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,69244,1310068
-B516:2:373,Brachygastra lecheguana,,Brachygastra,,lecheguana,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW7Z,1310057
-B516:2:374,Brachygastra mellifica,,Brachygastra,,mellifica,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW82,1310047
-B516:2:375,Brachygastra scutellaris,,Brachygastra,,scutellaris,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW87,1310077
-B516:2:376,Brachygastra smithii,,Brachygastra,,smithii,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW88,1310053
-B516:2:377,Protonectarina,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Protonectarina,,Polistinae,63PKR,1311597
-B516:2:378,Protonectarina sylveirae,,Protonectarina,,sylveirae,,species,,B516:2,accepted,,,B516:2:377,Protonectarina,,,,,,Polistinae,Protonectarina,,Polistinae | Protonectarina,4N69R,1311598
-B516:2:379,Polybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Polybia,,Polistinae,6TWV,5032750
-B516:2:380,Alpha,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Alpha,Polistinae | Polybia,8PN24,
-B516:2:381,Polybia bifasciata,,Polybia,,bifasciata,,species,,B516:2,accepted,,,B516:2:380,Alpha,,,,,,Polistinae,Polybia,Alpha,Polistinae | Polybia | Alpha,4L24M,5032829
-B516:2:382,Apopolybia,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Apopolybia,Polistinae | Polybia,,
-B516:2:383,Polybia jurinei,,Polybia,,jurinei,,species,,B516:2,accepted,,,B516:2:382,Apopolybia,,,,,,Polistinae,Polybia,Apopolybia,Polistinae | Polybia | Apopolybia,4L262,5032821
-B516:2:384,Cylindroeca,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Cylindroeca,Polistinae | Polybia,,
-B516:2:385,Polybia dimidiata,,Polybia,,dimidiata,,species,,B516:2,accepted,,,B516:2:384,Cylindroeca,,,,,,Polistinae,Polybia,Cylindroeca,Polistinae | Polybia | Cylindroeca,4L258,5032820
-B516:2:386,Formicicola,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Formicicola,Polistinae | Polybia,,
-B516:2:387,Polybia rejecta,,Polybia,,rejecta,,species,,B516:2,accepted,,,B516:2:386,Formicicola,,,,,,Polistinae,Polybia,Formicicola,Polistinae | Polybia | Formicicola,4L27H,5032861
-B516:2:388,Furnariana,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Furnariana,Polistinae | Polybia,,
-B516:2:389,Polybia funmaria,,Polybia,,funmaria,,species,,B516:2,accepted,,,B516:2:388,Furnariana,,,,,,Polistinae,Polybia,Furnariana,Polistinae | Polybia | Furnariana,6TWV,5032750
-B516:2:390,Polybia richardsi,,Polybia,,richardsi,,species,,B516:2,accepted,,,B516:2:388,Furnariana,,,,,,Polistinae,Polybia,Furnariana,Polistinae | Polybia | Furnariana,4L27K,5032834
-B516:2:391,Myrapetra,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia,,
-B516:2:392,Polybia belemensis,,Polybia,,belemensis,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L24H,5032771
-B516:2:393,Polybia bicyttarella,,Polybia,,bicyttarella,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L24L,5032813
-B516:2:394,Polybia bistriata,,Polybia,,bistriata,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L24N,5032793
-B516:2:395,Polybia catillifex,,Polybia,,catillifex,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L24V,5032758
-B516:2:396,Polybia diguetana,,Polybia,,diguetana,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L256,5032836
-B516:2:397,Polybia dimorpha,,Polybia,,dimorpha,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L259,5032796
-B516:2:398,Polybia erythrothorax,,Polybia,,erythrothorax,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,7853Y,5032825
-B516:2:399,Polybia flavifrons,,Polybia,,flavifrons,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L25J,5032773
-B516:2:400,Polybia juruana,,Polybia,,juruana,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L263,5032797
-B516:2:401,Polybia occidentalis,,Polybia,,occidentalis,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L26X,5032852
-B516:2:402,Polybia parvulina,,Polybia,,parvulina,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L274,5032839
-B516:2:403,Polybia paulista,,Polybia,,paulista,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L275,5032823
-B516:2:404,Polybia platycephala,,Polybia,,platycephala,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L279,5032798
-B516:2:405,Polybia ruficeps,,Polybia,,ruficeps,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L27M,5032815
-B516:2:406,Polybia scrobalis,,Polybia,,scrobalis,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L27R,5032840
-B516:2:407,Polybia scutellaris,,Polybia,,scutellaris,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L27S,5032770
-B516:2:408,Pedotheca,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Pedotheca,Polistinae | Polybia,,
-B516:2:409,Polybia emaciata,,Polybia,,emaciata,,species,,B516:2,accepted,,,B516:2:408,Pedotheca,,,,,,Polistinae,Polybia,Pedotheca,Polistinae | Polybia | Pedotheca,4L25C,5032844
-B516:2:410,Polybia singularis,,Polybia,,singularis,,species,,B516:2,accepted,,,B516:2:408,Pedotheca,,,,,,Polistinae,Polybia,Pedotheca,Polistinae | Polybia | Pedotheca,4L282,5032811
-B516:2:411,Polybia spinifex,,Polybia,,spinifex,,species,,B516:2,accepted,,,B516:2:408,Pedotheca,,,,,,Polistinae,Polybia,Pedotheca,Polistinae | Polybia | Pedotheca,4L285,5032792
-B516:2:412,Polybia,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Polybia,Polistinae | Polybia,6TWV,
-B516:2:413,Polybia liliacea,,Polybia,,liliacea,,species,,B516:2,accepted,,,B516:2:412,Polybia,,,,,,Polistinae,Polybia,Polybia,Polistinae | Polybia | Polybia,4L266,5032785
-B516:2:414,Polybia striata,,Polybia,,striata,,species,,B516:2,accepted,,,B516:2:412,Polybia,,,,,,Polistinae,Polybia,Polybia,Polistinae | Polybia | Polybia,4L286,5032780
-B516:2:415,Platypolybia,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Platypolybia,Polistinae | Polybia,,
-B516:2:416,Polybia incerta,,Polybia,,incerta,,species,,B516:2,accepted,,,B516:2:415,Platypolybia,,,,,,Polistinae,Polybia,Platypolybia,Polistinae | Polybia | Platypolybia,4L25T,5032837
-B516:2:417,Polybia procellosa,,Polybia,,procellosa,,species,,B516:2,accepted,,,B516:2:415,Platypolybia,,,,,,Polistinae,Polybia,Platypolybia,Polistinae | Polybia | Platypolybia,4L27B,5032877
-B516:2:418,Trichinothorax,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia,,
-B516:2:419,Polybia affinis,,Polybia,,affinis,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L245,5032843
-B516:2:420,Polybia chrysothorax,,Polybia,,chrysothorax,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L24Y,5032867
-B516:2:421,Polybia flavitincta,,Polybia,,flavitincta,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L25K,5032832
-B516:2:422,Polybia rufitarsis,,Polybia,,rufitarsis,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L27P,5032762
-B516:2:423,Polybia sericea,,Polybia,,sericea,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L27V,5032751
-B516:2:424,Polybia tinctipennis,,Polybia,,tinctipennis,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L28C,5032755
-B516:2:425,Polybia velutina,,Polybia,,velutina,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,6VSQB,5032818
-B516:2:426,Synoecoides,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Synoecoides,,Polistinae,,1311791
-B516:2:427,Synoecoides depressus,,Synoecoides,,depressus,,species,,B516:2,accepted,,,B516:2:426,Synoecoides,,,,,,Polistinae,Synoecoides,,Polistinae | Synoecoides,53XWY,1310413
-B516:2:428,Epipona,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Epipona,,Polistinae,4DB4,1311704
-B516:2:429,Epipona guerini,,Epipona,,guerini,,species,,B516:2,accepted,,,B516:2:428,Epipona,,,,,,Polistinae,Epipona,,Polistinae | Epipona,6FWL6,1311706
-B516:2:430,Epipona tatua,,Epipona,,tatua,,species,,B516:2,accepted,,,B516:2:428,Epipona,,,,,,Polistinae,Epipona,,Polistinae | Epipona,6FWKX,1311710
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B516:2:1,Vespinae,,,,,,subfamily,,B516:2,accepted,,,,,,,,,,Vespinae,,,,,,,
+B516:2:2,Vespa,,,,,,genus,,B516:2,accepted,,,B516:2:1,Vespinae,,,,,,Vespinae,Vespa,,Vespinae,86JM,1311334,86JM,1311334
+B516:2:3,Vespa affinis,,Vespa,,affinis,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,5B9QF,1311357,5B9QF,1311357
+B516:2:4,Vespa analis,,Vespa,,analis,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,5B9QR,11004388,4KYJQ,1310852
+B516:2:5,Vespa cincta,,Vespa,,cincta,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,5B9SJ,7780410,444Y5,1311336
+B516:2:6,Vespa crabro,,Vespa,,crabro,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,5B9T3,1311527,5B9T3,1311527
+B516:2:7,Vespa mongolica,,Vespa,,mongolica,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,,,,
+B516:2:8,Vespa parallela,,Vespa,,parallela,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,,,,
+B516:2:9,Vespa tropica,,Vespa,,tropica,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,7G3C3,1311336,7G3C3,1311336
+B516:2:10,Vespa velutina,,Vespa,,velutina,,species,,B516:2,accepted,,,B516:2:2,Vespa,,,,,,Vespinae,Vespa,,Vespinae | Vespa,7G3C6,1311477,7G3C6,1311477
+B516:2:11,Provespa,,,,,,genus,,B516:2,accepted,,,B516:2:1,Vespinae,,,,,,Vespinae,Provespa,,Vespinae,6Y4X,1310483,6Y4X,1310483
+B516:2:12,Provespa anomala,,Provespa,,anomala,,species,,B516:2,accepted,,,B516:2:11,Provespa,,,,,,Vespinae,Provespa,,Vespinae | Provespa,4N82J,1310484,4N82J,1310484
+B516:2:13,Dolichovespula,,,,,,genus,,B516:2,accepted,,,B516:2:1,Vespinae,,,,,,Vespinae,Dolichovespula,,Vespinae,47KP,1311794,47KP,1311794
+B516:2:14,Dolichovespula arenaria,,Dolichovespula,,arenaria,,species,,B516:2,accepted,,,B516:2:13,Dolichovespula,,,,,,Vespinae,Dolichovespula,,Vespinae | Dolichovespula,377DM,1311820,377DM,1311820
+B516:2:15,Dolichovespula maculata,,Dolichovespula,,maculata,,species,,B516:2,accepted,,,B516:2:13,Dolichovespula,,,,,,Vespinae,Dolichovespula,,Vespinae | Dolichovespula,377DZ,1311815,377DZ,1311815
+B516:2:16,Dolichovespula media,,Dolichovespula,,media,,species,,B516:2,accepted,,,B516:2:13,Dolichovespula,,,,,,Vespinae,Dolichovespula,,Vespinae | Dolichovespula,6DD4G,1311838,6DD4G,1311838
+B516:2:17,Dolichovespula norvegica,,Dolichovespula,,norvegica,,species,,B516:2,accepted,,,B516:2:13,Dolichovespula,,,,,,Vespinae,Dolichovespula,,Vespinae | Dolichovespula,,8303880,,1311831
+B516:2:18,Dolichovespula sylvestris,,Dolichovespula,,sylvestris,,species,,B516:2,accepted,,,B516:2:13,Dolichovespula,,,,,,Vespinae,Dolichovespula,,Vespinae | Dolichovespula,6DD4M,1311798,6DD4M,1311798
+B516:2:19,Vespula,,,,,,genus,,B516:2,accepted,,,B516:2:1,Vespinae,,,,,,Vespinae,Vespula,,Vespinae,86KD,1311631,86KD,1311631
+B516:2:20,Vespula germanica,,Vespula,,germanica,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7G2VS,1311649,7G2VS,1311649
+B516:2:21,Vespula maculifrons,,Vespula,,maculifrons,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7FR7G,1311693,7FR7G,1311693
+B516:2:22,Vespula pensylvanica,,Vespula,,pensylvanica,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7FQVJ,1311698,7FQVJ,1311698
+B516:2:23,Vespula rufa,,Vespula,,rufa,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7G2VJ,1311676,7G2VJ,1311676
+B516:2:24,Vespula squamosa,,Vespula,,squamosa,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7G37K,1311662,7G37K,1311662
+B516:2:25,Vespula vulgaris,,Vespula,,vulgaris,,species,,B516:2,accepted,,,B516:2:19,Vespula,,,,,,Vespinae,Vespula,,Vespinae | Vespula,7G35Z,1311671,7G35Z,1311671
+B516:2:26,Polistinae,,,,,,subfamily,,B516:2,accepted,,,,,,,,,,Polistinae,,,,,,,
+B516:2:27,Polistes,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Polistes,,Polistinae,63NNT,1310500,63NNT,1310500
+B516:2:28,Aphanilopterus,,,,,,subgenus,,B516:2,accepted,,,B516:2:27,Polistes,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes,62D82,,62D82,
+B516:2:29,Epicnemius,,,,,,subgenus,,B516:2,synonym,B516:2:28,Aphanilopterus,,,,,,,,Polistinae,Polistes,Epicnemius,Polistinae | Polistes,,,,
+B516:2:30,Fuscopolistes,,,,,,subgenus,,B516:2,synonym,B516:2:28,Aphanilopterus,,,,,,,,Polistinae,Polistes,Fuscopolistes,Polistinae | Polistes,,,,
+B516:2:31,Onerarius,,,,,,subgenus,,B516:2,synonym,B516:2:28,Aphanilopterus,,,,,,,,Polistinae,Polistes,Onerarius,Polistinae | Polistes,,,,
+B516:2:32,Palisotius,,,,,,subgenus,,B516:2,synonym,B516:2:28,Aphanilopterus,,,,,,,,Polistinae,Polistes,Palisotius,Polistinae | Polistes,,,,
+B516:2:33,Polistes annularis,,Polistes,,annularis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY87,1310936,4KY87,1310936
+B516:2:34,Polistes apicalis,,Polistes,,apicalis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY89,1310907,4KY89,1310907
+B516:2:35,Polistes aterrimus,,Polistes,,aterrimus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY8L,7994138,4KY8L,7994138
+B516:2:36,Polistes buyssoni,,Polistes,,buyssoni,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY9M,1310749,4KY9M,1310749
+B516:2:37,Polistes canadensis,,Polistes,,canadensis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY9Q,1310702,4KY9Q,1310702
+B516:2:38,Polistes cavapyta,,Polistes,,cavapyta,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY9X,1310930,4KY9X,1310930
+B516:2:39,Polistes cinctus,,Polistes,,cinctus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6VSPQ,1310956,6VT24,1310955
+B516:2:40,Polistes comanchus,,Polistes,,comanchus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,784Q2,1310841,784Q2,1310841
+B516:2:41,Polistes crinitus,,Polistes,,crinitus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6W4Q5,1310738,6W4Q5,1310738
+B516:2:42,Polistes cubensis,,Polistes,,cubensis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6W525,1310700,6W525,1310700
+B516:2:43,Polistes dominica,,Polistes,,dominica,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6VT24,1310955,6VT24,1310955
+B516:2:44,Polistes erythrocephalus,,Polistes,,erythrocephalus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYBF,1310781,4KYBF,1310781
+B516:2:45,Polistes exclamans,,Polistes,,exclamans,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYBJ,1310760,4KYBJ,1310760
+B516:2:46,Polistes goeldii,,Polistes,,goeldii,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYC9,1310933,4KYC9,1310933
+B516:2:47,Polistes infuscatus,,Polistes,,infuscatus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYCR,1310658,4KYCR,1310658
+B516:2:48,Polistes instabilis,,Polistes,,instabilis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYCV,1310836,4KYCV,1310836
+B516:2:49,Polistes versicolor,,Polistes,,versicolor,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYKH,1310680,4KYKH,1310680
+B516:2:50,Polistes bicolor,,Polistes,,bicolor,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY97,1310727,4KY97,1310727
+B516:2:51,Polistes billardieri,,Polistes,,billardieri,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY9B,1310868,4KY9B,1310868
+B516:2:52,Polistes cinerascens,,Polistes,,cinerascens,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6VT22,1310566,6VT22,1310566
+B516:2:53,Polistes pacificus,,Polistes,,pacificus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYFY,1310902,4KYFY,1310902
+B516:2:54,Polistes testaceicolor,,Polistes,,testaceicolor,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYJQ,1310852,4KYJQ,1310852
+B516:2:55,Polistes apachus,,Polistes,,apachus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY88,1310927,4KY88,1310927
+B516:2:56,Polistes carolina,,Polistes,,carolina,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,784Q3,1310944,784Q3,1310944
+B516:2:57,Polistes dorsalis,,Polistes,,dorsalis,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,77SPS,1310908,77SPS,1310908
+B516:2:58,Polistes fuscatus,,Polistes,,fuscatus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYC2,1310556,4KYC2,1310556
+B516:2:59,Polistes metricus,,Polistes,,metricus,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,6W4PX,1310805,6W4PX,1310805
+B516:2:60,Polistes poeyi,,Polistes,,poeyi,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KYGK,1310730,4KYGK,1310730
+B516:2:61,Polistes carnifex,,Polistes,,carnifex,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,4KY9T,1310539,4KY9T,1310539
+B516:2:62,Polistes major,,Polistes,,major,,species,,B516:2,accepted,,,B516:2:28,Aphanilopterus,,,,,,Polistinae,Polistes,Aphanilopterus,Polistinae | Polistes | Aphanilopterus,77SQ7,1310743,77SQ7,1310743
+B516:2:63,Gyrostoma,,,,,,subgenus,,B516:2,accepted,,,B516:2:27,Polistes,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes,,,,
+B516:2:64,Nygmopolistes,,,,,,subgenus,,B516:2,synonym,B516:2:63,Gyrostoma,,,,,,,,Polistinae,Polistes,Nygmopolistes,Polistinae | Polistes,,,,
+B516:2:65,Polistes diabolicus,,Polistes,,diabolicus,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,6VSPS,1311002,6VSPS,1311002
+B516:2:66,Polistes jadwigae,,Polistes,,jadwigae,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,4KYD3,1310776,4KYD7,1310772
+B516:2:67,Polistes olivaceus,,Polistes,,olivaceus,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,4KYFM,1310922,4KYFM,1310922
+B516:2:68,Polistes minor,,Polistes,,minor,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,6VT29,1310793,6VT29,1310793
+B516:2:69,Polistes stenopus,,Polistes,,stenopus,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,4KYJ7,1310594,4KYJ7,1310594
+B516:2:70,Polistes tenebricosus,,Polistes,,tenebricosus,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,4KYJK,1310581,4KYJK,1310581
+B516:2:71,Polistes tepidus,,Polistes,,tepidus,,species,,B516:2,accepted,,,B516:2:63,Gyrostoma,,,,,,Polistinae,Polistes,Gyrostoma,Polistinae | Polistes | Gyrostoma,4KYJP,1310960,4KYJP,1310960
+B516:2:72,Polistella,,,,,,subgenus,,B516:2,accepted,,,B516:2:27,Polistes,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes,,,,
+B516:2:73,Stenopolistes,,,,,,subgenus,,B516:2,synonym,B516:2:72,Polistella,,,,,,,,Polistinae,Polistes,Stenopolistes,Polistinae | Polistes,,,,
+B516:2:74,Polistes albocalcaratus,,Polistes,,albocalcaratus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KY7Z,1310602,4KY7Z,1310602
+B516:2:75,Polistes aquilinus,,Polistes,,aquilinus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,6W523,1310892,6W523,1310892
+B516:2:76,Polistes bernardii,,Polistes,,bernardii,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,,,,
+B516:2:77,Polistes defectivus,,Polistes,,defectivus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,784PT,1310598,784PT,1310598
+B516:2:78,Polistes fastidiosus,,Polistes,,fastidiosus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYBP,1310724,4KYBP,1310724
+B516:2:79,Polistes flavobilineatus,,Polistes,,flavobilineatus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYBS,1310693,4KYBS,1310693
+B516:2:80,Polistes haugi,,Polistes,,haugi,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYCB,1310921,4KYCB,1310921
+B516:2:81,Polistes humilis,,Polistes,,humilis,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYCK,1310818,4KYCK,1310818
+B516:2:82,Polistes madecassus,,Polistes,,madecassus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,6W4Q7,1310796,6W4Q7,1310796
+B516:2:83,Polistes mandarinus,,Polistes,,mandarinus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,77T27,1310641,77T27,1310641
+B516:2:84,Polistes mandiburens,,Polistes,,mandiburens,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,6W527,1310726,6W527,1310726
+B516:2:85,Polistes manillensis,,Polistes,,manillensis,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,,,,
+B516:2:86,Polistes nigrifrons,,Polistes,,nigrifrons,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,6VT28,1310694,6VT28,1310694
+B516:2:87,Polistes nigrifrons subsp. stotheri,,Polistes,,nigrifrons,stotheri,subspecies,,B516:2,accepted,,,B516:2:86,Polistes nigrifrons,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella | Polistes nigrifrons,,,,
+B516:2:88,Polistes sagittarius,,Polistes,,sagittarius,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYHC,1310617,4KYHC,1310617
+B516:2:89,Polistes saussurei,,Polistes,,saussurei,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYHF,1310990,4KYHF,1310990
+B516:2:90,Polistes sikorae,,Polistes,,sikorae,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYHP,1310887,4KYHP,1310887
+B516:2:91,Polistes smithii,,Polistes,,smithii,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYHV,1310765,4KYHV,1310765
+B516:2:92,Polistes smithii,,Polistes,,smithii,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYHV,1310765,4KYHV,1310765
+B516:2:93,Polistes smithii subsp. neavei,,Polistes,,smithii,neavei,subspecies,,B516:2,accepted,,,B516:2:92,Polistes smithii,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella | Polistes smithii,5KKD5,6249482,5KKD5,6249482
+B516:2:94,Polistes stigma,,Polistes,,stigma,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYJ8,1310970,4KYJ8,1310970
+B516:2:95,Polistes takasagonus,,Polistes,,takasagonus,,species,,B516:2,accepted,,,B516:2:72,Polistella,,,,,,Polistinae,Polistes,Polistella,Polistinae | Polistes | Polistella,4KYJG,1310753,4KYJG,1310753
+B516:2:96,Polistes,,,,,,subgenus,,B516:2,accepted,,,B516:2:27,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes,63NNT,,63NNT,
+B516:2:97,Sulcopolistes,,,,,,subgenus,,B516:2,synonym,B516:2:96,Polistes,,,,,,,,Polistinae,Polistes,Sulcopolistes,Polistinae | Polistes,,,,
+B516:2:98,Polistes africanus,,Polistes,,africanus,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KY7W,1310501,4KY7W,1310501
+B516:2:99,Polistes associus,,Polistes,,associus,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KY8G,1310647,4KY8G,1310647
+B516:2:100,Polistes badius,,Polistes,,badius,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KY8T,1310712,4KY8T,1310712
+B516:2:101,Polistes dominulus,,Polistes,,dominulus,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,6W524,1310668,6W4Q4,5871389
+B516:2:102,Polistes gallicus,,Polistes,,gallicus,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KYC4,1310622,4KYC4,1310622
+B516:2:103,Polistes marginalis,,Polistes,,marginalis,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,784Q7,1310567,784Q7,1310567
+B516:2:104,Polistes nimpha,,Polistes,,nimpha,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KYF7,1310811,4KYF7,1310811
+B516:2:105,Polistes tenellus,,Polistes,,tenellus,,species,,B516:2,accepted,,,B516:2:96,Polistes,,,,,,Polistinae,Polistes,Polistes,Polistinae | Polistes | Polistes,4KYJL,1310552,4KYJL,1310552
+B516:2:106,Mischocyttarus,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Mischocyttarus,,Polistinae,5TQM,1309719,5TQM,1309719
+B516:2:107,Clypeopolybia,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Clypeopolybia,Polistinae | Mischocyttarus,,,,
+B516:2:108,Mischocyttarus carbonarius,,Mischocyttarus,,carbonarius,,species,,B516:2,accepted,,,B516:2:107,Clypeopolybia,,,,,,Polistinae,Mischocyttarus,Clypeopolybia,Polistinae | Mischocyttarus | Clypeopolybia,73LNH,1309788,73LNH,1309788
+B516:2:109,Mischocyttarus piger,,Mischocyttarus,,piger,,species,,B516:2,accepted,,,B516:2:107,Clypeopolybia,,,,,,Polistinae,Mischocyttarus,Clypeopolybia,Polistinae | Mischocyttarus | Clypeopolybia,43N2R,1310008,43N2R,1310008
+B516:2:110,Haplometrobius,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus,,,,
+B516:2:111,Mischocyttarus alboniger,,Mischocyttarus,,alboniger,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MTR,1309723,43MTR,1309723
+B516:2:112,Mischocyttarus artifex,,Mischocyttarus,,artifex,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,73LNS,1309883,73LNS,1309883
+B516:2:113,Mischocyttarus cerberus,,Mischocyttarus,,cerberus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,6RLNC,1309878,6RLNC,1309878
+B516:2:114,Mischocyttarus cooperi,,Mischocyttarus,,cooperi,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MVK,1309974,43MVK,1309974
+B516:2:115,Mischocyttarus decimus,,Mischocyttarus,,decimus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MVW,1309889,43MVW,1309889
+B516:2:116,Mischocyttarus dimorphus,,Mischocyttarus,,dimorphus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MVY,1309863,43MVY,1309863
+B516:2:117,Mischocyttarus iheringi,,Mischocyttarus,,iheringi,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MXJ,1310015,43MXJ,1310015
+B516:2:118,Mischocyttarus illusorius,,Mischocyttarus,,illusorius,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MXL,1309984,43MXL,1309984
+B516:2:119,Mischocyttarus mirificus,,Mischocyttarus,,mirificus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,6RLP3,1309755,6RLP3,1309755
+B516:2:120,Mischocyttarus nigropygialis,,Mischocyttarus,,nigropygialis,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,6RLP2,1309917,6RLP2,1309917
+B516:2:121,Mischocyttarus oecothrix,,Mischocyttarus,,oecothrix,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43MZY,1309896,43MZY,1309896
+B516:2:122,Mischocyttarus ornatus,,Mischocyttarus,,ornatus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N25,1309862,43N25,1309862
+B516:2:123,Mischocyttarus prominulus,,Mischocyttarus,,prominulus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N2V,1309962,43N2V,1309962
+B516:2:124,Mischocyttarus silvicola,,Mischocyttarus,,silvicola,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N3Q,1310028,43N3Q,1310028
+B516:2:125,Mischocyttarus stenoecus,,Mischocyttarus,,stenoecus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N3Z,1309948,43N3Z,1309948
+B516:2:126,Mischocyttarus surinamensis,,Mischocyttarus,,surinamensis,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N45,1309908,43N45,1309908
+B516:2:127,Mischocyttarus sylvestris,,Mischocyttarus,,sylvestris,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N46,1309865,43N46,1309865
+B516:2:128,Mischocyttarus tenius,,Mischocyttarus,,tenius,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,,,,
+B516:2:129,Mischocyttarus undulatus,,Mischocyttarus,,undulatus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N4M,1310023,43N4M,1310023
+B516:2:130,Mischocyttarus vredeni,,Mischocyttarus,,vredeni,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N4T,1309989,43N4T,1309989
+B516:2:131,Mischocyttarus weyrauchi,,Mischocyttarus,,weyrauchi,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N4V,1309956,43N4V,1309956
+B516:2:132,Mischocyttarus xanthocerus,,Mischocyttarus,,xanthocerus,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N4Y,1309904,43N4Y,1309904
+B516:2:133,Mischocyttarus ypiranguensis,,Mischocyttarus,,ypiranguensis,,species,,B516:2,accepted,,,B516:2:110,Haplometrobius,,,,,,Polistinae,Mischocyttarus,Haplometrobius,Polistinae | Mischocyttarus | Haplometrobius,43N4Z,1309897,43N4Z,1309897
+B516:2:134,Kappa,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus,,,,
+B516:2:135,Mischocyttarus atramentaris,,Mischocyttarus,,atramentaris,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,6RLNR,1309871,6RLNR,1309871
+B516:2:136,Mischocyttarus bertoni,,Mischocyttarus,,bertoni,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,73LNM,1310026,73LNM,1310026
+B516:2:137,Mischocyttarus comunalis,,Mischocyttarus,,comunalis,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43MVC,1310040,43MVC,1310040
+B516:2:138,Mischocyttarus injuncundus,,Mischocyttarus,,injuncundus,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43MXV,1309911,43MXV,1309911
+B516:2:139,Mischocyttarus latior,,Mischocyttarus,,latior,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43MYB,1309769,43MYB,1309769
+B516:2:140,Mischocyttarus latissimus,,Mischocyttarus,,latissimus,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43MYC,1309890,43MYC,1309890
+B516:2:141,Mischocyttarus metathoracicus,,Mischocyttarus,,metathoracicus,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43MZ5,1309832,43MZ5,1309832
+B516:2:142,Mischocyttarus pseudomimeticus,,Mischocyttarus,,pseudomimeticus,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43N2X,1309942,43N2X,1309942
+B516:2:143,Mischocyttarus shunkei,,Mischocyttarus,,shunkei,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43N3J,1309759,43N3J,1309759
+B516:2:144,Mischocyttarus socialis,,Mischocyttarus,,socialis,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,6RLPX,1309978,6RLPX,1309978
+B516:2:145,Mischocyttarus tolensis,,Mischocyttarus,,tolensis,,species,,B516:2,accepted,,,B516:2:134,Kappa,,,,,,Polistinae,Mischocyttarus,Kappa,Polistinae | Mischocyttarus | Kappa,43N4F,1309775,43N4F,1309775
+B516:2:146,Megacanthopus,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus,5MKY,,5MKY,
+B516:2:147,Mischocyttarus collarellus,,Mischocyttarus,,collarellus,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,43MV9,1309767,43MV9,1309767
+B516:2:148,Mischocyttarus collaris,,Mischocyttarus,,collaris,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,6RLP9,1309756,6RLP9,1309756
+B516:2:149,Mischocyttarus melanopygus,,Mischocyttarus,,melanopygus,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,43MYZ,1309876,43MYZ,1309876
+B516:2:150,Mischocyttarus parallelogrammus,,Mischocyttarus,,parallelogrammus,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,43N2C,1309795,43N2C,1309795
+B516:2:151,Mischocyttarus saturatus,,Mischocyttarus,,saturatus,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,43N3F,1309792,43N3F,1309792
+B516:2:152,Mischocyttarus superus,,Mischocyttarus,,superus,,species,,B516:2,accepted,,,B516:2:146,Megacanthopus,,,,,,Polistinae,Mischocyttarus,Megacanthopus,Polistinae | Mischocyttarus | Megacanthopus,43N44,1309922,43N44,1309922
+B516:2:153,Mischocyttarus,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus,5TQM,,5TQM,
+B516:2:154,Mischocyttarus cinerascens,,Mischocyttarus,,cinerascens,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43MV3,1309815,43MV3,1309815
+B516:2:155,Mischocyttarus drewseni,,Mischocyttarus,,drewseni,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43MVZ,1309846,43MVZ,1309846
+B516:2:156,Mischocyttarus gynandormorphus,,Mischocyttarus,,gynandormorphus,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,,,,
+B516:2:157,Mischocyttarus labiatus,,Mischocyttarus,,labiatus,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43MY9,1309791,43MY9,1309791
+B516:2:158,Mischocyttarus matograssoensis,,Mischocyttarus,,matograssoensis,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,,,,
+B516:2:159,Mischocyttarus melananus,,Mischocyttarus,,melananus,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43MYW,1309905,43MYW,1309905
+B516:2:160,Mischocyttarus rotundicollis,,Mischocyttarus,,rotundicollis,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43N38,1309836,43N38,1309836
+B516:2:161,Mischocyttarus tomentosus,,Mischocyttarus,,tomentosus,,species,,B516:2,accepted,,,B516:2:153,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Mischocyttarus,Polistinae | Mischocyttarus | Mischocyttarus,43N4G,1309764,43N4G,1309764
+B516:2:162,Monacanthocnemis,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Monacanthocnemis,Polistinae | Mischocyttarus,63BMR,,63BMR,
+B516:2:163,Mischocyttarus buyssoni,,Mischocyttarus,,buyssoni,,species,,B516:2,accepted,,,B516:2:162,Monacanthocnemis,,,,,,Polistinae,Mischocyttarus,Monacanthocnemis,Polistinae | Mischocyttarus | Monacanthocnemis,73LNK,1309739,73LNK,1309739
+B516:2:164,Mischocyttarus punctatus,,Mischocyttarus,,punctatus,,species,,B516:2,accepted,,,B516:2:162,Monacanthocnemis,,,,,,Polistinae,Mischocyttarus,Monacanthocnemis,Polistinae | Mischocyttarus | Monacanthocnemis,43N2Y,1309926,43N2Y,1309926
+B516:2:165,Mischocyttarus vaqueroi,,Mischocyttarus,,vaqueroi,,species,,B516:2,accepted,,,B516:2:162,Monacanthocnemis,,,,,,Polistinae,Mischocyttarus,Monacanthocnemis,Polistinae | Mischocyttarus | Monacanthocnemis,43N4P,1310010,43N4P,1310010
+B516:2:166,Monogynoecus,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus,,,,
+B516:2:167,Mischocyttarus alienus,,Mischocyttarus,,alienus,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43MTT,1309999,43MTT,1309999
+B516:2:168,Mischocyttarus fraudulentus,,Mischocyttarus,,fraudulentus,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43MWQ,1309895,43MWQ,1309895
+B516:2:169,Mischocyttarus insolitus,,Mischocyttarus,,insolitus,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43MXW,1309881,43MXW,1309881
+B516:2:170,Mischocyttarus metoecus,,Mischocyttarus,,metoecus,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43MZ6,1309822,43MZ6,1309822
+B516:2:171,Mischocyttarus moralesi,,Mischocyttarus,,moralesi,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43MZH,1310022,43MZH,1310022
+B516:2:172,Mischocyttarus pelor,,Mischocyttarus,,pelor,,species,,B516:2,accepted,,,B516:2:166,Monogynoecus,,,,,,Polistinae,Mischocyttarus,Monogynoecus,Polistinae | Mischocyttarus | Monogynoecus,43N2J,1309761,43N2J,1309761
+B516:2:173,Phi,,,,,,subgenus,,B516:2,accepted,,,B516:2:106,Mischocyttarus,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus,,,,
+B516:2:174,Mischocyttarus alfleni,,Mischocyttarus,,alfleni,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MTS,1310033,43MTS,1310033
+B516:2:175,Mischocyttarus araujoi,,Mischocyttarus,,araujoi,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,6RLNT,1309894,6RLNT,1309894
+B516:2:176,Mischocyttarus barbatulus,,Mischocyttarus,,barbatulus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,6RLNP,1309958,6RLNP,1309958
+B516:2:177,Mischocyttarus barbatus,,Mischocyttarus,,barbatus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,73LNP,1309975,73LNP,1309975
+B516:2:178,Mischocyttarus basimacula,,Mischocyttarus,,basimacula,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,6RLNN,1309992,6RLNN,1309992
+B516:2:179,Mischocyttarus cassununga,,Mischocyttarus,,cassununga,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,73LNG,1309935,73LNG,1309935
+B516:2:180,Mischocyttarus cubensis,,Mischocyttarus,,cubensis,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MVT,1309919,43MVT,1309919
+B516:2:181,Mischocyttarus flavicornis,,Mischocyttarus,,flavicornis,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,6RLP7,1310000,6RLP7,1310000
+B516:2:182,Mischocyttarus flavoniger,,Mischocyttarus,,flavoniger,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MWK,1309944,43MWK,1309944
+B516:2:183,Mischocyttarus hirsutus,,Mischocyttarus,,hirsutus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MXC,1309747,43MXC,1309747
+B516:2:184,Mischocyttarus imeldai,,Mischocyttarus,,imeldai,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MXM,1309961,43MXM,1309961
+B516:2:185,Mischocyttarus lilae,,Mischocyttarus,,lilae,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MYG,1310012,43MYG,1310012
+B516:2:186,Mischocyttarus lules,,Mischocyttarus,,lules,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MYL,1309977,43MYL,1309977
+B516:2:187,Mischocyttarus mexicanus,,Mischocyttarus,,mexicanus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43MZ7,1309809,43MZ7,1309809
+B516:2:188,Mischocyttarus oreophilus,,Mischocyttarus,,oreophilus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43N23,1309874,43N23,1309874
+B516:2:189,Mischocyttarus pallidipectus,,Mischocyttarus,,pallidipectus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43N26,1309843,43N26,1309843
+B516:2:190,Mischocyttarus paraguaensis,,Mischocyttarus,,paraguaensis,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,73LP2,1309820,73LP2,1309820
+B516:2:191,Mischocyttarus phthisicus,,Mischocyttarus,,phthisicus,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43N2N,1310031,43N2N,1310031
+B516:2:192,Mischocyttarus tarmensis,,Mischocyttarus,,tarmensis,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,43N49,1309823,43N49,1309823
+B516:2:193,Mischocyttarus wagneri,,Mischocyttarus,,wagneri,,species,,B516:2,accepted,,,B516:2:173,Phi,,,,,,Polistinae,Mischocyttarus,Phi,Polistinae | Mischocyttarus | Phi,73LPX,1309971,73LPX,1309971
+B516:2:194,Ropalidia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Ropalidia,,Polistinae,63RV3,1311012,63RV3,1311012
+B516:2:195,Ropalidia ambigua,,Ropalidia,,ambigua,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:196,Ropalidia anarchica,,Ropalidia,,anarchica,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:197,Ropalidia antennata,,Ropalidia,,antennata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBV5,1311199,4TBV5,1311199
+B516:2:198,Ropalidia aristocratica,,Ropalidia,,aristocratica,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBV7,1311178,4TBV7,1311178
+B516:2:199,Ropalidia artifex,,Ropalidia,,artifex,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBV8,1311156,4TBV8,1311156
+B516:2:200,Ropalidia bambusae,,Ropalidia,,bambusae,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBVB,1311073,4TBVB,1311073
+B516:2:201,Ropalidia bicincta,,Ropalidia,,bicincta,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,6X8C8,1311276,6X8C8,1311276
+B516:2:202,Ropalidia bilineata,,Ropalidia,,bilineata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:203,Ropalidia brazzai,,Ropalidia,,brazzai,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBVM,1311042,4TBVM,1311042
+B516:2:204,Ropalidia cabeti,,Ropalidia,,cabeti,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:205,Ropalidia capensis,,Ropalidia,,capensis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBVR,1311241,4TBVR,1311241
+B516:2:206,Ropalidia carinata,,Ropalidia,,carinata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBVS,1311214,4TBVS,1311214
+B516:2:207,Ropalidia cincta,,Ropalidia,,cincta,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBVV,1311149,4TBVV,1311149
+B516:2:208,Ropalidia constitutionalis,,Ropalidia,,constitutionalis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBW3,1311270,4TBW3,1311270
+B516:2:209,Ropalidia cyathiformis,,Ropalidia,,cyathiformis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,78WC8,1311121,78WC8,1311121
+B516:2:210,Ropalidia distigma,,Ropalidia,,distigma,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBWK,1311267,4TBWK,1311267
+B516:2:211,Ropalidia fasciata,,Ropalidia,,fasciata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBWX,1311296,4TBWX,1311296
+B516:2:212,Ropalidia ferruginea,,Ropalidia,,ferruginea,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:213,Ropalidia flavopicta,,Ropalidia,,flavopicta,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBX3,1311200,4TBX3,1311200
+B516:2:214,Ropalidia flavoviridis,,Ropalidia,,flavoviridis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBX4,1311230,4TBWM,1311229
+B516:2:215,Ropalidia formosa,,Ropalidia,,formosa,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBX6,1311097,4TBX6,1311097
+B516:2:216,Ropalidia galimatia,,Ropalidia,,galimatia,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,6WWBV,1311013,6WWBV,1311013
+B516:2:217,Ropalidia guttatipennis,,Ropalidia,,guttatipennis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXJ,1311088,4TBXJ,1311088
+B516:2:218,Ropalidia grandidieri,,Ropalidia,,grandidieri,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXF,1311196,4TBXF,1311196
+B516:2:219,Ropalidia granulata,,Ropalidia,,granulata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXG,1311173,4TBXG,1311173
+B516:2:220,Ropalidia gregaria,,Ropalidia,,gregaria,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXH,1311134,4TBXH,1311134
+B516:2:221,Ropalidia honkongensis,,Ropalidia,,honkongensis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXL,1311043,4TBXL,1311043
+B516:2:222,Ropalidia horni,,Ropalidia,,horni,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBXM,1311274,4TBXM,1311274
+B516:2:223,Ropalidia ignobilis,,Ropalidia,,ignobilis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:224,Ropalidia jacobsoni,,Ropalidia,,jacobsoni,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBY4,1311084,4TBY4,1311084
+B516:2:225,Ropalidia lacustris,,Ropalidia,,lacustris,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:226,Ropalidia latebalteata,,Ropalidia,,latebalteata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYB,1311271,4TBYB,1311271
+B516:2:227,Ropalidia maculiventris,,Ropalidia,,maculiventris,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYP,1311025,4TBYP,1311025
+B516:2:228,Ropalidia madecassa,,Ropalidia,,madecassa,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:229,Ropalidia malayana,,Ropalidia,,malayana,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYS,1311207,4TBYS,1311207
+B516:2:230,Ropalidia marginata,,Ropalidia,,marginata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYT,1311181,4TBYT,1311181
+B516:2:231,Ropalidia mathematica,,Ropalidia,,mathematica,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,78WC7,1311050,78WC7,1311050
+B516:2:232,Ropalidia melania,,Ropalidia,,melania,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYV,1311300,4TBYV,1311300
+B516:2:233,Ropalidia minor,,Ropalidia,,minor,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBYX,1311039,4TBYX,1311039
+B516:2:234,Ropalidia morosa,,Ropalidia,,morosa,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:235,Ropalidia nitidula,,Ropalidia,,nitidula,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBZD,1311277,4TBZD,1311277
+B516:2:236,Ropalidia nobilis,,Ropalidia,,nobilis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,798C7,1311249,798C7,1311249
+B516:2:237,Ropalidia opifex,,Ropalidia,,opifex,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBZM,1311138,4TBZM,1311138
+B516:2:238,Ropalidia phalansterica,,Ropalidia,,phalansterica,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBZV,1311291,4TBZV,1311291
+B516:2:239,Ropalidia picta,,Ropalidia,,picta,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:240,Ropalidia plebeiana,,Ropalidia,,plebeiana,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TBZZ,1311170,4TBZZ,1311170
+B516:2:241,Ropalidia prasina,,Ropalidia,,prasina,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC23,1311129,4TC23,1311129
+B516:2:242,Ropalidia ranavali,,Ropalidia,,ranavali,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC29,1311068,4TC29,1311068
+B516:2:243,Ropalidia revolutionalis,,Ropalidia,,revolutionalis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC2C,1311272,4TC2C,1311272
+B516:2:244,Ropalidia romandi,,Ropalidia,,romandi,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,78WBY,1311237,78WBY,1311237
+B516:2:245,Ropalidia rufoplagiata,,Ropalidia,,rufoplagiata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC2H,1311146,4TC2H,1311146
+B516:2:246,Ropalidia schultessi,,Ropalidia,,schultessi,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC2M,1311305,4TC2M,1311305
+B516:2:247,Ropalidia shestakovi,,Ropalidia,,shestakovi,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC2V,1311187,4TC2V,1311187
+B516:2:248,Ropalidia stigma,,Ropalidia,,stigma,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC34,1311055,4TC34,1311055
+B516:2:249,Ropalidia sumatrae,,Ropalidia,,sumatrae,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC36,1311258,4TC36,1311258
+B516:2:250,Ropalidia timida,,Ropalidia,,timida,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,6WWBX,1311160,6WWBX,1311160
+B516:2:251,Ropalidia tomentosa,,Ropalidia,,tomentosa,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC3C,1311142,4TC3C,1311142
+B516:2:252,Ropalidia turneri,,Ropalidia,,turneri,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC3H,1311076,4TC3H,1311076
+B516:2:253,Ropalidia variabilis,,Ropalidia,,variabilis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC3L,1311295,4TC3L,1311295
+B516:2:254,Ropalidia variegata,,Ropalidia,,variegata,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC3M,1311278,4TC3M,1311278
+B516:2:255,Ropalidia vitripennis,,Ropalidia,,vitripennis,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,4TC3S,1311197,4TC3S,1311197
+B516:2:256,Ropalidia xanthura,,Ropalidia,,xanthura,,species,,B516:2,accepted,,,B516:2:194,Ropalidia,,,,,,Polistinae,Ropalidia,,Polistinae | Ropalidia,,,,
+B516:2:257,Parapolybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Parapolybia,,Polistinae,6GD5,1311769,6GD5,1311769
+B516:2:258,Parapolybia nodosa,,Parapolybia,,nodosa,,species,,B516:2,accepted,,,B516:2:257,Parapolybia,,,,,,Polistinae,Parapolybia,,Polistinae | Parapolybia,4D9FY,1311772,4D9FY,1311772
+B516:2:259,Parapolybia orientalis,,Parapolybia,,orientalis,,species,,B516:2,accepted,,,B516:2:257,Parapolybia,,,,,,Polistinae,Parapolybia,,Polistinae | Parapolybia,,,,
+B516:2:260,Parapolybia varia,,Parapolybia,,varia,,species,,B516:2,accepted,,,B516:2:257,Parapolybia,,,,,,Polistinae,Parapolybia,,Polistinae | Parapolybia,4D9G3,1311773,4D9G3,1311773
+B516:2:261,Polybioides,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Polybioides,,Polistinae,6TWX,1310120,6TWX,1310120
+B516:2:262,Polybioides melainus,,Polybioides,,melainus,,species,,B516:2,accepted,,,B516:2:261,Polybioides,,,,,,Polistinae,Polybioides,,Polistinae | Polybioides,4L28N,1310121,4L28N,1310121
+B516:2:263,Polybioides raphigastra,,Polybioides,,raphigastra,,species,,B516:2,accepted,,,B516:2:261,Polybioides,,,,,,Polistinae,Polybioides,,Polistinae | Polybioides,4L28Q,1310122,4L28Q,1310122
+B516:2:264,Polybioides tabidus,,Polybioides,,tabidus,,species,,B516:2,accepted,,,B516:2:261,Polybioides,,,,,,Polistinae,Polybioides,,Polistinae | Polybioides,4L28R,1310131,4L28R,1310131
+B516:2:265,Belonogaster,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Belonogaster,,Polistinae,62GH5,1310193,62GH5,1310193
+B516:2:266,Belonogaster abyssinica,,Belonogaster,,abyssinica,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBVQ,1310194,LBVQ,1310194
+B516:2:267,Belonogaster brachycera,,Belonogaster,,brachycera,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBW8,1310239,LBW2,1310238
+B516:2:268,Belonogaster brevipetiolata,,Belonogaster,,brevipetiolata,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWB,1310214,LBWB,1310214
+B516:2:269,Belonogaster brunnea,,Belonogaster,,brunnea,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWD,1310276,LBWD,1310276
+B516:2:270,Belonogaster clypeata,,Belonogaster,,clypeata,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWH,1310219,LBWH,1310219
+B516:2:271,Belonogaster discifera,,Belonogaster,,discifera,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWK,1310290,LBWK,1310290
+B516:2:272,Belonogaster dubia,,Belonogaster,,dubia,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWM,1310263,LBWM,1310263
+B516:2:273,Belonogaster eumenoides,,Belonogaster,,eumenoides,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWR,1310227,LBWR,1310227
+B516:2:274,Belonogaster filiventris,,Belonogaster,,filiventris,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBWW,1310231,LBWW,1310231
+B516:2:275,Belonogaster fulvipennis,,Belonogaster,,fulvipennis,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBX2,1310281,LBX5,1310296
+B516:2:276,Belonogaster grisea,,Belonogaster,,grisea,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBX5,1310296,LBX5,1310296
+B516:2:277,Belonogaster guerini,,Belonogaster,,guerini,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBX6,1310258,LBX6,1310258
+B516:2:278,Belonogaster juncea,,Belonogaster,,juncea,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBXC,1310245,LBXC,1310245
+B516:2:279,Belonogaster rufipennis,,Belonogaster,,rufipennis,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,,,,
+B516:2:280,Belonogaster vassae,,Belonogaster,,vassae,,species,,B516:2,accepted,,,B516:2:265,Belonogaster,,,,,,Polistinae,Belonogaster,,Polistinae | Belonogaster,LBYZ,1310262,LBYZ,1310262
+B516:2:281,Apoica,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Apoica,,Polistinae,YY2,1310488,YY2,1310488
+B516:2:282,Apoica flavissima,,Apoica,,flavissima,,species,,B516:2,accepted,,,B516:2:281,Apoica,,,,,,Polistinae,Apoica,,Polistinae | Apoica,FTCX,1310493,FTCX,1310493
+B516:2:283,Apoica gelida,,Apoica,,gelida,,species,,B516:2,accepted,,,B516:2:281,Apoica,,,,,,Polistinae,Apoica,,Polistinae | Apoica,FTCY,1310490,FTCY,1310490
+B516:2:284,Apoica pallens,,Apoica,,pallens,,species,,B516:2,accepted,,,B516:2:281,Apoica,,,,,,Polistinae,Apoica,,Polistinae | Apoica,FTCZ,1310495,FTCZ,1310495
+B516:2:285,Apoica pallida,,Apoica,,pallida,,species,,B516:2,accepted,,,B516:2:281,Apoica,,,,,,Polistinae,Apoica,,Polistinae | Apoica,FTD2,1310489,FTD2,1310489
+B516:2:286,Apoica thoracica,,Apoica,,thoracica,,species,,B516:2,accepted,,,B516:2:281,Apoica,,,,,,Polistinae,Apoica,,Polistinae | Apoica,FTD4,1310492,FTD4,1310492
+B516:2:287,Agelaia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Agelaia,,Polistinae,629D7,1310134,629D7,1310134
+B516:2:288,Agelaia angulata,,Agelaia,,angulata,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,662DQ,1310164,662DQ,1310164
+B516:2:289,Agelaia areata,,Agelaia,,areata,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,65QDN,1310168,65QDN,1310168
+B516:2:290,Agelaia cajennensis,,Agelaia,,cajennensis,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,5TQD4,1310154,5TQD4,1310154
+B516:2:291,Agelaia flavipennis,,Agelaia,,flavipennis,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,5TQCT,1310141,5TQCT,1310141
+B516:2:292,Agelaia fulvofasciata,,Agelaia,,fulvofasciata,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,5TQD5,1310176,5TQD5,1310176
+B516:2:293,Agelaia lobipleura,,Agelaia,,lobipleura,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,662D5,1310142,662D5,1310142
+B516:2:294,Agelaia myrmecophila,,Agelaia,,myrmecophila,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,65QD2,1310144,65QD2,1310144
+B516:2:295,Agelaia pallipes,,Agelaia,,pallipes,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,65QCR,1310145,65QCR,1310145
+B516:2:296,Agelaia vicina,,Agelaia,,vicina,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,65QCW,1310152,65QCW,1310152
+B516:2:297,Agelaia xanthopus,,Agelaia,,xanthopus,,species,,B516:2,accepted,,,B516:2:287,Agelaia,,,,,,Polistinae,Agelaia,,Polistinae | Agelaia,65QD8,1310137,65QD8,1310137
+B516:2:298,Angiopolybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Angiopolybia,,Polistinae,W5M,1311731,W5M,1311731
+B516:2:299,Angiopolybia pallens,,Angiopolybia,,pallens,,species,,B516:2,accepted,,,B516:2:298,Angiopolybia,,,,,,Polistinae,Angiopolybia,,Polistinae | Angiopolybia,6734N,1311737,6734N,1311737
+B516:2:300,Angiopolybia paraensis,,Angiopolybia,,paraensis,,species,,B516:2,accepted,,,B516:2:298,Angiopolybia,,,,,,Polistinae,Angiopolybia,,Polistinae | Angiopolybia,5V366,1311734,5V366,1311734
+B516:2:301,Pseudopolybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Pseudopolybia,,Polistinae,,7235969,,7235969
+B516:2:302,Pseudopolybia compressa,,Pseudopolybia,,compressa,,species,,B516:2,accepted,,,B516:2:301,Pseudopolybia,,,,,,Polistinae,Pseudopolybia,,Polistinae | Pseudopolybia,4P8HF,5032935,4CPC3,6247576
+B516:2:303,Pseudopolybia difficilis,,Pseudopolybia,,difficilis,,species,,B516:2,accepted,,,B516:2:301,Pseudopolybia,,,,,,Polistinae,Pseudopolybia,,Polistinae | Pseudopolybia,4P8HG,5032934,4CPC4,6247572
+B516:2:304,Pseudopolybia vespiceps,,Pseudopolybia,,vespiceps,,species,,B516:2,accepted,,,B516:2:301,Pseudopolybia,,,,,,Polistinae,Pseudopolybia,,Polistinae | Pseudopolybia,9XC6V,5032936,4CPCJ,6247577
+B516:2:305,Parachartergus,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Parachartergus,,Polistinae,6DYB,1310084,6DYB,1310084
+B516:2:306,Parachartergus apicalis,,Parachartergus,,apicalis,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPBV,1310086,4CPBV,1310086
+B516:2:307,Parachartergus aztecus,,Parachartergus,,aztecus,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPBX,1310104,4CPBX,1310104
+B516:2:308,Parachartergus colobopterus,,Parachartergus,,colobopterus,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPC2,1310085,4CPC2,1310085
+B516:2:309,Parachartergus fraternus,,Parachartergus,,fraternus,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPC7,1310088,4CPC7,1310088
+B516:2:310,Parachartergus fulgidipennis,,Parachartergus,,fulgidipennis,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPC8,1310098,4CPC8,1310098
+B516:2:311,Parachartergus richardsi,,Parachartergus,,richardsi,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPCF,1310108,4CPCF,1310108
+B516:2:312,Parachartergus smithii,,Parachartergus,,smithii,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPCG,1310092,4CPCG,1310092
+B516:2:313,Parachartergus weyrauchi,,Parachartergus,,weyrauchi,,species,,B516:2,accepted,,,B516:2:305,Parachartergus,,,,,,Polistinae,Parachartergus,,Polistinae | Parachartergus,4CPCL,1310094,4CPCL,1310094
+B516:2:314,Chartergellus,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Chartergellus,,Polistinae,3MC2,1311759,3MC2,1311759
+B516:2:315,Chartergellus amazonicus,,Chartergellus,,amazonicus,,species,,B516:2,accepted,,,B516:2:314,Chartergellus,,,,,,Polistinae,Chartergellus,,Polistinae | Chartergellus,TPP2,5871407,TPP2,5871407
+B516:2:316,Chartergellus communis,,Chartergellus,,communis,,species,,B516:2,accepted,,,B516:2:314,Chartergellus,,,,,,Polistinae,Chartergellus,,Polistinae | Chartergellus,TPP5,1311765,TPP5,1311765
+B516:2:317,Chartergellus punctatior,,Chartergellus,,punctatior,,species,,B516:2,accepted,,,B516:2:314,Chartergellus,,,,,,Polistinae,Chartergellus,,Polistinae | Chartergellus,TPP8,1311768,TPP8,1311768
+B516:2:318,Nectarinella,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Nectarinella,,Polistinae,5Y75,1311744,5Y75,1311744
+B516:2:319,Nectarinella championi,,Nectarinella,,championi,,species,,B516:2,accepted,,,B516:2:318,Nectarinella,,,,,,Polistinae,Nectarinella,,Polistinae | Nectarinella,462MF,1311745,462MF,1311745
+B516:2:320,Leipomeles,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Leipomeles,,Polistinae,5BZQ,1311748,5BZQ,1311748
+B516:2:321,Leipomeles dorsata,,Leipomeles,,dorsata,,species,,B516:2,accepted,,,B516:2:320,Leipomeles,,,,,,Polistinae,Leipomeles,,Polistinae | Leipomeles,3T2W2,6247514,3T2W2,6247514
+B516:2:322,Leipomeles nana,,Leipomeles,,nana,,species,,B516:2,accepted,,,B516:2:320,Leipomeles,,,,,,Polistinae,Leipomeles,,Polistinae | Leipomeles,,,,
+B516:2:323,Marimbonda,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Marimbonda,,Polistinae,,1311600,,1311600
+B516:2:324,Marimbonda albogrisea,,Marimbonda,,albogrisea,,species,,B516:2,accepted,,,B516:2:323,Marimbonda,,,,,,Polistinae,Marimbonda,,Polistinae | Marimbonda,3Y6LG,1311756,3T2VZ,1311755
+B516:2:325,Synoeca,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Synoeca,,Polistinae,7RBT,1311714,7RBT,1311714
+B516:2:326,Synoeca chalibea,,Synoeca,,chalibea,,species,,B516:2,accepted,,,B516:2:325,Synoeca,,,,,,Polistinae,Synoeca,,Polistinae | Synoeca,53XW8,1311725,53XW8,1311725
+B516:2:327,Synoeca cyanea,,Synoeca,,cyanea,,species,,B516:2,accepted,,,B516:2:325,Synoeca,,,,,,Polistinae,Synoeca,,Polistinae | Synoeca,53XW9,1311718,53XW9,1311718
+B516:2:328,Synoeca septentrionalis,,Synoeca,,septentrionalis,,species,,B516:2,accepted,,,B516:2:325,Synoeca,,,,,,Polistinae,Synoeca,,Polistinae | Synoeca,7B9P2,1311727,7B9P2,1311727
+B516:2:329,Synoeca surinama,,Synoeca,,surinama,,species,,B516:2,accepted,,,B516:2:325,Synoeca,,,,,,Polistinae,Synoeca,,Polistinae | Synoeca,53XWC,1311722,53XWC,1311722
+B516:2:330,Synoeca virginea,,Synoeca,,virginea,,species,,B516:2,accepted,,,B516:2:325,Synoeca,,,,,,Polistinae,Synoeca,,Polistinae | Synoeca,53XWG,1311715,53XWG,1311715
+B516:2:331,Clypearia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Clypearia,,Polistinae,62KWT,1311003,62KX5,1311003
+B516:2:332,Clypearia duckei,,Clypearia,,duckei,,species,,B516:2,accepted,,,B516:2:331,Clypearia,,,,,,Polistinae,Clypearia,,Polistinae | Clypearia,WDWK,5032887,WDWK,5032887
+B516:2:333,Clypearia sulcata,,Clypearia,,sulcata,,species,,B516:2,accepted,,,B516:2:331,Clypearia,,,,,,Polistinae,Clypearia,,Polistinae | Clypearia,WDWR,5032883,WDWR,5032883
+B516:2:334,Clypearia weyrauchi,,Clypearia,,weyrauchi,,species,,B516:2,accepted,,,B516:2:331,Clypearia,,,,,,Polistinae,Clypearia,,Polistinae | Clypearia,WDWS,5032890,WDWS,5032890
+B516:2:335,Metapolybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Metapolybia,,Polistinae,5QK9,1310465,5QK9,1310465
+B516:2:336,Metapolybia acincta,,Metapolybia,,acincta,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CNB,1310467,42CNB,1310467
+B516:2:337,Metapolybia azteca,,Metapolybia,,azteca,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CNC,1310472,42CNC,1310472
+B516:2:338,Metapolybia aztecoides,,Metapolybia,,aztecoides,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CND,1310478,42CND,1310478
+B516:2:339,Metapolybia cingulata,,Metapolybia,,cingulata,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CNF,1310479,42CNF,1310479
+B516:2:340,Metapolybia docilis,,Metapolybia,,docilis,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CNH,1310474,42CNH,1310474
+B516:2:341,Metapolybia suffusa,,Metapolybia,,suffusa,,species,,B516:2,accepted,,,B516:2:335,Metapolybia,,,,,,Polistinae,Metapolybia,,Polistinae | Metapolybia,42CNR,1310475,42CNR,1310475
+B516:2:342,Asteloeca,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Asteloeca,,Polistinae,62DY9,1310497,62DY9,1310497
+B516:2:343,Asteloeca traili,,Asteloeca,,traili,,species,,B516:2,accepted,,,B516:2:342,Asteloeca,,,,,,Polistinae,Asteloeca,,Polistinae | Asteloeca,686KS,1310498,686KS,1310498
+B516:2:344,Protopolybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Protopolybia,,Polistinae,6XWM,1311851,6XWM,1311851
+B516:2:345,Protopolybia including Pseudochartergus,Pseudochartergus,Protopolybia,,including,,species,,B516:2,heterotypic synonym,B516:2:344,Protopolybia,,,,,,,,Polistinae,Protopolybia,,Polistinae,,,,
+B516:2:346,Protopolybia acutiscutis,,Protopolybia,,acutiscutis,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6NN,1311864,4N6NN,1311864
+B516:2:347,Protopolybia biguttata,,Protopolybia,,biguttata,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6NT,1311879,4N6NT,1311879
+B516:2:348,Protopolybia chanchamayensis,,Protopolybia,,chanchamayensis,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6NW,1311859,4N6NW,1311859
+B516:2:349,Protopolybia chartergoides,,Protopolybia,,chartergoides,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6NX,1311881,4N6NX,1311881
+B516:2:350,Protopolybia exigua,,Protopolybia,,exigua,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6P3,1311872,4N6P3,1311872
+B516:2:351,Protopolybia fuscatus,,Protopolybia,,fuscatus,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6P4,1311852,4N6P4,1311852
+B516:2:352,Protopolybia holoxantha,,Protopolybia,,holoxantha,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6P5,1311875,4N6P5,1311875
+B516:2:353,Protopolybia minutissima,,Protopolybia,,minutissima,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6P8,1311876,4N6P8,1311876
+B516:2:354,Protopolybia pallidibaleatus,,Protopolybia,,pallidibaleatus,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,6VYGB,1311854,6VYGB,1311854
+B516:2:355,Protopolybia panamensis,,Protopolybia,,panamensis,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PB,1311865,4N6PB,1311865
+B516:2:356,Protopolybia picteti,,Protopolybia,,picteti,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PD,1311877,4N6PD,1311877
+B516:2:357,Protopolybia sedula,,Protopolybia,,sedula,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PK,1311885,4N6PK,1311885
+B516:2:358,Protopolybia scutellaris,,Protopolybia,,scutellaris,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PJ,1311860,4N6PJ,1311860
+B516:2:359,Protopolybia weyrauchi,,Protopolybia,,weyrauchi,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PM,1311888,4N6PM,1311888
+B516:2:360,Protopolybia wheeleri,,Protopolybia,,wheeleri,,species,,B516:2,accepted,,,B516:2:344,Protopolybia,,,,,,Polistinae,Protopolybia,,Polistinae | Protopolybia,4N6PN,1311871,4N6PN,1311871
+B516:2:361,Charterginus,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Charterginus,,Polistinae,3MC3,1311621,3MC3,1311621
+B516:2:362,Charterginus aberrans,,Charterginus,,aberrans,,species,,B516:2,accepted,,,B516:2:361,Charterginus,,,,,,Polistinae,Charterginus,,Polistinae | Charterginus,,,,
+B516:2:363,Charterginus fulvus,,Charterginus,,fulvus,,species,,B516:2,accepted,,,B516:2:361,Charterginus,,,,,,Polistinae,Charterginus,,Polistinae | Charterginus,5XQ39,1311627,5XQ39,1311627
+B516:2:364,Charterginus nevermanni,,Charterginus,,nevermanni,,species,,B516:2,accepted,,,B516:2:361,Charterginus,,,,,,Polistinae,Charterginus,,Polistinae | Charterginus,TPPF,1311625,TPPF,1311625
+B516:2:365,Chartergus,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Chartergus,,Polistinae,3MC4,1311565,3MC4,1311565
+B516:2:366,Chartergus chartarius,,Chartergus,,chartarius,,species,,B516:2,accepted,,,B516:2:365,Chartergus,,,,,,Polistinae,Chartergus,,Polistinae | Chartergus,,,,
+B516:2:367,Chartergus globiventris,,Chartergus,,globiventris,,species,,B516:2,accepted,,,B516:2:365,Chartergus,,,,,,Polistinae,Chartergus,,Polistinae | Chartergus,TPPT,1311566,TPPT,1311566
+B516:2:368,Chartergus metanotalis,,Chartergus,,metanotalis,,species,,B516:2,accepted,,,B516:2:365,Chartergus,,,,,,Polistinae,Chartergus,,Polistinae | Chartergus,5XPQX,1311572,5XPQX,1311572
+B516:2:369,Brachygastra,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Brachygastra,,Polistinae,3CCQ,1310045,3CCQ,1310045
+B516:2:370,Brachygastra augusti,,Brachygastra,,augusti,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW7Q,1310065,MW7Q,1310065
+B516:2:371,Brachygastra azteca,,Brachygastra,,azteca,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW7S,1310082,MW7S,1310082
+B516:2:372,Brachygastra bilineolata,,Brachygastra,,bilineolata,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,69244,1310068,69244,1310068
+B516:2:373,Brachygastra lecheguana,,Brachygastra,,lecheguana,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW7Z,1310057,MW7Z,1310057
+B516:2:374,Brachygastra mellifica,,Brachygastra,,mellifica,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW82,1310047,MW82,1310047
+B516:2:375,Brachygastra scutellaris,,Brachygastra,,scutellaris,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW87,1310077,MW87,1310077
+B516:2:376,Brachygastra smithii,,Brachygastra,,smithii,,species,,B516:2,accepted,,,B516:2:369,Brachygastra,,,,,,Polistinae,Brachygastra,,Polistinae | Brachygastra,MW88,1310053,MW88,1310053
+B516:2:377,Protonectarina,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Protonectarina,,Polistinae,63PKR,1311597,63PKR,1311597
+B516:2:378,Protonectarina sylveirae,,Protonectarina,,sylveirae,,species,,B516:2,accepted,,,B516:2:377,Protonectarina,,,,,,Polistinae,Protonectarina,,Polistinae | Protonectarina,4N69R,1311598,4N69R,1311598
+B516:2:379,Polybia,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Polybia,,Polistinae,6TWV,7235975,6TWV,7235975
+B516:2:380,Alpha,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Alpha,Polistinae | Polybia,8PN24,,8NNFB,
+B516:2:381,Polybia bifasciata,,Polybia,,bifasciata,,species,,B516:2,accepted,,,B516:2:380,Alpha,,,,,,Polistinae,Polybia,Alpha,Polistinae | Polybia | Alpha,4L24M,5032829,4L24M,5032829
+B516:2:382,Apopolybia,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Apopolybia,Polistinae | Polybia,,,,
+B516:2:383,Polybia jurinei,,Polybia,,jurinei,,species,,B516:2,accepted,,,B516:2:382,Apopolybia,,,,,,Polistinae,Polybia,Apopolybia,Polistinae | Polybia | Apopolybia,4L262,5032821,4L262,5032821
+B516:2:384,Cylindroeca,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Cylindroeca,Polistinae | Polybia,,,,
+B516:2:385,Polybia dimidiata,,Polybia,,dimidiata,,species,,B516:2,accepted,,,B516:2:384,Cylindroeca,,,,,,Polistinae,Polybia,Cylindroeca,Polistinae | Polybia | Cylindroeca,4L258,5032820,4L258,5032820
+B516:2:386,Formicicola,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Formicicola,Polistinae | Polybia,,,,
+B516:2:387,Polybia rejecta,,Polybia,,rejecta,,species,,B516:2,accepted,,,B516:2:386,Formicicola,,,,,,Polistinae,Polybia,Formicicola,Polistinae | Polybia | Formicicola,4L27H,5032861,4L27H,5032861
+B516:2:388,Furnariana,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Furnariana,Polistinae | Polybia,,,,
+B516:2:389,Polybia funmaria,,Polybia,,funmaria,,species,,B516:2,accepted,,,B516:2:388,Furnariana,,,,,,Polistinae,Polybia,Furnariana,Polistinae | Polybia | Furnariana,,,,
+B516:2:390,Polybia richardsi,,Polybia,,richardsi,,species,,B516:2,accepted,,,B516:2:388,Furnariana,,,,,,Polistinae,Polybia,Furnariana,Polistinae | Polybia | Furnariana,4L27K,5032834,4L27K,5032834
+B516:2:391,Myrapetra,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia,,,,
+B516:2:392,Polybia belemensis,,Polybia,,belemensis,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L24H,5032771,4L24H,5032771
+B516:2:393,Polybia bicyttarella,,Polybia,,bicyttarella,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L24L,5032813,4L24L,5032813
+B516:2:394,Polybia bistriata,,Polybia,,bistriata,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L24N,5032793,4L24N,5032793
+B516:2:395,Polybia catillifex,,Polybia,,catillifex,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L24V,5032758,4L24V,5032758
+B516:2:396,Polybia diguetana,,Polybia,,diguetana,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L256,5032836,4L256,5032836
+B516:2:397,Polybia dimorpha,,Polybia,,dimorpha,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L259,5032796,4L259,5032796
+B516:2:398,Polybia erythrothorax,,Polybia,,erythrothorax,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,7853Y,5032825,7853Y,5032825
+B516:2:399,Polybia flavifrons,,Polybia,,flavifrons,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L25J,5032773,4L25J,5032773
+B516:2:400,Polybia juruana,,Polybia,,juruana,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L263,5032797,4L263,5032797
+B516:2:401,Polybia occidentalis,,Polybia,,occidentalis,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L26X,5032852,4L26X,5032852
+B516:2:402,Polybia parvulina,,Polybia,,parvulina,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L274,5032839,4L274,5032839
+B516:2:403,Polybia paulista,,Polybia,,paulista,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L275,5032823,4L275,5032823
+B516:2:404,Polybia platycephala,,Polybia,,platycephala,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L279,5032798,4L279,5032798
+B516:2:405,Polybia ruficeps,,Polybia,,ruficeps,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L27M,5032815,4L27M,5032815
+B516:2:406,Polybia scrobalis,,Polybia,,scrobalis,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L27R,5032840,4L27R,5032840
+B516:2:407,Polybia scutellaris,,Polybia,,scutellaris,,species,,B516:2,accepted,,,B516:2:391,Myrapetra,,,,,,Polistinae,Polybia,Myrapetra,Polistinae | Polybia | Myrapetra,4L27S,5032770,4L27S,5032770
+B516:2:408,Pedotheca,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Pedotheca,Polistinae | Polybia,,,,
+B516:2:409,Polybia emaciata,,Polybia,,emaciata,,species,,B516:2,accepted,,,B516:2:408,Pedotheca,,,,,,Polistinae,Polybia,Pedotheca,Polistinae | Polybia | Pedotheca,4L25C,5032844,4L25C,5032844
+B516:2:410,Polybia singularis,,Polybia,,singularis,,species,,B516:2,accepted,,,B516:2:408,Pedotheca,,,,,,Polistinae,Polybia,Pedotheca,Polistinae | Polybia | Pedotheca,4L282,5032811,4L282,5032811
+B516:2:411,Polybia spinifex,,Polybia,,spinifex,,species,,B516:2,accepted,,,B516:2:408,Pedotheca,,,,,,Polistinae,Polybia,Pedotheca,Polistinae | Polybia | Pedotheca,4L285,5032792,4L285,5032792
+B516:2:412,Polybia,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Polybia,Polistinae | Polybia,6TWV,,6TWV,
+B516:2:413,Polybia liliacea,,Polybia,,liliacea,,species,,B516:2,accepted,,,B516:2:412,Polybia,,,,,,Polistinae,Polybia,Polybia,Polistinae | Polybia | Polybia,4L266,5032785,4L266,5032785
+B516:2:414,Polybia striata,,Polybia,,striata,,species,,B516:2,accepted,,,B516:2:412,Polybia,,,,,,Polistinae,Polybia,Polybia,Polistinae | Polybia | Polybia,4L286,5032780,4L286,5032780
+B516:2:415,Platypolybia,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Platypolybia,Polistinae | Polybia,,,,
+B516:2:416,Polybia incerta,,Polybia,,incerta,,species,,B516:2,accepted,,,B516:2:415,Platypolybia,,,,,,Polistinae,Polybia,Platypolybia,Polistinae | Polybia | Platypolybia,4L25T,5032837,4L25T,5032837
+B516:2:417,Polybia procellosa,,Polybia,,procellosa,,species,,B516:2,accepted,,,B516:2:415,Platypolybia,,,,,,Polistinae,Polybia,Platypolybia,Polistinae | Polybia | Platypolybia,4L27B,5032877,4L27B,5032877
+B516:2:418,Trichinothorax,,,,,,subgenus,,B516:2,accepted,,,B516:2:379,Polybia,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia,,,,
+B516:2:419,Polybia affinis,,Polybia,,affinis,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L245,5032843,4L245,5032843
+B516:2:420,Polybia chrysothorax,,Polybia,,chrysothorax,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L24Y,5032867,4L24Y,5032867
+B516:2:421,Polybia flavitincta,,Polybia,,flavitincta,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L25K,5032832,4L25K,5032832
+B516:2:422,Polybia rufitarsis,,Polybia,,rufitarsis,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L27P,5032762,4L27P,5032762
+B516:2:423,Polybia sericea,,Polybia,,sericea,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L27V,5032751,4L27V,5032751
+B516:2:424,Polybia tinctipennis,,Polybia,,tinctipennis,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,4L28C,5032755,4L28C,5032755
+B516:2:425,Polybia velutina,,Polybia,,velutina,,species,,B516:2,accepted,,,B516:2:418,Trichinothorax,,,,,,Polistinae,Polybia,Trichinothorax,Polistinae | Polybia | Trichinothorax,6VSQB,5032818,6VSQB,5032818
+B516:2:426,Synoecoides,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Synoecoides,,Polistinae,,1311791,,1311791
+B516:2:427,Synoecoides depressus,,Synoecoides,,depressus,,species,,B516:2,accepted,,,B516:2:426,Synoecoides,,,,,,Polistinae,Synoecoides,,Polistinae | Synoecoides,53XWY,1310413,4L255,5032835
+B516:2:428,Epipona,,,,,,genus,,B516:2,accepted,,,B516:2:26,Polistinae,,,,,,Polistinae,Epipona,,Polistinae,4DB4,1311704,4DB4,1311704
+B516:2:429,Epipona guerini,,Epipona,,guerini,,species,,B516:2,accepted,,,B516:2:428,Epipona,,,,,,Polistinae,Epipona,,Polistinae | Epipona,6FWL6,1311706,6FWL6,1311706
+B516:2:430,Epipona tatua,,Epipona,,tatua,,species,,B516:2,accepted,,,B516:2:428,Epipona,,,,,,Polistinae,Epipona,,Polistinae | Epipona,6FWKX,1311710,6FWKX,1311710

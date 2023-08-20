@@ -1,12 +1,12 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B140:1:1,Mecoptera,,,,,,order,,B140:1,accepted,,,,,,,,Mecoptera,,,,,,3J4,3256713
-B140:1:2,Boreidae,,,,,,family,,B140:1,accepted,,,B140:1:1,Mecoptera,,,,Mecoptera,Boreidae,,,,Mecoptera,7B3,4357
-B140:1:3,Boreus,,,,,,genus,,B140:1,accepted,,,B140:1:2,Boreidae,,,,Mecoptera,Boreidae,,Boreus,,Mecoptera | Boreidae,3BLS,1031891
-B140:1:4,Boreus hyemalis (L.),(L.),Boreus,,hyemalis,,species,,B140:1,accepted,,,B140:1:3,Boreus,,,,Mecoptera,Boreidae,,Boreus,,Mecoptera | Boreidae | Boreus,MJZS,4421212
-B140:1:5,Boreus westwoodi Hag.,Hag.,Boreus,,westwoodi,,species,,B140:1,accepted,,,B140:1:3,Boreus,,,,Mecoptera,Boreidae,,Boreus,,Mecoptera | Boreidae | Boreus,MK2B,4421209
-B140:1:6,Bittacidae,,,,,,family,,B140:1,accepted,,,B140:1:1,Mecoptera,,,,Mecoptera,Bittacidae,,,,Mecoptera,789,6991
-B140:1:7,Panorpidae,,,,,,family,,B140:1,accepted,,,B140:1:1,Mecoptera,,,,Mecoptera,Panorpidae,,,,Mecoptera,DWV,7925
-B140:1:8,Panorpa,,,,,,genus,,B140:1,accepted,,,B140:1:7,Panorpidae,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae,63JDZ,1031814
-B140:1:9,Panorpa germanica L.,L.,Panorpa,,germanica,,species,,B140:1,accepted,,,B140:1:8,Panorpa,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae | Panorpa,4CGFC,5742496
-B140:1:10,Panorpa communis L.,L.,Panorpa,,communis,,species,,B140:1,accepted,,,B140:1:8,Panorpa,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae | Panorpa,6TMC4,5742495
-B140:1:11,Panorpa cognata Rambur,Rambur,Panorpa,,cognata,,species,,B140:1,accepted,,,B140:1:8,Panorpa,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae | Panorpa,6TMBS,5742524
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B140:1:1,Mecoptera,,,,,,order,,B140:1,accepted,,,,,,,,Mecoptera,,,,,,8ZXXQ,3256713,928YP,1758873
+B140:1:2,Boreidae,,,,,,family,,B140:1,accepted,,,B140:1:1,Mecoptera,,,,Mecoptera,Boreidae,,,,Mecoptera,7B3,4357,7B3,4357
+B140:1:3,Boreus,,,,,,genus,,B140:1,accepted,,,B140:1:2,Boreidae,,,,Mecoptera,Boreidae,,Boreus,,Mecoptera | Boreidae,3BLS,1031891,3BLS,1031891
+B140:1:4,Boreus hyemalis (L.),(L.),Boreus,,hyemalis,,species,,B140:1,accepted,,,B140:1:3,Boreus,,,,Mecoptera,Boreidae,,Boreus,,Mecoptera | Boreidae | Boreus,MJZS,4421212,MJZS,4421212
+B140:1:5,Boreus westwoodi Hag.,Hag.,Boreus,,westwoodi,,species,,B140:1,accepted,,,B140:1:3,Boreus,,,,Mecoptera,Boreidae,,Boreus,,Mecoptera | Boreidae | Boreus,MK2B,4421209,MK2B,4421209
+B140:1:6,Bittacidae,,,,,,family,,B140:1,accepted,,,B140:1:1,Mecoptera,,,,Mecoptera,Bittacidae,,,,Mecoptera,789,6991,789,6991
+B140:1:7,Panorpidae,,,,,,family,,B140:1,accepted,,,B140:1:1,Mecoptera,,,,Mecoptera,Panorpidae,,,,Mecoptera,DWV,7925,DWV,7925
+B140:1:8,Panorpa,,,,,,genus,,B140:1,accepted,,,B140:1:7,Panorpidae,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae,63JDZ,1031814,63JDZ,1031814
+B140:1:9,Panorpa germanica L.,L.,Panorpa,,germanica,,species,,B140:1,accepted,,,B140:1:8,Panorpa,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae | Panorpa,4CGFC,5742496,4CGFC,5742496
+B140:1:10,Panorpa communis L.,L.,Panorpa,,communis,,species,,B140:1,accepted,,,B140:1:8,Panorpa,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae | Panorpa,6TMC4,5742495,6TMC4,5742495
+B140:1:11,Panorpa cognata Rambur,Rambur,Panorpa,,cognata,,species,,B140:1,accepted,,,B140:1:8,Panorpa,,,,Mecoptera,Panorpidae,,Panorpa,,Mecoptera | Panorpidae | Panorpa,6TMBS,5742524,6TMBS,5742524

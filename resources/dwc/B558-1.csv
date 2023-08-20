@@ -1,12 +1,12 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B558:1:1,Euphydryas,,,,,,genus,,B558:1,accepted,,,,,,,,,,,Euphydryas,,,928X8,1895130
-B558:1:2,Euphydryas aurinia,,Euphydryas,,aurinia,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535809
-B558:1:3,Euphydryas aurinia f. debilis,,Euphydryas,,aurinia,debilis,form,,B558:1,accepted,,,B558:1:2,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,,
-B558:1:4,Euphydryas aurinia f. glaciegenita,,Euphydryas,,aurinia,glaciegenita,form,,B558:1,accepted,,,B558:1:2,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,,
-B558:1:5,Euphydryas aurinia subsp. beckeri,,Euphydryas,,aurinia,beckeri,subspecies,,B558:1,accepted,,,B558:1:2,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,,9251969
-B558:1:6,Euphydryas maturna,,Euphydryas,,maturna,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535817
-B558:1:7,Euphydryas desfontainii,,Euphydryas,,desfontainii,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535819
-B558:1:8,Euphydryas intermedia,,Euphydryas,,intermedia,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535822
-B558:1:9,Euphydryas cynthia,,Euphydryas,,cynthia,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,7516869
-B558:1:10,Euphydryas cynthia subsp. alpicola,,Euphydryas,,cynthia,alpicola,subspecies,,B558:1,accepted,,,B558:1:9,Euphydryas cynthia,,,,,,,Euphydryas,,Euphydryas | Euphydryas cynthia,,9559782
-B558:1:11,Euphydryas iduna,,Euphydryas,,iduna,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535807
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B558:1:1,Euphydryas,,,,,,genus,,B558:1,accepted,,,,,,,,,,,Euphydryas,,,928X8,1895130,928X8,1895130
+B558:1:2,Euphydryas aurinia,,Euphydryas,,aurinia,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535809,,4535809
+B558:1:3,Euphydryas aurinia f. debilis,,Euphydryas,,aurinia,debilis,form,,B558:1,accepted,,,B558:1:2,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,,,,
+B558:1:4,Euphydryas aurinia f. glaciegenita,,Euphydryas,,aurinia,glaciegenita,form,,B558:1,accepted,,,B558:1:2,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,,,,
+B558:1:5,Euphydryas aurinia subsp. beckeri,,Euphydryas,,aurinia,beckeri,subspecies,,B558:1,accepted,,,B558:1:2,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,,9251969,,9519321
+B558:1:6,Euphydryas maturna,,Euphydryas,,maturna,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535817,,4535817
+B558:1:7,Euphydryas desfontainii,,Euphydryas,,desfontainii,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535819,,4535819
+B558:1:8,Euphydryas intermedia,,Euphydryas,,intermedia,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535822,,1902182
+B558:1:9,Euphydryas cynthia,,Euphydryas,,cynthia,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535804,,1902169
+B558:1:10,Euphydryas cynthia subsp. alpicola,,Euphydryas,,cynthia,alpicola,subspecies,,B558:1,accepted,,,B558:1:9,Euphydryas cynthia,,,,,,,Euphydryas,,Euphydryas | Euphydryas cynthia,,9559782,,1902169
+B558:1:11,Euphydryas iduna,,Euphydryas,,iduna,,species,,B558:1,accepted,,,B558:1:1,Euphydryas,,,,,,,Euphydryas,,Euphydryas,,4535807,,1902143

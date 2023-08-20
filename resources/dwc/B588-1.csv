@@ -1,14 +1,14 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B588:1:1,Nomada radoszkowskii (Schmied.),(Schmied.),Nomada,,radoszkowskii,,species,Loz.,B588:1,accepted,,,,,,,,,,,Nomada,,,47NFW,1343865
-B588:1:2,Nomada rhenana Mor.,Mor.,Nomada,,rhenana,,species,,B588:1,accepted,,,,,,,,,,,Nomada,,,47NFZ,1343847
-B588:1:3,Nomada xanthosticta Schenck,Schenck,Nomada,,xanthosticta,,species,nec K.,B588:1,synonym,B588:1:2,Nomada rhenana Mor.,,,,,,,,,Nomada,,,47NMP,1343310
-B588:1:4,Nomada rufipes Schenck,Schenck,Nomada,,rufipes,,species,nec F.,B588:1,synonym,B588:1:2,Nomada rhenana Mor.,,,,,,,,,Nomada,,,47NGX,1343593
-B588:1:5,Nomada sabulosa Rad.,Rad.,Nomada,,sabulosa,,species,,B588:1,accepted,,,,,,,,,,,Nomada,,,47NH4,1343546
-B588:1:6,Nomada macrocardia Pér.,Pér.,Nomada,,macrocardia,,species,,B588:1,synonym,B588:1:5,Nomada sabulosa Rad.,,,,,,,,,Nomada,,,64QG,1343230
-B588:1:7,Nomada zonata Panz.,Panz.,Nomada,,zonata,,species,,B588:1,accepted,,,,,,,,,,,Nomada,,,47NN5,1343298
-B588:1:8,Nomada zonata subsp. pulcherrima n.,n.,Nomada,,zonata,pulcherrima,subspecies,ssp.,B588:1,accepted,,,B588:1:7,Nomada zonata Panz.,,,,,,,Nomada,,Nomada zonata,64QG,1343230
-B588:1:9,Nomada zonata subsp. rubricata n.,n.,Nomada,,zonata,rubricata,subspecies,ssp.,B588:1,accepted,,,B588:1:7,Nomada zonata Panz.,,,,,,,Nomada,,Nomada zonata,64QG,1343230
-B588:1:10,Nomada zonata subsp. sarmatica n.,n.,Nomada,,zonata,sarmatica,subspecies,ssp.,B588:1,accepted,,,B588:1:7,Nomada zonata Panz.,,,,,,,Nomada,,Nomada zonata,47NN5,1343298
-B588:1:11,Nomada piccioliana Magr.,Magr.,Nomada,,piccioliana,,species,,B588:1,accepted,,,,,,,,,,,Nomada,,,73YYS,1343526
-B588:1:12,Nomada piccioliana subsp. novioregensis Pér.,Pér.,Nomada,,piccioliana,novioregensis,subspecies,,B588:1,accepted,,,B588:1:11,Nomada piccioliana Magr.,,,,,,,Nomada,,Nomada piccioliana,64QG,1343230
-B588:1:13,Nomada piccioliana subsp. jurassica n.,n.,Nomada,,piccioliana,jurassica,subspecies,ssp.,B588:1,accepted,,,B588:1:11,Nomada piccioliana Magr.,,,,,,,Nomada,,Nomada piccioliana,64QG,1343230
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B588:1:1,Nomada radoszkowskii (Schmied.),(Schmied.),Nomada,,radoszkowskii,,species,Loz.,B588:1,accepted,,,,,,,,,,,Nomada,,,47NFW,1343865,47NFW,1343865
+B588:1:2,Nomada rhenana Mor.,Mor.,Nomada,,rhenana,,species,,B588:1,accepted,,,,,,,,,,,Nomada,,,47NFZ,1343847,47NFZ,1343847
+B588:1:3,Nomada xanthosticta Schenck,Schenck,Nomada,,xanthosticta,,species,nec K.,B588:1,synonym,B588:1:2,Nomada rhenana Mor.,,,,,,,,,Nomada,,,47NMP,1343310,47N4R,1343309
+B588:1:4,Nomada rufipes Schenck,Schenck,Nomada,,rufipes,,species,nec F.,B588:1,synonym,B588:1:2,Nomada rhenana Mor.,,,,,,,,,Nomada,,,47NGX,1343593,47NGX,1343593
+B588:1:5,Nomada sabulosa Rad.,Rad.,Nomada,,sabulosa,,species,,B588:1,accepted,,,,,,,,,,,Nomada,,,47NH4,1343546,47NH4,1343546
+B588:1:6,Nomada macrocardia Pér.,Pér.,Nomada,,macrocardia,,species,,B588:1,synonym,B588:1:5,Nomada sabulosa Rad.,,,,,,,,,Nomada,,,,,,
+B588:1:7,Nomada zonata Panz.,Panz.,Nomada,,zonata,,species,,B588:1,accepted,,,,,,,,,,,Nomada,,,47NN5,1343298,47NN5,1343298
+B588:1:8,Nomada zonata subsp. pulcherrima,,Nomada,,zonata,pulcherrima,subspecies,n. ssp.,B588:1,accepted,,,B588:1:7,Nomada zonata Panz.,,,,,,,Nomada,,Nomada zonata,,,,
+B588:1:9,Nomada zonata subsp. rubricata,,Nomada,,zonata,rubricata,subspecies,n. ssp.,B588:1,accepted,,,B588:1:7,Nomada zonata Panz.,,,,,,,Nomada,,Nomada zonata,,,,
+B588:1:10,Nomada zonata subsp. sarmatica,,Nomada,,zonata,sarmatica,subspecies,n. ssp.,B588:1,accepted,,,B588:1:7,Nomada zonata Panz.,,,,,,,Nomada,,Nomada zonata,,,,
+B588:1:11,Nomada piccioliana Magr.,Magr.,Nomada,,piccioliana,,species,,B588:1,accepted,,,,,,,,,,,Nomada,,,73YYS,1343526,73YYS,1343526
+B588:1:12,Nomada piccioliana subsp. novioregensis Pér.,Pér.,Nomada,,piccioliana,novioregensis,subspecies,,B588:1,accepted,,,B588:1:11,Nomada piccioliana Magr.,,,,,,,Nomada,,Nomada piccioliana,,,,
+B588:1:13,Nomada piccioliana subsp. jurassica,,Nomada,,piccioliana,jurassica,subspecies,n. ssp.,B588:1,accepted,,,B588:1:11,Nomada piccioliana Magr.,,,,,,,Nomada,,Nomada piccioliana,,,,

@@ -1,131 +1,131 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B169:1:1,Coleoptera,,,,,,order,,B169:1,accepted,,,,,,,,Coleoptera,,,,,,C2L,1470
-B169:1:2,Adephaga,,,,,,suborder,,B169:1,accepted,,,B169:1:1,Coleoptera,,,,Coleoptera,,,,,Coleoptera,,
-B169:1:3,Caraboidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:2,Adephaga,,,,Coleoptera,,,,,Coleoptera | Adephaga,4WK,
-B169:1:4,Carabidae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Carabidae,,,,Coleoptera | Adephaga | Caraboidea,8KTL7,3792
-B169:1:5,Cicindelinae,,,,,,subfamily,,B169:1,accepted,,,B169:1:4,Carabidae,,,,Coleoptera,Carabidae,Cicindelinae,,,Coleoptera | Adephaga | Caraboidea | Carabidae,8KTNV,
-B169:1:6,Carabinae,,,,,,subfamily,,B169:1,accepted,,,B169:1:4,Carabidae,,,,Coleoptera,Carabidae,Carabinae,,,Coleoptera | Adephaga | Caraboidea | Carabidae,8KTNH,
-B169:1:7,Scaritinae,,,,,,subfamily,,B169:1,accepted,,,B169:1:4,Carabidae,,,,Coleoptera,Carabidae,Scaritinae,,,Coleoptera | Adephaga | Caraboidea | Carabidae,8KTR9,
-B169:1:8,Harpalinae,,,,,,subfamily,,B169:1,accepted,,,B169:1:4,Carabidae,,,,Coleoptera,Carabidae,Harpalinae,,,Coleoptera | Adephaga | Caraboidea | Carabidae,8KTPF,
-B169:1:9,Gyrinidae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Gyrinidae,,,,Coleoptera | Adephaga | Caraboidea,625FK,9646
-B169:1:10,Haliplidae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Haliplidae,,,,Coleoptera | Adephaga | Caraboidea,625H9,6984
-B169:1:11,Hygrobiidae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Hygrobiidae,,,,Coleoptera | Adephaga | Caraboidea,B9B,3263409
-B169:1:12,Noteridae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Noteridae,,,,Coleoptera | Adephaga | Caraboidea,626FP,4748
-B169:1:13,Dysticidae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Dysticidae,,,,Coleoptera | Adephaga | Caraboidea,,
-B169:1:14,Polyphaga,,,,,,suborder,,B169:1,accepted,,,B169:1:1,Coleoptera,,,,Coleoptera,,,,,Coleoptera,8MP95,
-B169:1:15,Stylopoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,,
-B169:1:16,Stylopidae,,,,,,family,,B169:1,accepted,,,B169:1:15,Stylopoidea,,,,Coleoptera,Stylopidae,,,,Coleoptera | Polyphaga | Stylopoidea,8KTMM,7951
-B169:1:17,Sphaerioidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,,
-B169:1:18,Sphaeriidae,,,,,,family,,B169:1,accepted,,,B169:1:17,Sphaerioidea,,,,Coleoptera,Sphaeriidae,,,,Coleoptera | Polyphaga | Sphaerioidea,,3247675
-B169:1:19,Dascilloidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,52H,
-B169:1:20,Clambidae,,,,,,family,,B169:1,accepted,,,B169:1:19,Dascilloidea,,,,Coleoptera,Clambidae,,,,Coleoptera | Polyphaga | Dascilloidea,624C3,7781
-B169:1:21,Dascillidae,,,,,,family,,B169:1,accepted,,,B169:1:19,Dascilloidea,,,,Coleoptera,Dascillidae,,,,Coleoptera | Polyphaga | Dascilloidea,8ZH,4731
-B169:1:22,Helodidae,,,,,,family,,B169:1,accepted,,,B169:1:19,Dascilloidea,,,,Coleoptera,Helodidae,,,,Coleoptera | Polyphaga | Dascilloidea,,3263525
-B169:1:23,Scarabaeoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,SC,
-B169:1:24,Lucanidae,,,,,,family,,B169:1,accepted,,,B169:1:23,Scarabaeoidea,,,,Coleoptera,Lucanidae,,,,Coleoptera | Polyphaga | Scarabaeoidea,C8B,3263244
-B169:1:25,Trogidae,,,,,,family,,B169:1,accepted,,,B169:1:23,Scarabaeoidea,,,,Coleoptera,Trogidae,,,,Coleoptera | Polyphaga | Scarabaeoidea,HJC,5839
-B169:1:26,Geotrupidae,,,,,,family,,B169:1,accepted,,,B169:1:23,Scarabaeoidea,,,,Coleoptera,Geotrupidae,,,,Coleoptera | Polyphaga | Scarabaeoidea,623GB,8495
-B169:1:27,Scarabaeidae,,,,,,family,,B169:1,accepted,,,B169:1:23,Scarabaeoidea,,,,Coleoptera,Scarabaeidae,,,,Coleoptera | Polyphaga | Scarabaeoidea,6278C,5840
-B169:1:28,Hydrophiloidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,58Y,
-B169:1:29,Hydraenidae,,,,,,family,,B169:1,accepted,,,B169:1:28,Hydrophiloidea,,,,Coleoptera,Hydraenidae,,,,Coleoptera | Polyphaga | Hydrophiloidea,B7Z,7829
-B169:1:30,Georissidae,,,,,,family,,B169:1,accepted,,,B169:1:28,Hydrophiloidea,,,,Coleoptera,Georissidae,,,,Coleoptera | Polyphaga | Hydrophiloidea,6247M,5874570
-B169:1:31,Spercheidae,,,,,,family,,B169:1,accepted,,,B169:1:28,Hydrophiloidea,,,,Coleoptera,Spercheidae,,,,Coleoptera | Polyphaga | Hydrophiloidea,GFW,7853
-B169:1:32,Hydrochidae,,,,,,family,,B169:1,accepted,,,B169:1:28,Hydrophiloidea,,,,Coleoptera,Hydrochidae,,,,Coleoptera | Polyphaga | Hydrophiloidea,62578,4734
-B169:1:33,Hydrophilidae,,,,,,family,,B169:1,accepted,,,B169:1:28,Hydrophiloidea,,,,Coleoptera,Hydrophilidae,,,,Coleoptera | Polyphaga | Hydrophiloidea,624V9,7830
-B169:1:34,Chrysomeloidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,CHR,
-B169:1:35,Cermabycidae,,,,,,family,,B169:1,accepted,,,B169:1:34,Chrysomeloidea,,,,Coleoptera,Cermabycidae,,,,Coleoptera | Polyphaga | Chrysomeloidea,,
-B169:1:36,Chrysomelidae,,,,,,family,,B169:1,accepted,,,B169:1:34,Chrysomeloidea,,,,Coleoptera,Chrysomelidae,,,,Coleoptera | Polyphaga | Chrysomeloidea,87S,7780
-B169:1:37,Bruchidae,,,,,,family,,B169:1,accepted,,,B169:1:34,Chrysomeloidea,,,,Coleoptera,Bruchidae,,,,Coleoptera | Polyphaga | Chrysomeloidea,,3260349
-B169:1:38,Curculionoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,CC,
-B169:1:39,Anthribidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Anthribidae,,,,Coleoptera | Polyphaga | Curculionoidea,8HBPD,10839606
-B169:1:40,Nemonychidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Nemonychidae,,,,Coleoptera | Polyphaga | Curculionoidea,8HBR3,8584
-B169:1:41,Atelabidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Atelabidae,,,,Coleoptera | Polyphaga | Curculionoidea,,
-B169:1:42,Apionidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Apionidae,,,,Coleoptera | Polyphaga | Curculionoidea,,4207
-B169:1:43,Curculionidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Curculionidae,,,,Coleoptera | Polyphaga | Curculionoidea,8HBQ5,4239
-B169:1:44,Scolytidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Scolytidae,,,,Coleoptera | Polyphaga | Curculionoidea,,3262528
-B169:1:45,Platypodidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Platypodidae,,,,Coleoptera | Polyphaga | Curculionoidea,,3262857
-B169:1:46,Cleroidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,4YF,
-B169:1:47,Trogositidae,,,,,,family,,B169:1,accepted,,,B169:1:46,Cleroidea,,,,Coleoptera,Trogositidae,,,,Coleoptera | Polyphaga | Cleroidea,,4290680
-B169:1:48,Cleridae,,,,,,family,,B169:1,accepted,,,B169:1:46,Cleroidea,,,,Coleoptera,Cleridae,,,,Coleoptera | Polyphaga | Cleroidea,8BP,3795
-B169:1:49,Melyridae,,,,,,family,,B169:1,accepted,,,B169:1:46,Cleroidea,,,,Coleoptera,Melyridae,,,,Coleoptera | Polyphaga | Cleroidea,CL4,7838
-B169:1:50,Phloiophilidae,,,,,,family,,B169:1,accepted,,,B169:1:46,Cleroidea,,,,Coleoptera,Phloiophilidae,,,,Coleoptera | Polyphaga | Cleroidea,,4290678
-B169:1:51,Lymexyloidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,5BQ,
-B169:1:52,Lymexylidae,,,,,,family,,B169:1,accepted,,,B169:1:51,Lymexyloidea,,,,Coleoptera,Lymexylidae,,,,Coleoptera | Polyphaga | Lymexyloidea,C9T,7837
-B169:1:53,Lymexylonidae,,,,,,family,,B169:1,synonym,B169:1:52,Lymexylidae,,,,,,Coleoptera,Lymexylonidae,,,,Coleoptera | Polyphaga | Lymexyloidea,,
-B169:1:54,Cantharoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,622XQ,
-B169:1:55,Drilidae,,,,,,family,,B169:1,accepted,,,B169:1:54,Cantharoidea,,,,Coleoptera,Drilidae,,,,Coleoptera | Polyphaga | Cantharoidea,,3263757
-B169:1:56,Lampuridae,,,,,,family,,B169:1,accepted,,,B169:1:54,Cantharoidea,,,,Coleoptera,Lampuridae,,,,Coleoptera | Polyphaga | Cantharoidea,,
-B169:1:57,Cantharidae,,,,,,family,,B169:1,accepted,,,B169:1:54,Cantharoidea,,,,Coleoptera,Cantharidae,,,,Coleoptera | Polyphaga | Cantharoidea,7P3,7777
-B169:1:58,Lycidae,,,,,,family,,B169:1,accepted,,,B169:1:54,Cantharoidea,,,,Coleoptera,Lycidae,,,,Coleoptera | Polyphaga | Cantharoidea,624HT,7836
-B169:1:59,Cucujoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,4ZR,
-B169:1:60,Rhizophagidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Rhizophagidae,,,,Coleoptera | Polyphaga | Cucujoidea,,3262720
-B169:1:61,Nitidulidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Nitidulidae,,,,Coleoptera | Polyphaga | Cucujoidea,DCS,7840
-B169:1:62,Phalacridae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Phalacridae,,,,Coleoptera | Polyphaga | Cucujoidea,6268S,7843
-B169:1:63,Biphyllidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Biphyllidae,,,,Coleoptera | Polyphaga | Cucujoidea,77Y,7772
-B169:1:64,Byturidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Byturidae,,,,Coleoptera | Polyphaga | Cucujoidea,7HP,3790
-B169:1:65,Spnididae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Spnididae,,,,Coleoptera | Polyphaga | Cucujoidea,,
-B169:1:66,Silvanidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Silvanidae,,,,Coleoptera | Polyphaga | Cucujoidea,626XY,7850
-B169:1:67,Cucujidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Cucujidae,,,,Coleoptera | Polyphaga | Cucujoidea,8S6,7820
-B169:1:68,Erotylidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Erotylidae,,,,Coleoptera | Polyphaga | Cucujoidea,62423,6981
-B169:1:69,Hypocopridae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Hypocopridae,,,,Coleoptera | Polyphaga | Cucujoidea,,6943673
-B169:1:70,Cryptophagidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Cryptophagidae,,,,Coleoptera | Polyphaga | Cucujoidea,8QY,7784
-B169:1:71,Corylophidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Corylophidae,,,,Coleoptera | Polyphaga | Cucujoidea,8LC,3796
-B169:1:72,Cisidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Cisidae,,,,Coleoptera | Polyphaga | Cucujoidea,,4760513
-B169:1:73,Mycetophagidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Mycetophagidae,,,,Coleoptera | Polyphaga | Cucujoidea,D25,7839
-B169:1:74,Colydiidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Colydiidae,,,,Coleoptera | Polyphaga | Cucujoidea,,3263932
-B169:1:75,Cerylonidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Cerylonidae,,,,Coleoptera | Polyphaga | Cucujoidea,7XT,7778
-B169:1:76,Endomychidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Endomychidae,,,,Coleoptera | Polyphaga | Cucujoidea,9PG,7828
-B169:1:77,Coccinellidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Coccinellidae,,,,Coleoptera | Polyphaga | Cucujoidea,8DB,7782
-B169:1:78,Merophysiidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Merophysiidae,,,,Coleoptera | Polyphaga | Cucujoidea,,6141834
-B169:1:79,Lathridiidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Lathridiidae,,,,Coleoptera | Polyphaga | Cucujoidea,,4290620
-B169:1:80,Lagriidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Lagriidae,,,,Coleoptera | Polyphaga | Cucujoidea,BQX,4723910
-B169:1:81,Alleculidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Alleculidae,,,,Coleoptera | Polyphaga | Cucujoidea,,4724248
-B169:1:82,Tenebrionidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Tenebrionidae,,,,Coleoptera | Polyphaga | Cucujoidea,GZD,7857
-B169:1:83,Tetratomidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Tetratomidae,,,,Coleoptera | Polyphaga | Cucujoidea,626PK,4764
-B169:1:84,Melandryidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Melandryidae,,,,Coleoptera | Polyphaga | Cucujoidea,CJL,4741
-B169:1:85,Mordellidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Mordellidae,,,,Coleoptera | Polyphaga | Cucujoidea,CXS,4746
-B169:1:86,Scraptiidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Scraptiidae,,,,Coleoptera | Polyphaga | Cucujoidea,G5P,4760
-B169:1:87,Salpingidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Salpingidae,,,,Coleoptera | Polyphaga | Cucujoidea,FWQ,7848
-B169:1:88,Mycteridae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Mycteridae,,,,Coleoptera | Polyphaga | Cucujoidea,D2L,4747
-B169:1:89,Pythidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Pythidae,,,,Coleoptera | Polyphaga | Cucujoidea,FH3,4757
-B169:1:90,Rihipiphoridae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Rihipiphoridae,,,,Coleoptera | Polyphaga | Cucujoidea,,
-B169:1:91,Pyrochroidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Pyrochroidae,,,,Coleoptera | Polyphaga | Cucujoidea,FGL,4756
-B169:1:92,Oedemeridae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Oedemeridae,,,,Coleoptera | Polyphaga | Cucujoidea,626H2,4749
-B169:1:93,Meloidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Meloidae,,,,Coleoptera | Polyphaga | Cucujoidea,624LC,4742
-B169:1:94,Anthicidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Anthicidae,,,,Coleoptera | Polyphaga | Cucujoidea,6H2,7771
-B169:1:95,Aderidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Aderidae,,,,Coleoptera | Polyphaga | Cucujoidea,62Q,1047172
-B169:1:96,Histeroidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,58H,
-B169:1:97,Sphaeritidae,,,,,,family,,B169:1,accepted,,,B169:1:96,Histeroidea,,,,Coleoptera,Sphaeritidae,,,,Coleoptera | Polyphaga | Histeroidea,GG6,7852
-B169:1:98,Histeridae,,,,,,family,,B169:1,accepted,,,B169:1:96,Histeroidea,,,,Coleoptera,Histeridae,,,,Coleoptera | Polyphaga | Histeroidea,B44,4733
-B169:1:99,Staphylinoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,SL,
-B169:1:100,Ptiliidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Ptiliidae,,,,Coleoptera | Polyphaga | Staphylinoidea,6276W,4754
-B169:1:101,Leptinidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Leptinidae,,,,Coleoptera | Polyphaga | Staphylinoidea,,3263295
-B169:1:102,Anisotomidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Anisotomidae,,,,Coleoptera | Polyphaga | Staphylinoidea,,4760095
-B169:1:103,Scydmaenidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Scydmaenidae,,,,Coleoptera | Polyphaga | Staphylinoidea,,4761
-B169:1:104,Silphidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Silphidae,,,,Coleoptera | Polyphaga | Staphylinoidea,626Y9,4762
-B169:1:105,Scaphidiidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Scaphidiidae,,,,Coleoptera | Polyphaga | Staphylinoidea,,3262652
-B169:1:106,Micropeplidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Micropeplidae,,,,Coleoptera | Polyphaga | Staphylinoidea,,4747114
-B169:1:107,Staphylinidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Staphylinidae,,,,Coleoptera | Polyphaga | Staphylinoidea,STP,7854
-B169:1:108,Pselaphidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Pselaphidae,,,,Coleoptera | Polyphaga | Staphylinoidea,,4308831
-B169:1:109,Bostrychoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,,
-B169:1:110,Anobiidae,,,,,,family,,B169:1,accepted,,,B169:1:109,Bostrychoidea,,,,Coleoptera,Anobiidae,,,,Coleoptera | Polyphaga | Bostrychoidea,6FF,7770
-B169:1:111,Ptinidae,,,,,,family,,B169:1,accepted,,,B169:1:109,Bostrychoidea,,,,Coleoptera,Ptinidae,,,,Coleoptera | Polyphaga | Bostrychoidea,6276Y,6987
-B169:1:112,Lyctidae,,,,,,family,,B169:1,accepted,,,B169:1:109,Bostrychoidea,,,,Coleoptera,Lyctidae,,,,Coleoptera | Polyphaga | Bostrychoidea,C9M,4426147
-B169:1:113,Bostrychidae,,,,,,family,,B169:1,accepted,,,B169:1:109,Bostrychoidea,,,,Coleoptera,Bostrychidae,,,,Coleoptera | Polyphaga | Bostrychoidea,,4761310
-B169:1:114,Dryopoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,,
-B169:1:115,Psephenidae,,,,,,family,,B169:1,accepted,,,B169:1:114,Dryopoidea,,,,Coleoptera,Psephenidae,,,,Coleoptera | Polyphaga | Dryopoidea,F79,7846
-B169:1:116,Heteroceridae,,,,,,family,,B169:1,accepted,,,B169:1:114,Dryopoidea,,,,Coleoptera,Heteroceridae,,,,Coleoptera | Polyphaga | Dryopoidea,6255M,6986
-B169:1:117,Dryopidae,,,,,,family,,B169:1,accepted,,,B169:1:114,Dryopoidea,,,,Coleoptera,Dryopidae,,,,Coleoptera | Polyphaga | Dryopoidea,9H4,4732
-B169:1:118,Limnichidae,,,,,,family,,B169:1,accepted,,,B169:1:114,Dryopoidea,,,,Coleoptera,Limnichidae,,,,Coleoptera | Polyphaga | Dryopoidea,C2W,4739
-B169:1:119,Elmidae,,,,,,family,,B169:1,accepted,,,B169:1:114,Dryopoidea,,,,Coleoptera,Elmidae,,,,Coleoptera | Polyphaga | Dryopoidea,9MN,7826
-B169:1:120,Byrrhoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,4VS,
-B169:1:121,Byrrhidae,,,,,,family,,B169:1,accepted,,,B169:1:120,Byrrhoidea,,,,Coleoptera,Byrrhidae,,,,Coleoptera | Polyphaga | Byrrhoidea,7HC,7776
-B169:1:122,Buprestoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,4VR,
-B169:1:123,Buprestidae,,,,,,family,,B169:1,accepted,,,B169:1:122,Buprestoidea,,,,Coleoptera,Buprestidae,,,,Coleoptera | Polyphaga | Buprestoidea,622HZ,3789
-B169:1:124,Elateroidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,LT,
-B169:1:125,Trixagidae,,,,,,family,,B169:1,accepted,,,B169:1:124,Elateroidea,,,,Coleoptera,Trixagidae,,,,Coleoptera | Polyphaga | Elateroidea,,6969548
-B169:1:126,Elateridae,,,,,,family,,B169:1,accepted,,,B169:1:124,Elateroidea,,,,Coleoptera,Elateridae,,,,Coleoptera | Polyphaga | Elateroidea,9LS,7825
-B169:1:127,Eucnemidae,,,,,,family,,B169:1,accepted,,,B169:1:124,Elateroidea,,,,Coleoptera,Eucnemidae,,,,Coleoptera | Polyphaga | Elateroidea,9WK,9644
-B169:1:128,Dermestoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,,
-B169:1:129,Thorictidae,,,,,,family,,B169:1,accepted,,,B169:1:128,Dermestoidea,,,,Coleoptera,Thorictidae,,,,Coleoptera | Polyphaga | Dermestoidea,,4718473
-B169:1:130,Dermestidae,,,,,,family,,B169:1,accepted,,,B169:1:128,Dermestoidea,,,,Coleoptera,Dermestidae,,,,Coleoptera | Polyphaga | Dermestoidea,94W,9714
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B169:1:1,Coleoptera,,,,,,order,,B169:1,accepted,,,,,,,,Coleoptera,,,,,,C2L,1470,C2L,1470
+B169:1:2,Adephaga,,,,,,suborder,,B169:1,accepted,,,B169:1:1,Coleoptera,,,,Coleoptera,,,,,Coleoptera,,,,
+B169:1:3,Caraboidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:2,Adephaga,,,,Coleoptera,,,,,Coleoptera | Adephaga,4WK,,4WK,
+B169:1:4,Carabidae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Carabidae,,,,Coleoptera | Adephaga | Caraboidea,8KTL7,3792,8KTL7,3792
+B169:1:5,Cicindelinae,,,,,,subfamily,,B169:1,accepted,,,B169:1:4,Carabidae,,,,Coleoptera,Carabidae,Cicindelinae,,,Coleoptera | Adephaga | Caraboidea | Carabidae,8KTNV,,8KTNV,
+B169:1:6,Carabinae,,,,,,subfamily,,B169:1,accepted,,,B169:1:4,Carabidae,,,,Coleoptera,Carabidae,Carabinae,,,Coleoptera | Adephaga | Caraboidea | Carabidae,8KTNH,,8KTNH,
+B169:1:7,Scaritinae,,,,,,subfamily,,B169:1,accepted,,,B169:1:4,Carabidae,,,,Coleoptera,Carabidae,Scaritinae,,,Coleoptera | Adephaga | Caraboidea | Carabidae,8KTR9,,8KTR9,
+B169:1:8,Harpalinae,,,,,,subfamily,,B169:1,accepted,,,B169:1:4,Carabidae,,,,Coleoptera,Carabidae,Harpalinae,,,Coleoptera | Adephaga | Caraboidea | Carabidae,8KTPF,,8KTPF,
+B169:1:9,Gyrinidae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Gyrinidae,,,,Coleoptera | Adephaga | Caraboidea,625FK,9646,625FK,9646
+B169:1:10,Haliplidae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Haliplidae,,,,Coleoptera | Adephaga | Caraboidea,625H9,6984,625H9,6984
+B169:1:11,Hygrobiidae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Hygrobiidae,,,,Coleoptera | Adephaga | Caraboidea,B9B,3263409,B9B,3263409
+B169:1:12,Noteridae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Noteridae,,,,Coleoptera | Adephaga | Caraboidea,626FP,4748,626FP,4748
+B169:1:13,Dysticidae,,,,,,family,,B169:1,accepted,,,B169:1:3,Caraboidea,,,,Coleoptera,Dysticidae,,,,Coleoptera | Adephaga | Caraboidea,,,,
+B169:1:14,Polyphaga,,,,,,suborder,,B169:1,accepted,,,B169:1:1,Coleoptera,,,,Coleoptera,,,,,Coleoptera,8MP95,,8MP95,
+B169:1:15,Stylopoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,,,,
+B169:1:16,Stylopidae,,,,,,family,,B169:1,accepted,,,B169:1:15,Stylopoidea,,,,Coleoptera,Stylopidae,,,,Coleoptera | Polyphaga | Stylopoidea,8KTMM,7951,8KTMM,7951
+B169:1:17,Sphaerioidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,,,,
+B169:1:18,Sphaeriidae,,,,,,family,,B169:1,accepted,,,B169:1:17,Sphaerioidea,,,,Coleoptera,Sphaeriidae,,,,Coleoptera | Polyphaga | Sphaerioidea,,,,
+B169:1:19,Dascilloidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,52H,,52H,
+B169:1:20,Clambidae,,,,,,family,,B169:1,accepted,,,B169:1:19,Dascilloidea,,,,Coleoptera,Clambidae,,,,Coleoptera | Polyphaga | Dascilloidea,624C3,7781,624C3,7781
+B169:1:21,Dascillidae,,,,,,family,,B169:1,accepted,,,B169:1:19,Dascilloidea,,,,Coleoptera,Dascillidae,,,,Coleoptera | Polyphaga | Dascilloidea,8ZH,4731,8ZH,4731
+B169:1:22,Helodidae,,,,,,family,,B169:1,accepted,,,B169:1:19,Dascilloidea,,,,Coleoptera,Helodidae,,,,Coleoptera | Polyphaga | Dascilloidea,,3263525,,7849
+B169:1:23,Scarabaeoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,SC,,SC,
+B169:1:24,Lucanidae,,,,,,family,,B169:1,accepted,,,B169:1:23,Scarabaeoidea,,,,Coleoptera,Lucanidae,,,,Coleoptera | Polyphaga | Scarabaeoidea,C8B,3263244,C8B,3263244
+B169:1:25,Trogidae,,,,,,family,,B169:1,accepted,,,B169:1:23,Scarabaeoidea,,,,Coleoptera,Trogidae,,,,Coleoptera | Polyphaga | Scarabaeoidea,HJC,5839,HJC,5839
+B169:1:26,Geotrupidae,,,,,,family,,B169:1,accepted,,,B169:1:23,Scarabaeoidea,,,,Coleoptera,Geotrupidae,,,,Coleoptera | Polyphaga | Scarabaeoidea,623GB,11079583,623GB,8495
+B169:1:27,Scarabaeidae,,,,,,family,,B169:1,accepted,,,B169:1:23,Scarabaeoidea,,,,Coleoptera,Scarabaeidae,,,,Coleoptera | Polyphaga | Scarabaeoidea,6278C,5840,6278C,5840
+B169:1:28,Hydrophiloidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,9J9GC,,9J9GC,
+B169:1:29,Hydraenidae,,,,,,family,,B169:1,accepted,,,B169:1:28,Hydrophiloidea,,,,Coleoptera,Hydraenidae,,,,Coleoptera | Polyphaga | Hydrophiloidea,9J9GQ,7829,9J9GQ,7829
+B169:1:30,Georissidae,,,,,,family,,B169:1,accepted,,,B169:1:28,Hydrophiloidea,,,,Coleoptera,Georissidae,,,,Coleoptera | Polyphaga | Hydrophiloidea,9JJ5V,5874570,9JJ5V,5874570
+B169:1:31,Spercheidae,,,,,,family,,B169:1,accepted,,,B169:1:28,Hydrophiloidea,,,,Coleoptera,Spercheidae,,,,Coleoptera | Polyphaga | Hydrophiloidea,9JGGG,7853,9JGGG,7853
+B169:1:32,Hydrochidae,,,,,,family,,B169:1,accepted,,,B169:1:28,Hydrophiloidea,,,,Coleoptera,Hydrochidae,,,,Coleoptera | Polyphaga | Hydrophiloidea,9JG3H,4734,9JG3H,4734
+B169:1:33,Hydrophilidae,,,,,,family,,B169:1,accepted,,,B169:1:28,Hydrophiloidea,,,,Coleoptera,Hydrophilidae,,,,Coleoptera | Polyphaga | Hydrophiloidea,9J9GR,7830,9J9GR,7830
+B169:1:34,Chrysomeloidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,CHR,,CHR,
+B169:1:35,Cermabycidae,,,,,,family,,B169:1,accepted,,,B169:1:34,Chrysomeloidea,,,,Coleoptera,Cermabycidae,,,,Coleoptera | Polyphaga | Chrysomeloidea,,,,
+B169:1:36,Chrysomelidae,,,,,,family,,B169:1,accepted,,,B169:1:34,Chrysomeloidea,,,,Coleoptera,Chrysomelidae,,,,Coleoptera | Polyphaga | Chrysomeloidea,87S,7780,87S,7780
+B169:1:37,Bruchidae,,,,,,family,,B169:1,accepted,,,B169:1:34,Chrysomeloidea,,,,Coleoptera,Bruchidae,,,,Coleoptera | Polyphaga | Chrysomeloidea,,3260349,,3260349
+B169:1:38,Curculionoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,CC,,CC,
+B169:1:39,Anthribidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Anthribidae,,,,Coleoptera | Polyphaga | Curculionoidea,8HBPD,4206,8HBPD,4206
+B169:1:40,Nemonychidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Nemonychidae,,,,Coleoptera | Polyphaga | Curculionoidea,8HBR3,8584,8HBR3,8584
+B169:1:41,Atelabidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Atelabidae,,,,Coleoptera | Polyphaga | Curculionoidea,,,,
+B169:1:42,Apionidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Apionidae,,,,Coleoptera | Polyphaga | Curculionoidea,,4207,,4207
+B169:1:43,Curculionidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Curculionidae,,,,Coleoptera | Polyphaga | Curculionoidea,8HBQ5,4239,8HBQ5,4239
+B169:1:44,Scolytidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Scolytidae,,,,Coleoptera | Polyphaga | Curculionoidea,,,,
+B169:1:45,Platypodidae,,,,,,family,,B169:1,accepted,,,B169:1:38,Curculionoidea,,,,Coleoptera,Platypodidae,,,,Coleoptera | Polyphaga | Curculionoidea,,3262857,,4239
+B169:1:46,Cleroidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,4YF,,4YF,
+B169:1:47,Trogositidae,,,,,,family,,B169:1,accepted,,,B169:1:46,Cleroidea,,,,Coleoptera,Trogositidae,,,,Coleoptera | Polyphaga | Cleroidea,,4290680,,4290680
+B169:1:48,Cleridae,,,,,,family,,B169:1,accepted,,,B169:1:46,Cleroidea,,,,Coleoptera,Cleridae,,,,Coleoptera | Polyphaga | Cleroidea,8BP,3795,8BP,3795
+B169:1:49,Melyridae,,,,,,family,,B169:1,accepted,,,B169:1:46,Cleroidea,,,,Coleoptera,Melyridae,,,,Coleoptera | Polyphaga | Cleroidea,CL4,7838,CL4,7838
+B169:1:50,Phloiophilidae,,,,,,family,,B169:1,accepted,,,B169:1:46,Cleroidea,,,,Coleoptera,Phloiophilidae,,,,Coleoptera | Polyphaga | Cleroidea,,4290678,,4290678
+B169:1:51,Lymexyloidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,5BQ,,5BQ,
+B169:1:52,Lymexylidae,,,,,,family,,B169:1,accepted,,,B169:1:51,Lymexyloidea,,,,Coleoptera,Lymexylidae,,,,Coleoptera | Polyphaga | Lymexyloidea,C9T,7837,C9T,7837
+B169:1:53,Lymexylonidae,,,,,,family,,B169:1,synonym,B169:1:52,Lymexylidae,,,,,,Coleoptera,Lymexylonidae,,,,Coleoptera | Polyphaga | Lymexyloidea,,4292483,,7837
+B169:1:54,Cantharoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,622XQ,,622XQ,
+B169:1:55,Drilidae,,,,,,family,,B169:1,accepted,,,B169:1:54,Cantharoidea,,,,Coleoptera,Drilidae,,,,Coleoptera | Polyphaga | Cantharoidea,,3263757,,3263757
+B169:1:56,Lampuridae,,,,,,family,,B169:1,accepted,,,B169:1:54,Cantharoidea,,,,Coleoptera,Lampuridae,,,,Coleoptera | Polyphaga | Cantharoidea,,,,
+B169:1:57,Cantharidae,,,,,,family,,B169:1,accepted,,,B169:1:54,Cantharoidea,,,,Coleoptera,Cantharidae,,,,Coleoptera | Polyphaga | Cantharoidea,7P3,7777,7P3,7777
+B169:1:58,Lycidae,,,,,,family,,B169:1,accepted,,,B169:1:54,Cantharoidea,,,,Coleoptera,Lycidae,,,,Coleoptera | Polyphaga | Cantharoidea,624HT,7836,624HT,7836
+B169:1:59,Cucujoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,4ZR,,4ZR,
+B169:1:60,Rhizophagidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Rhizophagidae,,,,Coleoptera | Polyphaga | Cucujoidea,,3262720,,4745
+B169:1:61,Nitidulidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Nitidulidae,,,,Coleoptera | Polyphaga | Cucujoidea,DCS,7840,DCS,7840
+B169:1:62,Phalacridae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Phalacridae,,,,Coleoptera | Polyphaga | Cucujoidea,6268S,7843,6268S,7843
+B169:1:63,Biphyllidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Biphyllidae,,,,Coleoptera | Polyphaga | Cucujoidea,77Y,7772,77Y,7772
+B169:1:64,Byturidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Byturidae,,,,Coleoptera | Polyphaga | Cucujoidea,7HP,3790,7HP,3790
+B169:1:65,Spnididae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Spnididae,,,,Coleoptera | Polyphaga | Cucujoidea,,,,
+B169:1:66,Silvanidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Silvanidae,,,,Coleoptera | Polyphaga | Cucujoidea,626XY,7850,626XY,7850
+B169:1:67,Cucujidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Cucujidae,,,,Coleoptera | Polyphaga | Cucujoidea,8S6,7820,8S6,7820
+B169:1:68,Erotylidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Erotylidae,,,,Coleoptera | Polyphaga | Cucujoidea,62423,6981,62423,6981
+B169:1:69,Hypocopridae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Hypocopridae,,,,Coleoptera | Polyphaga | Cucujoidea,,6943673,,7784
+B169:1:70,Cryptophagidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Cryptophagidae,,,,Coleoptera | Polyphaga | Cucujoidea,8QY,7784,8QY,7784
+B169:1:71,Corylophidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Corylophidae,,,,Coleoptera | Polyphaga | Cucujoidea,8LC,3796,8LC,3796
+B169:1:72,Cisidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Cisidae,,,,Coleoptera | Polyphaga | Cucujoidea,,4760513,,3794
+B169:1:73,Mycetophagidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Mycetophagidae,,,,Coleoptera | Polyphaga | Cucujoidea,D25,7839,D25,7839
+B169:1:74,Colydiidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Colydiidae,,,,Coleoptera | Polyphaga | Cucujoidea,,3263932,,4766
+B169:1:75,Cerylonidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Cerylonidae,,,,Coleoptera | Polyphaga | Cucujoidea,7XT,7778,7XT,7778
+B169:1:76,Endomychidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Endomychidae,,,,Coleoptera | Polyphaga | Cucujoidea,9PG,7828,9PG,7828
+B169:1:77,Coccinellidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Coccinellidae,,,,Coleoptera | Polyphaga | Cucujoidea,8DB,7782,8DB,7782
+B169:1:78,Merophysiidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Merophysiidae,,,,Coleoptera | Polyphaga | Cucujoidea,,6141834,,6141834
+B169:1:79,Lathridiidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Lathridiidae,,,,Coleoptera | Polyphaga | Cucujoidea,,4290620,,7834
+B169:1:80,Lagriidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Lagriidae,,,,Coleoptera | Polyphaga | Cucujoidea,BQX,4723910,BQX,4723910
+B169:1:81,Alleculidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Alleculidae,,,,Coleoptera | Polyphaga | Cucujoidea,,4724248,,7857
+B169:1:82,Tenebrionidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Tenebrionidae,,,,Coleoptera | Polyphaga | Cucujoidea,GZD,7857,GZD,7857
+B169:1:83,Tetratomidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Tetratomidae,,,,Coleoptera | Polyphaga | Cucujoidea,626PK,4764,626PK,4764
+B169:1:84,Melandryidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Melandryidae,,,,Coleoptera | Polyphaga | Cucujoidea,CJL,4741,CJL,4741
+B169:1:85,Mordellidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Mordellidae,,,,Coleoptera | Polyphaga | Cucujoidea,CXS,4746,CXS,4746
+B169:1:86,Scraptiidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Scraptiidae,,,,Coleoptera | Polyphaga | Cucujoidea,G5P,4760,G5P,4760
+B169:1:87,Salpingidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Salpingidae,,,,Coleoptera | Polyphaga | Cucujoidea,FWQ,7848,FWQ,7848
+B169:1:88,Mycteridae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Mycteridae,,,,Coleoptera | Polyphaga | Cucujoidea,D2L,4747,D2L,4747
+B169:1:89,Pythidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Pythidae,,,,Coleoptera | Polyphaga | Cucujoidea,FH3,4757,FH3,4757
+B169:1:90,Rihipiphoridae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Rihipiphoridae,,,,Coleoptera | Polyphaga | Cucujoidea,,,,
+B169:1:91,Pyrochroidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Pyrochroidae,,,,Coleoptera | Polyphaga | Cucujoidea,FGL,4756,FGL,4756
+B169:1:92,Oedemeridae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Oedemeridae,,,,Coleoptera | Polyphaga | Cucujoidea,626H2,4749,626H2,4749
+B169:1:93,Meloidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Meloidae,,,,Coleoptera | Polyphaga | Cucujoidea,624LC,4742,624LC,4742
+B169:1:94,Anthicidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Anthicidae,,,,Coleoptera | Polyphaga | Cucujoidea,6H2,7771,6H2,7771
+B169:1:95,Aderidae,,,,,,family,,B169:1,accepted,,,B169:1:59,Cucujoidea,,,,Coleoptera,Aderidae,,,,Coleoptera | Polyphaga | Cucujoidea,62Q,1047172,62Q,1047172
+B169:1:96,Histeroidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,9J9GB,,9J9GB,
+B169:1:97,Sphaeritidae,,,,,,family,,B169:1,accepted,,,B169:1:96,Histeroidea,,,,Coleoptera,Sphaeritidae,,,,Coleoptera | Polyphaga | Histeroidea,9J9HS,7852,9J9HS,7852
+B169:1:98,Histeridae,,,,,,family,,B169:1,accepted,,,B169:1:96,Histeroidea,,,,Coleoptera,Histeridae,,,,Coleoptera | Polyphaga | Histeroidea,9J9GP,4733,9J9GP,4733
+B169:1:99,Staphylinoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,9J9GG,,9J9GG,
+B169:1:100,Ptiliidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Ptiliidae,,,,Coleoptera | Polyphaga | Staphylinoidea,9J9HQ,4754,9J9HQ,4754
+B169:1:101,Leptinidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Leptinidae,,,,Coleoptera | Polyphaga | Staphylinoidea,9L7TS,3263295,9J9JY,4738
+B169:1:102,Anisotomidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Anisotomidae,,,,Coleoptera | Polyphaga | Staphylinoidea,9L7S8,4760095,9L7Z6,4738
+B169:1:103,Scydmaenidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Scydmaenidae,,,,Coleoptera | Polyphaga | Staphylinoidea,,4761,,4761
+B169:1:104,Silphidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Silphidae,,,,Coleoptera | Polyphaga | Staphylinoidea,,4762,,4762
+B169:1:105,Scaphidiidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Scaphidiidae,,,,Coleoptera | Polyphaga | Staphylinoidea,,3262652,,7854
+B169:1:106,Micropeplidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Micropeplidae,,,,Coleoptera | Polyphaga | Staphylinoidea,,4747114,,7854
+B169:1:107,Staphylinidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Staphylinidae,,,,Coleoptera | Polyphaga | Staphylinoidea,9J9HN,7854,9J9HN,7854
+B169:1:108,Pselaphidae,,,,,,family,,B169:1,accepted,,,B169:1:99,Staphylinoidea,,,,Coleoptera,Pselaphidae,,,,Coleoptera | Polyphaga | Staphylinoidea,9JJCH,4308831,9J9K2,7854
+B169:1:109,Bostrychoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,,,,
+B169:1:110,Anobiidae,,,,,,family,,B169:1,accepted,,,B169:1:109,Bostrychoidea,,,,Coleoptera,Anobiidae,,,,Coleoptera | Polyphaga | Bostrychoidea,6FF,7770,6FF,7770
+B169:1:111,Ptinidae,,,,,,family,,B169:1,accepted,,,B169:1:109,Bostrychoidea,,,,Coleoptera,Ptinidae,,,,Coleoptera | Polyphaga | Bostrychoidea,6276Y,6987,6276Y,6987
+B169:1:112,Lyctidae,,,,,,family,,B169:1,accepted,,,B169:1:109,Bostrychoidea,,,,Coleoptera,Lyctidae,,,,Coleoptera | Polyphaga | Bostrychoidea,C9M,4426147,628KP,4426147
+B169:1:113,Bostrychidae,,,,,,family,,B169:1,accepted,,,B169:1:109,Bostrychoidea,,,,Coleoptera,Bostrychidae,,,,Coleoptera | Polyphaga | Bostrychoidea,,4761310,,7773
+B169:1:114,Dryopoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,,,,
+B169:1:115,Psephenidae,,,,,,family,,B169:1,accepted,,,B169:1:114,Dryopoidea,,,,Coleoptera,Psephenidae,,,,Coleoptera | Polyphaga | Dryopoidea,F79,7846,F79,7846
+B169:1:116,Heteroceridae,,,,,,family,,B169:1,accepted,,,B169:1:114,Dryopoidea,,,,Coleoptera,Heteroceridae,,,,Coleoptera | Polyphaga | Dryopoidea,6255M,6986,6255M,6986
+B169:1:117,Dryopidae,,,,,,family,,B169:1,accepted,,,B169:1:114,Dryopoidea,,,,Coleoptera,Dryopidae,,,,Coleoptera | Polyphaga | Dryopoidea,9H4,4732,9H4,4732
+B169:1:118,Limnichidae,,,,,,family,,B169:1,accepted,,,B169:1:114,Dryopoidea,,,,Coleoptera,Limnichidae,,,,Coleoptera | Polyphaga | Dryopoidea,C2W,4739,C2W,4739
+B169:1:119,Elmidae,,,,,,family,,B169:1,accepted,,,B169:1:114,Dryopoidea,,,,Coleoptera,Elmidae,,,,Coleoptera | Polyphaga | Dryopoidea,9MN,7826,9MN,7826
+B169:1:120,Byrrhoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,4VS,,4VS,
+B169:1:121,Byrrhidae,,,,,,family,,B169:1,accepted,,,B169:1:120,Byrrhoidea,,,,Coleoptera,Byrrhidae,,,,Coleoptera | Polyphaga | Byrrhoidea,7HC,7776,7HC,7776
+B169:1:122,Buprestoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,4VR,,4VR,
+B169:1:123,Buprestidae,,,,,,family,,B169:1,accepted,,,B169:1:122,Buprestoidea,,,,Coleoptera,Buprestidae,,,,Coleoptera | Polyphaga | Buprestoidea,622HZ,3789,622HZ,3789
+B169:1:124,Elateroidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,LT,,LT,
+B169:1:125,Trixagidae,,,,,,family,,B169:1,accepted,,,B169:1:124,Elateroidea,,,,Coleoptera,Trixagidae,,,,Coleoptera | Polyphaga | Elateroidea,,6969548,,7858
+B169:1:126,Elateridae,,,,,,family,,B169:1,accepted,,,B169:1:124,Elateroidea,,,,Coleoptera,Elateridae,,,,Coleoptera | Polyphaga | Elateroidea,9LS,7825,9LS,7825
+B169:1:127,Eucnemidae,,,,,,family,,B169:1,accepted,,,B169:1:124,Elateroidea,,,,Coleoptera,Eucnemidae,,,,Coleoptera | Polyphaga | Elateroidea,9WK,9644,9WK,9644
+B169:1:128,Dermestoidea,,,,,,superfamily,,B169:1,accepted,,,B169:1:14,Polyphaga,,,,Coleoptera,,,,,Coleoptera | Polyphaga,,,,
+B169:1:129,Thorictidae,,,,,,family,,B169:1,accepted,,,B169:1:128,Dermestoidea,,,,Coleoptera,Thorictidae,,,,Coleoptera | Polyphaga | Dermestoidea,,4718473,,9714
+B169:1:130,Dermestidae,,,,,,family,,B169:1,accepted,,,B169:1:128,Dermestoidea,,,,Coleoptera,Dermestidae,,,,Coleoptera | Polyphaga | Dermestoidea,94W,9714,94W,9714

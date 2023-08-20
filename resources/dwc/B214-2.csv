@@ -1,6 +1,6 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B214:2:1,Orthopelmatinae,,,,,,subfamily,,B214:2,accepted,,,,,,,,,,Orthopelmatinae,,,,,
-B214:2:2,Orthopelma Taschenberg,Taschenberg,,,,,genus,,B214:2,accepted,,,B214:2:1,Orthopelmatinae,,,,,,Orthopelmatinae,Orthopelma,,Orthopelmatinae,63GWC,1302688
-B214:2:3,Orthopelma brevicorne Morley,Morley,Orthopelma,,brevicorne,,species,,B214:2,accepted,,,B214:2:2,Orthopelma Taschenberg,,,,,,Orthopelmatinae,Orthopelma,,Orthopelmatinae | Orthopelma,74WQ4,1302703
-B214:2:4,Orthopelma mediator (Thunberg),(Thunberg),Orthopelma,,mediator,,species,,B214:2,accepted,,,B214:2:2,Orthopelma Taschenberg,,,,,,Orthopelmatinae,Orthopelma,,Orthopelmatinae | Orthopelma,6SWQ5,1302693
-B214:2:5,Orthopelma luteolator Gravenhorst,Gravenhorst,Orthopelma,,luteolator,,species,,B214:2,synonym,B214:2:4,Orthopelma mediator (Thunberg),,,,,,,,Orthopelmatinae,Orthopelma,,Orthopelmatinae | Orthopelma,6SWPT,1302698
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B214:2:1,Orthopelmatinae,,,,,,subfamily,,B214:2,accepted,,,,,,,,,,Orthopelmatinae,,,,,,,
+B214:2:2,Orthopelma Taschenberg,Taschenberg,,,,,genus,,B214:2,accepted,,,B214:2:1,Orthopelmatinae,,,,,,Orthopelmatinae,Orthopelma,,Orthopelmatinae,63GWC,1302688,63GWC,1302688
+B214:2:3,Orthopelma brevicorne Morley,Morley,Orthopelma,,brevicorne,,species,,B214:2,accepted,,,B214:2:2,Orthopelma Taschenberg,,,,,,Orthopelmatinae,Orthopelma,,Orthopelmatinae | Orthopelma,74WQ4,1302703,74WQ4,1302703
+B214:2:4,Orthopelma mediator (Thunberg),(Thunberg),Orthopelma,,mediator,,species,,B214:2,accepted,,,B214:2:2,Orthopelma Taschenberg,,,,,,Orthopelmatinae,Orthopelma,,Orthopelmatinae | Orthopelma,6SWQ5,1302693,6SWQ5,1302693
+B214:2:5,Orthopelma luteolator Gravenhorst,Gravenhorst,Orthopelma,,luteolator,,species,,B214:2,synonym,B214:2:4,Orthopelma mediator (Thunberg),,,,,,,,Orthopelmatinae,Orthopelma,,Orthopelmatinae | Orthopelma,6SWPT,1302698,6SWQ5,1302693

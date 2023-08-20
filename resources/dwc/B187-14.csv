@@ -1,7 +1,7 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B187:14:1,Aderidae,,,,,,family,,B187:14,accepted,,,,,,,,,Aderidae,,,,,62Q,1047172
-B187:14:2,Aderus Westwood,Westwood,,,,,genus,,B187:14,accepted,,,B187:14:1,Aderidae,,,,,Aderidae,,Aderus,,Aderidae,P8G,7779797
-B187:14:3,Xylophila Lamarck,Lamarck,,,,,genus,,B187:14,synonym,B187:14:2,Aderus Westwood,,,,,,,Aderidae,,Xylophila,,Aderidae,,4736771
-B187:14:4,Aderus popuinea (Panzer),(Panzer),Aderus,,popuinea,,species,,B187:14,accepted,,,B187:14:2,Aderus Westwood,,,,,Aderidae,,Aderus,,Aderidae | Aderus,,11044682
-B187:14:5,Aderus pygmaea (Degeer),(Degeer),Aderus,,pygmaea,,species,,B187:14,accepted,,,B187:14:2,Aderus Westwood,,,,,Aderidae,,Aderus,,Aderidae | Aderus,,8632966
-B187:14:6,Aderus brevicornis (Perris),(Perris),Aderus,,brevicornis,,species,,B187:14,accepted,,,B187:14:2,Aderus Westwood,,,,,Aderidae,,Aderus,,Aderidae | Aderus,,11228903
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B187:14:1,Aderidae,,,,,,family,,B187:14,accepted,,,,,,,,,Aderidae,,,,,62Q,1047172,62Q,1047172
+B187:14:2,Aderus Westwood,Westwood,,,,,genus,,B187:14,accepted,,,B187:14:1,Aderidae,,,,,Aderidae,,Aderus,,Aderidae,P8G,7779797,P8G,7779797
+B187:14:3,Xylophila Lamarck,Lamarck,,,,,genus,,B187:14,synonym,B187:14:2,Aderus Westwood,,,,,,,Aderidae,,Xylophila,,Aderidae,,4736771,,4736771
+B187:14:4,Aderus popuinea (Panzer),(Panzer),Aderus,,popuinea,,species,,B187:14,accepted,,,B187:14:2,Aderus Westwood,,,,,Aderidae,,Aderus,,Aderidae | Aderus,,11044682,,11044682
+B187:14:5,Aderus pygmaea (Degeer),(Degeer),Aderus,,pygmaea,,species,,B187:14,accepted,,,B187:14:2,Aderus Westwood,,,,,Aderidae,,Aderus,,Aderidae | Aderus,,8632966,,4458659
+B187:14:6,Aderus brevicornis (Perris),(Perris),Aderus,,brevicornis,,species,,B187:14,accepted,,,B187:14:2,Aderus Westwood,,,,,Aderidae,,Aderus,,Aderidae | Aderus,,11228903,,4458654

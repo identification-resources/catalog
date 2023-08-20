@@ -1,4 +1,4 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B136:33:1,Lema,,,,,,genus,,B136:33,accepted,,,,,,,,,,,Lema,,,5C3T,5736874
-B136:33:2,Lema cyanella (L.),(L.),Lema,,cyanella,,species,,B136:33,accepted,,,B136:33:1,Lema,,,,,,,Lema,,Lema,,4461529
-B136:33:3,Lema puncticollis Curt.,Curt.,Lema,,puncticollis,,species,,B136:33,synonym,B136:33:2,Lema cyanella (L.),,,,,,,,,Lema,,Lema,,1047476
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:33:1,Lema,,,,,,genus,,B136:33,accepted,,,,,,,,,,,Lema,,,5C3T,5736874,5C3T,5736874
+B136:33:2,Lema cyanella (L.),(L.),Lema,,cyanella,,species,,B136:33,accepted,,,B136:33:1,Lema,,,,,,,Lema,,Lema,,4461529,,4461529
+B136:33:3,Lema puncticollis Curt.,Curt.,Lema,,puncticollis,,species,,B136:33,synonym,B136:33:2,Lema cyanella (L.),,,,,,,,,Lema,,Lema,,1047476,,1047476

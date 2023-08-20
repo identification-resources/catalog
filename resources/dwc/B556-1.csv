@@ -1,21 +1,21 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B556:1:1,Argynnis,,,,,,genus,,B556:1,accepted,,,,,,,,,,,Argynnis,,,922VL,1909334
-B556:1:2,Argynnis pandora,,Argynnis,,pandora,,species,,B556:1,accepted,,,B556:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,,7810861
-B556:1:3,Argynnis paphia,,Argynnis,,paphia,,species,,B556:1,accepted,,,B556:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,GHVW,1909398
-B556:1:4,Argynnis paphia f. valezina,,Argynnis,,paphia,valezina,form,,B556:1,accepted,,,B556:1:3,Argynnis paphia,,,,,,,Argynnis,,Argynnis | Argynnis paphia,5FRPT,
-B556:1:5,Argynnis laodice,,Argynnis,,laodice,,species,,B556:1,accepted,,,B556:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,93QRN,4535445
-B556:1:6,Brenthis,,,,,,genus,,B556:1,accepted,,,,,,,,,,,Brenthis,,,9243T,1902707
-B556:1:7,Brenthis daphne,,Brenthis,,daphne,,species,,B556:1,accepted,,,B556:1:6,Brenthis,,,,,,,Brenthis,,Brenthis,N987,1902791
-B556:1:8,Brenthis ino,,Brenthis,,ino,,species,,B556:1,accepted,,,B556:1:6,Brenthis,,,,,,,Brenthis,,Brenthis,N98C,1902749
-B556:1:9,Brenthis hecate,,Brenthis,,hecate,,species,,B556:1,accepted,,,B556:1:6,Brenthis,,,,,,,Brenthis,,Brenthis,N98B,8189761
-B556:1:10,Fabriciana,,,,,,genus,,B556:1,accepted,,,,,,,,,,,Fabriciana,,,9298V,1911763
-B556:1:11,Fabriciana adippe,,Fabriciana,,adippe,,species,,B556:1,accepted,,,B556:1:10,Fabriciana,,,,,,,Fabriciana,,Fabriciana,6HLWG,7809779
-B556:1:12,Fabriciana adippe f. chlorodippe,,Fabriciana,,adippe,chlorodippe,form,,B556:1,accepted,,,B556:1:11,Fabriciana adippe,,,,,,,Fabriciana,,Fabriciana | Fabriciana adippe,,
-B556:1:13,Fabriciana adippe f. cleodoxa,,Fabriciana,,adippe,cleodoxa,form,,B556:1,accepted,,,B556:1:11,Fabriciana adippe,,,,,,,Fabriciana,,Fabriciana | Fabriciana adippe,5HBKP,
-B556:1:14,Fabriciana niobe,,Fabriciana,,niobe,,species,,B556:1,accepted,,,B556:1:10,Fabriciana,,,,,,,Fabriciana,,Fabriciana,3DR63,7735752
-B556:1:15,Fabriciana niobe f. eris,,Fabriciana,,niobe,eris,form,,B556:1,accepted,,,B556:1:14,Fabriciana niobe,,,,,,,Fabriciana,,Fabriciana | Fabriciana niobe,,
-B556:1:16,Fabriciana elisa,,Fabriciana,,elisa,,species,,B556:1,accepted,,,B556:1:10,Fabriciana,,,,,,,Fabriciana,,Fabriciana,,1911812
-B556:1:17,Issoria,,,,,,genus,,B556:1,accepted,,,,,,,,,,,Issoria,,,92CKV,1905339
-B556:1:18,Issoria lathonia,,Issoria,,lathonia,,species,,B556:1,accepted,,,B556:1:17,Issoria,,,,,,,Issoria,,Issoria,3QD32,1905383
-B556:1:19,Speyeria,,,,,,genus,,B556:1,accepted,,,,,,,,,,,Speyeria,,,92N2G,1905150
-B556:1:20,Speyeria aglaja,,Speyeria,,aglaja,,species,,B556:1,accepted,,,B556:1:19,Speyeria,,,,,,,Speyeria,,Speyeria,93N9L,11067424
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B556:1:1,Argynnis,,,,,,genus,,B556:1,accepted,,,,,,,,,,,Argynnis,,,922VL,1909334,922VL,1909334
+B556:1:2,Argynnis pandora,,Argynnis,,pandora,,species,,B556:1,accepted,,,B556:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,,7810861,,1901850
+B556:1:3,Argynnis paphia,,Argynnis,,paphia,,species,,B556:1,accepted,,,B556:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,GHVW,1909398,GHVW,1909398
+B556:1:4,Argynnis paphia f. valezina,,Argynnis,,paphia,valezina,form,,B556:1,accepted,,,B556:1:3,Argynnis paphia,,,,,,,Argynnis,,Argynnis | Argynnis paphia,5FRPT,,5FRPT,
+B556:1:5,Argynnis laodice,,Argynnis,,laodice,,species,,B556:1,accepted,,,B556:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,93QRN,4535445,GK6Z,1895875
+B556:1:6,Brenthis,,,,,,genus,,B556:1,accepted,,,,,,,,,,,Brenthis,,,9243T,1902707,9243T,1902707
+B556:1:7,Brenthis daphne,,Brenthis,,daphne,,species,,B556:1,accepted,,,B556:1:6,Brenthis,,,,,,,Brenthis,,Brenthis,N987,9714195,N987,9714195
+B556:1:8,Brenthis ino,,Brenthis,,ino,,species,,B556:1,accepted,,,B556:1:6,Brenthis,,,,,,,Brenthis,,Brenthis,N98C,1902749,N98C,1902749
+B556:1:9,Brenthis hecate,,Brenthis,,hecate,,species,,B556:1,accepted,,,B556:1:6,Brenthis,,,,,,,Brenthis,,Brenthis,N98B,8189761,N98B,8189761
+B556:1:10,Fabriciana,,,,,,genus,,B556:1,accepted,,,,,,,,,,,Fabriciana,,,9298V,1911763,9298V,1911763
+B556:1:11,Fabriciana adippe,,Fabriciana,,adippe,,species,,B556:1,accepted,,,B556:1:10,Fabriciana,,,,,,,Fabriciana,,Fabriciana,6HLWG,7809779,6HLWG,7809779
+B556:1:12,Fabriciana adippe f. chlorodippe,,Fabriciana,,adippe,chlorodippe,form,,B556:1,accepted,,,B556:1:11,Fabriciana adippe,,,,,,,Fabriciana,,Fabriciana | Fabriciana adippe,,,,
+B556:1:13,Fabriciana adippe f. cleodoxa,,Fabriciana,,adippe,cleodoxa,form,,B556:1,accepted,,,B556:1:11,Fabriciana adippe,,,,,,,Fabriciana,,Fabriciana | Fabriciana adippe,5HBKP,,5HBKP,
+B556:1:14,Fabriciana niobe,,Fabriciana,,niobe,,species,,B556:1,accepted,,,B556:1:10,Fabriciana,,,,,,,Fabriciana,,Fabriciana,3DR63,8078362,3DR63,8078362
+B556:1:15,Fabriciana niobe f. eris,,Fabriciana,,niobe,eris,form,,B556:1,accepted,,,B556:1:14,Fabriciana niobe,,,,,,,Fabriciana,,Fabriciana | Fabriciana niobe,,,,
+B556:1:16,Fabriciana elisa,,Fabriciana,,elisa,,species,,B556:1,accepted,,,B556:1:10,Fabriciana,,,,,,,Fabriciana,,Fabriciana,,1911812,,6228548
+B556:1:17,Issoria,,,,,,genus,,B556:1,accepted,,,,,,,,,,,Issoria,,,92CKV,1905339,92CKV,1905339
+B556:1:18,Issoria lathonia,,Issoria,,lathonia,,species,,B556:1,accepted,,,B556:1:17,Issoria,,,,,,,Issoria,,Issoria,3QD32,1905383,3QD32,1905383
+B556:1:19,Speyeria,,,,,,genus,,B556:1,accepted,,,,,,,,,,,Speyeria,,,92N2G,1905150,92N2G,1905150
+B556:1:20,Speyeria aglaja,,Speyeria,,aglaja,,species,,B556:1,accepted,,,B556:1:19,Speyeria,,,,,,,Speyeria,,Speyeria,93N9L,6221746,93N9L,6221746

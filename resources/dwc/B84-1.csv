@@ -1,20 +1,20 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B84:1:1,Suillia,,,,,,genus,,B84:1,accepted,,,,,,,,,,,Suillia,,,7Q6M,1562980
-B84:1:2,Suillia atricornis (Meigen),(Meigen),Suillia,,atricornis,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,8F6Y6,1563107
-B84:1:3,Suillia oxyphora (Mik),(Mik),Suillia,,oxyphora,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4QZ,1563212
-B84:1:4,Suillia ustulata (Meigen),(Meigen),Suillia,,ustulata,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4TV,1563101
-B84:1:5,Suillia fuscicornis (Zetterstedt),(Zetterstedt),Suillia,,fuscicornis,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4SD,1562999
-B84:1:6,Suillia dumicola (Collin),(Collin),Suillia,,dumicola,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,,4515972
-B84:1:7,Suillia humilis (Meigen),(Meigen),Suillia,,humilis,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4QK,1563124
-B84:1:8,Suillia variegata (Loew),(Loew),Suillia,,variegata,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B56C,1563174
-B84:1:9,Suillia notata (Meigen),(Meigen),Suillia,,notata,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4QY,1563050
-B84:1:10,Suillia flava (Meigen),(Meigen),Suillia,,flava,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B54H,1563143
-B84:1:11,Suillia affinis (Meigen),(Meigen),Suillia,,affinis,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4RX,1563097
-B84:1:12,Suillia bicolor (Zetterstedt),(Zetterstedt),Suillia,,bicolor,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B53R,1563062
-B84:1:13,Suillia flavifrons (Zetterstedt),(Zetterstedt),Suillia,,flavifrons,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4SC,1563177
-B84:1:14,Suillia vaginata (Zetterstedt),(Zetterstedt),Suillia,,vaginata,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B55V,1563082
-B84:1:15,Suillia pallida (Fallén),(Fallén),Suillia,,pallida,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4RF,1563190
-B84:1:16,Suillia imberbis Czerny,Czerny,Suillia,,imberbis,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4QJ,1563110
-B84:1:17,Suillia laevifrons (Loew),(Loew),Suillia,,laevifrons,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4R7,1563020
-B84:1:18,Suillia parva (Loew),(Loew),Suillia,,parva,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B53F,1563162
-B84:1:19,"Suillia dawnae Withers, 1987","Withers, 1987",Suillia,,dawnae,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B53Z,1563033
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B84:1:1,Suillia,,,,,,genus,,B84:1,accepted,,,,,,,,,,,Suillia,,,7Q6M,1562980,7Q6M,1562980
+B84:1:2,Suillia atricornis (Meigen),(Meigen),Suillia,,atricornis,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,,1563107,,1563107
+B84:1:3,Suillia oxyphora (Mik),(Mik),Suillia,,oxyphora,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4QZ,1563212,7B4QZ,1563212
+B84:1:4,Suillia ustulata (Meigen),(Meigen),Suillia,,ustulata,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4TV,1563101,7B4TV,1563101
+B84:1:5,Suillia fuscicornis (Zetterstedt),(Zetterstedt),Suillia,,fuscicornis,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4SD,1562999,7B4SD,1562999
+B84:1:6,Suillia dumicola (Collin),(Collin),Suillia,,dumicola,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,,4515972,,1563132
+B84:1:7,Suillia humilis (Meigen),(Meigen),Suillia,,humilis,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4QK,1563124,7B4QK,1563124
+B84:1:8,Suillia variegata (Loew),(Loew),Suillia,,variegata,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B56C,1563174,7B56C,1563174
+B84:1:9,Suillia notata (Meigen),(Meigen),Suillia,,notata,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4QY,1563050,7B4QY,1563050
+B84:1:10,Suillia flava (Meigen),(Meigen),Suillia,,flava,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B54H,1563143,7B54H,1563143
+B84:1:11,Suillia affinis (Meigen),(Meigen),Suillia,,affinis,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4RX,1563097,7B4RX,1563097
+B84:1:12,Suillia bicolor (Zetterstedt),(Zetterstedt),Suillia,,bicolor,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B53R,1563062,7B53R,1563062
+B84:1:13,Suillia flavifrons (Zetterstedt),(Zetterstedt),Suillia,,flavifrons,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4SC,1563177,7B4SC,1563177
+B84:1:14,Suillia vaginata (Zetterstedt),(Zetterstedt),Suillia,,vaginata,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B55V,1563082,7B55V,1563082
+B84:1:15,Suillia pallida (Fallén),(Fallén),Suillia,,pallida,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4RF,1563190,7B4RF,1563190
+B84:1:16,Suillia imberbis Czerny,Czerny,Suillia,,imberbis,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4QJ,1563110,7B4QJ,1563110
+B84:1:17,Suillia laevifrons (Loew),(Loew),Suillia,,laevifrons,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B4R7,1563020,7B4R7,1563020
+B84:1:18,Suillia parva (Loew),(Loew),Suillia,,parva,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B53F,1563162,7B53F,1563162
+B84:1:19,"Suillia dawnae Withers, 1987","Withers, 1987",Suillia,,dawnae,,species,,B84:1,accepted,,,B84:1:1,Suillia,,,,,,,Suillia,,Suillia,7B53Z,1563033,7B53Z,1563033

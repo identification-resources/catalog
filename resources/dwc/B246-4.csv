@@ -1,8 +1,8 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B246:4:1,Tephritidae,,,,,,family,,B246:4,accepted,,,,,,,,,Tephritidae,,,,,GZN,3520
-B246:4:2,Trypetinae,,,,,,subfamily,,B246:4,accepted,,,B246:4:1,Tephritidae,,,,,Tephritidae,Trypetinae,,,Tephritidae,99D38,
-B246:4:3,Trypetini,,,,,,tribe,,B246:4,accepted,,,B246:4:2,Trypetinae,,,,,Tephritidae,Trypetinae,,,Tephritidae | Trypetinae,99D64,
-B246:4:4,"Goniglossum Rondani, 1856","Rondani, 1856",,,,,genus,,B246:4,accepted,,,B246:4:3,Trypetini,,,,,Tephritidae,Trypetinae,Goniglossum,,Tephritidae | Trypetinae | Trypetini,,9086276
-B246:4:5,"Goniglossum wiedemanni (Meigen, 1826)","(Meigen, 1826)",Goniglossum,,wiedemanni,,species,,B246:4,accepted,,,B246:4:4,"Goniglossum Rondani, 1856",,,,,Tephritidae,Trypetinae,Goniglossum,,Tephritidae | Trypetinae | Trypetini | Goniglossum,,4515978
-B246:4:6,Platyparea,,,,,,genus,,B246:4,accepted,,,B246:4:3,Trypetini,,,,,Tephritidae,Trypetinae,Platyparea,,Tephritidae | Trypetinae | Trypetini,6RYK,1629610
-B246:4:7,Platyparea poeciloptera (Schrank),(Schrank),Platyparea,,poeciloptera,,species,,B246:4,accepted,,,B246:4:6,Platyparea,,,,,Tephritidae,Trypetinae,Platyparea,,Tephritidae | Trypetinae | Trypetini | Platyparea,,7611449
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B246:4:1,Tephritidae,,,,,,family,,B246:4,accepted,,,,,,,,,Tephritidae,,,,,GZN,3520,GZN,3520
+B246:4:2,Trypetinae,,,,,,subfamily,,B246:4,accepted,,,B246:4:1,Tephritidae,,,,,Tephritidae,Trypetinae,,,Tephritidae,9WKV8,,9WKV8,
+B246:4:3,Trypetini,,,,,,tribe,,B246:4,accepted,,,B246:4:2,Trypetinae,,,,,Tephritidae,Trypetinae,,,Tephritidae | Trypetinae,9XBSN,,9XBSN,
+B246:4:4,"Goniglossum Rondani, 1856","Rondani, 1856",,,,,genus,,B246:4,accepted,,,B246:4:3,Trypetini,,,,,Tephritidae,Trypetinae,Goniglossum,,Tephritidae | Trypetinae | Trypetini,,9086276,,9086276
+B246:4:5,"Goniglossum wiedemanni (Meigen, 1826)","(Meigen, 1826)",Goniglossum,,wiedemanni,,species,,B246:4,accepted,,,B246:4:4,"Goniglossum Rondani, 1856",,,,,Tephritidae,Trypetinae,Goniglossum,,Tephritidae | Trypetinae | Trypetini | Goniglossum,,4515978,,5086456
+B246:4:6,Platyparea,,,,,,genus,,B246:4,accepted,,,B246:4:3,Trypetini,,,,,Tephritidae,Trypetinae,Platyparea,,Tephritidae | Trypetinae | Trypetini,6RYK,1629610,6RYK,1629610
+B246:4:7,Platyparea poeciloptera (Schrank),(Schrank),Platyparea,,poeciloptera,,species,,B246:4,accepted,,,B246:4:6,Platyparea,,,,,Tephritidae,Trypetinae,Platyparea,,Tephritidae | Trypetinae | Trypetini | Platyparea,,7611449,,1622796

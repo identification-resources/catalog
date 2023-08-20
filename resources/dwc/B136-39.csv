@@ -1,6 +1,6 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B136:39:1,Chrysolina,,,,,,genus,,B136:39,accepted,,,,,,,,,,,Chrysolina,,,3PJ8,1047378
-B136:39:2,Chrysomela,,,,,,genus,,B136:39,synonym,B136:39:1,Chrysolina,,,,,,,,,Chrysomela,,,3PJJ,1048762
-B136:39:3,Chrysolina latecincta (Dem.),(Dem.),Chrysolina,,latecincta,,species,,B136:39,accepted,,,B136:39:1,Chrysolina,,,,,,,Chrysolina,,Chrysolina,,4459998
-B136:39:4,Chrysolina sanguinolenta (L.),(L.),Chrysolina,,sanguinolenta,,species,,B136:39,accepted,,,B136:39:1,Chrysolina,,,,,,,Chrysolina,,Chrysolina,,4459983
-B136:39:5,Chrysolina marginalis,,Chrysolina,,marginalis,,species,,B136:39,synonym,B136:39:4,Chrysolina sanguinolenta (L.),,,,,,,,,Chrysolina,,Chrysolina,,9464463
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:39:1,Chrysolina,,,,,,genus,,B136:39,accepted,,,,,,,,,,,Chrysolina,,,3PJ8,1047378,3PJ8,1047378
+B136:39:2,Chrysomela,,,,,,genus,,B136:39,synonym,B136:39:1,Chrysolina,,,,,,,,,Chrysomela,,,3PJJ,1048762,3PJJ,1048762
+B136:39:3,Chrysolina latecincta (Dem.),(Dem.),Chrysolina,,latecincta,,species,,B136:39,accepted,,,B136:39:1,Chrysolina,,,,,,,Chrysolina,,Chrysolina,,4459998,,4459998
+B136:39:4,Chrysolina sanguinolenta (L.),(L.),Chrysolina,,sanguinolenta,,species,,B136:39,accepted,,,B136:39:1,Chrysolina,,,,,,,Chrysolina,,Chrysolina,,4459983,,4459983
+B136:39:5,Chrysolina marginalis,,Chrysolina,,marginalis,,species,,B136:39,synonym,B136:39:4,Chrysolina sanguinolenta (L.),,,,,,,,,Chrysolina,,Chrysolina,,9464463,,4459983

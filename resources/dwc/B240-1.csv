@@ -1,42 +1,42 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B240:1:1,Conopidae,,,,,,family,,B240:1,accepted,,,,,,,,,Conopidae,,,,,8HX,7298
-B240:1:2,Conopinae,,,,,,subfamily,,B240:1,accepted,,,B240:1:1,Conopidae,,,,,Conopidae,Conopinae,,,Conopidae,87CG6,
-B240:1:3,"Leopoldius Rondani, 1843","Rondani, 1843",,,,,genus,,B240:1,accepted,,,B240:1:2,Conopinae,,,,,Conopidae,Conopinae,Leopoldius,,Conopidae | Conopinae,5CCF,1568460
-B240:1:4,"Brachiglossum Rondani, 1856","Rondani, 1856",,,,,genus,,B240:1,synonym,B240:1:3,"Leopoldius Rondani, 1843",,,,,,,Conopidae,Conopinae,Brachiglossum,,Conopidae | Conopinae,,1569198
-B240:1:5,Leopoldius brevirostris (Germar),(Germar),Leopoldius,,brevirostris,,species,,B240:1,accepted,,,B240:1:3,"Leopoldius Rondani, 1843",,,,,Conopidae,Conopinae,Leopoldius,,Conopidae | Conopinae | Leopoldius,6P8NF,5076685
-B240:1:6,Leopoldius signatus (Wiedemann),(Wiedemann),Leopoldius,,signatus,,species,,B240:1,accepted,,,B240:1:3,"Leopoldius Rondani, 1843",,,,,Conopidae,Conopinae,Leopoldius,,Conopidae | Conopinae | Leopoldius,6P8NG,5076679
-B240:1:7,"Physocephala Schiner, 1861","Schiner, 1861",,,,,genus,,B240:1,accepted,,,B240:1:2,Conopinae,,,,,Conopidae,Conopinae,Physocephala,,Conopidae | Conopinae,6PYG,1568868
-B240:1:8,Physocephala nigra (Degeer),(Degeer),Physocephala,,nigra,,species,,B240:1,accepted,,,B240:1:7,"Physocephala Schiner, 1861",,,,,Conopidae,Conopinae,Physocephala,,Conopidae | Conopinae | Physocephala,4HHHL,1568956
-B240:1:9,Physocephala rufipes (Fabricius),(Fabricius),Physocephala,,rufipes,,species,,B240:1,accepted,,,B240:1:7,"Physocephala Schiner, 1861",,,,,Conopidae,Conopinae,Physocephala,,Conopidae | Conopinae | Physocephala,4HHJG,1568963
-B240:1:10,"Conops Linnaeus, 1758","Linnaeus, 1758",,,,,genus,,B240:1,accepted,,,B240:1:2,Conopinae,,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae,8NND6,1444664
-B240:1:11,"Conopilla Rondani, 1845","Rondani, 1845",,,,,genus,,B240:1,synonym,B240:1:10,"Conops Linnaeus, 1758",,,,,,,Conopidae,Conopinae,Conopilla,,Conopidae | Conopinae,,4790523
-B240:1:12,Conops vesicularis Linnaeus,Linnaeus,Conops,,vesicularis,,species,,B240:1,accepted,,,B240:1:10,"Conops Linnaeus, 1758",,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops,XSTM,5076715
-B240:1:13,Conops strigatus Wiedemann,Wiedemann,Conops,,strigatus,,species,,B240:1,accepted,,,B240:1:10,"Conops Linnaeus, 1758",,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops,8BK7M,5076739
-B240:1:14,Conops flavipes Linnaeus,Linnaeus,Conops,,flavipes,,species,,B240:1,accepted,,,B240:1:10,"Conops Linnaeus, 1758",,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops,8BK67,5076862
-B240:1:15,Conops flavipes var. melanocephala Meigen,Meigen,Conops,,flavipes,melanocephala,variety,,B240:1,accepted,,,B240:1:14,Conops flavipes Linnaeus,,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops | Conops flavipes,88CKB,5076865
-B240:1:16,Conops ceriaeformis Meigen,Meigen,Conops,,ceriaeformis,,species,,B240:1,accepted,,,B240:1:10,"Conops Linnaeus, 1758",,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops,8BK5V,5076836
-B240:1:17,Conops quadrifasciatus Degeer,Degeer,Conops,,quadrifasciatus,,species,,B240:1,accepted,,,B240:1:10,"Conops Linnaeus, 1758",,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops,8BK78,5076797
-B240:1:18,Myopinae,,,,,,subfamily,,B240:1,accepted,,,B240:1:1,Conopidae,,,,,Conopidae,Myopinae,,,Conopidae,8MPNS,
-B240:1:19,"Zodion Latreille, 1796","Latreille, 1796",,,,,genus,,B240:1,accepted,,,B240:1:18,Myopinae,,,,,Conopidae,Myopinae,Zodion,,Conopidae | Myopinae,8B2J,1568754
-B240:1:20,Zodion cinereum (Fabricius),(Fabricius),Zodion,,cinereum,,species,,B240:1,accepted,,,B240:1:19,"Zodion Latreille, 1796",,,,,Conopidae,Myopinae,Zodion,,Conopidae | Myopinae | Zodion,5D6FL,1568846
-B240:1:21,Zodion notatum Meigen,Meigen,Zodion,,notatum,,species,,B240:1,accepted,,,B240:1:19,"Zodion Latreille, 1796",,,,,Conopidae,Myopinae,Zodion,,Conopidae | Myopinae | Zodion,8FP3Z,8845324
-B240:1:22,"Sicus Scopoli, 1763","Scopoli, 1763",,,,,genus,,B240:1,accepted,,,B240:1:18,Myopinae,,,,,Conopidae,Myopinae,Sicus,,Conopidae | Myopinae,7GMX,5980404
-B240:1:23,Sicus ferrugineus (Linnaeus),(Linnaeus),Sicus,,ferrugineus,,species,,B240:1,accepted,,,B240:1:22,"Sicus Scopoli, 1763",,,,,Conopidae,Myopinae,Sicus,,Conopidae | Myopinae | Sicus,4X78G,8078708
-B240:1:24,Sicus abdomalis Kröber,Kröber,Sicus,,abdomalis,,species,,B240:1,accepted,,,B240:1:22,"Sicus Scopoli, 1763",,,,,Conopidae,Myopinae,Sicus,,Conopidae | Myopinae | Sicus,7GMX,11250884
-B240:1:25,Sicus vaginalis Kröber,Kröber,Sicus,,vaginalis,,species,,B240:1,synonym,B240:1:24,Sicus abdomalis Kröber,,,,,,,Conopidae,Myopinae,Sicus,,Conopidae | Myopinae | Sicus,4X78Q,5077018
-B240:1:26,"Myopa Fabricius, 1775","Fabricius, 1775",,,,,genus,,B240:1,accepted,,,B240:1:18,Myopinae,,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae,63CSK,1568357
-B240:1:27,Myopa occulta Meigen,Meigen,Myopa,,occulta,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4553S,1568371
-B240:1:28,Myopa fasciata Meigen,Meigen,Myopa,,fasciata,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4552J,1568404
-B240:1:29,Myopa curtirostris Kröber,Kröber,Myopa,,curtirostris,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4552D,1568408
-B240:1:30,Myopa buccata (Linnaeus),(Linnaeus),Myopa,,buccata,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,454ZY,1568432
-B240:1:31,Myopa testacea (Linnaeus),(Linnaeus),Myopa,,testacea,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4554L,1568398
-B240:1:32,Myopa vicaria Walker,Walker,Myopa,,vicaria,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4554V,1568419
-B240:1:33,Myopa strandi Duda,Duda,Myopa,,strandi,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4554H,1568360
-B240:1:34,Myopa polystigma Rondani,Rondani,Myopa,,polystigma,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,45546,1568411
-B240:1:35,Myopa extricata Collin,Collin,Myopa,,extricata,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4552H,1568395
-B240:1:36,"Thecophora Rondani, 1845","Rondani, 1845",,,,,genus,,B240:1,accepted,,,B240:1:18,Myopinae,,,,,Conopidae,Myopinae,Thecophora,,Conopidae | Myopinae,7VH3,1569346
-B240:1:37,"Occemyia Robineau-Desvoidy, 1853","Robineau-Desvoidy, 1853",,,,,genus,,B240:1,synonym,B240:1:36,"Thecophora Rondani, 1845",,,,,,,Conopidae,Myopinae,Occemyia,,Conopidae | Myopinae,,1569439
-B240:1:38,"Oncomyia Loew, 1866","Loew, 1866",,,,,genus,,B240:1,synonym,B240:1:36,"Thecophora Rondani, 1845",,,,,,,Conopidae,Myopinae,Oncomyia,,Conopidae | Myopinae,,1569111
-B240:1:39,Thecophora atra (Fabricius),(Fabricius),Thecophora,,atra,,species,,B240:1,accepted,,,B240:1:36,"Thecophora Rondani, 1845",,,,,Conopidae,Myopinae,Thecophora,,Conopidae | Myopinae | Thecophora,5674R,1569366
-B240:1:40,Thecophora fulvipes (Desvoidy),(Desvoidy),Thecophora,,fulvipes,,species,,B240:1,accepted,,,B240:1:36,"Thecophora Rondani, 1845",,,,,Conopidae,Myopinae,Thecophora,,Conopidae | Myopinae | Thecophora,56753,1569429
-B240:1:41,Thecophora sundewalli Zetterstedt,Zetterstedt,Thecophora,,sundewalli,,species,,B240:1,synonym,B240:1:40,Thecophora fulvipes (Desvoidy),,,,,,,Conopidae,Myopinae,Thecophora,,Conopidae | Myopinae | Thecophora,,6098344
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B240:1:1,Conopidae,,,,,,family,,B240:1,accepted,,,,,,,,,Conopidae,,,,,8HX,7298,8HX,7298
+B240:1:2,Conopinae,,,,,,subfamily,,B240:1,accepted,,,B240:1:1,Conopidae,,,,,Conopidae,Conopinae,,,Conopidae,87CG6,,87CG6,
+B240:1:3,"Leopoldius Rondani, 1843","Rondani, 1843",,,,,genus,,B240:1,accepted,,,B240:1:2,Conopinae,,,,,Conopidae,Conopinae,Leopoldius,,Conopidae | Conopinae,5CCF,1568460,5CCF,1568460
+B240:1:4,"Brachiglossum Rondani, 1856","Rondani, 1856",,,,,genus,,B240:1,synonym,B240:1:3,"Leopoldius Rondani, 1843",,,,,,,Conopidae,Conopinae,Brachiglossum,,Conopidae | Conopinae,,1569198,,1568460
+B240:1:5,Leopoldius brevirostris (Germar),(Germar),Leopoldius,,brevirostris,,species,,B240:1,accepted,,,B240:1:3,"Leopoldius Rondani, 1843",,,,,Conopidae,Conopinae,Leopoldius,,Conopidae | Conopinae | Leopoldius,6P8NF,5076685,6P8NF,5076685
+B240:1:6,Leopoldius signatus (Wiedemann),(Wiedemann),Leopoldius,,signatus,,species,,B240:1,accepted,,,B240:1:3,"Leopoldius Rondani, 1843",,,,,Conopidae,Conopinae,Leopoldius,,Conopidae | Conopinae | Leopoldius,6P8NG,5076679,6P8NG,5076679
+B240:1:7,"Physocephala Schiner, 1861","Schiner, 1861",,,,,genus,,B240:1,accepted,,,B240:1:2,Conopinae,,,,,Conopidae,Conopinae,Physocephala,,Conopidae | Conopinae,9H73Q,1568868,9H73Q,1568868
+B240:1:8,Physocephala nigra (Degeer),(Degeer),Physocephala,,nigra,,species,,B240:1,accepted,,,B240:1:7,"Physocephala Schiner, 1861",,,,,Conopidae,Conopinae,Physocephala,,Conopidae | Conopinae | Physocephala,9HCCS,1568956,9HCCS,1568956
+B240:1:9,Physocephala rufipes (Fabricius),(Fabricius),Physocephala,,rufipes,,species,,B240:1,accepted,,,B240:1:7,"Physocephala Schiner, 1861",,,,,Conopidae,Conopinae,Physocephala,,Conopidae | Conopinae | Physocephala,9HCDQ,1568963,9HCDQ,1568963
+B240:1:10,"Conops Linnaeus, 1758","Linnaeus, 1758",,,,,genus,,B240:1,accepted,,,B240:1:2,Conopinae,,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae,9WL3Q,1444664,9WL3Q,1444664
+B240:1:11,"Conopilla Rondani, 1845","Rondani, 1845",,,,,genus,,B240:1,synonym,B240:1:10,"Conops Linnaeus, 1758",,,,,,,Conopidae,Conopinae,Conopilla,,Conopidae | Conopinae,,4790523,,1444664
+B240:1:12,Conops vesicularis Linnaeus,Linnaeus,Conops,,vesicularis,,species,,B240:1,accepted,,,B240:1:10,"Conops Linnaeus, 1758",,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops,XSTM,5076715,XSTM,5076715
+B240:1:13,Conops strigatus Wiedemann,Wiedemann,Conops,,strigatus,,species,,B240:1,accepted,,,B240:1:10,"Conops Linnaeus, 1758",,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops,8BK7M,5076739,8BK7M,5076739
+B240:1:14,Conops flavipes Linnaeus,Linnaeus,Conops,,flavipes,,species,,B240:1,accepted,,,B240:1:10,"Conops Linnaeus, 1758",,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops,XSMJ,5076862,XSMJ,5076862
+B240:1:15,Conops flavipes var. melanocephala Meigen,Meigen,Conops,,flavipes,melanocephala,variety,,B240:1,accepted,,,B240:1:14,Conops flavipes Linnaeus,,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops | Conops flavipes,,,,
+B240:1:16,Conops ceriaeformis Meigen,Meigen,Conops,,ceriaeformis,,species,,B240:1,accepted,,,B240:1:10,"Conops Linnaeus, 1758",,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops,8BK5V,5076836,8BK5V,5076836
+B240:1:17,Conops quadrifasciatus Degeer,Degeer,Conops,,quadrifasciatus,,species,,B240:1,accepted,,,B240:1:10,"Conops Linnaeus, 1758",,,,,Conopidae,Conopinae,Conops,,Conopidae | Conopinae | Conops,8BK78,5076797,8BK78,5076797
+B240:1:18,Myopinae,,,,,,subfamily,,B240:1,accepted,,,B240:1:1,Conopidae,,,,,Conopidae,Myopinae,,,Conopidae,9XBN9,,9XBN9,
+B240:1:19,"Zodion Latreille, 1796","Latreille, 1796",,,,,genus,,B240:1,accepted,,,B240:1:18,Myopinae,,,,,Conopidae,Myopinae,Zodion,,Conopidae | Myopinae,9WLLC,1568754,9WLLC,1568754
+B240:1:20,Zodion cinereum (Fabricius),(Fabricius),Zodion,,cinereum,,species,,B240:1,accepted,,,B240:1:19,"Zodion Latreille, 1796",,,,,Conopidae,Myopinae,Zodion,,Conopidae | Myopinae | Zodion,9HDD2,1568846,9HDD2,1568846
+B240:1:21,Zodion notatum Meigen,Meigen,Zodion,,notatum,,species,,B240:1,accepted,,,B240:1:19,"Zodion Latreille, 1796",,,,,Conopidae,Myopinae,Zodion,,Conopidae | Myopinae | Zodion,,8845324,,1568846
+B240:1:22,"Sicus Scopoli, 1763","Scopoli, 1763",,,,,genus,,B240:1,accepted,,,B240:1:18,Myopinae,,,,,Conopidae,Myopinae,Sicus,,Conopidae | Myopinae,7GMX,5980404,7GMX,5980404
+B240:1:23,Sicus ferrugineus (Linnaeus),(Linnaeus),Sicus,,ferrugineus,,species,,B240:1,accepted,,,B240:1:22,"Sicus Scopoli, 1763",,,,,Conopidae,Myopinae,Sicus,,Conopidae | Myopinae | Sicus,4X78G,8078708,4X78G,8078708
+B240:1:24,Sicus abdomalis Kröber,Kröber,Sicus,,abdomalis,,species,,B240:1,accepted,,,B240:1:22,"Sicus Scopoli, 1763",,,,,Conopidae,Myopinae,Sicus,,Conopidae | Myopinae | Sicus,,,,
+B240:1:25,Sicus vaginalis Kröber,Kröber,Sicus,,vaginalis,,species,,B240:1,synonym,B240:1:24,Sicus abdomalis Kröber,,,,,,,Conopidae,Myopinae,Sicus,,Conopidae | Myopinae | Sicus,4X78Q,5077018,4X786,5077017
+B240:1:26,"Myopa Fabricius, 1775","Fabricius, 1775",,,,,genus,,B240:1,accepted,,,B240:1:18,Myopinae,,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae,63CSK,1568357,63CSK,1568357
+B240:1:27,Myopa occulta Meigen,Meigen,Myopa,,occulta,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,9HBVH,11971953,9HBVH,11971953
+B240:1:28,Myopa fasciata Meigen,Meigen,Myopa,,fasciata,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4552J,1568404,4552J,1568404
+B240:1:29,Myopa curtirostris Kröber,Kröber,Myopa,,curtirostris,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4552D,1568408,4552J,1568404
+B240:1:30,Myopa buccata (Linnaeus),(Linnaeus),Myopa,,buccata,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,454ZY,1568432,454ZY,1568432
+B240:1:31,Myopa testacea (Linnaeus),(Linnaeus),Myopa,,testacea,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4554L,1568398,4554L,1568398
+B240:1:32,Myopa vicaria Walker,Walker,Myopa,,vicaria,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4554V,1568419,4554V,1568419
+B240:1:33,Myopa strandi Duda,Duda,Myopa,,strandi,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4554H,1568360,4554V,1568419
+B240:1:34,Myopa polystigma Rondani,Rondani,Myopa,,polystigma,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,45546,1568411,45546,1568411
+B240:1:35,Myopa extricata Collin,Collin,Myopa,,extricata,,species,,B240:1,accepted,,,B240:1:26,"Myopa Fabricius, 1775",,,,,Conopidae,Myopinae,Myopa,,Conopidae | Myopinae | Myopa,4552H,1568395,4552H,1568395
+B240:1:36,"Thecophora Rondani, 1845","Rondani, 1845",,,,,genus,,B240:1,accepted,,,B240:1:18,Myopinae,,,,,Conopidae,Myopinae,Thecophora,,Conopidae | Myopinae,7VH3,1569346,7VH3,1569346
+B240:1:37,"Occemyia Robineau-Desvoidy, 1853","Robineau-Desvoidy, 1853",,,,,genus,,B240:1,synonym,B240:1:36,"Thecophora Rondani, 1845",,,,,,,Conopidae,Myopinae,Occemyia,,Conopidae | Myopinae,,1569439,,1569346
+B240:1:38,"Oncomyia Loew, 1866","Loew, 1866",,,,,genus,,B240:1,synonym,B240:1:36,"Thecophora Rondani, 1845",,,,,,,Conopidae,Myopinae,Oncomyia,,Conopidae | Myopinae,,1569111,,1569346
+B240:1:39,Thecophora atra (Fabricius),(Fabricius),Thecophora,,atra,,species,,B240:1,accepted,,,B240:1:36,"Thecophora Rondani, 1845",,,,,Conopidae,Myopinae,Thecophora,,Conopidae | Myopinae | Thecophora,5674R,1569366,5674R,1569366
+B240:1:40,Thecophora fulvipes (Desvoidy),(Desvoidy),Thecophora,,fulvipes,,species,,B240:1,accepted,,,B240:1:36,"Thecophora Rondani, 1845",,,,,Conopidae,Myopinae,Thecophora,,Conopidae | Myopinae | Thecophora,56753,1569429,56753,1569429
+B240:1:41,Thecophora sundewalli Zetterstedt,Zetterstedt,Thecophora,,sundewalli,,species,,B240:1,synonym,B240:1:40,Thecophora fulvipes (Desvoidy),,,,,,,Conopidae,Myopinae,Thecophora,,Conopidae | Myopinae | Thecophora,,6098344,,1569429

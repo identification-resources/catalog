@@ -1,11 +1,11 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B356:1:1,Cyphon Paykull,Paykull,,,,,genus,,B356:1,accepted,,,,,,,,,,,Cyphon,,,63253,5007531
-B356:1:2,Cyphon coarctatus Paykull,Paykull,Cyphon,,coarctatus,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5743655
-B356:1:3,Cyphon palustris Thomson,Thomson,Cyphon,,palustris,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5743494
-B356:1:4,Cyphon ruficeps Tournier,Tournier,Cyphon,,ruficeps,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5743656
-B356:1:5,Cyphon variabilis (Thunberg),(Thunberg),Cyphon,,variabilis,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5007534
-B356:1:6,Cyphon phragmiteticola Nyholm,Nyholm,Cyphon,,phragmiteticola,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,7911947
-B356:1:7,Cyphon pubescens (Fabricius),(Fabricius),Cyphon,,pubescens,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5743667
-B356:1:8,Cyphon hilaris Nyholm,Nyholm,Cyphon,,hilaris,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5878474
-B356:1:9,Cyphon padi (Linnaeus),(Linnaeus),Cyphon,,padi,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5007549
-B356:1:10,Cyphon ochraceus Stephens,Stephens,Cyphon,,ochraceus,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5743679
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B356:1:1,Cyphon Paykull,Paykull,,,,,genus,,B356:1,accepted,,,,,,,,,,,Cyphon,,,63253,5007531,63253,5007531
+B356:1:2,Cyphon coarctatus Paykull,Paykull,Cyphon,,coarctatus,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5743655,,9588116
+B356:1:3,Cyphon palustris Thomson,Thomson,Cyphon,,palustris,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5743494,,5743494
+B356:1:4,Cyphon ruficeps Tournier,Tournier,Cyphon,,ruficeps,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5743656,,9387161
+B356:1:5,Cyphon variabilis (Thunberg),(Thunberg),Cyphon,,variabilis,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5007534,,5007534
+B356:1:6,Cyphon phragmiteticola Nyholm,Nyholm,Cyphon,,phragmiteticola,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,7911947,,9619922
+B356:1:7,Cyphon pubescens (Fabricius),(Fabricius),Cyphon,,pubescens,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5743667,,9627705
+B356:1:8,Cyphon hilaris Nyholm,Nyholm,Cyphon,,hilaris,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5878474,,9424647
+B356:1:9,Cyphon padi (Linnaeus),(Linnaeus),Cyphon,,padi,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5007549,,5007549
+B356:1:10,Cyphon ochraceus Stephens,Stephens,Cyphon,,ochraceus,,species,,B356:1,accepted,,,B356:1:1,Cyphon Paykull,,,,,,,Cyphon,,Cyphon,,5743679,,9609873

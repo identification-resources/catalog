@@ -1,77 +1,77 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B92:1:1,Symphyta,,,,,,suborder,,B92:1,accepted,,,,,,,,,,,,,,7QWK,
-B92:1:2,Orussidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Orussidae,,,,Symphyta,DQZ,6044
-B92:1:3,Orussinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:2,Orussidae,,,,,Orussidae,Orussinae,,,Symphyta | Orussidae,,
-B92:1:4,"Orussus Latreille, 1796","Latreille, 1796",,,,,genus,,B92:1,accepted,,,B92:1:3,Orussinae,,,,,Orussidae,Orussinae,Orussus,,Symphyta | Orussidae | Orussinae,,3259201
-B92:1:5,"Pseudoryssus Guiglia, 1954","Guiglia, 1954",,,,,genus,,B92:1,accepted,,,B92:1:3,Orussinae,,,,,Orussidae,Orussinae,Pseudoryssus,,Symphyta | Orussidae | Orussinae,,4489967
-B92:1:6,Xyelidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Xyelidae,,,,Symphyta,HYJ,7921
-B92:1:7,Xyelinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:6,Xyelidae,,,,,Xyelidae,Xyelinae,,,Symphyta | Xyelidae,,
-B92:1:8,"Pleroneura Konow, 1897","Konow, 1897",,,,,genus,,B92:1,accepted,,,B92:1:7,Xyelinae,,,,,Xyelidae,Xyelinae,Pleroneura,,Symphyta | Xyelidae | Xyelinae,6SJG,1248771
-B92:1:9,"Xyela Dalman, 1819","Dalman, 1819",,,,,genus,,B92:1,accepted,,,B92:1:7,Xyelinae,,,,,Xyelidae,Xyelinae,Xyela,,Symphyta | Xyelidae | Xyelinae,,4405000
-B92:1:10,Xyelatana Benson,Benson,,,,,genus,,B92:1,synonym,B92:1:9,"Xyela Dalman, 1819",,,,,,,Xyelidae,Xyelinae,Xyelatana,,Symphyta | Xyelidae | Xyelinae,,4489993
-B92:1:11,Cephidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Cephidae,,,,Symphyta,622LS,4337
-B92:1:12,Hartigini,,,,,,tribe,,B92:1,accepted,,,B92:1:11,Cephidae,,,,,Cephidae,,,,Symphyta | Cephidae,,
-B92:1:13,"Hartigia Schiødte, 1838","Schiødte, 1838",,,,,genus,,B92:1,accepted,,,B92:1:12,Hartigini,,,,,Cephidae,,Hartigia,,Symphyta | Cephidae | Hartigini,,7710880
-B92:1:14,"Janus Stephens, 1835","Stephens, 1835",,,,,genus,,B92:1,accepted,,,B92:1:12,Hartigini,,,,,Cephidae,,Janus,,Symphyta | Cephidae | Hartigini,56B9,1334172
-B92:1:15,Cephini,,,,,,tribe,,B92:1,accepted,,,B92:1:11,Cephidae,,,,,Cephidae,,,,Symphyta | Cephidae,,
-B92:1:16,"Trachelus Jurine, 1807","Jurine, 1807",,,,,genus,,B92:1,accepted,,,B92:1:15,Cephini,,,,,Cephidae,,Trachelus,,Symphyta | Cephidae | Cephini,8MVKR,1334170
-B92:1:17,"Calameuta Konow, 1896","Konow, 1896",,,,,genus,,B92:1,accepted,,,B92:1:15,Cephini,,,,,Cephidae,,Calameuta,,Symphyta | Cephidae | Cephini,,4406679
-B92:1:18,"Cephus Latreille, 1802","Latreille, 1802",,,,,genus,,B92:1,accepted,,,B92:1:15,Cephini,,,,,Cephidae,,Cephus,,Symphyta | Cephidae | Cephini,3KKH,1334167
-B92:1:19,Xiphydriidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Xiphydriidae,,,,Symphyta,626ST,6042
-B92:1:20,"Xiphydria Latreille, 1802","Latreille, 1802",,,,,genus,,B92:1,accepted,,,B92:1:19,Xiphydriidae,,,,,Xiphydriidae,,Xiphydria,,Symphyta | Xiphydriidae,,9088735
-B92:1:21,"Konowia Brauns, 1884","Brauns, 1884",,,,,genus,,B92:1,accepted,,,B92:1:19,Xiphydriidae,,,,,Xiphydriidae,,Konowia,,Symphyta | Xiphydriidae,,4672157
-B92:1:22,Siricidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Siricidae,,,,Symphyta,GC4,7915
-B92:1:23,Tremicinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:22,Siricidae,,,,,Siricidae,Tremicinae,,,Symphyta | Siricidae,,
-B92:1:24,"Tremex Jurine, 1807","Jurine, 1807",,,,,genus,,B92:1,accepted,,,B92:1:23,Tremicinae,,,,,Siricidae,Tremicinae,Tremex,,Symphyta | Siricidae | Tremicinae,7YR6,1358460
-B92:1:25,Siricinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:22,Siricidae,,,,,Siricidae,Siricinae,,,Symphyta | Siricidae,,
-B92:1:26,"Xeris Costa, 1894","Costa, 1894",,,,,genus,,B92:1,accepted,,,B92:1:25,Siricinae,,,,,Siricidae,Siricinae,Xeris,,Symphyta | Siricidae | Siricinae,,3259022
-B92:1:27,"Sirex Linnaeus, 1761","Linnaeus, 1761",,,,,genus,,B92:1,accepted,,,B92:1:25,Siricinae,,,,,Siricidae,Siricinae,Sirex,,Symphyta | Siricidae | Siricinae,7HRY,1358462
-B92:1:28,"Urocerus Geoffroy, 1785","Geoffroy, 1785",,,,,genus,,B92:1,accepted,,,B92:1:25,Siricinae,,,,,Siricidae,Siricinae,Urocerus,,Symphyta | Siricidae | Siricinae,,4406464
-B92:1:29,Megalodontesidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Megalodontesidae,,,,Symphyta,CH3,5430774
-B92:1:30,Megalodontidae preocc.,preocc.,,,,,family,,B92:1,synonym,B92:1:29,Megalodontesidae,,,,,,,Megalodontidae,,,,Symphyta,,
-B92:1:31,"Megalodontes Latreille, 1802","Latreille, 1802",,,,,genus,,B92:1,accepted,,,B92:1:29,Megalodontesidae,,,,,Megalodontesidae,,Megalodontes,,Symphyta | Megalodontesidae,,3259243
-B92:1:32,Pamphiliidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Pamphiliidae,,,,Symphyta,DWB,4346
-B92:1:33,Pamphiliinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:32,Pamphiliidae,,,,,Pamphiliidae,Pamphiliinae,,,Symphyta | Pamphiliidae,,
-B92:1:34,Neurotomini,,,,,,tribe,,B92:1,accepted,,,B92:1:33,Pamphiliinae,,,,,Pamphiliidae,Pamphiliinae,,,Symphyta | Pamphiliidae | Pamphiliinae,,
-B92:1:35,"Neurotoma Konow, 1897","Konow, 1897",,,,,genus,,B92:1,accepted,,,B92:1:34,Neurotomini,,,,,Pamphiliidae,Pamphiliinae,Neurotoma,,Symphyta | Pamphiliidae | Pamphiliinae | Neurotomini,63F3F,1248775
-B92:1:36,Pamphiliini,,,,,,tribe,,B92:1,accepted,,,B92:1:33,Pamphiliinae,,,,,Pamphiliidae,Pamphiliinae,,,Symphyta | Pamphiliidae | Pamphiliinae,,
-B92:1:37,"Onycholyda Takeuchi, 1938","Takeuchi, 1938",,,,,genus,,B92:1,accepted,,,B92:1:36,Pamphiliini,,,,,Pamphiliidae,Pamphiliinae,Onycholyda,,Symphyta | Pamphiliidae | Pamphiliinae | Pamphiliini,,4492271
-B92:1:38,"Pamphilius Latreille, 1802","Latreille, 1802",,,,,genus,,B92:1,accepted,,,B92:1:36,Pamphiliini,,,,,Pamphiliidae,Pamphiliinae,Pamphilius,,Symphyta | Pamphiliidae | Pamphiliinae | Pamphiliini,,4406666
-B92:1:39,Cephalciinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:32,Pamphiliidae,,,,,Pamphiliidae,Cephalciinae,,,Symphyta | Pamphiliidae,,
-B92:1:40,Caenolydini,,,,,,tribe,,B92:1,accepted,,,B92:1:39,Cephalciinae,,,,,Pamphiliidae,Cephalciinae,,,Symphyta | Pamphiliidae | Cephalciinae,,
-B92:1:41,"Caenolyda Konow, 1897","Konow, 1897",,,,,genus,,B92:1,accepted,,,B92:1:40,Caenolydini,,,,,Pamphiliidae,Cephalciinae,Caenolyda,,Symphyta | Pamphiliidae | Cephalciinae | Caenolydini,,4406741
-B92:1:42,Cephalciini,,,,,,tribe,,B92:1,accepted,,,B92:1:39,Cephalciinae,,,,,Pamphiliidae,Cephalciinae,,,Symphyta | Pamphiliidae | Cephalciinae,,
-B92:1:43,"Acantholyda Costa, 1894","Costa, 1894",,,,,genus,,B92:1,accepted,,,B92:1:42,Cephalciini,,,,,Pamphiliidae,Cephalciinae,Acantholyda,,Symphyta | Pamphiliidae | Cephalciinae | Cephalciini,M96,1248773
-B92:1:44,"Cephalcia Panzer, 1805","Panzer, 1805",,,,,genus,,B92:1,accepted,,,B92:1:42,Cephalciini,,,,,Pamphiliidae,Cephalciinae,Cephalcia,,Symphyta | Pamphiliidae | Cephalciinae | Cephalciini,,4404683
-B92:1:45,Argidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Argidae,,,,Symphyta,6PR,7902
-B92:1:46,Arginae,,,,,,subfamily,,B92:1,accepted,,,B92:1:45,Argidae,,,,,Argidae,Arginae,,,Symphyta | Argidae,,
-B92:1:47,"Arge Schrank, 1802","Schrank, 1802",,,,,genus,,B92:1,accepted,,,B92:1:46,Arginae,,,,,Argidae,Arginae,Arge,,Symphyta | Argidae | Arginae,32L7,1249713
-B92:1:48,Sterictiphorinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:45,Argidae,,,,,Argidae,Sterictiphorinae,,,Symphyta | Argidae,,
-B92:1:49,"Sterictiphora Billberg, 1820","Billberg, 1820",,,,,genus,,B92:1,accepted,,,B92:1:48,Sterictiphorinae,,,,,Argidae,Sterictiphorinae,Sterictiphora,,Symphyta | Argidae | Sterictiphorinae,,4406960
-B92:1:50,"Aprosthema Konow, 1899","Konow, 1899",,,,,genus,,B92:1,accepted,,,B92:1:48,Sterictiphorinae,,,,,Argidae,Sterictiphorinae,Aprosthema,,Symphyta | Argidae | Sterictiphorinae,,9034016
-B92:1:51,Blasticotomidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Blasticotomidae,,,,Symphyta,78M,4298197
-B92:1:52,"Blasticotoma Klug, 1834","Klug, 1834",,,,,genus,,B92:1,accepted,,,B92:1:51,Blasticotomidae,,,,,Blasticotomidae,,Blasticotoma,,Symphyta | Blasticotomidae,,4408209
-B92:1:53,Cimbicidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Cimbicidae,,,,Symphyta,892,7904
-B92:1:54,Coryninae,,,,,,subfamily,,B92:1,accepted,,,B92:1:53,Cimbicidae,,,,,Cimbicidae,Coryninae,,,Symphyta | Cimbicidae,,
-B92:1:55,"Corynis Thunberg, 1789","Thunberg, 1789",,,,,genus,,B92:1,accepted,,,B92:1:54,Coryninae,,,,,Cimbicidae,Coryninae,Corynis,,Symphyta | Cimbicidae | Coryninae,,4406049
-B92:1:56,Abiinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:53,Cimbicidae,,,,,Cimbicidae,Abiinae,,,Symphyta | Cimbicidae,,
-B92:1:57,"Abia Leach, 1817","Leach, 1817",,,,,genus,,B92:1,accepted,,,B92:1:56,Abiinae,,,,,Cimbicidae,Abiinae,Abia,,Symphyta | Cimbicidae | Abiinae,,3259207
-B92:1:58,"Zaraea Leach, 1817","Leach, 1817",,,,,genus,,B92:1,accepted,,,B92:1:56,Abiinae,,,,,Cimbicidae,Abiinae,Zaraea,,Symphyta | Cimbicidae | Abiinae,648VW,1249711
-B92:1:59,Cimbicinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:53,Cimbicidae,,,,,Cimbicidae,Cimbicinae,,,Symphyta | Cimbicidae,,
-B92:1:60,Cimbicini,,,,,,tribe,,B92:1,accepted,,,B92:1:59,Cimbicinae,,,,,Cimbicidae,Cimbicinae,,,Symphyta | Cimbicidae | Cimbicinae,,
-B92:1:61,"Praia André, 1880","André, 1880",,,,,genus,,B92:1,accepted,,,B92:1:60,Cimbicini,,,,,Cimbicidae,Cimbicinae,Praia,,Symphyta | Cimbicidae | Cimbicinae | Cimbicini,,3259254
-B92:1:62,"Cimbex Oliver, 1790","Oliver, 1790",,,,,genus,,B92:1,accepted,,,B92:1:60,Cimbicini,,,,,Cimbicidae,Cimbicinae,Cimbex,,Symphyta | Cimbicidae | Cimbicinae | Cimbicini,3PWX,1249709
-B92:1:63,"Palaeocimbex Semenov-Tian-Shanskij, 1935","Semenov-Tian-Shanskij, 1935",,,,,genus,,B92:1,accepted,,,B92:1:60,Cimbicini,,,,,Cimbicidae,Cimbicinae,Palaeocimbex,,Symphyta | Cimbicidae | Cimbicinae | Cimbicini,,4490134
-B92:1:64,Trichiosomini,,,,,,tribe,,B92:1,accepted,,,B92:1:59,Cimbicinae,,,,,Cimbicidae,Cimbicinae,,,Symphyta | Cimbicidae | Cimbicinae,,
-B92:1:65,"Trichiosoma Leach, 1817","Leach, 1817",,,,,genus,,B92:1,accepted,,,B92:1:64,Trichiosomini,,,,,Cimbicidae,Cimbicinae,Trichiosoma,,Symphyta | Cimbicidae | Cimbicinae | Trichiosomini,,3259206
-B92:1:66,"Pseudoclavellaria Schultz, 1906","Schultz, 1906",,,,,genus,,B92:1,accepted,,,B92:1:64,Trichiosomini,,,,,Cimbicidae,Cimbicinae,Pseudoclavellaria,,Symphyta | Cimbicidae | Cimbicinae | Trichiosomini,,4490142
-B92:1:67,Diprionidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Diprionidae,,,,Symphyta,9CF,7907
-B92:1:68,Monocteninae,,,,,,subfamily,,B92:1,accepted,,,B92:1:67,Diprionidae,,,,,Diprionidae,Monocteninae,,,Symphyta | Diprionidae,,
-B92:1:69,"Monoctenus Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B92:1,accepted,,,B92:1:68,Monocteninae,,,,,Diprionidae,Monocteninae,Monoctenus,,Symphyta | Diprionidae | Monocteninae,,4407838
-B92:1:70,Diprioninae,,,,,,subfamily,,B92:1,accepted,,,B92:1:67,Diprionidae,,,,,Diprionidae,Diprioninae,,,Symphyta | Diprionidae,,
-B92:1:71,"Microdiprion Enslin, 1917","Enslin, 1917",,,,,genus,,B92:1,accepted,,,B92:1:70,Diprioninae,,,,,Diprionidae,Diprioninae,Microdiprion,,Symphyta | Diprionidae | Diprioninae,,4492171
-B92:1:72,"Neodiprion Rohwer, 1918","Rohwer, 1918",,,,,genus,,B92:1,accepted,,,B92:1:70,Diprioninae,,,,,Diprionidae,Diprioninae,Neodiprion,,Symphyta | Diprionidae | Diprioninae,5ZCN,1249720
-B92:1:73,"Macrodiprion Enslin, 1917","Enslin, 1917",,,,,genus,,B92:1,accepted,,,B92:1:70,Diprioninae,,,,,Diprionidae,Diprioninae,Macrodiprion,,Symphyta | Diprionidae | Diprioninae,,4406568
-B92:1:74,"Gilpinia Benson, 1939","Benson, 1939",,,,,genus,,B92:1,accepted,,,B92:1:70,Diprioninae,,,,,Diprionidae,Diprioninae,Gilpinia,,Symphyta | Diprionidae | Diprioninae,4NKC,1249739
-B92:1:75,"Diprion Schrank, 1802","Schrank, 1802",,,,,genus,,B92:1,accepted,,,B92:1:70,Diprioninae,,,,,Diprionidae,Diprioninae,Diprion,,Symphyta | Diprionidae | Diprioninae,46GW,1249741
-B92:1:76,Tenthredinidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Tenthredinidae,,,,Symphyta,GZJ,7918
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B92:1:1,Symphyta,,,,,,suborder,,B92:1,accepted,,,,,,,,,,,,,,92NKS,,92NKS,
+B92:1:2,Orussidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Orussidae,,,,Symphyta,DQZ,6044,DQZ,6044
+B92:1:3,Orussinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:2,Orussidae,,,,,Orussidae,Orussinae,,,Symphyta | Orussidae,,,,
+B92:1:4,"Orussus Latreille, 1796","Latreille, 1796",,,,,genus,,B92:1,accepted,,,B92:1:3,Orussinae,,,,,Orussidae,Orussinae,Orussus,,Symphyta | Orussidae | Orussinae,,3259201,,3259201
+B92:1:5,"Pseudoryssus Guiglia, 1954","Guiglia, 1954",,,,,genus,,B92:1,accepted,,,B92:1:3,Orussinae,,,,,Orussidae,Orussinae,Pseudoryssus,,Symphyta | Orussidae | Orussinae,,4489967,,4489967
+B92:1:6,Xyelidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Xyelidae,,,,Symphyta,HYJ,7921,HYJ,7921
+B92:1:7,Xyelinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:6,Xyelidae,,,,,Xyelidae,Xyelinae,,,Symphyta | Xyelidae,,,,
+B92:1:8,"Pleroneura Konow, 1897","Konow, 1897",,,,,genus,,B92:1,accepted,,,B92:1:7,Xyelinae,,,,,Xyelidae,Xyelinae,Pleroneura,,Symphyta | Xyelidae | Xyelinae,6SJG,1248771,6SJG,1248771
+B92:1:9,"Xyela Dalman, 1819","Dalman, 1819",,,,,genus,,B92:1,accepted,,,B92:1:7,Xyelinae,,,,,Xyelidae,Xyelinae,Xyela,,Symphyta | Xyelidae | Xyelinae,,4405000,,4405000
+B92:1:10,Xyelatana Benson,Benson,,,,,genus,,B92:1,synonym,B92:1:9,"Xyela Dalman, 1819",,,,,,,Xyelidae,Xyelinae,Xyelatana,,Symphyta | Xyelidae | Xyelinae,,4489993,,4405000
+B92:1:11,Cephidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Cephidae,,,,Symphyta,622LS,4337,622LS,4337
+B92:1:12,Hartigini,,,,,,tribe,,B92:1,accepted,,,B92:1:11,Cephidae,,,,,Cephidae,,,,Symphyta | Cephidae,,,,
+B92:1:13,"Hartigia Schiødte, 1838","Schiødte, 1838",,,,,genus,,B92:1,accepted,,,B92:1:12,Hartigini,,,,,Cephidae,,Hartigia,,Symphyta | Cephidae | Hartigini,9K5HN,7710880,9LCQ6,7710880
+B92:1:14,"Janus Stephens, 1835","Stephens, 1835",,,,,genus,,B92:1,accepted,,,B92:1:12,Hartigini,,,,,Cephidae,,Janus,,Symphyta | Cephidae | Hartigini,56B9,1334172,56B9,1334172
+B92:1:15,Cephini,,,,,,tribe,,B92:1,accepted,,,B92:1:11,Cephidae,,,,,Cephidae,,,,Symphyta | Cephidae,,,,
+B92:1:16,"Trachelus Jurine, 1807","Jurine, 1807",,,,,genus,,B92:1,accepted,,,B92:1:15,Cephini,,,,,Cephidae,,Trachelus,,Symphyta | Cephidae | Cephini,9WN5Q,1334170,9WN5Q,1334170
+B92:1:17,"Calameuta Konow, 1896","Konow, 1896",,,,,genus,,B92:1,accepted,,,B92:1:15,Cephini,,,,,Cephidae,,Calameuta,,Symphyta | Cephidae | Cephini,,4406679,,4406679
+B92:1:18,"Cephus Latreille, 1802","Latreille, 1802",,,,,genus,,B92:1,accepted,,,B92:1:15,Cephini,,,,,Cephidae,,Cephus,,Symphyta | Cephidae | Cephini,3KKH,1334167,3KKH,1334167
+B92:1:19,Xiphydriidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Xiphydriidae,,,,Symphyta,626ST,6042,626ST,6042
+B92:1:20,"Xiphydria Latreille, 1802","Latreille, 1802",,,,,genus,,B92:1,accepted,,,B92:1:19,Xiphydriidae,,,,,Xiphydriidae,,Xiphydria,,Symphyta | Xiphydriidae,,9088735,,9088735
+B92:1:21,"Konowia Brauns, 1884","Brauns, 1884",,,,,genus,,B92:1,accepted,,,B92:1:19,Xiphydriidae,,,,,Xiphydriidae,,Konowia,,Symphyta | Xiphydriidae,,4672157,,9088735
+B92:1:22,Siricidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Siricidae,,,,Symphyta,GC4,7915,GC4,7915
+B92:1:23,Tremicinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:22,Siricidae,,,,,Siricidae,Tremicinae,,,Symphyta | Siricidae,,,,
+B92:1:24,"Tremex Jurine, 1807","Jurine, 1807",,,,,genus,,B92:1,accepted,,,B92:1:23,Tremicinae,,,,,Siricidae,Tremicinae,Tremex,,Symphyta | Siricidae | Tremicinae,7YR6,1358460,7YR6,1358460
+B92:1:25,Siricinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:22,Siricidae,,,,,Siricidae,Siricinae,,,Symphyta | Siricidae,,,,
+B92:1:26,"Xeris Costa, 1894","Costa, 1894",,,,,genus,,B92:1,accepted,,,B92:1:25,Siricinae,,,,,Siricidae,Siricinae,Xeris,,Symphyta | Siricidae | Siricinae,,3259022,,3259022
+B92:1:27,"Sirex Linnaeus, 1761","Linnaeus, 1761",,,,,genus,,B92:1,accepted,,,B92:1:25,Siricinae,,,,,Siricidae,Siricinae,Sirex,,Symphyta | Siricidae | Siricinae,7HRY,1358462,7HRY,1358462
+B92:1:28,"Urocerus Geoffroy, 1785","Geoffroy, 1785",,,,,genus,,B92:1,accepted,,,B92:1:25,Siricinae,,,,,Siricidae,Siricinae,Urocerus,,Symphyta | Siricidae | Siricinae,,4406464,,4406464
+B92:1:29,Megalodontesidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Megalodontesidae,,,,Symphyta,CH3,5430774,CH3,5430774
+B92:1:30,Megalodontidae,,,,,,family,preocc.,B92:1,synonym,B92:1:29,Megalodontesidae,,,,,,,Megalodontidae,,,,Symphyta,,,,
+B92:1:31,"Megalodontes Latreille, 1802","Latreille, 1802",,,,,genus,,B92:1,accepted,,,B92:1:29,Megalodontesidae,,,,,Megalodontesidae,,Megalodontes,,Symphyta | Megalodontesidae,,3259243,,3259243
+B92:1:32,Pamphiliidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Pamphiliidae,,,,Symphyta,DWB,4346,DWB,4346
+B92:1:33,Pamphiliinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:32,Pamphiliidae,,,,,Pamphiliidae,Pamphiliinae,,,Symphyta | Pamphiliidae,,,,
+B92:1:34,Neurotomini,,,,,,tribe,,B92:1,accepted,,,B92:1:33,Pamphiliinae,,,,,Pamphiliidae,Pamphiliinae,,,Symphyta | Pamphiliidae | Pamphiliinae,,,,
+B92:1:35,"Neurotoma Konow, 1897","Konow, 1897",,,,,genus,,B92:1,accepted,,,B92:1:34,Neurotomini,,,,,Pamphiliidae,Pamphiliinae,Neurotoma,,Symphyta | Pamphiliidae | Pamphiliinae | Neurotomini,63F3F,1248775,63F3F,1248775
+B92:1:36,Pamphiliini,,,,,,tribe,,B92:1,accepted,,,B92:1:33,Pamphiliinae,,,,,Pamphiliidae,Pamphiliinae,,,Symphyta | Pamphiliidae | Pamphiliinae,,,,
+B92:1:37,"Onycholyda Takeuchi, 1938","Takeuchi, 1938",,,,,genus,,B92:1,accepted,,,B92:1:36,Pamphiliini,,,,,Pamphiliidae,Pamphiliinae,Onycholyda,,Symphyta | Pamphiliidae | Pamphiliinae | Pamphiliini,,4492271,,4492271
+B92:1:38,"Pamphilius Latreille, 1802","Latreille, 1802",,,,,genus,,B92:1,accepted,,,B92:1:36,Pamphiliini,,,,,Pamphiliidae,Pamphiliinae,Pamphilius,,Symphyta | Pamphiliidae | Pamphiliinae | Pamphiliini,,4406666,,4406666
+B92:1:39,Cephalciinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:32,Pamphiliidae,,,,,Pamphiliidae,Cephalciinae,,,Symphyta | Pamphiliidae,,,,
+B92:1:40,Caenolydini,,,,,,tribe,,B92:1,accepted,,,B92:1:39,Cephalciinae,,,,,Pamphiliidae,Cephalciinae,,,Symphyta | Pamphiliidae | Cephalciinae,,,,
+B92:1:41,"Caenolyda Konow, 1897","Konow, 1897",,,,,genus,,B92:1,accepted,,,B92:1:40,Caenolydini,,,,,Pamphiliidae,Cephalciinae,Caenolyda,,Symphyta | Pamphiliidae | Cephalciinae | Caenolydini,,4406741,,4406741
+B92:1:42,Cephalciini,,,,,,tribe,,B92:1,accepted,,,B92:1:39,Cephalciinae,,,,,Pamphiliidae,Cephalciinae,,,Symphyta | Pamphiliidae | Cephalciinae,,,,
+B92:1:43,"Acantholyda Costa, 1894","Costa, 1894",,,,,genus,,B92:1,accepted,,,B92:1:42,Cephalciini,,,,,Pamphiliidae,Cephalciinae,Acantholyda,,Symphyta | Pamphiliidae | Cephalciinae | Cephalciini,M96,1248773,M96,1248773
+B92:1:44,"Cephalcia Panzer, 1805","Panzer, 1805",,,,,genus,,B92:1,accepted,,,B92:1:42,Cephalciini,,,,,Pamphiliidae,Cephalciinae,Cephalcia,,Symphyta | Pamphiliidae | Cephalciinae | Cephalciini,,4404683,,4404683
+B92:1:45,Argidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Argidae,,,,Symphyta,6PR,7902,6PR,7902
+B92:1:46,Arginae,,,,,,subfamily,,B92:1,accepted,,,B92:1:45,Argidae,,,,,Argidae,Arginae,,,Symphyta | Argidae,,,,
+B92:1:47,"Arge Schrank, 1802","Schrank, 1802",,,,,genus,,B92:1,accepted,,,B92:1:46,Arginae,,,,,Argidae,Arginae,Arge,,Symphyta | Argidae | Arginae,32L7,1249713,32L7,1249713
+B92:1:48,Sterictiphorinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:45,Argidae,,,,,Argidae,Sterictiphorinae,,,Symphyta | Argidae,,,,
+B92:1:49,"Sterictiphora Billberg, 1820","Billberg, 1820",,,,,genus,,B92:1,accepted,,,B92:1:48,Sterictiphorinae,,,,,Argidae,Sterictiphorinae,Sterictiphora,,Symphyta | Argidae | Sterictiphorinae,,4406960,,4406960
+B92:1:50,"Aprosthema Konow, 1899","Konow, 1899",,,,,genus,,B92:1,accepted,,,B92:1:48,Sterictiphorinae,,,,,Argidae,Sterictiphorinae,Aprosthema,,Symphyta | Argidae | Sterictiphorinae,,9034016,,9034016
+B92:1:51,Blasticotomidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Blasticotomidae,,,,Symphyta,78M,4298197,78M,4298197
+B92:1:52,"Blasticotoma Klug, 1834","Klug, 1834",,,,,genus,,B92:1,accepted,,,B92:1:51,Blasticotomidae,,,,,Blasticotomidae,,Blasticotoma,,Symphyta | Blasticotomidae,,4408209,,4408209
+B92:1:53,Cimbicidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Cimbicidae,,,,Symphyta,892,7904,892,7904
+B92:1:54,Coryninae,,,,,,subfamily,,B92:1,accepted,,,B92:1:53,Cimbicidae,,,,,Cimbicidae,Coryninae,,,Symphyta | Cimbicidae,,,,
+B92:1:55,"Corynis Thunberg, 1789","Thunberg, 1789",,,,,genus,,B92:1,accepted,,,B92:1:54,Coryninae,,,,,Cimbicidae,Coryninae,Corynis,,Symphyta | Cimbicidae | Coryninae,,4406049,,4406049
+B92:1:56,Abiinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:53,Cimbicidae,,,,,Cimbicidae,Abiinae,,,Symphyta | Cimbicidae,,,,
+B92:1:57,"Abia Leach, 1817","Leach, 1817",,,,,genus,,B92:1,accepted,,,B92:1:56,Abiinae,,,,,Cimbicidae,Abiinae,Abia,,Symphyta | Cimbicidae | Abiinae,,3259207,,3259207
+B92:1:58,"Zaraea Leach, 1817","Leach, 1817",,,,,genus,,B92:1,accepted,,,B92:1:56,Abiinae,,,,,Cimbicidae,Abiinae,Zaraea,,Symphyta | Cimbicidae | Abiinae,648VW,1249711,648VW,1249711
+B92:1:59,Cimbicinae,,,,,,subfamily,,B92:1,accepted,,,B92:1:53,Cimbicidae,,,,,Cimbicidae,Cimbicinae,,,Symphyta | Cimbicidae,,,,
+B92:1:60,Cimbicini,,,,,,tribe,,B92:1,accepted,,,B92:1:59,Cimbicinae,,,,,Cimbicidae,Cimbicinae,,,Symphyta | Cimbicidae | Cimbicinae,,,,
+B92:1:61,"Praia André, 1880","André, 1880",,,,,genus,,B92:1,accepted,,,B92:1:60,Cimbicini,,,,,Cimbicidae,Cimbicinae,Praia,,Symphyta | Cimbicidae | Cimbicinae | Cimbicini,,9199167,,3259254
+B92:1:62,"Cimbex Oliver, 1790","Oliver, 1790",,,,,genus,,B92:1,accepted,,,B92:1:60,Cimbicini,,,,,Cimbicidae,Cimbicinae,Cimbex,,Symphyta | Cimbicidae | Cimbicinae | Cimbicini,3PWX,1249709,3PWX,1249709
+B92:1:63,"Palaeocimbex Semenov-Tian-Shanskij, 1935","Semenov-Tian-Shanskij, 1935",,,,,genus,,B92:1,accepted,,,B92:1:60,Cimbicini,,,,,Cimbicidae,Cimbicinae,Palaeocimbex,,Symphyta | Cimbicidae | Cimbicinae | Cimbicini,,4490134,,1249709
+B92:1:64,Trichiosomini,,,,,,tribe,,B92:1,accepted,,,B92:1:59,Cimbicinae,,,,,Cimbicidae,Cimbicinae,,,Symphyta | Cimbicidae | Cimbicinae,,,,
+B92:1:65,"Trichiosoma Leach, 1817","Leach, 1817",,,,,genus,,B92:1,accepted,,,B92:1:64,Trichiosomini,,,,,Cimbicidae,Cimbicinae,Trichiosoma,,Symphyta | Cimbicidae | Cimbicinae | Trichiosomini,,3259206,,3259206
+B92:1:66,"Pseudoclavellaria Schultz, 1906","Schultz, 1906",,,,,genus,,B92:1,accepted,,,B92:1:64,Trichiosomini,,,,,Cimbicidae,Cimbicinae,Pseudoclavellaria,,Symphyta | Cimbicidae | Cimbicinae | Trichiosomini,,4490142,,4490142
+B92:1:67,Diprionidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Diprionidae,,,,Symphyta,9CF,7907,9CF,7907
+B92:1:68,Monocteninae,,,,,,subfamily,,B92:1,accepted,,,B92:1:67,Diprionidae,,,,,Diprionidae,Monocteninae,,,Symphyta | Diprionidae,,,,
+B92:1:69,"Monoctenus Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B92:1,accepted,,,B92:1:68,Monocteninae,,,,,Diprionidae,Monocteninae,Monoctenus,,Symphyta | Diprionidae | Monocteninae,,4407838,,4407838
+B92:1:70,Diprioninae,,,,,,subfamily,,B92:1,accepted,,,B92:1:67,Diprionidae,,,,,Diprionidae,Diprioninae,,,Symphyta | Diprionidae,,,,
+B92:1:71,"Microdiprion Enslin, 1917","Enslin, 1917",,,,,genus,,B92:1,accepted,,,B92:1:70,Diprioninae,,,,,Diprionidae,Diprioninae,Microdiprion,,Symphyta | Diprionidae | Diprioninae,,4492171,,4492171
+B92:1:72,"Neodiprion Rohwer, 1918","Rohwer, 1918",,,,,genus,,B92:1,accepted,,,B92:1:70,Diprioninae,,,,,Diprionidae,Diprioninae,Neodiprion,,Symphyta | Diprionidae | Diprioninae,5ZCN,1249720,5ZCN,1249720
+B92:1:73,"Macrodiprion Enslin, 1917","Enslin, 1917",,,,,genus,,B92:1,accepted,,,B92:1:70,Diprioninae,,,,,Diprionidae,Diprioninae,Macrodiprion,,Symphyta | Diprionidae | Diprioninae,,4406568,,4406568
+B92:1:74,"Gilpinia Benson, 1939","Benson, 1939",,,,,genus,,B92:1,accepted,,,B92:1:70,Diprioninae,,,,,Diprionidae,Diprioninae,Gilpinia,,Symphyta | Diprionidae | Diprioninae,4NKC,1249739,4NKC,1249739
+B92:1:75,"Diprion Schrank, 1802","Schrank, 1802",,,,,genus,,B92:1,accepted,,,B92:1:70,Diprioninae,,,,,Diprionidae,Diprioninae,Diprion,,Symphyta | Diprionidae | Diprioninae,46GW,1249741,46GW,1249741
+B92:1:76,Tenthredinidae,,,,,,family,,B92:1,accepted,,,B92:1:1,Symphyta,,,,,Tenthredinidae,,,,Symphyta,GZJ,7918,GZJ,7918

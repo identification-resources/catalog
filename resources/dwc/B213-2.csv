@@ -1,5 +1,5 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B213:2:1,Alomyinae,,,,,,subfamily,,B213:2,accepted,,,,,,,,,,Alomyinae,,,,,
-B213:2:2,Alomya Panzer,Panzer,,,,,genus,,B213:2,accepted,,,B213:2:1,Alomyinae,,,,,,Alomyinae,Alomya,,Alomyinae,SSW,1276462
-B213:2:3,Alomya debellator (F.),(F.),Alomya,,debellator,,species,,B213:2,accepted,,,B213:2:2,Alomya Panzer,,,,,,Alomyinae,Alomya,,Alomyinae | Alomya,C4GY,1276464
-B213:2:4,Alomya semiflava Stephens,Stephens,Alomya,,semiflava,,species,,B213:2,accepted,,,B213:2:2,Alomya Panzer,,,,,,Alomyinae,Alomya,,Alomyinae | Alomya,C4HB,1276478
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B213:2:1,Alomyinae,,,,,,subfamily,,B213:2,accepted,,,,,,,,,,Alomyinae,,,,,,,
+B213:2:2,Alomya Panzer,Panzer,,,,,genus,,B213:2,accepted,,,B213:2:1,Alomyinae,,,,,,Alomyinae,Alomya,,Alomyinae,SSW,1276462,SSW,1276462
+B213:2:3,Alomya debellator (F.),(F.),Alomya,,debellator,,species,,B213:2,accepted,,,B213:2:2,Alomya Panzer,,,,,,Alomyinae,Alomya,,Alomyinae | Alomya,C4GY,1276464,C4GY,1276464
+B213:2:4,Alomya semiflava Stephens,Stephens,Alomya,,semiflava,,species,,B213:2,accepted,,,B213:2:2,Alomya Panzer,,,,,,Alomyinae,Alomya,,Alomyinae | Alomya,C4HB,1276478,C4HB,1276478

@@ -1,84 +1,84 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B179:1:1,Histeroidea,,,,,,superfamily,,B179:1,accepted,,,,,,,,,,,,,,58H,
-B179:1:2,Sphaeritidae,,,,,,family,,B179:1,accepted,,,B179:1:1,Histeroidea,,,,,Sphaeritidae,,,,Histeroidea,GG6,7852
-B179:1:3,Sphaerites Duftschmidt,Duftschmidt,,,,,genus,,B179:1,accepted,,,B179:1:2,Sphaeritidae,,,,,Sphaeritidae,,Sphaerites,,Histeroidea | Sphaeritidae,7KF8,1045029
-B179:1:4,Sphaerites glabratus (Fabricius),(Fabricius),Sphaerites,,glabratus,,species,,B179:1,accepted,,,B179:1:3,Sphaerites Duftschmidt,,,,,Sphaeritidae,,Sphaerites,,Histeroidea | Sphaeritidae | Sphaerites,,1045031
-B179:1:5,Histeridae,,,,,,family,,B179:1,accepted,,,B179:1:1,Histeroidea,,,,,Histeridae,,,,Histeroidea,B44,4733
-B179:1:6,Plegaderus Erichson,Erichson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Plegaderus,,Histeroidea | Histeridae,6SDQ,1044747
-B179:1:7,Plegaderus dissectus Erichson,Erichson,Plegaderus,,dissectus,,species,,B179:1,accepted,,,B179:1:6,Plegaderus Erichson,,,,,Histeridae,,Plegaderus,,Histeroidea | Histeridae | Plegaderus,7WJRZ,4433572
-B179:1:8,Onthophilus Leach,Leach,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Onthophilus,,Histeroidea | Histeridae,68DR,1044602
-B179:1:9,Onthophilus sulcatus (Fabricius),(Fabricius),Onthophilus,,sulcatus,,species,,B179:1,accepted,,,B179:1:8,Onthophilus Leach,,,,,Histeridae,,Onthophilus,,Histeroidea | Histeridae | Onthophilus,,11278206
-B179:1:10,Onthophilus striatus (Forster),(Forster),Onthophilus,,striatus,,species,,B179:1,accepted,,,B179:1:8,Onthophilus Leach,,,,,Histeridae,,Onthophilus,,Histeroidea | Histeridae | Onthophilus,49QDL,5745012
-B179:1:11,Hetaerius Erichson,Erichson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Hetaerius,,Histeroidea | Histeridae,636RT,1044779
-B179:1:12,Hetaerius ferrugineus (Olivier),(Olivier),Hetaerius,,ferrugineus,,species,,B179:1,accepted,,,B179:1:11,Hetaerius Erichson,,,,,Histeridae,,Hetaerius,,Histeroidea | Histeridae | Hetaerius,3L6KQ,5995564
-B179:1:13,Peranus Lewis,Lewis,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Peranus,,Histeroidea | Histeridae,,4433437
-B179:1:14,Peranus bimaculatus (Linneaus),(Linneaus),Peranus,,bimaculatus,,species,,B179:1,accepted,,,B179:1:13,Peranus Lewis,,,,,Histeridae,,Peranus,,Histeroidea | Histeridae | Peranus,,11272188
-B179:1:15,Peranus bimaculatus L.,L.,Peranus,,bimaculatus,,species,,B179:1,synonym,B179:1:14,Peranus bimaculatus (Linneaus),,,,,,,Histeridae,,Peranus,,Histeroidea | Histeridae | Peranus,,11272188
-B179:1:16,Margarinotus Marseul,Marseul,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae,8NNY4,1044963
-B179:1:17,Margarinotus merdardius (J. J. Hoffmann),(J. J. Hoffmann),Margarinotus,,merdardius,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,7VS55,4433386
-B179:1:18,Margarinotus striola (Sahlberg),(Sahlberg),Margarinotus,,striola,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,7VS5G,4433400
-B179:1:19,Margarinotus cadaverinus (J. J. Hoffmann),(J. J. Hoffmann),Margarinotus,,cadaverinus,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,,11308614
-B179:1:20,Margarinotus stercocarius (J. J. Hoffmann),(J. J. Hoffmann),Margarinotus,,stercocarius,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,,11357308
-B179:1:21,Margarinotus purpurascens (Herbst),(Herbst),Margarinotus,,purpurascens,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,7VS2W,1044984
-B179:1:22,Margarinotus marginatus (Erichson),(Erichson),Margarinotus,,marginatus,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,7VS3H,4433413
-B179:1:23,Margarinotus neglectus (Germar),(Germar),Margarinotus,,neglectus,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,7VS2L,4433355
-B179:1:24,Margarinotus carbonarius (Illiger),(Illiger),Margarinotus,,carbonarius,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,7VRZV,4433367
-B179:1:25,Hister Linneaus,Linneaus,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Hister,,Histeroidea | Histeridae,62V6H,10946907
-B179:1:26,Hister quadrimaculatus Linneaus,Linneaus,Hister,,quadrimaculatus,,species,,B179:1,accepted,,,B179:1:25,Hister Linneaus,,,,,Histeridae,,Hister,,Histeroidea | Histeridae | Hister,6M8G7,4433269
-B179:1:27,Hister unicolor Linneaus,Linneaus,Hister,,unicolor,,species,,B179:1,accepted,,,B179:1:25,Hister Linneaus,,,,,Histeridae,,Hister,,Histeroidea | Histeridae | Hister,3M5BG,4433298
-B179:1:28,Hister bissexstriatus Fabricius,Fabricius,Hister,,bissexstriatus,,species,,B179:1,accepted,,,B179:1:25,Hister Linneaus,,,,,Histeridae,,Hister,,Histeroidea | Histeridae | Hister,3M54J,4433312
-B179:1:29,Atholus Thomson,Thomson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Atholus,,Histeroidea | Histeridae,62DT4,1045015
-B179:1:30,Atholus duodecimstriatus (Schrank),(Schrank),Atholus,,duodecimstriatus,,species,,B179:1,accepted,,,B179:1:29,Atholus Thomson,,,,,Histeridae,,Atholus,,Histeroidea | Histeridae | Atholus,5W8GP,4433421
-B179:1:31,Hister duodecimstriatus Schr.,Schr.,Hister,,duodecimstriatus,,species,,B179:1,synonym,B179:1:30,Atholus duodecimstriatus (Schrank),,,,,,,Histeridae,,Atholus,,Histeroidea | Histeridae | Atholus,,6545704
-B179:1:32,Dendrophilus Leach,Leach,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Dendrophilus,,Histeroidea | Histeridae,433V,1044644
-B179:1:33,Dendrophilus pygmaeus (Linneaus),(Linneaus),Dendrophilus,,pygmaeus,,species,,B179:1,accepted,,,B179:1:32,Dendrophilus Leach,,,,,Histeridae,,Dendrophilus,,Histeroidea | Histeridae | Dendrophilus,7T2Z8,5995929
-B179:1:34,Dendrophilus punctatus (Herbst),(Herbst),Dendrophilus,,punctatus,,species,,B179:1,accepted,,,B179:1:32,Dendrophilus Leach,,,,,Histeridae,,Dendrophilus,,Histeroidea | Histeridae | Dendrophilus,7T2Z5,4990283
-B179:1:35,Dendrophilus xavieri Marseul,Marseul,Dendrophilus,,xavieri,,species,,B179:1,accepted,,,B179:1:32,Dendrophilus Leach,,,,,Histeridae,,Dendrophilus,,Histeroidea | Histeridae | Dendrophilus,7T2ZM,4990284
-B179:1:36,Microlomalus Lewis,Lewis,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Microlomalus,,Histeroidea | Histeridae,,4769729
-B179:1:37,Microlomalus flavicornis (Herbst),(Herbst),Microlomalus,,flavicornis,,species,,B179:1,accepted,,,B179:1:36,Microlomalus Lewis,,,,,Histeridae,,Microlomalus,,Histeroidea | Histeridae | Microlomalus,,11279337
-B179:1:38,Microlomalus parallelepipedus (Herbst),(Herbst),Microlomalus,,parallelepipedus,,species,,B179:1,accepted,,,B179:1:36,Microlomalus Lewis,,,,,Histeridae,,Microlomalus,,Histeroidea | Histeridae | Microlomalus,,11336013
-B179:1:39,Kissister Marseul,Marseul,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Kissister,,Histeroidea | Histeridae,62W9H,4404984
-B179:1:40,Kissister minima (Aubé),(Aubé),Kissister,,minima,,species,,B179:1,accepted,,,B179:1:39,Kissister Marseul,,,,,Histeridae,,Kissister,,Histeroidea | Histeridae | Kissister,3R8QX,11228428
-B179:1:41,Carcinops Marseul,Marseul,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Carcinops,,Histeroidea | Histeridae,3HD3,1044661
-B179:1:42,Carcinops pumilio (Erichson),(Erichson),Carcinops,,pumilio,,species,,B179:1,accepted,,,B179:1:41,Carcinops Marseul,,,,,Histeridae,,Carcinops,,Histeroidea | Histeridae | Carcinops,7RXTJ,1044673
-B179:1:43,Carcinops quattordecimstriata (Steph.),(Steph.),Carcinops,,quattordecimstriata,,species,,B179:1,synonym,B179:1:42,Carcinops pumilio (Erichson),,,,,,,Histeridae,,Carcinops,,Histeroidea | Histeridae | Carcinops,,7809720
-B179:1:44,Myrmetes Marseul,Marseul,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Myrmetes,,Histeroidea | Histeridae,5WP5,4407104
-B179:1:45,Myrmetes piceus (Paykull),(Paykull),Myrmetes,,piceus,,species,,B179:1,accepted,,,B179:1:44,Myrmetes Marseul,,,,,Histeridae,,Myrmetes,,Histeroidea | Histeridae | Myrmetes,,8667759
-B179:1:46,Gnathoncus DuVal,DuVal,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae,4PL8,1044590
-B179:1:47,Gnathoncus nannetensis (Marseul),(Marseul),Gnathoncus,,nannetensis,,species,,B179:1,accepted,,,B179:1:46,Gnathoncus DuVal,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,3GLRX,4433088
-B179:1:48,Gnathoncus rotundatus var.,var.,Gnathoncus,,rotundatus,,species,a Hoffman,B179:1,synonym,B179:1:47,Gnathoncus nannetensis (Marseul),,,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,3GLS7,4433069
-B179:1:49,Gnathoncus buyssoni Auzat,Auzat,Gnathoncus,,buyssoni,,species,,B179:1,accepted,,,B179:1:46,Gnathoncus DuVal,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,3GLRN,4433082
-B179:1:50,Gnathoncus nanus (Scriba),(Scriba),Gnathoncus,,nanus,,species,,B179:1,accepted,,,B179:1:46,Gnathoncus DuVal,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,,8486478
-B179:1:51,Gnathoncus punctulatus Thomson,Thomson,Gnathoncus,,punctulatus,,species,,B179:1,synonym,B179:1:50,Gnathoncus nanus (Scriba),,,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,,4433072
-B179:1:52,Gnathoncus schmidti Reitter,Reitter,Gnathoncus,,schmidti,,species,,B179:1,accepted,,,B179:1:46,Gnathoncus DuVal,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,,4433085
-B179:1:53,Gnathoncus nidicola Joy,Joy,Gnathoncus,,nidicola,,species,,B179:1,synonym,B179:1:52,Gnathoncus schmidti Reitter,,,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,,4433084
-B179:1:54,Gnathoncus punctator Reichardt,Reichardt,Gnathoncus,,punctator,,species,nec Rtt.,B179:1,synonym,B179:1:52,Gnathoncus schmidti Reitter,,,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,3GLS3,5995178
-B179:1:55,Baeckmanniolus Reichardt,Reichardt,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Baeckmanniolus,,Histeroidea | Histeridae,8P38R,4769447
-B179:1:56,Baeckmanniolus maritimus (Stephens),(Stephens),Baeckmanniolus,,maritimus,,species,,B179:1,accepted,,,B179:1:55,Baeckmanniolus Reichardt,,,,,Histeridae,,Baeckmanniolus,,Histeroidea | Histeridae | Baeckmanniolus,,11353179
-B179:1:57,Pachylopus maritimus (Steph.),(Steph.),Pachylopus,,maritimus,,species,,B179:1,synonym,B179:1:56,Baeckmanniolus maritimus (Stephens),,,,,,,Histeridae,,Baeckmanniolus,,Histeroidea | Histeridae | Baeckmanniolus,,10308130
-B179:1:58,Hypocaccus Thomson,Thomson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Hypocaccus,,Histeroidea | Histeridae,52M9,1044724
-B179:1:59,Hypocaccus rugiceps (Duftschmidt),(Duftschmidt),Hypocaccus,,rugiceps,,species,,B179:1,accepted,,,B179:1:58,Hypocaccus Thomson,,,,,Histeridae,,Hypocaccus,,Histeroidea | Histeridae | Hypocaccus,7VHSY,4433114
-B179:1:60,Hypocaccus metallicus (Herbst),(Herbst),Hypocaccus,,metallicus,,species,,B179:1,accepted,,,B179:1:58,Hypocaccus Thomson,,,,,Histeridae,,Hypocaccus,,Histeroidea | Histeridae | Hypocaccus,7VHSM,4433110
-B179:1:61,Hypocaccus rugifrons (Paykull),(Paykull),Hypocaccus,,rugifrons,,species,,B179:1,accepted,,,B179:1:58,Hypocaccus Thomson,,,,,Histeridae,,Hypocaccus,,Histeroidea | Histeridae | Hypocaccus,7VHSZ,4433120
-B179:1:62,Saprinus Erichson,Erichson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae,8NYVR,1044805
-B179:1:63,Saprinus virescens (Paykull),(Paykull),Saprinus,,virescens,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,7WS8C,4432981
-B179:1:64,Saprinus aeneus (Fabricius),(Fabricius),Saprinus,,aeneus,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,7WS39,4432988
-B179:1:65,Saprinus immundus (Gyllenhal),(Gyllenhal),Saprinus,,immundus,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,7WS5Q,4432917
-B179:1:66,Saprinus semistriatus (Scriba),(Scriba),Saprinus,,semistriatus,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,7WS7M,4432936
-B179:1:67,Saprinus cuspidatus Ihssen,Ihssen,Saprinus,,cuspidatus,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,,4432929
-B179:1:68,"Saprinus subnitescens Bickhardt, 1909","Bickhardt, 1909",Saprinus,,subnitescens,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,7WS83,1044810
-B179:1:69,"Saprinus meridionalis Ihssen, 1949","Ihssen, 1949",Saprinus,,meridionalis,,species,,B179:1,synonym,B179:1:68,"Saprinus subnitescens Bickhardt, 1909",,,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,,4432946
-B179:1:70,Teretrius Erichson,Erichson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Teretrius,,Histeroidea | Histeridae,63VFK,1044941
-B179:1:71,Teretrius picipes (Fabricius),(Fabricius),Teretrius,,picipes,,species,,B179:1,accepted,,,B179:1:70,Teretrius Erichson,,,,,Histeridae,,Teretrius,,Histeroidea | Histeridae | Teretrius,,8664320
-B179:1:72,Abraeus Leach,Leach,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Abraeus,,Histeroidea | Histeridae,8NL6N,1044803
-B179:1:73,Abraeus globosus (J. J. Hoffmann),(J. J. Hoffmann),Abraeus,,globosus,,species,,B179:1,accepted,,,B179:1:72,Abraeus Leach,,,,,Histeridae,,Abraeus,,Histeroidea | Histeridae | Abraeus,,8620272
-B179:1:74,Abraeus granulum Erichson,Erichson,Abraeus,,granulum,,species,,B179:1,accepted,,,B179:1:72,Abraeus Leach,,,,,Histeridae,,Abraeus,,Histeroidea | Histeridae | Abraeus,7Q8L3,4433517
-B179:1:75,Aeletes Horn,Horn,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Aeletes,,Histeroidea | Histeridae,PLG,1044824
-B179:1:76,Aeletes atomarius Aubé,Aubé,Aeletes,,atomarius,,species,,B179:1,accepted,,,B179:1:75,Aeletes Horn,,,,,Histeridae,,Aeletes,,Histeroidea | Histeridae | Aeletes,7QD5D,4433561
-B179:1:77,Acritus atomarius (Aubé),(Aubé),Acritus,,atomarius,,species,,B179:1,synonym,B179:1:76,Aeletes atomarius Aubé,,,,,,,Histeridae,,Aeletes,,Histeroidea | Histeridae | Aeletes,,10223754
-B179:1:78,Acritus LeConte,LeConte,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Acritus,,Histeroidea | Histeridae,8NLFB,1044947
-B179:1:79,Acritus nigricornis (J. J. Hoffmann),(J. J. Hoffmann),Acritus,,nigricornis,,species,,B179:1,accepted,,,B179:1:78,Acritus LeConte,,,,,Histeridae,,Acritus,,Histeroidea | Histeridae | Acritus,7QBLD,1044952
-B179:1:80,Acritus homoeopathicus Wollaston,Wollaston,Acritus,,homoeopathicus,,species,,B179:1,accepted,,,B179:1:78,Acritus LeConte,,,,,Histeridae,,Acritus,,Histeroidea | Histeridae | Acritus,7QBN7,4433525
-B179:1:81,Halacritus Schmidt,Schmidt,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Halacritus,,Histeroidea | Histeridae,4SMJ,1044543
-B179:1:82,Halacritus punetum (Aubé),(Aubé),Halacritus,,punetum,,species,,B179:1,accepted,,,B179:1:81,Halacritus Schmidt,,,,,Histeridae,,Halacritus,,Histeroidea | Histeridae | Halacritus,6KXNJ,4308852
-B179:1:83,Acritus punetum (Aubé),(Aubé),Acritus,,punetum,,species,,B179:1,synonym,B179:1:82,Halacritus punetum (Aubé),,,,,,,Histeridae,,Halacritus,,Histeroidea | Histeridae | Halacritus,,11253449
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B179:1:1,Histeroidea,,,,,,superfamily,,B179:1,accepted,,,,,,,,,,,,,,9J9GB,,9J9GB,
+B179:1:2,Sphaeritidae,,,,,,family,,B179:1,accepted,,,B179:1:1,Histeroidea,,,,,Sphaeritidae,,,,Histeroidea,9J9HS,7852,9J9HS,7852
+B179:1:3,Sphaerites Duftschmidt,Duftschmidt,,,,,genus,,B179:1,accepted,,,B179:1:2,Sphaeritidae,,,,,Sphaeritidae,,Sphaerites,,Histeroidea | Sphaeritidae,9JBK8,1045029,9JBK8,1045029
+B179:1:4,Sphaerites glabratus (Fabricius),(Fabricius),Sphaerites,,glabratus,,species,,B179:1,accepted,,,B179:1:3,Sphaerites Duftschmidt,,,,,Sphaeritidae,,Sphaerites,,Histeroidea | Sphaeritidae | Sphaerites,9KTYN,1045031,9KTYN,1045031
+B179:1:5,Histeridae,,,,,,family,,B179:1,accepted,,,B179:1:1,Histeroidea,,,,,Histeridae,,,,Histeroidea,9J9GP,4733,9J9GP,4733
+B179:1:6,Plegaderus Erichson,Erichson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Plegaderus,,Histeroidea | Histeridae,9JBGM,1044747,9JBGM,1044747
+B179:1:7,Plegaderus dissectus Erichson,Erichson,Plegaderus,,dissectus,,species,,B179:1,accepted,,,B179:1:6,Plegaderus Erichson,,,,,Histeridae,,Plegaderus,,Histeroidea | Histeridae | Plegaderus,9KNMZ,4433572,9KNMZ,4433572
+B179:1:8,Onthophilus Leach,Leach,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Onthophilus,,Histeroidea | Histeridae,9JBD2,1044602,9JBD2,1044602
+B179:1:9,Onthophilus sulcatus (Fabricius),(Fabricius),Onthophilus,,sulcatus,,species,,B179:1,accepted,,,B179:1:8,Onthophilus Leach,,,,,Histeridae,,Onthophilus,,Histeroidea | Histeridae | Onthophilus,,8458619,,5745007
+B179:1:10,Onthophilus striatus (Forster),(Forster),Onthophilus,,striatus,,species,,B179:1,accepted,,,B179:1:8,Onthophilus Leach,,,,,Histeridae,,Onthophilus,,Histeroidea | Histeridae | Onthophilus,9KKNG,5745012,9KKNG,5745012
+B179:1:11,Hetaerius Erichson,Erichson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Hetaerius,,Histeroidea | Histeridae,9LCRH,1044779,9JB5P,4404539
+B179:1:12,Hetaerius ferrugineus (Olivier),(Olivier),Hetaerius,,ferrugineus,,species,,B179:1,accepted,,,B179:1:11,Hetaerius Erichson,,,,,Histeridae,,Hetaerius,,Histeroidea | Histeridae | Hetaerius,,5995564,,4433470
+B179:1:13,Peranus Lewis,Lewis,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Peranus,,Histeroidea | Histeridae,9TKWW,4433437,9J9WG,1045015
+B179:1:14,Peranus bimaculatus (Linneaus),(Linneaus),Peranus,,bimaculatus,,species,,B179:1,accepted,,,B179:1:13,Peranus Lewis,,,,,Histeridae,,Peranus,,Histeroidea | Histeridae | Peranus,,11272188,,1045022
+B179:1:15,Peranus bimaculatus L.,L.,Peranus,,bimaculatus,,species,,B179:1,synonym,B179:1:14,Peranus bimaculatus (Linneaus),,,,,,,Histeridae,,Peranus,,Histeroidea | Histeridae | Peranus,,11272188,,1045022
+B179:1:16,Margarinotus Marseul,Marseul,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae,9JB8Y,1044963,9JB8Y,1044963
+B179:1:17,Margarinotus merdardius (J. J. Hoffmann),(J. J. Hoffmann),Margarinotus,,merdardius,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,9JDJL,4433386,9JDJL,4433386
+B179:1:18,Margarinotus striola (Sahlberg),(Sahlberg),Margarinotus,,striola,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,9KGF2,4433400,9KGF2,4433400
+B179:1:19,Margarinotus cadaverinus (J. J. Hoffmann),(J. J. Hoffmann),Margarinotus,,cadaverinus,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,,11308614,,1044983
+B179:1:20,Margarinotus stercocarius (J. J. Hoffmann),(J. J. Hoffmann),Margarinotus,,stercocarius,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,,11357308,,1044982
+B179:1:21,Margarinotus purpurascens (Herbst),(Herbst),Margarinotus,,purpurascens,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,9JDJ7,1044984,9JDJ7,1044984
+B179:1:22,Margarinotus marginatus (Erichson),(Erichson),Margarinotus,,marginatus,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,9KGCY,4433413,9KGCY,4433413
+B179:1:23,Margarinotus neglectus (Germar),(Germar),Margarinotus,,neglectus,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,9KGD7,4433355,9KGD7,4433355
+B179:1:24,Margarinotus carbonarius (Illiger),(Illiger),Margarinotus,,carbonarius,,species,,B179:1,accepted,,,B179:1:16,Margarinotus Marseul,,,,,Histeridae,,Margarinotus,,Histeroidea | Histeridae | Margarinotus,9KGBX,4433367,9KGBX,4433367
+B179:1:25,Hister Linneaus,Linneaus,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Hister,,Histeroidea | Histeridae,9JB6C,10946907,9JB6C,10946907
+B179:1:26,Hister quadrimaculatus Linneaus,Linneaus,Hister,,quadrimaculatus,,species,,B179:1,accepted,,,B179:1:25,Hister Linneaus,,,,,Histeridae,,Hister,,Histeroidea | Histeridae | Hister,9K9D3,4433269,9K9D3,4433269
+B179:1:27,Hister unicolor Linneaus,Linneaus,Hister,,unicolor,,species,,B179:1,accepted,,,B179:1:25,Hister Linneaus,,,,,Histeridae,,Hister,,Histeroidea | Histeridae | Hister,9K9FJ,4433298,9K9FJ,4433298
+B179:1:28,Hister bissexstriatus Fabricius,Fabricius,Hister,,bissexstriatus,,species,,B179:1,accepted,,,B179:1:25,Hister Linneaus,,,,,Histeridae,,Hister,,Histeroidea | Histeridae | Hister,9K95W,4433312,9K95W,4433312
+B179:1:29,Atholus Thomson,Thomson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Atholus,,Histeroidea | Histeridae,9J9WG,1045015,9J9WG,1045015
+B179:1:30,Atholus duodecimstriatus (Schrank),(Schrank),Atholus,,duodecimstriatus,,species,,B179:1,accepted,,,B179:1:29,Atholus Thomson,,,,,Histeridae,,Atholus,,Histeroidea | Histeridae | Atholus,9JV9V,4433421,9JV9V,4433421
+B179:1:31,Hister duodecimstriatus Schr.,Schr.,Hister,,duodecimstriatus,,species,,B179:1,synonym,B179:1:30,Atholus duodecimstriatus (Schrank),,,,,,,Histeridae,,Atholus,,Histeroidea | Histeridae | Atholus,9MR2G,6545704,9JV9V,4433421
+B179:1:32,Dendrophilus Leach,Leach,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Dendrophilus,,Histeroidea | Histeridae,9JB2F,1044644,9JB2F,1044644
+B179:1:33,Dendrophilus pygmaeus (Linneaus),(Linneaus),Dendrophilus,,pygmaeus,,species,,B179:1,accepted,,,B179:1:32,Dendrophilus Leach,,,,,Histeridae,,Dendrophilus,,Histeroidea | Histeridae | Dendrophilus,9K449,5995929,9K449,5995929
+B179:1:34,Dendrophilus punctatus (Herbst),(Herbst),Dendrophilus,,punctatus,,species,,B179:1,accepted,,,B179:1:32,Dendrophilus Leach,,,,,Histeridae,,Dendrophilus,,Histeroidea | Histeridae | Dendrophilus,9JCRQ,4990283,9JCRQ,4990283
+B179:1:35,Dendrophilus xavieri Marseul,Marseul,Dendrophilus,,xavieri,,species,,B179:1,accepted,,,B179:1:32,Dendrophilus Leach,,,,,Histeridae,,Dendrophilus,,Histeroidea | Histeridae | Dendrophilus,9JCRR,4990284,9JCRR,4990284
+B179:1:36,Microlomalus Lewis,Lewis,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Microlomalus,,Histeroidea | Histeridae,9THNS,4769729,9JBF2,1044994
+B179:1:37,Microlomalus flavicornis (Herbst),(Herbst),Microlomalus,,flavicornis,,species,,B179:1,accepted,,,B179:1:36,Microlomalus Lewis,,,,,Histeridae,,Microlomalus,,Histeroidea | Histeridae | Microlomalus,,11279337,,4433174
+B179:1:38,Microlomalus parallelepipedus (Herbst),(Herbst),Microlomalus,,parallelepipedus,,species,,B179:1,accepted,,,B179:1:36,Microlomalus Lewis,,,,,Histeridae,,Microlomalus,,Histeroidea | Histeridae | Microlomalus,,11336013,,4433178
+B179:1:39,Kissister Marseul,Marseul,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Kissister,,Histeroidea | Histeridae,9JKWQ,4404984,9JKWQ,4404984
+B179:1:40,Kissister minima (Aubé),(Aubé),Kissister,,minima,,species,,B179:1,accepted,,,B179:1:39,Kissister Marseul,,,,,Histeridae,,Kissister,,Histeroidea | Histeridae | Kissister,9KD8X,11228428,9KD8X,4433152
+B179:1:41,Carcinops Marseul,Marseul,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Carcinops,,Histeroidea | Histeridae,9J9Y9,1044661,9J9Y9,1044661
+B179:1:42,Carcinops pumilio (Erichson),(Erichson),Carcinops,,pumilio,,species,,B179:1,accepted,,,B179:1:41,Carcinops Marseul,,,,,Histeridae,,Carcinops,,Histeroidea | Histeridae | Carcinops,9JCKB,1044673,9JCKB,1044673
+B179:1:43,Carcinops quattordecimstriata (Steph.),(Steph.),Carcinops,,quattordecimstriata,,species,,B179:1,synonym,B179:1:42,Carcinops pumilio (Erichson),,,,,,,Histeridae,,Carcinops,,Histeroidea | Histeridae | Carcinops,,7809720,,1044673
+B179:1:44,Myrmetes Marseul,Marseul,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Myrmetes,,Histeroidea | Histeridae,9JLFX,4407104,9JLFX,4407104
+B179:1:45,Myrmetes piceus (Paykull),(Paykull),Myrmetes,,piceus,,species,,B179:1,accepted,,,B179:1:44,Myrmetes Marseul,,,,,Histeridae,,Myrmetes,,Histeroidea | Histeridae | Myrmetes,,8667759,,4433091
+B179:1:46,Gnathoncus DuVal,DuVal,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae,9JB57,1044590,9JB57,1044590
+B179:1:47,Gnathoncus nannetensis (Marseul),(Marseul),Gnathoncus,,nannetensis,,species,,B179:1,accepted,,,B179:1:46,Gnathoncus DuVal,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,9K7G2,4433088,9K7G2,4433088
+B179:1:48,Gnathoncus rotundatus var. a Hoffman,Hoffman,Gnathoncus,,rotundatus,a,variety,,B179:1,synonym,B179:1:47,Gnathoncus nannetensis (Marseul),,,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,9JCZL,,9JCZL,
+B179:1:49,Gnathoncus buyssoni Auzat,Auzat,Gnathoncus,,buyssoni,,species,,B179:1,accepted,,,B179:1:46,Gnathoncus DuVal,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,9K7FS,4433082,9K7FS,4433082
+B179:1:50,Gnathoncus nanus (Scriba),(Scriba),Gnathoncus,,nanus,,species,,B179:1,accepted,,,B179:1:46,Gnathoncus DuVal,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,,8486478,,4433069
+B179:1:51,Gnathoncus punctulatus Thomson,Thomson,Gnathoncus,,punctulatus,,species,,B179:1,synonym,B179:1:50,Gnathoncus nanus (Scriba),,,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,9MPBR,4433072,9JCZL,4433069
+B179:1:52,Gnathoncus schmidti Reitter,Reitter,Gnathoncus,,schmidti,,species,,B179:1,accepted,,,B179:1:46,Gnathoncus DuVal,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,9LGSF,4433085,9JCZJ,1044592
+B179:1:53,Gnathoncus nidicola Joy,Joy,Gnathoncus,,nidicola,,species,,B179:1,synonym,B179:1:52,Gnathoncus schmidti Reitter,,,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,9MPBQ,4433084,9JCZJ,1044592
+B179:1:54,Gnathoncus punctator Reichardt,Reichardt,Gnathoncus,,punctator,,species,nec Rtt.,B179:1,synonym,B179:1:52,Gnathoncus schmidti Reitter,,,,,,,Histeridae,,Gnathoncus,,Histeroidea | Histeridae | Gnathoncus,9K7G5,5995178,9K7G5,5995178
+B179:1:55,Baeckmanniolus Reichardt,Reichardt,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Baeckmanniolus,,Histeroidea | Histeridae,9J9WN,4769447,9J9WN,4769447
+B179:1:56,Baeckmanniolus maritimus (Stephens),(Stephens),Baeckmanniolus,,maritimus,,species,,B179:1,accepted,,,B179:1:55,Baeckmanniolus Reichardt,,,,,Histeridae,,Baeckmanniolus,,Histeroidea | Histeridae | Baeckmanniolus,,11353179,,6278072
+B179:1:57,Pachylopus maritimus (Steph.),(Steph.),Pachylopus,,maritimus,,species,,B179:1,synonym,B179:1:56,Baeckmanniolus maritimus (Stephens),,,,,,,Histeridae,,Baeckmanniolus,,Histeroidea | Histeridae | Baeckmanniolus,,10308130,,6278072
+B179:1:58,Hypocaccus Thomson,Thomson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Hypocaccus,,Histeroidea | Histeridae,9JB77,1044724,9JB77,1044724
+B179:1:59,Hypocaccus rugiceps (Duftschmidt),(Duftschmidt),Hypocaccus,,rugiceps,,species,,B179:1,accepted,,,B179:1:58,Hypocaccus Thomson,,,,,Histeridae,,Hypocaccus,,Histeroidea | Histeridae | Hypocaccus,9KCKV,4433114,9KCKV,4433114
+B179:1:60,Hypocaccus metallicus (Herbst),(Herbst),Hypocaccus,,metallicus,,species,,B179:1,accepted,,,B179:1:58,Hypocaccus Thomson,,,,,Histeridae,,Hypocaccus,,Histeroidea | Histeridae | Hypocaccus,9KCKJ,4433110,9KCKJ,4433110
+B179:1:61,Hypocaccus rugifrons (Paykull),(Paykull),Hypocaccus,,rugifrons,,species,,B179:1,accepted,,,B179:1:58,Hypocaccus Thomson,,,,,Histeridae,,Hypocaccus,,Histeroidea | Histeridae | Hypocaccus,9KCKW,4433120,9KCKW,4433120
+B179:1:62,Saprinus Erichson,Erichson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae,9JBJB,1044805,9JBJB,1044805
+B179:1:63,Saprinus virescens (Paykull),(Paykull),Saprinus,,virescens,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,9KSB2,4432981,9KSB2,4432981
+B179:1:64,Saprinus aeneus (Fabricius),(Fabricius),Saprinus,,aeneus,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,9KS4B,4432988,9KS4B,4432988
+B179:1:65,Saprinus immundus (Gyllenhal),(Gyllenhal),Saprinus,,immundus,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,9KS6Y,4432917,9KS6Y,4432917
+B179:1:66,Saprinus semistriatus (Scriba),(Scriba),Saprinus,,semistriatus,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,9KS94,4432936,9KS94,4432936
+B179:1:67,Saprinus cuspidatus Ihssen,Ihssen,Saprinus,,cuspidatus,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,9N38T,4432929,9KS8C,4432928
+B179:1:68,"Saprinus subnitescens Bickhardt, 1909","Bickhardt, 1909",Saprinus,,subnitescens,,species,,B179:1,accepted,,,B179:1:62,Saprinus Erichson,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,9JFBQ,1044810,9JFBQ,1044810
+B179:1:69,"Saprinus meridionalis Ihssen, 1949","Ihssen, 1949",Saprinus,,meridionalis,,species,,B179:1,synonym,B179:1:68,"Saprinus subnitescens Bickhardt, 1909",,,,,,,Histeridae,,Saprinus,,Histeroidea | Histeridae | Saprinus,9N39F,4432946,9JFBQ,1044810
+B179:1:70,Teretrius Erichson,Erichson,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Teretrius,,Histeroidea | Histeridae,9JBLM,1044941,9JBLM,1044941
+B179:1:71,Teretrius picipes (Fabricius),(Fabricius),Teretrius,,picipes,,species,,B179:1,accepted,,,B179:1:70,Teretrius Erichson,,,,,Histeridae,,Teretrius,,Histeroidea | Histeridae | Teretrius,,8664320,,4433594
+B179:1:72,Abraeus Leach,Leach,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Abraeus,,Histeroidea | Histeridae,9J9SQ,1044803,9J9SQ,1044803
+B179:1:73,Abraeus globosus (J. J. Hoffmann),(J. J. Hoffmann),Abraeus,,globosus,,species,,B179:1,accepted,,,B179:1:72,Abraeus Leach,,,,,Histeridae,,Abraeus,,Histeroidea | Histeridae | Abraeus,,8620272,,4433510
+B179:1:74,Abraeus granulum Erichson,Erichson,Abraeus,,granulum,,species,,B179:1,accepted,,,B179:1:72,Abraeus Leach,,,,,Histeridae,,Abraeus,,Histeroidea | Histeridae | Abraeus,9JPFN,4433517,9JPFN,4433517
+B179:1:75,Aeletes Horn,Horn,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Aeletes,,Histeroidea | Histeridae,9J9TK,1044824,9J9TK,1044824
+B179:1:76,Aeletes atomarius Aubé,Aubé,Aeletes,,atomarius,,species,,B179:1,accepted,,,B179:1:75,Aeletes Horn,,,,,Histeridae,,Aeletes,,Histeroidea | Histeridae | Aeletes,9JQVH,4433561,9JQVH,4433561
+B179:1:77,Acritus atomarius (Aubé),(Aubé),Acritus,,atomarius,,species,,B179:1,synonym,B179:1:76,Aeletes atomarius Aubé,,,,,,,Histeridae,,Aeletes,,Histeroidea | Histeridae | Aeletes,,10223754,,4433561
+B179:1:78,Acritus LeConte,LeConte,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Acritus,,Histeroidea | Histeridae,9J9SX,1044947,9J9SX,1044947
+B179:1:79,Acritus nigricornis (J. J. Hoffmann),(J. J. Hoffmann),Acritus,,nigricornis,,species,,B179:1,accepted,,,B179:1:78,Acritus LeConte,,,,,Histeridae,,Acritus,,Histeroidea | Histeridae | Acritus,9JBW6,1044952,9JBW6,1044952
+B179:1:80,Acritus homoeopathicus Wollaston,Wollaston,Acritus,,homoeopathicus,,species,,B179:1,accepted,,,B179:1:78,Acritus LeConte,,,,,Histeridae,,Acritus,,Histeroidea | Histeridae | Acritus,9JQFG,4433525,9JQFG,4433525
+B179:1:81,Halacritus Schmidt,Schmidt,,,,,genus,,B179:1,accepted,,,B179:1:5,Histeridae,,,,,Histeridae,,Halacritus,,Histeroidea | Histeridae,9JKJS,1044543,9JKJS,1044543
+B179:1:82,Halacritus punetum (Aubé),(Aubé),Halacritus,,punetum,,species,,B179:1,accepted,,,B179:1:81,Halacritus Schmidt,,,,,Histeridae,,Halacritus,,Histeroidea | Histeridae | Halacritus,9K3Z9,4308852,9K3Z9,4308852
+B179:1:83,Acritus punetum (Aubé),(Aubé),Acritus,,punetum,,species,,B179:1,synonym,B179:1:82,Halacritus punetum (Aubé),,,,,,,Histeridae,,Halacritus,,Histeroidea | Histeridae | Halacritus,,11253449,,4308852

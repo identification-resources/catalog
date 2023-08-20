@@ -1,178 +1,178 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B376:1:1,Aculeata,,,,,,suborder,,B376:1,accepted,,,,,,,,,,,,,,NTV,
-B376:1:2,Formicidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Formicidae,,,,Aculeata,,8674597
-B376:1:3,Dolichoderinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Dolichoderinae,,,Aculeata | Formicidae,,
-B376:1:4,Dolichoderus,,,,,,genus,,B376:1,accepted,,,B376:1:3,Dolichoderinae,,,,,Formicidae,Dolichoderinae,Dolichoderus,,Aculeata | Formicidae | Dolichoderinae,,1314182
-B376:1:5,Tapinoma,,,,,,genus,,B376:1,accepted,,,B376:1:3,Dolichoderinae,,,,,Formicidae,Dolichoderinae,Tapinoma,,Aculeata | Formicidae | Dolichoderinae,,1316784
-B376:1:6,Formicinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Formicinae,,,Aculeata | Formicidae,,
-B376:1:7,Camponotus,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Camponotus,,Aculeata | Formicidae | Formicinae,,1312361
-B376:1:8,Formica,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Formica,,Aculeata | Formicidae | Formicinae,,1314840
-B376:1:9,Lasius,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Lasius,,Aculeata | Formicidae | Formicinae,,3258580
-B376:1:10,Plagiolepis,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Plagiolepis,,Aculeata | Formicidae | Formicinae,,1320758
-B376:1:11,Polyergus,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Polyergus,,Aculeata | Formicidae | Formicinae,,1326338
-B376:1:12,Myrmicinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Myrmicinae,,,Aculeata | Formicidae,,
-B376:1:13,Anergates,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Anergates,,Aculeata | Formicidae | Myrmicinae,,1314823
-B376:1:14,Aphaenogaster,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Aphaenogaster,,Aculeata | Formicidae | Myrmicinae,,
-B376:1:15,Crematogaster,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Crematogaster,,Aculeata | Formicidae | Myrmicinae,,1324306
-B376:1:16,Formicoxenus,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Formicoxenus,,Aculeata | Formicidae | Myrmicinae,,1317460
-B376:1:17,Harpagoxenus,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Harpagoxenus,,Aculeata | Formicidae | Myrmicinae,,1317002
-B376:1:18,Leptothorax,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Leptothorax,,Aculeata | Formicidae | Myrmicinae,,1323767
-B376:1:19,Manica,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Manica,,Aculeata | Formicidae | Myrmicinae,,
-B376:1:20,Messor,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Messor,,Aculeata | Formicidae | Myrmicinae,,1316342
-B376:1:21,Monomorium,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Monomorium,,Aculeata | Formicidae | Myrmicinae,,1314419
-B376:1:22,Myrmecina,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Myrmecina,,Aculeata | Formicidae | Myrmicinae,,1315201
-B376:1:23,Solenopsis,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Solenopsis,,Aculeata | Formicidae | Myrmicinae,,9107211
-B376:1:24,Stenamma,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Stenamma,,Aculeata | Formicidae | Myrmicinae,,9138092
-B376:1:25,Strongylognathus,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Strongylognathus,,Aculeata | Formicidae | Myrmicinae,,1317667
-B376:1:26,Tetramorium,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Tetramorium,,Aculeata | Formicidae | Myrmicinae,,1323128
-B376:1:27,Ponerinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Ponerinae,,,Aculeata | Formicidae,,
-B376:1:28,Ponera,,,,,,genus,,B376:1,accepted,,,B376:1:27,Ponerinae,,,,,Formicidae,Ponerinae,Ponera,,Aculeata | Formicidae | Ponerinae,,
-B376:1:29,Mutillidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Mutillidae,,,,Aculeata,,7912
-B376:1:30,Mutillinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:29,Mutillidae,,,,,Mutillidae,Mutillinae,,,Aculeata | Mutillidae,,
-B376:1:31,Mutilla,,,,,,genus,,B376:1,accepted,,,B376:1:30,Mutillinae,,,,,Mutillidae,Mutillinae,Mutilla,,Aculeata | Mutillidae | Mutillinae,,9731472
-B376:1:32,Smicromyrme,,,,,,genus,,B376:1,accepted,,,B376:1:30,Mutillinae,,,,,Mutillidae,Mutillinae,Smicromyrme,,Aculeata | Mutillidae | Mutillinae,,4506167
-B376:1:33,Myrmosinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:29,Mutillidae,,,,,Mutillidae,Myrmosinae,,,Aculeata | Mutillidae,,
-B376:1:34,Myrmosa,,,,,,genus,,B376:1,accepted,,,B376:1:33,Myrmosinae,,,,,Mutillidae,Myrmosinae,Myrmosa,,Aculeata | Mutillidae | Myrmosinae,,9113703
-B376:1:35,Pompilidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Pompilidae,,,,Aculeata,,7913
-B376:1:36,Ceropalinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:35,Pompilidae,,,,,Pompilidae,Ceropalinae,,,Aculeata | Pompilidae,,
-B376:1:37,Ceropales,,,,,,genus,,B376:1,accepted,,,B376:1:36,Ceropalinae,,,,,Pompilidae,Ceropalinae,Ceropales,,Aculeata | Pompilidae | Ceropalinae,,3259130
-B376:1:38,Pepsinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:35,Pompilidae,,,,,Pompilidae,Pepsinae,,,Aculeata | Pompilidae,,
-B376:1:39,Auplopus,,,,,,genus,,B376:1,accepted,,,B376:1:38,Pepsinae,,,,,Pompilidae,Pepsinae,Auplopus,,Aculeata | Pompilidae | Pepsinae,,4404428
-B376:1:40,Caliadurgus,,,,,,genus,,B376:1,accepted,,,B376:1:38,Pepsinae,,,,,Pompilidae,Pepsinae,Caliadurgus,,Aculeata | Pompilidae | Pepsinae,,3259127
-B376:1:41,Cryptocheilus,,,,,,genus,,B376:1,accepted,,,B376:1:38,Pepsinae,,,,,Pompilidae,Pepsinae,Cryptocheilus,,Aculeata | Pompilidae | Pepsinae,,1311931
-B376:1:42,Dipogon,,,,,,genus,,B376:1,accepted,,,B376:1:38,Pepsinae,,,,,Pompilidae,Pepsinae,Dipogon,,Aculeata | Pompilidae | Pepsinae,,
-B376:1:43,Priocnemis,,,,,,genus,,B376:1,accepted,,,B376:1:38,Pepsinae,,,,,Pompilidae,Pepsinae,Priocnemis,,Aculeata | Pompilidae | Pepsinae,,9500065
-B376:1:44,Pompilinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:35,Pompilidae,,,,,Pompilidae,Pompilinae,,,Aculeata | Pompilidae,,
-B376:1:45,Agenioideus,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Agenioideus,,Aculeata | Pompilidae | Pompilinae,,4404608
-B376:1:46,Anoplius,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Anoplius,,Aculeata | Pompilidae | Pompilinae,,1311909
-B376:1:47,Aporinellus,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Aporinellus,,Aculeata | Pompilidae | Pompilinae,,4406469
-B376:1:48,Aporus,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Aporus,,Aculeata | Pompilidae | Pompilinae,,3258816
-B376:1:49,Arachnospila,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Arachnospila,,Aculeata | Pompilidae | Pompilinae,,4406260
-B376:1:50,Eoferreola,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Eoferreola,,Aculeata | Pompilidae | Pompilinae,,4404860
-B376:1:51,Episyron,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Episyron,,Aculeata | Pompilidae | Pompilinae,,1311933
-B376:1:52,Evagetes,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Evagetes,,Aculeata | Pompilidae | Pompilinae,,3259139
-B376:1:53,Homonotus,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Homonotus,,Aculeata | Pompilidae | Pompilinae,,3259147
-B376:1:54,Pompilus,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Pompilus,,Aculeata | Pompilidae | Pompilinae,,1339228
-B376:1:55,Sapygidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Sapygidae,,,,Aculeata,,4298486
-B376:1:56,Sapyga,,,,,,genus,,B376:1,accepted,,,B376:1:55,Sapygidae,,,,,Sapygidae,,Sapyga,,Aculeata | Sapygidae,,9090977
-B376:1:57,Sapygina,,,,,,genus,,B376:1,accepted,,,B376:1:55,Sapygidae,,,,,Sapygidae,,Sapygina,,Aculeata | Sapygidae,,4405688
-B376:1:58,Tiphiidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Tiphiidae,,,,Aculeata,,7919
-B376:1:59,Methochinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:58,Tiphiidae,,,,,Tiphiidae,Methochinae,,,Aculeata | Tiphiidae,,
-B376:1:60,Methocha,,,,,,genus,,B376:1,accepted,,,B376:1:59,Methochinae,,,,,Tiphiidae,Methochinae,Methocha,,Aculeata | Tiphiidae | Methochinae,,4504878
-B376:1:61,Tiphiinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:58,Tiphiidae,,,,,Tiphiidae,Tiphiinae,,,Aculeata | Tiphiidae,,
-B376:1:62,Tiphia,,,,,,genus,,B376:1,accepted,,,B376:1:61,Tiphiinae,,,,,Tiphiidae,Tiphiinae,Tiphia,,Aculeata | Tiphiidae | Tiphiinae,,11228585
-B376:1:63,Vespidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Vespidae,,,,Aculeata,,4490
-B376:1:64,Eumeninae,,,,,,subfamily,,B376:1,accepted,,,B376:1:63,Vespidae,,,,,Vespidae,Eumeninae,,,Aculeata | Vespidae,,
-B376:1:65,Allodynerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Allodynerus,,Aculeata | Vespidae | Eumeninae,,1332452
-B376:1:66,Ancistrocerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Ancistrocerus,,Aculeata | Vespidae | Eumeninae,,1311332
-B376:1:67,Discoelius,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Discoelius,,Aculeata | Vespidae | Eumeninae,,1330599
-B376:1:68,Eumenes,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Eumenes,,Aculeata | Vespidae | Eumeninae,,1311630
-B376:1:69,Euodynerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Euodynerus,,Aculeata | Vespidae | Eumeninae,,5037530
-B376:1:70,Gymnomerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Gymnomerus,,Aculeata | Vespidae | Eumeninae,,1330061
-B376:1:71,Microdynerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Microdynerus,,Aculeata | Vespidae | Eumeninae,,1330442
-B376:1:72,Odynerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Odynerus,,Aculeata | Vespidae | Eumeninae,,10502292
-B376:1:73,Pseudepipona,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Pseudepipona,,Aculeata | Vespidae | Eumeninae,,7236003
-B376:1:74,Pterocheilus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Pterocheilus,,Aculeata | Vespidae | Eumeninae,,1328831
-B376:1:75,Stenodynerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Stenodynerus,,Aculeata | Vespidae | Eumeninae,,1332670
-B376:1:76,Symmorphus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Symmorphus,,Aculeata | Vespidae | Eumeninae,,1331373
-B376:1:77,Vespinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:63,Vespidae,,,,,Vespidae,Vespinae,,,Aculeata | Vespidae,,
-B376:1:78,Polistini,,,,,,tribe,,B376:1,accepted,,,B376:1:77,Vespinae,,,,,Vespidae,Vespinae,,,Aculeata | Vespidae | Vespinae,,
-B376:1:79,Polistes,,,,,,genus,,B376:1,accepted,,,B376:1:78,Polistini,,,,,Vespidae,Vespinae,Polistes,,Aculeata | Vespidae | Vespinae | Polistini,,1310500
-B376:1:80,Vespini,,,,,,tribe,,B376:1,accepted,,,B376:1:77,Vespinae,,,,,Vespidae,Vespinae,,,Aculeata | Vespidae | Vespinae,,
-B376:1:81,Dolichovespula,,,,,,genus,,B376:1,accepted,,,B376:1:80,Vespini,,,,,Vespidae,Vespinae,Dolichovespula,,Aculeata | Vespidae | Vespinae | Vespini,,1311794
-B376:1:82,Vespa,,,,,,genus,,B376:1,accepted,,,B376:1:80,Vespini,,,,,Vespidae,Vespinae,Vespa,,Aculeata | Vespidae | Vespinae | Vespini,,1311334
-B376:1:83,Vespula,,,,,,genus,,B376:1,accepted,,,B376:1:80,Vespini,,,,,Vespidae,Vespinae,Vespula,,Aculeata | Vespidae | Vespinae | Vespini,,1311631
-B376:1:84,Apoidea,,,,,,superfamily,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,,,,,Aculeata,,
-B376:1:85,Ampulicidae,,,,,,family,,B376:1,accepted,,,B376:1:84,Apoidea,,,,,Ampulicidae,,,,Aculeata | Apoidea,,4332
-B376:1:86,Dolichurus,,,,,,genus,,B376:1,accepted,,,B376:1:85,Ampulicidae,,,,,Ampulicidae,,Dolichurus,,Aculeata | Apoidea | Ampulicidae,,1338953
-B376:1:87,Apidae,,,,,,family,,B376:1,accepted,,,B376:1:84,Apoidea,,,,,Apidae,,,,Aculeata | Apoidea,,4334
-B376:1:88,Crabronidae,,,,,,family,,B376:1,accepted,,,B376:1:84,Apoidea,,,,,Crabronidae,,,,Aculeata | Apoidea,,7906
-B376:1:89,Alysson,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Alysson,,Aculeata | Apoidea | Crabronidae,,3693043
-B376:1:90,Argogorytes,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Argogorytes,,Aculeata | Apoidea | Crabronidae,,1346025
-B376:1:91,Astata,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Astata,,Aculeata | Apoidea | Crabronidae,,3259003
-B376:1:92,Bembix,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Bembix,,Aculeata | Apoidea | Crabronidae,,
-B376:1:93,Cerceris,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Cerceris,,Aculeata | Apoidea | Crabronidae,,1312205
-B376:1:94,Crabro,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Crabro,,Aculeata | Apoidea | Crabronidae,,1361459
-B376:1:95,Crossocerus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Crossocerus,,Aculeata | Apoidea | Crabronidae,,1338935
-B376:1:96,Didineis,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Didineis,,Aculeata | Apoidea | Crabronidae,,4298371
-B376:1:97,Dinetus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Dinetus,,Aculeata | Apoidea | Crabronidae,,3258417
-B376:1:98,Diodontus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Diodontus,,Aculeata | Apoidea | Crabronidae,,3258615
-B376:1:99,Dryudella,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Dryudella,,Aculeata | Apoidea | Crabronidae,,4298299
-B376:1:100,Ectemnius,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Ectemnius,,Aculeata | Apoidea | Crabronidae,,4298242
-B376:1:101,Entomognathus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Entomognathus,,Aculeata | Apoidea | Crabronidae,,4298256
-B376:1:102,Gorytes,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Gorytes,,Aculeata | Apoidea | Crabronidae,,4298359
-B376:1:103,Harpactus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Harpactus,,Aculeata | Apoidea | Crabronidae,,3258997
-B376:1:104,Lestica,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Lestica,,Aculeata | Apoidea | Crabronidae,,4298230
-B376:1:105,Lestiphorus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Lestiphorus,,Aculeata | Apoidea | Crabronidae,,4298363
-B376:1:106,Lindenius,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Lindenius,,Aculeata | Apoidea | Crabronidae,,4298232
-B376:1:107,Mellinus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Mellinus,,Aculeata | Apoidea | Crabronidae,,4298202
-B376:1:108,Mimesa,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Mimesa,,Aculeata | Apoidea | Crabronidae,,4298315
-B376:1:109,Mimumesa,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Mimumesa,,Aculeata | Apoidea | Crabronidae,,4298313
-B376:1:110,Miscophus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Miscophus,,Aculeata | Apoidea | Crabronidae,,4298283
-B376:1:111,Nitela,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Nitela,,Aculeata | Apoidea | Crabronidae,,4298285
-B376:1:112,Nysson,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Nysson,,Aculeata | Apoidea | Crabronidae,,4298382
-B376:1:113,Oxybelus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Oxybelus,,Aculeata | Apoidea | Crabronidae,,
-B376:1:114,Passaloecus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Passaloecus,,Aculeata | Apoidea | Crabronidae,,4298321
-B376:1:115,Pemphredon,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Pemphredon,,Aculeata | Apoidea | Crabronidae,,1338937
-B376:1:116,Philanthus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Philanthus,,Aculeata | Apoidea | Crabronidae,,1338932
-B376:1:117,Psen,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Psen,,Aculeata | Apoidea | Crabronidae,,3258994
-B376:1:118,Psenulus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Psenulus,,Aculeata | Apoidea | Crabronidae,,4298316
-B376:1:119,Rhopalum,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Rhopalum,,Aculeata | Apoidea | Crabronidae,,1347324
-B376:1:120,Spilomena,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Spilomena,,Aculeata | Apoidea | Crabronidae,,1346854
-B376:1:121,Stigmus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Stigmus,,Aculeata | Apoidea | Crabronidae,,4406817
-B376:1:122,Tachysphex,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Tachysphex,,Aculeata | Apoidea | Crabronidae,,1346028
-B376:1:123,Tachytes,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Tachytes,,Aculeata | Apoidea | Crabronidae,,4077290
-B376:1:124,Trypoxylon,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Trypoxylon,,Aculeata | Apoidea | Crabronidae,,4298296
-B376:1:125,Sphecidae,,,,,,family,,B376:1,accepted,,,B376:1:84,Apoidea,,,,,Sphecidae,,,,Aculeata | Apoidea,,4352
-B376:1:126,Ammophila,,,,,,genus,,B376:1,accepted,,,B376:1:125,Sphecidae,,,,,Sphecidae,,Ammophila,,Aculeata | Apoidea | Sphecidae,,1346141
-B376:1:127,Podalonia,,,,,,genus,,B376:1,accepted,,,B376:1:125,Sphecidae,,,,,Sphecidae,,Podalonia,,Aculeata | Apoidea | Sphecidae,,1347780
-B376:1:128,Chrysidoidea,,,,,,superfamily,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,,,,,Aculeata,,
-B376:1:129,Bethyloidea,,,,,,superfamily,,B376:1,synonym,B376:1:128,Chrysidoidea,,,,,,,,,,,Aculeata,,
-B376:1:130,Bethylidae,,,,,,family,,B376:1,accepted,,,B376:1:128,Chrysidoidea,,,,,Bethylidae,,,,Aculeata | Chrysidoidea,,4336
-B376:1:131,Goniozus,,,,,,genus,,B376:1,accepted,,,B376:1:130,Bethylidae,,,,,Bethylidae,,Goniozus,,Aculeata | Chrysidoidea | Bethylidae,,1358484
-B376:1:132,Bethylus,,,,,,genus,,B376:1,accepted,,,B376:1:130,Bethylidae,,,,,Bethylidae,,Bethylus,,Aculeata | Chrysidoidea | Bethylidae,,
-B376:1:133,Pristocerinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:130,Bethylidae,,,,,Bethylidae,Pristocerinae,,,Aculeata | Chrysidoidea | Bethylidae,,
-B376:1:134,Pristocera,,,,,,genus,,B376:1,accepted,,,B376:1:133,Pristocerinae,,,,,Bethylidae,Pristocerinae,Pristocera,,Aculeata | Chrysidoidea | Bethylidae | Pristocerinae,,3258848
-B376:1:135,Pseudisobrachium,,,,,,genus,,B376:1,accepted,,,B376:1:133,Pristocerinae,,,,,Bethylidae,Pristocerinae,Pseudisobrachium,,Aculeata | Chrysidoidea | Bethylidae | Pristocerinae,,4492625
-B376:1:136,Epyrinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:130,Bethylidae,,,,,Bethylidae,Epyrinae,,,Aculeata | Chrysidoidea | Bethylidae,,
-B376:1:137,Cephalonomiini,,,,,,tribe,,B376:1,accepted,,,B376:1:136,Epyrinae,,,,,Bethylidae,Epyrinae,,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae,,
-B376:1:138,Plastanoxus,,,,,,genus,,B376:1,accepted,,,B376:1:137,Cephalonomiini,,,,,Bethylidae,Epyrinae,Plastanoxus,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae | Cephalonomiini,,9098213
-B376:1:139,Cephalonomia,,,,,,genus,,B376:1,accepted,,,B376:1:137,Cephalonomiini,,,,,Bethylidae,Epyrinae,Cephalonomia,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae | Cephalonomiini,,1358490
-B376:1:140,Epyrini,,,,,,tribe,,B376:1,accepted,,,B376:1:136,Epyrinae,,,,,Bethylidae,Epyrinae,,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae,,
-B376:1:141,Laelius,,,,,,genus,,B376:1,accepted,,,B376:1:140,Epyrini,,,,,Bethylidae,Epyrinae,Laelius,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae | Epyrini,,4404476
-B376:1:142,Epyris,,,,,,genus,,B376:1,accepted,,,B376:1:140,Epyrini,,,,,Bethylidae,Epyrinae,Epyris,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae | Epyrini,,4404352
-B376:1:143,Rhabdepyris,,,,,,genus,,B376:1,accepted,,,B376:1:140,Epyrini,,,,,Bethylidae,Epyrinae,Rhabdepyris,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae | Epyrini,,4407155
-B376:1:144,Chrysididae,,,,,,family,,B376:1,accepted,,,B376:1:128,Chrysidoidea,,,,,Chrysididae,,,,Aculeata | Chrysidoidea,,7903
-B376:1:145,Chrysidinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:144,Chrysididae,,,,,Chrysididae,Chrysidinae,,,Aculeata | Chrysidoidea | Chrysididae,,
-B376:1:146,Chrysidini,,,,,,tribe,,B376:1,accepted,,,B376:1:145,Chrysidinae,,,,,Chrysididae,Chrysidinae,,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae,,
-B376:1:147,Spinolia,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrysididae,Chrysidinae,Spinolia,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Chrysidini,,6007040
-B376:1:148,Pseudospinolia,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrysididae,Chrysidinae,Pseudospinolia,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Chrysidini,,4493698
-B376:1:149,Chrysura,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrysididae,Chrysidinae,Chrysura,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Chrysidini,,4407791
-B376:1:150,Trichrysis,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrysididae,Chrysidinae,Trichrysis,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Chrysidini,,9216054
-B376:1:151,Chrysis,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrysididae,Chrysidinae,Chrysis,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Chrysidini,,10501569
-B376:1:152,Elampini,,,,,,tribe,,B376:1,accepted,,,B376:1:145,Chrysidinae,,,,,Chrysididae,Chrysidinae,,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae,,
-B376:1:153,Elampus,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Elampus,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,4405609
-B376:1:154,Hedychrum,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Hedychrum,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,4494164
-B376:1:155,Hedychrydium,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Hedychrydium,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,
-B376:1:156,Holopyga,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Holopyga,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,3258441
-B376:1:157,Omalus,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Omalus,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,3258860
-B376:1:158,Philoctetes,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Philoctetes,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,4494048
-B376:1:159,Pseudomalus,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Pseudomalus,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,4494196
-B376:1:160,Cleptinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:144,Chrysididae,,,,,Chrysididae,Cleptinae,,,Aculeata | Chrysidoidea | Chrysididae,,
-B376:1:161,Cleptes,,,,,,genus,,B376:1,accepted,,,B376:1:160,Cleptinae,,,,,Chrysididae,Cleptinae,Cleptes,,Aculeata | Chrysidoidea | Chrysididae | Cleptinae,,
-B376:1:162,Dryinidae,,,,,,family,,B376:1,accepted,,,B376:1:128,Chrysidoidea,,,,,Dryinidae,,,,Aculeata | Chrysidoidea,,4340
-B376:1:163,Anteoninae,,,,,,subfamily,,B376:1,accepted,,,B376:1:162,Dryinidae,,,,,Dryinidae,Anteoninae,,,Aculeata | Chrysidoidea | Dryinidae,,
-B376:1:164,Anteon,,,,,,genus,,B376:1,accepted,,,B376:1:163,Anteoninae,,,,,Dryinidae,Anteoninae,Anteon,,Aculeata | Chrysidoidea | Dryinidae | Anteoninae,,9146949
-B376:1:165,Lonchodryinus,,,,,,genus,,B376:1,accepted,,,B376:1:163,Anteoninae,,,,,Dryinidae,Anteoninae,Lonchodryinus,,Aculeata | Chrysidoidea | Dryinidae | Anteoninae,,4407178
-B376:1:166,Aphelopinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:162,Dryinidae,,,,,Dryinidae,Aphelopinae,,,Aculeata | Chrysidoidea | Dryinidae,,
-B376:1:167,Aphelopus,,,,,,genus,,B376:1,accepted,,,B376:1:166,Aphelopinae,,,,,Dryinidae,Aphelopinae,Aphelopus,,Aculeata | Chrysidoidea | Dryinidae | Aphelopinae,,4406725
-B376:1:168,Bocchinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:162,Dryinidae,,,,,Dryinidae,Bocchinae,,,Aculeata | Chrysidoidea | Dryinidae,,
-B376:1:169,Bocchus,,,,,,genus,,B376:1,accepted,,,B376:1:168,Bocchinae,,,,,Dryinidae,Bocchinae,Bocchus,,Aculeata | Chrysidoidea | Dryinidae | Bocchinae,,4408096
-B376:1:170,Mystrophorus,,,,,,genus,,B376:1,accepted,,,B376:1:168,Bocchinae,,,,,Dryinidae,Bocchinae,Mystrophorus,,Aculeata | Chrysidoidea | Dryinidae | Bocchinae,,4407056
-B376:1:171,Dryininae,,,,,,subfamily,,B376:1,accepted,,,B376:1:162,Dryinidae,,,,,Dryinidae,Dryininae,,,Aculeata | Chrysidoidea | Dryinidae,,
-B376:1:172,Dryinus,,,,,,genus,,B376:1,accepted,,,B376:1:171,Dryininae,,,,,Dryinidae,Dryininae,Dryinus,,Aculeata | Chrysidoidea | Dryinidae | Dryininae,,7901569
-B376:1:173,Gonatopodinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:162,Dryinidae,,,,,Dryinidae,Gonatopodinae,,,Aculeata | Chrysidoidea | Dryinidae,,
-B376:1:174,Gonatopus,,,,,,genus,,B376:1,accepted,,,B376:1:173,Gonatopodinae,,,,,Dryinidae,Gonatopodinae,Gonatopus,,Aculeata | Chrysidoidea | Dryinidae | Gonatopodinae,,3258342
-B376:1:175,Echthrodelphax,,,,,,genus,,B376:1,accepted,,,B376:1:173,Gonatopodinae,,,,,Dryinidae,Gonatopodinae,Echthrodelphax,,Aculeata | Chrysidoidea | Dryinidae | Gonatopodinae,,5430708
-B376:1:176,Embolemidae,,,,,,family,,B376:1,accepted,,,B376:1:128,Chrysidoidea,,,,,Embolemidae,,,,Aculeata | Chrysidoidea,,6045
-B376:1:177,Embolemus,,,,,,genus,,B376:1,accepted,,,B376:1:176,Embolemidae,,,,,Embolemidae,,Embolemus,,Aculeata | Chrysidoidea | Embolemidae,,1403451
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B376:1:1,Aculeata,,,,,,suborder,,B376:1,accepted,,,,,,,,,,,,,,,,,
+B376:1:2,Formicidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Formicidae,,,,Aculeata,623T5,4342,623T5,4342
+B376:1:3,Dolichoderinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Dolichoderinae,,,Aculeata | Formicidae,JGK,,JGK,
+B376:1:4,Dolichoderus,,,,,,genus,,B376:1,accepted,,,B376:1:3,Dolichoderinae,,,,,Formicidae,Dolichoderinae,Dolichoderus,,Aculeata | Formicidae | Dolichoderinae,62R6N,1314182,62R6N,1314182
+B376:1:5,Tapinoma,,,,,,genus,,B376:1,accepted,,,B376:1:3,Dolichoderinae,,,,,Formicidae,Dolichoderinae,Tapinoma,,Aculeata | Formicidae | Dolichoderinae,7SPC,1316784,7SPC,1316784
+B376:1:6,Formicinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Formicinae,,,Aculeata | Formicidae,JKW,,JKW,
+B376:1:7,Camponotus,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Camponotus,,Aculeata | Formicidae | Formicinae,3GGD,1312361,3GGD,1312361
+B376:1:8,Formica,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Formica,,Aculeata | Formicidae | Formicinae,4KS4,1314840,4KS4,1314840
+B376:1:9,Lasius,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Lasius,,Aculeata | Formicidae | Formicinae,5B7S,3258580,5B7S,3258580
+B376:1:10,Plagiolepis,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Plagiolepis,,Aculeata | Formicidae | Formicinae,6R9D,1320758,6R9D,1320758
+B376:1:11,Polyergus,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Polyergus,,Aculeata | Formicidae | Formicinae,63NDS,1326338,63NDS,1326338
+B376:1:12,Myrmicinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Myrmicinae,,,Aculeata | Formicidae,JY2,,JY2,
+B376:1:13,Anergates,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Anergates,,Aculeata | Formicidae | Myrmicinae,VZN,1314823,VZN,1314823
+B376:1:14,Aphaenogaster,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Aphaenogaster,,Aculeata | Formicidae | Myrmicinae,Y85,1315863,Y85,1315863
+B376:1:15,Crematogaster,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Crematogaster,,Aculeata | Formicidae | Myrmicinae,3VHN,1324306,3VHN,1324306
+B376:1:16,Formicoxenus,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Formicoxenus,,Aculeata | Formicidae | Myrmicinae,4KSR,1317460,4KSR,1317460
+B376:1:17,Harpagoxenus,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Harpagoxenus,,Aculeata | Formicidae | Myrmicinae,4TTB,1317002,4TTB,1317002
+B376:1:18,Leptothorax,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Leptothorax,,Aculeata | Formicidae | Myrmicinae,5DFZ,1323767,5DFZ,1323767
+B376:1:19,Manica,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Manica,,Aculeata | Formicidae | Myrmicinae,5KVV,1326273,5KVV,1326273
+B376:1:20,Messor,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Messor,,Aculeata | Formicidae | Myrmicinae,5Q45,1316342,5Q45,1316342
+B376:1:21,Monomorium,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Monomorium,,Aculeata | Formicidae | Myrmicinae,63CSW,1314419,63CSW,1314419
+B376:1:22,Myrmecina,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Myrmecina,,Aculeata | Formicidae | Myrmicinae,5WLG,1315201,5WLG,1315201
+B376:1:23,Solenopsis,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Solenopsis,,Aculeata | Formicidae | Myrmicinae,7JFX,9107211,7JFX,9107211
+B376:1:24,Stenamma,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Stenamma,,Aculeata | Formicidae | Myrmicinae,7MDH,9138092,7MDH,9138092
+B376:1:25,Strongylognathus,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Strongylognathus,,Aculeata | Formicidae | Myrmicinae,7PFV,1317667,7PFV,1317667
+B376:1:26,Tetramorium,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Tetramorium,,Aculeata | Formicidae | Myrmicinae,63V54,1323128,63V54,1323128
+B376:1:27,Ponerinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Ponerinae,,,Aculeata | Formicidae,K6Z,,K6Z,
+B376:1:28,Ponera,,,,,,genus,,B376:1,accepted,,,B376:1:27,Ponerinae,,,,,Formicidae,Ponerinae,Ponera,,Aculeata | Formicidae | Ponerinae,63NZ7,1317227,63NZ7,1317227
+B376:1:29,Mutillidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Mutillidae,,,,Aculeata,CZW,7912,CZW,7912
+B376:1:30,Mutillinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:29,Mutillidae,,,,,Mutillidae,Mutillinae,,,Aculeata | Mutillidae,,,,
+B376:1:31,Mutilla,,,,,,genus,,B376:1,accepted,,,B376:1:30,Mutillinae,,,,,Mutillidae,Mutillinae,Mutilla,,Aculeata | Mutillidae | Mutillinae,,9731472,,9731472
+B376:1:32,Smicromyrme,,,,,,genus,,B376:1,accepted,,,B376:1:30,Mutillinae,,,,,Mutillidae,Mutillinae,Smicromyrme,,Aculeata | Mutillidae | Mutillinae,,4506167,,4506167
+B376:1:33,Myrmosinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:29,Mutillidae,,,,,Mutillidae,Myrmosinae,,,Aculeata | Mutillidae,,,,
+B376:1:34,Myrmosa,,,,,,genus,,B376:1,accepted,,,B376:1:33,Myrmosinae,,,,,Mutillidae,Myrmosinae,Myrmosa,,Aculeata | Mutillidae | Myrmosinae,,9113703,,9113703
+B376:1:35,Pompilidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Pompilidae,,,,Aculeata,627L7,7913,627L7,7913
+B376:1:36,Ceropalinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:35,Pompilidae,,,,,Pompilidae,Ceropalinae,,,Aculeata | Pompilidae,,,,
+B376:1:37,Ceropales,,,,,,genus,,B376:1,accepted,,,B376:1:36,Ceropalinae,,,,,Pompilidae,Ceropalinae,Ceropales,,Aculeata | Pompilidae | Ceropalinae,3L7H,3259130,3L7H,3259130
+B376:1:38,Pepsinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:35,Pompilidae,,,,,Pompilidae,Pepsinae,,,Aculeata | Pompilidae,,,,
+B376:1:39,Auplopus,,,,,,genus,,B376:1,accepted,,,B376:1:38,Pepsinae,,,,,Pompilidae,Pepsinae,Auplopus,,Aculeata | Pompilidae | Pepsinae,35TP,4404428,35TP,4404428
+B376:1:40,Caliadurgus,,,,,,genus,,B376:1,accepted,,,B376:1:38,Pepsinae,,,,,Pompilidae,Pepsinae,Caliadurgus,,Aculeata | Pompilidae | Pepsinae,3F7F,3259127,3F7F,3259127
+B376:1:41,Cryptocheilus,,,,,,genus,,B376:1,accepted,,,B376:1:38,Pepsinae,,,,,Pompilidae,Pepsinae,Cryptocheilus,,Aculeata | Pompilidae | Pepsinae,3WHM,1311931,3WHM,1311931
+B376:1:42,Dipogon,,,,,,genus,,B376:1,accepted,,,B376:1:38,Pepsinae,,,,,Pompilidae,Pepsinae,Dipogon,,Aculeata | Pompilidae | Pepsinae,99DZX,3259132,99DZX,3259132
+B376:1:43,Priocnemis,,,,,,genus,,B376:1,accepted,,,B376:1:38,Pepsinae,,,,,Pompilidae,Pepsinae,Priocnemis,,Aculeata | Pompilidae | Pepsinae,87K3C,9500065,87K3C,9500065
+B376:1:44,Pompilinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:35,Pompilidae,,,,,Pompilidae,Pompilinae,,,Aculeata | Pompilidae,,,,
+B376:1:45,Agenioideus,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Agenioideus,,Aculeata | Pompilidae | Pompilinae,QP3,4404608,QP3,4404608
+B376:1:46,Anoplius,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Anoplius,,Aculeata | Pompilidae | Pompilinae,WY5,1311909,WY5,1311909
+B376:1:47,Aporinellus,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Aporinellus,,Aculeata | Pompilidae | Pompilinae,Z3P,4406469,Z3P,4406469
+B376:1:48,Aporus,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Aporus,,Aculeata | Pompilidae | Pompilinae,Z4T,3258816,Z4T,3258816
+B376:1:49,Arachnospila,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Arachnospila,,Aculeata | Pompilidae | Pompilinae,ZM9,4406260,ZM9,4406260
+B376:1:50,Eoferreola,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Eoferreola,,Aculeata | Pompilidae | Pompilinae,4CDM,4404860,4CDM,4404860
+B376:1:51,Episyron,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Episyron,,Aculeata | Pompilidae | Pompilinae,4DFJ,1311933,4DFJ,1311933
+B376:1:52,Evagetes,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Evagetes,,Aculeata | Pompilidae | Pompilinae,4HKZ,3259139,4HKZ,3259139
+B376:1:53,Homonotus,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Homonotus,,Aculeata | Pompilidae | Pompilinae,636WW,3259147,636WW,3259147
+B376:1:54,Pompilus,,,,,,genus,,B376:1,accepted,,,B376:1:44,Pompilinae,,,,,Pompilidae,Pompilinae,Pompilus,,Aculeata | Pompilidae | Pompilinae,63NZ9,1339228,63NZ9,1339228
+B376:1:55,Sapygidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Sapygidae,,,,Aculeata,FY8,4298486,FY8,4298486
+B376:1:56,Sapyga,,,,,,genus,,B376:1,accepted,,,B376:1:55,Sapygidae,,,,,Sapygidae,,Sapyga,,Aculeata | Sapygidae,,9090977,,9090977
+B376:1:57,Sapygina,,,,,,genus,,B376:1,accepted,,,B376:1:55,Sapygidae,,,,,Sapygidae,,Sapygina,,Aculeata | Sapygidae,,4405688,,4405688
+B376:1:58,Tiphiidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Tiphiidae,,,,Aculeata,H9Z,7919,H9Z,7919
+B376:1:59,Methochinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:58,Tiphiidae,,,,,Tiphiidae,Methochinae,,,Aculeata | Tiphiidae,,,,
+B376:1:60,Methocha,,,,,,genus,,B376:1,accepted,,,B376:1:59,Methochinae,,,,,Tiphiidae,Methochinae,Methocha,,Aculeata | Tiphiidae | Methochinae,,4504878,,4504878
+B376:1:61,Tiphiinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:58,Tiphiidae,,,,,Tiphiidae,Tiphiinae,,,Aculeata | Tiphiidae,,,,
+B376:1:62,Tiphia,,,,,,genus,,B376:1,accepted,,,B376:1:61,Tiphiinae,,,,,Tiphiidae,Tiphiinae,Tiphia,,Aculeata | Tiphiidae | Tiphiinae,7X67,11228585,7X67,11228585
+B376:1:63,Vespidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Vespidae,,,,Aculeata,HTJ,4490,HTJ,4490
+B376:1:64,Eumeninae,,,,,,subfamily,,B376:1,accepted,,,B376:1:63,Vespidae,,,,,Vespidae,Eumeninae,,,Aculeata | Vespidae,,,,
+B376:1:65,Allodynerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Allodynerus,,Aculeata | Vespidae | Eumeninae,SB4,1332452,SB4,1332452
+B376:1:66,Ancistrocerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Ancistrocerus,,Aculeata | Vespidae | Eumeninae,VJJ,1311332,VJJ,1311332
+B376:1:67,Discoelius,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Discoelius,,Aculeata | Vespidae | Eumeninae,46PZ,1330599,46PZ,1330599
+B376:1:68,Eumenes,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Eumenes,,Aculeata | Vespidae | Eumeninae,4FY8,1311630,4FY8,1311630
+B376:1:69,Euodynerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Euodynerus,,Aculeata | Vespidae | Eumeninae,4G4Z,5037530,4G4Z,5037530
+B376:1:70,Gymnomerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Gymnomerus,,Aculeata | Vespidae | Eumeninae,635XN,1330061,635XN,1330061
+B376:1:71,Microdynerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Microdynerus,,Aculeata | Vespidae | Eumeninae,5RST,1330442,5RST,1330442
+B376:1:72,Odynerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Odynerus,,Aculeata | Vespidae | Eumeninae,63G6H,10502292,63G6H,10502292
+B376:1:73,Pseudepipona,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Pseudepipona,,Aculeata | Vespidae | Eumeninae,6YYC,7236003,6YYC,7236003
+B376:1:74,Pterocheilus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Pterocheilus,,Aculeata | Vespidae | Eumeninae,74NT,1328831,74NT,1328831
+B376:1:75,Stenodynerus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Stenodynerus,,Aculeata | Vespidae | Eumeninae,7MM2,1332670,7MM2,1332670
+B376:1:76,Symmorphus,,,,,,genus,,B376:1,accepted,,,B376:1:64,Eumeninae,,,,,Vespidae,Eumeninae,Symmorphus,,Aculeata | Vespidae | Eumeninae,7QTL,1331373,7QTL,1331373
+B376:1:77,Vespinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:63,Vespidae,,,,,Vespidae,Vespinae,,,Aculeata | Vespidae,,,,
+B376:1:78,Polistini,,,,,,tribe,,B376:1,accepted,,,B376:1:77,Vespinae,,,,,Vespidae,Vespinae,,,Aculeata | Vespidae | Vespinae,,,,
+B376:1:79,Polistes,,,,,,genus,,B376:1,accepted,,,B376:1:78,Polistini,,,,,Vespidae,Vespinae,Polistes,,Aculeata | Vespidae | Vespinae | Polistini,63NNT,1310500,63NNT,1310500
+B376:1:80,Vespini,,,,,,tribe,,B376:1,accepted,,,B376:1:77,Vespinae,,,,,Vespidae,Vespinae,,,Aculeata | Vespidae | Vespinae,,,,
+B376:1:81,Dolichovespula,,,,,,genus,,B376:1,accepted,,,B376:1:80,Vespini,,,,,Vespidae,Vespinae,Dolichovespula,,Aculeata | Vespidae | Vespinae | Vespini,47KP,1311794,47KP,1311794
+B376:1:82,Vespa,,,,,,genus,,B376:1,accepted,,,B376:1:80,Vespini,,,,,Vespidae,Vespinae,Vespa,,Aculeata | Vespidae | Vespinae | Vespini,86JM,1311334,86JM,1311334
+B376:1:83,Vespula,,,,,,genus,,B376:1,accepted,,,B376:1:80,Vespini,,,,,Vespidae,Vespinae,Vespula,,Aculeata | Vespidae | Vespinae | Vespini,86KD,1311631,86KD,1311631
+B376:1:84,Apoidea,,,,,,superfamily,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,,,,,Aculeata,625GP,,625GP,
+B376:1:85,Ampulicidae,,,,,,family,,B376:1,accepted,,,B376:1:84,Apoidea,,,,,Ampulicidae,,,,Aculeata | Apoidea,6C5,4332,6C5,4332
+B376:1:86,Dolichurus,,,,,,genus,,B376:1,accepted,,,B376:1:85,Ampulicidae,,,,,Ampulicidae,,Dolichurus,,Aculeata | Apoidea | Ampulicidae,47KX,1338953,47KX,1338953
+B376:1:87,Apidae,,,,,,family,,B376:1,accepted,,,B376:1:84,Apoidea,,,,,Apidae,,,,Aculeata | Apoidea,6KD,4334,6KD,4334
+B376:1:88,Crabronidae,,,,,,family,,B376:1,accepted,,,B376:1:84,Apoidea,,,,,Crabronidae,,,,Aculeata | Apoidea,8ML,7906,8ML,7906
+B376:1:89,Alysson,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Alysson,,Aculeata | Apoidea | Crabronidae,628TF,3693043,628TF,3693043
+B376:1:90,Argogorytes,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Argogorytes,,Aculeata | Apoidea | Crabronidae,32NH,1346025,32NH,1346025
+B376:1:91,Astata,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Astata,,Aculeata | Apoidea | Crabronidae,349K,3259003,349K,3259003
+B376:1:92,Bembix,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Bembix,,Aculeata | Apoidea | Crabronidae,62GHG,1338924,62GHG,1338924
+B376:1:93,Cerceris,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Cerceris,,Aculeata | Apoidea | Crabronidae,3KYS,1312205,3KYS,1312205
+B376:1:94,Crabro,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Crabro,,Aculeata | Apoidea | Crabronidae,3V4L,1361459,3V4L,1361459
+B376:1:95,Crossocerus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Crossocerus,,Aculeata | Apoidea | Crabronidae,3W6F,1338935,3W6F,1338935
+B376:1:96,Didineis,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Didineis,,Aculeata | Apoidea | Crabronidae,456C,4298371,456C,4298371
+B376:1:97,Dinetus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Dinetus,,Aculeata | Apoidea | Crabronidae,45QP,3258417,45QP,3258417
+B376:1:98,Diodontus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Diodontus,,Aculeata | Apoidea | Crabronidae,45VY,3258615,45VY,3258615
+B376:1:99,Dryudella,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Dryudella,,Aculeata | Apoidea | Crabronidae,632WD,4298299,632WD,4298299
+B376:1:100,Ectemnius,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Ectemnius,,Aculeata | Apoidea | Crabronidae,49VW,4298242,49VW,4298242
+B376:1:101,Entomognathus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Entomognathus,,Aculeata | Apoidea | Crabronidae,4C6X,4298256,4C6X,4298256
+B376:1:102,Gorytes,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Gorytes,,Aculeata | Apoidea | Crabronidae,4QFG,4298359,4QFG,4298359
+B376:1:103,Harpactus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Harpactus,,Aculeata | Apoidea | Crabronidae,4TSL,3258997,4TSL,3258997
+B376:1:104,Lestica,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Lestica,,Aculeata | Apoidea | Crabronidae,5DMH,4298230,5DMH,4298230
+B376:1:105,Lestiphorus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Lestiphorus,,Aculeata | Apoidea | Crabronidae,5DMR,4298363,5DMR,4298363
+B376:1:106,Lindenius,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Lindenius,,Aculeata | Apoidea | Crabronidae,62YQQ,4298232,62YQQ,4298232
+B376:1:107,Mellinus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Mellinus,,Aculeata | Apoidea | Crabronidae,5NTH,4298202,5NTH,4298202
+B376:1:108,Mimesa,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Mimesa,,Aculeata | Apoidea | Crabronidae,5SYS,4298315,5SYS,4298315
+B376:1:109,Mimumesa,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Mimumesa,,Aculeata | Apoidea | Crabronidae,5T9C,4298313,5T9C,4298313
+B376:1:110,Miscophus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Miscophus,,Aculeata | Apoidea | Crabronidae,5TQZ,4298283,5TQZ,4298283
+B376:1:111,Nitela,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Nitela,,Aculeata | Apoidea | Crabronidae,63F8L,4298285,63F8L,4298285
+B376:1:112,Nysson,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Nysson,,Aculeata | Apoidea | Crabronidae,6663,4298382,6663,4298382
+B376:1:113,Oxybelus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Oxybelus,,Aculeata | Apoidea | Crabronidae,6B8H,4298268,6B8H,4298268
+B376:1:114,Passaloecus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Passaloecus,,Aculeata | Apoidea | Crabronidae,6JFJ,4298321,6JFJ,4298321
+B376:1:115,Pemphredon,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Pemphredon,,Aculeata | Apoidea | Crabronidae,6KKB,1338937,6KKB,1338937
+B376:1:116,Philanthus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Philanthus,,Aculeata | Apoidea | Crabronidae,6NBT,1338932,6NBT,1338932
+B376:1:117,Psen,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Psen,,Aculeata | Apoidea | Crabronidae,6YGJ,3258994,6YGJ,3258994
+B376:1:118,Psenulus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Psenulus,,Aculeata | Apoidea | Crabronidae,6YGW,4298316,6YGW,4298316
+B376:1:119,Rhopalum,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Rhopalum,,Aculeata | Apoidea | Crabronidae,63QFC,1347324,63QFC,1347324
+B376:1:120,Spilomena,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Spilomena,,Aculeata | Apoidea | Crabronidae,7KZM,1346854,7KZM,1346854
+B376:1:121,Stigmus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Stigmus,,Aculeata | Apoidea | Crabronidae,7NMM,4406817,7NMM,4406817
+B376:1:122,Tachysphex,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Tachysphex,,Aculeata | Apoidea | Crabronidae,645GD,1346028,645GD,1346028
+B376:1:123,Tachytes,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Tachytes,,Aculeata | Apoidea | Crabronidae,63TGJ,4077290,63TGJ,4077290
+B376:1:124,Trypoxylon,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Trypoxylon,,Aculeata | Apoidea | Crabronidae,8P2GQ,4298296,8P2GQ,4298296
+B376:1:125,Sphecidae,,,,,,family,,B376:1,accepted,,,B376:1:84,Apoidea,,,,,Sphecidae,,,,Aculeata | Apoidea,GH7,4352,GH7,4352
+B376:1:126,Ammophila,,,,,,genus,,B376:1,accepted,,,B376:1:125,Sphecidae,,,,,Sphecidae,,Ammophila,,Aculeata | Apoidea | Sphecidae,TY5,1346141,TY5,1346141
+B376:1:127,Podalonia,,,,,,genus,,B376:1,accepted,,,B376:1:125,Sphecidae,,,,,Sphecidae,,Podalonia,,Aculeata | Apoidea | Sphecidae,63NKS,1347780,63NKS,1347780
+B376:1:128,Chrysidoidea,,,,,,superfamily,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,,,,,Aculeata,4Y3,,4Y3,
+B376:1:129,Bethyloidea,,,,,,superfamily,,B376:1,synonym,B376:1:128,Chrysidoidea,,,,,,,,,,,Aculeata,,,,
+B376:1:130,Bethylidae,,,,,,family,,B376:1,accepted,,,B376:1:128,Chrysidoidea,,,,,Bethylidae,,,,Aculeata | Chrysidoidea,775,4336,775,4336
+B376:1:131,Goniozus,,,,,,genus,,B376:1,accepted,,,B376:1:130,Bethylidae,,,,,Bethylidae,,Goniozus,,Aculeata | Chrysidoidea | Bethylidae,4Q7N,1358484,4Q7N,1358484
+B376:1:132,Bethylus,,,,,,genus,,B376:1,accepted,,,B376:1:130,Bethylidae,,,,,Bethylidae,,Bethylus,,Aculeata | Chrysidoidea | Bethylidae,,3258530,,3258530
+B376:1:133,Pristocerinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:130,Bethylidae,,,,,Bethylidae,Pristocerinae,,,Aculeata | Chrysidoidea | Bethylidae,,,,
+B376:1:134,Pristocera,,,,,,genus,,B376:1,accepted,,,B376:1:133,Pristocerinae,,,,,Bethylidae,Pristocerinae,Pristocera,,Aculeata | Chrysidoidea | Bethylidae | Pristocerinae,93P7X,3258848,92KL3,3258848
+B376:1:135,Pseudisobrachium,,,,,,genus,,B376:1,accepted,,,B376:1:133,Pristocerinae,,,,,Bethylidae,Pristocerinae,Pseudisobrachium,,Aculeata | Chrysidoidea | Bethylidae | Pristocerinae,,4492625,,4492625
+B376:1:136,Epyrinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:130,Bethylidae,,,,,Bethylidae,Epyrinae,,,Aculeata | Chrysidoidea | Bethylidae,,,,
+B376:1:137,Cephalonomiini,,,,,,tribe,,B376:1,accepted,,,B376:1:136,Epyrinae,,,,,Bethylidae,Epyrinae,,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae,,,,
+B376:1:138,Plastanoxus,,,,,,genus,,B376:1,accepted,,,B376:1:137,Cephalonomiini,,,,,Bethylidae,Epyrinae,Plastanoxus,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae | Cephalonomiini,,9098213,,9098213
+B376:1:139,Cephalonomia,,,,,,genus,,B376:1,accepted,,,B376:1:137,Cephalonomiini,,,,,Bethylidae,Epyrinae,Cephalonomia,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae | Cephalonomiini,62JW3,1358490,62JW3,1358490
+B376:1:140,Epyrini,,,,,,tribe,,B376:1,accepted,,,B376:1:136,Epyrinae,,,,,Bethylidae,Epyrinae,,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae,,,,
+B376:1:141,Laelius,,,,,,genus,,B376:1,accepted,,,B376:1:140,Epyrini,,,,,Bethylidae,Epyrinae,Laelius,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae | Epyrini,,4404476,,4404476
+B376:1:142,Epyris,,,,,,genus,,B376:1,accepted,,,B376:1:140,Epyrini,,,,,Bethylidae,Epyrinae,Epyris,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae | Epyrini,,4404352,,4404352
+B376:1:143,Rhabdepyris,,,,,,genus,,B376:1,accepted,,,B376:1:140,Epyrini,,,,,Bethylidae,Epyrinae,Rhabdepyris,,Aculeata | Chrysidoidea | Bethylidae | Epyrinae | Epyrini,,4407155,,4407155
+B376:1:144,Chrysididae,,,,,,family,,B376:1,accepted,,,B376:1:128,Chrysidoidea,,,,,Chrysididae,,,,Aculeata | Chrysidoidea,87J,7903,87J,7903
+B376:1:145,Chrysidinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:144,Chrysididae,,,,,Chrysididae,Chrysidinae,,,Aculeata | Chrysidoidea | Chrysididae,9GTSK,,9GTSK,
+B376:1:146,Chrysidini,,,,,,tribe,,B376:1,accepted,,,B376:1:145,Chrysidinae,,,,,Chrysididae,Chrysidinae,,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae,,,,
+B376:1:147,Spinolia,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrysididae,Chrysidinae,Spinolia,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Chrysidini,,3258307,,3258307
+B376:1:148,Pseudospinolia,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrysididae,Chrysidinae,Pseudospinolia,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Chrysidini,,4493698,,4493698
+B376:1:149,Chrysura,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrysididae,Chrysidinae,Chrysura,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Chrysidini,,4407791,,4407791
+B376:1:150,Trichrysis,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrysididae,Chrysidinae,Trichrysis,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Chrysidini,,9216054,,9216054
+B376:1:151,Chrysis,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrysididae,Chrysidinae,Chrysis,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Chrysidini,3PF5,10501569,3PF5,10501569
+B376:1:152,Elampini,,,,,,tribe,,B376:1,accepted,,,B376:1:145,Chrysidinae,,,,,Chrysididae,Chrysidinae,,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae,,,,
+B376:1:153,Elampus,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Elampus,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,4405609,,4405609
+B376:1:154,Hedychrum,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Hedychrum,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,4494164,,4494164
+B376:1:155,Hedychrydium,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Hedychrydium,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,,,
+B376:1:156,Holopyga,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Holopyga,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,3258441,,3258441
+B376:1:157,Omalus,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Omalus,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,3258860,,3258860
+B376:1:158,Philoctetes,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Philoctetes,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,4494048,,4494048
+B376:1:159,Pseudomalus,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Pseudomalus,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,,4494196,,4494196
+B376:1:160,Cleptinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:144,Chrysididae,,,,,Chrysididae,Cleptinae,,,Aculeata | Chrysidoidea | Chrysididae,,,,
+B376:1:161,Cleptes,,,,,,genus,,B376:1,accepted,,,B376:1:160,Cleptinae,,,,,Chrysididae,Cleptinae,Cleptes,,Aculeata | Chrysidoidea | Chrysididae | Cleptinae,,8802199,,8802199
+B376:1:162,Dryinidae,,,,,,family,,B376:1,accepted,,,B376:1:128,Chrysidoidea,,,,,Dryinidae,,,,Aculeata | Chrysidoidea,623YW,4340,623YW,4340
+B376:1:163,Anteoninae,,,,,,subfamily,,B376:1,accepted,,,B376:1:162,Dryinidae,,,,,Dryinidae,Anteoninae,,,Aculeata | Chrysidoidea | Dryinidae,,,,
+B376:1:164,Anteon,,,,,,genus,,B376:1,accepted,,,B376:1:163,Anteoninae,,,,,Dryinidae,Anteoninae,Anteon,,Aculeata | Chrysidoidea | Dryinidae | Anteoninae,,9146949,,9146949
+B376:1:165,Lonchodryinus,,,,,,genus,,B376:1,accepted,,,B376:1:163,Anteoninae,,,,,Dryinidae,Anteoninae,Lonchodryinus,,Aculeata | Chrysidoidea | Dryinidae | Anteoninae,,4407178,,4407178
+B376:1:166,Aphelopinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:162,Dryinidae,,,,,Dryinidae,Aphelopinae,,,Aculeata | Chrysidoidea | Dryinidae,,,,
+B376:1:167,Aphelopus,,,,,,genus,,B376:1,accepted,,,B376:1:166,Aphelopinae,,,,,Dryinidae,Aphelopinae,Aphelopus,,Aculeata | Chrysidoidea | Dryinidae | Aphelopinae,,4406725,,4406725
+B376:1:168,Bocchinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:162,Dryinidae,,,,,Dryinidae,Bocchinae,,,Aculeata | Chrysidoidea | Dryinidae,,,,
+B376:1:169,Bocchus,,,,,,genus,,B376:1,accepted,,,B376:1:168,Bocchinae,,,,,Dryinidae,Bocchinae,Bocchus,,Aculeata | Chrysidoidea | Dryinidae | Bocchinae,,4408096,,4408096
+B376:1:170,Mystrophorus,,,,,,genus,,B376:1,accepted,,,B376:1:168,Bocchinae,,,,,Dryinidae,Bocchinae,Mystrophorus,,Aculeata | Chrysidoidea | Dryinidae | Bocchinae,,4407056,,4407056
+B376:1:171,Dryininae,,,,,,subfamily,,B376:1,accepted,,,B376:1:162,Dryinidae,,,,,Dryinidae,Dryininae,,,Aculeata | Chrysidoidea | Dryinidae,,,,
+B376:1:172,Dryinus,,,,,,genus,,B376:1,accepted,,,B376:1:171,Dryininae,,,,,Dryinidae,Dryininae,Dryinus,,Aculeata | Chrysidoidea | Dryinidae | Dryininae,,7901569,,7901569
+B376:1:173,Gonatopodinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:162,Dryinidae,,,,,Dryinidae,Gonatopodinae,,,Aculeata | Chrysidoidea | Dryinidae,,,,
+B376:1:174,Gonatopus,,,,,,genus,,B376:1,accepted,,,B376:1:173,Gonatopodinae,,,,,Dryinidae,Gonatopodinae,Gonatopus,,Aculeata | Chrysidoidea | Dryinidae | Gonatopodinae,,3258342,,3258342
+B376:1:175,Echthrodelphax,,,,,,genus,,B376:1,accepted,,,B376:1:173,Gonatopodinae,,,,,Dryinidae,Gonatopodinae,Echthrodelphax,,Aculeata | Chrysidoidea | Dryinidae | Gonatopodinae,,5430708,,5430708
+B376:1:176,Embolemidae,,,,,,family,,B376:1,accepted,,,B376:1:128,Chrysidoidea,,,,,Embolemidae,,,,Aculeata | Chrysidoidea,9NB,6045,9NB,6045
+B376:1:177,Embolemus,,,,,,genus,,B376:1,accepted,,,B376:1:176,Embolemidae,,,,,Embolemidae,,Embolemus,,Aculeata | Chrysidoidea | Embolemidae,4B73,1403451,4B73,1403451

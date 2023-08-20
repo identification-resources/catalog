@@ -1,4 +1,4 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B187:6:1,Pythidae,,,,,,family,,B187:6,accepted,,,,,,,,,Pythidae,,,,,FH3,4757
-B187:6:2,Pytho Latreille,Latreille,,,,,genus,,B187:6,accepted,,,B187:6:1,Pythidae,,,,,Pythidae,,Pytho,,Pythidae,768Q,1045034
-B187:6:3,Pytho depressus (Linnaeus),(Linnaeus),Pytho,,depressus,,species,,B187:6,accepted,,,B187:6:2,Pytho Latreille,,,,,Pythidae,,Pytho,,Pythidae | Pytho,,4457578
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B187:6:1,Pythidae,,,,,,family,,B187:6,accepted,,,,,,,,,Pythidae,,,,,FH3,4757,FH3,4757
+B187:6:2,Pytho Latreille,Latreille,,,,,genus,,B187:6,accepted,,,B187:6:1,Pythidae,,,,,Pythidae,,Pytho,,Pythidae,768Q,1045034,768Q,1045034
+B187:6:3,Pytho depressus (Linnaeus),(Linnaeus),Pytho,,depressus,,species,,B187:6,accepted,,,B187:6:2,Pytho Latreille,,,,,Pythidae,,Pytho,,Pythidae | Pytho,,4457578,,4457578

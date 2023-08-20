@@ -1,18 +1,18 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B553:1:1,Pyrgus,,,,,,genus,,B553:1,accepted,,,,,,,,,,,Pyrgus,,,92LKR,11233099
-B553:1:2,Pyrgus andromedae,,Pyrgus,,andromedae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZ6,1949852
-B553:1:3,Pyrgus carlinae,,Pyrgus,,carlinae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZM,1949715
-B553:1:4,Pyrgus cirsii,,Pyrgus,,cirsii,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,,7997589
-B553:1:5,Pyrgus armoricanus,,Pyrgus,,armoricanus,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZ8,1949784
-B553:1:6,Pyrgus cacaliae,,Pyrgus,,cacaliae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZL,7683096
-B553:1:7,Pyrgus foulquieri,,Pyrgus,,foulquieri,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,947YB,5142610
-B553:1:8,Pyrgus malvae,,Pyrgus,,malvae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,6WQCV,8109173
-B553:1:9,Pyrgus alveus,,Pyrgus,,alveus,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZ5,1949794
-B553:1:10,Pyrgus centaureae,,Pyrgus,,centaureae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZQ,1950006
-B553:1:11,Pyrgus serratulae,,Pyrgus,,serratulae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,6X2CZ,1949929
-B553:1:12,Pyrgus carthami,,Pyrgus,,carthami,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,,7637698
-B553:1:13,Pyrgus cinarae,,Pyrgus,,cinarae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZS,1949850
-B553:1:14,Pyrgus malvoides,,Pyrgus,,malvoides,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,6WQD7,1949938
-B553:1:15,Pyrgus warrenensis,,Pyrgus,,warrenensis,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,,1949875
-B553:1:16,Pyrgus sidae,,Pyrgus,,sidae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,792CZ,1949877
-B553:1:17,Pyrgus onopordi,,Pyrgus,,onopordi,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,6X2D9,1949954
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B553:1:1,Pyrgus,,,,,,genus,,B553:1,accepted,,,,,,,,,,,Pyrgus,,,92LKR,1949704,92LKR,1949704
+B553:1:2,Pyrgus andromedae,,Pyrgus,,andromedae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZ6,1949852,4QTZ6,1949852
+B553:1:3,Pyrgus carlinae,,Pyrgus,,carlinae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZM,1949715,4QTZM,1949715
+B553:1:4,Pyrgus cirsii,,Pyrgus,,cirsii,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,,7997589,,6202897
+B553:1:5,Pyrgus armoricanus,,Pyrgus,,armoricanus,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZ8,1949784,4QTZ8,1949784
+B553:1:6,Pyrgus cacaliae,,Pyrgus,,cacaliae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZL,7683096,4QTZL,7683096
+B553:1:7,Pyrgus foulquieri,,Pyrgus,,foulquieri,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,947YB,5142610,792F5,1949989
+B553:1:8,Pyrgus malvae,,Pyrgus,,malvae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,6WQCV,8109173,6WQCV,8109173
+B553:1:9,Pyrgus alveus,,Pyrgus,,alveus,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZ5,1949794,4QTZ5,1949794
+B553:1:10,Pyrgus centaureae,,Pyrgus,,centaureae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZQ,1950006,4QTZQ,1950006
+B553:1:11,Pyrgus serratulae,,Pyrgus,,serratulae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,6X2CZ,1949929,6X2CZ,1949929
+B553:1:12,Pyrgus carthami,,Pyrgus,,carthami,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,,7637698,,5142394
+B553:1:13,Pyrgus cinarae,,Pyrgus,,cinarae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,4QTZS,1949850,4QTZS,1949850
+B553:1:14,Pyrgus malvoides,,Pyrgus,,malvoides,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,6WQD7,1949938,6WQD7,1949938
+B553:1:15,Pyrgus warrenensis,,Pyrgus,,warrenensis,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,,1949875,,1949794
+B553:1:16,Pyrgus sidae,,Pyrgus,,sidae,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,792CZ,1949877,792CZ,1949877
+B553:1:17,Pyrgus onopordi,,Pyrgus,,onopordi,,species,,B553:1,accepted,,,B553:1:1,Pyrgus,,,,,,,Pyrgus,,Pyrgus,6X2D9,1949954,6X2D9,1949954

@@ -1,61 +1,61 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B93:1:1,Tenthredinidae,,,,,,family,,B93:1,accepted,,,,,,,,,Tenthredinidae,,,,,GZJ,7918
-B93:1:2,Selandriinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Selandriinae,,,Tenthredinidae,,
-B93:1:3,"Heptamelus Haliday, 1855","Haliday, 1855",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Heptamelus,,Tenthredinidae | Selandriinae,,4491012
-B93:1:4,"Selandria Leach, 1817","Leach, 1817",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Selandria,,Tenthredinidae | Selandriinae,,4404331
-B93:1:5,"Brachythops Haliday, 1839","Haliday, 1839",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Brachythops,,Tenthredinidae | Selandriinae,,4407448
-B93:1:6,"Aneugmenus Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Aneugmenus,,Tenthredinidae | Selandriinae,,4407650
-B93:1:7,"Dulophanes Konow, 1907","Konow, 1907",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Dulophanes,,Tenthredinidae | Selandriinae,,4406416
-B93:1:8,"Birka Malaise, 1944","Malaise, 1944",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Birka,,Tenthredinidae | Selandriinae,,4491131
-B93:1:9,"Pseudotaxonus Costa, 1894","Costa, 1894",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Pseudotaxonus,,Tenthredinidae | Selandriinae,,4679733
-B93:1:10,"Pseudohemitaxonus Conde, 1932","Conde, 1932",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Pseudohemitaxonus,,Tenthredinidae | Selandriinae,,4491138
-B93:1:11,"Hemitaxonus Ashmead, 1898","Ashmead, 1898",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Hemitaxonus,,Tenthredinidae | Selandriinae,,4681495
-B93:1:12,"Stromboceros Konow, 1885","Konow, 1885",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Stromboceros,,Tenthredinidae | Selandriinae,,4406556
-B93:1:13,"Strongylogaster Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Strongylogaster,,Tenthredinidae | Selandriinae,,3258481
-B93:1:14,Dolerinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Dolerinae,,,Tenthredinidae,,
-B93:1:15,"Loderus Konow, 1890","Konow, 1890",,,,,genus,,B93:1,accepted,,,B93:1:14,Dolerinae,,,,,Tenthredinidae,Dolerinae,Loderus,,Tenthredinidae | Dolerinae,,4681532
-B93:1:16,"Dolerus Panzer, 1801","Panzer, 1801",,,,,genus,,B93:1,accepted,,,B93:1:14,Dolerinae,,,,,Tenthredinidae,Dolerinae,Dolerus,,Tenthredinidae | Dolerinae,,3259366
-B93:1:17,Allantinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Allantinae,,,Tenthredinidae,,
-B93:1:18,Emphytinae,,,,,,subfamily,,B93:1,synonym,B93:1:17,Allantinae,,,,,,,Tenthredinidae,Emphytinae,,,Tenthredinidae,,
-B93:1:19,"Harpiphorus Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Harpiphorus,,Tenthredinidae | Allantinae,,4490886
-B93:1:20,"Empria Lepeletier, 1828","Lepeletier, 1828",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Empria,,Tenthredinidae | Allantinae,,9076715
-B93:1:21,"Ametastegia Costa, 1882","Costa, 1882",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Ametastegia,,Tenthredinidae | Allantinae,TSB,1249662
-B93:1:22,"Apethymus Benson, 1939","Benson, 1939",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Apethymus,,Tenthredinidae | Allantinae,,9037594
-B93:1:23,"Allantus Panzer, 1801","Panzer, 1801",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Allantus,,Tenthredinidae | Allantinae,S3D,7354091
-B93:1:24,"Eriocampa Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Eriocampa,,Tenthredinidae | Allantinae,,4490901
-B93:1:25,"Athalia Leach, 1817","Leach, 1817",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Athalia,,Tenthredinidae | Allantinae,,4404999
-B93:1:26,"Monsoma MacGillivray, 1908","MacGillivray, 1908",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Monsoma,,Tenthredinidae | Allantinae,,8645648
-B93:1:27,"Taxonus Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Taxonus,,Tenthredinidae | Allantinae,,4405080
-B93:1:28,"Monostegia Costa, 1859","Costa, 1859",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Monostegia,,Tenthredinidae | Allantinae,,4407768
-B93:1:29,"Eopsis Benson, 1959","Benson, 1959",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Eopsis,,Tenthredinidae | Allantinae,,4404804
-B93:1:30,Blennocampinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Blennocampinae,,,Tenthredinidae,,
-B93:1:31,"Periclista Konow, 1886","Konow, 1886",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Periclista,,Tenthredinidae | Blennocampinae,,4490301
-B93:1:32,"Halidamia Benson, 1939","Benson, 1939",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Halidamia,,Tenthredinidae | Blennocampinae,,4404478
-B93:1:33,"Pareophora Konow, 1886","Konow, 1886",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Paraeophora,,Tenthredinidae | Blennocampinae,,4405202
-B93:1:34,"Eutomostethus Enslin, 1914","Enslin, 1914",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Eutomostethus,,Tenthredinidae | Blennocampinae,,8812958
-B93:1:35,"Monophadnus Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Monophadnus,,Tenthredinidae | Blennocampinae,,9002469
-B93:1:36,"Hoplocampoides Enslin, 1914","Enslin, 1914",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Hoplocampoides,,Tenthredinidae | Blennocampinae,,8833696
-B93:1:37,"Tomostethus Konow, 1886","Konow, 1886",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Tomostethus,,Tenthredinidae | Blennocampinae,63WHY,1249677
-B93:1:38,"Phymatocera Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Phymatocera,,Tenthredinidae | Blennocampinae,,9126327
-B93:1:39,"Rhadinoceraea Konow, 1886","Konow, 1886",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Rhadinoceraea,,Tenthredinidae | Blennocampinae,,4407085
-B93:1:40,"Paracharactus MacGillivray, 1908","MacGillivray, 1908",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Paracharactus,,Tenthredinidae | Blennocampinae,,8929652
-B93:1:41,"Stethomostus Benson, 1939","Benson, 1939",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Stethomostus,,Tenthredinidae | Blennocampinae,,9203547
-B93:1:42,"Ardis Konow, 1886","Konow, 1886",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Ardis,,Tenthredinidae | Blennocampinae,,9192082
-B93:1:43,"Eupareophora Enslin, 1914","Enslin, 1914",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Eupareophora,,Tenthredinidae | Blennocampinae,,4408264
-B93:1:44,"Monardis Enslin,","Enslin,",,,,,genus,191,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Monardis,,Tenthredinidae | Blennocampinae,,4407924
-B93:1:45,"Cladardis Benson, 1952","Benson, 1952",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Cladardis,,Tenthredinidae | Blennocampinae,,9166017
-B93:1:46,"Monophadnoides Ashmead, 1898","Ashmead, 1898",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Monophadnoides,,Tenthredinidae | Blennocampinae,63D5R,1249671
-B93:1:47,"Atomostethus Enslin, 1914","Enslin, 1914",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Atomostethus,,Tenthredinidae | Blennocampinae,,4575619
-B93:1:48,"Blennocampa Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Blennocampa,,Tenthredinidae | Blennocampinae,,3259012
-B93:1:49,"Claremontia Rohwer, 1909","Rohwer, 1909",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Claremontia,,Tenthredinidae | Blennocampinae,,4407479
-B93:1:50,Heterarthrinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Heterarthrinae,,,Tenthredinidae,,
-B93:1:51,"Heterarthrus Stephens, 1835","Stephens, 1835",,,,,genus,,B93:1,accepted,,,B93:1:50,Heterarthrinae,,,,,Tenthredinidae,Heterarthrinae,Heterarthrus,,Tenthredinidae | Heterarthrinae,8HKG5,3258735
-B93:1:52,Caliroinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Caliroinae,,,Tenthredinidae,,
-B93:1:53,"Caliroa Costa, 1859","Costa, 1859",,,,,genus,,B93:1,accepted,,,B93:1:52,Caliroinae,,,,,Tenthredinidae,Caliroinae,Caliroa,,Tenthredinidae | Caliroinae,62J9G,1249681
-B93:1:54,"Endelomyia Ashmead, 1898","Ashmead, 1898",,,,,genus,,B93:1,accepted,,,B93:1:52,Caliroinae,,,,,Tenthredinidae,Caliroinae,Endelomyia,,Tenthredinidae | Caliroinae,4BKV,1249684
-B93:1:55,Fenusinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Fenusinae,,,Tenthredinidae,,
-B93:1:56,Hoplocampinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Hoplocampinae,,,Tenthredinidae,,
-B93:1:57,Cladiinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Cladiinae,,,Tenthredinidae,,
-B93:1:58,Nematinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Nematinae,,,Tenthredinidae,,
-B93:1:59,Tenthredininae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Tenthredininae,,,Tenthredinidae,,
-B93:1:60,Sioblinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Sioblinae,,,Tenthredinidae,,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B93:1:1,Tenthredinidae,,,,,,family,,B93:1,accepted,,,,,,,,,Tenthredinidae,,,,,GZJ,7918,GZJ,7918
+B93:1:2,Selandriinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Selandriinae,,,Tenthredinidae,,,,
+B93:1:3,"Heptamelus Haliday, 1855","Haliday, 1855",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Heptamelus,,Tenthredinidae | Selandriinae,,4491012,,4491012
+B93:1:4,"Selandria Leach, 1817","Leach, 1817",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Selandria,,Tenthredinidae | Selandriinae,,4404331,,4404331
+B93:1:5,"Brachythops Haliday, 1839","Haliday, 1839",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Brachythops,,Tenthredinidae | Selandriinae,,4407448,,4407448
+B93:1:6,"Aneugmenus Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Aneugmenus,,Tenthredinidae | Selandriinae,,4407650,,4407650
+B93:1:7,"Dulophanes Konow, 1907","Konow, 1907",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Dulophanes,,Tenthredinidae | Selandriinae,,4406416,,4406416
+B93:1:8,"Birka Malaise, 1944","Malaise, 1944",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Birka,,Tenthredinidae | Selandriinae,,4491131,,4491131
+B93:1:9,"Pseudotaxonus Costa, 1894","Costa, 1894",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Pseudotaxonus,,Tenthredinidae | Selandriinae,,4679733,,3258481
+B93:1:10,"Pseudohemitaxonus Conde, 1932","Conde, 1932",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Pseudohemitaxonus,,Tenthredinidae | Selandriinae,,4491138,,4491138
+B93:1:11,"Hemitaxonus Ashmead, 1898","Ashmead, 1898",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Hemitaxonus,,Tenthredinidae | Selandriinae,,4681495,,4681495
+B93:1:12,"Stromboceros Konow, 1885","Konow, 1885",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Stromboceros,,Tenthredinidae | Selandriinae,,4406556,,4406556
+B93:1:13,"Strongylogaster Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B93:1,accepted,,,B93:1:2,Selandriinae,,,,,Tenthredinidae,Selandriinae,Strongylogaster,,Tenthredinidae | Selandriinae,,3258481,,3258481
+B93:1:14,Dolerinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Dolerinae,,,Tenthredinidae,,,,
+B93:1:15,"Loderus Konow, 1890","Konow, 1890",,,,,genus,,B93:1,accepted,,,B93:1:14,Dolerinae,,,,,Tenthredinidae,Dolerinae,Loderus,,Tenthredinidae | Dolerinae,,4681532,,4681532
+B93:1:16,"Dolerus Panzer, 1801","Panzer, 1801",,,,,genus,,B93:1,accepted,,,B93:1:14,Dolerinae,,,,,Tenthredinidae,Dolerinae,Dolerus,,Tenthredinidae | Dolerinae,,3259366,,3259366
+B93:1:17,Allantinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Allantinae,,,Tenthredinidae,,,,
+B93:1:18,Emphytinae,,,,,,subfamily,,B93:1,synonym,B93:1:17,Allantinae,,,,,,,Tenthredinidae,Emphytinae,,,Tenthredinidae,,,,
+B93:1:19,"Harpiphorus Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Harpiphorus,,Tenthredinidae | Allantinae,,4490886,,4490886
+B93:1:20,"Empria Lepeletier, 1828","Lepeletier, 1828",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Empria,,Tenthredinidae | Allantinae,,9076715,,9076715
+B93:1:21,"Ametastegia Costa, 1882","Costa, 1882",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Ametastegia,,Tenthredinidae | Allantinae,TSB,1249662,TSB,1249662
+B93:1:22,"Apethymus Benson, 1939","Benson, 1939",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Apethymus,,Tenthredinidae | Allantinae,,9037594,,9037594
+B93:1:23,"Allantus Panzer, 1801","Panzer, 1801",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Allantus,,Tenthredinidae | Allantinae,S3D,7354091,S3D,7354091
+B93:1:24,"Eriocampa Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Eriocampa,,Tenthredinidae | Allantinae,,4490901,,4490901
+B93:1:25,"Athalia Leach, 1817","Leach, 1817",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Athalia,,Tenthredinidae | Allantinae,,4404999,,4404999
+B93:1:26,"Monsoma MacGillivray, 1908","MacGillivray, 1908",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Monsoma,,Tenthredinidae | Allantinae,,8645648,,8645648
+B93:1:27,"Taxonus Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Taxonus,,Tenthredinidae | Allantinae,,4405080,,4405080
+B93:1:28,"Monostegia Costa, 1859","Costa, 1859",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Monostegia,,Tenthredinidae | Allantinae,,4407768,,4407768
+B93:1:29,"Eopsis Benson, 1959","Benson, 1959",,,,,genus,,B93:1,accepted,,,B93:1:17,Allantinae,,,,,Tenthredinidae,Allantinae,Eopsis,,Tenthredinidae | Allantinae,,4404804,,4404804
+B93:1:30,Blennocampinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Blennocampinae,,,Tenthredinidae,,,,
+B93:1:31,"Periclista Konow, 1886","Konow, 1886",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Periclista,,Tenthredinidae | Blennocampinae,,4490301,,4490301
+B93:1:32,"Halidamia Benson, 1939","Benson, 1939",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Halidamia,,Tenthredinidae | Blennocampinae,,4404478,,4404478
+B93:1:33,"Pareophora Konow, 1886","Konow, 1886",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Paraeophora,,Tenthredinidae | Blennocampinae,,4405202,,4405202
+B93:1:34,"Eutomostethus Enslin, 1914","Enslin, 1914",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Eutomostethus,,Tenthredinidae | Blennocampinae,,8812958,,8812958
+B93:1:35,"Monophadnus Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Monophadnus,,Tenthredinidae | Blennocampinae,,9002469,,9002469
+B93:1:36,"Hoplocampoides Enslin, 1914","Enslin, 1914",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Hoplocampoides,,Tenthredinidae | Blennocampinae,,8833696,,8833696
+B93:1:37,"Tomostethus Konow, 1886","Konow, 1886",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Tomostethus,,Tenthredinidae | Blennocampinae,63WHY,1249677,63WHY,1249677
+B93:1:38,"Phymatocera Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Phymatocera,,Tenthredinidae | Blennocampinae,,9126327,,9126327
+B93:1:39,"Rhadinoceraea Konow, 1886","Konow, 1886",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Rhadinoceraea,,Tenthredinidae | Blennocampinae,,4407085,,4407085
+B93:1:40,"Paracharactus MacGillivray, 1908","MacGillivray, 1908",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Paracharactus,,Tenthredinidae | Blennocampinae,,8929652,,8929652
+B93:1:41,"Stethomostus Benson, 1939","Benson, 1939",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Stethomostus,,Tenthredinidae | Blennocampinae,,9203547,,9203547
+B93:1:42,"Ardis Konow, 1886","Konow, 1886",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Ardis,,Tenthredinidae | Blennocampinae,,9192082,,9192082
+B93:1:43,"Eupareophora Enslin, 1914","Enslin, 1914",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Eupareophora,,Tenthredinidae | Blennocampinae,,4408264,,4408264
+B93:1:44,"Monardis Enslin,","Enslin,",,,,,genus,191,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Monardis,,Tenthredinidae | Blennocampinae,,4407924,,4407924
+B93:1:45,"Cladardis Benson, 1952","Benson, 1952",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Cladardis,,Tenthredinidae | Blennocampinae,,9166017,,9166017
+B93:1:46,"Monophadnoides Ashmead, 1898","Ashmead, 1898",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Monophadnoides,,Tenthredinidae | Blennocampinae,63D5R,1249671,63D5R,1249671
+B93:1:47,"Atomostethus Enslin, 1914","Enslin, 1914",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Atomostethus,,Tenthredinidae | Blennocampinae,,4575619,,8812958
+B93:1:48,"Blennocampa Hartig, 1837","Hartig, 1837",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Blennocampa,,Tenthredinidae | Blennocampinae,,3259012,,3259012
+B93:1:49,"Claremontia Rohwer, 1909","Rohwer, 1909",,,,,genus,,B93:1,accepted,,,B93:1:30,Blennocampinae,,,,,Tenthredinidae,Blennocampinae,Claremontia,,Tenthredinidae | Blennocampinae,,4407479,,4407479
+B93:1:50,Heterarthrinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Heterarthrinae,,,Tenthredinidae,,,,
+B93:1:51,"Heterarthrus Stephens, 1835","Stephens, 1835",,,,,genus,,B93:1,accepted,,,B93:1:50,Heterarthrinae,,,,,Tenthredinidae,Heterarthrinae,Heterarthrus,,Tenthredinidae | Heterarthrinae,8HKG5,3258735,8HKG5,3258735
+B93:1:52,Caliroinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Caliroinae,,,Tenthredinidae,,,,
+B93:1:53,"Caliroa Costa, 1859","Costa, 1859",,,,,genus,,B93:1,accepted,,,B93:1:52,Caliroinae,,,,,Tenthredinidae,Caliroinae,Caliroa,,Tenthredinidae | Caliroinae,62J9G,1249681,62J9G,1249681
+B93:1:54,"Endelomyia Ashmead, 1898","Ashmead, 1898",,,,,genus,,B93:1,accepted,,,B93:1:52,Caliroinae,,,,,Tenthredinidae,Caliroinae,Endelomyia,,Tenthredinidae | Caliroinae,4BKV,1249684,4BKV,1249684
+B93:1:55,Fenusinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Fenusinae,,,Tenthredinidae,,,,
+B93:1:56,Hoplocampinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Hoplocampinae,,,Tenthredinidae,,,,
+B93:1:57,Cladiinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Cladiinae,,,Tenthredinidae,,,,
+B93:1:58,Nematinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Nematinae,,,Tenthredinidae,,,,
+B93:1:59,Tenthredininae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Tenthredininae,,,Tenthredinidae,,,,
+B93:1:60,Sioblinae,,,,,,subfamily,,B93:1,accepted,,,B93:1:1,Tenthredinidae,,,,,Tenthredinidae,Sioblinae,,,Tenthredinidae,,,,

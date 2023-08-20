@@ -1,16 +1,16 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B73:1:1,"Sylvicola Harris, 1776","Harris, 1776",,,,,genus,,B73:1,accepted,,,,,,,,,,,Sylvicola,,,7QQV,1501452
-B73:1:2,Anisopus Meigen,Meigen,,,,,subgenus,,B73:1,accepted,,,B73:1:1,"Sylvicola Harris, 1776",,,,,,,Sylvicola,Anisopus,Sylvicola,87DBJ,
-B73:1:3,"Sylvicola punctatus (Fabricius, 1787)","(Fabricius, 1787)",Sylvicola,,punctatus,,species,,B73:1,accepted,,,B73:1:2,Anisopus Meigen,,,,,,,Sylvicola,Anisopus,Sylvicola | Anisopus,53N7P,1566646
-B73:1:4,"Sylvicola fuscatoides Michelsen, 1999","Michelsen, 1999",Sylvicola,,fuscatoides,,species,,B73:1,accepted,,,B73:1:2,Anisopus Meigen,,,,,,,Sylvicola,Anisopus,Sylvicola | Anisopus,53N6H,1566628
-B73:1:5,"Sylvicola stackelbergi Krivosheina & Menzel, 1998","Krivosheina & Menzel, 1998",Sylvicola,,stackelbergi,,species,,B73:1,accepted,,,B73:1:2,Anisopus Meigen,,,,,,,Sylvicola,Anisopus,Sylvicola | Anisopus,8F73H,1566711
-B73:1:6,"Sylvicola fuscatus (Fabricius, 1775)","(Fabricius, 1775)",Sylvicola,,fuscatus,,species,,B73:1,accepted,,,B73:1:2,Anisopus Meigen,,,,,,,Sylvicola,Anisopus,Sylvicola | Anisopus,53N6J,1566584
-B73:1:7,Sylvicola Harris,Harris,,,,,subgenus,,B73:1,accepted,,,B73:1:1,"Sylvicola Harris, 1776",,,,,,,Sylvicola,Sylvicola,Sylvicola,7QQV,
-B73:1:8,"Sylvicola limpida (Edwards, 1923)","(Edwards, 1923)",Sylvicola,,limpida,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N72,5076456
-B73:1:9,"Sylvicola suzukii (Matsumura, 1916)","(Matsumura, 1916)",Sylvicola,,suzukii,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N7W,5076455
-B73:1:10,"Sylvicola zetterstedti (Edwards, 1923)","(Edwards, 1923)",Sylvicola,,zetterstedti,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,,6098514
-B73:1:11,"Sylvicola baechlii Haenni, 1997","Haenni, 1997",Sylvicola,,baechlii,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N5T,1566677
-B73:1:12,"Sylvicola cinctus (Fabricius, 1787)","(Fabricius, 1787)",Sylvicola,,cinctus,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N62,1566637
-B73:1:13,"Sylvicola fenestralis (Scopoli, 1763)","(Scopoli, 1763)",Sylvicola,,fenestralis,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,7B6QM,1566604
-B73:1:14,"Sylvicola japonicus (Matsumura, 1915)","(Matsumura, 1915)",Sylvicola,,japonicus,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N6X,5076388
-B73:1:15,"Sylvicola matsumurai (Okada, 1935)","(Okada, 1935)",Sylvicola,,matsumurai,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N79,5076367
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B73:1:1,"Sylvicola Harris, 1776","Harris, 1776",,,,,genus,,B73:1,accepted,,,,,,,,,,,Sylvicola,,,7QQV,1501452,7QQV,1501452
+B73:1:2,Anisopus Meigen,Meigen,,,,,subgenus,,B73:1,accepted,,,B73:1:1,"Sylvicola Harris, 1776",,,,,,,Sylvicola,Anisopus,Sylvicola,87DBJ,,87DBJ,
+B73:1:3,"Sylvicola punctatus (Fabricius, 1787)","(Fabricius, 1787)",Sylvicola,,punctatus,,species,,B73:1,accepted,,,B73:1:2,Anisopus Meigen,,,,,,,Sylvicola,Anisopus,Sylvicola | Anisopus,53N7P,1566646,53N7P,1566646
+B73:1:4,"Sylvicola fuscatoides Michelsen, 1999","Michelsen, 1999",Sylvicola,,fuscatoides,,species,,B73:1,accepted,,,B73:1:2,Anisopus Meigen,,,,,,,Sylvicola,Anisopus,Sylvicola | Anisopus,53N6H,1566628,53N6H,1566628
+B73:1:5,"Sylvicola stackelbergi Krivosheina & Menzel, 1998","Krivosheina & Menzel, 1998",Sylvicola,,stackelbergi,,species,,B73:1,accepted,,,B73:1:2,Anisopus Meigen,,,,,,,Sylvicola,Anisopus,Sylvicola | Anisopus,8F73H,1566711,8F73H,1566711
+B73:1:6,"Sylvicola fuscatus (Fabricius, 1775)","(Fabricius, 1775)",Sylvicola,,fuscatus,,species,,B73:1,accepted,,,B73:1:2,Anisopus Meigen,,,,,,,Sylvicola,Anisopus,Sylvicola | Anisopus,897GW,1566584,897GW,1566584
+B73:1:7,Sylvicola Harris,Harris,,,,,subgenus,,B73:1,accepted,,,B73:1:1,"Sylvicola Harris, 1776",,,,,,,Sylvicola,Sylvicola,Sylvicola,7QQV,,7QQV,
+B73:1:8,"Sylvicola limpida (Edwards, 1923)","(Edwards, 1923)",Sylvicola,,limpida,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N72,5076456,53N72,5076456
+B73:1:9,"Sylvicola suzukii (Matsumura, 1916)","(Matsumura, 1916)",Sylvicola,,suzukii,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N7W,5076455,53N7W,5076455
+B73:1:10,"Sylvicola zetterstedti (Edwards, 1923)","(Edwards, 1923)",Sylvicola,,zetterstedti,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,,6098514,,6098514
+B73:1:11,"Sylvicola baechlii Haenni, 1997","Haenni, 1997",Sylvicola,,baechlii,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N5T,1566677,53N5T,1566677
+B73:1:12,"Sylvicola cinctus (Fabricius, 1787)","(Fabricius, 1787)",Sylvicola,,cinctus,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N62,1566637,53N62,1566637
+B73:1:13,"Sylvicola fenestralis (Scopoli, 1763)","(Scopoli, 1763)",Sylvicola,,fenestralis,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,7B6QM,1566604,7B6QM,1566604
+B73:1:14,"Sylvicola japonicus (Matsumura, 1915)","(Matsumura, 1915)",Sylvicola,,japonicus,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N6X,5076388,53N6X,5076388
+B73:1:15,"Sylvicola matsumurai (Okada, 1935)","(Okada, 1935)",Sylvicola,,matsumurai,,species,,B73:1,accepted,,,B73:1:7,Sylvicola Harris,,,,,,,Sylvicola,Sylvicola,Sylvicola | Sylvicola,53N79,5076367,53N79,5076367

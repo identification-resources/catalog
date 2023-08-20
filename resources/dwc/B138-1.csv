@@ -1,64 +1,64 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B138:1:1,Pentatomoidae,,,,,,superfamily,,B138:1,accepted,,,,,,,,,,,,,,,
-B138:1:2,Pentatomidae,,,,,,family,,B138:1,accepted,,,B138:1:1,Pentatomoidae,,,,,Pentatomidae,,,,Pentatomoidae,62662,9650
-B138:1:3,Sciocoris,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Sciocoris,,Pentatomoidae | Pentatomidae,63RHM,2079251
-B138:1:4,Sciocoris cursitans,,Sciocoris,,cursitans,,species,,B138:1,accepted,,,B138:1:3,Sciocoris,,,,,Pentatomidae,,Sciocoris,,Pentatomoidae | Pentatomidae | Sciocoris,,2079253
-B138:1:5,Sciocoris microphthalmus,,Sciocoris,,microphthalmus,,species,,B138:1,accepted,,,B138:1:3,Sciocoris,,,,,Pentatomidae,,Sciocoris,,Pentatomoidae | Pentatomidae | Sciocoris,,2079252
-B138:1:6,Sciocoris umbrinus,,Sciocoris,,umbrinus,,species,,B138:1,accepted,,,B138:1:3,Sciocoris,,,,,Pentatomidae,,Sciocoris,,Pentatomoidae | Pentatomidae | Sciocoris,,2079255
-B138:1:7,Aelia,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Aelia,,Pentatomoidae | Pentatomidae,PLJ,2079121
-B138:1:8,Aelia acuminata,,Aelia,,acuminata,,species,,B138:1,accepted,,,B138:1:7,Aelia,,,,,Pentatomidae,,Aelia,,Pentatomoidae | Pentatomidae | Aelia,,2079123
-B138:1:9,Neottiglossa,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Neottiglossa,,Pentatomoidae | Pentatomidae,62YZ,2078911
-B138:1:10,Neottiglossa pusilla,,Neottiglossa,,pusilla,,species,,B138:1,accepted,,,B138:1:9,Neottiglossa,,,,,Pentatomidae,,Neottiglossa,,Pentatomoidae | Pentatomidae | Neottiglossa,,4485936
-B138:1:11,Stagonomus,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Stagonomus,,Pentatomoidae | Pentatomidae,,9131176
-B138:1:12,Stagonomus pusillum,,Stagonomus,,pusillum,,species,,B138:1,accepted,,,B138:1:11,Stagonomus,,,,,Pentatomidae,,Stagonomus,,Pentatomoidae | Pentatomidae | Stagonomus,,6096802
-B138:1:13,Holcostethus,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Holcostethus,,Pentatomoidae | Pentatomidae,4XVB,2079189
-B138:1:14,Holcostethus vernalis,,Holcostethus,,vernalis,,species,,B138:1,accepted,,,B138:1:13,Holcostethus,,,,,Pentatomidae,,Holcostethus,,Pentatomoidae | Pentatomidae | Holcostethus,,7534232
-B138:1:15,Palomena,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Palomena,,Pentatomoidae | Pentatomidae,,4406712
-B138:1:16,Palomena prasina,,Palomena,,prasina,,species,,B138:1,accepted,,,B138:1:15,Palomena,,,,,Pentatomidae,,Palomena,,Pentatomoidae | Pentatomidae | Palomena,,4485776
-B138:1:17,Pitedia,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Pitedia,,Pentatomoidae | Pentatomidae,,7874471
-B138:1:18,Pitedia juniperina,,Pitedia,,juniperina,,species,,B138:1,accepted,,,B138:1:17,Pitedia,,,,,Pentatomidae,,Pitedia,,Pentatomoidae | Pentatomidae | Pitedia,,6096800
-B138:1:19,Pitedia pinicola,,Pitedia,,pinicola,,species,,B138:1,accepted,,,B138:1:17,Pitedia,,,,,Pentatomidae,,Pitedia,,Pentatomoidae | Pentatomidae | Pitedia,,6096799
-B138:1:20,Carpocoris,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Carpocoris,,Pentatomoidae | Pentatomidae,,4405367
-B138:1:21,Carpocoris purpureipennis,,Carpocoris,,purpureipennis,,species,,B138:1,accepted,,,B138:1:20,Carpocoris,,,,,Pentatomidae,,Carpocoris,,Pentatomoidae | Pentatomidae | Carpocoris,,4485798
-B138:1:22,Dolycoris,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Dolycoris,,Pentatomoidae | Pentatomidae,,4406875
-B138:1:23,Dolycoris baccarum,,Dolycoris,,baccarum,,species,,B138:1,accepted,,,B138:1:22,Dolycoris,,,,,Pentatomidae,,Dolycoris,,Pentatomoidae | Pentatomidae | Dolycoris,,4485824
-B138:1:24,Pentatoma,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Pentatoma,,Pentatomoidae | Pentatomidae,,2079009
-B138:1:25,Pentatoma rufipes,,Pentatoma,,rufipes,,species,,B138:1,accepted,,,B138:1:24,Pentatoma,,,,,Pentatomidae,,Pentatoma,,Pentatomoidae | Pentatomidae | Pentatoma,,5758737
-B138:1:26,Eurydema,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Eurydema,,Pentatomoidae | Pentatomidae,,8781759
-B138:1:27,Eurydema oleracea,,Eurydema,,oleracea,,species,,B138:1,accepted,,,B138:1:26,Eurydema,,,,,Pentatomidae,,Eurydema,,Pentatomoidae | Pentatomidae | Eurydema,,4485898
-B138:1:28,Picromerus,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Picromerus,,Pentatomoidae | Pentatomidae,6Q8W,2079126
-B138:1:29,Picromerus bidens,,Picromerus,,bidens,,species,,B138:1,accepted,,,B138:1:28,Picromerus,,,,,Pentatomidae,,Picromerus,,Pentatomoidae | Pentatomidae | Picromerus,,5160015
-B138:1:30,Troilus,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Troilus,,Pentatomoidae | Pentatomidae,,4407233
-B138:1:31,Troilus luridus,,Troilus,,luridus,,species,,B138:1,accepted,,,B138:1:30,Troilus,,,,,Pentatomidae,,Troilus,,Pentatomoidae | Pentatomidae | Troilus,,4485973
-B138:1:32,Rhacognathus,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Rhacognatus,,Pentatomoidae | Pentatomidae,787H,2078994
-B138:1:33,Rhacognatus punctatus,,Rhacognatus,,punctatus,,species,,B138:1,accepted,,,B138:1:32,Rhacognathus,,,,,Pentatomidae,,Rhacognatus,,Pentatomoidae | Pentatomidae | Rhacognathus,,2078996
-B138:1:34,Zicrona,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Zicrona,,Pentatomoidae | Pentatomidae,648MM,2078941
-B138:1:35,Zicrona caerulea,,Zicrona,,caerulea,,species,,B138:1,accepted,,,B138:1:34,Zicrona,,,,,Pentatomidae,,Zicrona,,Pentatomoidae | Pentatomidae | Zicrona,,2078942
-B138:1:36,Acanthosomatidae,,,,,,family,,B138:1,accepted,,,B138:1:1,Pentatomoidae,,,,,Acanthosomidae,,,,Pentatomoidae,7NFSF,4303
-B138:1:37,Acanthosoma,,,,,,genus,,B138:1,accepted,,,B138:1:36,Acanthosomatidae,,,,,Acanthosomidae,,Acanthosoma,,Pentatomoidae | Acanthosomatidae,7NMN8,3265733
-B138:1:38,Acanthosoma haemorrhoidale,,Acanthosoma,,haemorrhoidale,,species,,B138:1,accepted,,,B138:1:37,Acanthosoma,,,,,Acanthosomidae,,Acanthosoma,,Pentatomoidae | Acanthosomatidae | Acanthosoma,7Q9KF,5866246
-B138:1:39,Elasmostethus,,,,,,genus,,B138:1,accepted,,,B138:1:36,Acanthosomatidae,,,,,Acanthosomidae,,Elasmostethus,,Pentatomoidae | Acanthosomatidae,7NVTY,2079269
-B138:1:40,Elasmostethus brevis,,Elasmostethus,,brevis,,species,,B138:1,accepted,,,B138:1:39,Elasmostethus,,,,,Acanthosomidae,,Elasmostethus,,Pentatomoidae | Acanthosomatidae | Elasmostethus,7TG97,4485985
-B138:1:41,Elasmostethus interstinctus,,Elasmostethus,,interstinctus,,species,,B138:1,accepted,,,B138:1:39,Elasmostethus,,,,,Acanthosomidae,,Elasmostethus,,Pentatomoidae | Acanthosomatidae | Elasmostethus,7TG9H,2079270
-B138:1:42,Elasmucha,,,,,,genus,,B138:1,accepted,,,B138:1:36,Acanthosomatidae,,,,,Acanthosomidae,,Elasmucha,,Pentatomoidae | Acanthosomatidae,7NYBN,2079257
-B138:1:43,Elasmucha grisea,,Elasmucha,,grisea,,species,,B138:1,accepted,,,B138:1:42,Elasmucha,,,,,Acanthosomidae,,Elasmucha,,Pentatomoidae | Acanthosomatidae | Elasmucha,7TGBX,4485987
-B138:1:44,Elasmucha ferrugata,,Elasmucha,,ferrugata,,species,,B138:1,accepted,,,B138:1:42,Elasmucha,,,,,Acanthosomidae,,Elasmucha,,Pentatomoidae | Acanthosomatidae | Elasmucha,7TGBP,2079261
-B138:1:45,Elasmucha fieberi,,Elasmucha,,fieberi,,species,,B138:1,accepted,,,B138:1:42,Elasmucha,,,,,Acanthosomidae,,Elasmucha,,Pentatomoidae | Acanthosomatidae | Elasmucha,7TGBR,4485991
-B138:1:46,Cyphostethus,,,,,,genus,,B138:1,accepted,,,B138:1:36,Acanthosomatidae,,,,,Acanthosomidae,,Cyphostethus,,Pentatomoidae | Acanthosomatidae,7NV8G,3265727
-B138:1:47,Cyphostethus tristriatus,,Cyphostethus,,tristriatus,,species,,B138:1,accepted,,,B138:1:46,Cyphostethus,,,,,Acanthosomidae,,Cyphostethus,,Pentatomoidae | Acanthosomatidae | Cyphostethus,7SX54,6096805
-B138:1:48,Cydnidae,,,,,,family,,B138:1,accepted,,,B138:1:1,Pentatomoidae,,,,,Cydnidae,,,,Pentatomoidae,624H7,6989
-B138:1:49,Legnotus,,,,,,genus,,B138:1,accepted,,,B138:1:48,Cydnidae,,,,,Cydnidae,,Legnotus,,Pentatomoidae | Cydnidae,,3265255
-B138:1:50,Legnotus picipes,,Legnotus,,picipes,,species,,B138:1,accepted,,,B138:1:49,Legnotus,,,,,Cydnidae,,Legnotus,,Pentatomoidae | Cydnidae | Legnotus,,5758812
-B138:1:51,Sehirus,,,,,,genus,,B138:1,accepted,,,B138:1:48,Cydnidae,,,,,Cydnidae,,Sehirus,,Pentatomoidae | Cydnidae,7F5B,2078780
-B138:1:52,Sehirus bicolor,,Sehirus,,bicolor,,species,,B138:1,accepted,,,B138:1:51,Sehirus,,,,,Cydnidae,,Sehirus,,Pentatomoidae | Cydnidae | Sehirus,,10976574
-B138:1:53,Sehirus biguttatus,,Sehirus,,biguttatus,,species,,B138:1,accepted,,,B138:1:51,Sehirus,,,,,Cydnidae,,Sehirus,,Pentatomoidae | Cydnidae | Sehirus,,6096813
-B138:1:54,Sehirus luctuosus,,Sehirus,,luctuosus,,species,,B138:1,accepted,,,B138:1:51,Sehirus,,,,,Cydnidae,,Sehirus,,Pentatomoidae | Cydnidae | Sehirus,,4486163
-B138:1:55,Thyreocoris,,,,,,genus,,B138:1,accepted,,,B138:1:48,Cydnidae,,,,,Cydnidae,,Thyreocoris,,Pentatomoidae | Cydnidae,,4486000
-B138:1:56,Thyreocoris scarabaeoides,,Thyreocoris,,scarabaeoides,,species,,B138:1,accepted,,,B138:1:55,Thyreocoris,,,,,Cydnidae,,Thyreocoris,,Pentatomoidae | Cydnidae | Thyreocoris,,4486004
-B138:1:57,Scutelleridae,,,,,,family,,B138:1,accepted,,,B138:1:1,Pentatomoidae,,,,,Scutelleridae,,,,Pentatomoidae,G5X,4327
-B138:1:58,Odontoscelis,,,,,,genus,,B138:1,accepted,,,B138:1:57,Scutelleridae,,,,,Scutelleridae,,Odontoscelis,,Pentatomoidae | Scutelleridae,8LQJK,2079364
-B138:1:59,Odontoscelis fuliginosa,,Odontoscelis,,fuliginosa,,species,,B138:1,accepted,,,B138:1:58,Odontoscelis,,,,,Scutelleridae,,Odontoscelis,,Pentatomoidae | Scutelleridae | Odontoscelis,,5758780
-B138:1:60,Phimodera,,,,,,genus,,B138:1,accepted,,,B138:1:57,Scutelleridae,,,,,Scutelleridae,,Phimodera,,Pentatomoidae | Scutelleridae,6NLZ,2079352
-B138:1:61,Phimodera lapponica,,Phimodera,,lapponica,,species,,B138:1,accepted,,,B138:1:60,Phimodera,,,,,Scutelleridae,,Phimodera,,Pentatomoidae | Scutelleridae | Phimodera,,4486026
-B138:1:62,Eurygaster,,,,,,genus,,B138:1,accepted,,,B138:1:57,Scutelleridae,,,,,Scutelleridae,,Eurygaster,,Pentatomoidae | Scutelleridae,4GSB,2079334
-B138:1:63,Eurygaster testudinaria,,Eurygaster,,testudinaria,,species,,B138:1,accepted,,,B138:1:62,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Pentatomoidae | Scutelleridae | Eurygaster,,5758794
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B138:1:1,Pentatomoidae,,,,,,superfamily,,B138:1,accepted,,,,,,,,,,,,,,,,,
+B138:1:2,Pentatomidae,,,,,,family,,B138:1,accepted,,,B138:1:1,Pentatomoidae,,,,,Pentatomidae,,,,Pentatomoidae,62662,9650,62662,9650
+B138:1:3,Sciocoris,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Sciocoris,,Pentatomoidae | Pentatomidae,63RHM,2079251,63RHM,2079251
+B138:1:4,Sciocoris cursitans,,Sciocoris,,cursitans,,species,,B138:1,accepted,,,B138:1:3,Sciocoris,,,,,Pentatomidae,,Sciocoris,,Pentatomoidae | Pentatomidae | Sciocoris,,2079253,,2079253
+B138:1:5,Sciocoris microphthalmus,,Sciocoris,,microphthalmus,,species,,B138:1,accepted,,,B138:1:3,Sciocoris,,,,,Pentatomidae,,Sciocoris,,Pentatomoidae | Pentatomidae | Sciocoris,,2079252,,2079252
+B138:1:6,Sciocoris umbrinus,,Sciocoris,,umbrinus,,species,,B138:1,accepted,,,B138:1:3,Sciocoris,,,,,Pentatomidae,,Sciocoris,,Pentatomoidae | Pentatomidae | Sciocoris,,2079255,,2079255
+B138:1:7,Aelia,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Aelia,,Pentatomoidae | Pentatomidae,PLJ,2079121,PLJ,2079121
+B138:1:8,Aelia acuminata,,Aelia,,acuminata,,species,,B138:1,accepted,,,B138:1:7,Aelia,,,,,Pentatomidae,,Aelia,,Pentatomoidae | Pentatomidae | Aelia,,2079123,,2079123
+B138:1:9,Neottiglossa,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Neottiglossa,,Pentatomoidae | Pentatomidae,62YZ,2078911,62YZ,2078911
+B138:1:10,Neottiglossa pusilla,,Neottiglossa,,pusilla,,species,,B138:1,accepted,,,B138:1:9,Neottiglossa,,,,,Pentatomidae,,Neottiglossa,,Pentatomoidae | Pentatomidae | Neottiglossa,,4485936,,4485936
+B138:1:11,Stagonomus,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Stagonomus,,Pentatomoidae | Pentatomidae,,9131176,,9131176
+B138:1:12,Stagonomus pusillum,,Stagonomus,,pusillum,,species,,B138:1,accepted,,,B138:1:11,Stagonomus,,,,,Pentatomidae,,Stagonomus,,Pentatomoidae | Pentatomidae | Stagonomus,,6096803,,5758763
+B138:1:13,Holcostethus,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Holcostethus,,Pentatomoidae | Pentatomidae,4XVB,2079189,4XVB,2079189
+B138:1:14,Holcostethus vernalis,,Holcostethus,,vernalis,,species,,B138:1,accepted,,,B138:1:13,Holcostethus,,,,,Pentatomidae,,Holcostethus,,Pentatomoidae | Pentatomidae | Holcostethus,,7534232,,6096794
+B138:1:15,Palomena,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Palomena,,Pentatomoidae | Pentatomidae,,4406712,,4406712
+B138:1:16,Palomena prasina,,Palomena,,prasina,,species,,B138:1,accepted,,,B138:1:15,Palomena,,,,,Pentatomidae,,Palomena,,Pentatomoidae | Pentatomidae | Palomena,,4485776,,4485776
+B138:1:17,Pitedia,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Pitedia,,Pentatomoidae | Pentatomidae,,7874471,,2064707
+B138:1:18,Pitedia juniperina,,Pitedia,,juniperina,,species,,B138:1,accepted,,,B138:1:17,Pitedia,,,,,Pentatomidae,,Pitedia,,Pentatomoidae | Pentatomidae | Pitedia,,6096800,,4485816
+B138:1:19,Pitedia pinicola,,Pitedia,,pinicola,,species,,B138:1,accepted,,,B138:1:17,Pitedia,,,,,Pentatomidae,,Pitedia,,Pentatomoidae | Pentatomidae | Pitedia,,6096799,,4485821
+B138:1:20,Carpocoris,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Carpocoris,,Pentatomoidae | Pentatomidae,,4405367,,4405367
+B138:1:21,Carpocoris purpureipennis,,Carpocoris,,purpureipennis,,species,,B138:1,accepted,,,B138:1:20,Carpocoris,,,,,Pentatomidae,,Carpocoris,,Pentatomoidae | Pentatomidae | Carpocoris,,4485798,,4485798
+B138:1:22,Dolycoris,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Dolycoris,,Pentatomoidae | Pentatomidae,,4406875,,4406875
+B138:1:23,Dolycoris baccarum,,Dolycoris,,baccarum,,species,,B138:1,accepted,,,B138:1:22,Dolycoris,,,,,Pentatomidae,,Dolycoris,,Pentatomoidae | Pentatomidae | Dolycoris,,4485824,,4485824
+B138:1:24,Pentatoma,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Pentatoma,,Pentatomoidae | Pentatomidae,9KVKC,2079009,9J9VQ,2079009
+B138:1:25,Pentatoma rufipes,,Pentatoma,,rufipes,,species,,B138:1,accepted,,,B138:1:24,Pentatoma,,,,,Pentatomidae,,Pentatoma,,Pentatomoidae | Pentatomidae | Pentatoma,,5758737,,5758737
+B138:1:26,Eurydema,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Eurydema,,Pentatomoidae | Pentatomidae,,8781759,,8781759
+B138:1:27,Eurydema oleracea,,Eurydema,,oleracea,,species,,B138:1,accepted,,,B138:1:26,Eurydema,,,,,Pentatomidae,,Eurydema,,Pentatomoidae | Pentatomidae | Eurydema,,4485898,,4485898
+B138:1:28,Picromerus,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Picromerus,,Pentatomoidae | Pentatomidae,6Q8W,2079126,6Q8W,2079126
+B138:1:29,Picromerus bidens,,Picromerus,,bidens,,species,,B138:1,accepted,,,B138:1:28,Picromerus,,,,,Pentatomidae,,Picromerus,,Pentatomoidae | Pentatomidae | Picromerus,,5160015,,5160015
+B138:1:30,Troilus,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Troilus,,Pentatomoidae | Pentatomidae,,4407233,,4407233
+B138:1:31,Troilus luridus,,Troilus,,luridus,,species,,B138:1,accepted,,,B138:1:30,Troilus,,,,,Pentatomidae,,Troilus,,Pentatomoidae | Pentatomidae | Troilus,,4485973,,4485973
+B138:1:32,Rhacognathus,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Rhacognatus,,Pentatomoidae | Pentatomidae,787H,2078994,787H,2078994
+B138:1:33,Rhacognatus punctatus,,Rhacognatus,,punctatus,,species,,B138:1,accepted,,,B138:1:32,Rhacognathus,,,,,Pentatomidae,,Rhacognatus,,Pentatomoidae | Pentatomidae | Rhacognathus,,2078996,,2078996
+B138:1:34,Zicrona,,,,,,genus,,B138:1,accepted,,,B138:1:2,Pentatomidae,,,,,Pentatomidae,,Zicrona,,Pentatomoidae | Pentatomidae,648MM,2078941,648MM,2078941
+B138:1:35,Zicrona caerulea,,Zicrona,,caerulea,,species,,B138:1,accepted,,,B138:1:34,Zicrona,,,,,Pentatomidae,,Zicrona,,Pentatomoidae | Pentatomidae | Zicrona,,2078942,,2078942
+B138:1:36,Acanthosomatidae,,,,,,family,,B138:1,accepted,,,B138:1:1,Pentatomoidae,,,,,Acanthosomidae,,,,Pentatomoidae,7NFSF,4303,7NFSF,4303
+B138:1:37,Acanthosoma,,,,,,genus,,B138:1,accepted,,,B138:1:36,Acanthosomatidae,,,,,Acanthosomidae,,Acanthosoma,,Pentatomoidae | Acanthosomatidae,7NMN9,11258498,7NMN9,11258498
+B138:1:38,Acanthosoma haemorrhoidale,,Acanthosoma,,haemorrhoidale,,species,,B138:1,accepted,,,B138:1:37,Acanthosoma,,,,,Acanthosomidae,,Acanthosoma,,Pentatomoidae | Acanthosomatidae | Acanthosoma,7Q9KF,5866246,7Q9KF,5866246
+B138:1:39,Elasmostethus,,,,,,genus,,B138:1,accepted,,,B138:1:36,Acanthosomatidae,,,,,Acanthosomidae,,Elasmostethus,,Pentatomoidae | Acanthosomatidae,7NVTY,2079269,7NVTY,2079269
+B138:1:40,Elasmostethus brevis,,Elasmostethus,,brevis,,species,,B138:1,accepted,,,B138:1:39,Elasmostethus,,,,,Acanthosomidae,,Elasmostethus,,Pentatomoidae | Acanthosomatidae | Elasmostethus,7TG97,4485985,7TG97,4485985
+B138:1:41,Elasmostethus interstinctus,,Elasmostethus,,interstinctus,,species,,B138:1,accepted,,,B138:1:39,Elasmostethus,,,,,Acanthosomidae,,Elasmostethus,,Pentatomoidae | Acanthosomatidae | Elasmostethus,7TG9H,2079270,7TG9H,2079270
+B138:1:42,Elasmucha,,,,,,genus,,B138:1,accepted,,,B138:1:36,Acanthosomatidae,,,,,Acanthosomidae,,Elasmucha,,Pentatomoidae | Acanthosomatidae,7NYBN,2079257,7NYBN,2079257
+B138:1:43,Elasmucha grisea,,Elasmucha,,grisea,,species,,B138:1,accepted,,,B138:1:42,Elasmucha,,,,,Acanthosomidae,,Elasmucha,,Pentatomoidae | Acanthosomatidae | Elasmucha,7TGBX,4485987,7TGBX,4485987
+B138:1:44,Elasmucha ferrugata,,Elasmucha,,ferrugata,,species,,B138:1,accepted,,,B138:1:42,Elasmucha,,,,,Acanthosomidae,,Elasmucha,,Pentatomoidae | Acanthosomatidae | Elasmucha,7TGBP,2079261,7TGBP,2079261
+B138:1:45,Elasmucha fieberi,,Elasmucha,,fieberi,,species,,B138:1,accepted,,,B138:1:42,Elasmucha,,,,,Acanthosomidae,,Elasmucha,,Pentatomoidae | Acanthosomatidae | Elasmucha,7TGBR,4485991,7TGBR,4485991
+B138:1:46,Cyphostethus,,,,,,genus,,B138:1,accepted,,,B138:1:36,Acanthosomatidae,,,,,Acanthosomidae,,Cyphostethus,,Pentatomoidae | Acanthosomatidae,7NV8G,3265727,7NV8G,3265727
+B138:1:47,Cyphostethus tristriatus,,Cyphostethus,,tristriatus,,species,,B138:1,accepted,,,B138:1:46,Cyphostethus,,,,,Acanthosomidae,,Cyphostethus,,Pentatomoidae | Acanthosomatidae | Cyphostethus,7SX54,6096805,7SX54,6096805
+B138:1:48,Cydnidae,,,,,,family,,B138:1,accepted,,,B138:1:1,Pentatomoidae,,,,,Cydnidae,,,,Pentatomoidae,624H7,6989,624H7,6989
+B138:1:49,Legnotus,,,,,,genus,,B138:1,accepted,,,B138:1:48,Cydnidae,,,,,Cydnidae,,Legnotus,,Pentatomoidae | Cydnidae,,3265255,,3265255
+B138:1:50,Legnotus picipes,,Legnotus,,picipes,,species,,B138:1,accepted,,,B138:1:49,Legnotus,,,,,Cydnidae,,Legnotus,,Pentatomoidae | Cydnidae | Legnotus,,5758812,,5758812
+B138:1:51,Sehirus,,,,,,genus,,B138:1,accepted,,,B138:1:48,Cydnidae,,,,,Cydnidae,,Sehirus,,Pentatomoidae | Cydnidae,7F5B,2078780,7F5B,2078780
+B138:1:52,Sehirus bicolor,,Sehirus,,bicolor,,species,,B138:1,accepted,,,B138:1:51,Sehirus,,,,,Cydnidae,,Sehirus,,Pentatomoidae | Cydnidae | Sehirus,,10976574,,5758805
+B138:1:53,Sehirus biguttatus,,Sehirus,,biguttatus,,species,,B138:1,accepted,,,B138:1:51,Sehirus,,,,,Cydnidae,,Sehirus,,Pentatomoidae | Cydnidae | Sehirus,,6096813,,4486134
+B138:1:54,Sehirus luctuosus,,Sehirus,,luctuosus,,species,,B138:1,accepted,,,B138:1:51,Sehirus,,,,,Cydnidae,,Sehirus,,Pentatomoidae | Cydnidae | Sehirus,,4486163,,4486163
+B138:1:55,Thyreocoris,,,,,,genus,,B138:1,accepted,,,B138:1:48,Cydnidae,,,,,Cydnidae,,Thyreocoris,,Pentatomoidae | Cydnidae,,4486000,,4486000
+B138:1:56,Thyreocoris scarabaeoides,,Thyreocoris,,scarabaeoides,,species,,B138:1,accepted,,,B138:1:55,Thyreocoris,,,,,Cydnidae,,Thyreocoris,,Pentatomoidae | Cydnidae | Thyreocoris,,4486004,,4486004
+B138:1:57,Scutelleridae,,,,,,family,,B138:1,accepted,,,B138:1:1,Pentatomoidae,,,,,Scutelleridae,,,,Pentatomoidae,G5X,4327,G5X,4327
+B138:1:58,Odontoscelis,,,,,,genus,,B138:1,accepted,,,B138:1:57,Scutelleridae,,,,,Scutelleridae,,Odontoscelis,,Pentatomoidae | Scutelleridae,8LQJK,2079364,8KW79,2079364
+B138:1:59,Odontoscelis fuliginosa,,Odontoscelis,,fuliginosa,,species,,B138:1,accepted,,,B138:1:58,Odontoscelis,,,,,Scutelleridae,,Odontoscelis,,Pentatomoidae | Scutelleridae | Odontoscelis,,5758780,,5758780
+B138:1:60,Phimodera,,,,,,genus,,B138:1,accepted,,,B138:1:57,Scutelleridae,,,,,Scutelleridae,,Phimodera,,Pentatomoidae | Scutelleridae,6NLZ,2079352,6NLZ,2079352
+B138:1:61,Phimodera lapponica,,Phimodera,,lapponica,,species,,B138:1,accepted,,,B138:1:60,Phimodera,,,,,Scutelleridae,,Phimodera,,Pentatomoidae | Scutelleridae | Phimodera,,4486026,,4486026
+B138:1:62,Eurygaster,,,,,,genus,,B138:1,accepted,,,B138:1:57,Scutelleridae,,,,,Scutelleridae,,Eurygaster,,Pentatomoidae | Scutelleridae,9XD49,2079334,9XD49,2079334
+B138:1:63,Eurygaster testudinaria,,Eurygaster,,testudinaria,,species,,B138:1,accepted,,,B138:1:62,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Pentatomoidae | Scutelleridae | Eurygaster,,5758794,,5758794

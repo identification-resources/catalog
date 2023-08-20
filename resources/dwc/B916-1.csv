@@ -1,15 +1,15 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B916:1:1,,,,,,,complex,,B916:1,accepted,,,,,,,,,,,,,,,
-B916:1:2,Bombina variegata,,Bombina,,variegata,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Bombina,,,5WNNK,2423435
-B916:1:3,Bufo bufo,,Bufo,,bufo,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Bufo,,,NP2D,5217160
-B916:1:4,Epidalea calamita,,Epidalea,,calamita,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Epidalea,,,6G2GX,11343755
-B916:1:5,Hyla arborea,,Hyla,,arborea,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Hyla,,,3NCKV,2427573
-B916:1:6,Lithobates catesbeianus,,Lithobates,,catesbeianus,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Lithobates,,,3VHPT,2427091
-B916:1:7,Pelobates fuscus,,Pelobates,,fuscus,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Pelobates,,,76CZD,2430567
-B916:1:8,Pelophylax lessonae,,Pelophylax,,lessonae,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Pelophylax,,,76CHG,2426654
-B916:1:9,Pelophylax ridibundus,,Pelophylax,,ridibundus,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Pelophylax,,,76CHR,2426661
-B916:1:10,Rana arvalis,,Rana,,arvalis,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Rana,,,4RDHG,2426789
-B916:1:11,Rana dalmatina,,Rana,,dalmatina,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Rana,,,7935Q,2426760
-B916:1:12,Rana temporaria,,Rana,,temporaria,,species,,B916:1,accepted,,,B916:1:1,,,,,,,,Rana,,,6WR99,2426805
-B916:1:13,,,,,,,complex,,B916:1,accepted,,,,,,,,,,,,,,,
-B916:1:14,Pelophylax esculentus klepton,klepton,Pelophylax,,esculentus,,species,,B916:1,accepted,,,B916:1:13,,,,,,,,Pelophylax,,,,5784980
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B916:1:1,Alytes obstetricans,,Alytes,,obstetricans,,species,,B916:1,accepted,,,,,,,,,,,Alytes,,,CCWK,2426612,CCWK,2426612
+B916:1:2,Bombina variegata,,Bombina,,variegata,,species,,B916:1,accepted,,,,,,,,,,,Bombina,,,5WNNK,2423435,5WNNK,2423435
+B916:1:3,Bufo bufo,,Bufo,,bufo,,species,,B916:1,accepted,,,,,,,,,,,Bufo,,,NP2D,5217160,NP2D,5217160
+B916:1:4,Epidalea calamita,,Epidalea,,calamita,,species,,B916:1,accepted,,,,,,,,,,,Epidalea,,,6G2GX,2422507,6G2GX,2422507
+B916:1:5,Hyla arborea,,Hyla,,arborea,,species,,B916:1,accepted,,,,,,,,,,,Hyla,,,3NCKV,2427573,3NCKV,2427573
+B916:1:6,Lithobates catesbeianus,,Lithobates,,catesbeianus,,species,,B916:1,accepted,,,,,,,,,,,Lithobates,,,3VHPT,2427091,3VHPT,2427091
+B916:1:7,Pelobates fuscus,,Pelobates,,fuscus,,species,,B916:1,accepted,,,,,,,,,,,Pelobates,,,76CZD,2430567,76CZD,2430567
+B916:1:8,Pelophylax lessonae,,Pelophylax,,lessonae,,species,,B916:1,accepted,,,,,,,,,,,Pelophylax,,,76CHG,2426654,76CHG,2426654
+B916:1:9,Pelophylax ridibundus,,Pelophylax,,ridibundus,,species,,B916:1,accepted,,,,,,,,,,,Pelophylax,,,76CHR,2426661,76CHR,2426661
+B916:1:10,Rana arvalis,,Rana,,arvalis,,species,,B916:1,accepted,,,,,,,,,,,Rana,,,4RDHG,2426789,4RDHG,2426789
+B916:1:11,Rana dalmatina,,Rana,,dalmatina,,species,,B916:1,accepted,,,,,,,,,,,Rana,,,7935Q,8252035,7935Q,8252035
+B916:1:12,Rana temporaria,,Rana,,temporaria,,species,,B916:1,accepted,,,,,,,,,,,Rana,,,6WR99,2426805,6WR99,2426805
+B916:1:13,,,,,,,complex,,B916:1,accepted,,,,,,,,,,,,,,,,,
+B916:1:14,Pelophylax esculentus,,Pelophylax,,esculentus,,species,klepton,B916:1,accepted,,,B916:1:13,,,,,,,,Pelophylax,,,,5784980,,2426654

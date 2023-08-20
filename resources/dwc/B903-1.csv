@@ -1,11 +1,11 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B903:1:1,Anthocharis cardamines,,Anthocharis,,cardamines,,species,,B903:1,accepted,,,,,,,,,,,Anthocharis,,,5VC9R,1919712
-B903:1:2,Colias croceus,,Colias,,croceus,,species,,B903:1,accepted,,,,,,,,,,,Colias,,,5ZLQ4,5137612
-B903:1:3,Colias hyale,,Colias,,hyale,,species,,B903:1,accepted,,,,,,,,,,,Colias,,,X2FJ,5137706
-B903:1:4,Gonepteryx rhamni,,Gonepteryx,,rhamni,,species,,B903:1,accepted,,,,,,,,,,,Gonepteryx,,,6L326,1920712
-B903:1:5,Leptidea sinapis,,Leptidea,,sinapis,,species,,B903:1,accepted,,,,,,,,,,,Leptidea,,,3TJNN,5137903
-B903:1:6,Pieris brassicae,,Pieris,,brassicae,,species,,B903:1,accepted,,,,,,,,,,,Pieris,,,4HRN4,1920506
-B903:1:7,Pieris mannii,,Pieris,,mannii,,species,,B903:1,accepted,,,,,,,,,,,Pieris,,,4HRQG,1920491
-B903:1:8,Pieris napi,,Pieris,,napi,,species,,B903:1,accepted,,,,,,,,,,,Pieris,,,4HRQQ,1920494
-B903:1:9,Pieris rapae,,Pieris,,rapae,,species,,B903:1,accepted,,,,,,,,,,,Pieris,,,4HRRC,1920496
-B903:1:10,Pontia daplidice,,Pontia,,daplidice,,species,,B903:1,accepted,,,,,,,,,,,Pontia,,,6W83L,1920258
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B903:1:1,Anthocharis cardamines,,Anthocharis,,cardamines,,species,,B903:1,accepted,,,,,,,,,,,Anthocharis,,,5VC9R,1919712,5VC9R,1919712
+B903:1:2,Colias croceus,,Colias,,croceus,,species,,B903:1,accepted,,,,,,,,,,,Colias,,,5ZLQ4,5137612,5ZLQ4,5137612
+B903:1:3,Colias hyale,,Colias,,hyale,,species,,B903:1,accepted,,,,,,,,,,,Colias,,,X2FJ,5137706,X2FJ,5137706
+B903:1:4,Gonepteryx rhamni,,Gonepteryx,,rhamni,,species,,B903:1,accepted,,,,,,,,,,,Gonepteryx,,,6L326,1920712,6L326,1920712
+B903:1:5,Leptidea sinapis,,Leptidea,,sinapis,,species,,B903:1,accepted,,,,,,,,,,,Leptidea,,,3TJNN,5137903,3TJNN,5137903
+B903:1:6,Pieris brassicae,,Pieris,,brassicae,,species,,B903:1,accepted,,,,,,,,,,,Pieris,,,4HRN4,1920506,4HRN4,1920506
+B903:1:7,Pieris mannii,,Pieris,,mannii,,species,,B903:1,accepted,,,,,,,,,,,Pieris,,,4HRQG,1920491,4HRQG,1920491
+B903:1:8,Pieris napi,,Pieris,,napi,,species,,B903:1,accepted,,,,,,,,,,,Pieris,,,4HRQQ,1920494,4HRQQ,1920494
+B903:1:9,Pieris rapae,,Pieris,,rapae,,species,,B903:1,accepted,,,,,,,,,,,Pieris,,,4HRRC,1920496,4HRRC,1920496
+B903:1:10,Pontia daplidice,,Pontia,,daplidice,,species,,B903:1,accepted,,,,,,,,,,,Pontia,,,6W83L,1920258,6W83L,1920258

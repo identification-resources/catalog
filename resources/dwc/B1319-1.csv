@@ -1,15 +1,15 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B1319:1:1,Aphia minuta,,Aphia,,minuta,,species,,B1319:1,accepted,,,,,,,,,,,Aphia,,,FD6P,9578838
-B1319:1:2,Crystallogobius linearis,,Crystallogobius,,linearis,,species,,B1319:1,accepted,,,,,,,,,,,Crystallogobius,,,6BN5F,2376212
-B1319:1:3,Buenia jeffreysii,,Buenia,,jeffreysii,,species,,B1319:1,accepted,,,,,,,,,,,Buenia,,,NNRN,2376088
-B1319:1:4,Gobius niger,,Gobius,,niger,,species,,B1319:1,accepted,,,,,,,,,,,Gobius,,,3GPZM,2375526
-B1319:1:5,Gobiusculus flavescens,,Gobiusculus,,flavescens,,species,,B1319:1,accepted,,,,,,,,,,,Gobiusculus,,,6KP48,2378270
-B1319:1:6,Lebetus guilleti,,Lebetus,,guilleti,,species,,B1319:1,accepted,,,,,,,,,,,Lebetus,,,3SPMW,2378771
-B1319:1:7,Lebetus scorpioides,,Lebetus,,scorpioides,,species,,B1319:1,accepted,,,,,,,,,,,Lebetus,,,3SPMZ,2378772
-B1319:1:8,Lesueurigobius friesii,,Lesueurigobius,,friesii,,species,,B1319:1,accepted,,,,,,,,,,,Lesueurigobius,,,6PQXZ,2378673
-B1319:1:9,Pomatoschistus microps,,Pomatoschistus,,microps,,species,,B1319:1,accepted,,,,,,,,,,,Pomatoschistus,,,4LQXJ,2379280
-B1319:1:10,Pomatoschistus minutus,,Pomatoschistus,,minutus,,species,,B1319:1,accepted,,,,,,,,,,,Pomatoschistus,,,4LQXK,2379300
-B1319:1:11,Pomatoschistus norvegicus,,Pomatoschistus,,norvegicus,,species,,B1319:1,accepted,,,,,,,,,,,Pomatoschistus,,,4LQXM,2379272
-B1319:1:12,Pomatoschistus pictus,,Pomatoschistus,,pictus,,species,,B1319:1,accepted,,,,,,,,,,,Pomatoschistus,,,4LQXP,2379289
-B1319:1:13,Thorogobius ephippiatus,,Thorogobius,,ephippiatus,,species,,B1319:1,accepted,,,,,,,,,,,Thorogobius,,,56KVS,2379214
-B1319:1:14,Neogobius melanostomus,,Neogobius,,melanostomus,,species,,B1319:1,accepted,,,,,,,,,,,Neogobius,,,6RW9X,2379089
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1319:1:1,Aphia minuta,,Aphia,,minuta,,species,,B1319:1,accepted,,,,,,,,,,,Aphia,,,FD6P,9578838,FD6P,9578838
+B1319:1:2,Crystallogobius linearis,,Crystallogobius,,linearis,,species,,B1319:1,accepted,,,,,,,,,,,Crystallogobius,,,6BN5F,2376212,6BN5F,2376212
+B1319:1:3,Buenia jeffreysii,,Buenia,,jeffreysii,,species,,B1319:1,accepted,,,,,,,,,,,Buenia,,,NNRN,2376088,NNRN,2376088
+B1319:1:4,Gobius niger,,Gobius,,niger,,species,,B1319:1,accepted,,,,,,,,,,,Gobius,,,3GPZM,2375526,3GPZM,2375526
+B1319:1:5,Gobiusculus flavescens,,Gobiusculus,,flavescens,,species,,B1319:1,accepted,,,,,,,,,,,Gobiusculus,,,6KP48,2378270,6KP48,2378270
+B1319:1:6,Lebetus guilleti,,Lebetus,,guilleti,,species,,B1319:1,accepted,,,,,,,,,,,Lebetus,,,3SPMW,2378771,3SPMW,2378771
+B1319:1:7,Lebetus scorpioides,,Lebetus,,scorpioides,,species,,B1319:1,accepted,,,,,,,,,,,Lebetus,,,3SPMZ,2378772,3SPMZ,2378772
+B1319:1:8,Lesueurigobius friesii,,Lesueurigobius,,friesii,,species,,B1319:1,accepted,,,,,,,,,,,Lesueurigobius,,,6PQXZ,2378673,6PQXZ,2378673
+B1319:1:9,Pomatoschistus microps,,Pomatoschistus,,microps,,species,,B1319:1,accepted,,,,,,,,,,,Pomatoschistus,,,4LQXJ,2379280,4LQXJ,2379280
+B1319:1:10,Pomatoschistus minutus,,Pomatoschistus,,minutus,,species,,B1319:1,accepted,,,,,,,,,,,Pomatoschistus,,,4LQXK,2379300,4LQXK,2379300
+B1319:1:11,Pomatoschistus norvegicus,,Pomatoschistus,,norvegicus,,species,,B1319:1,accepted,,,,,,,,,,,Pomatoschistus,,,4LQXM,2379272,4LQXM,2379272
+B1319:1:12,Pomatoschistus pictus,,Pomatoschistus,,pictus,,species,,B1319:1,accepted,,,,,,,,,,,Pomatoschistus,,,4LQXP,2379289,4LQXP,2379289
+B1319:1:13,Thorogobius ephippiatus,,Thorogobius,,ephippiatus,,species,,B1319:1,accepted,,,,,,,,,,,Thorogobius,,,56KVS,2379214,56KVS,2379214
+B1319:1:14,Neogobius melanostomus,,Neogobius,,melanostomus,,species,,B1319:1,accepted,,,,,,,,,,,Neogobius,,,6RW9X,2379089,6RW9X,2379089

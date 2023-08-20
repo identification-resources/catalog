@@ -1,13 +1,13 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B221:5:1,Perilampidae,,,,,,family,,B221:5,accepted,,,,,,,,,Perilampidae,,,,,625TJ,9446
-B221:5:2,Perilampus Latreille,Latreille,,,,,genus,,B221:5,accepted,,,B221:5:1,Perilampidae,,,,,Perilampidae,,Perilampus,,Perilampidae,63L8W,1359753
-B221:5:3,Perilampus micans Dalman,Dalman,Perilampus,,micans,,species,,B221:5,accepted,,,B221:5:2,Perilampus Latreille,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,775S2,5043153
-B221:5:4,Perilampus tristis Mayr,Mayr,Perilampus,,tristis,,species,,B221:5,accepted,,,B221:5:2,Perilampus Latreille,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,7763Z,5043250
-B221:5:5,Perilampus ruficornis (Fabricius),(Fabricius),Perilampus,,ruficornis,,species,,B221:5,accepted,,,B221:5:2,Perilampus Latreille,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,6V63W,5043142
-B221:5:6,Perilampus aeneus (Rossi),(Rossi),Perilampus,,aeneus,,species,,B221:5,accepted,,,B221:5:2,Perilampus Latreille,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,6V657,5043180
-B221:5:7,Perilampus italicus Fabricius,Fabricius,Perilampus,,italicus,,species,,B221:5,synonym,B221:5:6,Perilampus aeneus (Rossi),,,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,76TRK,5043183
-B221:5:8,undefined Dalman,Dalman,,,,,aggregate,,B221:5,accepted,,,B221:5:2,Perilampus Latreille,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,,
-B221:5:9,Chrysolampus Spinola,Spinola,,,,,genus,,B221:5,accepted,,,B221:5:1,Perilampidae,,,,,Perilampidae,,Chrysolampus,,Perilampidae,3PJ2,1360087
-B221:5:10,Chrysolampus thenae (Walker),(Walker),Chrysolampus,,thenae,,species,,B221:5,accepted,,,B221:5:9,Chrysolampus Spinola,,,,,Perilampidae,,Chrysolampus,,Perilampidae | Chrysolampus,5Z2G8,1360122
-B221:5:11,Chrysolampus rufitarsis (Förster),(Förster),Chrysolampus,,rufitarsis,,species,,B221:5,accepted,,,B221:5:9,Chrysolampus Spinola,,,,,Perilampidae,,Chrysolampus,,Perilampidae | Chrysolampus,,4499787
-B221:5:12,Chrysolampus shurik (Nikol'skaya),(Nikol'skaya),Chrysolampus,,shurik,,species,,B221:5,accepted,,,B221:5:9,Chrysolampus Spinola,,,,,Perilampidae,,Chrysolampus,,Perilampidae | Chrysolampus,,4499799
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B221:5:1,Perilampidae,,,,,,family,,B221:5,accepted,,,,,,,,,Perilampidae,,,,,625TJ,9446,625TJ,9446
+B221:5:2,Perilampus Latreille,Latreille,,,,,genus,,B221:5,accepted,,,B221:5:1,Perilampidae,,,,,Perilampidae,,Perilampus,,Perilampidae,63L8W,1359753,63L8W,1359753
+B221:5:3,Perilampus micans Dalman,Dalman,Perilampus,,micans,,species,,B221:5,accepted,,,B221:5:2,Perilampus Latreille,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,775S2,5043153,775S2,5043153
+B221:5:4,Perilampus tristis Mayr,Mayr,Perilampus,,tristis,,species,,B221:5,accepted,,,B221:5:2,Perilampus Latreille,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,7763Z,5043250,7763Z,5043250
+B221:5:5,Perilampus ruficornis (Fabricius),(Fabricius),Perilampus,,ruficornis,,species,,B221:5,accepted,,,B221:5:2,Perilampus Latreille,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,6V63W,5043142,6V63W,5043142
+B221:5:6,Perilampus aeneus (Rossi),(Rossi),Perilampus,,aeneus,,species,,B221:5,accepted,,,B221:5:2,Perilampus Latreille,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,6V657,5043180,6V657,5043180
+B221:5:7,Perilampus italicus Fabricius,Fabricius,Perilampus,,italicus,,species,,B221:5,synonym,B221:5:6,Perilampus aeneus (Rossi),,,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,76TRK,5043183,6V657,5043180
+B221:5:8,undefined Dalman,Dalman,,,,,aggregate,,B221:5,accepted,,,B221:5:2,Perilampus Latreille,,,,,Perilampidae,,Perilampus,,Perilampidae | Perilampus,,,,
+B221:5:9,Chrysolampus Spinola,Spinola,,,,,genus,,B221:5,accepted,,,B221:5:1,Perilampidae,,,,,Perilampidae,,Chrysolampus,,Perilampidae,3PJ2,1360087,3PJ2,1360087
+B221:5:10,Chrysolampus thenae (Walker),(Walker),Chrysolampus,,thenae,,species,,B221:5,accepted,,,B221:5:9,Chrysolampus Spinola,,,,,Perilampidae,,Chrysolampus,,Perilampidae | Chrysolampus,5Z2G8,1360122,5Z2G8,1360122
+B221:5:11,Chrysolampus rufitarsis (Förster),(Förster),Chrysolampus,,rufitarsis,,species,,B221:5,accepted,,,B221:5:9,Chrysolampus Spinola,,,,,Perilampidae,,Chrysolampus,,Perilampidae | Chrysolampus,,4499787,,4499787
+B221:5:12,Chrysolampus shurik (Nikol'skaya),(Nikol'skaya),Chrysolampus,,shurik,,species,,B221:5,accepted,,,B221:5:9,Chrysolampus Spinola,,,,,Perilampidae,,Chrysolampus,,Perilampidae | Chrysolampus,,4499799,,4499799

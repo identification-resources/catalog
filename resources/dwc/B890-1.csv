@@ -1,18 +1,18 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B890:1:1,Megachile alpicola,,Megachile,,alpicola,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YR6L,1336307
-B890:1:2,Megachile analis,,Megachile,,analis,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YR73,1336029
-B890:1:3,Megachile centuncularis,,Megachile,,centuncularis,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRDM,1335505
-B890:1:4,Megachile circumcincta,,Megachile,,circumcincta,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,738GR,1336564
-B890:1:5,Megachile ericetorum,,Megachile,,ericetorum,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRKF,1335321
-B890:1:6,Megachile genalis,,Megachile,,genalis,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRNP,1335050
-B890:1:7,Megachile lagopoda,,Megachile,,lagopoda,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,6QWHN,1336452
-B890:1:8,Megachile lapponica,,Megachile,,lapponica,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,6QWHL,1336343
-B890:1:9,Megachile leachella,,Megachile,,leachella,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRV7,1336138
-B890:1:10,Megachile ligniseca,,Megachile,,ligniseca,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRVS,1335802
-B890:1:11,Megachile maritima,,Megachile,,maritima,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRXH,1336431
-B890:1:12,Megachile nigriventris,,Megachile,,nigriventris,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YS3F,1335829
-B890:1:13,Megachile pilidens,,Megachile,,pilidens,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YS78,1335229
-B890:1:14,Megachile pyrenaea,,Megachile,,pyrenaea,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YS98,1335792
-B890:1:15,Megachile rotundata,,Megachile,,rotundata,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YSB5,1335648
-B890:1:16,Megachile versicolor,,Megachile,,versicolor,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YSL8,1336116
-B890:1:17,Megachile willughbiella,,Megachile,,willughbiella,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YSM5,1335556
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B890:1:1,Megachile alpicola,,Megachile,,alpicola,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YR6L,1336307,3YR6L,1336307
+B890:1:2,Megachile analis,,Megachile,,analis,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YR73,1336029,3YR73,1336029
+B890:1:3,Megachile centuncularis,,Megachile,,centuncularis,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRDM,1335505,3YRDM,1335505
+B890:1:4,Megachile circumcincta,,Megachile,,circumcincta,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,738GR,1336564,738GR,1336564
+B890:1:5,Megachile ericetorum,,Megachile,,ericetorum,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRKF,1335321,3YRKF,1335321
+B890:1:6,Megachile genalis,,Megachile,,genalis,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRNP,1335050,3YRNP,1335050
+B890:1:7,Megachile lagopoda,,Megachile,,lagopoda,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,6QWHN,1336452,6QWHN,1336452
+B890:1:8,Megachile lapponica,,Megachile,,lapponica,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,6QWHL,1336343,6QWHL,1336343
+B890:1:9,Megachile leachella,,Megachile,,leachella,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRV7,1336138,3YRV7,1336138
+B890:1:10,Megachile ligniseca,,Megachile,,ligniseca,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRVS,1335802,3YRVS,1335802
+B890:1:11,Megachile maritima,,Megachile,,maritima,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YRXH,1336431,3YRXH,1336431
+B890:1:12,Megachile nigriventris,,Megachile,,nigriventris,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YS3F,1335829,3YS3F,1335829
+B890:1:13,Megachile pilidens,,Megachile,,pilidens,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YS78,1335229,3YS78,1335229
+B890:1:14,Megachile pyrenaea,,Megachile,,pyrenaea,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YS98,1335792,3YS98,1335792
+B890:1:15,Megachile rotundata,,Megachile,,rotundata,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YSB5,1335648,3YSB5,1335648
+B890:1:16,Megachile versicolor,,Megachile,,versicolor,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YSL8,1336116,3YSL8,1336116
+B890:1:17,Megachile willughbiella,,Megachile,,willughbiella,,species,,B890:1,accepted,,,,,,,,,,,Megachile,,,3YSM5,1335556,3YSM5,1335556

@@ -1,44 +1,44 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B135:1:1,Hydrometridae,,,,,,family,,B135:1,accepted,,,,,,,,,Hydrometridae,,,,,B8R,7884
-B135:1:2,Hydrometra,,,,,,genus,,B135:1,accepted,,,B135:1:1,Hydrometridae,,,,,Hydrometridae,,Hydrometra,,Hydrometridae,4ZTP,2020474
-B135:1:3,Hydrometra stagnorum (L.),(L.),Hydrometra,,stagnorum,,species,,B135:1,accepted,,,B135:1:2,Hydrometra,,,,,Hydrometridae,,Hydrometra,,Hydrometridae | Hydrometra,3N7QM,2049340
-B135:1:4,Hydrometra gracilenta (Horvath),(Horvath),Hydrometra,,gracilenta,,species,,B135:1,accepted,,,B135:1:2,Hydrometra,,,,,Hydrometridae,,Hydrometra,,Hydrometridae | Hydrometra,6MJQV,4485514
-B135:1:5,Hebridae,,,,,,family,,B135:1,accepted,,,,,,,,,Hebridae,,,,,6252Q,4312
-B135:1:6,Hebrus,,,,,,genus,,B135:1,accepted,,,B135:1:5,Hebridae,,,,,Hebridae,,Hebrus,,Hebridae,635VT,2020320
-B135:1:7,Hebrus ruficeps (Thomson),(Thomson),Hebrus,,ruficeps,,species,,B135:1,accepted,,,B135:1:6,Hebrus,,,,,Hebridae,,Hebrus,,Hebridae | Hebrus,3JYF8,4485475
-B135:1:8,Hebrus pusillus (Fallén),(Fallén),Hebrus,,pusillus,,species,,B135:1,accepted,,,B135:1:6,Hebrus,,,,,Hebridae,,Hebrus,,Hebridae | Hebrus,3JYF4,2020325
-B135:1:9,Mesoveliidae,,,,,,family,,B135:1,accepted,,,,,,,,,Mesoveliidae,,,,,CNB,4318
-B135:1:10,Mesovelia,,,,,,genus,,B135:1,accepted,,,B135:1:9,Mesoveliidae,,,,,Mesoveliidae,,Mesovelia,,Mesoveliidae,5Q3C,2012228
-B135:1:11,Mesovelia furcata (Mulsant & Rey),(Mulsant & Rey),Mesovelia,,furcata,,species,,B135:1,accepted,,,B135:1:10,Mesovelia,,,,,Mesoveliidae,,Mesovelia,,Mesoveliidae | Mesovelia,427GM,2012232
-B135:1:12,Gerridae,,,,,,family,,B135:1,accepted,,,,,,,,,Gerridae,,,,,623FR,7881
-B135:1:13,Gerris,,,,,,genus,,B135:1,accepted,,,B135:1:12,Gerridae,,,,,Gerridae,,Gerris,,Gerridae,8NNWR,2008636
-B135:1:14,Gerris thoracicus Schummel,Schummel,Gerris,,thoracicus,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,7V554,5758661
-B135:1:15,Gerris lateralis Schummel,Schummel,Gerris,,lateralis,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,7V55B,5758665
-B135:1:16,Gerris argentatus Schummel,Schummel,Gerris,,argentatus,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,7V545,5758660
-B135:1:17,Gerris odontogaster (Zetterstedt),(Zetterstedt),Gerris,,odontogaster,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,7V54X,5758658
-B135:1:18,Gerris lacustris (L.),(L.),Gerris,,lacustris,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,7V54Q,5154105
-B135:1:19,Limnoporus,,,,,,subgenus,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,Limnoporus,Gerridae | Gerris,62YMD,
-B135:1:20,Gerris rufoscutellatus (Latreille),(Latreille),Gerris,,rufoscutellatus,,species,,B135:1,accepted,,,B135:1:19,Limnoporus,,,,,Gerridae,,Gerris,Limnoporus,Gerridae | Gerris | Limnoporus,6KFRY,5154132
-B135:1:21,Aquarius,,,,,,subgenus,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris,ZH4,
-B135:1:22,Gerris paludum (Fabricius),(Fabricius),Gerris,,paludum,,species,,B135:1,accepted,,,B135:1:21,Aquarius,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris | Aquarius,,5758651
-B135:1:23,Gerris najas (Degeer),(Degeer),Gerris,,najas,,species,,B135:1,accepted,,,B135:1:21,Aquarius,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris | Aquarius,,6096736
-B135:1:24,Corixidae,,,,,,family,,B135:1,accepted,,,,,,,,,Corixidae,,,,,8KK,6988
-B135:1:25,Veliidae,,,,,,family,,B135:1,accepted,,,,,,,,,Veliidae,,,,,HSH,7900
-B135:1:26,Microvelia,,,,,,genus,,B135:1,accepted,,,B135:1:25,Veliidae,,,,,Veliidae,,Microvelia,,Veliidae,5SLM,2020348
-B135:1:27,Microvelia reticulata (Burmeister),(Burmeister),Microvelia,,reticulata,,species,,B135:1,accepted,,,B135:1:26,Microvelia,,,,,Veliidae,,Microvelia,,Veliidae | Microvelia,7VVHW,4485321
-B135:1:28,Velia,,,,,,genus,,B135:1,accepted,,,B135:1:25,Veliidae,,,,,Veliidae,,Velia,,Veliidae,8P2P2,2020395
-B135:1:29,Velia caprai Tamanini,Tamanini,Velia,,caprai,,species,,B135:1,accepted,,,B135:1:28,Velia,,,,,Veliidae,,Velia,,Veliidae | Velia,7X77G,4485351
-B135:1:30,Velia saulii Tamanini,Tamanini,Velia,,saulii,,species,,B135:1,accepted,,,B135:1:28,Velia,,,,,Veliidae,,Velia,,Veliidae | Velia,7X78C,4485339
-B135:1:31,Nepidae,,,,,,family,,B135:1,accepted,,,,,,,,,Nepidae,,,,,DB4,7892
-B135:1:32,Ranatra,,,,,,genus,,B135:1,accepted,,,B135:1:31,Nepidae,,,,,Nepidae,,Ranatra,,Nepidae,772G,2007594
-B135:1:33,Ranatra linearis (L.),(L.),Ranatra,,linearis,,species,,B135:1,accepted,,,B135:1:32,Ranatra,,,,,Nepidae,,Ranatra,,Nepidae | Ranatra,6WQVR,5152464
-B135:1:34,Nepa,,,,,,genus,,B135:1,accepted,,,B135:1:31,Nepidae,,,,,Nepidae,,Nepa,,Nepidae,634F,2007591
-B135:1:35,Nepa cinerea (L.),(L.),Nepa,,cinerea,,species,,B135:1,accepted,,,B135:1:34,Nepa,,,,,Nepidae,,Nepa,,Nepidae | Nepa,6RWWL,5152456
-B135:1:36,Aphelocheiridae,,,,,,family,,B135:1,accepted,,,,,,,,,Aphelocheiridae,,,,,6JZ,3265575
-B135:1:37,Aphelocheirus,,,,,,genus,,B135:1,accepted,,,B135:1:36,Aphelocheiridae,,,,,Aphelocheiridae,,Aphelocheirus,,Aphelocheiridae,8NLXH,3265576
-B135:1:38,Aphelocheirus aestivalis (Fabricius),(Fabricius),Aphelocheirus,,aestivalis,,species,,B135:1,accepted,,,B135:1:37,Aphelocheirus,,,,,Aphelocheiridae,,Aphelocheirus,,Aphelocheiridae | Aphelocheirus,7QYJC,4485511
-B135:1:39,Notonectidae,,,,,,family,,B135:1,accepted,,,,,,,,,Notonectidae,,,,,626HD,4322
-B135:1:40,Notonecta,,,,,,genus,,B135:1,accepted,,,B135:1:39,Notonectidae,,,,,Notonectidae,,Notonecta,,Notonectidae,65FM,2020516
-B135:1:41,Notonecta glauca L.,L.,Notonecta,,glauca,,species,,B135:1,accepted,,,B135:1:40,Notonecta,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,7W3FT,2020522
-B135:1:42,Notonecta lutea Müller,Müller,Notonecta,,lutea,,species,,B135:1,accepted,,,B135:1:40,Notonecta,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,7W3FW,4485498
-B135:1:43,Notonecta reuteri Hungerford,Hungerford,Notonecta,,reuteri,,species,,B135:1,accepted,,,B135:1:40,Notonecta,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,7W3G6,4485491
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B135:1:1,Hydrometridae,,,,,,family,,B135:1,accepted,,,,,,,,,Hydrometridae,,,,,B8R,7884,B8R,7884
+B135:1:2,Hydrometra,,,,,,genus,,B135:1,accepted,,,B135:1:1,Hydrometridae,,,,,Hydrometridae,,Hydrometra,,Hydrometridae,4ZTP,2020474,4ZTP,2020474
+B135:1:3,Hydrometra stagnorum (L.),(L.),Hydrometra,,stagnorum,,species,,B135:1,accepted,,,B135:1:2,Hydrometra,,,,,Hydrometridae,,Hydrometra,,Hydrometridae | Hydrometra,3N7QM,2049340,3N7QM,2049340
+B135:1:4,Hydrometra gracilenta (Horvath),(Horvath),Hydrometra,,gracilenta,,species,,B135:1,accepted,,,B135:1:2,Hydrometra,,,,,Hydrometridae,,Hydrometra,,Hydrometridae | Hydrometra,6MJQV,4485514,6MJQV,4485514
+B135:1:5,Hebridae,,,,,,family,,B135:1,accepted,,,,,,,,,Hebridae,,,,,6252Q,4312,6252Q,4312
+B135:1:6,Hebrus,,,,,,genus,,B135:1,accepted,,,B135:1:5,Hebridae,,,,,Hebridae,,Hebrus,,Hebridae,635VT,2020320,635VT,2020320
+B135:1:7,Hebrus ruficeps (Thomson),(Thomson),Hebrus,,ruficeps,,species,,B135:1,accepted,,,B135:1:6,Hebrus,,,,,Hebridae,,Hebrus,,Hebridae | Hebrus,3JYF8,4485475,3JYF8,4485475
+B135:1:8,Hebrus pusillus (Fallén),(Fallén),Hebrus,,pusillus,,species,,B135:1,accepted,,,B135:1:6,Hebrus,,,,,Hebridae,,Hebrus,,Hebridae | Hebrus,3JYF4,2020325,3JYF4,2020325
+B135:1:9,Mesoveliidae,,,,,,family,,B135:1,accepted,,,,,,,,,Mesoveliidae,,,,,CNB,4318,CNB,4318
+B135:1:10,Mesovelia,,,,,,genus,,B135:1,accepted,,,B135:1:9,Mesoveliidae,,,,,Mesoveliidae,,Mesovelia,,Mesoveliidae,5Q3C,2012228,5Q3C,2012228
+B135:1:11,Mesovelia furcata (Mulsant & Rey),(Mulsant & Rey),Mesovelia,,furcata,,species,,B135:1,accepted,,,B135:1:10,Mesovelia,,,,,Mesoveliidae,,Mesovelia,,Mesoveliidae | Mesovelia,427GM,2012232,427GM,2012232
+B135:1:12,Gerridae,,,,,,family,,B135:1,accepted,,,,,,,,,Gerridae,,,,,623FR,7881,623FR,7881
+B135:1:13,Gerris,,,,,,genus,,B135:1,accepted,,,B135:1:12,Gerridae,,,,,Gerridae,,Gerris,,Gerridae,8NNWR,2008636,8NNWR,2008636
+B135:1:14,Gerris thoracicus Schummel,Schummel,Gerris,,thoracicus,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,7V554,5758661,7V554,5758661
+B135:1:15,Gerris lateralis Schummel,Schummel,Gerris,,lateralis,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,7V55B,5758665,7V55B,5758665
+B135:1:16,Gerris argentatus Schummel,Schummel,Gerris,,argentatus,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,7V545,5758660,7V545,5758660
+B135:1:17,Gerris odontogaster (Zetterstedt),(Zetterstedt),Gerris,,odontogaster,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,7V54X,5758658,7V54X,5758658
+B135:1:18,Gerris lacustris (L.),(L.),Gerris,,lacustris,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,7V54Q,5154105,7V54Q,5154105
+B135:1:19,Limnoporus,,,,,,subgenus,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,Limnoporus,Gerridae | Gerris,62YMD,,62YMD,
+B135:1:20,Gerris rufoscutellatus (Latreille),(Latreille),Gerris,,rufoscutellatus,,species,,B135:1,accepted,,,B135:1:19,Limnoporus,,,,,Gerridae,,Gerris,Limnoporus,Gerridae | Gerris | Limnoporus,6KFRY,5154132,6QCKK,2020450
+B135:1:21,Aquarius,,,,,,subgenus,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris,ZH4,,ZH4,
+B135:1:22,Gerris paludum (Fabricius),(Fabricius),Gerris,,paludum,,species,,B135:1,accepted,,,B135:1:21,Aquarius,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris | Aquarius,,5758651,,5866108
+B135:1:23,Gerris najas (Degeer),(Degeer),Gerris,,najas,,species,,B135:1,accepted,,,B135:1:21,Aquarius,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris | Aquarius,,6096736,,5866107
+B135:1:24,Corixidae,,,,,,family,,B135:1,accepted,,,,,,,,,Corixidae,,,,,8KK,6988,8KK,6988
+B135:1:25,Veliidae,,,,,,family,,B135:1,accepted,,,,,,,,,Veliidae,,,,,HSH,7900,HSH,7900
+B135:1:26,Microvelia,,,,,,genus,,B135:1,accepted,,,B135:1:25,Veliidae,,,,,Veliidae,,Microvelia,,Veliidae,5SLM,2020348,5SLM,2020348
+B135:1:27,Microvelia reticulata (Burmeister),(Burmeister),Microvelia,,reticulata,,species,,B135:1,accepted,,,B135:1:26,Microvelia,,,,,Veliidae,,Microvelia,,Veliidae | Microvelia,7VVHW,4485321,7VVHW,4485321
+B135:1:28,Velia,,,,,,genus,,B135:1,accepted,,,B135:1:25,Veliidae,,,,,Veliidae,,Velia,,Veliidae,8P2P2,2020395,8P2P2,2020395
+B135:1:29,Velia caprai Tamanini,Tamanini,Velia,,caprai,,species,,B135:1,accepted,,,B135:1:28,Velia,,,,,Veliidae,,Velia,,Veliidae | Velia,7X77G,4485351,7X77G,4485351
+B135:1:30,Velia saulii Tamanini,Tamanini,Velia,,saulii,,species,,B135:1,accepted,,,B135:1:28,Velia,,,,,Veliidae,,Velia,,Veliidae | Velia,7X78C,4485339,7X78C,4485339
+B135:1:31,Nepidae,,,,,,family,,B135:1,accepted,,,,,,,,,Nepidae,,,,,DB4,7892,DB4,7892
+B135:1:32,Ranatra,,,,,,genus,,B135:1,accepted,,,B135:1:31,Nepidae,,,,,Nepidae,,Ranatra,,Nepidae,772G,2007594,772G,2007594
+B135:1:33,Ranatra linearis (L.),(L.),Ranatra,,linearis,,species,,B135:1,accepted,,,B135:1:32,Ranatra,,,,,Nepidae,,Ranatra,,Nepidae | Ranatra,6WQVR,5152464,6WQVR,5152464
+B135:1:34,Nepa,,,,,,genus,,B135:1,accepted,,,B135:1:31,Nepidae,,,,,Nepidae,,Nepa,,Nepidae,634F,2007591,634F,2007591
+B135:1:35,Nepa cinerea (L.),(L.),Nepa,,cinerea,,species,,B135:1,accepted,,,B135:1:34,Nepa,,,,,Nepidae,,Nepa,,Nepidae | Nepa,6RWWL,5152456,6RWWL,5152456
+B135:1:36,Aphelocheiridae,,,,,,family,,B135:1,accepted,,,,,,,,,Aphelocheiridae,,,,,6JZ,3265575,6JZ,3265575
+B135:1:37,Aphelocheirus,,,,,,genus,,B135:1,accepted,,,B135:1:36,Aphelocheiridae,,,,,Aphelocheiridae,,Aphelocheirus,,Aphelocheiridae,8NLXH,3265576,8NLXH,3265576
+B135:1:38,Aphelocheirus aestivalis (Fabricius),(Fabricius),Aphelocheirus,,aestivalis,,species,,B135:1,accepted,,,B135:1:37,Aphelocheirus,,,,,Aphelocheiridae,,Aphelocheirus,,Aphelocheiridae | Aphelocheirus,7QYJC,4485511,7QYJC,4485511
+B135:1:39,Notonectidae,,,,,,family,,B135:1,accepted,,,,,,,,,Notonectidae,,,,,626HD,4322,626HD,4322
+B135:1:40,Notonecta,,,,,,genus,,B135:1,accepted,,,B135:1:39,Notonectidae,,,,,Notonectidae,,Notonecta,,Notonectidae,65FM,2020516,65FM,2020516
+B135:1:41,Notonecta glauca L.,L.,Notonecta,,glauca,,species,,B135:1,accepted,,,B135:1:40,Notonecta,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,7W3FT,2020522,7W3FT,2020522
+B135:1:42,Notonecta lutea Müller,Müller,Notonecta,,lutea,,species,,B135:1,accepted,,,B135:1:40,Notonecta,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,7W3FW,4485498,7W3FW,4485498
+B135:1:43,Notonecta reuteri Hungerford,Hungerford,Notonecta,,reuteri,,species,,B135:1,accepted,,,B135:1:40,Notonecta,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,7W3G6,4485491,7W3G6,4485491

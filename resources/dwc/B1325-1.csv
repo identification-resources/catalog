@@ -1,15 +1,15 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B1325:1:1,Parnopes,,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Parnopes,,,,4405106
-B1325:1:2,Cleptes Latreille,Latreille,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Cleptes,,,,8802199
-B1325:1:3,Hedychrum Latreille,Latreille,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Hedychrum,,,,4494164
-B1325:1:4,Hedychridium Abeille,Abeille,,,,,genus,de Perrin,B1325:1,accepted,,,,,,,,,,,Hedychridium,,,,8934105
-B1325:1:5,Holopyga Dahlbom,Dahlbom,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Holopyga,,,,3258441
-B1325:1:6,Elampus Spinola,Spinola,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Elampus,,,,4405609
-B1325:1:7,Pseudomalus Ashmead,Ashmead,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Pseudomalus,,,,4494196
-B1325:1:8,Philoctetes truncatus,truncatus,,,,,genus,(Dahlbom),B1325:1,accepted,,,,,,,,,,,Philoctetes,,,,4494074
-B1325:1:9,Omalus Panzer,Panzer,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Omalus,,,,3258860
-B1325:1:10,Spinolia unicolor,unicolor,,,,,genus,(Dahlbom),B1325:1,accepted,,,,,,,,,,,Spinolia,,,,8415823
-B1325:1:11,Pseudospinolia neglecta,neglecta,,,,,genus,(Shuckard),B1325:1,accepted,,,,,,,,,,,Pseudospinolia,,,,4493717
-B1325:1:12,Chrysura Dahlbom,Dahlbom,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Chrysura,,,,4407791
-B1325:1:13,Trichrysis cyanea,cyanea,,,,,genus,(Linnaeus),B1325:1,accepted,,,,,,,,,,,Trichrysis,,,,4493330
-B1325:1:14,Chrysis Linnaeus,Linnaeus,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Chrysis,,,3PF5,10501569
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1325:1:1,Parnopes,,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Parnopes,,,,4405106,,4405106
+B1325:1:2,Cleptes Latreille,Latreille,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Cleptes,,,,8802199,,8802199
+B1325:1:3,Hedychrum Latreille,Latreille,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Hedychrum,,,,4494164,,4494164
+B1325:1:4,Hedychridium Abeille,Abeille,,,,,genus,de Perrin,B1325:1,accepted,,,,,,,,,,,Hedychridium,,,,8934105,,8934105
+B1325:1:5,Holopyga Dahlbom,Dahlbom,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Holopyga,,,,3258441,,3258441
+B1325:1:6,Elampus Spinola,Spinola,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Elampus,,,,4405609,,4405609
+B1325:1:7,Pseudomalus Ashmead,Ashmead,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Pseudomalus,,,,4494196,,4494196
+B1325:1:8,Philoctetes,,,,,,genus,truncatus (Dahlbom),B1325:1,accepted,,,,,,,,,,,Philoctetes,,,,4494048,,4494048
+B1325:1:9,Omalus Panzer,Panzer,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Omalus,,,,3258860,,3258860
+B1325:1:10,Spinolia,,,,,,genus,unicolor (Dahlbom),B1325:1,accepted,,,,,,,,,,,Spinolia,,,,3258307,,3258307
+B1325:1:11,Pseudospinolia,,,,,,genus,neglecta (Shuckard),B1325:1,accepted,,,,,,,,,,,Pseudospinolia,,,,4493698,,4493698
+B1325:1:12,Chrysura Dahlbom,Dahlbom,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Chrysura,,,,4407791,,4407791
+B1325:1:13,Trichrysis,,,,,,genus,cyanea (Linnaeus),B1325:1,accepted,,,,,,,,,,,Trichrysis,,,,9216054,,9216054
+B1325:1:14,Chrysis Linnaeus,Linnaeus,,,,,genus,,B1325:1,accepted,,,,,,,,,,,Chrysis,,,3PF5,10501569,3PF5,10501569

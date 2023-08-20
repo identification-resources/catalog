@@ -1,13 +1,13 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B136:41:1,Gonioctena,,,,,,genus,,B136:41,accepted,,,,,,,,,,,Gonioctena,,,4Q4N,7884520
-B136:41:2,Phytodecta,,,,,,genus,,B136:41,synonym,B136:41:1,Gonioctena,,,,,,,,,Phytodecta,,,,11337605
-B136:41:3,Gonioctena pallida (L.),(L.),Gonioctena,,pallida,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459806
-B136:41:4,Gonioctena quinquepunctata (Fabr.),(Fabr.),Gonioctena,,quinquepunctata,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459802
-B136:41:5,Gonioctena intermedia (Hellies.),(Hellies.),Gonioctena,,intermedia,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459804
-B136:41:6,Gonioctena decemnotata (Mrsh.),(Mrsh.),Gonioctena,,decemnotata,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459766
-B136:41:7,Gonioctena rufipes DeG.,DeG.,Gonioctena,,rufipes,,species,,B136:41,synonym,B136:41:6,Gonioctena decemnotata (Mrsh.),,,,,,,,,Gonioctena,,Gonioctena,,8453696
-B136:41:8,Gonioctena decaspilota (Ach.),(Ach.),Gonioctena,,decaspilota,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459774
-B136:41:9,Gonioctena affinis Gyll.,Gyll.,Gonioctena,,affinis,,species,,B136:41,synonym,B136:41:8,Gonioctena decaspilota (Ach.),,,,,,,,,Gonioctena,,Gonioctena,,4459775
-B136:41:10,Gonioctena linnaeana (Schr.),(Schr.),Gonioctena,,linnaeana,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459783
-B136:41:11,Gonioctena norvegica (Strand),(Strand),Gonioctena,,norvegica,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459769
-B136:41:12,Gonioctena flavicornis (Suffr.),(Suffr.),Gonioctena,,flavicornis,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459771
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:41:1,Gonioctena,,,,,,genus,,B136:41,accepted,,,,,,,,,,,Gonioctena,,,4Q4N,8818741,4Q4N,8818741
+B136:41:2,Phytodecta,,,,,,genus,,B136:41,synonym,B136:41:1,Gonioctena,,,,,,,,,Phytodecta,,,,4292485,,7895904
+B136:41:3,Gonioctena pallida (L.),(L.),Gonioctena,,pallida,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459806,,4459806
+B136:41:4,Gonioctena quinquepunctata (Fabr.),(Fabr.),Gonioctena,,quinquepunctata,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459802,,4459802
+B136:41:5,Gonioctena intermedia (Hellies.),(Hellies.),Gonioctena,,intermedia,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459804,,4459804
+B136:41:6,Gonioctena decemnotata (Mrsh.),(Mrsh.),Gonioctena,,decemnotata,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459766,,4459766
+B136:41:7,Gonioctena rufipes DeG.,DeG.,Gonioctena,,rufipes,,species,,B136:41,synonym,B136:41:6,Gonioctena decemnotata (Mrsh.),,,,,,,,,Gonioctena,,Gonioctena,,8453696,,4459766
+B136:41:8,Gonioctena decaspilota (Ach.),(Ach.),Gonioctena,,decaspilota,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459774,,1047804
+B136:41:9,Gonioctena affinis Gyll.,Gyll.,Gonioctena,,affinis,,species,,B136:41,synonym,B136:41:8,Gonioctena decaspilota (Ach.),,,,,,,,,Gonioctena,,Gonioctena,,4459775,,1047804
+B136:41:10,Gonioctena linnaeana (Schr.),(Schr.),Gonioctena,,linnaeana,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459783,,4459783
+B136:41:11,Gonioctena norvegica (Strand),(Strand),Gonioctena,,norvegica,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459769,,4459769
+B136:41:12,Gonioctena flavicornis (Suffr.),(Suffr.),Gonioctena,,flavicornis,,species,,B136:41,accepted,,,B136:41:1,Gonioctena,,,,,,,Gonioctena,,Gonioctena,,4459771,,4459771

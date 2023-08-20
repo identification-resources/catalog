@@ -1,65 +1,65 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B246:1:1,Tephritidae,,,,,,family,,B246:1,accepted,,,,,,,,,Tephritidae,,,,,GZN,3520
-B246:1:2,Terellia Robineau-Desvoidy,Robineau-Desvoidy,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Terellia,,Tephritidae,87KXX,1627953
-B246:1:3,Ensina,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Ensina,,Tephritidae,4C2C,1570362
-B246:1:4,Ensina sonchi (Linnaeus),(Linnaeus),Ensina,,sonchi,,species,,B246:1,accepted,,,B246:1:3,Ensina,,,,,Tephritidae,,Ensina,,Tephritidae | Ensina,39X2C,1629013
-B246:1:5,Urophora,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Urophora,,Tephritidae,647XL,3265640
-B246:1:6,Urophora spoliata (Haliday),(Haliday),Urophora,,spoliata,,species,,B246:1,accepted,,,B246:1:5,Urophora,,,,,Tephritidae,,Urophora,,Tephritidae | Urophora,89C6G,5088121
-B246:1:7,Dacus Fabricius,Fabricius,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Dacus,,Tephritidae,62PV2,8986045
-B246:1:8,Anastrepha Schiner,Schiner,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Anastrepha,,Tephritidae,99D6Z,1624988
-B246:1:9,Acanthiophilus,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Acanthiophilus,,Tephritidae,M2G,1629277
-B246:1:10,Acanthiophilus belianthi (Rossi),(Rossi),Acanthiophilus,,belianthi,,species,,B246:1,accepted,,,B246:1:9,Acanthiophilus,,,,,Tephritidae,,Acanthiophilus,,Tephritidae | Acanthiophilus,8TSV,1629286
-B246:1:11,"Tephritis Latreille, 1804","Latreille, 1804",,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Tephritis,,Tephritidae,8YQP3,6583584
-B246:1:12,Tephritis cometa (Loew),(Loew),Tephritis,,cometa,,species,,B246:1,accepted,,,B246:1:11,"Tephritis Latreille, 1804",,,,,Tephritidae,,Tephritis,,Tephritidae | Tephritis,7BQLC,1623038
-B246:1:13,Trupanea,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Trupanea,,Tephritidae,99DNX,6006991
-B246:1:14,Cryptaciura,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Cryptaciura,,Tephritidae,,1621527
-B246:1:15,Cryptaciura rotundiventris (Fallén),(Fallén),Cryptaciura,,rotundiventris,,species,,B246:1,accepted,,,B246:1:14,Cryptaciura,,,,,Tephritidae,,Cryptaciura,,Tephritidae | Cryptaciura,,4515983
-B246:1:16,Anomoia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Anomoia,,Tephritidae,WV8,1628268
-B246:1:17,Anomoia purmunda (Harris),(Harris),Anomoia,,purmunda,,species,,B246:1,accepted,,,B246:1:16,Anomoia,,,,,Tephritidae,,Anomoia,,Tephritidae | Anomoia,677YF,1628289
-B246:1:18,Xyphosia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Xyphosia,,Tephritidae,89ML,1622973
-B246:1:19,Xyphosia miliaria (Schrank),(Schrank),Xyphosia,,miliaria,,species,,B246:1,accepted,,,B246:1:18,Xyphosia,,,,,Tephritidae,,Xyphosia,,Tephritidae | Xyphosia,5CP8C,1622979
-B246:1:20,Ceratitis,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Ceratitis,,Tephritidae,3KQD,8776023
-B246:1:21,Ceratitis capitata (Wiedemann),(Wiedemann),Ceratitis,,capitata,,species,,B246:1,accepted,,,B246:1:20,Ceratitis,,,,,Tephritidae,,Ceratitis,,Tephritidae | Ceratitis,87VGX,1626096
-B246:1:22,Chaetorellia Hendel,Hendel,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Chaetorellia,,Tephritidae,3LQW,1622144
-B246:1:23,Chetostoma,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Chetostoma,,Tephritidae,62LTQ,1623822
-B246:1:24,Chetostoma curvinerve Rondani,Rondani,Chetostoma,,curvinerve,,species,,B246:1,accepted,,,B246:1:23,Chetostoma,,,,,Tephritidae,,Chetostoma,,Tephritidae | Chetostoma,TYJX,1623848
-B246:1:25,Vidalia Robineau-Desvoidy,Robineau-Desvoidy,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Vidalia,,Tephritidae,86PG,1622411
-B246:1:26,Cerajocera Rondani,Rondani,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Cerajocera,,Tephritidae,87DWF,1622953
-B246:1:27,Myopites Blot,Blot,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Myopites,,Tephritidae,63CRS,1625370
-B246:1:28,Goniglossum,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Goniglossum,,Tephritidae,,9086276
-B246:1:29,Goniglossum wiedemanni (Meigen),(Meigen),Goniglossum,,wiedemanni,,species,,B246:1,accepted,,,B246:1:28,Goniglossum,,,,,Tephritidae,,Goniglossum,,Tephritidae | Goniglossum,,4515978
-B246:1:30,Acidia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Acidia,,Tephritidae,627RT,1626223
-B246:1:31,Acidia cognata (Wiedemann),(Wiedemann),Acidia,,cognata,,species,,B246:1,accepted,,,B246:1:30,Acidia,,,,,Tephritidae,,Acidia,,Tephritidae | Acidia,64JKW,1626224
-B246:1:32,Platyparea,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Platyparea,,Tephritidae,6RYK,1629610
-B246:1:33,Platyparea discoidea (Fabricius),(Fabricius),Platyparea,,discoidea,,species,,B246:1,accepted,,,B246:1:32,Platyparea,,,,,Tephritidae,,Platyparea,,Tephritidae | Platyparea,7833V,1629614
-B246:1:34,Platyparea poeciloptera (Schrank),(Schrank),Platyparea,,poeciloptera,,species,,B246:1,accepted,,,B246:1:32,Platyparea,,,,,Tephritidae,,Platyparea,,Tephritidae | Platyparea,,7611449
-B246:1:35,Myoleja,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Myoleja,,Tephritidae,5WDP,1624455
-B246:1:36,Myoleja caesio (Harris),(Harris),Myoleja,,caesio,,species,,B246:1,accepted,,,B246:1:35,Myoleja,,,,,Tephritidae,,Myoleja,,Tephritidae | Myoleja,,7842713
-B246:1:37,Euleia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Euleia,,Tephritidae,4FST,1623569
-B246:1:38,Euleia heracleii (Linnaeus),(Linnaeus),Euleia,,heracleii,,species,,B246:1,accepted,,,B246:1:37,Euleia,,,,,Tephritidae,,Euleia,,Tephritidae | Euleia,6GXMZ,1623578
-B246:1:39,Euphranta,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Euphranta,,Tephritidae,635FW,1621881
-B246:1:40,Euphranta toxoneura (Loew),(Loew),Euphranta,,toxoneura,,species,,B246:1,accepted,,,B246:1:39,Euphranta,,,,,Tephritidae,,Euphranta,,Tephritidae | Euphranta,888K7,1621914
-B246:1:41,Trypeta Meigen,Meigen,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Trypeta,,Tephritidae,63W75,1523533
-B246:1:42,Rhagoletis Loew,Loew,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Rhagoletis,,Tephritidae,642MG,1622544
-B246:1:43,Orellia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Orellia,,Tephritidae,69JJ,1622935
-B246:1:44,Orellia falcata (Scopoli),(Scopoli),Orellia,,falcata,,species,,B246:1,accepted,,,B246:1:43,Orellia,,,,,Tephritidae,,Orellia,,Tephritidae | Orellia,75523,1622936
-B246:1:45,Chaetostomella,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Chaetostomella,,Tephritidae,3LS9,1623793
-B246:1:46,Chaetostomella cylindrica Robineau-Desvoidy,Robineau-Desvoidy,Chaetostomella,,cylindrica,,species,,B246:1,accepted,,,B246:1:45,Chaetostomella,,,,,Tephritidae,,Chaetostomella,,Tephritidae | Chaetostomella,5Y2FQ,1623816
-B246:1:47,Dithryca,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Dithryca,,Tephritidae,474F,1623320
-B246:1:48,Dithryca guttularis (Meigen),(Meigen),Dithryca,,guttularis,,species,,B246:1,accepted,,,B246:1:47,Dithryca,,,,,Tephritidae,,Dithryca,,Tephritidae | Dithryca,36YXP,1623324
-B246:1:49,Noeeta,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Noeeta,,Tephritidae,64NL,1625984
-B246:1:50,Noeeta pupillata (Fallén),(Fallén),Noeeta,,pupillata,,species,,B246:1,accepted,,,B246:1:49,Noeeta,,,,,Tephritidae,,Noeeta,,Tephritidae | Noeeta,47LTR,1625991
-B246:1:51,Icterica,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Icterica,,Tephritidae,53FM,1627523
-B246:1:52,Icterica westermanni (Meigen),(Meigen),Icterica,,westermanni,,species,,B246:1,accepted,,,B246:1:51,Icterica,,,,,Tephritidae,,Icterica,,Tephritidae | Icterica,,8121518
-B246:1:53,Acinia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Acinia,,Tephritidae,627RV,1621392
-B246:1:54,Acinia corniculata (Zetterstedt),(Zetterstedt),Acinia,,corniculata,,species,,B246:1,accepted,,,B246:1:53,Acinia,,,,,Tephritidae,,Acinia,,Tephritidae | Acinia,9B84,1621396
-B246:1:55,Sphenella,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Sphenella,,Tephritidae,7KQW,
-B246:1:56,Sphenella marginata (Fallén),(Fallén),Sphenella,,marginata,,species,,B246:1,accepted,,,B246:1:55,Sphenella,,,,,Tephritidae,,Sphenella,,Tephritidae | Sphenella,6Z9J5,1625450
-B246:1:57,Oxyna Robineau-Desvoidy,Robineau-Desvoidy,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Oxyna,,Tephritidae,6BDQ,1626282
-B246:1:58,Oxyna flavipennis (Loew),(Loew),Oxyna,,flavipennis,,species,,B246:1,accepted,,,B246:1:57,Oxyna Robineau-Desvoidy,,,,,Tephritidae,,Oxyna,,Tephritidae | Oxyna,4BG5L,1626315
-B246:1:59,Campiglossa,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Campiglossa,,Tephritidae,3GFS,1623884
-B246:1:60,Campiglossa grandinata (Rondani),(Rondani),Campiglossa,,grandinata,,species,,B246:1,accepted,,,B246:1:59,Campiglossa,,,,,Tephritidae,,Campiglossa,,Tephritidae | Campiglossa,QCP7,1624294
-B246:1:61,Campiglossa argyrocephala (Loew),(Loew),Campiglossa,,argyrocephala,,species,,B246:1,accepted,,,B246:1:59,Campiglossa,,,,,Tephritidae,,Campiglossa,,Tephritidae | Campiglossa,QCM8,1624162
-B246:1:62,Dioxyna,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Dioxyna,,Tephritidae,62R4P,1626332
-B246:1:63,Dioxyna bidentis (Robineau-Desvoidy),(Robineau-Desvoidy),Dioxyna,,bidentis,,species,,B246:1,accepted,,,B246:1:62,Dioxyna,,,,,Tephritidae,,Dioxyna,,Tephritidae | Dioxyna,36F7N,1626362
-B246:1:64,Paroxyna Hendel,Hendel,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Paroxyna,,Tephritidae,87JGH,1624752
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B246:1:1,Tephritidae,,,,,,family,,B246:1,accepted,,,,,,,,,Tephritidae,,,,,GZN,3520,GZN,3520
+B246:1:2,Terellia Robineau-Desvoidy,Robineau-Desvoidy,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Terellia,,Tephritidae,9GLQ4,1627953,9GLQ4,1627953
+B246:1:3,Ensina,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Ensina,,Tephritidae,9XBZ5,1570362,9XBZ5,1570362
+B246:1:4,Ensina sonchi (Linnaeus),(Linnaeus),Ensina,,sonchi,,species,,B246:1,accepted,,,B246:1:3,Ensina,,,,,Tephritidae,,Ensina,,Tephritidae | Ensina,39X2C,1629013,39X2C,1629013
+B246:1:5,Urophora,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Urophora,,Tephritidae,8HSMX,1523805,8HHB7,1523805
+B246:1:6,Urophora spoliata (Haliday),(Haliday),Urophora,,spoliata,,species,,B246:1,accepted,,,B246:1:5,Urophora,,,,,Tephritidae,,Urophora,,Tephritidae | Urophora,89C6G,5088121,89C6G,5088121
+B246:1:7,Dacus Fabricius,Fabricius,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Dacus,,Tephritidae,62PV2,8986045,62PV2,8986045
+B246:1:8,Anastrepha Schiner,Schiner,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Anastrepha,,Tephritidae,9GL96,11063908,9GL96,11063908
+B246:1:9,Acanthiophilus,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Acanthiophilus,,Tephritidae,M2G,1629277,M2G,1629277
+B246:1:10,Acanthiophilus belianthi (Rossi),(Rossi),Acanthiophilus,,belianthi,,species,,B246:1,accepted,,,B246:1:9,Acanthiophilus,,,,,Tephritidae,,Acanthiophilus,,Tephritidae | Acanthiophilus,8TSV,1629286,8TSV,1629286
+B246:1:11,"Tephritis Latreille, 1804","Latreille, 1804",,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Tephritis,,Tephritidae,9XCJY,6583584,9XCJY,6583584
+B246:1:12,Tephritis cometa (Loew),(Loew),Tephritis,,cometa,,species,,B246:1,accepted,,,B246:1:11,"Tephritis Latreille, 1804",,,,,Tephritidae,,Tephritis,,Tephritidae | Tephritis,7BQLC,1623038,7BQLC,1623038
+B246:1:13,Trupanea,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Trupanea,,Tephritidae,9XCKY,6583583,9XCKY,6583583
+B246:1:14,Cryptaciura,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Cryptaciura,,Tephritidae,,1621527,,1621527
+B246:1:15,Cryptaciura rotundiventris (Fallén),(Fallén),Cryptaciura,,rotundiventris,,species,,B246:1,accepted,,,B246:1:14,Cryptaciura,,,,,Tephritidae,,Cryptaciura,,Tephritidae | Cryptaciura,,4515983,,1623592
+B246:1:16,Anomoia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Anomoia,,Tephritidae,WV8,1628268,WV8,1628268
+B246:1:17,Anomoia purmunda (Harris),(Harris),Anomoia,,purmunda,,species,,B246:1,accepted,,,B246:1:16,Anomoia,,,,,Tephritidae,,Anomoia,,Tephritidae | Anomoia,677YF,1628289,677YF,1628289
+B246:1:18,Xyphosia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Xyphosia,,Tephritidae,89ML,1622973,89ML,1622973
+B246:1:19,Xyphosia miliaria (Schrank),(Schrank),Xyphosia,,miliaria,,species,,B246:1,accepted,,,B246:1:18,Xyphosia,,,,,Tephritidae,,Xyphosia,,Tephritidae | Xyphosia,5CP8C,1622979,5CP8C,1622979
+B246:1:20,Ceratitis,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Ceratitis,,Tephritidae,3KQD,8776023,3KQD,8776023
+B246:1:21,Ceratitis capitata (Wiedemann),(Wiedemann),Ceratitis,,capitata,,species,,B246:1,accepted,,,B246:1:20,Ceratitis,,,,,Tephritidae,,Ceratitis,,Tephritidae | Ceratitis,87VGX,1626096,87VGX,1626096
+B246:1:22,Chaetorellia Hendel,Hendel,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Chaetorellia,,Tephritidae,3LQW,1622144,3LQW,1622144
+B246:1:23,Chetostoma,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Chetostoma,,Tephritidae,62LTQ,1623822,62LTQ,1623822
+B246:1:24,Chetostoma curvinerve Rondani,Rondani,Chetostoma,,curvinerve,,species,,B246:1,accepted,,,B246:1:23,Chetostoma,,,,,Tephritidae,,Chetostoma,,Tephritidae | Chetostoma,TYJX,1623848,TYJX,1623848
+B246:1:25,Vidalia Robineau-Desvoidy,Robineau-Desvoidy,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Vidalia,,Tephritidae,86PG,1622411,86PG,1622411
+B246:1:26,Cerajocera Rondani,Rondani,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Cerajocera,,Tephritidae,87DWF,1622953,87DWF,1622953
+B246:1:27,Myopites Blot,Blot,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Myopites,,Tephritidae,63CRS,1625370,63CRS,1625370
+B246:1:28,Goniglossum,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Goniglossum,,Tephritidae,,9086276,,9086276
+B246:1:29,Goniglossum wiedemanni (Meigen),(Meigen),Goniglossum,,wiedemanni,,species,,B246:1,accepted,,,B246:1:28,Goniglossum,,,,,Tephritidae,,Goniglossum,,Tephritidae | Goniglossum,,4515978,,5086456
+B246:1:30,Acidia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Acidia,,Tephritidae,9XBT3,1626223,9XBT3,1626223
+B246:1:31,Acidia cognata (Wiedemann),(Wiedemann),Acidia,,cognata,,species,,B246:1,accepted,,,B246:1:30,Acidia,,,,,Tephritidae,,Acidia,,Tephritidae | Acidia,64JKW,1626224,64JKW,1626224
+B246:1:32,Platyparea,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Platyparea,,Tephritidae,6RYK,1629610,6RYK,1629610
+B246:1:33,Platyparea discoidea (Fabricius),(Fabricius),Platyparea,,discoidea,,species,,B246:1,accepted,,,B246:1:32,Platyparea,,,,,Tephritidae,,Platyparea,,Tephritidae | Platyparea,7833V,1629614,7833V,1629614
+B246:1:34,Platyparea poeciloptera (Schrank),(Schrank),Platyparea,,poeciloptera,,species,,B246:1,accepted,,,B246:1:32,Platyparea,,,,,Tephritidae,,Platyparea,,Tephritidae | Platyparea,,7611449,,1622796
+B246:1:35,Myoleja,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Myoleja,,Tephritidae,9WLCB,1624455,9WLCB,1624455
+B246:1:36,Myoleja caesio (Harris),(Harris),Myoleja,,caesio,,species,,B246:1,accepted,,,B246:1:35,Myoleja,,,,,Tephritidae,,Myoleja,,Tephritidae | Myoleja,,7842713,,1622345
+B246:1:37,Euleia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Euleia,,Tephritidae,4FST,1623569,4FST,1623569
+B246:1:38,Euleia heracleii (Linnaeus),(Linnaeus),Euleia,,heracleii,,species,,B246:1,accepted,,,B246:1:37,Euleia,,,,,Tephritidae,,Euleia,,Tephritidae | Euleia,6GXMZ,1623578,6H9N8,1623571
+B246:1:39,Euphranta,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Euphranta,,Tephritidae,87FZC,1621881,87FZC,1621881
+B246:1:40,Euphranta toxoneura (Loew),(Loew),Euphranta,,toxoneura,,species,,B246:1,accepted,,,B246:1:39,Euphranta,,,,,Tephritidae,,Euphranta,,Tephritidae | Euphranta,888K7,1621914,888K7,1621914
+B246:1:41,Trypeta Meigen,Meigen,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Trypeta,,Tephritidae,9XCL2,1523533,9XCL2,1523533
+B246:1:42,Rhagoletis Loew,Loew,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Rhagoletis,,Tephritidae,642MG,1622544,642MG,1622544
+B246:1:43,Orellia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Orellia,,Tephritidae,69JJ,1622935,69JJ,1622935
+B246:1:44,Orellia falcata (Scopoli),(Scopoli),Orellia,,falcata,,species,,B246:1,accepted,,,B246:1:43,Orellia,,,,,Tephritidae,,Orellia,,Tephritidae | Orellia,75523,1622936,75523,1622936
+B246:1:45,Chaetostomella,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Chaetostomella,,Tephritidae,3LS9,1623793,3LS9,1623793
+B246:1:46,Chaetostomella cylindrica Robineau-Desvoidy,Robineau-Desvoidy,Chaetostomella,,cylindrica,,species,,B246:1,accepted,,,B246:1:45,Chaetostomella,,,,,Tephritidae,,Chaetostomella,,Tephritidae | Chaetostomella,5Y2FQ,1623816,5Y2FQ,1623816
+B246:1:47,Dithryca,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Dithryca,,Tephritidae,474F,1623320,474F,1623320
+B246:1:48,Dithryca guttularis (Meigen),(Meigen),Dithryca,,guttularis,,species,,B246:1,accepted,,,B246:1:47,Dithryca,,,,,Tephritidae,,Dithryca,,Tephritidae | Dithryca,36YXP,1623324,36YXP,1623324
+B246:1:49,Noeeta,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Noeeta,,Tephritidae,64NL,1625984,64NL,1625984
+B246:1:50,Noeeta pupillata (Fallén),(Fallén),Noeeta,,pupillata,,species,,B246:1,accepted,,,B246:1:49,Noeeta,,,,,Tephritidae,,Noeeta,,Tephritidae | Noeeta,47LTR,1625991,47LTR,1625991
+B246:1:51,Icterica,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Icterica,,Tephritidae,53FM,1627523,53FM,1627523
+B246:1:52,Icterica westermanni (Meigen),(Meigen),Icterica,,westermanni,,species,,B246:1,accepted,,,B246:1:51,Icterica,,,,,Tephritidae,,Icterica,,Tephritidae | Icterica,,8121518,,1623468
+B246:1:53,Acinia,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Acinia,,Tephritidae,9XBT5,1621392,9XBT5,1621392
+B246:1:54,Acinia corniculata (Zetterstedt),(Zetterstedt),Acinia,,corniculata,,species,,B246:1,accepted,,,B246:1:53,Acinia,,,,,Tephritidae,,Acinia,,Tephritidae | Acinia,9B84,1621396,9B84,1621396
+B246:1:55,Sphenella,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Sphenella,,Tephritidae,7KQW,6583582,7KQW,6583582
+B246:1:56,Sphenella marginata (Fallén),(Fallén),Sphenella,,marginata,,species,,B246:1,accepted,,,B246:1:55,Sphenella,,,,,Tephritidae,,Sphenella,,Tephritidae | Sphenella,6Z9J5,1625450,6Z9J5,1625450
+B246:1:57,Oxyna Robineau-Desvoidy,Robineau-Desvoidy,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Oxyna,,Tephritidae,9WLDP,1626282,9WLDP,1626282
+B246:1:58,Oxyna flavipennis (Loew),(Loew),Oxyna,,flavipennis,,species,,B246:1,accepted,,,B246:1:57,Oxyna Robineau-Desvoidy,,,,,Tephritidae,,Oxyna,,Tephritidae | Oxyna,4BG5L,1626315,4BG5L,1626315
+B246:1:59,Campiglossa,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Campiglossa,,Tephritidae,3GFS,1623884,3GFS,1623884
+B246:1:60,Campiglossa grandinata (Rondani),(Rondani),Campiglossa,,grandinata,,species,,B246:1,accepted,,,B246:1:59,Campiglossa,,,,,Tephritidae,,Campiglossa,,Tephritidae | Campiglossa,QCP7,1624294,QCP7,1624294
+B246:1:61,Campiglossa argyrocephala (Loew),(Loew),Campiglossa,,argyrocephala,,species,,B246:1,accepted,,,B246:1:59,Campiglossa,,,,,Tephritidae,,Campiglossa,,Tephritidae | Campiglossa,QCM8,1624162,QCM8,1624162
+B246:1:62,Dioxyna,,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Dioxyna,,Tephritidae,62R4P,1626332,62R4P,1626332
+B246:1:63,Dioxyna bidentis (Robineau-Desvoidy),(Robineau-Desvoidy),Dioxyna,,bidentis,,species,,B246:1,accepted,,,B246:1:62,Dioxyna,,,,,Tephritidae,,Dioxyna,,Tephritidae | Dioxyna,36F7N,1626362,36F7N,1626362
+B246:1:64,Paroxyna Hendel,Hendel,,,,,genus,,B246:1,accepted,,,B246:1:1,Tephritidae,,,,,Tephritidae,,Paroxyna,,Tephritidae,87JGH,1624752,87JGH,1624752

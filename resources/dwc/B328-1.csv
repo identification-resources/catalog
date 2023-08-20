@@ -1,12 +1,12 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B328:1:1,Cerastium arvense,,Cerastium,,arvense,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK3M,3085433
-B328:1:2,Cerastium brachypetalum,,Cerastium,,brachypetalum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK4S,3085439
-B328:1:3,Cerastium diffusum,,Cerastium,,diffusum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK7B,3085464
-B328:1:4,Cerastium fontanum,,Cerastium,,fontanum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK8H,3085458
-B328:1:5,Cerastium fontanum subsp. holosteoides,,Cerastium,,fontanum,holosteoides,subspecies,,B328:1,accepted,,,B328:1:4,Cerastium fontanum,,,,,,,Cerastium,,Cerastium fontanum,5GBCR,11336119
-B328:1:6,Cerastium fontanum subsp. vulgare,,Cerastium,,fontanum,vulgare,subspecies,,B328:1,accepted,,,B328:1:4,Cerastium fontanum,,,,,,,Cerastium,,Cerastium fontanum,5GBCY,9349855
-B328:1:7,Cerastium glomeratum,,Cerastium,,glomeratum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK93,3085440
-B328:1:8,Cerastium glutinosum,,Cerastium,,glutinosum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK95,6364084
-B328:1:9,Cerastium pumilum,,Cerastium,,pumilum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SKGK,3085469
-B328:1:10,Cerastium semidecandrum,,Cerastium,,semidecandrum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,5XKYV,3085434
-B328:1:11,Cerastium tomentosum,,Cerastium,,tomentosum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SKLS,3085438
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B328:1:1,Cerastium arvense,,Cerastium,,arvense,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK3M,3085433,SK3M,3085433
+B328:1:2,Cerastium brachypetalum,,Cerastium,,brachypetalum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK4S,3085439,SK4S,3085439
+B328:1:3,Cerastium diffusum,,Cerastium,,diffusum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK7B,3085464,SK7B,3085464
+B328:1:4,Cerastium fontanum,,Cerastium,,fontanum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK8H,3085458,SK8H,3085458
+B328:1:5,Cerastium fontanum subsp. holosteoides,,Cerastium,,fontanum,holosteoides,subspecies,,B328:1,accepted,,,B328:1:4,Cerastium fontanum,,,,,,,Cerastium,,Cerastium fontanum,5GBCR,11336119,5XJFV,6364031
+B328:1:6,Cerastium fontanum subsp. vulgare,,Cerastium,,fontanum,vulgare,subspecies,,B328:1,accepted,,,B328:1:4,Cerastium fontanum,,,,,,,Cerastium,,Cerastium fontanum,5GBCY,3811517,5XJFV,6364031
+B328:1:7,Cerastium glomeratum,,Cerastium,,glomeratum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK93,3085440,SK93,3085440
+B328:1:8,Cerastium glutinosum,,Cerastium,,glutinosum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SK95,6364084,SK95,6364084
+B328:1:9,Cerastium pumilum,,Cerastium,,pumilum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SKGK,3085469,SKGK,3085469
+B328:1:10,Cerastium semidecandrum,,Cerastium,,semidecandrum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,5XKYV,3085434,5XKYV,3085434
+B328:1:11,Cerastium tomentosum,,Cerastium,,tomentosum,,species,,B328:1,accepted,,,,,,,,,,,Cerastium,,,SKLS,3085438,SKLS,3085438

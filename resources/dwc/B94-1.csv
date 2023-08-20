@@ -1,76 +1,76 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B94:1:1,Tenthredinidae,,,,,,family,,B94:1,accepted,,,,,,,,,Tenthredinidae,,,,,GZJ,7918
-B94:1:2,Fenusinae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Fenusinae,,,Tenthredinidae,,
-B94:1:3,"Parna Benson, 1936","Benson, 1936",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Parna,,Tenthredinidae | Fenusinae,,8850735
-B94:1:4,"Metallus Forbes, 1885","Forbes, 1885",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Metallus,,Tenthredinidae | Fenusinae,,4490812
-B94:1:5,"Scolioneura Konow, 1890","Konow, 1890",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Scolioneura,,Tenthredinidae | Fenusinae,,9153483
-B94:1:6,"Fenusella Enslin, 1912","Enslin, 1912",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Fenusella,,Tenthredinidae | Fenusinae,,4407311
-B94:1:7,"Profenusa MacGillivray, 1914","MacGillivray, 1914",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Profenusa,,Tenthredinidae | Fenusinae,,9085332
-B94:1:8,"Fenella Westwood, 1839","Westwood, 1839",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Fenella,,Tenthredinidae | Fenusinae,,3258727
-B94:1:9,"Fenusa Leach, 1817","Leach, 1817",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Fenusa,,Tenthredinidae | Fenusinae,4JSM,1249667
-B94:1:10,"Kaliofenusa Viereck, 1910","Viereck, 1910",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Kaliofenusa,,Tenthredinidae | Fenusinae,,4681498
-B94:1:11,Hoplocampinae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Hoplocampinae,,,Tenthredinidae,,
-B94:1:12,"Hoplocampa Hartig, 1837","Hartig, 1837",,,,,genus,,B94:1,accepted,,,B94:1:11,Hoplocampinae,,,,,Tenthredinidae,Hoplocampinae,Hoplocampa,,Tenthredinidae | Hoplocampinae,4YLJ,1249698
-B94:1:13,Cladiinae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Cladiinae,,,Tenthredinidae,,
-B94:1:14,"Cladius Illiger, 1807","Illiger, 1807",,,,,genus,,B94:1,accepted,,,B94:1:13,Cladiinae,,,,,Tenthredinidae,Cladiinae,Cladius,,Tenthredinidae | Cladiinae,3QCH,1249694
-B94:1:15,"Trichiocampus Hartig, 1837","Hartig, 1837",,,,,genus,,B94:1,accepted,,,B94:1:13,Cladiinae,,,,,Tenthredinidae,Cladiinae,Trichiocampus,,Tenthredinidae | Cladiinae,,4681441
-B94:1:16,"Priophorus Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B94:1,accepted,,,B94:1:13,Cladiinae,,,,,Tenthredinidae,Cladiinae,Priophorus,,Tenthredinidae | Cladiinae,63Q46,5023186
-B94:1:17,Nematinae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Nematinae,,,Tenthredinidae,,
-B94:1:18,"Hemichroa Stephens, 1835","Stephens, 1835",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Hemichroa,,Tenthredinidae | Nematinae,4V2B,1249686
-B94:1:19,"Dineura Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Dineura,,Tenthredinidae | Nematinae,,3258693
-B94:1:20,"Mesoneura Hartig, 1837","Hartig, 1837",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Mesoneura,,Tenthredinidae | Nematinae,,4404526
-B94:1:21,"Pseudodineura Konow, 1885","Konow, 1885",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Pseudodineura,,Tenthredinidae | Nematinae,,4491715
-B94:1:22,"Platycampus Schiodte, 1839","Schiodte, 1839",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Platycampus,,Tenthredinidae | Nematinae,,4407339
-B94:1:23,"Anoplonyx Marlatt, 1896","Marlatt, 1896",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Anoplonyx,,Tenthredinidae | Nematinae,,9212447
-B94:1:24,"Craesus Leach, 1817","Leach, 1817",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Craesus,,Tenthredinidae | Nematinae,,4405800
-B94:1:25,"Stauronematus Benson, 1953","Benson, 1953",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Stauronematus,,Tenthredinidae | Nematinae,,4681453
-B94:1:26,"Pristiphora Latreille, 1810","Latreille, 1810",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Pristiphora,,Tenthredinidae | Nematinae,6VXG,1249690
-B94:1:27,"Gymnonychus Marlatt, 1896","Marlatt, 1896",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Gymnonychus,,Tenthredinidae | Nematinae,,4681480
-B94:1:28,"Lygaeonematus Konow, 1890","Konow, 1890",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Lygaeonematus,,Tenthredinidae | Nematinae,,4571518
-B94:1:29,"Lygaeophora Hellén, 1975","Hellén, 1975",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Lygaeophora,,Tenthredinidae | Nematinae,,5430746
-B94:1:30,"Lygaeotus Hellén, 1975","Hellén, 1975",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Lygaeotus,,Tenthredinidae | Nematinae,,8417339
-B94:1:31,"Micronematus Konow, 1890","Konow, 1890",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Micronematus,,Tenthredinidae | Nematinae,,4681526
-B94:1:32,"Oligonematus Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Oligonematus,,Tenthredinidae | Nematinae,,4681534
-B94:1:33,"Sharliphora Wong, 1969","Wong, 1969",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Sharliphora,,Tenthredinidae | Nematinae,,4681497
-B94:1:34,"Pontania Costa, 1859","Costa, 1859",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Pontania,,Tenthredinidae | Nematinae,63Q76,1249675
-B94:1:35,"Phyllocolpa Benson, 1960","Benson, 1960",,,,,genus,,B94:1,heterotypic synonym,B94:1:34,"Pontania Costa, 1859",,,,,,,Tenthredinidae,Nematinae,Phyllocolpa,,Tenthredinidae | Nematinae,6PLN,1249688
-B94:1:36,"Eupontania Zinovjev, 1985","Zinovjev, 1985",,,,,genus,,B94:1,heterotypic synonym,B94:1:34,"Pontania Costa, 1859",,,,,,,Tenthredinidae,Nematinae,Eupontania,,Tenthredinidae | Nematinae,,4681460
-B94:1:37,"Euura Newman, 1837","Newman, 1837",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Euura,,Tenthredinidae | Nematinae,,9013381
-B94:1:38,"Nematinus Rohwer, 1911","Rohwer, 1911",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Nematinus,,Tenthredinidae | Nematinae,,4406572
-B94:1:39,"Amauronematus Konow, 1890","Konow, 1890",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Amauronematus,,Tenthredinidae | Nematinae,,4491521
-B94:1:40,"Brachycoluma Strand, 1929","Strand, 1929",,,,,genus,,B94:1,heterotypic synonym,B94:1:39,"Amauronematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Brachycoluma,,Tenthredinidae | Nematinae,,4681525
-B94:1:41,"Decanematus Malaise, 1932","Malaise, 1932",,,,,genus,,B94:1,heterotypic synonym,B94:1:39,"Amauronematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Decanematus,,Tenthredinidae | Nematinae,,4491546
-B94:1:42,"Pontopristia Malaise, 1921","Malaise, 1921",,,,,genus,,B94:1,heterotypic synonym,B94:1:39,"Amauronematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Pontopristia,,Tenthredinidae | Nematinae,,4681540
-B94:1:43,"Pachynematus Konow, 1890","Konow, 1890",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Pachynematus,,Tenthredinidae | Nematinae,6BW6,1249673
-B94:1:44,"Epicenematus Lacourt, 1998","Lacourt, 1998",,,,,genus,,B94:1,heterotypic synonym,B94:1:43,"Pachynematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Epicenematus,,Tenthredinidae | Nematinae,,4681508
-B94:1:45,"Pikonema Ross, 1937","Ross, 1937",,,,,genus,,B94:1,heterotypic synonym,B94:1:43,"Pachynematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Pikonema,,Tenthredinidae | Nematinae,6QDH,1249704
-B94:1:46,"Larinematus Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:43,"Pachynematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Larinematus,,Tenthredinidae | Nematinae,,4681451
-B94:1:47,"Polynematus Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:43,"Pachynematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Polynematus,,Tenthredinidae | Nematinae,,4681442
-B94:1:48,"Bacconematus Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:43,"Pachynematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Bacconematus,,Tenthredinidae | Nematinae,,4681499
-B94:1:49,"Nematus Panzer, 1801","Panzer, 1801",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Nematus,,Tenthredinidae | Nematinae,5YHC,1249701
-B94:1:50,"Hypolaepus Kirby, 1882","Kirby, 1882",,,,,genus,,B94:1,heterotypic synonym,B94:1:49,"Nematus Panzer, 1801",,,,,,,Tenthredinidae,Nematinae,Hypolaepus,,Tenthredinidae | Nematinae,,4681504
-B94:1:51,"Pteronidea Rohwer, 1911","Rohwer, 1911",,,,,genus,,B94:1,heterotypic synonym,B94:1:49,"Nematus Panzer, 1801",,,,,,,Tenthredinidae,Nematinae,Pteronidea,,Tenthredinidae | Nematinae,,4572886
-B94:1:52,"Kontuniemiana Lacourt, 1998","Lacourt, 1998",,,,,genus,,B94:1,heterotypic synonym,B94:1:49,"Nematus Panzer, 1801",,,,,,,Tenthredinidae,Nematinae,Kontuniemiana,,Tenthredinidae | Nematinae,,4681488
-B94:1:53,Tenthredininae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Tenthredininae,,,Tenthredinidae,,
-B94:1:54,"Perineura Hartig, 1837","Hartig, 1837",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Perineura,,Tenthredinidae | Tenthredininae,,4490695
-B94:1:55,"Pachyprotasis Hartig, 1837","Hartig, 1837",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Pachyprotasis,,Tenthredinidae | Tenthredininae,,4406964
-B94:1:56,"Macrophya Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Macrophya,,Tenthredinidae | Tenthredininae,,8605818
-B94:1:57,"Macrophyopsis Enslin, 1913","Enslin, 1913",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Macrophyopsis,,Tenthredinidae | Tenthredininae,,4681475
-B94:1:58,"Tenthredopsis Costa, 1859","Costa, 1859",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Tenthredopsis,,Tenthredinidae | Tenthredininae,,4404751
-B94:1:59,"Elinora Benson, 1946","Benson, 1946",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Elinora,,Tenthredinidae | Tenthredininae,,4681505
-B94:1:60,"Sciapteryx Stephens, 1835","Stephens, 1835",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Sciapteryx,,Tenthredinidae | Tenthredininae,,4404894
-B94:1:61,"Aglaostigma Kirby, 1882","Kirby, 1882",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Aglaostigma,,Tenthredinidae | Tenthredininae,,4404527
-B94:1:62,"Cephaledo Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Cephaledo,,Tenthredinidae | Tenthredininae,,4681483
-B94:1:63,"Cuneala Zirngiebl, 1956","Zirngiebl, 1956",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Cuneala,,Tenthredinidae | Tenthredininae,,4675746
-B94:1:64,"Tenthredo Linnaeus, 1758","Linnaeus, 1758",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Tenthredo,,Tenthredinidae | Tenthredininae,,7567423
-B94:1:65,"Tenthredella Rohwer, 1910","Rohwer, 1910",,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Tenthredella,,Tenthredinidae | Tenthredininae,,4681570
-B94:1:66,"Endolethryx Lacourt, 1997","Lacourt, 1997",,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Endolethryx,,Tenthredinidae | Tenthredininae,,
-B94:1:67,"Maculedo Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Maculedo,,Tenthredinidae | Tenthredininae,,4681565
-B94:1:68,"Temuledo Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Temuledo,,Tenthredinidae | Tenthredininae,,4681462
-B94:1:69,"Eurogaster Zimgiebl, 1953","Zimgiebl, 1953",,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Eurogaster,,Tenthredinidae | Tenthredininae,,4681548
-B94:1:70,Olivacedo Zhelochovtsev. 1988,Zhelochovtsev. 1988,,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Olivacedo,,Tenthredinidae | Tenthredininae,,4681449
-B94:1:71,"Rhogogaster Konow, 1884","Konow, 1884",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Rhogogaster,,Tenthredinidae | Tenthredininae,,4406669
-B94:1:72,"Cytisogaster Lacourt, 1996","Lacourt, 1996",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Cytisogaster,,Tenthredinidae | Tenthredininae,,4681487
-B94:1:73,"Zonuledo Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Zonuledo,,Tenthredinidae | Tenthredininae,,4681510
-B94:1:74,Sioblinae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Sioblinae,,,Tenthredinidae,,
-B94:1:75,"Siobla Cammeron, 1877","Cammeron, 1877",,,,,genus,,B94:1,accepted,,,B94:1:74,Sioblinae,,,,,Tenthredinidae,Sioblinae,Siobla,,Tenthredinidae | Sioblinae,,4490351
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B94:1:1,Tenthredinidae,,,,,,family,,B94:1,accepted,,,,,,,,,Tenthredinidae,,,,,GZJ,7918,GZJ,7918
+B94:1:2,Fenusinae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Fenusinae,,,Tenthredinidae,,,,
+B94:1:3,"Parna Benson, 1936","Benson, 1936",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Parna,,Tenthredinidae | Fenusinae,,8850735,,8850735
+B94:1:4,"Metallus Forbes, 1885","Forbes, 1885",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Metallus,,Tenthredinidae | Fenusinae,,4490812,,4490812
+B94:1:5,"Scolioneura Konow, 1890","Konow, 1890",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Scolioneura,,Tenthredinidae | Fenusinae,,9153483,,9153483
+B94:1:6,"Fenusella Enslin, 1912","Enslin, 1912",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Fenusella,,Tenthredinidae | Fenusinae,,4407311,,4407311
+B94:1:7,"Profenusa MacGillivray, 1914","MacGillivray, 1914",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Profenusa,,Tenthredinidae | Fenusinae,,9085332,,9085332
+B94:1:8,"Fenella Westwood, 1839","Westwood, 1839",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Fenella,,Tenthredinidae | Fenusinae,,3258727,,3258727
+B94:1:9,"Fenusa Leach, 1817","Leach, 1817",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Fenusa,,Tenthredinidae | Fenusinae,4JSM,1249667,4JSM,1249667
+B94:1:10,"Kaliofenusa Viereck, 1910","Viereck, 1910",,,,,genus,,B94:1,accepted,,,B94:1:2,Fenusinae,,,,,Tenthredinidae,Fenusinae,Kaliofenusa,,Tenthredinidae | Fenusinae,,4681498,,4681498
+B94:1:11,Hoplocampinae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Hoplocampinae,,,Tenthredinidae,,,,
+B94:1:12,"Hoplocampa Hartig, 1837","Hartig, 1837",,,,,genus,,B94:1,accepted,,,B94:1:11,Hoplocampinae,,,,,Tenthredinidae,Hoplocampinae,Hoplocampa,,Tenthredinidae | Hoplocampinae,4YLJ,1249698,4YLJ,1249698
+B94:1:13,Cladiinae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Cladiinae,,,Tenthredinidae,,,,
+B94:1:14,"Cladius Illiger, 1807","Illiger, 1807",,,,,genus,,B94:1,accepted,,,B94:1:13,Cladiinae,,,,,Tenthredinidae,Cladiinae,Cladius,,Tenthredinidae | Cladiinae,3QCH,1249694,3QCH,1249694
+B94:1:15,"Trichiocampus Hartig, 1837","Hartig, 1837",,,,,genus,,B94:1,accepted,,,B94:1:13,Cladiinae,,,,,Tenthredinidae,Cladiinae,Trichiocampus,,Tenthredinidae | Cladiinae,,4681441,,4681441
+B94:1:16,"Priophorus Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B94:1,accepted,,,B94:1:13,Cladiinae,,,,,Tenthredinidae,Cladiinae,Priophorus,,Tenthredinidae | Cladiinae,63Q46,5023186,63Q46,5023186
+B94:1:17,Nematinae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Nematinae,,,Tenthredinidae,,,,
+B94:1:18,"Hemichroa Stephens, 1835","Stephens, 1835",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Hemichroa,,Tenthredinidae | Nematinae,4V2B,1249686,4V2B,1249686
+B94:1:19,"Dineura Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Dineura,,Tenthredinidae | Nematinae,,3258693,,3258693
+B94:1:20,"Mesoneura Hartig, 1837","Hartig, 1837",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Mesoneura,,Tenthredinidae | Nematinae,,4404526,,4404526
+B94:1:21,"Pseudodineura Konow, 1885","Konow, 1885",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Pseudodineura,,Tenthredinidae | Nematinae,,4491715,,4491715
+B94:1:22,"Platycampus Schiodte, 1839","Schiodte, 1839",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Platycampus,,Tenthredinidae | Nematinae,,4407339,,4407339
+B94:1:23,"Anoplonyx Marlatt, 1896","Marlatt, 1896",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Anoplonyx,,Tenthredinidae | Nematinae,,9212447,,9212447
+B94:1:24,"Craesus Leach, 1817","Leach, 1817",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Craesus,,Tenthredinidae | Nematinae,,4405800,,4405800
+B94:1:25,"Stauronematus Benson, 1953","Benson, 1953",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Stauronematus,,Tenthredinidae | Nematinae,,4681453,,4681453
+B94:1:26,"Pristiphora Latreille, 1810","Latreille, 1810",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Pristiphora,,Tenthredinidae | Nematinae,6VXG,1249690,6VXG,1249690
+B94:1:27,"Gymnonychus Marlatt, 1896","Marlatt, 1896",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Gymnonychus,,Tenthredinidae | Nematinae,,4681480,,4681480
+B94:1:28,"Lygaeonematus Konow, 1890","Konow, 1890",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Lygaeonematus,,Tenthredinidae | Nematinae,,4571518,,4571518
+B94:1:29,"Lygaeophora Hellén, 1975","Hellén, 1975",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Lygaeophora,,Tenthredinidae | Nematinae,,5430746,,5430746
+B94:1:30,"Lygaeotus Hellén, 1975","Hellén, 1975",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Lygaeotus,,Tenthredinidae | Nematinae,,8417339,,1249690
+B94:1:31,"Micronematus Konow, 1890","Konow, 1890",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Micronematus,,Tenthredinidae | Nematinae,,4681526,,4681526
+B94:1:32,"Oligonematus Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Oligonematus,,Tenthredinidae | Nematinae,,4681534,,4681534
+B94:1:33,"Sharliphora Wong, 1969","Wong, 1969",,,,,genus,,B94:1,heterotypic synonym,B94:1:26,"Pristiphora Latreille, 1810",,,,,,,Tenthredinidae,Nematinae,Sharliphora,,Tenthredinidae | Nematinae,,4681497,,4681497
+B94:1:34,"Pontania Costa, 1859","Costa, 1859",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Pontania,,Tenthredinidae | Nematinae,63Q76,1249675,63Q76,1249675
+B94:1:35,"Phyllocolpa Benson, 1960","Benson, 1960",,,,,genus,,B94:1,heterotypic synonym,B94:1:34,"Pontania Costa, 1859",,,,,,,Tenthredinidae,Nematinae,Phyllocolpa,,Tenthredinidae | Nematinae,6PLN,1249688,6PLN,1249688
+B94:1:36,"Eupontania Zinovjev, 1985","Zinovjev, 1985",,,,,genus,,B94:1,heterotypic synonym,B94:1:34,"Pontania Costa, 1859",,,,,,,Tenthredinidae,Nematinae,Eupontania,,Tenthredinidae | Nematinae,,4681460,,4681460
+B94:1:37,"Euura Newman, 1837","Newman, 1837",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Euura,,Tenthredinidae | Nematinae,,9013381,,9013381
+B94:1:38,"Nematinus Rohwer, 1911","Rohwer, 1911",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Nematinus,,Tenthredinidae | Nematinae,,4406572,,4406572
+B94:1:39,"Amauronematus Konow, 1890","Konow, 1890",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Amauronematus,,Tenthredinidae | Nematinae,,4491521,,4491521
+B94:1:40,"Brachycoluma Strand, 1929","Strand, 1929",,,,,genus,,B94:1,heterotypic synonym,B94:1:39,"Amauronematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Brachycoluma,,Tenthredinidae | Nematinae,,4681525,,9013381
+B94:1:41,"Decanematus Malaise, 1932","Malaise, 1932",,,,,genus,,B94:1,heterotypic synonym,B94:1:39,"Amauronematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Decanematus,,Tenthredinidae | Nematinae,,4491546,,4491521
+B94:1:42,"Pontopristia Malaise, 1921","Malaise, 1921",,,,,genus,,B94:1,heterotypic synonym,B94:1:39,"Amauronematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Pontopristia,,Tenthredinidae | Nematinae,,4681540,,9013381
+B94:1:43,"Pachynematus Konow, 1890","Konow, 1890",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Pachynematus,,Tenthredinidae | Nematinae,6BW6,1249673,6BW6,1249673
+B94:1:44,"Epicenematus Lacourt, 1998","Lacourt, 1998",,,,,genus,,B94:1,heterotypic synonym,B94:1:43,"Pachynematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Epicenematus,,Tenthredinidae | Nematinae,,4681508,,9013381
+B94:1:45,"Pikonema Ross, 1937","Ross, 1937",,,,,genus,,B94:1,heterotypic synonym,B94:1:43,"Pachynematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Pikonema,,Tenthredinidae | Nematinae,6QDH,1249704,6QDH,1249704
+B94:1:46,"Larinematus Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:43,"Pachynematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Larinematus,,Tenthredinidae | Nematinae,,4681451,,4681451
+B94:1:47,"Polynematus Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:43,"Pachynematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Polynematus,,Tenthredinidae | Nematinae,,4681442,,4681442
+B94:1:48,"Bacconematus Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:43,"Pachynematus Konow, 1890",,,,,,,Tenthredinidae,Nematinae,Bacconematus,,Tenthredinidae | Nematinae,,4681499,,4681499
+B94:1:49,"Nematus Panzer, 1801","Panzer, 1801",,,,,genus,,B94:1,accepted,,,B94:1:17,Nematinae,,,,,Tenthredinidae,Nematinae,Nematus,,Tenthredinidae | Nematinae,5YHC,1249701,5YHC,1249701
+B94:1:50,"Hypolaepus Kirby, 1882","Kirby, 1882",,,,,genus,,B94:1,heterotypic synonym,B94:1:49,"Nematus Panzer, 1801",,,,,,,Tenthredinidae,Nematinae,Hypolaepus,,Tenthredinidae | Nematinae,,4681504,,4681504
+B94:1:51,"Pteronidea Rohwer, 1911","Rohwer, 1911",,,,,genus,,B94:1,heterotypic synonym,B94:1:49,"Nematus Panzer, 1801",,,,,,,Tenthredinidae,Nematinae,Pteronidea,,Tenthredinidae | Nematinae,,4572886,,1249701
+B94:1:52,"Kontuniemiana Lacourt, 1998","Lacourt, 1998",,,,,genus,,B94:1,heterotypic synonym,B94:1:49,"Nematus Panzer, 1801",,,,,,,Tenthredinidae,Nematinae,Kontuniemiana,,Tenthredinidae | Nematinae,,4681488,,9013381
+B94:1:53,Tenthredininae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Tenthredininae,,,Tenthredinidae,,,,
+B94:1:54,"Perineura Hartig, 1837","Hartig, 1837",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Perineura,,Tenthredinidae | Tenthredininae,,4490695,,4490695
+B94:1:55,"Pachyprotasis Hartig, 1837","Hartig, 1837",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Pachyprotasis,,Tenthredinidae | Tenthredininae,,4406964,,4406964
+B94:1:56,"Macrophya Dahlbom, 1835","Dahlbom, 1835",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Macrophya,,Tenthredinidae | Tenthredininae,9KVCB,8605818,9JBMK,8605818
+B94:1:57,"Macrophyopsis Enslin, 1913","Enslin, 1913",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Macrophyopsis,,Tenthredinidae | Tenthredininae,,4681475,,4681475
+B94:1:58,"Tenthredopsis Costa, 1859","Costa, 1859",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Tenthredopsis,,Tenthredinidae | Tenthredininae,,4404751,,4404751
+B94:1:59,"Elinora Benson, 1946","Benson, 1946",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Elinora,,Tenthredinidae | Tenthredininae,,4681505,,4681505
+B94:1:60,"Sciapteryx Stephens, 1835","Stephens, 1835",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Sciapteryx,,Tenthredinidae | Tenthredininae,,4404894,,4404894
+B94:1:61,"Aglaostigma Kirby, 1882","Kirby, 1882",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Aglaostigma,,Tenthredinidae | Tenthredininae,,4404527,,4404527
+B94:1:62,"Cephaledo Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Cephaledo,,Tenthredinidae | Tenthredininae,,4681483,,4681483
+B94:1:63,"Cuneala Zirngiebl, 1956","Zirngiebl, 1956",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Cuneala,,Tenthredinidae | Tenthredininae,,4675746,,4681505
+B94:1:64,"Tenthredo Linnaeus, 1758","Linnaeus, 1758",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Tenthredo,,Tenthredinidae | Tenthredininae,,7567423,,7567423
+B94:1:65,"Tenthredella Rohwer, 1910","Rohwer, 1910",,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Tenthredella,,Tenthredinidae | Tenthredininae,,4681570,,4681570
+B94:1:66,"Endolethryx Lacourt, 1997","Lacourt, 1997",,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Endolethryx,,Tenthredinidae | Tenthredininae,,,,
+B94:1:67,"Maculedo Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Maculedo,,Tenthredinidae | Tenthredininae,,4681565,,4681565
+B94:1:68,"Temuledo Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Temuledo,,Tenthredinidae | Tenthredininae,,4681462,,4681462
+B94:1:69,"Eurogaster Zimgiebl, 1953","Zimgiebl, 1953",,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Eurogaster,,Tenthredinidae | Tenthredininae,,4681548,,4681548
+B94:1:70,Olivacedo Zhelochovtsev. 1988,Zhelochovtsev. 1988,,,,,genus,,B94:1,heterotypic synonym,B94:1:64,"Tenthredo Linnaeus, 1758",,,,,,,Tenthredinidae,Tenthredininae,Olivacedo,,Tenthredinidae | Tenthredininae,,4681449,,4681449
+B94:1:71,"Rhogogaster Konow, 1884","Konow, 1884",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Rhogogaster,,Tenthredinidae | Tenthredininae,,4406669,,4406669
+B94:1:72,"Cytisogaster Lacourt, 1996","Lacourt, 1996",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Cytisogaster,,Tenthredinidae | Tenthredininae,,4681487,,4406669
+B94:1:73,"Zonuledo Zhelochovtsev, 1988","Zhelochovtsev, 1988",,,,,genus,,B94:1,accepted,,,B94:1:53,Tenthredininae,,,,,Tenthredinidae,Tenthredininae,Zonuledo,,Tenthredinidae | Tenthredininae,,4681510,,4681510
+B94:1:74,Sioblinae,,,,,,subfamily,,B94:1,accepted,,,B94:1:1,Tenthredinidae,,,,,Tenthredinidae,Sioblinae,,,Tenthredinidae,,,,
+B94:1:75,"Siobla Cammeron, 1877","Cammeron, 1877",,,,,genus,,B94:1,accepted,,,B94:1:74,Sioblinae,,,,,Tenthredinidae,Sioblinae,Siobla,,Tenthredinidae | Sioblinae,,4490351,,4490351

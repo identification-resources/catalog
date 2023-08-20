@@ -1,4 +1,4 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B213:3:1,Agriotypinae,,,,,,subfamily,,B213:3,accepted,,,,,,,,,,Agriotypinae,,,,,
-B213:3:2,Agriotypus Curtis,Curtis,,,,,genus,,B213:3,accepted,,,B213:3:1,Agriotypinae,,,,,,Agriotypinae,Agriotypus,,Agriotypinae,QYZ,1295985
-B213:3:3,Agriotypus armatus Curtis,Curtis,Agriotypus,,armatus,,species,,B213:3,accepted,,,B213:3:2,Agriotypus Curtis,,,,,,Agriotypinae,Agriotypus,,Agriotypinae | Agriotypus,B7W6,1296000
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B213:3:1,Agriotypinae,,,,,,subfamily,,B213:3,accepted,,,,,,,,,,Agriotypinae,,,,,,,
+B213:3:2,Agriotypus Curtis,Curtis,,,,,genus,,B213:3,accepted,,,B213:3:1,Agriotypinae,,,,,,Agriotypinae,Agriotypus,,Agriotypinae,QYZ,1295985,QYZ,1295985
+B213:3:3,Agriotypus armatus Curtis,Curtis,Agriotypus,,armatus,,species,,B213:3,accepted,,,B213:3:2,Agriotypus Curtis,,,,,,Agriotypinae,Agriotypus,,Agriotypinae | Agriotypus,B7W6,1296000,B7W6,1296000

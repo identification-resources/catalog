@@ -1,50 +1,50 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B56:1:1,Phthiria,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Phthiria,,,6PDW,1669587
-B56:1:2,"Phthiria canescens Loew, 1846","Loew, 1846",Phthiria,,canescens,,species,,B56:1,accepted,,,B56:1:1,Phthiria,,,,,,,Phthiria,,Phthiria,8DC29,4516445
-B56:1:3,"Phthiria minuta Fabricius, 1805","Fabricius, 1805",Phthiria,,minuta,,species,,B56:1,accepted,,,B56:1:1,Phthiria,,,,,,,Phthiria,,Phthiria,6VDRC,1669638
-B56:1:4,"Phthiria pulicaria (Mikan, 1796)","(Mikan, 1796)",Phthiria,,pulicaria,,species,,B56:1,accepted,,,B56:1:1,Phthiria,,,,,,,Phthiria,,Phthiria,6VDRB,4516441
-B56:1:5,Conophorus,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Conophorus,,,8HDY7,1242839
-B56:1:6,Conophorus virescens,,Conophorus,,virescens,,species,,B56:1,accepted,,,B56:1:5,Conophorus,,,,,,,Conophorus,,Conophorus,XRMQ,5093175
-B56:1:7,Systoechus,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Systoechus,,,7RNJ,1672501
-B56:1:8,Systoechus ctenophorus,,Systoechus,,ctenophorus,,species,,B56:1,accepted,,,B56:1:7,Systoechus,,,,,,,Systoechus,,Systoechus,,6098821
-B56:1:9,Systoechus sulphureus,,Systoechus,,sulphureus,,species,,B56:1,synonym,B56:1:8,Systoechus ctenophorus,,,,,,,,,Systoechus,,Systoechus,,6098822
-B56:1:10,Bombylius,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Bombylius,,,3BC8,1500120
-B56:1:11,"Bombylius discolor Mikan, 1796","Mikan, 1796",Bombylius,,discolor,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B7ZD,1670281
-B56:1:12,"Bombylius medius Linnaeus, 1758","Linnaeus, 1758",Bombylius,,medius,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B832,1670279
-B56:1:13,"Bombylius major Linnaeus, 1758","Linnaeus, 1758",Bombylius,,major,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,MGCX,1670212
-B56:1:14,Bombylius fimbriatus Meigen 1820,Meigen 1820,Bombylius,,fimbriatus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B899,4788018
-B56:1:15,"Bombylius ater Scopoli, 1763","Scopoli, 1763",Bombylius,,ater,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B87M,5093929
-B56:1:16,Bombylius venosus Mikan 1796,Mikan 1796,Bombylius,,venosus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B85Z,1670312
-B56:1:17,"Bombylius canescens Mikan, 1796","Mikan, 1796",Bombylius,,canescens,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B7YR,1670622
-B56:1:18,Bombylius cinerascens Mikan 1796,Mikan 1796,Bombylius,,cinerascens,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B7YT,1670575
-B56:1:19,"Bombylius vulpinus Wiedemann, 1820","Wiedemann, 1820",Bombylius,,vulpinus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,882KP,1670614
-B56:1:20,"Bombylius minor Linnaeus, 1758","Linnaeus, 1758",Bombylius,,minor,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,MGDS,1670250
-B56:1:21,Glabellula,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Glabellula,,,4NPJ,5076520
-B56:1:22,Glabellula arctica,,Glabellula,,arctica,,species,,B56:1,accepted,,,B56:1:21,Glabellula,,,,,,,Glabellula,,Glabellula,3G47K,5076531
-B56:1:23,Lomatia,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Lomatia,,,5G9T,1667951
-B56:1:24,Lomatia lateralis,,Lomatia,,lateralis,,species,,B56:1,accepted,,,B56:1:23,Lomatia,,,,,,,Lomatia,,Lomatia,3VWXC,5093078
-B56:1:25,Villa,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Villa,,,86SR,1671382
-B56:1:26,"Villa panisca (Rossi, 1790)","(Rossi, 1790)",Villa,,panisca,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FRYL,1671576
-B56:1:27,"Villa fasciata (Meigen, 1804)","(Meigen, 1804)",Villa,,fasciata,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FRWH,1671663
-B56:1:28,"Villa occulta (Wiedemann in Meigen, 1820)","(Wiedemann in Meigen, 1820)",Villa,,occulta,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FRYG,1671802
-B56:1:29,"Villa halteralis (Kowarz, 1883)","(Kowarz, 1883)",Villa,,halteralis,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FRZP,1671755
-B56:1:30,"Villa hottentotta (Linneus, 1758)","(Linneus, 1758)",Villa,,hottentotta,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7G3ZS,1671676
-B56:1:31,"Villa modesta (Meigen, 1820)","(Meigen, 1820)",Villa,,modesta,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FS9Z,1671632
-B56:1:32,"Villa cingulata (Meigen, 1804)","(Meigen, 1804)",Villa,,cingulata,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7G3WN,1671671
-B56:1:33,"Villa longicornis Lyneborg, 1965","Lyneborg, 1965",Villa,,longicornis,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FRXW,1671776
-B56:1:34,Exoprosopa,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Exoprosopa,,,4HZ8,1671903
-B56:1:35,"Exoprosopa capucina (Fabricius, 1781)","(Fabricius, 1781)",Exoprosopa,,capucina,,species,,B56:1,accepted,,,B56:1:34,Exoprosopa,,,,,,,Exoprosopa,,Exoprosopa,3DPC8,1672348
-B56:1:36,"Exoprosopa jacchus (Fabriacius, 1805)","(Fabriacius, 1805)",Exoprosopa,,jacchus,,species,,B56:1,accepted,,,B56:1:34,Exoprosopa,,,,,,,Exoprosopa,,Exoprosopa,3DPG8,1671925
-B56:1:37,"Exoprosopa cleomene Egger, 1859","Egger, 1859",Exoprosopa,,cleomene,,species,,B56:1,accepted,,,B56:1:34,Exoprosopa,,,,,,,Exoprosopa,,Exoprosopa,3DPCL,1671961
-B56:1:38,Anthrax,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Anthrax,,,62DDB,1501441
-B56:1:39,"Anthrax anthrax (Schrank, 1781)","(Schrank, 1781)",Anthrax,,anthrax,,species,,B56:1,accepted,,,B56:1:38,Anthrax,,,,,,,Anthrax,,Anthrax,67GVR,1666756
-B56:1:40,"Anthrax varius (Fabricius, 1794)","(Fabricius, 1794)",Anthrax,,varius,,species,,B56:1,accepted,,,B56:1:38,Anthrax,,,,,,,Anthrax,,Anthrax,5VGDX,1667105
-B56:1:41,"Anthrax trifasciatus Meigen, 1804","Meigen, 1804",Anthrax,,trifasciatus,,species,,B56:1,accepted,,,B56:1:38,Anthrax,,,,,,,Anthrax,,Anthrax,67GCB,1667249
-B56:1:42,Exhyalanthrax,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Exhyalanthrax,,,62SXY,1670967
-B56:1:43,"Exhyalanthrax afer (Fabricius, 1794)","(Fabricius, 1794)",Exhyalanthrax,,afer,,species,,B56:1,accepted,,,B56:1:42,Exhyalanthrax,,,,,,,Exhyalanthrax,,Exhyalanthrax,3DKXP,1670994
-B56:1:44,Thyridanthrax,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Thyridanthrax,,,7WL5,1669167
-B56:1:45,Thyridanthrax fenestratus,,Thyridanthrax,,fenestratus,,species,,B56:1,accepted,,,B56:1:44,Thyridanthrax,,,,,,,Thyridanthrax,,Thyridanthrax,56SGL,1669205
-B56:1:46,Hemipenthes,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Hemipenthes,,,637JS,1669417
-B56:1:47,Hemipenthes morio,,Hemipenthes,,morio,,species,,B56:1,accepted,,,B56:1:46,Hemipenthes,,,,,,,Hemipenthes,,Hemipenthes,3KRB4,1669519
-B56:1:48,Hemipenthes maura,,Hemipenthes,,maura,,species,,B56:1,accepted,,,B56:1:46,Hemipenthes,,,,,,,Hemipenthes,,Hemipenthes,6LP9R,1669425
-B56:1:49,Hemipenthes velutina,,Hemipenthes,,velutina,,species,,B56:1,accepted,,,B56:1:46,Hemipenthes,,,,,,,Hemipenthes,,Hemipenthes,3KRBW,1669479
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B56:1:1,Phthiria,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Phthiria,,,9JH6S,1669587,9JH6S,1669587
+B56:1:2,"Phthiria canescens Loew, 1846","Loew, 1846",Phthiria,,canescens,,species,,B56:1,accepted,,,B56:1:1,Phthiria,,,,,,,Phthiria,,Phthiria,8DC29,4516445,8DC29,4516445
+B56:1:3,"Phthiria minuta Fabricius, 1805","Fabricius, 1805",Phthiria,,minuta,,species,,B56:1,accepted,,,B56:1:1,Phthiria,,,,,,,Phthiria,,Phthiria,6VDRC,1669638,6VDRC,1669638
+B56:1:4,"Phthiria pulicaria (Mikan, 1796)","(Mikan, 1796)",Phthiria,,pulicaria,,species,,B56:1,accepted,,,B56:1:1,Phthiria,,,,,,,Phthiria,,Phthiria,6VDRB,4516441,6VDRB,4516441
+B56:1:5,Conophorus,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Conophorus,,,8HDY7,1242839,8HDY7,1242839
+B56:1:6,Conophorus virescens,,Conophorus,,virescens,,species,,B56:1,accepted,,,B56:1:5,Conophorus,,,,,,,Conophorus,,Conophorus,XRMQ,5093175,XRMQ,5093175
+B56:1:7,Systoechus,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Systoechus,,,7RNJ,1672501,7RNJ,1672501
+B56:1:8,Systoechus ctenophorus,,Systoechus,,ctenophorus,,species,,B56:1,accepted,,,B56:1:7,Systoechus,,,,,,,Systoechus,,Systoechus,,6098821,,1672547
+B56:1:9,Systoechus sulphureus,,Systoechus,,sulphureus,,species,,B56:1,synonym,B56:1:8,Systoechus ctenophorus,,,,,,,,,Systoechus,,Systoechus,,6098822,,1672547
+B56:1:10,Bombylius,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Bombylius,,,9JGH3,1500120,9L9PB,1500120
+B56:1:11,"Bombylius discolor Mikan, 1796","Mikan, 1796",Bombylius,,discolor,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B7ZD,1670281,8B7ZD,1670281
+B56:1:12,"Bombylius medius Linnaeus, 1758","Linnaeus, 1758",Bombylius,,medius,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,MGD9,1670279,MGD9,1670279
+B56:1:13,"Bombylius major Linnaeus, 1758","Linnaeus, 1758",Bombylius,,major,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B82T,1670212,8B82T,1670212
+B56:1:14,Bombylius fimbriatus Meigen 1820,Meigen 1820,Bombylius,,fimbriatus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B899,12042047,8B7ZV,5093846
+B56:1:15,"Bombylius ater Scopoli, 1763","Scopoli, 1763",Bombylius,,ater,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B87M,5093929,MG22,1670940
+B56:1:16,Bombylius venosus Mikan 1796,Mikan 1796,Bombylius,,venosus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B85Z,1670312,8B85Z,1670312
+B56:1:17,"Bombylius canescens Mikan, 1796","Mikan, 1796",Bombylius,,canescens,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B7YR,1670622,8B7YR,1670622
+B56:1:18,Bombylius cinerascens Mikan 1796,Mikan 1796,Bombylius,,cinerascens,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,8B7YT,1670575,8B7YT,1670575
+B56:1:19,"Bombylius vulpinus Wiedemann, 1820","Wiedemann, 1820",Bombylius,,vulpinus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,,1670614,,1670614
+B56:1:20,"Bombylius minor Linnaeus, 1758","Linnaeus, 1758",Bombylius,,minor,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,9H82C,1670250,9H82C,1670250
+B56:1:21,Glabellula,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Glabellula,,,9WL69,5076520,9WL69,5076520
+B56:1:22,Glabellula arctica,,Glabellula,,arctica,,species,,B56:1,accepted,,,B56:1:21,Glabellula,,,,,,,Glabellula,,Glabellula,3G47K,5076531,3G47K,5076531
+B56:1:23,Lomatia,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Lomatia,,,5G9T,1667951,5G9T,1667951
+B56:1:24,Lomatia lateralis,,Lomatia,,lateralis,,species,,B56:1,accepted,,,B56:1:23,Lomatia,,,,,,,Lomatia,,Lomatia,3VWXC,5093078,3VWXC,5093078
+B56:1:25,Villa,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Villa,,,86SR,1671382,86SR,1671382
+B56:1:26,"Villa panisca (Rossi, 1790)","(Rossi, 1790)",Villa,,panisca,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FRYL,1671576,7FRYL,1671576
+B56:1:27,"Villa fasciata (Meigen, 1804)","(Meigen, 1804)",Villa,,fasciata,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FRWH,1671663,7FRWH,1671663
+B56:1:28,"Villa occulta (Wiedemann in Meigen, 1820)","(Wiedemann in Meigen, 1820)",Villa,,occulta,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FRYG,1671802,7FRYG,1671802
+B56:1:29,"Villa halteralis (Kowarz, 1883)","(Kowarz, 1883)",Villa,,halteralis,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FRZP,1671755,7FRZP,1671755
+B56:1:30,"Villa hottentotta (Linneus, 1758)","(Linneus, 1758)",Villa,,hottentotta,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7G3ZS,1671676,7G3ZS,1671676
+B56:1:31,"Villa modesta (Meigen, 1820)","(Meigen, 1820)",Villa,,modesta,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FS9Z,1671632,7FS9Z,1671632
+B56:1:32,"Villa cingulata (Meigen, 1804)","(Meigen, 1804)",Villa,,cingulata,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7G3WN,1671671,7G3WN,1671671
+B56:1:33,"Villa longicornis Lyneborg, 1965","Lyneborg, 1965",Villa,,longicornis,,species,,B56:1,accepted,,,B56:1:25,Villa,,,,,,,Villa,,Villa,7FRXW,1671776,7FRXW,1671776
+B56:1:34,Exoprosopa,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Exoprosopa,,,4HZ8,1671903,4HZ8,1671903
+B56:1:35,"Exoprosopa capucina (Fabricius, 1781)","(Fabricius, 1781)",Exoprosopa,,capucina,,species,,B56:1,accepted,,,B56:1:34,Exoprosopa,,,,,,,Exoprosopa,,Exoprosopa,3DPC8,1672348,3DPC8,1672348
+B56:1:36,"Exoprosopa jacchus (Fabriacius, 1805)","(Fabriacius, 1805)",Exoprosopa,,jacchus,,species,,B56:1,accepted,,,B56:1:34,Exoprosopa,,,,,,,Exoprosopa,,Exoprosopa,3DPG8,1671925,3DPG8,1671925
+B56:1:37,"Exoprosopa cleomene Egger, 1859","Egger, 1859",Exoprosopa,,cleomene,,species,,B56:1,accepted,,,B56:1:34,Exoprosopa,,,,,,,Exoprosopa,,Exoprosopa,3DPCL,1671961,3DPCL,1671961
+B56:1:38,Anthrax,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Anthrax,,,9XBTM,1501441,9XBTM,1501441
+B56:1:39,"Anthrax anthrax (Schrank, 1781)","(Schrank, 1781)",Anthrax,,anthrax,,species,,B56:1,accepted,,,B56:1:38,Anthrax,,,,,,,Anthrax,,Anthrax,67GVR,1666756,67GVR,1666756
+B56:1:40,"Anthrax varius (Fabricius, 1794)","(Fabricius, 1794)",Anthrax,,varius,,species,,B56:1,accepted,,,B56:1:38,Anthrax,,,,,,,Anthrax,,Anthrax,5VGDX,1667105,5VGDX,1667105
+B56:1:41,"Anthrax trifasciatus Meigen, 1804","Meigen, 1804",Anthrax,,trifasciatus,,species,,B56:1,accepted,,,B56:1:38,Anthrax,,,,,,,Anthrax,,Anthrax,67GCB,1667249,67GCB,1667249
+B56:1:42,Exhyalanthrax,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Exhyalanthrax,,,62SXY,1670967,62SXY,1670967
+B56:1:43,"Exhyalanthrax afer (Fabricius, 1794)","(Fabricius, 1794)",Exhyalanthrax,,afer,,species,,B56:1,accepted,,,B56:1:42,Exhyalanthrax,,,,,,,Exhyalanthrax,,Exhyalanthrax,3DKXP,1670994,3DKXP,1670994
+B56:1:44,Thyridanthrax,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Thyridanthrax,,,7WL5,1669167,7WL5,1669167
+B56:1:45,Thyridanthrax fenestratus,,Thyridanthrax,,fenestratus,,species,,B56:1,accepted,,,B56:1:44,Thyridanthrax,,,,,,,Thyridanthrax,,Thyridanthrax,56SGL,1669205,56SGL,1669205
+B56:1:46,Hemipenthes,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Hemipenthes,,,637JS,1669417,637JS,1669417
+B56:1:47,Hemipenthes morio,,Hemipenthes,,morio,,species,,B56:1,accepted,,,B56:1:46,Hemipenthes,,,,,,,Hemipenthes,,Hemipenthes,3KRB4,1669519,3KRB4,1669519
+B56:1:48,Hemipenthes maura,,Hemipenthes,,maura,,species,,B56:1,accepted,,,B56:1:46,Hemipenthes,,,,,,,Hemipenthes,,Hemipenthes,6LP9R,1669425,6LP9R,1669425
+B56:1:49,Hemipenthes velutina,,Hemipenthes,,velutina,,species,,B56:1,accepted,,,B56:1:46,Hemipenthes,,,,,,,Hemipenthes,,Hemipenthes,3KRBW,1669479,3KRBW,1669479

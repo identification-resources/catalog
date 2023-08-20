@@ -1,38 +1,38 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B989:1:1,"Hylaeus Fabricius, 1793","Fabricius, 1793",,,,,genus,,B989:1,accepted,,,,,,,,,,,Hylaeus,,,4ZZ9,1349360
-B989:1:2,"Abrupta Méhelÿ, 1935","Méhelÿ, 1935",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Abrupta,Hylaeus,,
-B989:1:3,"Hylaeus cornutus Curtis, 1831","Curtis, 1831",Hylaeus,,cornutus,,species,,B989:1,accepted,,,B989:1:2,"Abrupta Méhelÿ, 1935",,,,,,,Hylaeus,Abrupta,Hylaeus | Abrupta,3NDS5,1349619
-B989:1:4,"Koptogaster Alfken, 1912","Alfken, 1912",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Koptogaster,Hylaeus,,
-B989:1:5,"Hylaeus punctulatissimus Smith, 1842","Smith, 1842",Hylaeus,,punctulatissimus,,species,,B989:1,accepted,,,B989:1:4,"Koptogaster Alfken, 1912",,,,,,,Hylaeus,Koptogaster,Hylaeus | Koptogaster,6MNCQ,1349475
-B989:1:6,"Hylaeus bifasciatus (Jurine, 1807)","(Jurine, 1807)",Hylaeus,,bifasciatus,,species,,B989:1,accepted,,,B989:1:4,"Koptogaster Alfken, 1912",,,,,,,Hylaeus,Koptogaster,Hylaeus | Koptogaster,3NDQ4,1349878
-B989:1:7,"Navicularia Méhelÿ, 1935","Méhelÿ, 1935",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Navicularia,Hylaeus,,
-B989:1:8,"Hylaeus variegatus (Fabricius, 1798)","(Fabricius, 1798)",Hylaeus,,variegatus,,species,,B989:1,accepted,,,B989:1:7,"Navicularia Méhelÿ, 1935",,,,,,,Hylaeus,Navicularia,Hylaeus | Navicularia,6MNKC,1349484
-B989:1:9,"Prosopis Fabricius, 1804","Fabricius, 1804",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Prosopis,Hylaeus,,
-B989:1:10,"Hylaeus bipunctatus (Fabricius, 1798)","(Fabricius, 1798)",Hylaeus,,bipunctatus,,species,,B989:1,accepted,,,B989:1:9,"Prosopis Fabricius, 1804",,,,,,,Hylaeus,Prosopis,Hylaeus | Prosopis,3NDQ7,1349815
-B989:1:11,"Hylaeus gibbus Saunders, 1850","Saunders, 1850",Hylaeus,,gibbus,,species,,B989:1,accepted,,,B989:1:9,"Prosopis Fabricius, 1804",,,,,,,Hylaeus,Prosopis,Hylaeus | Prosopis,3NDVF,1349447
-B989:1:12,"Hylaeus confusus Nylander, 1852","Nylander, 1852",Hylaeus,,confusus,,species,,B989:1,accepted,,,B989:1:9,"Prosopis Fabricius, 1804",,,,,,,Hylaeus,Prosopis,Hylaeus | Prosopis,3NDRT,1349755
-B989:1:13,"Dentigera Méhelÿ, 1935","Méhelÿ, 1935",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Dentigera,Hylaeus,,
-B989:1:14,"Hylaeus brevicornis Nylander, 1852","Nylander, 1852",Hylaeus,,brevicornis,,species,,B989:1,accepted,,,B989:1:13,"Dentigera Méhelÿ, 1935",,,,,,,Hylaeus,Dentigera,Hylaeus | Dentigera,3NDQP,1349560
-B989:1:15,"Hylaeus conformis Förster, 1871","Förster, 1871",Hylaeus,,conformis,,species,,B989:1,accepted,,,B989:1:13,"Dentigera Méhelÿ, 1935",,,,,,,Hylaeus,Dentigera,Hylaeus | Dentigera,3NDRS,1349768
-B989:1:16,"Nesoprosopis Perkins, 1899","Perkins, 1899",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Nesoprosopis,Hylaeus,,
-B989:1:17,"Hylaeus pectoralis Förster, 1871","Förster, 1871",Hylaeus,,pectoralis,,species,,B989:1,accepted,,,B989:1:16,"Nesoprosopis Perkins, 1899",,,,,,,Hylaeus,Nesoprosopis,Hylaeus | Nesoprosopis,6MLNR,1349550
-B989:1:18,"Hylaeus styriacus Förster, 1871","Förster, 1871",Hylaeus,,styriacus,,species,,B989:1,accepted,,,B989:1:16,"Nesoprosopis Perkins, 1899",,,,,,,Hylaeus,Nesoprosopis,Hylaeus | Nesoprosopis,6MNGP,1349544
-B989:1:19,"Paraprosopis Popov, 1939","Popov, 1939",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Paraprosopis,Hylaeus,,
-B989:1:20,"Hylaeus pictipes Nylander, 1852","Nylander, 1852",Hylaeus,,pictipes,,species,,B989:1,accepted,,,B989:1:19,"Paraprosopis Popov, 1939",,,,,,,Hylaeus,Paraprosopis,Hylaeus | Paraprosopis,6MLP4,1349889
-B989:1:21,"Hylaeus clypearis (Schenck, 1853)","(Schenck, 1853)",Hylaeus,,clypearis,,species,,B989:1,accepted,,,B989:1:19,"Paraprosopis Popov, 1939",,,,,,,Hylaeus,Paraprosopis,Hylaeus | Paraprosopis,3NDRK,1349838
-B989:1:22,"Hylaeus minutus Fabricius, 1798","Fabricius, 1798",Hylaeus,,minutus,,species,,B989:1,accepted,,,B989:1:19,"Paraprosopis Popov, 1939",,,,,,,Hylaeus,Paraprosopis,Hylaeus | Paraprosopis,6MLKH,1354390
-B989:1:23,"Hylaeus Fabricius,","Fabricius,",,,,,subgenus,173.,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Hylaeus,Hylaeus,4ZZ9,
-B989:1:24,"Hylaeus bisinuatus Förster, 1871","Förster, 1871",Hylaeus,,bisinuatus,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,3NDQ9,1349574
-B989:1:25,"Hylaeus communis Nylander, 1852","Nylander, 1852",Hylaeus,,communis,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,3NDRP,1349795
-B989:1:26,"Hylaeus gracilicornis (Morawit, 1867)","(Morawit, 1867)",Hylaeus,,gracilicornis,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,3NDVN,1350073
-B989:1:27,"Hylaeus difformis (Eversmann, 1852)","(Eversmann, 1852)",Hylaeus,,difformis,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,3NDT6,1349802
-B989:1:28,"Hylaeus angustatus (Schenck, 1859)","(Schenck, 1859)",Hylaeus,,angustatus,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,3NDNP,1349822
-B989:1:29,"Hylaeus nigritus (Fabricius, 1798)","(Fabricius, 1798)",Hylaeus,,nigritus,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,6MLKW,1349433
-B989:1:30,"Lambdopsis Méhelÿ, 1935","Méhelÿ, 1935",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Lambdopsis,Hylaeus,,
-B989:1:31,"Hylaeus annularis (Kirby, 1802)","(Kirby, 1802)",Hylaeus,,annularis,,species,,B989:1,accepted,,,B989:1:30,"Lambdopsis Méhelÿ, 1935",,,,,,,Hylaeus,Lambdopsis,Hylaeus | Lambdopsis,3NDNT,1349884
-B989:1:32,"Hylaeus euryscapus spilotus Förster, 1871","spilotus Förster, 1871",Hylaeus,,euryscapus,,species,,B989:1,accepted,,,B989:1:30,"Lambdopsis Méhelÿ, 1935",,,,,,,Hylaeus,Lambdopsis,Hylaeus | Lambdopsis,6MNGT,1349664
-B989:1:33,"Hylaeus rinki (Gorski, 1852)","(Gorski, 1852)",Hylaeus,,rinki,,species,,B989:1,accepted,,,B989:1:30,"Lambdopsis Méhelÿ, 1935",,,,,,,Hylaeus,Lambdopsis,Hylaeus | Lambdopsis,6MNDT,1349955
-B989:1:34,"Hylaeus pfankuchi (Alfken, 1919)","(Alfken, 1919)",Hylaeus,,pfankuchi,,species,,B989:1,accepted,,,B989:1:30,"Lambdopsis Méhelÿ, 1935",,,,,,,Hylaeus,Lambdopsis,Hylaeus | Lambdopsis,6MLP8,1349948
-B989:1:35,"Spatulariella Popov, 1939","Popov, 1939",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Spatulariella,Hylaeus,,
-B989:1:36,"Hylaeus hyalinatus Smith, 1842","Smith, 1842",Hylaeus,,hyalinatus,,species,,B989:1,accepted,,,B989:1:35,"Spatulariella Popov, 1939",,,,,,,Hylaeus,Spatulariella,Hylaeus | Spatulariella,3NDWT,1349638
-B989:1:37,"Hylaeus punctatus (Brullé, 1832)","(Brullé, 1832)",Hylaeus,,punctatus,,species,,B989:1,accepted,,,B989:1:35,"Spatulariella Popov, 1939",,,,,,,Hylaeus,Spatulariella,Hylaeus | Spatulariella,6MNCV,1350002
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B989:1:1,"Hylaeus Fabricius, 1793","Fabricius, 1793",,,,,genus,,B989:1,accepted,,,,,,,,,,,Hylaeus,,,4ZZ9,1349360,4ZZ9,1349360
+B989:1:2,"Abrupta Méhelÿ, 1935","Méhelÿ, 1935",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Abrupta,Hylaeus,,,,
+B989:1:3,"Hylaeus cornutus Curtis, 1831","Curtis, 1831",Hylaeus,,cornutus,,species,,B989:1,accepted,,,B989:1:2,"Abrupta Méhelÿ, 1935",,,,,,,Hylaeus,Abrupta,Hylaeus | Abrupta,3NDS5,1349619,3NDS5,1349619
+B989:1:4,"Koptogaster Alfken, 1912","Alfken, 1912",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Koptogaster,Hylaeus,,,,
+B989:1:5,"Hylaeus punctulatissimus Smith, 1842","Smith, 1842",Hylaeus,,punctulatissimus,,species,,B989:1,accepted,,,B989:1:4,"Koptogaster Alfken, 1912",,,,,,,Hylaeus,Koptogaster,Hylaeus | Koptogaster,6MNCQ,1349475,6MNCQ,1349475
+B989:1:6,"Hylaeus bifasciatus (Jurine, 1807)","(Jurine, 1807)",Hylaeus,,bifasciatus,,species,,B989:1,accepted,,,B989:1:4,"Koptogaster Alfken, 1912",,,,,,,Hylaeus,Koptogaster,Hylaeus | Koptogaster,3NDQ4,1349878,3NDQ4,1349878
+B989:1:7,"Navicularia Méhelÿ, 1935","Méhelÿ, 1935",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Navicularia,Hylaeus,,,,
+B989:1:8,"Hylaeus variegatus (Fabricius, 1798)","(Fabricius, 1798)",Hylaeus,,variegatus,,species,,B989:1,accepted,,,B989:1:7,"Navicularia Méhelÿ, 1935",,,,,,,Hylaeus,Navicularia,Hylaeus | Navicularia,6MNKC,1349484,6MNKC,1349484
+B989:1:9,"Prosopis Fabricius, 1804","Fabricius, 1804",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Prosopis,Hylaeus,,,,
+B989:1:10,"Hylaeus bipunctatus (Fabricius, 1798)","(Fabricius, 1798)",Hylaeus,,bipunctatus,,species,,B989:1,accepted,,,B989:1:9,"Prosopis Fabricius, 1804",,,,,,,Hylaeus,Prosopis,Hylaeus | Prosopis,3NDQ7,1349815,3NDQ7,1349815
+B989:1:11,"Hylaeus gibbus Saunders, 1850","Saunders, 1850",Hylaeus,,gibbus,,species,,B989:1,accepted,,,B989:1:9,"Prosopis Fabricius, 1804",,,,,,,Hylaeus,Prosopis,Hylaeus | Prosopis,3NDVF,1349447,3NDVF,1349447
+B989:1:12,"Hylaeus confusus Nylander, 1852","Nylander, 1852",Hylaeus,,confusus,,species,,B989:1,accepted,,,B989:1:9,"Prosopis Fabricius, 1804",,,,,,,Hylaeus,Prosopis,Hylaeus | Prosopis,3NDRT,1349755,3NDRT,1349755
+B989:1:13,"Dentigera Méhelÿ, 1935","Méhelÿ, 1935",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Dentigera,Hylaeus,,,,
+B989:1:14,"Hylaeus brevicornis Nylander, 1852","Nylander, 1852",Hylaeus,,brevicornis,,species,,B989:1,accepted,,,B989:1:13,"Dentigera Méhelÿ, 1935",,,,,,,Hylaeus,Dentigera,Hylaeus | Dentigera,3NDQP,1349560,3NDQP,1349560
+B989:1:15,"Hylaeus conformis Förster, 1871","Förster, 1871",Hylaeus,,conformis,,species,,B989:1,accepted,,,B989:1:13,"Dentigera Méhelÿ, 1935",,,,,,,Hylaeus,Dentigera,Hylaeus | Dentigera,3NDRS,1349768,3NDRS,1349768
+B989:1:16,"Nesoprosopis Perkins, 1899","Perkins, 1899",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Nesoprosopis,Hylaeus,,,,
+B989:1:17,"Hylaeus pectoralis Förster, 1871","Förster, 1871",Hylaeus,,pectoralis,,species,,B989:1,accepted,,,B989:1:16,"Nesoprosopis Perkins, 1899",,,,,,,Hylaeus,Nesoprosopis,Hylaeus | Nesoprosopis,6MLNR,1349550,6MLNR,1349550
+B989:1:18,"Hylaeus styriacus Förster, 1871","Förster, 1871",Hylaeus,,styriacus,,species,,B989:1,accepted,,,B989:1:16,"Nesoprosopis Perkins, 1899",,,,,,,Hylaeus,Nesoprosopis,Hylaeus | Nesoprosopis,6MNGP,1349544,6MNGP,1349544
+B989:1:19,"Paraprosopis Popov, 1939","Popov, 1939",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Paraprosopis,Hylaeus,,,,
+B989:1:20,"Hylaeus pictipes Nylander, 1852","Nylander, 1852",Hylaeus,,pictipes,,species,,B989:1,accepted,,,B989:1:19,"Paraprosopis Popov, 1939",,,,,,,Hylaeus,Paraprosopis,Hylaeus | Paraprosopis,6MLP4,1349889,6MLP4,1349889
+B989:1:21,"Hylaeus clypearis (Schenck, 1853)","(Schenck, 1853)",Hylaeus,,clypearis,,species,,B989:1,accepted,,,B989:1:19,"Paraprosopis Popov, 1939",,,,,,,Hylaeus,Paraprosopis,Hylaeus | Paraprosopis,3NDRK,1349838,3NDRK,1349838
+B989:1:22,"Hylaeus minutus Fabricius, 1798","Fabricius, 1798",Hylaeus,,minutus,,species,,B989:1,accepted,,,B989:1:19,"Paraprosopis Popov, 1939",,,,,,,Hylaeus,Paraprosopis,Hylaeus | Paraprosopis,6MLKH,1354390,6NZD5,1354379
+B989:1:23,"Hylaeus Fabricius,","Fabricius,",,,,,subgenus,173.,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Hylaeus,Hylaeus,4ZZ9,,4ZZ9,
+B989:1:24,"Hylaeus bisinuatus Förster, 1871","Förster, 1871",Hylaeus,,bisinuatus,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,3NDQ9,1349574,3NDYM,1349573
+B989:1:25,"Hylaeus communis Nylander, 1852","Nylander, 1852",Hylaeus,,communis,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,3NDRP,1349795,3NDRP,1349795
+B989:1:26,"Hylaeus gracilicornis (Morawit, 1867)","(Morawit, 1867)",Hylaeus,,gracilicornis,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,3NDVN,1350073,3NDVN,1350073
+B989:1:27,"Hylaeus difformis (Eversmann, 1852)","(Eversmann, 1852)",Hylaeus,,difformis,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,3NDT6,1349802,3NDT6,1349802
+B989:1:28,"Hylaeus angustatus (Schenck, 1859)","(Schenck, 1859)",Hylaeus,,angustatus,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,3NDNP,1349822,3NDNP,1349822
+B989:1:29,"Hylaeus nigritus (Fabricius, 1798)","(Fabricius, 1798)",Hylaeus,,nigritus,,species,,B989:1,accepted,,,B989:1:23,"Hylaeus Fabricius,",,,,,,,Hylaeus,Hylaeus,Hylaeus | Hylaeus,6MLKW,1349433,6MLKW,1349433
+B989:1:30,"Lambdopsis Méhelÿ, 1935","Méhelÿ, 1935",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Lambdopsis,Hylaeus,,,,
+B989:1:31,"Hylaeus annularis (Kirby, 1802)","(Kirby, 1802)",Hylaeus,,annularis,,species,,B989:1,accepted,,,B989:1:30,"Lambdopsis Méhelÿ, 1935",,,,,,,Hylaeus,Lambdopsis,Hylaeus | Lambdopsis,3NDNT,1349884,3NDNT,1349884
+B989:1:32,"Hylaeus euryscapus spilotus Förster, 1871","spilotus Förster, 1871",Hylaeus,,euryscapus,,species,,B989:1,accepted,,,B989:1:30,"Lambdopsis Méhelÿ, 1935",,,,,,,Hylaeus,Lambdopsis,Hylaeus | Lambdopsis,,,,
+B989:1:33,"Hylaeus rinki (Gorski, 1852)","(Gorski, 1852)",Hylaeus,,rinki,,species,,B989:1,accepted,,,B989:1:30,"Lambdopsis Méhelÿ, 1935",,,,,,,Hylaeus,Lambdopsis,Hylaeus | Lambdopsis,6MNDT,1349955,6MNDT,1349955
+B989:1:34,"Hylaeus pfankuchi (Alfken, 1919)","(Alfken, 1919)",Hylaeus,,pfankuchi,,species,,B989:1,accepted,,,B989:1:30,"Lambdopsis Méhelÿ, 1935",,,,,,,Hylaeus,Lambdopsis,Hylaeus | Lambdopsis,6MLP8,1349948,6MLP8,1349948
+B989:1:35,"Spatulariella Popov, 1939","Popov, 1939",,,,,subgenus,,B989:1,accepted,,,B989:1:1,"Hylaeus Fabricius, 1793",,,,,,,Hylaeus,Spatulariella,Hylaeus,,,,
+B989:1:36,"Hylaeus hyalinatus Smith, 1842","Smith, 1842",Hylaeus,,hyalinatus,,species,,B989:1,accepted,,,B989:1:35,"Spatulariella Popov, 1939",,,,,,,Hylaeus,Spatulariella,Hylaeus | Spatulariella,3NDWT,1349638,3NDWT,1349638
+B989:1:37,"Hylaeus punctatus (Brullé, 1832)","(Brullé, 1832)",Hylaeus,,punctatus,,species,,B989:1,accepted,,,B989:1:35,"Spatulariella Popov, 1939",,,,,,,Hylaeus,Spatulariella,Hylaeus | Spatulariella,6MNCV,1350002,6MNCV,1350002

@@ -1,11 +1,11 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B945:1:1,Anthidiellum,,,,,,genus,,B945:1,accepted,,,,,,,,,,,Anthidiellum,,,XCG,1338847
-B945:1:2,Anthidiellum strigatum,,Anthidiellum,,strigatum,,species,,B945:1,accepted,,,B945:1:1,Anthidiellum,,,,,,,Anthidiellum,,Anthidiellum,67D93,1338883
-B945:1:3,Anthidium,,,,,,genus,,B945:1,accepted,,,,,,,,,,,Anthidium,,,XCK,9583912
-B945:1:4,Anthidium manicatum,,Anthidium,,manicatum,,species,,B945:1,accepted,,,B945:1:3,Anthidium,,,,,,,Anthidium,,Anthidium,5VCHW,1334821
-B945:1:5,Anthidium oblongatum,,Anthidium,,oblongatum,,species,,B945:1,accepted,,,B945:1:3,Anthidium,,,,,,,Anthidium,,Anthidium,5VCHJ,1334902
-B945:1:6,Anthidium punctatum,,Anthidium,,punctatum,,species,,B945:1,accepted,,,B945:1:3,Anthidium,,,,,,,Anthidium,,Anthidium,67CJB,1334817
-B945:1:7,Anthidium septemspinosum,,Anthidium,,septemspinosum,,species,,B945:1,accepted,,,B945:1:3,Anthidium,,,,,,,Anthidium,,Anthidium,67CJ4,1334975
-B945:1:8,Pseudoanthidium,,,,,,genus,,B945:1,accepted,,,,,,,,,,,Pseudoanthidium,,,6Z7N,9495484
-B945:1:9,Trachusa,,,,,,genus,,B945:1,accepted,,,,,,,,,,,Trachusa,,,63VYL,5038555
-B945:1:10,Trachusa byssina,,Trachusa,,byssina,,species,,B945:1,accepted,,,B945:1:9,Trachusa,,,,,,,Trachusa,,Trachusa,57PLJ,5038591
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B945:1:1,Anthidiellum,,,,,,genus,,B945:1,accepted,,,,,,,,,,,Anthidiellum,,,XCG,1338847,XCG,1338847
+B945:1:2,Anthidiellum strigatum,,Anthidiellum,,strigatum,,species,,B945:1,accepted,,,B945:1:1,Anthidiellum,,,,,,,Anthidiellum,,Anthidiellum,67D93,1338883,67D93,1338883
+B945:1:3,Anthidium,,,,,,genus,,B945:1,accepted,,,,,,,,,,,Anthidium,,,XCK,1334798,XCK,1334798
+B945:1:4,Anthidium manicatum,,Anthidium,,manicatum,,species,,B945:1,accepted,,,B945:1:3,Anthidium,,,,,,,Anthidium,,Anthidium,5VCHW,1334821,5VCHW,1334821
+B945:1:5,Anthidium oblongatum,,Anthidium,,oblongatum,,species,,B945:1,accepted,,,B945:1:3,Anthidium,,,,,,,Anthidium,,Anthidium,5VCHJ,1334902,5VCHJ,1334902
+B945:1:6,Anthidium punctatum,,Anthidium,,punctatum,,species,,B945:1,accepted,,,B945:1:3,Anthidium,,,,,,,Anthidium,,Anthidium,67CJB,1334817,67CJB,1334817
+B945:1:7,Anthidium septemspinosum,,Anthidium,,septemspinosum,,species,,B945:1,accepted,,,B945:1:3,Anthidium,,,,,,,Anthidium,,Anthidium,67CJ4,1334975,67CJ4,1334975
+B945:1:8,Pseudoanthidium,,,,,,genus,,B945:1,accepted,,,,,,,,,,,Pseudoanthidium,,,6Z7N,1334636,6Z7N,1334636
+B945:1:9,Trachusa,,,,,,genus,,B945:1,accepted,,,,,,,,,,,Trachusa,,,63VYL,5038555,63VYL,5038555
+B945:1:10,Trachusa byssina,,Trachusa,,byssina,,species,,B945:1,accepted,,,B945:1:9,Trachusa,,,,,,,Trachusa,,Trachusa,57PLJ,5038591,57PLJ,5038591

@@ -1,7 +1,7 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B221:3:1,Brachymeria Stephens,Stephens,,,,,genus,,B221:3,accepted,,,,,,,,,,,Brachymeria,,,62GP4,1363287
-B221:3:2,Brachymeria femorata (Panzer),(Panzer),Brachymeria,,femorata,,species,,B221:3,accepted,,,B221:3:1,Brachymeria Stephens,,,,,,,Brachymeria,,Brachymeria,MXFK,1362619
-B221:3:3,Brachymeria flavipes (Panzer),(Panzer),Brachymeria,,flavipes,,species,,B221:3,accepted,,,B221:3:1,Brachymeria Stephens,,,,,,,Brachymeria,,Brachymeria,MXFN,1362461
-B221:3:4,Brachymeria intermedia (Nees),(Nees),Brachymeria,,intermedia,,species,,B221:3,accepted,,,B221:3:1,Brachymeria Stephens,,,,,,,Brachymeria,,Brachymeria,MXGG,1362212
-B221:3:5,Brachymeria minuta (Linnaeus),(Linnaeus),Brachymeria,,minuta,,species,,B221:3,accepted,,,B221:3:1,Brachymeria Stephens,,,,,,,Brachymeria,,Brachymeria,MXHV,9719334
-B221:3:6,Brachymeria vicina (Walker),(Walker),Brachymeria,,vicina,,species,,B221:3,accepted,,,B221:3:1,Brachymeria Stephens,,,,,,,Brachymeria,,Brachymeria,,4498551
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B221:3:1,Brachymeria Stephens,Stephens,,,,,genus,,B221:3,accepted,,,,,,,,,,,Brachymeria,,,62GP4,1363287,62GP4,1363287
+B221:3:2,Brachymeria femorata (Panzer),(Panzer),Brachymeria,,femorata,,species,,B221:3,accepted,,,B221:3:1,Brachymeria Stephens,,,,,,,Brachymeria,,Brachymeria,MXFK,1362619,MXFK,1362619
+B221:3:3,Brachymeria flavipes (Panzer),(Panzer),Brachymeria,,flavipes,,species,,B221:3,accepted,,,B221:3:1,Brachymeria Stephens,,,,,,,Brachymeria,,Brachymeria,MXFN,1362461,MXFN,1362461
+B221:3:4,Brachymeria intermedia (Nees),(Nees),Brachymeria,,intermedia,,species,,B221:3,accepted,,,B221:3:1,Brachymeria Stephens,,,,,,,Brachymeria,,Brachymeria,MXGG,1362212,MXMK,8929087
+B221:3:5,Brachymeria minuta (Linnaeus),(Linnaeus),Brachymeria,,minuta,,species,,B221:3,accepted,,,B221:3:1,Brachymeria Stephens,,,,,,,Brachymeria,,Brachymeria,MXHV,9719334,MXHV,9719334
+B221:3:6,Brachymeria vicina (Walker),(Walker),Brachymeria,,vicina,,species,,B221:3,accepted,,,B221:3:1,Brachymeria Stephens,,,,,,,Brachymeria,,Brachymeria,,4498551,,4498550

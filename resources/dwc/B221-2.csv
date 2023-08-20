@@ -1,22 +1,22 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B221:2:1,Chalcididae,,,,,,family,,B221:2,accepted,,,,,,,,,Chalcididae,,,,,7Z9,9439
-B221:2:2,Haltichellinae,,,,,,subfamily,,B221:2,accepted,,,B221:2:1,Chalcididae,,,,,Chalcididae,Haltichellinae,,,Chalcididae,,
-B221:2:3,Haltichella Spinola,Spinola,,,,,genus,,B221:2,accepted,,,B221:2:2,Haltichellinae,,,,,Chalcididae,Haltichellinae,Haltichella,,Chalcididae | Haltichellinae,4T2H,1361463
-B221:2:4,Haltichella rufipes (Olivier),(Olivier),Haltichella,,rufipes,,species,,B221:2,accepted,,,B221:2:3,Haltichella Spinola,,,,,Chalcididae,Haltichellinae,Haltichella,,Chalcididae | Haltichellinae | Haltichella,3JGN9,1361497
-B221:2:5,Haltichella armata Panzer,Panzer,Haltichella,,armata,,species,,B221:2,synonym,B221:2:4,Haltichella rufipes (Olivier),,,,,,,Chalcididae,Haltichellinae,Haltichella,,Chalcididae | Haltichellinae | Haltichella,3JGLR,1361501
-B221:2:6,Hockeria Walker,Walker,,,,,genus,,B221:2,accepted,,,B221:2:2,Haltichellinae,,,,,Chalcididae,Haltichellinae,Hockeria,,Chalcididae | Haltichellinae,4XPW,1363126
-B221:2:7,Euchalcidia Masi,Masi,,,,,genus,,B221:2,accepted,,,B221:2:2,Haltichellinae,,,,,Chalcididae,Haltichellinae,Euchalcidia,,Chalcididae | Haltichellinae,,1363286
-B221:2:8,Euchalcidia caryobori Hanna,Hanna,Euchalcidia,,caryobori,,species,,B221:2,accepted,,,B221:2:7,Euchalcidia Masi,,,,,Chalcididae,Haltichellinae,Euchalcidia,,Chalcididae | Haltichellinae | Euchalcidia,3BSCS,1362881
-B221:2:9,Invreia Masi,Masi,,,,,genus,,B221:2,accepted,,,B221:2:2,Haltichellinae,,,,,Chalcididae,Haltichellinae,Invreia,,Chalcididae | Haltichellinae,,1362819
-B221:2:10,Invreia subaenea Masi,Masi,Invreia,,subaenea,,species,,B221:2,accepted,,,B221:2:9,Invreia Masi,,,,,Chalcididae,Haltichellinae,Invreia,,Chalcididae | Haltichellinae | Invreia,6MVH4,1363095
-B221:2:11,Brachymeriinae,,,,,,subfamily,,B221:2,accepted,,,B221:2:1,Chalcididae,,,,,Chalcididae,Brachymeriinae,,,Chalcididae,,
-B221:2:12,Brachymeria Stephens,Stephens,,,,,genus,,B221:2,accepted,,,B221:2:11,Brachymeriinae,,,,,Chalcididae,Brachymeriinae,Brachymeria,,Chalcididae | Brachymeriinae,62GP4,1363287
-B221:2:13,Brachymeria minuta (Linnaeus),(Linnaeus),Brachymeria,,minuta,,species,,B221:2,accepted,,,B221:2:12,Brachymeria Stephens,,,,,Chalcididae,Brachymeriinae,Brachymeria,,Chalcididae | Brachymeriinae | Brachymeria,MXHV,9719334
-B221:2:14,Chalcidinae,,,,,,subfamily,,B221:2,accepted,,,B221:2:1,Chalcididae,,,,,Chalcididae,Chalcidinae,,,Chalcididae,,
-B221:2:15,Chalcis Fabricius,Fabricius,,,,,genus,,B221:2,accepted,,,B221:2:14,Chalcidinae,,,,,Chalcididae,Chalcidinae,Chalcis,,Chalcididae | Chalcidinae,62M2J,1358938
-B221:2:16,Chalcis sispes (Linnaeus),(Linnaeus),Chalcis,,sispes,,species,,B221:2,accepted,,,B221:2:15,Chalcis Fabricius,,,,,Chalcididae,Chalcidinae,Chalcis,,Chalcididae | Chalcidinae | Chalcis,TG69,6253266
-B221:2:17,Chalcis biguttata Spinola,Spinola,Chalcis,,biguttata,,species,,B221:2,accepted,,,B221:2:15,Chalcis Fabricius,,,,,Chalcididae,Chalcidinae,Chalcis,,Chalcididae | Chalcidinae | Chalcis,TFXG,6253236
-B221:2:18,Chalcis melanaris Dalman,Dalman,Chalcis,,melanaris,,species,,B221:2,synonym,B221:2:17,Chalcis biguttata Spinola,,,,,,,Chalcididae,Chalcidinae,Chalcis,,Chalcididae | Chalcidinae | Chalcis,TG2S,6253239
-B221:2:19,Chalcis myrifex (Sulzer),(Sulzer),Chalcis,,myrifex,,species,,B221:2,accepted,,,B221:2:15,Chalcis Fabricius,,,,,Chalcididae,Chalcidinae,Chalcis,,Chalcididae | Chalcidinae | Chalcis,TG3B,6253251
-B221:2:20,Spilochalcis Thomson,Thomson,,,,,genus,,B221:2,accepted,,,B221:2:14,Chalcidinae,,,,,Chalcididae,Chalcidinae,Spilochalcis,,Chalcididae | Chalcidinae,,1362033
-B221:2:21,Spilochalcis xanthostigma (Dalman),(Dalman),Spilochalcis,,xanthostigma,,species,,B221:2,accepted,,,B221:2:20,Spilochalcis Thomson,,,,,Chalcididae,Chalcidinae,Spilochalcis,,Chalcididae | Chalcidinae | Spilochalcis,4Z3J2,1363681
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B221:2:1,Chalcididae,,,,,,family,,B221:2,accepted,,,,,,,,,Chalcididae,,,,,7Z9,9439,7Z9,9439
+B221:2:2,Haltichellinae,,,,,,subfamily,,B221:2,accepted,,,B221:2:1,Chalcididae,,,,,Chalcididae,Haltichellinae,,,Chalcididae,,,,
+B221:2:3,Haltichella Spinola,Spinola,,,,,genus,,B221:2,accepted,,,B221:2:2,Haltichellinae,,,,,Chalcididae,Haltichellinae,Haltichella,,Chalcididae | Haltichellinae,4T2H,1361463,4T2H,1361463
+B221:2:4,Haltichella rufipes (Olivier),(Olivier),Haltichella,,rufipes,,species,,B221:2,accepted,,,B221:2:3,Haltichella Spinola,,,,,Chalcididae,Haltichellinae,Haltichella,,Chalcididae | Haltichellinae | Haltichella,3JGN9,1361497,3JGN9,1361497
+B221:2:5,Haltichella armata Panzer,Panzer,Haltichella,,armata,,species,,B221:2,synonym,B221:2:4,Haltichella rufipes (Olivier),,,,,,,Chalcididae,Haltichellinae,Haltichella,,Chalcididae | Haltichellinae | Haltichella,3JGLR,1361501,3JGN9,1361497
+B221:2:6,Hockeria Walker,Walker,,,,,genus,,B221:2,accepted,,,B221:2:2,Haltichellinae,,,,,Chalcididae,Haltichellinae,Hockeria,,Chalcididae | Haltichellinae,4XPW,1363126,4XPW,1363126
+B221:2:7,Euchalcidia Masi,Masi,,,,,genus,,B221:2,accepted,,,B221:2:2,Haltichellinae,,,,,Chalcididae,Haltichellinae,Euchalcidia,,Chalcididae | Haltichellinae,,1363286,,1363060
+B221:2:8,Euchalcidia caryobori Hanna,Hanna,Euchalcidia,,caryobori,,species,,B221:2,accepted,,,B221:2:7,Euchalcidia Masi,,,,,Chalcididae,Haltichellinae,Euchalcidia,,Chalcididae | Haltichellinae | Euchalcidia,3BSCS,1362881,4MP6B,1362880
+B221:2:9,Invreia Masi,Masi,,,,,genus,,B221:2,accepted,,,B221:2:2,Haltichellinae,,,,,Chalcididae,Haltichellinae,Invreia,,Chalcididae | Haltichellinae,,1362819,,1362819
+B221:2:10,Invreia subaenea Masi,Masi,Invreia,,subaenea,,species,,B221:2,accepted,,,B221:2:9,Invreia Masi,,,,,Chalcididae,Haltichellinae,Invreia,,Chalcididae | Haltichellinae | Invreia,6MVH4,1363095,4PGSY,1363093
+B221:2:11,Brachymeriinae,,,,,,subfamily,,B221:2,accepted,,,B221:2:1,Chalcididae,,,,,Chalcididae,Brachymeriinae,,,Chalcididae,,,,
+B221:2:12,Brachymeria Stephens,Stephens,,,,,genus,,B221:2,accepted,,,B221:2:11,Brachymeriinae,,,,,Chalcididae,Brachymeriinae,Brachymeria,,Chalcididae | Brachymeriinae,62GP4,1363287,62GP4,1363287
+B221:2:13,Brachymeria minuta (Linnaeus),(Linnaeus),Brachymeria,,minuta,,species,,B221:2,accepted,,,B221:2:12,Brachymeria Stephens,,,,,Chalcididae,Brachymeriinae,Brachymeria,,Chalcididae | Brachymeriinae | Brachymeria,MXHV,9719334,MXHV,9719334
+B221:2:14,Chalcidinae,,,,,,subfamily,,B221:2,accepted,,,B221:2:1,Chalcididae,,,,,Chalcididae,Chalcidinae,,,Chalcididae,,,,
+B221:2:15,Chalcis Fabricius,Fabricius,,,,,genus,,B221:2,accepted,,,B221:2:14,Chalcidinae,,,,,Chalcididae,Chalcidinae,Chalcis,,Chalcididae | Chalcidinae,62M2J,1358938,62M2J,1358938
+B221:2:16,Chalcis sispes (Linnaeus),(Linnaeus),Chalcis,,sispes,,species,,B221:2,accepted,,,B221:2:15,Chalcis Fabricius,,,,,Chalcididae,Chalcidinae,Chalcis,,Chalcididae | Chalcidinae | Chalcis,TG69,6253266,TG69,6253266
+B221:2:17,Chalcis biguttata Spinola,Spinola,Chalcis,,biguttata,,species,,B221:2,accepted,,,B221:2:15,Chalcis Fabricius,,,,,Chalcididae,Chalcidinae,Chalcis,,Chalcididae | Chalcidinae | Chalcis,TFXG,6253236,TFXG,6253236
+B221:2:18,Chalcis melanaris Dalman,Dalman,Chalcis,,melanaris,,species,,B221:2,synonym,B221:2:17,Chalcis biguttata Spinola,,,,,,,Chalcididae,Chalcidinae,Chalcis,,Chalcididae | Chalcidinae | Chalcis,TG2S,6253239,TFXG,6253236
+B221:2:19,Chalcis myrifex (Sulzer),(Sulzer),Chalcis,,myrifex,,species,,B221:2,accepted,,,B221:2:15,Chalcis Fabricius,,,,,Chalcididae,Chalcidinae,Chalcis,,Chalcididae | Chalcidinae | Chalcis,TG3B,6253251,TG3B,6253251
+B221:2:20,Spilochalcis Thomson,Thomson,,,,,genus,,B221:2,accepted,,,B221:2:14,Chalcidinae,,,,,Chalcididae,Chalcidinae,Spilochalcis,,Chalcididae | Chalcidinae,,1362033,,1362033
+B221:2:21,Spilochalcis xanthostigma (Dalman),(Dalman),Spilochalcis,,xanthostigma,,species,,B221:2,accepted,,,B221:2:20,Spilochalcis Thomson,,,,,Chalcididae,Chalcidinae,Spilochalcis,,Chalcididae | Chalcidinae | Spilochalcis,4Z3J2,1363681,XVYW,1363678

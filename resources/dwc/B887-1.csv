@@ -1,182 +1,182 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B887:1:1,Cimicoromorpha,,,,,,infraorder,,B887:1,accepted,,,,,,,,,,,,,,,
-B887:1:2,Pyrrhocoridae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Pyrrhocoridae,,,,Cimicoromorpha,FGX,7895
-B887:1:3,Pyrrhocoris,,,,,,genus,,B887:1,accepted,,,B887:1:2,Pyrrhocoridae,,,,,Pyrrhocoridae,,Pyrrhocoris,,Cimicoromorpha | Pyrrhocoridae,,4407618
-B887:1:4,Pyrrhocoris apterus,,Pyrrhocoris,,apterus,,species,,B887:1,accepted,,,B887:1:3,Pyrrhocoris,,,,,Pyrrhocoridae,,Pyrrhocoris,,Cimicoromorpha | Pyrrhocoridae | Pyrrhocoris,,4486826
-B887:1:5,Stenocephalidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Stenocephalidae,,,,Cimicoromorpha,8NKQN,4328
-B887:1:6,Dicranocephalus,,,,,,genus,,B887:1,accepted,,,B887:1:5,Stenocephalidae,,,,,Stenocephalidae,,Dicranocephalus,,Cimicoromorpha | Stenocephalidae,8NNVX,3262623
-B887:1:7,Dicranocephalus agilis,,Dicranocephalus,,agilis,,species,,B887:1,accepted,,,B887:1:6,Dicranocephalus,,,,,Stenocephalidae,,Dicranocephalus,,Cimicoromorpha | Stenocephalidae | Dicranocephalus,35R7W,4391703
-B887:1:8,Dicranocephalus medius,,Dicranocephalus,,medius,,species,,B887:1,accepted,,,B887:1:6,Dicranocephalus,,,,,Stenocephalidae,,Dicranocephalus,,Cimicoromorpha | Stenocephalidae | Dicranocephalus,35R8K,5758706
-B887:1:9,Rhopalidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Rhopalidae,,,,Cimicoromorpha,8NKQ9,4325
-B887:1:10,Brachycarenus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Brachycarenus,,Cimicoromorpha | Rhopalidae,8NNGS,4391871
-B887:1:11,Brachycarenus tigrinus,,Brachycarenus,,tigrinus,,species,,B887:1,accepted,,,B887:1:10,Brachycarenus,,,,,Rhopalidae,,Brachycarenus,,Cimicoromorpha | Rhopalidae | Brachycarenus,5X287,4391872
-B887:1:12,Corizus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Corizus,,Cimicoromorpha | Rhopalidae,8NQ2K,2050276
-B887:1:13,Corizus hyoscyami,,Corizus,,hyoscyami,,species,,B887:1,accepted,,,B887:1:12,Corizus,,,,,Rhopalidae,,Corizus,,Cimicoromorpha | Rhopalidae | Corizus,YFMV,4391874
-B887:1:14,Corizus hyoscyami subsp. hyoscyami,,Corizus,,hyoscyami,hyoscyami,subspecies,,B887:1,accepted,,,B887:1:13,Corizus hyoscyami,,,,,Rhopalidae,,Corizus,,Cimicoromorpha | Rhopalidae | Corizus | Corizus hyoscyami,5DWYV,4391875
-B887:1:15,Liorhyssus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Liorhyssus,,Cimicoromorpha | Rhopalidae,8NQYN,2050223
-B887:1:16,Liorhyssus hyalinus,,Liorhyssus,,hyalinus,,species,,B887:1,accepted,,,B887:1:15,Liorhyssus,,,,,Rhopalidae,,Liorhyssus,,Cimicoromorpha | Rhopalidae | Liorhyssus,3V7WP,2050224
-B887:1:17,Rhopalus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Rhopalus,,Cimicoromorpha | Rhopalidae,8NYP2,2050237
-B887:1:18,Aeschyntelus,,,,,,subgenus,,B887:1,accepted,,,B887:1:17,Rhopalus,,,,,Rhopalidae,,Rhopalus,Aeschyntelus,Cimicoromorpha | Rhopalidae | Rhopalus,8Q6MC,
-B887:1:19,Rhopalus maculatus,,Rhopalus,,maculatus,,species,,B887:1,accepted,,,B887:1:18,Aeschyntelus,,,,,Rhopalidae,,Rhopalus,Aeschyntelus,Cimicoromorpha | Rhopalidae | Rhopalus | Aeschyntelus,4SMDF,4391866
-B887:1:20,Rhopalus,,,,,,subgenus,,B887:1,accepted,,,B887:1:17,Rhopalus,,,,,Rhopalidae,,Rhopalus,Rhopalus,Cimicoromorpha | Rhopalidae | Rhopalus,8NYP2,
-B887:1:21,Rhopalus parumpunctatus,,Rhopalus,,parumpunctatus,,species,,B887:1,accepted,,,B887:1:20,Rhopalus,,,,,Rhopalidae,,Rhopalus,Rhopalus,Cimicoromorpha | Rhopalidae | Rhopalus | Rhopalus,4SMDN,4391858
-B887:1:22,Rhopalus subrufus,,Rhopalus,,subrufus,,species,,B887:1,accepted,,,B887:1:20,Rhopalus,,,,,Rhopalidae,,Rhopalus,Rhopalus,Cimicoromorpha | Rhopalidae | Rhopalus | Rhopalus,4SMDQ,2050239
-B887:1:23,Stictopleurus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Stictopleurus,,Cimicoromorpha | Rhopalidae,8NZKV,2050268
-B887:1:24,Stictopleurus abutilon,,Stictopleurus,,abutilon,,species,,B887:1,accepted,,,B887:1:23,Stictopleurus,,,,,Rhopalidae,,Stictopleurus,,Cimicoromorpha | Rhopalidae | Stictopleurus,6ZTDH,4391852
-B887:1:25,Stictopleurus punctatonervosus,,Stictopleurus,,punctatonervosus,,species,,B887:1,accepted,,,B887:1:23,Stictopleurus,,,,,Rhopalidae,,Stictopleurus,,Cimicoromorpha | Rhopalidae | Stictopleurus,52KHB,4391843
-B887:1:26,Chorosoma,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Chorosoma,,Cimicoromorpha | Rhopalidae,8NPLM,4391943
-B887:1:27,Chorosoma schillingii,,Chorosoma,,schillingii,,species,,B887:1,accepted,,,B887:1:26,Chorosoma,,,,,Rhopalidae,,Chorosoma,,Cimicoromorpha | Rhopalidae | Chorosoma,5YD7C,4391944
-B887:1:28,Myrmus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Myrmus,,Cimicoromorpha | Rhopalidae,8NVNM,3265873
-B887:1:29,Myrmus miriformis,,Myrmus,,miriformis,,species,,B887:1,accepted,,,B887:1:28,Myrmus,,,,,Rhopalidae,,Myrmus,,Cimicoromorpha | Rhopalidae | Myrmus,45D29,5733462
-B887:1:30,Myrmus miriformis subsp. miriformis,,Myrmus,,miriformis,miriformis,subspecies,,B887:1,accepted,,,B887:1:29,Myrmus miriformis,,,,,Rhopalidae,,Myrmus,,Cimicoromorpha | Rhopalidae | Myrmus | Myrmus miriformis,7HH7Y,5733463
-B887:1:31,Alydidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Alydidae,,,,Cimicoromorpha,8NKGW,7875
-B887:1:32,Alydus,,,,,,genus,,B887:1,accepted,,,B887:1:31,Alydidae,,,,,Alydidae,,Alydus,,Cimicoromorpha | Alydidae,8NLS6,2050167
-B887:1:33,Alydus calcaratus,,Alydus,,calcaratus,,species,,B887:1,accepted,,,B887:1:32,Alydus,,,,,Alydidae,,Alydus,,Cimicoromorpha | Alydidae | Alydus,CC3X,2050173
-B887:1:34,Coreidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Coreidae,,,,Cimicoromorpha,8NKJF,9649
-B887:1:35,Arenocoris,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Arenocoris,,Cimicoromorpha | Coreidae,8NM3C,4391585
-B887:1:36,Arenocoris fallenii,,Arenocoris,,fallenii,,species,,B887:1,accepted,,,B887:1:35,Arenocoris,,,,,Coreidae,,Arenocoris,,Cimicoromorpha | Coreidae | Arenocoris,GFN8,4391587
-B887:1:37,Arenocoris waltlii,,Arenocoris,,waltlii,,species,,B887:1,accepted,,,B887:1:35,Arenocoris,,,,,Coreidae,,Arenocoris,,Cimicoromorpha | Coreidae | Arenocoris,5VRDM,4391597
-B887:1:38,Bathysolen,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Bathysolen,,Cimicoromorpha | Coreidae,8NMDQ,4391661
-B887:1:39,Bathysolen nubilus,,Bathysolen,,nubilus,,species,,B887:1,accepted,,,B887:1:38,Bathysolen,,,,,Coreidae,,Bathysolen,,Cimicoromorpha | Coreidae | Bathysolen,KYCN,4391663
-B887:1:40,Ceraleptus,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Ceraleptus,,Cimicoromorpha | Coreidae,8NMYV,2050009
-B887:1:41,Ceraleptus lividus,,Ceraleptus,,lividus,,species,,B887:1,accepted,,,B887:1:40,Ceraleptus,,,,,Coreidae,,Ceraleptus,,Cimicoromorpha | Coreidae | Ceraleptus,SGGQ,4391506
-B887:1:42,Coriomeris,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Coriomeris,,Cimicoromorpha | Coreidae,8NNFS,2050064
-B887:1:43,Coriomeris denticulatus,,Coriomeris,,denticulatus,,species,,B887:1,accepted,,,B887:1:42,Coriomeris,,,,,Coreidae,,Coriomeris,,Cimicoromorpha | Coreidae | Coriomeris,6B57L,2050067
-B887:1:44,Coriomeris scabricornis,,Coriomeris,,scabricornis,,species,,B887:1,accepted,,,B887:1:42,Coriomeris,,,,,Coreidae,,Coriomeris,,Cimicoromorpha | Coreidae | Coriomeris,YF8Q,4391547
-B887:1:45,Coriomeris scabricornis subsp. scabricornis,,Coriomeris,,scabricornis,scabricornis,subspecies,,B887:1,accepted,,,B887:1:44,Coriomeris scabricornis,,,,,Coreidae,,Coriomeris,,Cimicoromorpha | Coreidae | Coriomeris | Coriomeris scabricornis,5DWYK,4391548
-B887:1:46,Coreus,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Coreus,,Cimicoromorpha | Coreidae,8NNFP,2049958
-B887:1:47,Coreus marginatus,,Coreus,,marginatus,,species,,B887:1,accepted,,,B887:1:46,Coreus,,,,,Coreidae,,Coreus,,Cimicoromorpha | Coreidae | Coreus,6B3KM,4388646
-B887:1:48,Coreus marginatus subsp. marginatus,,Coreus,,marginatus,marginatus,subspecies,,B887:1,accepted,,,B887:1:47,Coreus marginatus,,,,,Coreidae,,Coreus,,Cimicoromorpha | Coreidae | Coreus | Coreus marginatus,5DWYF,4388647
-B887:1:49,Enoplops,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Enoplops,,Cimicoromorpha | Coreidae,8NPGG,4388488
-B887:1:50,Enoplops scapha,,Enoplops,,scapha,,species,,B887:1,accepted,,,B887:1:49,Enoplops,,,,,Coreidae,,Enoplops,,Cimicoromorpha | Coreidae | Enoplops,39WS5,4388497
-B887:1:51,Leptoglossus,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Leptoglossus,,Cimicoromorpha | Coreidae,8NQVN,2050115
-B887:1:52,Leptoglossus occidentalis,,Leptoglossus,,occidentalis,,species,,B887:1,accepted,,,B887:1:51,Leptoglossus,,,,,Coreidae,,Leptoglossus,,Cimicoromorpha | Coreidae | Leptoglossus,6PGH9,5156102
-B887:1:53,Spathocera,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Spathocera,,Cimicoromorpha | Coreidae,8NZ9X,4388614
-B887:1:54,Spathocera dalmanii,,Spathocera,,dalmanii,,species,,B887:1,accepted,,,B887:1:53,Spathocera,,,,,Coreidae,,Spathocera,,Cimicoromorpha | Coreidae | Spathocera,6Z6ZN,4388623
-B887:1:55,Syromastus,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Syromastus,,Cimicoromorpha | Coreidae,8NZQR,4388657
-B887:1:56,Syromastus rhombeus,,Syromastus,,rhombeus,,species,,B887:1,accepted,,,B887:1:55,Syromastus,,,,,Coreidae,,Syromastus,,Cimicoromorpha | Coreidae | Syromastus,5433H,4388663
-B887:1:57,Gonocerus,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Gonocerus,,Cimicoromorpha | Coreidae,8NPX8,2050051
-B887:1:58,Gonocerus acuteangulatus,,Gonocerus,,acuteangulatus,,species,,B887:1,accepted,,,B887:1:57,Gonocerus,,,,,Coreidae,,Gonocerus,,Cimicoromorpha | Coreidae | Gonocerus,3GY8F,4390084
-B887:1:59,Gonocerus juniperi,,Gonocerus,,juniperi,,species,,B887:1,accepted,,,B887:1:57,Gonocerus,,,,,Coreidae,,Gonocerus,,Cimicoromorpha | Coreidae | Gonocerus,3GY9H,4390078
-B887:1:60,Cydnidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Cydnidae,,,,Cimicoromorpha,624H7,6989
-B887:1:61,Cydnus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Cydnus,,Cimicoromorpha | Cydnidae,3Y6K,2078814
-B887:1:62,Cydnus aterrimus,,Cydnus,,aterrimus,,species,,B887:1,accepted,,,B887:1:61,Cydnus,,,,,Cydnidae,,Cydnus,,Cimicoromorpha | Cydnidae | Cydnus,,2078815
-B887:1:63,Byrsinus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Byrsinus,,Cimicoromorpha | Cydnidae,,4406877
-B887:1:64,Byrsinus flavicornis,,Byrsinus,,flavicornis,,species,,B887:1,accepted,,,B887:1:63,Byrsinus,,,,,Cydnidae,,Byrsinus,,Cimicoromorpha | Cydnidae | Byrsinus,,4486103
-B887:1:65,Microporus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Microporus,,Cimicoromorpha | Cydnidae,,2078797
-B887:1:66,Microporus nigrita,,Microporus,,nigrita,,species,,B887:1,accepted,,,B887:1:65,Microporus,,,,,Cydnidae,,Microporus,,Cimicoromorpha | Cydnidae | Microporus,,5758803
-B887:1:67,Adomerus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Adomerus,,Cimicoromorpha | Cydnidae,,4405030
-B887:1:68,Adomerus biguttatus,,Adomerus,,biguttatus,,species,,B887:1,accepted,,,B887:1:67,Adomerus,,,,,Cydnidae,,Adomerus,,Cimicoromorpha | Cydnidae | Adomerus,,4486134
-B887:1:69,Legnotus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Legnotus,,Cimicoromorpha | Cydnidae,,3265255
-B887:1:70,Legnotus limbosus,,Legnotus,,limbosus,,species,,B887:1,accepted,,,B887:1:69,Legnotus,,,,,Cydnidae,,Legnotus,,Cimicoromorpha | Cydnidae | Legnotus,,5758810
-B887:1:71,Legnotus picipes,,Legnotus,,picipes,,species,,B887:1,accepted,,,B887:1:69,Legnotus,,,,,Cydnidae,,Legnotus,,Cimicoromorpha | Cydnidae | Legnotus,,5758812
-B887:1:72,Sehirus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Sehirus,,Cimicoromorpha | Cydnidae,7F5B,2078780
-B887:1:73,Sehirus luctuosus,,Sehirus,,luctuosus,,species,,B887:1,accepted,,,B887:1:72,Sehirus,,,,,Cydnidae,,Sehirus,,Cimicoromorpha | Cydnidae | Sehirus,,4486163
-B887:1:74,Sehirus morio,,Sehirus,,morio,,species,,B887:1,accepted,,,B887:1:72,Sehirus,,,,,Cydnidae,,Sehirus,,Cimicoromorpha | Cydnidae | Sehirus,,2078781
-B887:1:75,Tritomegas,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Tritomegas,,Cimicoromorpha | Cydnidae,,3265258
-B887:1:76,Tritomegas bicolor,,Tritomegas,,bicolor,,species,,B887:1,accepted,,,B887:1:75,Tritomegas,,,,,Cydnidae,,Tritomegas,,Cimicoromorpha | Cydnidae | Tritomegas,,5758805
-B887:1:77,Tritomegas sexmaculatus,,Tritomegas,,sexmaculatus,,species,,B887:1,accepted,,,B887:1:75,Tritomegas,,,,,Cydnidae,,Tritomegas,,Cimicoromorpha | Cydnidae | Tritomegas,,5758809
-B887:1:78,Thyreocoridae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Thyreocoridae,,,,Cimicoromorpha,H8R,7898
-B887:1:79,Thyreocoris,,,,,,genus,,B887:1,accepted,,,B887:1:78,Thyreocoridae,,,,,Thyreocoridae,,Thyreocoris,,Cimicoromorpha | Thyreocoridae,,4486000
-B887:1:80,Thyreocoris scarabaeoides,,Thyreocoris,,scarabaeoides,,species,,B887:1,accepted,,,B887:1:79,Thyreocoris,,,,,Thyreocoridae,,Thyreocoris,,Cimicoromorpha | Thyreocoridae | Thyreocoris,,4486004
-B887:1:81,Acanthosomatidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Acanthosomatidae,,,,Cimicoromorpha,7NFSF,4303
-B887:1:82,Acanthosoma,,,,,,genus,,B887:1,accepted,,,B887:1:81,Acanthosomatidae,,,,,Acanthosomatidae,,Acanthosoma,,Cimicoromorpha | Acanthosomatidae,7NMN9,11258498
-B887:1:83,Acanthosoma haemorrhoidale,,Acanthosoma,,haemorrhoidale,,species,,B887:1,accepted,,,B887:1:82,Acanthosoma,,,,,Acanthosomatidae,,Acanthosoma,,Cimicoromorpha | Acanthosomatidae | Acanthosoma,7Q9KF,5866246
-B887:1:84,Acanthosoma haemorrhoidale subsp. haemorrhoidale,,Acanthosoma,,haemorrhoidale,haemorrhoidale,subspecies,,B887:1,accepted,,,B887:1:83,Acanthosoma haemorrhoidale,,,,,Acanthosomatidae,,Acanthosoma,,Cimicoromorpha | Acanthosomatidae | Acanthosoma | Acanthosoma haemorrhoidale,7X8WV,6096806
-B887:1:85,Cyphostethus,,,,,,genus,,B887:1,accepted,,,B887:1:81,Acanthosomatidae,,,,,Acanthosomatidae,,Cyphostethus,,Cimicoromorpha | Acanthosomatidae,7NV8G,3265727
-B887:1:86,Cyphostethus tristriatus,,Cyphostethus,,tristriatus,,species,,B887:1,accepted,,,B887:1:85,Cyphostethus,,,,,Acanthosomatidae,,Cyphostethus,,Cimicoromorpha | Acanthosomatidae | Cyphostethus,7SX54,6096805
-B887:1:87,Elasmostethus,,,,,,genus,,B887:1,accepted,,,B887:1:81,Acanthosomatidae,,,,,Acanthosomatidae,,Elasmostethus,,Cimicoromorpha | Acanthosomatidae,7NVTY,2079269
-B887:1:88,Elasmostethus interstinctus,,Elasmostethus,,interstinctus,,species,,B887:1,accepted,,,B887:1:87,Elasmostethus,,,,,Acanthosomatidae,,Elasmostethus,,Cimicoromorpha | Acanthosomatidae | Elasmostethus,7TG9H,2079270
-B887:1:89,Elasmostethus minor,,Elasmostethus,,minor,,species,,B887:1,accepted,,,B887:1:87,Elasmostethus,,,,,Acanthosomatidae,,Elasmostethus,,Cimicoromorpha | Acanthosomatidae | Elasmostethus,7TG9R,4485983
-B887:1:90,Elasmucha,,,,,,genus,,B887:1,accepted,,,B887:1:81,Acanthosomatidae,,,,,Acanthosomatidae,,Elasmucha,,Cimicoromorpha | Acanthosomatidae,7NYBN,2079257
-B887:1:91,Elasmucha ferrugata,,Elasmucha,,ferrugata,,species,,B887:1,accepted,,,B887:1:90,Elasmucha,,,,,Acanthosomatidae,,Elasmucha,,Cimicoromorpha | Acanthosomatidae | Elasmucha,7TGBP,2079261
-B887:1:92,Elasmucha fieberi,,Elasmucha,,fieberi,,species,,B887:1,accepted,,,B887:1:90,Elasmucha,,,,,Acanthosomatidae,,Elasmucha,,Cimicoromorpha | Acanthosomatidae | Elasmucha,7TGBR,4485991
-B887:1:93,Elasmucha grisea,,Elasmucha,,grisea,,species,,B887:1,accepted,,,B887:1:90,Elasmucha,,,,,Acanthosomatidae,,Elasmucha,,Cimicoromorpha | Acanthosomatidae | Elasmucha,7TGBX,4485987
-B887:1:94,Elasmucha grisea subsp. grisea,,Elasmucha,,grisea,grisea,subspecies,,B887:1,accepted,,,B887:1:93,Elasmucha grisea,,,,,Acanthosomatidae,,Elasmucha,,Cimicoromorpha | Acanthosomatidae | Elasmucha | Elasmucha grisea,7XCZH,4485990
-B887:1:95,Scutelleridae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Scutelleridae,,,,Cimicoromorpha,G5X,4327
-B887:1:96,Phimodera,,,,,,genus,,B887:1,accepted,,,B887:1:95,Scutelleridae,,,,,Scutelleridae,,Phimodera,,Cimicoromorpha | Scutelleridae,6NLZ,2079352
-B887:1:97,Phimodera humeralis,,Phimodera,,humeralis,,species,,B887:1,accepted,,,B887:1:96,Phimodera,,,,,Scutelleridae,,Phimodera,,Cimicoromorpha | Scutelleridae | Phimodera,,4486030
-B887:1:98,Odontoscelis,,,,,,genus,,B887:1,accepted,,,B887:1:95,Scutelleridae,,,,,Scutelleridae,,Odontoscelis,,Cimicoromorpha | Scutelleridae,8LQJK,2079364
-B887:1:99,Odontoscelis fuliginosa,,Odontoscelis,,fuliginosa,,species,,B887:1,accepted,,,B887:1:98,Odontoscelis,,,,,Scutelleridae,,Odontoscelis,,Cimicoromorpha | Scutelleridae | Odontoscelis,,5758780
-B887:1:100,Odontoscelis lineola,,Odontoscelis,,lineola,,species,,B887:1,accepted,,,B887:1:98,Odontoscelis,,,,,Scutelleridae,,Odontoscelis,,Cimicoromorpha | Scutelleridae | Odontoscelis,,5758782
-B887:1:101,Eurygaster,,,,,,genus,,B887:1,accepted,,,B887:1:95,Scutelleridae,,,,,Scutelleridae,,Eurygaster,,Cimicoromorpha | Scutelleridae,4GSB,2079334
-B887:1:102,Eurygaster austriaca,,Eurygaster,,austriaca,,species,,B887:1,accepted,,,B887:1:101,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Cimicoromorpha | Scutelleridae | Eurygaster,,5758791
-B887:1:103,Eurygaster maura,,Eurygaster,,maura,,species,,B887:1,accepted,,,B887:1:101,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Cimicoromorpha | Scutelleridae | Eurygaster,,5758789
-B887:1:104,Eurygaster testudinaria,,Eurygaster,,testudinaria,,species,,B887:1,accepted,,,B887:1:101,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Cimicoromorpha | Scutelleridae | Eurygaster,,5758794
-B887:1:105,Eurygaster testudinaria subsp. testudinaria,,Eurygaster,,testudinaria,testudinaria,subspecies,,B887:1,accepted,,,B887:1:104,Eurygaster testudinaria,,,,,Scutelleridae,,Eurygaster,,Cimicoromorpha | Scutelleridae | Eurygaster | Eurygaster testudinaria,,5758795
-B887:1:106,Pentatomidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Pentatomidae,,,,Cimicoromorpha,62662,9650
-B887:1:107,Arma,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Arma,,Cimicoromorpha | Pentatomidae,,4405706
-B887:1:108,Arma custos,,Arma,,custos,,species,,B887:1,accepted,,,B887:1:107,Arma,,,,,Pentatomidae,,Arma,,Cimicoromorpha | Pentatomidae | Arma,,4485971
-B887:1:109,Jalla,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Jalla,,Cimicoromorpha | Pentatomidae,8PMHC,3266040
-B887:1:110,Jalla dumosa,,Jalla,,dumosa,,species,,B887:1,accepted,,,B887:1:109,Jalla,,,,,Pentatomidae,,Jalla,,Cimicoromorpha | Pentatomidae | Jalla,,5758771
-B887:1:111,Picromerus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Picromerus,,Cimicoromorpha | Pentatomidae,6Q8W,2079126
-B887:1:112,Picromerus bidens,,Picromerus,,bidens,,species,,B887:1,accepted,,,B887:1:111,Picromerus,,,,,Pentatomidae,,Picromerus,,Cimicoromorpha | Pentatomidae | Picromerus,,5160015
-B887:1:113,Pinthaeus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Pinthaeus,,Cimicoromorpha | Pentatomidae,,4407624
-B887:1:114,Pinthaeus sanguinipes,,Pinthaeus,,sanguinipes,,species,,B887:1,accepted,,,B887:1:113,Pinthaeus,,,,,Pentatomidae,,Pinthaeus,,Cimicoromorpha | Pentatomidae | Pinthaeus,,4485978
-B887:1:115,Rhacognathus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Rhacognathus,,Cimicoromorpha | Pentatomidae,787H,2078994
-B887:1:116,Rhacognathus punctatus,,Rhacognathus,,punctatus,,species,,B887:1,accepted,,,B887:1:115,Rhacognathus,,,,,Pentatomidae,,Rhacognathus,,Cimicoromorpha | Pentatomidae | Rhacognathus,,2078996
-B887:1:117,Troilus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Troilus,,Cimicoromorpha | Pentatomidae,,4407233
-B887:1:118,Troilus luridus,,Troilus,,luridus,,species,,B887:1,accepted,,,B887:1:117,Troilus,,,,,Pentatomidae,,Troilus,,Cimicoromorpha | Pentatomidae | Troilus,,4485973
-B887:1:119,Zicrona,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Zicrona,,Cimicoromorpha | Pentatomidae,648MM,2078941
-B887:1:120,Zicrona caerulea,,Zicrona,,caerulea,,species,,B887:1,accepted,,,B887:1:119,Zicrona,,,,,Pentatomidae,,Zicrona,,Cimicoromorpha | Pentatomidae | Zicrona,,2078942
-B887:1:121,Aelia,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Aelia,,Cimicoromorpha | Pentatomidae,PLJ,2079121
-B887:1:122,Aelia acuminata,,Aelia,,acuminata,,species,,B887:1,accepted,,,B887:1:121,Aelia,,,,,Pentatomidae,,Aelia,,Cimicoromorpha | Pentatomidae | Aelia,,2079123
-B887:1:123,Aelia klugii,,Aelia,,klugii,,species,,B887:1,accepted,,,B887:1:121,Aelia,,,,,Pentatomidae,,Aelia,,Cimicoromorpha | Pentatomidae | Aelia,,6096804
-B887:1:124,Neottiglossa,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Neottiglossa,,Cimicoromorpha | Pentatomidae,62YZ,2078911
-B887:1:125,Neottiglossa pusilla,,Neottiglossa,,pusilla,,species,,B887:1,accepted,,,B887:1:124,Neottiglossa,,,,,Pentatomidae,,Neottiglossa,,Cimicoromorpha | Pentatomidae | Neottiglossa,,4485936
-B887:1:126,Carpocoris,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Carpocoris,,Cimicoromorpha | Pentatomidae,,4405367
-B887:1:127,Carpocoris,,,,,,subgenus,,B887:1,accepted,,,B887:1:126,Carpocoris,,,,,Pentatomidae,,Carpocoris,Carpocoris,Cimicoromorpha | Pentatomidae | Carpocoris,,
-B887:1:128,Carpocoris fuscispinus,,Carpocoris,,fuscispinus,,species,,B887:1,accepted,,,B887:1:127,Carpocoris,,,,,Pentatomidae,,Carpocoris,Carpocoris,Cimicoromorpha | Pentatomidae | Carpocoris | Carpocoris,,4485800
-B887:1:129,Carpocoris purpureipennis,,Carpocoris,,purpureipennis,,species,,B887:1,accepted,,,B887:1:127,Carpocoris,,,,,Pentatomidae,,Carpocoris,Carpocoris,Cimicoromorpha | Pentatomidae | Carpocoris | Carpocoris,,4485798
-B887:1:130,Chlorochroa,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Chlorochroa,,Cimicoromorpha | Pentatomidae,3NMG,2064707
-B887:1:131,Rhytidolomia,,,,,,subgenus,,B887:1,accepted,,,B887:1:130,Chlorochroa,,,,,Pentatomidae,,Chlorochroa,Rhytidolomia,Cimicoromorpha | Pentatomidae | Chlorochroa,,
-B887:1:132,Chlorochroa juniperina,,Chlorochroa,,juniperina,,species,,B887:1,accepted,,,B887:1:131,Rhytidolomia,,,,,Pentatomidae,,Chlorochroa,Rhytidolomia,Cimicoromorpha | Pentatomidae | Chlorochroa | Rhytidolomia,,4485816
-B887:1:133,Chlorochroa juniperina subsp. juniperina,,Chlorochroa,,juniperina,juniperina,subspecies,,B887:1,accepted,,,B887:1:132,Chlorochroa juniperina,,,,,Pentatomidae,,Chlorochroa,Rhytidolomia,Cimicoromorpha | Pentatomidae | Chlorochroa | Rhytidolomia | Chlorochroa juniperina,,4485818
-B887:1:134,Chlorochroa pinicola,,Chlorochroa,,pinicola,,species,,B887:1,accepted,,,B887:1:131,Rhytidolomia,,,,,Pentatomidae,,Chlorochroa,Rhytidolomia,Cimicoromorpha | Pentatomidae | Chlorochroa | Rhytidolomia,,4485821
-B887:1:135,Dolycoris,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Dolycoris,,Cimicoromorpha | Pentatomidae,,4406875
-B887:1:136,Dolycoris baccarum,,Dolycoris,,baccarum,,species,,B887:1,accepted,,,B887:1:135,Dolycoris,,,,,Pentatomidae,,Dolycoris,,Cimicoromorpha | Pentatomidae | Dolycoris,,4485824
-B887:1:137,Holcostethus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Holcostethus,,Cimicoromorpha | Pentatomidae,4XVB,2079189
-B887:1:138,Holcostethus,,,,,,subgenus,,B887:1,accepted,,,B887:1:137,Holcostethus,,,,,Pentatomidae,,Holcostethus,Holcostethus,Cimicoromorpha | Pentatomidae | Holcostethus,4XVB,
-B887:1:139,Holcostethus sphacelatus,,Holcostethus,,sphacelatus,,species,,B887:1,accepted,,,B887:1:138,Holcostethus,,,,,Pentatomidae,,Holcostethus,Holcostethus,Cimicoromorpha | Pentatomidae | Holcostethus | Holcostethus,,2079190
-B887:1:140,Palomena,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Palomena,,Cimicoromorpha | Pentatomidae,,4406712
-B887:1:141,Palomena prasina,,Palomena,,prasina,,species,,B887:1,accepted,,,B887:1:140,Palomena,,,,,Pentatomidae,,Palomena,,Cimicoromorpha | Pentatomidae | Palomena,,4485776
-B887:1:142,Palomena viridissima,,Palomena,,viridissima,,species,,B887:1,accepted,,,B887:1:140,Palomena,,,,,Pentatomidae,,Palomena,,Cimicoromorpha | Pentatomidae | Palomena,,4485774
-B887:1:143,Peribalus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Peribalus,,Cimicoromorpha | Pentatomidae,,2079014
-B887:1:144,Peribalus,,,,,,subgenus,,B887:1,accepted,,,B887:1:143,Peribalus,,,,,Pentatomidae,,Peribalus,Peribalus,Cimicoromorpha | Pentatomidae | Peribalus,,
-B887:1:145,Peribalus strictus,,Peribalus,,strictus,,species,,B887:1,accepted,,,B887:1:144,Peribalus,,,,,Pentatomidae,,Peribalus,Peribalus,Cimicoromorpha | Pentatomidae | Peribalus | Peribalus,,4485782
-B887:1:146,Rubiconia,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Rubiconia,,Cimicoromorpha | Pentatomidae,,4406106
-B887:1:147,Rubiconia intermedia,,Rubiconia,,intermedia,,species,,B887:1,accepted,,,B887:1:146,Rubiconia,,,,,Pentatomidae,,Rubiconia,,Cimicoromorpha | Pentatomidae | Rubiconia,,4485796
-B887:1:148,Eysarcoris,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Eysarcoris,,Cimicoromorpha | Pentatomidae,4J56,2078841
-B887:1:149,Eysarcoris aeneus,,Eysarcoris,,aeneus,,species,,B887:1,accepted,,,B887:1:148,Eysarcoris,,,,,Pentatomidae,,Eysarcoris,,Cimicoromorpha | Pentatomidae | Eysarcoris,,4485955
-B887:1:150,Eysarcoris venustissimus,,Eysarcoris,,venustissimus,,species,,B887:1,accepted,,,B887:1:148,Eysarcoris,,,,,Pentatomidae,,Eysarcoris,,Cimicoromorpha | Pentatomidae | Eysarcoris,,4485952
-B887:1:151,Stagonomus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Stagonomus,,Cimicoromorpha | Pentatomidae,,9131176
-B887:1:152,Dalleria,,,,,,subgenus,,B887:1,accepted,,,B887:1:151,Stagonomus,,,,,Pentatomidae,,Stagonomus,Dalleria,Cimicoromorpha | Pentatomidae | Stagonomus,,
-B887:1:153,Stagonomus bipunctatus,,Stagonomus,,bipunctatus,,species,,B887:1,accepted,,,B887:1:152,Dalleria,,,,,Pentatomidae,,Stagonomus,Dalleria,Cimicoromorpha | Pentatomidae | Stagonomus | Dalleria,,5758763
-B887:1:154,Nezara,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Nezara,,Cimicoromorpha | Pentatomidae,63VD,2078851
-B887:1:155,Nezara viridula,,Nezara,,viridula,,species,,B887:1,accepted,,,B887:1:154,Nezara,,,,,Pentatomidae,,Nezara,,Cimicoromorpha | Pentatomidae | Nezara,,2078852
-B887:1:156,Pentatoma,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Pentatoma,,Cimicoromorpha | Pentatomidae,8X7P3,8368535
-B887:1:157,Pentatoma,,,,,,subgenus,,B887:1,accepted,,,B887:1:156,Pentatoma,,,,,Pentatomidae,,Pentatoma,Pentatoma,Cimicoromorpha | Pentatomidae | Pentatoma,8X7P3,
-B887:1:158,Pentatoma rufipes,,Pentatoma,,rufipes,,species,,B887:1,accepted,,,B887:1:157,Pentatoma,,,,,Pentatomidae,,Pentatoma,Pentatoma,Cimicoromorpha | Pentatomidae | Pentatoma | Pentatoma,,5758737
-B887:1:159,Rhaphigaster,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Rhaphigaster,,Cimicoromorpha | Pentatomidae,,2079011
-B887:1:160,Rhaphigaster nebulosa,,Rhaphigaster,,nebulosa,,species,,B887:1,accepted,,,B887:1:159,Rhaphigaster,,,,,Pentatomidae,,Rhaphigaster,,Cimicoromorpha | Pentatomidae | Rhaphigaster,,5758736
-B887:1:161,Piezodorus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Piezodorus,,Cimicoromorpha | Pentatomidae,63MF2,2078820
-B887:1:162,Piezodorus lituratus,,Piezodorus,,lituratus,,species,,B887:1,accepted,,,B887:1:161,Piezodorus,,,,,Pentatomidae,,Piezodorus,,Cimicoromorpha | Pentatomidae | Piezodorus,,2078821
-B887:1:163,Sciocoris,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Sciocoris,,Cimicoromorpha | Pentatomidae,63RHM,2079251
-B887:1:164,Aposciocoris,,,,,,subgenus,,B887:1,accepted,,,B887:1:163,Sciocoris,,,,,Pentatomidae,,Sciocoris,Aposciocoris,Cimicoromorpha | Pentatomidae | Sciocoris,,
-B887:1:165,Sciocoris homalonotus,,Sciocoris,,homalonotus,,species,,B887:1,accepted,,,B887:1:164,Aposciocoris,,,,,Pentatomidae,,Sciocoris,Aposciocoris,Cimicoromorpha | Pentatomidae | Sciocoris | Aposciocoris,,4485866
-B887:1:166,Sciocoris,,,,,,subgenus,,B887:1,accepted,,,B887:1:163,Sciocoris,,,,,Pentatomidae,,Sciocoris,Sciocoris,Cimicoromorpha | Pentatomidae | Sciocoris,63RHM,
-B887:1:167,Sciocoris cursitans,,Sciocoris,,cursitans,,species,,B887:1,accepted,,,B887:1:166,Sciocoris,,,,,Pentatomidae,,Sciocoris,Sciocoris,Cimicoromorpha | Pentatomidae | Sciocoris | Sciocoris,,2079253
-B887:1:168,Sciocoris cursitans subsp. cursitans,,Sciocoris,,cursitans,cursitans,subspecies,,B887:1,accepted,,,B887:1:167,Sciocoris cursitans,,,,,Pentatomidae,,Sciocoris,Sciocoris,Cimicoromorpha | Pentatomidae | Sciocoris | Sciocoris | Sciocoris cursitans,,4485860
-B887:1:169,Eurydema,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Eurydema,,Cimicoromorpha | Pentatomidae,,8781759
-B887:1:170,Eurydema,,,,,,subgenus,,B887:1,accepted,,,B887:1:169,Eurydema,,,,,Pentatomidae,,Eurydema,Eurydema,Cimicoromorpha | Pentatomidae | Eurydema,,
-B887:1:171,Eurydema oleracea,,Eurydema,,oleracea,,species,,B887:1,accepted,,,B887:1:170,Eurydema,,,,,Pentatomidae,,Eurydema,Eurydema,Cimicoromorpha | Pentatomidae | Eurydema | Eurydema,,4485898
-B887:1:172,Eurydema ornata,,Eurydema,,ornata,,species,,B887:1,accepted,,,B887:1:170,Eurydema,,,,,Pentatomidae,,Eurydema,Eurydema,Cimicoromorpha | Pentatomidae | Eurydema | Eurydema,,4485906
-B887:1:173,Rubrodorsalium,,,,,,subgenus,,B887:1,accepted,,,B887:1:169,Eurydema,,,,,Pentatomidae,,Eurydema,Rubrodorsalium,Cimicoromorpha | Pentatomidae | Eurydema,,
-B887:1:174,Eurydema dominulus,,Eurydema,,dominulus,,species,,B887:1,accepted,,,B887:1:173,Rubrodorsalium,,,,,Pentatomidae,,Eurydema,Rubrodorsalium,Cimicoromorpha | Pentatomidae | Eurydema | Rubrodorsalium,,4485896
-B887:1:175,Eurydema ventralis,,Eurydema,,ventralis,,species,,B887:1,accepted,,,B887:1:173,Rubrodorsalium,,,,,Pentatomidae,,Eurydema,Rubrodorsalium,Cimicoromorpha | Pentatomidae | Eurydema | Rubrodorsalium,,4485895
-B887:1:176,Graphosoma,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Graphosoma,,Cimicoromorpha | Pentatomidae,,4405318
-B887:1:177,Graphosoma,,,,,,subgenus,,B887:1,accepted,,,B887:1:176,Graphosoma,,,,,Pentatomidae,,Graphosoma,Graphosoma,Cimicoromorpha | Pentatomidae | Graphosoma,,
-B887:1:178,Graphosoma lineatum,,Graphosoma,,lineatum,,species,,B887:1,accepted,,,B887:1:177,Graphosoma,,,,,Pentatomidae,,Graphosoma,Graphosoma,Cimicoromorpha | Pentatomidae | Graphosoma | Graphosoma,,4485729
-B887:1:179,Podops,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Podops,,Cimicoromorpha | Pentatomidae,,8882580
-B887:1:180,Podops,,,,,,subgenus,,B887:1,accepted,,,B887:1:179,Podops,,,,,Pentatomidae,,Podops,Podops,Cimicoromorpha | Pentatomidae | Podops,,
-B887:1:181,Podops inuncta,,Podops,,inuncta,,species,,B887:1,accepted,,,B887:1:180,Podops,,,,,Pentatomidae,,Podops,Podops,Cimicoromorpha | Pentatomidae | Podops | Podops,,4485704
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B887:1:1,Cimicoromorpha,,,,,,infraorder,,B887:1,accepted,,,,,,,,,,,,,,,,,
+B887:1:2,Pyrrhocoridae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Pyrrhocoridae,,,,Cimicoromorpha,FGX,7895,FGX,7895
+B887:1:3,Pyrrhocoris,,,,,,genus,,B887:1,accepted,,,B887:1:2,Pyrrhocoridae,,,,,Pyrrhocoridae,,Pyrrhocoris,,Cimicoromorpha | Pyrrhocoridae,,4407618,,4407618
+B887:1:4,Pyrrhocoris apterus,,Pyrrhocoris,,apterus,,species,,B887:1,accepted,,,B887:1:3,Pyrrhocoris,,,,,Pyrrhocoridae,,Pyrrhocoris,,Cimicoromorpha | Pyrrhocoridae | Pyrrhocoris,,4486826,,4486826
+B887:1:5,Stenocephalidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Stenocephalidae,,,,Cimicoromorpha,8NKQN,4328,8NKQN,4328
+B887:1:6,Dicranocephalus,,,,,,genus,,B887:1,accepted,,,B887:1:5,Stenocephalidae,,,,,Stenocephalidae,,Dicranocephalus,,Cimicoromorpha | Stenocephalidae,8NNVX,3262623,8NNVX,3262623
+B887:1:7,Dicranocephalus agilis,,Dicranocephalus,,agilis,,species,,B887:1,accepted,,,B887:1:6,Dicranocephalus,,,,,Stenocephalidae,,Dicranocephalus,,Cimicoromorpha | Stenocephalidae | Dicranocephalus,35R7W,4391703,35R7W,4391703
+B887:1:8,Dicranocephalus medius,,Dicranocephalus,,medius,,species,,B887:1,accepted,,,B887:1:6,Dicranocephalus,,,,,Stenocephalidae,,Dicranocephalus,,Cimicoromorpha | Stenocephalidae | Dicranocephalus,35R8K,5758706,35R8K,5758706
+B887:1:9,Rhopalidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Rhopalidae,,,,Cimicoromorpha,8NKQ9,4325,8NKQ9,4325
+B887:1:10,Brachycarenus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Brachycarenus,,Cimicoromorpha | Rhopalidae,8NNGS,4391871,8NNGS,4391871
+B887:1:11,Brachycarenus tigrinus,,Brachycarenus,,tigrinus,,species,,B887:1,accepted,,,B887:1:10,Brachycarenus,,,,,Rhopalidae,,Brachycarenus,,Cimicoromorpha | Rhopalidae | Brachycarenus,5X287,4391872,5X287,4391872
+B887:1:12,Corizus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Corizus,,Cimicoromorpha | Rhopalidae,8NQ2K,2050276,8NQ2K,2050276
+B887:1:13,Corizus hyoscyami,,Corizus,,hyoscyami,,species,,B887:1,accepted,,,B887:1:12,Corizus,,,,,Rhopalidae,,Corizus,,Cimicoromorpha | Rhopalidae | Corizus,YFMV,4391874,YFMV,4391874
+B887:1:14,Corizus hyoscyami subsp. hyoscyami,,Corizus,,hyoscyami,hyoscyami,subspecies,,B887:1,accepted,,,B887:1:13,Corizus hyoscyami,,,,,Rhopalidae,,Corizus,,Cimicoromorpha | Rhopalidae | Corizus | Corizus hyoscyami,5DWYV,4391875,5DWYV,4391875
+B887:1:15,Liorhyssus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Liorhyssus,,Cimicoromorpha | Rhopalidae,8NQYN,2050223,8NQYN,2050223
+B887:1:16,Liorhyssus hyalinus,,Liorhyssus,,hyalinus,,species,,B887:1,accepted,,,B887:1:15,Liorhyssus,,,,,Rhopalidae,,Liorhyssus,,Cimicoromorpha | Rhopalidae | Liorhyssus,3V7WP,2050224,3V7WP,2050224
+B887:1:17,Rhopalus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Rhopalus,,Cimicoromorpha | Rhopalidae,8NYP2,2050237,8NYP2,2050237
+B887:1:18,Aeschyntelus,,,,,,subgenus,,B887:1,accepted,,,B887:1:17,Rhopalus,,,,,Rhopalidae,,Rhopalus,Aeschyntelus,Cimicoromorpha | Rhopalidae | Rhopalus,8Q6MC,,8Q6MC,
+B887:1:19,Rhopalus maculatus,,Rhopalus,,maculatus,,species,,B887:1,accepted,,,B887:1:18,Aeschyntelus,,,,,Rhopalidae,,Rhopalus,Aeschyntelus,Cimicoromorpha | Rhopalidae | Rhopalus | Aeschyntelus,4SMDF,4391866,4SMDF,4391866
+B887:1:20,Rhopalus,,,,,,subgenus,,B887:1,accepted,,,B887:1:17,Rhopalus,,,,,Rhopalidae,,Rhopalus,Rhopalus,Cimicoromorpha | Rhopalidae | Rhopalus,8NYP2,,8NYP2,
+B887:1:21,Rhopalus parumpunctatus,,Rhopalus,,parumpunctatus,,species,,B887:1,accepted,,,B887:1:20,Rhopalus,,,,,Rhopalidae,,Rhopalus,Rhopalus,Cimicoromorpha | Rhopalidae | Rhopalus | Rhopalus,4SMDN,4391858,4SMDN,4391858
+B887:1:22,Rhopalus subrufus,,Rhopalus,,subrufus,,species,,B887:1,accepted,,,B887:1:20,Rhopalus,,,,,Rhopalidae,,Rhopalus,Rhopalus,Cimicoromorpha | Rhopalidae | Rhopalus | Rhopalus,4SMDQ,2050239,4SMDQ,2050239
+B887:1:23,Stictopleurus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Stictopleurus,,Cimicoromorpha | Rhopalidae,8NZKV,2050268,8NZKV,2050268
+B887:1:24,Stictopleurus abutilon,,Stictopleurus,,abutilon,,species,,B887:1,accepted,,,B887:1:23,Stictopleurus,,,,,Rhopalidae,,Stictopleurus,,Cimicoromorpha | Rhopalidae | Stictopleurus,6ZTDH,4391852,6ZTDH,4391852
+B887:1:25,Stictopleurus punctatonervosus,,Stictopleurus,,punctatonervosus,,species,,B887:1,accepted,,,B887:1:23,Stictopleurus,,,,,Rhopalidae,,Stictopleurus,,Cimicoromorpha | Rhopalidae | Stictopleurus,52KHB,4391843,52KHB,4391843
+B887:1:26,Chorosoma,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Chorosoma,,Cimicoromorpha | Rhopalidae,8NPLM,4391943,8NPLM,4391943
+B887:1:27,Chorosoma schillingii,,Chorosoma,,schillingii,,species,,B887:1,accepted,,,B887:1:26,Chorosoma,,,,,Rhopalidae,,Chorosoma,,Cimicoromorpha | Rhopalidae | Chorosoma,5YD7C,4391944,5YD7C,4391944
+B887:1:28,Myrmus,,,,,,genus,,B887:1,accepted,,,B887:1:9,Rhopalidae,,,,,Rhopalidae,,Myrmus,,Cimicoromorpha | Rhopalidae,8NVNM,3265873,8NVNM,3265873
+B887:1:29,Myrmus miriformis,,Myrmus,,miriformis,,species,,B887:1,accepted,,,B887:1:28,Myrmus,,,,,Rhopalidae,,Myrmus,,Cimicoromorpha | Rhopalidae | Myrmus,45D29,5733462,45D29,5733462
+B887:1:30,Myrmus miriformis subsp. miriformis,,Myrmus,,miriformis,miriformis,subspecies,,B887:1,accepted,,,B887:1:29,Myrmus miriformis,,,,,Rhopalidae,,Myrmus,,Cimicoromorpha | Rhopalidae | Myrmus | Myrmus miriformis,7HH7Y,5733463,7HH7Y,5733463
+B887:1:31,Alydidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Alydidae,,,,Cimicoromorpha,8NKGW,7875,8NKGW,7875
+B887:1:32,Alydus,,,,,,genus,,B887:1,accepted,,,B887:1:31,Alydidae,,,,,Alydidae,,Alydus,,Cimicoromorpha | Alydidae,8NLS6,2050167,8NLS6,2050167
+B887:1:33,Alydus calcaratus,,Alydus,,calcaratus,,species,,B887:1,accepted,,,B887:1:32,Alydus,,,,,Alydidae,,Alydus,,Cimicoromorpha | Alydidae | Alydus,CC3X,2050173,CC3X,2050173
+B887:1:34,Coreidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Coreidae,,,,Cimicoromorpha,8NKJF,9649,8NKJF,9649
+B887:1:35,Arenocoris,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Arenocoris,,Cimicoromorpha | Coreidae,8NM3C,4391585,8NM3C,4391585
+B887:1:36,Arenocoris fallenii,,Arenocoris,,fallenii,,species,,B887:1,accepted,,,B887:1:35,Arenocoris,,,,,Coreidae,,Arenocoris,,Cimicoromorpha | Coreidae | Arenocoris,GFN8,4391587,GFN8,4391587
+B887:1:37,Arenocoris waltlii,,Arenocoris,,waltlii,,species,,B887:1,accepted,,,B887:1:35,Arenocoris,,,,,Coreidae,,Arenocoris,,Cimicoromorpha | Coreidae | Arenocoris,5VRDM,4391597,5VRDM,4391597
+B887:1:38,Bathysolen,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Bathysolen,,Cimicoromorpha | Coreidae,8NMDQ,4391661,8NMDQ,4391661
+B887:1:39,Bathysolen nubilus,,Bathysolen,,nubilus,,species,,B887:1,accepted,,,B887:1:38,Bathysolen,,,,,Coreidae,,Bathysolen,,Cimicoromorpha | Coreidae | Bathysolen,KYCN,4391663,KYCN,4391663
+B887:1:40,Ceraleptus,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Ceraleptus,,Cimicoromorpha | Coreidae,8NMYV,2050009,8NMYV,2050009
+B887:1:41,Ceraleptus lividus,,Ceraleptus,,lividus,,species,,B887:1,accepted,,,B887:1:40,Ceraleptus,,,,,Coreidae,,Ceraleptus,,Cimicoromorpha | Coreidae | Ceraleptus,SGGQ,4391506,SGGQ,4391506
+B887:1:42,Coriomeris,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Coriomeris,,Cimicoromorpha | Coreidae,8NNFS,2050064,8NNFS,2050064
+B887:1:43,Coriomeris denticulatus,,Coriomeris,,denticulatus,,species,,B887:1,accepted,,,B887:1:42,Coriomeris,,,,,Coreidae,,Coriomeris,,Cimicoromorpha | Coreidae | Coriomeris,6B57L,2050067,6B57L,2050067
+B887:1:44,Coriomeris scabricornis,,Coriomeris,,scabricornis,,species,,B887:1,accepted,,,B887:1:42,Coriomeris,,,,,Coreidae,,Coriomeris,,Cimicoromorpha | Coreidae | Coriomeris,YF8Q,4391547,YF8Q,4391547
+B887:1:45,Coriomeris scabricornis subsp. scabricornis,,Coriomeris,,scabricornis,scabricornis,subspecies,,B887:1,accepted,,,B887:1:44,Coriomeris scabricornis,,,,,Coreidae,,Coriomeris,,Cimicoromorpha | Coreidae | Coriomeris | Coriomeris scabricornis,5DWYK,4391548,5DWYK,4391548
+B887:1:46,Coreus,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Coreus,,Cimicoromorpha | Coreidae,8NNFP,2049958,8NNFP,2049958
+B887:1:47,Coreus marginatus,,Coreus,,marginatus,,species,,B887:1,accepted,,,B887:1:46,Coreus,,,,,Coreidae,,Coreus,,Cimicoromorpha | Coreidae | Coreus,6B3KM,4388646,6B3KM,4388646
+B887:1:48,Coreus marginatus subsp. marginatus,,Coreus,,marginatus,marginatus,subspecies,,B887:1,accepted,,,B887:1:47,Coreus marginatus,,,,,Coreidae,,Coreus,,Cimicoromorpha | Coreidae | Coreus | Coreus marginatus,5DWYF,4388647,5DWYF,4388647
+B887:1:49,Enoplops,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Enoplops,,Cimicoromorpha | Coreidae,8NPGG,4388488,8NPGG,4388488
+B887:1:50,Enoplops scapha,,Enoplops,,scapha,,species,,B887:1,accepted,,,B887:1:49,Enoplops,,,,,Coreidae,,Enoplops,,Cimicoromorpha | Coreidae | Enoplops,39WS5,4388497,39WS5,4388497
+B887:1:51,Leptoglossus,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Leptoglossus,,Cimicoromorpha | Coreidae,8NQVN,2050115,8NQVN,2050115
+B887:1:52,Leptoglossus occidentalis,,Leptoglossus,,occidentalis,,species,,B887:1,accepted,,,B887:1:51,Leptoglossus,,,,,Coreidae,,Leptoglossus,,Cimicoromorpha | Coreidae | Leptoglossus,6PGH9,5156102,6PGH9,5156102
+B887:1:53,Spathocera,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Spathocera,,Cimicoromorpha | Coreidae,8NZ9X,4388614,8NZ9X,4388614
+B887:1:54,Spathocera dalmanii,,Spathocera,,dalmanii,,species,,B887:1,accepted,,,B887:1:53,Spathocera,,,,,Coreidae,,Spathocera,,Cimicoromorpha | Coreidae | Spathocera,6Z6ZN,4388623,6Z6ZN,4388623
+B887:1:55,Syromastus,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Syromastus,,Cimicoromorpha | Coreidae,8NZQR,4388657,8NZQR,4388657
+B887:1:56,Syromastus rhombeus,,Syromastus,,rhombeus,,species,,B887:1,accepted,,,B887:1:55,Syromastus,,,,,Coreidae,,Syromastus,,Cimicoromorpha | Coreidae | Syromastus,5433H,4388663,5433H,4388663
+B887:1:57,Gonocerus,,,,,,genus,,B887:1,accepted,,,B887:1:34,Coreidae,,,,,Coreidae,,Gonocerus,,Cimicoromorpha | Coreidae,8NPX8,2050051,8NPX8,2050051
+B887:1:58,Gonocerus acuteangulatus,,Gonocerus,,acuteangulatus,,species,,B887:1,accepted,,,B887:1:57,Gonocerus,,,,,Coreidae,,Gonocerus,,Cimicoromorpha | Coreidae | Gonocerus,3GY8F,4390084,3GY8F,4390084
+B887:1:59,Gonocerus juniperi,,Gonocerus,,juniperi,,species,,B887:1,accepted,,,B887:1:57,Gonocerus,,,,,Coreidae,,Gonocerus,,Cimicoromorpha | Coreidae | Gonocerus,3GY9H,4390078,3GY9H,4390078
+B887:1:60,Cydnidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Cydnidae,,,,Cimicoromorpha,624H7,6989,624H7,6989
+B887:1:61,Cydnus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Cydnus,,Cimicoromorpha | Cydnidae,3Y6K,2078814,3Y6K,2078814
+B887:1:62,Cydnus aterrimus,,Cydnus,,aterrimus,,species,,B887:1,accepted,,,B887:1:61,Cydnus,,,,,Cydnidae,,Cydnus,,Cimicoromorpha | Cydnidae | Cydnus,,2078815,,2078815
+B887:1:63,Byrsinus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Byrsinus,,Cimicoromorpha | Cydnidae,,4406877,,4406877
+B887:1:64,Byrsinus flavicornis,,Byrsinus,,flavicornis,,species,,B887:1,accepted,,,B887:1:63,Byrsinus,,,,,Cydnidae,,Byrsinus,,Cimicoromorpha | Cydnidae | Byrsinus,,4486103,,4486103
+B887:1:65,Microporus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Microporus,,Cimicoromorpha | Cydnidae,9XDHB,2078797,9XDHB,2078797
+B887:1:66,Microporus nigrita,,Microporus,,nigrita,,species,,B887:1,accepted,,,B887:1:65,Microporus,,,,,Cydnidae,,Microporus,,Cimicoromorpha | Cydnidae | Microporus,,5758803,,5758803
+B887:1:67,Adomerus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Adomerus,,Cimicoromorpha | Cydnidae,,4405030,,4405030
+B887:1:68,Adomerus biguttatus,,Adomerus,,biguttatus,,species,,B887:1,accepted,,,B887:1:67,Adomerus,,,,,Cydnidae,,Adomerus,,Cimicoromorpha | Cydnidae | Adomerus,,4486134,,4486134
+B887:1:69,Legnotus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Legnotus,,Cimicoromorpha | Cydnidae,,3265255,,3265255
+B887:1:70,Legnotus limbosus,,Legnotus,,limbosus,,species,,B887:1,accepted,,,B887:1:69,Legnotus,,,,,Cydnidae,,Legnotus,,Cimicoromorpha | Cydnidae | Legnotus,,5758810,,5758810
+B887:1:71,Legnotus picipes,,Legnotus,,picipes,,species,,B887:1,accepted,,,B887:1:69,Legnotus,,,,,Cydnidae,,Legnotus,,Cimicoromorpha | Cydnidae | Legnotus,,5758812,,5758812
+B887:1:72,Sehirus,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Sehirus,,Cimicoromorpha | Cydnidae,7F5B,2078780,7F5B,2078780
+B887:1:73,Sehirus luctuosus,,Sehirus,,luctuosus,,species,,B887:1,accepted,,,B887:1:72,Sehirus,,,,,Cydnidae,,Sehirus,,Cimicoromorpha | Cydnidae | Sehirus,,4486163,,4486163
+B887:1:74,Sehirus morio,,Sehirus,,morio,,species,,B887:1,accepted,,,B887:1:72,Sehirus,,,,,Cydnidae,,Sehirus,,Cimicoromorpha | Cydnidae | Sehirus,,2078781,,2078781
+B887:1:75,Tritomegas,,,,,,genus,,B887:1,accepted,,,B887:1:60,Cydnidae,,,,,Cydnidae,,Tritomegas,,Cimicoromorpha | Cydnidae,,3265258,,3265258
+B887:1:76,Tritomegas bicolor,,Tritomegas,,bicolor,,species,,B887:1,accepted,,,B887:1:75,Tritomegas,,,,,Cydnidae,,Tritomegas,,Cimicoromorpha | Cydnidae | Tritomegas,,5758805,,5758805
+B887:1:77,Tritomegas sexmaculatus,,Tritomegas,,sexmaculatus,,species,,B887:1,accepted,,,B887:1:75,Tritomegas,,,,,Cydnidae,,Tritomegas,,Cimicoromorpha | Cydnidae | Tritomegas,,5758809,,5758809
+B887:1:78,Thyreocoridae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Thyreocoridae,,,,Cimicoromorpha,H8R,7898,H8R,7898
+B887:1:79,Thyreocoris,,,,,,genus,,B887:1,accepted,,,B887:1:78,Thyreocoridae,,,,,Thyreocoridae,,Thyreocoris,,Cimicoromorpha | Thyreocoridae,,4486000,,4486000
+B887:1:80,Thyreocoris scarabaeoides,,Thyreocoris,,scarabaeoides,,species,,B887:1,accepted,,,B887:1:79,Thyreocoris,,,,,Thyreocoridae,,Thyreocoris,,Cimicoromorpha | Thyreocoridae | Thyreocoris,,4486004,,4486004
+B887:1:81,Acanthosomatidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Acanthosomatidae,,,,Cimicoromorpha,7NFSF,4303,7NFSF,4303
+B887:1:82,Acanthosoma,,,,,,genus,,B887:1,accepted,,,B887:1:81,Acanthosomatidae,,,,,Acanthosomatidae,,Acanthosoma,,Cimicoromorpha | Acanthosomatidae,7NMN9,11258498,7NMN9,11258498
+B887:1:83,Acanthosoma haemorrhoidale,,Acanthosoma,,haemorrhoidale,,species,,B887:1,accepted,,,B887:1:82,Acanthosoma,,,,,Acanthosomatidae,,Acanthosoma,,Cimicoromorpha | Acanthosomatidae | Acanthosoma,7Q9KF,5866246,7Q9KF,5866246
+B887:1:84,Acanthosoma haemorrhoidale subsp. haemorrhoidale,,Acanthosoma,,haemorrhoidale,haemorrhoidale,subspecies,,B887:1,accepted,,,B887:1:83,Acanthosoma haemorrhoidale,,,,,Acanthosomatidae,,Acanthosoma,,Cimicoromorpha | Acanthosomatidae | Acanthosoma | Acanthosoma haemorrhoidale,7X8WV,6096806,7X8WV,6096806
+B887:1:85,Cyphostethus,,,,,,genus,,B887:1,accepted,,,B887:1:81,Acanthosomatidae,,,,,Acanthosomatidae,,Cyphostethus,,Cimicoromorpha | Acanthosomatidae,7NV8G,3265727,7NV8G,3265727
+B887:1:86,Cyphostethus tristriatus,,Cyphostethus,,tristriatus,,species,,B887:1,accepted,,,B887:1:85,Cyphostethus,,,,,Acanthosomatidae,,Cyphostethus,,Cimicoromorpha | Acanthosomatidae | Cyphostethus,7SX54,6096805,7SX54,6096805
+B887:1:87,Elasmostethus,,,,,,genus,,B887:1,accepted,,,B887:1:81,Acanthosomatidae,,,,,Acanthosomatidae,,Elasmostethus,,Cimicoromorpha | Acanthosomatidae,7NVTY,2079269,7NVTY,2079269
+B887:1:88,Elasmostethus interstinctus,,Elasmostethus,,interstinctus,,species,,B887:1,accepted,,,B887:1:87,Elasmostethus,,,,,Acanthosomatidae,,Elasmostethus,,Cimicoromorpha | Acanthosomatidae | Elasmostethus,7TG9H,2079270,7TG9H,2079270
+B887:1:89,Elasmostethus minor,,Elasmostethus,,minor,,species,,B887:1,accepted,,,B887:1:87,Elasmostethus,,,,,Acanthosomatidae,,Elasmostethus,,Cimicoromorpha | Acanthosomatidae | Elasmostethus,7TG9R,4485983,7TG9R,4485983
+B887:1:90,Elasmucha,,,,,,genus,,B887:1,accepted,,,B887:1:81,Acanthosomatidae,,,,,Acanthosomatidae,,Elasmucha,,Cimicoromorpha | Acanthosomatidae,7NYBN,2079257,7NYBN,2079257
+B887:1:91,Elasmucha ferrugata,,Elasmucha,,ferrugata,,species,,B887:1,accepted,,,B887:1:90,Elasmucha,,,,,Acanthosomatidae,,Elasmucha,,Cimicoromorpha | Acanthosomatidae | Elasmucha,7TGBP,2079261,7TGBP,2079261
+B887:1:92,Elasmucha fieberi,,Elasmucha,,fieberi,,species,,B887:1,accepted,,,B887:1:90,Elasmucha,,,,,Acanthosomatidae,,Elasmucha,,Cimicoromorpha | Acanthosomatidae | Elasmucha,7TGBR,4485991,7TGBR,4485991
+B887:1:93,Elasmucha grisea,,Elasmucha,,grisea,,species,,B887:1,accepted,,,B887:1:90,Elasmucha,,,,,Acanthosomatidae,,Elasmucha,,Cimicoromorpha | Acanthosomatidae | Elasmucha,7TGBX,4485987,7TGBX,4485987
+B887:1:94,Elasmucha grisea subsp. grisea,,Elasmucha,,grisea,grisea,subspecies,,B887:1,accepted,,,B887:1:93,Elasmucha grisea,,,,,Acanthosomatidae,,Elasmucha,,Cimicoromorpha | Acanthosomatidae | Elasmucha | Elasmucha grisea,7XCZH,4485990,7XCZH,4485990
+B887:1:95,Scutelleridae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Scutelleridae,,,,Cimicoromorpha,G5X,4327,G5X,4327
+B887:1:96,Phimodera,,,,,,genus,,B887:1,accepted,,,B887:1:95,Scutelleridae,,,,,Scutelleridae,,Phimodera,,Cimicoromorpha | Scutelleridae,6NLZ,2079352,6NLZ,2079352
+B887:1:97,Phimodera humeralis,,Phimodera,,humeralis,,species,,B887:1,accepted,,,B887:1:96,Phimodera,,,,,Scutelleridae,,Phimodera,,Cimicoromorpha | Scutelleridae | Phimodera,,4486030,,4486030
+B887:1:98,Odontoscelis,,,,,,genus,,B887:1,accepted,,,B887:1:95,Scutelleridae,,,,,Scutelleridae,,Odontoscelis,,Cimicoromorpha | Scutelleridae,8LQJK,2079364,8KW79,2079364
+B887:1:99,Odontoscelis fuliginosa,,Odontoscelis,,fuliginosa,,species,,B887:1,accepted,,,B887:1:98,Odontoscelis,,,,,Scutelleridae,,Odontoscelis,,Cimicoromorpha | Scutelleridae | Odontoscelis,,5758780,,5758780
+B887:1:100,Odontoscelis lineola,,Odontoscelis,,lineola,,species,,B887:1,accepted,,,B887:1:98,Odontoscelis,,,,,Scutelleridae,,Odontoscelis,,Cimicoromorpha | Scutelleridae | Odontoscelis,,5758782,,5758782
+B887:1:101,Eurygaster,,,,,,genus,,B887:1,accepted,,,B887:1:95,Scutelleridae,,,,,Scutelleridae,,Eurygaster,,Cimicoromorpha | Scutelleridae,9XD49,2079334,9XD49,2079334
+B887:1:102,Eurygaster austriaca,,Eurygaster,,austriaca,,species,,B887:1,accepted,,,B887:1:101,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Cimicoromorpha | Scutelleridae | Eurygaster,,5758791,,5758791
+B887:1:103,Eurygaster maura,,Eurygaster,,maura,,species,,B887:1,accepted,,,B887:1:101,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Cimicoromorpha | Scutelleridae | Eurygaster,,5758789,,5758789
+B887:1:104,Eurygaster testudinaria,,Eurygaster,,testudinaria,,species,,B887:1,accepted,,,B887:1:101,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Cimicoromorpha | Scutelleridae | Eurygaster,,5758794,,5758794
+B887:1:105,Eurygaster testudinaria subsp. testudinaria,,Eurygaster,,testudinaria,testudinaria,subspecies,,B887:1,accepted,,,B887:1:104,Eurygaster testudinaria,,,,,Scutelleridae,,Eurygaster,,Cimicoromorpha | Scutelleridae | Eurygaster | Eurygaster testudinaria,,5758795,,5758794
+B887:1:106,Pentatomidae,,,,,,family,,B887:1,accepted,,,B887:1:1,Cimicoromorpha,,,,,Pentatomidae,,,,Cimicoromorpha,62662,9650,62662,9650
+B887:1:107,Arma,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Arma,,Cimicoromorpha | Pentatomidae,,4405706,,4405706
+B887:1:108,Arma custos,,Arma,,custos,,species,,B887:1,accepted,,,B887:1:107,Arma,,,,,Pentatomidae,,Arma,,Cimicoromorpha | Pentatomidae | Arma,,4485971,,4485971
+B887:1:109,Jalla,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Jalla,,Cimicoromorpha | Pentatomidae,8PMHC,3266040,8P34B,3266040
+B887:1:110,Jalla dumosa,,Jalla,,dumosa,,species,,B887:1,accepted,,,B887:1:109,Jalla,,,,,Pentatomidae,,Jalla,,Cimicoromorpha | Pentatomidae | Jalla,,5758771,,5758771
+B887:1:111,Picromerus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Picromerus,,Cimicoromorpha | Pentatomidae,6Q8W,2079126,6Q8W,2079126
+B887:1:112,Picromerus bidens,,Picromerus,,bidens,,species,,B887:1,accepted,,,B887:1:111,Picromerus,,,,,Pentatomidae,,Picromerus,,Cimicoromorpha | Pentatomidae | Picromerus,,5160015,,5160015
+B887:1:113,Pinthaeus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Pinthaeus,,Cimicoromorpha | Pentatomidae,,4407624,,4407624
+B887:1:114,Pinthaeus sanguinipes,,Pinthaeus,,sanguinipes,,species,,B887:1,accepted,,,B887:1:113,Pinthaeus,,,,,Pentatomidae,,Pinthaeus,,Cimicoromorpha | Pentatomidae | Pinthaeus,,4485978,,4485978
+B887:1:115,Rhacognathus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Rhacognathus,,Cimicoromorpha | Pentatomidae,787H,2078994,787H,2078994
+B887:1:116,Rhacognathus punctatus,,Rhacognathus,,punctatus,,species,,B887:1,accepted,,,B887:1:115,Rhacognathus,,,,,Pentatomidae,,Rhacognathus,,Cimicoromorpha | Pentatomidae | Rhacognathus,,2078996,,2078996
+B887:1:117,Troilus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Troilus,,Cimicoromorpha | Pentatomidae,,4407233,,4407233
+B887:1:118,Troilus luridus,,Troilus,,luridus,,species,,B887:1,accepted,,,B887:1:117,Troilus,,,,,Pentatomidae,,Troilus,,Cimicoromorpha | Pentatomidae | Troilus,,4485973,,4485973
+B887:1:119,Zicrona,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Zicrona,,Cimicoromorpha | Pentatomidae,648MM,2078941,648MM,2078941
+B887:1:120,Zicrona caerulea,,Zicrona,,caerulea,,species,,B887:1,accepted,,,B887:1:119,Zicrona,,,,,Pentatomidae,,Zicrona,,Cimicoromorpha | Pentatomidae | Zicrona,,2078942,,2078942
+B887:1:121,Aelia,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Aelia,,Cimicoromorpha | Pentatomidae,PLJ,2079121,PLJ,2079121
+B887:1:122,Aelia acuminata,,Aelia,,acuminata,,species,,B887:1,accepted,,,B887:1:121,Aelia,,,,,Pentatomidae,,Aelia,,Cimicoromorpha | Pentatomidae | Aelia,,2079123,,2079123
+B887:1:123,Aelia klugii,,Aelia,,klugii,,species,,B887:1,accepted,,,B887:1:121,Aelia,,,,,Pentatomidae,,Aelia,,Cimicoromorpha | Pentatomidae | Aelia,,6096804,,6096804
+B887:1:124,Neottiglossa,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Neottiglossa,,Cimicoromorpha | Pentatomidae,62YZ,2078911,62YZ,2078911
+B887:1:125,Neottiglossa pusilla,,Neottiglossa,,pusilla,,species,,B887:1,accepted,,,B887:1:124,Neottiglossa,,,,,Pentatomidae,,Neottiglossa,,Cimicoromorpha | Pentatomidae | Neottiglossa,,4485936,,4485936
+B887:1:126,Carpocoris,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Carpocoris,,Cimicoromorpha | Pentatomidae,,4405367,,4405367
+B887:1:127,Carpocoris,,,,,,subgenus,,B887:1,accepted,,,B887:1:126,Carpocoris,,,,,Pentatomidae,,Carpocoris,Carpocoris,Cimicoromorpha | Pentatomidae | Carpocoris,,,,
+B887:1:128,Carpocoris fuscispinus,,Carpocoris,,fuscispinus,,species,,B887:1,accepted,,,B887:1:127,Carpocoris,,,,,Pentatomidae,,Carpocoris,Carpocoris,Cimicoromorpha | Pentatomidae | Carpocoris | Carpocoris,,4485800,,4485800
+B887:1:129,Carpocoris purpureipennis,,Carpocoris,,purpureipennis,,species,,B887:1,accepted,,,B887:1:127,Carpocoris,,,,,Pentatomidae,,Carpocoris,Carpocoris,Cimicoromorpha | Pentatomidae | Carpocoris | Carpocoris,,4485798,,4485798
+B887:1:130,Chlorochroa,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Chlorochroa,,Cimicoromorpha | Pentatomidae,3NMG,2064707,3NMG,2064707
+B887:1:131,Rhytidolomia,,,,,,subgenus,,B887:1,accepted,,,B887:1:130,Chlorochroa,,,,,Pentatomidae,,Chlorochroa,Rhytidolomia,Cimicoromorpha | Pentatomidae | Chlorochroa,,,,
+B887:1:132,Chlorochroa juniperina,,Chlorochroa,,juniperina,,species,,B887:1,accepted,,,B887:1:131,Rhytidolomia,,,,,Pentatomidae,,Chlorochroa,Rhytidolomia,Cimicoromorpha | Pentatomidae | Chlorochroa | Rhytidolomia,,4485816,,4485816
+B887:1:133,Chlorochroa juniperina subsp. juniperina,,Chlorochroa,,juniperina,juniperina,subspecies,,B887:1,accepted,,,B887:1:132,Chlorochroa juniperina,,,,,Pentatomidae,,Chlorochroa,Rhytidolomia,Cimicoromorpha | Pentatomidae | Chlorochroa | Rhytidolomia | Chlorochroa juniperina,,4485818,,4485816
+B887:1:134,Chlorochroa pinicola,,Chlorochroa,,pinicola,,species,,B887:1,accepted,,,B887:1:131,Rhytidolomia,,,,,Pentatomidae,,Chlorochroa,Rhytidolomia,Cimicoromorpha | Pentatomidae | Chlorochroa | Rhytidolomia,,4485821,,4485821
+B887:1:135,Dolycoris,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Dolycoris,,Cimicoromorpha | Pentatomidae,,4406875,,4406875
+B887:1:136,Dolycoris baccarum,,Dolycoris,,baccarum,,species,,B887:1,accepted,,,B887:1:135,Dolycoris,,,,,Pentatomidae,,Dolycoris,,Cimicoromorpha | Pentatomidae | Dolycoris,,4485824,,4485824
+B887:1:137,Holcostethus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Holcostethus,,Cimicoromorpha | Pentatomidae,4XVB,2079189,4XVB,2079189
+B887:1:138,Holcostethus,,,,,,subgenus,,B887:1,accepted,,,B887:1:137,Holcostethus,,,,,Pentatomidae,,Holcostethus,Holcostethus,Cimicoromorpha | Pentatomidae | Holcostethus,4XVB,,4XVB,
+B887:1:139,Holcostethus sphacelatus,,Holcostethus,,sphacelatus,,species,,B887:1,accepted,,,B887:1:138,Holcostethus,,,,,Pentatomidae,,Holcostethus,Holcostethus,Cimicoromorpha | Pentatomidae | Holcostethus | Holcostethus,,2079190,,2079190
+B887:1:140,Palomena,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Palomena,,Cimicoromorpha | Pentatomidae,,4406712,,4406712
+B887:1:141,Palomena prasina,,Palomena,,prasina,,species,,B887:1,accepted,,,B887:1:140,Palomena,,,,,Pentatomidae,,Palomena,,Cimicoromorpha | Pentatomidae | Palomena,,4485776,,4485776
+B887:1:142,Palomena viridissima,,Palomena,,viridissima,,species,,B887:1,accepted,,,B887:1:140,Palomena,,,,,Pentatomidae,,Palomena,,Cimicoromorpha | Pentatomidae | Palomena,,4485774,,4485774
+B887:1:143,Peribalus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Peribalus,,Cimicoromorpha | Pentatomidae,,2079014,,2079014
+B887:1:144,Peribalus,,,,,,subgenus,,B887:1,accepted,,,B887:1:143,Peribalus,,,,,Pentatomidae,,Peribalus,Peribalus,Cimicoromorpha | Pentatomidae | Peribalus,,,,
+B887:1:145,Peribalus strictus,,Peribalus,,strictus,,species,,B887:1,accepted,,,B887:1:144,Peribalus,,,,,Pentatomidae,,Peribalus,Peribalus,Cimicoromorpha | Pentatomidae | Peribalus | Peribalus,,4485782,,6096794
+B887:1:146,Rubiconia,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Rubiconia,,Cimicoromorpha | Pentatomidae,,4406106,,4406106
+B887:1:147,Rubiconia intermedia,,Rubiconia,,intermedia,,species,,B887:1,accepted,,,B887:1:146,Rubiconia,,,,,Pentatomidae,,Rubiconia,,Cimicoromorpha | Pentatomidae | Rubiconia,,4485796,,4485796
+B887:1:148,Eysarcoris,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Eysarcoris,,Cimicoromorpha | Pentatomidae,4J56,2078841,4J56,2078841
+B887:1:149,Eysarcoris aeneus,,Eysarcoris,,aeneus,,species,,B887:1,accepted,,,B887:1:148,Eysarcoris,,,,,Pentatomidae,,Eysarcoris,,Cimicoromorpha | Pentatomidae | Eysarcoris,,4485955,,4485955
+B887:1:150,Eysarcoris venustissimus,,Eysarcoris,,venustissimus,,species,,B887:1,accepted,,,B887:1:148,Eysarcoris,,,,,Pentatomidae,,Eysarcoris,,Cimicoromorpha | Pentatomidae | Eysarcoris,,4485952,,4485952
+B887:1:151,Stagonomus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Stagonomus,,Cimicoromorpha | Pentatomidae,,9131176,,9131176
+B887:1:152,Dalleria,,,,,,subgenus,,B887:1,accepted,,,B887:1:151,Stagonomus,,,,,Pentatomidae,,Stagonomus,Dalleria,Cimicoromorpha | Pentatomidae | Stagonomus,,,,
+B887:1:153,Stagonomus bipunctatus,,Stagonomus,,bipunctatus,,species,,B887:1,accepted,,,B887:1:152,Dalleria,,,,,Pentatomidae,,Stagonomus,Dalleria,Cimicoromorpha | Pentatomidae | Stagonomus | Dalleria,,5758763,,5758763
+B887:1:154,Nezara,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Nezara,,Cimicoromorpha | Pentatomidae,63VD,2078851,63VD,2078851
+B887:1:155,Nezara viridula,,Nezara,,viridula,,species,,B887:1,accepted,,,B887:1:154,Nezara,,,,,Pentatomidae,,Nezara,,Cimicoromorpha | Pentatomidae | Nezara,,2078852,,2078852
+B887:1:156,Pentatoma,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Pentatoma,,Cimicoromorpha | Pentatomidae,9KVKC,2079009,9J9VQ,2079009
+B887:1:157,Pentatoma,,,,,,subgenus,,B887:1,accepted,,,B887:1:156,Pentatoma,,,,,Pentatomidae,,Pentatoma,Pentatoma,Cimicoromorpha | Pentatomidae | Pentatoma,9KVKC,,9J9VQ,
+B887:1:158,Pentatoma rufipes,,Pentatoma,,rufipes,,species,,B887:1,accepted,,,B887:1:157,Pentatoma,,,,,Pentatomidae,,Pentatoma,Pentatoma,Cimicoromorpha | Pentatomidae | Pentatoma | Pentatoma,,5758737,,5758737
+B887:1:159,Rhaphigaster,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Rhaphigaster,,Cimicoromorpha | Pentatomidae,,2079011,,2079011
+B887:1:160,Rhaphigaster nebulosa,,Rhaphigaster,,nebulosa,,species,,B887:1,accepted,,,B887:1:159,Rhaphigaster,,,,,Pentatomidae,,Rhaphigaster,,Cimicoromorpha | Pentatomidae | Rhaphigaster,,5758736,,5758736
+B887:1:161,Piezodorus,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Piezodorus,,Cimicoromorpha | Pentatomidae,63MF2,2078820,63MF2,2078820
+B887:1:162,Piezodorus lituratus,,Piezodorus,,lituratus,,species,,B887:1,accepted,,,B887:1:161,Piezodorus,,,,,Pentatomidae,,Piezodorus,,Cimicoromorpha | Pentatomidae | Piezodorus,,2078821,,2078821
+B887:1:163,Sciocoris,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Sciocoris,,Cimicoromorpha | Pentatomidae,63RHM,2079251,63RHM,2079251
+B887:1:164,Aposciocoris,,,,,,subgenus,,B887:1,accepted,,,B887:1:163,Sciocoris,,,,,Pentatomidae,,Sciocoris,Aposciocoris,Cimicoromorpha | Pentatomidae | Sciocoris,,,,
+B887:1:165,Sciocoris homalonotus,,Sciocoris,,homalonotus,,species,,B887:1,accepted,,,B887:1:164,Aposciocoris,,,,,Pentatomidae,,Sciocoris,Aposciocoris,Cimicoromorpha | Pentatomidae | Sciocoris | Aposciocoris,,4485866,,4485866
+B887:1:166,Sciocoris,,,,,,subgenus,,B887:1,accepted,,,B887:1:163,Sciocoris,,,,,Pentatomidae,,Sciocoris,Sciocoris,Cimicoromorpha | Pentatomidae | Sciocoris,63RHM,,63RHM,
+B887:1:167,Sciocoris cursitans,,Sciocoris,,cursitans,,species,,B887:1,accepted,,,B887:1:166,Sciocoris,,,,,Pentatomidae,,Sciocoris,Sciocoris,Cimicoromorpha | Pentatomidae | Sciocoris | Sciocoris,,2079253,,2079253
+B887:1:168,Sciocoris cursitans subsp. cursitans,,Sciocoris,,cursitans,cursitans,subspecies,,B887:1,accepted,,,B887:1:167,Sciocoris cursitans,,,,,Pentatomidae,,Sciocoris,Sciocoris,Cimicoromorpha | Pentatomidae | Sciocoris | Sciocoris | Sciocoris cursitans,,4485860,,2079253
+B887:1:169,Eurydema,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Eurydema,,Cimicoromorpha | Pentatomidae,,8781759,,8781759
+B887:1:170,Eurydema,,,,,,subgenus,,B887:1,accepted,,,B887:1:169,Eurydema,,,,,Pentatomidae,,Eurydema,Eurydema,Cimicoromorpha | Pentatomidae | Eurydema,,,,
+B887:1:171,Eurydema oleracea,,Eurydema,,oleracea,,species,,B887:1,accepted,,,B887:1:170,Eurydema,,,,,Pentatomidae,,Eurydema,Eurydema,Cimicoromorpha | Pentatomidae | Eurydema | Eurydema,,4485898,,4485898
+B887:1:172,Eurydema ornata,,Eurydema,,ornata,,species,,B887:1,accepted,,,B887:1:170,Eurydema,,,,,Pentatomidae,,Eurydema,Eurydema,Cimicoromorpha | Pentatomidae | Eurydema | Eurydema,,4485906,,4485906
+B887:1:173,Rubrodorsalium,,,,,,subgenus,,B887:1,accepted,,,B887:1:169,Eurydema,,,,,Pentatomidae,,Eurydema,Rubrodorsalium,Cimicoromorpha | Pentatomidae | Eurydema,,,,
+B887:1:174,Eurydema dominulus,,Eurydema,,dominulus,,species,,B887:1,accepted,,,B887:1:173,Rubrodorsalium,,,,,Pentatomidae,,Eurydema,Rubrodorsalium,Cimicoromorpha | Pentatomidae | Eurydema | Rubrodorsalium,,4485896,,4485896
+B887:1:175,Eurydema ventralis,,Eurydema,,ventralis,,species,,B887:1,accepted,,,B887:1:173,Rubrodorsalium,,,,,Pentatomidae,,Eurydema,Rubrodorsalium,Cimicoromorpha | Pentatomidae | Eurydema | Rubrodorsalium,,4485895,,4485895
+B887:1:176,Graphosoma,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Graphosoma,,Cimicoromorpha | Pentatomidae,,4405318,,4405318
+B887:1:177,Graphosoma,,,,,,subgenus,,B887:1,accepted,,,B887:1:176,Graphosoma,,,,,Pentatomidae,,Graphosoma,Graphosoma,Cimicoromorpha | Pentatomidae | Graphosoma,,,,
+B887:1:178,Graphosoma lineatum,,Graphosoma,,lineatum,,species,,B887:1,accepted,,,B887:1:177,Graphosoma,,,,,Pentatomidae,,Graphosoma,Graphosoma,Cimicoromorpha | Pentatomidae | Graphosoma | Graphosoma,,4485729,,4485729
+B887:1:179,Podops,,,,,,genus,,B887:1,accepted,,,B887:1:106,Pentatomidae,,,,,Pentatomidae,,Podops,,Cimicoromorpha | Pentatomidae,,8882580,,8882580
+B887:1:180,Podops,,,,,,subgenus,,B887:1,accepted,,,B887:1:179,Podops,,,,,Pentatomidae,,Podops,Podops,Cimicoromorpha | Pentatomidae | Podops,,,,
+B887:1:181,Podops inuncta,,Podops,,inuncta,,species,,B887:1,accepted,,,B887:1:180,Podops,,,,,Pentatomidae,,Podops,Podops,Cimicoromorpha | Pentatomidae | Podops | Podops,,4485704,,4485704

@@ -1,15 +1,15 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B339:1:1,Agromyza,,,,,,genus,,B339:1,accepted,,,,,,,,,,,Agromyza,,,QZR,1554804
-B339:1:2,Agromyza cinerascens,,Agromyza,,cinerascens,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8G9,1554952
-B339:1:3,Agromyza luteitarsis,,Agromyza,,luteitarsis,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,89WST,4517344
-B339:1:4,Agromyza intermittens,,Agromyza,,intermittens,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8K9,1554950
-B339:1:5,Agromyza graminicola,,Agromyza,,graminicola,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8JD,1554953
-B339:1:6,Agromyza baetica,,Agromyza,,baetica,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8FG,1555028
-B339:1:7,Agromyza phragmitidis,,Agromyza,,phragmitidis,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8NL,1554836
-B339:1:8,Agromyza megalopsis,,Agromyza,,megalopsis,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8LR,1554819
-B339:1:9,Agromyza albipennis,,Agromyza,,albipennis,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,6664N,1554862
-B339:1:10,Agromyza nigrociliata,,Agromyza,,nigrociliata,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8MJ,1554980
-B339:1:11,Agromyza rondensis,,Agromyza,,rondensis,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8PL,1554888
-B339:1:12,Agromyza ambigua,,Agromyza,,ambigua,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,665T6,1554914
-B339:1:13,Agromyza nigripes,,Agromyza,,nigripes,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8MF,1554816
-B339:1:14,Agromyza lucida,,Agromyza,,lucida,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8L9,1555004
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B339:1:1,Agromyza,,,,,,genus,,B339:1,accepted,,,,,,,,,,,Agromyza,,,9XBTB,1554804,9XBTB,1554804
+B339:1:2,Agromyza cinerascens,,Agromyza,,cinerascens,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8G9,1554952,B8G9,1554952
+B339:1:3,Agromyza luteitarsis,,Agromyza,,luteitarsis,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,89WST,4517344,89WST,4517344
+B339:1:4,Agromyza intermittens,,Agromyza,,intermittens,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8K9,1554950,B8K9,1554950
+B339:1:5,Agromyza graminicola,,Agromyza,,graminicola,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8JD,1554953,B8JD,1554953
+B339:1:6,Agromyza baetica,,Agromyza,,baetica,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8FG,1555028,B8FG,1555028
+B339:1:7,Agromyza phragmitidis,,Agromyza,,phragmitidis,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8NL,1554836,B8NL,1554836
+B339:1:8,Agromyza megalopsis,,Agromyza,,megalopsis,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8LR,1554819,B8LR,1554819
+B339:1:9,Agromyza albipennis,,Agromyza,,albipennis,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,6664N,1554862,6664N,1554862
+B339:1:10,Agromyza nigrociliata,,Agromyza,,nigrociliata,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8MJ,1554980,B8MJ,1554980
+B339:1:11,Agromyza rondensis,,Agromyza,,rondensis,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8PL,1554888,B8PL,1554888
+B339:1:12,Agromyza ambigua,,Agromyza,,ambigua,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,665T6,1554914,665T6,1554914
+B339:1:13,Agromyza nigripes,,Agromyza,,nigripes,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8MF,1554816,B8MF,1554816
+B339:1:14,Agromyza lucida,,Agromyza,,lucida,,species,,B339:1,accepted,,,B339:1:1,Agromyza,,,,,,,Agromyza,,Agromyza,B8L9,1555004,B8L9,1555004

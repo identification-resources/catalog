@@ -1,121 +1,121 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B192:1:1,Scolytidae,,,,,,family,,B192:1,accepted,,,,,,,,,Scolytidae,,,,,,3262528
-B192:1:2,Scolytini,,,,,,tribe,,B192:1,accepted,,,B192:1:1,Scolytidae,,,,,Scolytidae,,,,Scolytidae,,
-B192:1:3,Scolytus Müller,Müller,,,,,genus,,B192:1,accepted,,,B192:1:2,Scolytini,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini,8K9ZM,8130975
-B192:1:4,Scolytus multistriatus (Marsham),(Marsham),Scolytus,,multistriatus,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,8J6XH,1189289
-B192:1:5,Scolytus dimidiatus Chapuis,Chapuis,Scolytus,,dimidiatus,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,4VTJ8,5013177
-B192:1:6,Scolytus rugulosus Müller,Müller,Scolytus,,rugulosus,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,4VTNR,1189484
-B192:1:7,Scolytus ratzeburgi Janson,Janson,Scolytus,,ratzeburgi,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,4VTNG,1189386
-B192:1:8,Scolytus scolytus (Fabricius),(Fabricius),Scolytus,,scolytus,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,4VTNW,1189355
-B192:1:9,Scolytus mali (Bechstein),(Bechstein),Scolytus,,mali,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,8J6XG,7458371
-B192:1:10,Scolytus pruni Ratzeburg,Ratzeburg,Scolytus,,pruni,,species,,B192:1,synonym,B192:1:9,Scolytus mali (Bechstein),,,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,,11362040
-B192:1:11,Scolytus intricatus (Ratzeburg),(Ratzeburg),Scolytus,,intricatus,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,4VTKC,7585454
-B192:1:12,Hylesinini,,,,,,tribe,,B192:1,accepted,,,B192:1:1,Scolytidae,,,,,Scolytidae,,,,Scolytidae,,
-B192:1:13,Hylastes Erichson,Erichson,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini,8HGZ3,1224450
-B192:1:14,Hylastes cunicularius Erichson,Erichson,Hylastes,,cunicularius,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,6MMW9,1224454
-B192:1:15,Hylastes ater (Paykull),(Paykull),Hylastes,,ater,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,6MN6L,1224467
-B192:1:16,Hylastes brunneus Erichson,Erichson,Hylastes,,brunneus,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,6MN6J,1224529
-B192:1:17,Hylastes attenuatus Erichson,Erichson,Hylastes,,attenuatus,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,6MN6M,1224532
-B192:1:18,Hylastes angustatus (Herbst),(Herbst),Hylastes,,angustatus,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,6MN73,4468381
-B192:1:19,Hylastes opacus Erichson,Erichson,Hylastes,,opacus,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,8HZS3,1224476
-B192:1:20,Hylurgops,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Hylurgops,,Scolytidae | Hylesinini,8HGZC,1214664
-B192:1:21,Hylurgops palliatus (Gyllenhal),(Gyllenhal),Hylurgops,,palliatus,,species,,B192:1,accepted,,,B192:1:20,Hylurgops,,,,,Scolytidae,,Hylurgops,,Scolytidae | Hylesinini | Hylurgops,6MNSN,1214678
-B192:1:22,Polygraphus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Polygraphus,,Scolytidae | Hylesinini,8HFSN,1189037
-B192:1:23,Polygraphus polygraphus (Linnaeus),(Linnaeus),Polygraphus,,polygraphus,,species,,B192:1,accepted,,,B192:1:22,Polygraphus,,,,,Scolytidae,,Polygraphus,,Scolytidae | Hylesinini | Polygraphus,6W699,1189156
-B192:1:24,Polygraphus pubescens (Fabricius),(Fabricius),Polygraphus,,pubescens,,species,,B192:1,synonym,B192:1:23,Polygraphus polygraphus (Linnaeus),,,,,,,Scolytidae,,Polygraphus,,Scolytidae | Hylesinini | Polygraphus,78699,1189061
-B192:1:25,Phloeophthorus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Phloeophthorus,,Scolytidae | Hylesinini,8HPFM,7989076
-B192:1:26,Phloeophthorus rhododactylus (Marsham),(Marsham),Phloeophthorus,,rhododactylus,,species,,B192:1,accepted,,,B192:1:25,Phloeophthorus,,,,,Scolytidae,,Phloeophthorus,,Scolytidae | Hylesinini | Phloeophthorus,,5877321
-B192:1:27,Phloeosinus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Phloeosinus,,Scolytidae | Hylesinini,8HFSB,1241514
-B192:1:28,Phloeosinus thujae (Perris),(Perris),Phloeosinus,,thujae,,species,,B192:1,accepted,,,B192:1:27,Phloeosinus,,,,,Scolytidae,,Phloeosinus,,Scolytidae | Hylesinini | Phloeosinus,4GGWF,1241569
-B192:1:29,Hylesinus Fabricius,Fabricius,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Hylesinus,,Scolytidae | Hylesinini,8HGZ5,1239036
-B192:1:30,Hylesinus crenatus (Fabricius),(Fabricius),Hylesinus,,crenatus,,species,,B192:1,accepted,,,B192:1:29,Hylesinus Fabricius,,,,,Scolytidae,,Hylesinus,,Scolytidae | Hylesinini | Hylesinus,3NFCM,10607334
-B192:1:31,Hylesinus oleiperda (Fabricius),(Fabricius),Hylesinus,,oleiperda,,species,,B192:1,accepted,,,B192:1:29,Hylesinus Fabricius,,,,,Scolytidae,,Hylesinus,,Scolytidae | Hylesinini | Hylesinus,8J67K,1239139
-B192:1:32,Leperesinus Reitter,Reitter,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Leperesinus,,Scolytidae | Hylesinini,,4720420
-B192:1:33,Leperesinus orni Fuchs,Fuchs,Leperesinus,,orni,,species,,B192:1,accepted,,,B192:1:32,Leperesinus Reitter,,,,,Scolytidae,,Leperesinus,,Scolytidae | Hylesinini | Leperesinus,,9327175
-B192:1:34,Leperesinus fraxini (Panzer),(Panzer),Leperesinus,,fraxini,,species,,B192:1,accepted,,,B192:1:32,Leperesinus Reitter,,,,,Scolytidae,,Leperesinus,,Scolytidae | Hylesinini | Leperesinus,,10299360
-B192:1:35,Pteleobius,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Pteleobius,,Scolytidae | Hylesinini,8HQ9P,1235492
-B192:1:36,Pteleobius vittatus (Fabricius),(Fabricius),Pteleobius,,vittatus,,species,,B192:1,accepted,,,B192:1:35,Pteleobius,,,,,Scolytidae,,Pteleobius,,Scolytidae | Hylesinini | Pteleobius,4PSYN,1235495
-B192:1:37,Hylastinus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Hylastinus,,Scolytidae | Hylesinini,8HGZ4,1223868
-B192:1:38,Hylastinus obscurus (Marsham),(Marsham),Hylastinus,,obscurus,,species,,B192:1,accepted,,,B192:1:37,Hylastinus,,,,,Scolytidae,,Hylastinus,,Scolytidae | Hylesinini | Hylastinus,8HZS4,1223870
-B192:1:39,Xylechinus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Xylechinus,,Scolytidae | Hylesinini,8HG2V,1238770
-B192:1:40,Xylechinus pilosus (Ratzeburg),(Ratzeburg),Xylechinus,,pilosus,,species,,B192:1,accepted,,,B192:1:39,Xylechinus,,,,,Scolytidae,,Xylechinus,,Scolytidae | Hylesinini | Xylechinus,7FZ9D,1238789
-B192:1:41,Kissophagus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Kissophagus,,Scolytidae | Hylesinini,8HL77,1224588
-B192:1:42,Kissophagus hederae (Schmidt),(Schmidt),Kissophagus,,hederae,,species,,B192:1,accepted,,,B192:1:41,Kissophagus,,,,,Scolytidae,,Kissophagus,,Scolytidae | Hylesinini | Kissophagus,3R8RC,1224601
-B192:1:43,Blastophagus Eichhoff,Eichhoff,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Blastophagus,,Scolytidae | Hylesinini,8HDXH,7673517
-B192:1:44,Myelophilus Eichhoff,Eichhoff,,,,,genus,,B192:1,synonym,B192:1:43,Blastophagus Eichhoff,,,,,,,Scolytidae,,Myelophilus,,Scolytidae | Hylesinini,8HMPQ,8345334
-B192:1:45,Blastophagus piniperda (Linnaeus),(Linnaeus),Blastophagus,,piniperda,,species,,B192:1,accepted,,,B192:1:43,Blastophagus Eichhoff,,,,,Scolytidae,,Blastophagus,,Scolytidae | Hylesinini | Blastophagus,68MH8,1174816
-B192:1:46,Blastophagus minor (Hartig),(Hartig),Blastophagus,,minor,,species,,B192:1,accepted,,,B192:1:43,Blastophagus Eichhoff,,,,,Scolytidae,,Blastophagus,,Scolytidae | Hylesinini | Blastophagus,,6132400
-B192:1:47,Hylurgus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Hylurgus,,Scolytidae | Hylesinini,8HGZD,5017487
-B192:1:48,Hylurgus ligniperda (Fabricius),(Fabricius),Hylurgus,,ligniperda,,species,,B192:1,accepted,,,B192:1:47,Hylurgus,,,,,Scolytidae,,Hylurgus,,Scolytidae | Hylesinini | Hylurgus,3NH38,5017514
-B192:1:49,Ipini,,,,,,tribe,,B192:1,accepted,,,B192:1:1,Scolytidae,,,,,Scolytidae,,,,Scolytidae,,
-B192:1:50,Crypturgus Erichson,Erichson,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Crypturgus,,Scolytidae | Ipini,8HF66,1231262
-B192:1:51,Crypturgus cinereus (Herbst),(Herbst),Crypturgus,,cinereus,,species,,B192:1,accepted,,,B192:1:50,Crypturgus Erichson,,,,,Scolytidae,,Crypturgus,,Scolytidae | Ipini | Crypturgus,6BMSG,1231274
-B192:1:52,Crypturgus pusillus (Gyllenhal),(Gyllenhal),Crypturgus,,pusillus,,species,,B192:1,accepted,,,B192:1:50,Crypturgus Erichson,,,,,Scolytidae,,Crypturgus,,Scolytidae | Ipini | Crypturgus,8HWR4,8194673
-B192:1:53,Trypodendron Stephens,Stephens,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Trypodendron,,Scolytidae | Ipini,8HSHZ,1244631
-B192:1:54,Xyloterus Erichson,Erichson,,,,,genus,,B192:1,synonym,B192:1:53,Trypodendron Stephens,,,,,,,Scolytidae,,Xyloterus,,Scolytidae | Ipini,8HSW3,7883755
-B192:1:55,Trypodendron domesticum (Linnaeus),(Linnaeus),Trypodendron,,domesticum,,species,,B192:1,accepted,,,B192:1:53,Trypodendron Stephens,,,,,Scolytidae,,Trypodendron,,Scolytidae | Ipini | Trypodendron,7CXT2,1244634
-B192:1:56,Trypodendron lineatum (Olivier),(Olivier),Trypodendron,,lineatum,,species,,B192:1,accepted,,,B192:1:53,Trypodendron Stephens,,,,,Scolytidae,,Trypodendron,,Scolytidae | Ipini | Trypodendron,59GHZ,1244656
-B192:1:57,Trypodendron signatum (Fabricius),(Fabricius),Trypodendron,,signatum,,species,,B192:1,accepted,,,B192:1:53,Trypodendron Stephens,,,,,Scolytidae,,Trypodendron,,Scolytidae | Ipini | Trypodendron,59GJM,1244655
-B192:1:58,Cryphalus Erichson,Erichson,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Cryphalus,,Scolytidae | Ipini,8HF5F,1212051
-B192:1:59,Cryphalus buscki Hopkins,Hopkins,Cryphalus,,buscki,,species,,B192:1,accepted,,,B192:1:58,Cryphalus Erichson,,,,,Scolytidae,,Cryphalus,,Scolytidae | Ipini | Cryphalus,8HF5F,1212051
-B192:1:60,Cryphalus pallidus Eichhoff,Eichhoff,Cryphalus,,pallidus,,species,,B192:1,accepted,,,B192:1:58,Cryphalus Erichson,,,,,Scolytidae,,Cryphalus,,Scolytidae | Ipini | Cryphalus,ZSR9,1212105
-B192:1:61,Cryphalus abietis (Ratzeburg),(Ratzeburg),Cryphalus,,abietis,,species,,B192:1,accepted,,,B192:1:58,Cryphalus Erichson,,,,,Scolytidae,,Cryphalus,,Scolytidae | Ipini | Cryphalus,ZSKH,1212164
-B192:1:62,Cryphalus piceae (Ratzeburg),(Ratzeburg),Cryphalus,,piceae,,species,,B192:1,accepted,,,B192:1:58,Cryphalus Erichson,,,,,Scolytidae,,Cryphalus,,Scolytidae | Ipini | Cryphalus,ZSRF,1212134
-B192:1:63,Trypophloeus Fairmaire,Fairmaire,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Trypophloeus,,Scolytidae | Ipini,8HSJ2,1240794
-B192:1:64,Trypophloeus asperatus (Gyllenhal),(Gyllenhal),Trypophloeus,,asperatus,,species,,B192:1,accepted,,,B192:1:63,Trypophloeus Fairmaire,,,,,Scolytidae,,Trypophloeus,,Scolytidae | Ipini | Trypophloeus,,4468514
-B192:1:65,Trypophloeus granulatus (Ratzeburg),(Ratzeburg),Trypophloeus,,granulatus,,species,,B192:1,accepted,,,B192:1:63,Trypophloeus Fairmaire,,,,,Scolytidae,,Trypophloeus,,Scolytidae | Ipini | Trypophloeus,59GKP,8934042
-B192:1:66,Dryocoetinus Balachoswky,Balachoswky,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Dryocoetinus,,Scolytidae | Ipini,8HHSG,8063414
-B192:1:67,Dryocoetes Eichhoff,Eichhoff,,,,,genus,,B192:1,heterotypic synonym,B192:1:66,Dryocoetinus Balachoswky,,,,,,,Scolytidae,,Dryocoetes,,Scolytidae | Ipini,8HFXB,1242903
-B192:1:68,Dryocoetinus villosus (Fabricius),(Fabricius),Dryocoetinus,,villosus,,species,,B192:1,accepted,,,B192:1:66,Dryocoetinus Balachoswky,,,,,Scolytidae,,Dryocoetinus,,Scolytidae | Ipini | Dryocoetinus,37VBF,1236832
-B192:1:69,Dryocoetinus alni (Georg),(Georg),Dryocoetinus,,alni,,species,,B192:1,accepted,,,B192:1:66,Dryocoetinus Balachoswky,,,,,Scolytidae,,Dryocoetinus,,Scolytidae | Ipini | Dryocoetinus,,11274814
-B192:1:70,Stephanoderes Eichhoff,Eichhoff,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Stephanoderes,,Scolytidae | Ipini,8HRFH,8824575
-B192:1:71,Stephanoderes coffeae Hagedorn,Hagedorn,Stephanoderes,,coffeae,,species,,B192:1,accepted,,,B192:1:70,Stephanoderes Eichhoff,,,,,Scolytidae,,Stephanoderes,,Scolytidae | Ipini | Stephanoderes,52C5S,9011633
-B192:1:72,Stephanoderes cassiae Eichhoff,Eichhoff,Stephanoderes,,cassiae,,species,,B192:1,accepted,,,B192:1:70,Stephanoderes Eichhoff,,,,,Scolytidae,,Stephanoderes,,Scolytidae | Ipini | Stephanoderes,52C5P,1228459
-B192:1:73,Hypothenemus,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Hypothenemus,,Scolytidae | Ipini,8HFJ3,1226155
-B192:1:74,Hypothenemus eruditus Westwood,Westwood,Hypothenemus,,eruditus,,species,,B192:1,accepted,,,B192:1:73,Hypothenemus,,,,,Scolytidae,,Hypothenemus,,Scolytidae | Ipini | Hypothenemus,8HZTQ,7853292
-B192:1:75,Ernopocerus,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Ernopocerus,,Scolytidae | Ipini,8HJD4,8473856
-B192:1:76,Ernoporus,,,,,,genus,,B192:1,heterotypic synonym,B192:1:75,Ernopocerus,,,,,,,Scolytidae,,Ernoporus,,Scolytidae | Ipini,8HFH6,1242041
-B192:1:77,Ernopocerus fagi (Fabricius),(Fabricius),Ernopocerus,,fagi,,species,,B192:1,accepted,,,B192:1:75,Ernopocerus,,,,,Scolytidae,,Ernopocerus,,Scolytidae | Ipini | Ernopocerus,,11337273
-B192:1:78,Ernoporus,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Ernoporus,,Scolytidae | Ipini,8HFH6,1242041
-B192:1:79,Ernoporus tiliae (Panzer),(Panzer),Ernoporus,,tiliae,,species,,B192:1,accepted,,,B192:1:78,Ernoporus,,,,,Scolytidae,,Ernoporus,,Scolytidae | Ipini | Ernoporus,3B8QR,5022048
-B192:1:80,Xyleborus Eichhoff,Eichhoff,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Xyleborus,,Scolytidae | Ipini,8HSV6,1232636
-B192:1:81,Xyleborus dryographus (Ratzeburg),(Ratzeburg),Xyleborus,,dryographus,,species,,B192:1,accepted,,,B192:1:80,Xyleborus Eichhoff,,,,,Scolytidae,,Xyleborus,,Scolytidae | Ipini | Xyleborus,5CHSJ,7908600
-B192:1:82,Xyleborus xylographus (Say),(Say),Xyleborus,,xylographus,,species,,B192:1,accepted,,,B192:1:80,Xyleborus Eichhoff,,,,,Scolytidae,,Xyleborus,,Scolytidae | Ipini | Xyleborus,8J8WM,5020049
-B192:1:83,Xyleborus saxeseni (Ratzeburg),(Ratzeburg),Xyleborus,,saxeseni,,species,,B192:1,synonym,B192:1:82,Xyleborus xylographus (Say),,,,,,,Scolytidae,,Xyleborus,,Scolytidae | Ipini | Xyleborus,,6097368
-B192:1:84,Pityophthorus Eichhoff,Eichhoff,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Pityophthorus,,Scolytidae | Ipini,8HP25,1239664
-B192:1:85,Pityophthorus pubescens (Marsham),(Marsham),Pityophthorus,,pubescens,,species,,B192:1,accepted,,,B192:1:84,Pityophthorus Eichhoff,,,,,Scolytidae,,Pityophthorus,,Scolytidae | Ipini | Pityophthorus,,4468665
-B192:1:86,Pityophthorus lichtensteini (Ratzeburg),(Ratzeburg),Pityophthorus,,lichtensteini,,species,,B192:1,accepted,,,B192:1:84,Pityophthorus Eichhoff,,,,,Scolytidae,,Pityophthorus,,Scolytidae | Ipini | Pityophthorus,4JCXW,1239980
-B192:1:87,Taphrorychus Eichhoff,Eichhoff,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Taphrorychus,,Scolytidae | Ipini,8HRT7,1240990
-B192:1:88,Taphrorychus villifrons (Dufour),(Dufour),Taphrorychus,,villifrons,,species,,B192:1,accepted,,,B192:1:87,Taphrorychus Eichhoff,,,,,Scolytidae,,Taphrorychus,,Scolytidae | Ipini | Taphrorychus,54SMY,1240998
-B192:1:89,Taphrorychus bicolor (Herbst),(Herbst),Taphrorychus,,bicolor,,species,,B192:1,accepted,,,B192:1:87,Taphrorychus Eichhoff,,,,,Scolytidae,,Taphrorychus,,Scolytidae | Ipini | Taphrorychus,54SM7,1241015
-B192:1:90,Pityogenes Bedel,Bedel,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Pityogenes,,Scolytidae | Ipini,8HNZW,1237412
-B192:1:91,Pityogenes chalcographus (Linnaeus),(Linnaeus),Pityogenes,,chalcographus,,species,,B192:1,accepted,,,B192:1:90,Pityogenes Bedel,,,,,Scolytidae,,Pityogenes,,Scolytidae | Ipini | Pityogenes,4JCKY,1237428
-B192:1:92,Pityogenes trepanatus (Nördlinger),(Nördlinger),Pityogenes,,trepanatus,,species,,B192:1,accepted,,,B192:1:90,Pityogenes Bedel,,,,,Scolytidae,,Pityogenes,,Scolytidae | Ipini | Pityogenes,4JCLW,8324364
-B192:1:93,Pityogenes quadridens (Hartig),(Hartig),Pityogenes,,quadridens,,species,,B192:1,accepted,,,B192:1:90,Pityogenes Bedel,,,,,Scolytidae,,Pityogenes,,Scolytidae | Ipini | Pityogenes,4JCLQ,7391028
-B192:1:94,Pityogenes bidentatus (Herbst),(Herbst),Pityogenes,,bidentatus,,species,,B192:1,accepted,,,B192:1:90,Pityogenes Bedel,,,,,Scolytidae,,Pityogenes,,Scolytidae | Ipini | Pityogenes,4JCKT,1237442
-B192:1:95,Ips Degeer,Degeer,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Ips,,Scolytidae | Ipini,8HH3M,4990244
-B192:1:96,Ips acuminatus (Gyllenhal),(Gyllenhal),Ips,,acuminatus,,species,,B192:1,accepted,,,B192:1:95,Ips Degeer,,,,,Scolytidae,,Ips,,Scolytidae | Ipini | Ips,3PXF4,5018715
-B192:1:97,Ips typographus (Linnaeus),(Linnaeus),Ips,,typographus,,species,,B192:1,accepted,,,B192:1:95,Ips Degeer,,,,,Scolytidae,,Ips,,Scolytidae | Ipini | Ips,3PXMD,5018723
-B192:1:98,Ips sexdentatus (Boerner),(Boerner),Ips,,sexdentatus,,species,,B192:1,accepted,,,B192:1:95,Ips Degeer,,,,,Scolytidae,,Ips,,Scolytidae | Ipini | Ips,3PXLH,4990243
-B192:1:99,Onthotomicus Ferrari,Ferrari,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Onthotomicus,,Scolytidae | Ipini,,1183575
-B192:1:100,Onthotomicus erosus (Wollaston),(Wollaston),Onthotomicus,,erosus,,species,,B192:1,accepted,,,B192:1:99,Onthotomicus Ferrari,,,,,Scolytidae,,Onthotomicus,,Scolytidae | Ipini | Onthotomicus,,11284920
-B192:1:101,Onthotomicus suturalis (Gyllenhal),(Gyllenhal),Onthotomicus,,suturalis,,species,,B192:1,accepted,,,B192:1:99,Onthotomicus Ferrari,,,,,Scolytidae,,Onthotomicus,,Scolytidae | Ipini | Onthotomicus,,11293555
-B192:1:102,Onthotomicus laricis (Fabricius),(Fabricius),Onthotomicus,,laricis,,species,,B192:1,accepted,,,B192:1:99,Onthotomicus Ferrari,,,,,Scolytidae,,Onthotomicus,,Scolytidae | Ipini | Onthotomicus,,1183576
-B192:1:103,Coccotrypes,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Coccotrypes,,Scolytidae | Ipini,8HDWD,1230200
-B192:1:104,Coccotrypes dactyliperda (Fabricius),(Fabricius),Coccotrypes,,dactyliperda,,species,,B192:1,accepted,,,B192:1:103,Coccotrypes,,,,,Scolytidae,,Coccotrypes,,Scolytidae | Ipini | Coccotrypes,8HWF3,1230310
-B192:1:105,Dryocoetes,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Dryocoetes,,Scolytidae | Ipini,8HFXB,1242903
-B192:1:106,Dryocoetes autrographus (Ratzeburg),(Ratzeburg),Dryocoetes,,autrographus,,species,,B192:1,accepted,,,B192:1:105,Dryocoetes,,,,,Scolytidae,,Dryocoetes,,Scolytidae | Ipini | Dryocoetes,37V7M,11346847
-B192:1:107,Lymantor,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Lymantor,,Scolytidae | Ipini,8HJ3L,1178869
-B192:1:108,Lymantor coryli (Perris),(Perris),Lymantor,,coryli,,species,,B192:1,accepted,,,B192:1:107,Lymantor,,,,,Scolytidae,,Lymantor,,Scolytidae | Ipini | Lymantor,3WRMV,1178872
-B192:1:109,Xylocleptes,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Xylocleptes,,Scolytidae | Ipini,8HSVW,1201525
-B192:1:110,Xylocleptes bispinus (Duftschmidt),(Duftschmidt),Xylocleptes,,bispinus,,species,,B192:1,accepted,,,B192:1:109,Xylocleptes,,,,,Scolytidae,,Xylocleptes,,Scolytidae | Ipini | Xylocleptes,5CKLK,1201568
-B192:1:111,Anisandrus,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Anisandrus,,Scolytidae | Ipini,8HCL6,1234185
-B192:1:112,Anisandrus dispar (Fabricius),(Fabricius),Anisandrus,,dispar,,species,,B192:1,accepted,,,B192:1:111,Anisandrus,,,,,Scolytidae,,Anisandrus,,Scolytidae | Ipini | Anisandrus,66PZ7,7407935
-B192:1:113,Xylosandrus,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Xylosandrus,,Scolytidae | Ipini,8HSV8,1216876
-B192:1:114,Xylosandrus morigenus Blandford,Blandford,Xylosandrus,,morigenus,,species,,B192:1,accepted,,,B192:1:113,Xylosandrus,,,,,Scolytidae,,Xylosandrus,,Scolytidae | Ipini | Xylosandrus,5CMK3,10946097
-B192:1:115,Platypodidae,,,,,,family,,B192:1,accepted,,,,,,,,,Platypodidae,,,,,,3262857
-B192:1:116,Platypus Herbst,Herbst,,,,,genus,,B192:1,accepted,,,B192:1:115,Platypodidae,,,,,Platypodidae,,Platypus,,Platypodidae,8HFSJ,1204523
-B192:1:117,Platypus cylindrus (Fabricius),(Fabricius),Platypus,,cylindrus,,species,,B192:1,accepted,,,B192:1:116,Platypus Herbst,,,,,Platypodidae,,Platypus,,Platypodidae | Platypus,4JWTG,1205228
-B192:1:118,Platypus penetralis Sampson,Sampson,Platypus,,penetralis,,species,,B192:1,accepted,,,B192:1:116,Platypus Herbst,,,,,Platypodidae,,Platypus,,Platypodidae | Platypus,4JX9S,5014843
-B192:1:119,Platypus solutus Schedl,Schedl,Platypus,,solutus,,species,,B192:1,synonym,B192:1:118,Platypus penetralis Sampson,,,,,,,Platypodidae,,Platypus,,Platypodidae | Platypus,4JXGF,5015172
-B192:1:120,Platypus curtus Chapuis,Chapuis,Platypus,,curtus,,species,,B192:1,accepted,,,B192:1:116,Platypus Herbst,,,,,Platypodidae,,Platypus,,Platypodidae | Platypus,782R5,5014864
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B192:1:1,Scolytidae,,,,,,family,,B192:1,accepted,,,,,,,,,Scolytidae,,,,,,,,
+B192:1:2,Scolytini,,,,,,tribe,,B192:1,accepted,,,B192:1:1,Scolytidae,,,,,Scolytidae,,,,Scolytidae,9J9PQ,,9J9JP,
+B192:1:3,Scolytus Müller,Müller,,,,,genus,,B192:1,accepted,,,B192:1:2,Scolytini,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini,9JBJL,8130975,9JBD2,1044602
+B192:1:4,Scolytus multistriatus (Marsham),(Marsham),Scolytus,,multistriatus,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,8J6XH,1189289,8J6XH,1189289
+B192:1:5,Scolytus dimidiatus Chapuis,Chapuis,Scolytus,,dimidiatus,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,4VTJ8,5013177,4VTJ8,5013177
+B192:1:6,Scolytus rugulosus Müller,Müller,Scolytus,,rugulosus,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,4VTNR,1189484,4VTNR,7749219
+B192:1:7,Scolytus ratzeburgi Janson,Janson,Scolytus,,ratzeburgi,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,4VTNG,1189386,4VTNG,1189386
+B192:1:8,Scolytus scolytus (Fabricius),(Fabricius),Scolytus,,scolytus,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,4VTNW,1189355,4VTNW,1189355
+B192:1:9,Scolytus mali (Bechstein),(Bechstein),Scolytus,,mali,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,8J6XG,7458371,8J6XG,7458371
+B192:1:10,Scolytus pruni Ratzeburg,Ratzeburg,Scolytus,,pruni,,species,,B192:1,synonym,B192:1:9,Scolytus mali (Bechstein),,,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,,11362040,,7458371
+B192:1:11,Scolytus intricatus (Ratzeburg),(Ratzeburg),Scolytus,,intricatus,,species,,B192:1,accepted,,,B192:1:3,Scolytus Müller,,,,,Scolytidae,,Scolytus,,Scolytidae | Scolytini | Scolytus,4VTKC,7585454,4VTKC,7585454
+B192:1:12,Hylesinini,,,,,,tribe,,B192:1,accepted,,,B192:1:1,Scolytidae,,,,,Scolytidae,,,,Scolytidae,,,,
+B192:1:13,Hylastes Erichson,Erichson,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini,8HGZ3,1224450,8HGZ3,1224450
+B192:1:14,Hylastes cunicularius Erichson,Erichson,Hylastes,,cunicularius,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,6MMW9,1224454,6MMW9,1224454
+B192:1:15,Hylastes ater (Paykull),(Paykull),Hylastes,,ater,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,6MN6L,1224467,6MN6L,1224467
+B192:1:16,Hylastes brunneus Erichson,Erichson,Hylastes,,brunneus,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,6MN6J,1224529,6MN6J,1224529
+B192:1:17,Hylastes attenuatus Erichson,Erichson,Hylastes,,attenuatus,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,6MN6M,1224532,6MN6M,1224532
+B192:1:18,Hylastes angustatus (Herbst),(Herbst),Hylastes,,angustatus,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,6MN73,4468381,6MN73,4468381
+B192:1:19,Hylastes opacus Erichson,Erichson,Hylastes,,opacus,,species,,B192:1,accepted,,,B192:1:13,Hylastes Erichson,,,,,Scolytidae,,Hylastes,,Scolytidae | Hylesinini | Hylastes,8HZS3,1224476,8HZS3,1224476
+B192:1:20,Hylurgops,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Hylurgops,,Scolytidae | Hylesinini,8HGZC,1214664,8HGZC,1214664
+B192:1:21,Hylurgops palliatus (Gyllenhal),(Gyllenhal),Hylurgops,,palliatus,,species,,B192:1,accepted,,,B192:1:20,Hylurgops,,,,,Scolytidae,,Hylurgops,,Scolytidae | Hylesinini | Hylurgops,6MNSN,1214678,6MNSN,7748881
+B192:1:22,Polygraphus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Polygraphus,,Scolytidae | Hylesinini,8HFSN,1189037,8HFSN,1189037
+B192:1:23,Polygraphus polygraphus (Linnaeus),(Linnaeus),Polygraphus,,polygraphus,,species,,B192:1,accepted,,,B192:1:22,Polygraphus,,,,,Scolytidae,,Polygraphus,,Scolytidae | Hylesinini | Polygraphus,6W699,1189156,6W699,1189156
+B192:1:24,Polygraphus pubescens (Fabricius),(Fabricius),Polygraphus,,pubescens,,species,,B192:1,synonym,B192:1:23,Polygraphus polygraphus (Linnaeus),,,,,,,Scolytidae,,Polygraphus,,Scolytidae | Hylesinini | Polygraphus,78699,1189061,78699,1189061
+B192:1:25,Phloeophthorus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Phloeophthorus,,Scolytidae | Hylesinini,8HPFM,7989076,8HPFM,7989076
+B192:1:26,Phloeophthorus rhododactylus (Marsham),(Marsham),Phloeophthorus,,rhododactylus,,species,,B192:1,accepted,,,B192:1:25,Phloeophthorus,,,,,Scolytidae,,Phloeophthorus,,Scolytidae | Hylesinini | Phloeophthorus,,5877321,,7925646
+B192:1:27,Phloeosinus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Phloeosinus,,Scolytidae | Hylesinini,8HFSB,1241514,8HFSB,1241514
+B192:1:28,Phloeosinus thujae (Perris),(Perris),Phloeosinus,,thujae,,species,,B192:1,accepted,,,B192:1:27,Phloeosinus,,,,,Scolytidae,,Phloeosinus,,Scolytidae | Hylesinini | Phloeosinus,4GGWF,1241569,4GGWF,1241569
+B192:1:29,Hylesinus Fabricius,Fabricius,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Hylesinus,,Scolytidae | Hylesinini,8HGZ5,1239036,8HGZ5,1239036
+B192:1:30,Hylesinus crenatus (Fabricius),(Fabricius),Hylesinus,,crenatus,,species,,B192:1,accepted,,,B192:1:29,Hylesinus Fabricius,,,,,Scolytidae,,Hylesinus,,Scolytidae | Hylesinini | Hylesinus,3NFCM,10607334,3NFCM,10607334
+B192:1:31,Hylesinus oleiperda (Fabricius),(Fabricius),Hylesinus,,oleiperda,,species,,B192:1,accepted,,,B192:1:29,Hylesinus Fabricius,,,,,Scolytidae,,Hylesinus,,Scolytidae | Hylesinini | Hylesinus,8J67K,1239139,3NFGP,9311247
+B192:1:32,Leperesinus Reitter,Reitter,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Leperesinus,,Scolytidae | Hylesinini,,4720420,,1239036
+B192:1:33,Leperesinus orni Fuchs,Fuchs,Leperesinus,,orni,,species,,B192:1,accepted,,,B192:1:32,Leperesinus Reitter,,,,,Scolytidae,,Leperesinus,,Scolytidae | Hylesinini | Leperesinus,,9327175,,9327175
+B192:1:34,Leperesinus fraxini (Panzer),(Panzer),Leperesinus,,fraxini,,species,,B192:1,accepted,,,B192:1:32,Leperesinus Reitter,,,,,Scolytidae,,Leperesinus,,Scolytidae | Hylesinini | Leperesinus,,10299360,,7825487
+B192:1:35,Pteleobius,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Pteleobius,,Scolytidae | Hylesinini,8HQ9P,1235492,8HQ9P,1235492
+B192:1:36,Pteleobius vittatus (Fabricius),(Fabricius),Pteleobius,,vittatus,,species,,B192:1,accepted,,,B192:1:35,Pteleobius,,,,,Scolytidae,,Pteleobius,,Scolytidae | Hylesinini | Pteleobius,4PSYN,1235495,4PSYN,1235495
+B192:1:37,Hylastinus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Hylastinus,,Scolytidae | Hylesinini,8HGZ4,1223868,8HGZ4,1223868
+B192:1:38,Hylastinus obscurus (Marsham),(Marsham),Hylastinus,,obscurus,,species,,B192:1,accepted,,,B192:1:37,Hylastinus,,,,,Scolytidae,,Hylastinus,,Scolytidae | Hylesinini | Hylastinus,8HZS4,1223870,8HZS4,1223870
+B192:1:39,Xylechinus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Xylechinus,,Scolytidae | Hylesinini,8HG2V,1238770,8HG2V,1238770
+B192:1:40,Xylechinus pilosus (Ratzeburg),(Ratzeburg),Xylechinus,,pilosus,,species,,B192:1,accepted,,,B192:1:39,Xylechinus,,,,,Scolytidae,,Xylechinus,,Scolytidae | Hylesinini | Xylechinus,7FZ9D,1238789,7FZ9D,1238789
+B192:1:41,Kissophagus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Kissophagus,,Scolytidae | Hylesinini,8HL77,1224588,8HL77,1224588
+B192:1:42,Kissophagus hederae (Schmidt),(Schmidt),Kissophagus,,hederae,,species,,B192:1,accepted,,,B192:1:41,Kissophagus,,,,,Scolytidae,,Kissophagus,,Scolytidae | Hylesinini | Kissophagus,3R8RC,1224601,3R8RC,1224601
+B192:1:43,Blastophagus Eichhoff,Eichhoff,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Blastophagus,,Scolytidae | Hylesinini,8HDXH,7673517,8HDXH,7673517
+B192:1:44,Myelophilus Eichhoff,Eichhoff,,,,,genus,,B192:1,synonym,B192:1:43,Blastophagus Eichhoff,,,,,,,Scolytidae,,Myelophilus,,Scolytidae | Hylesinini,8HMPQ,8345334,8HMPQ,8345334
+B192:1:45,Blastophagus piniperda (Linnaeus),(Linnaeus),Blastophagus,,piniperda,,species,,B192:1,accepted,,,B192:1:43,Blastophagus Eichhoff,,,,,Scolytidae,,Blastophagus,,Scolytidae | Hylesinini | Blastophagus,68MH8,11999906,68MH8,1211257
+B192:1:46,Blastophagus minor (Hartig),(Hartig),Blastophagus,,minor,,species,,B192:1,accepted,,,B192:1:43,Blastophagus Eichhoff,,,,,Scolytidae,,Blastophagus,,Scolytidae | Hylesinini | Blastophagus,,6132400,,1211184
+B192:1:47,Hylurgus,,,,,,genus,,B192:1,accepted,,,B192:1:12,Hylesinini,,,,,Scolytidae,,Hylurgus,,Scolytidae | Hylesinini,8HGZD,5017487,8HGZD,5017487
+B192:1:48,Hylurgus ligniperda (Fabricius),(Fabricius),Hylurgus,,ligniperda,,species,,B192:1,accepted,,,B192:1:47,Hylurgus,,,,,Scolytidae,,Hylurgus,,Scolytidae | Hylesinini | Hylurgus,3NH38,5017514,3NH38,5017514
+B192:1:49,Ipini,,,,,,tribe,,B192:1,accepted,,,B192:1:1,Scolytidae,,,,,Scolytidae,,,,Scolytidae,,,,
+B192:1:50,Crypturgus Erichson,Erichson,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Crypturgus,,Scolytidae | Ipini,8HF66,1231262,8HF66,1231262
+B192:1:51,Crypturgus cinereus (Herbst),(Herbst),Crypturgus,,cinereus,,species,,B192:1,accepted,,,B192:1:50,Crypturgus Erichson,,,,,Scolytidae,,Crypturgus,,Scolytidae | Ipini | Crypturgus,6BMSG,1231274,6BMSG,1231274
+B192:1:52,Crypturgus pusillus (Gyllenhal),(Gyllenhal),Crypturgus,,pusillus,,species,,B192:1,accepted,,,B192:1:50,Crypturgus Erichson,,,,,Scolytidae,,Crypturgus,,Scolytidae | Ipini | Crypturgus,8HWR4,8194673,8HWR4,8194673
+B192:1:53,Trypodendron Stephens,Stephens,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Trypodendron,,Scolytidae | Ipini,8HSHZ,1244631,8HSHZ,1244631
+B192:1:54,Xyloterus Erichson,Erichson,,,,,genus,,B192:1,synonym,B192:1:53,Trypodendron Stephens,,,,,,,Scolytidae,,Xyloterus,,Scolytidae | Ipini,8HSW3,7883755,8HSW3,7883755
+B192:1:55,Trypodendron domesticum (Linnaeus),(Linnaeus),Trypodendron,,domesticum,,species,,B192:1,accepted,,,B192:1:53,Trypodendron Stephens,,,,,Scolytidae,,Trypodendron,,Scolytidae | Ipini | Trypodendron,7CXT2,1244634,7CXT2,1244634
+B192:1:56,Trypodendron lineatum (Olivier),(Olivier),Trypodendron,,lineatum,,species,,B192:1,accepted,,,B192:1:53,Trypodendron Stephens,,,,,Scolytidae,,Trypodendron,,Scolytidae | Ipini | Trypodendron,59GHZ,1244656,59GHZ,1244656
+B192:1:57,Trypodendron signatum (Fabricius),(Fabricius),Trypodendron,,signatum,,species,,B192:1,accepted,,,B192:1:53,Trypodendron Stephens,,,,,Scolytidae,,Trypodendron,,Scolytidae | Ipini | Trypodendron,59GJM,1244655,59GJM,1244655
+B192:1:58,Cryphalus Erichson,Erichson,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Cryphalus,,Scolytidae | Ipini,8HF5F,1212051,8HF5F,1212051
+B192:1:59,Cryphalus buscki Hopkins,Hopkins,Cryphalus,,buscki,,species,,B192:1,accepted,,,B192:1:58,Cryphalus Erichson,,,,,Scolytidae,,Cryphalus,,Scolytidae | Ipini | Cryphalus,,,,
+B192:1:60,Cryphalus pallidus Eichhoff,Eichhoff,Cryphalus,,pallidus,,species,,B192:1,accepted,,,B192:1:58,Cryphalus Erichson,,,,,Scolytidae,,Cryphalus,,Scolytidae | Ipini | Cryphalus,ZSR9,1212105,ZSR9,1212105
+B192:1:61,Cryphalus abietis (Ratzeburg),(Ratzeburg),Cryphalus,,abietis,,species,,B192:1,accepted,,,B192:1:58,Cryphalus Erichson,,,,,Scolytidae,,Cryphalus,,Scolytidae | Ipini | Cryphalus,ZSKH,1212164,ZSKH,1212164
+B192:1:62,Cryphalus piceae (Ratzeburg),(Ratzeburg),Cryphalus,,piceae,,species,,B192:1,accepted,,,B192:1:58,Cryphalus Erichson,,,,,Scolytidae,,Cryphalus,,Scolytidae | Ipini | Cryphalus,ZSRF,1212134,ZSRF,1212134
+B192:1:63,Trypophloeus Fairmaire,Fairmaire,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Trypophloeus,,Scolytidae | Ipini,8HSJ2,1240794,8HSJ2,1240794
+B192:1:64,Trypophloeus asperatus (Gyllenhal),(Gyllenhal),Trypophloeus,,asperatus,,species,,B192:1,accepted,,,B192:1:63,Trypophloeus Fairmaire,,,,,Scolytidae,,Trypophloeus,,Scolytidae | Ipini | Trypophloeus,,4468514,,7859228
+B192:1:65,Trypophloeus granulatus (Ratzeburg),(Ratzeburg),Trypophloeus,,granulatus,,species,,B192:1,accepted,,,B192:1:63,Trypophloeus Fairmaire,,,,,Scolytidae,,Trypophloeus,,Scolytidae | Ipini | Trypophloeus,59GKP,1240813,59GKP,1240813
+B192:1:66,Dryocoetinus Balachoswky,Balachoswky,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Dryocoetinus,,Scolytidae | Ipini,8HHSG,8063414,8HHSG,8063414
+B192:1:67,Dryocoetes Eichhoff,Eichhoff,,,,,genus,,B192:1,heterotypic synonym,B192:1:66,Dryocoetinus Balachoswky,,,,,,,Scolytidae,,Dryocoetes,,Scolytidae | Ipini,8HFXB,1242903,8HFXB,1242903
+B192:1:68,Dryocoetinus villosus (Fabricius),(Fabricius),Dryocoetinus,,villosus,,species,,B192:1,accepted,,,B192:1:66,Dryocoetinus Balachoswky,,,,,Scolytidae,,Dryocoetinus,,Scolytidae | Ipini | Dryocoetinus,37VBF,1236832,37VBF,1236832
+B192:1:69,Dryocoetinus alni (Georg),(Georg),Dryocoetinus,,alni,,species,,B192:1,accepted,,,B192:1:66,Dryocoetinus Balachoswky,,,,,Scolytidae,,Dryocoetinus,,Scolytidae | Ipini | Dryocoetinus,,11274814,,8422965
+B192:1:70,Stephanoderes Eichhoff,Eichhoff,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Stephanoderes,,Scolytidae | Ipini,8HRFH,8824575,8HRFH,8824575
+B192:1:71,Stephanoderes coffeae Hagedorn,Hagedorn,Stephanoderes,,coffeae,,species,,B192:1,accepted,,,B192:1:70,Stephanoderes Eichhoff,,,,,Scolytidae,,Stephanoderes,,Scolytidae | Ipini | Stephanoderes,52C5S,9011633,52C5S,9011633
+B192:1:72,Stephanoderes cassiae Eichhoff,Eichhoff,Stephanoderes,,cassiae,,species,,B192:1,accepted,,,B192:1:70,Stephanoderes Eichhoff,,,,,Scolytidae,,Stephanoderes,,Scolytidae | Ipini | Stephanoderes,52C5P,1228459,52C5P,1228459
+B192:1:73,Hypothenemus,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Hypothenemus,,Scolytidae | Ipini,8HFJ3,1226155,8HFJ3,1226155
+B192:1:74,Hypothenemus eruditus Westwood,Westwood,Hypothenemus,,eruditus,,species,,B192:1,accepted,,,B192:1:73,Hypothenemus,,,,,Scolytidae,,Hypothenemus,,Scolytidae | Ipini | Hypothenemus,8HZTQ,7853292,8HZTQ,7853292
+B192:1:75,Ernopocerus,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Ernopocerus,,Scolytidae | Ipini,8HJD4,8473856,8HJD4,8473856
+B192:1:76,Ernoporus,,,,,,genus,,B192:1,heterotypic synonym,B192:1:75,Ernopocerus,,,,,,,Scolytidae,,Ernoporus,,Scolytidae | Ipini,8HFH6,1242041,8HFH6,1242041
+B192:1:77,Ernopocerus fagi (Fabricius),(Fabricius),Ernopocerus,,fagi,,species,,B192:1,accepted,,,B192:1:75,Ernopocerus,,,,,Scolytidae,,Ernopocerus,,Scolytidae | Ipini | Ernopocerus,,11337273,,1190526
+B192:1:78,Ernoporus,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Ernoporus,,Scolytidae | Ipini,8HFH6,1242041,8HFH6,1242041
+B192:1:79,Ernoporus tiliae (Panzer),(Panzer),Ernoporus,,tiliae,,species,,B192:1,accepted,,,B192:1:78,Ernoporus,,,,,Scolytidae,,Ernoporus,,Scolytidae | Ipini | Ernoporus,3B8QR,5022048,3B8QR,5022048
+B192:1:80,Xyleborus Eichhoff,Eichhoff,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Xyleborus,,Scolytidae | Ipini,8HSV6,1232636,8HSV6,1232636
+B192:1:81,Xyleborus dryographus (Ratzeburg),(Ratzeburg),Xyleborus,,dryographus,,species,,B192:1,accepted,,,B192:1:80,Xyleborus Eichhoff,,,,,Scolytidae,,Xyleborus,,Scolytidae | Ipini | Xyleborus,5CHSJ,7908600,5CHSJ,7908600
+B192:1:82,Xyleborus xylographus (Say),(Say),Xyleborus,,xylographus,,species,,B192:1,accepted,,,B192:1:80,Xyleborus Eichhoff,,,,,Scolytidae,,Xyleborus,,Scolytidae | Ipini | Xyleborus,8J8WM,5020049,8J8WM,5020049
+B192:1:83,Xyleborus saxeseni (Ratzeburg),(Ratzeburg),Xyleborus,,saxeseni,,species,,B192:1,synonym,B192:1:82,Xyleborus xylographus (Say),,,,,,,Scolytidae,,Xyleborus,,Scolytidae | Ipini | Xyleborus,,6097368,,1178923
+B192:1:84,Pityophthorus Eichhoff,Eichhoff,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Pityophthorus,,Scolytidae | Ipini,8HP25,1239664,8HP25,1239664
+B192:1:85,Pityophthorus pubescens (Marsham),(Marsham),Pityophthorus,,pubescens,,species,,B192:1,accepted,,,B192:1:84,Pityophthorus Eichhoff,,,,,Scolytidae,,Pityophthorus,,Scolytidae | Ipini | Pityophthorus,,4468665,,4468665
+B192:1:86,Pityophthorus lichtensteini (Ratzeburg),(Ratzeburg),Pityophthorus,,lichtensteini,,species,,B192:1,accepted,,,B192:1:84,Pityophthorus Eichhoff,,,,,Scolytidae,,Pityophthorus,,Scolytidae | Ipini | Pityophthorus,4JCXW,1239980,4JCXW,1239980
+B192:1:87,Taphrorychus Eichhoff,Eichhoff,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Taphrorychus,,Scolytidae | Ipini,8HRT7,1240990,8HRT7,1240990
+B192:1:88,Taphrorychus villifrons (Dufour),(Dufour),Taphrorychus,,villifrons,,species,,B192:1,accepted,,,B192:1:87,Taphrorychus Eichhoff,,,,,Scolytidae,,Taphrorychus,,Scolytidae | Ipini | Taphrorychus,54SMY,1240998,54SMY,1240998
+B192:1:89,Taphrorychus bicolor (Herbst),(Herbst),Taphrorychus,,bicolor,,species,,B192:1,accepted,,,B192:1:87,Taphrorychus Eichhoff,,,,,Scolytidae,,Taphrorychus,,Scolytidae | Ipini | Taphrorychus,54SM7,1241015,54SM7,1241015
+B192:1:90,Pityogenes Bedel,Bedel,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Pityogenes,,Scolytidae | Ipini,8HNZW,1237412,8HNZW,1237412
+B192:1:91,Pityogenes chalcographus (Linnaeus),(Linnaeus),Pityogenes,,chalcographus,,species,,B192:1,accepted,,,B192:1:90,Pityogenes Bedel,,,,,Scolytidae,,Pityogenes,,Scolytidae | Ipini | Pityogenes,4JCKY,1237428,4JCKY,1237428
+B192:1:92,Pityogenes trepanatus (Nördlinger),(Nördlinger),Pityogenes,,trepanatus,,species,,B192:1,accepted,,,B192:1:90,Pityogenes Bedel,,,,,Scolytidae,,Pityogenes,,Scolytidae | Ipini | Pityogenes,4JCLW,8324364,4JCLW,8324364
+B192:1:93,Pityogenes quadridens (Hartig),(Hartig),Pityogenes,,quadridens,,species,,B192:1,accepted,,,B192:1:90,Pityogenes Bedel,,,,,Scolytidae,,Pityogenes,,Scolytidae | Ipini | Pityogenes,4JCLQ,7391028,4JCLQ,7391028
+B192:1:94,Pityogenes bidentatus (Herbst),(Herbst),Pityogenes,,bidentatus,,species,,B192:1,accepted,,,B192:1:90,Pityogenes Bedel,,,,,Scolytidae,,Pityogenes,,Scolytidae | Ipini | Pityogenes,4JCKT,1237442,4JCKT,1237442
+B192:1:95,Ips Degeer,Degeer,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Ips,,Scolytidae | Ipini,8HH3M,4990244,8HH3M,4990244
+B192:1:96,Ips acuminatus (Gyllenhal),(Gyllenhal),Ips,,acuminatus,,species,,B192:1,accepted,,,B192:1:95,Ips Degeer,,,,,Scolytidae,,Ips,,Scolytidae | Ipini | Ips,3PXF4,5018715,3PXF4,5018715
+B192:1:97,Ips typographus (Linnaeus),(Linnaeus),Ips,,typographus,,species,,B192:1,accepted,,,B192:1:95,Ips Degeer,,,,,Scolytidae,,Ips,,Scolytidae | Ipini | Ips,3PXMD,5018723,3PXMD,5018723
+B192:1:98,Ips sexdentatus (Boerner),(Boerner),Ips,,sexdentatus,,species,,B192:1,accepted,,,B192:1:95,Ips Degeer,,,,,Scolytidae,,Ips,,Scolytidae | Ipini | Ips,9D5C5,4990243,9D5C5,4990243
+B192:1:99,Onthotomicus Ferrari,Ferrari,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Onthotomicus,,Scolytidae | Ipini,,1183575,,1217384
+B192:1:100,Onthotomicus erosus (Wollaston),(Wollaston),Onthotomicus,,erosus,,species,,B192:1,accepted,,,B192:1:99,Onthotomicus Ferrari,,,,,Scolytidae,,Onthotomicus,,Scolytidae | Ipini | Onthotomicus,,11284920,,8204814
+B192:1:101,Onthotomicus suturalis (Gyllenhal),(Gyllenhal),Onthotomicus,,suturalis,,species,,B192:1,accepted,,,B192:1:99,Onthotomicus Ferrari,,,,,Scolytidae,,Onthotomicus,,Scolytidae | Ipini | Onthotomicus,,11293555,,8202118
+B192:1:102,Onthotomicus laricis (Fabricius),(Fabricius),Onthotomicus,,laricis,,species,,B192:1,accepted,,,B192:1:99,Onthotomicus Ferrari,,,,,Scolytidae,,Onthotomicus,,Scolytidae | Ipini | Onthotomicus,,1183576,,1217397
+B192:1:103,Coccotrypes,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Coccotrypes,,Scolytidae | Ipini,8HDWD,1230200,8HDWD,1230200
+B192:1:104,Coccotrypes dactyliperda (Fabricius),(Fabricius),Coccotrypes,,dactyliperda,,species,,B192:1,accepted,,,B192:1:103,Coccotrypes,,,,,Scolytidae,,Coccotrypes,,Scolytidae | Ipini | Coccotrypes,8HWF3,1230310,8HWF3,1230310
+B192:1:105,Dryocoetes,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Dryocoetes,,Scolytidae | Ipini,8HFXB,1242903,8HFXB,1242903
+B192:1:106,Dryocoetes autrographus (Ratzeburg),(Ratzeburg),Dryocoetes,,autrographus,,species,,B192:1,accepted,,,B192:1:105,Dryocoetes,,,,,Scolytidae,,Dryocoetes,,Scolytidae | Ipini | Dryocoetes,37V7M,11346847,37V7M,11346847
+B192:1:107,Lymantor,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Lymantor,,Scolytidae | Ipini,8HJ3L,1178869,8HJ3L,1178869
+B192:1:108,Lymantor coryli (Perris),(Perris),Lymantor,,coryli,,species,,B192:1,accepted,,,B192:1:107,Lymantor,,,,,Scolytidae,,Lymantor,,Scolytidae | Ipini | Lymantor,3WRMV,1178872,3WRMV,1178872
+B192:1:109,Xylocleptes,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Xylocleptes,,Scolytidae | Ipini,8HSVW,1201525,8HSVW,1201525
+B192:1:110,Xylocleptes bispinus (Duftschmidt),(Duftschmidt),Xylocleptes,,bispinus,,species,,B192:1,accepted,,,B192:1:109,Xylocleptes,,,,,Scolytidae,,Xylocleptes,,Scolytidae | Ipini | Xylocleptes,5CKLK,1201568,5CKLK,1201568
+B192:1:111,Anisandrus,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Anisandrus,,Scolytidae | Ipini,8HCL6,1234185,8HCL6,1234185
+B192:1:112,Anisandrus dispar (Fabricius),(Fabricius),Anisandrus,,dispar,,species,,B192:1,accepted,,,B192:1:111,Anisandrus,,,,,Scolytidae,,Anisandrus,,Scolytidae | Ipini | Anisandrus,66PZ7,7407935,66PZ7,5020442
+B192:1:113,Xylosandrus,,,,,,genus,,B192:1,accepted,,,B192:1:49,Ipini,,,,,Scolytidae,,Xylosandrus,,Scolytidae | Ipini,8HSV8,1216876,8HSV8,1216876
+B192:1:114,Xylosandrus morigenus Blandford,Blandford,Xylosandrus,,morigenus,,species,,B192:1,accepted,,,B192:1:113,Xylosandrus,,,,,Scolytidae,,Xylosandrus,,Scolytidae | Ipini | Xylosandrus,5CMK3,1216881,5CMK3,1216881
+B192:1:115,Platypodidae,,,,,,family,,B192:1,accepted,,,,,,,,,Platypodidae,,,,,,3262857,,4239
+B192:1:116,Platypus Herbst,Herbst,,,,,genus,,B192:1,accepted,,,B192:1:115,Platypodidae,,,,,Platypodidae,,Platypus,,Platypodidae,8HFSJ,1204523,8HFSJ,1204523
+B192:1:117,Platypus cylindrus (Fabricius),(Fabricius),Platypus,,cylindrus,,species,,B192:1,accepted,,,B192:1:116,Platypus Herbst,,,,,Platypodidae,,Platypus,,Platypodidae | Platypus,4JWTG,1205228,4JWTG,1205228
+B192:1:118,Platypus penetralis Sampson,Sampson,Platypus,,penetralis,,species,,B192:1,accepted,,,B192:1:116,Platypus Herbst,,,,,Platypodidae,,Platypus,,Platypodidae | Platypus,4JX9S,5014843,4JX9S,5014843
+B192:1:119,Platypus solutus Schedl,Schedl,Platypus,,solutus,,species,,B192:1,synonym,B192:1:118,Platypus penetralis Sampson,,,,,,,Platypodidae,,Platypus,,Platypodidae | Platypus,4JXGF,5015172,4JXGF,5015172
+B192:1:120,Platypus curtus Chapuis,Chapuis,Platypus,,curtus,,species,,B192:1,accepted,,,B192:1:116,Platypus Herbst,,,,,Platypodidae,,Platypus,,Platypodidae | Platypus,782R5,5014864,782R5,5014864

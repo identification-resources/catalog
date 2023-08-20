@@ -1,15 +1,15 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B934:1:1,Astacus astacus,,Astacus,,astacus,,species,,B934:1,accepted,,,,,,,,,,,Astacus,,,7R7BP,2226998
-B934:1:2,Astacus leptodactylus,,Astacus,,leptodactylus,,species,,B934:1,accepted,,,,,,,,,,,Astacus,,,7R7D9,4417551
-B934:1:3,Austropotamobius pallipes,,Austropotamobius,,pallipes,,species,,B934:1,accepted,,,,,,,,,,,Austropotamobius,,,7RCB7,4312658
-B934:1:4,Austropotamobius torrentium,,Austropotamobius,,torrentium,,species,,B934:1,accepted,,,,,,,,,,,Austropotamobius,,,7RCBB,4417555
-B934:1:5,Cherax quadricarinatus,,Cherax,,quadricarinatus,,species,,B934:1,accepted,,,,,,,,,,,Cherax,,,7S74F,4648609
-B934:1:6,Orconectes immunis,,Orconectes,,immunis,,species,,B934:1,accepted,,,,,,,,,,,Orconectes,,,7W5Y4,2227004
-B934:1:7,Orconectes limosus,,Orconectes,,limosus,,species,,B934:1,accepted,,,,,,,,,,,Orconectes,,,7W5YK,2227000
-B934:1:8,Orconectes rusticus,,Orconectes,,rusticus,,species,,B934:1,accepted,,,,,,,,,,,Orconectes,,,7W5ZR,2227081
-B934:1:9,Orconectes virilis,,Orconectes,,virilis,,species,,B934:1,accepted,,,,,,,,,,,Orconectes,,,7W62B,2227064
-B934:1:10,Pacifastacus leniusculus,,Pacifastacus,,leniusculus,,species,,B934:1,accepted,,,,,,,,,,,Pacifastacus,,,7W7FR,2226990
-B934:1:11,Procambarus acutus,,Procambarus,,acutus,,species,,B934:1,accepted,,,,,,,,,,,Procambarus,,,7WLQN,2227289
-B934:1:12,Procambarus clarkii,,Procambarus,,clarkii,,species,,B934:1,accepted,,,,,,,,,,,Procambarus,,,7WLRT,2227300
-B934:1:13,Procambarus fallax,,Procambarus,,fallax,,species,,B934:1,accepted,,,,,,,,,,,Procambarus,,,7WLST,2227309
-B934:1:14,Procambarus fallax f. virginalis,,Procambarus,,fallax,virginalis,form,,B934:1,accepted,,,B934:1:13,Procambarus fallax,,,,,,,Procambarus,,Procambarus fallax,,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B934:1:1,Astacus astacus,,Astacus,,astacus,,species,,B934:1,accepted,,,,,,,,,,,Astacus,,,7R7BP,2226998,7R7BP,2226998
+B934:1:2,Astacus leptodactylus,,Astacus,,leptodactylus,,species,,B934:1,accepted,,,,,,,,,,,Astacus,,,7R7D9,12037670,7WKSK,10773352
+B934:1:3,Austropotamobius pallipes,,Austropotamobius,,pallipes,,species,,B934:1,accepted,,,,,,,,,,,Austropotamobius,,,7RCB7,4312658,7RCB7,4312658
+B934:1:4,Austropotamobius torrentium,,Austropotamobius,,torrentium,,species,,B934:1,accepted,,,,,,,,,,,Austropotamobius,,,7RCBB,4417555,7RCBB,4417555
+B934:1:5,Cherax quadricarinatus,,Cherax,,quadricarinatus,,species,,B934:1,accepted,,,,,,,,,,,Cherax,,,7S74F,4648609,7S74F,4648609
+B934:1:6,Orconectes immunis,,Orconectes,,immunis,,species,,B934:1,accepted,,,,,,,,,,,Orconectes,,,7W5Y4,2227004,7TVR8,8930656
+B934:1:7,Orconectes limosus,,Orconectes,,limosus,,species,,B934:1,accepted,,,,,,,,,,,Orconectes,,,7W5YK,2227000,7TVRJ,8909595
+B934:1:8,Orconectes rusticus,,Orconectes,,rusticus,,species,,B934:1,accepted,,,,,,,,,,,Orconectes,,,7W5ZR,2227081,7TVTB,8979506
+B934:1:9,Orconectes virilis,,Orconectes,,virilis,,species,,B934:1,accepted,,,,,,,,,,,Orconectes,,,7W62B,2227064,7TVTY,8971201
+B934:1:10,Pacifastacus leniusculus,,Pacifastacus,,leniusculus,,species,,B934:1,accepted,,,,,,,,,,,Pacifastacus,,,7W7FR,2226990,7W7FR,2226990
+B934:1:11,Procambarus acutus,,Procambarus,,acutus,,species,,B934:1,accepted,,,,,,,,,,,Procambarus,,,7WLQN,2227289,7WLQN,2227289
+B934:1:12,Procambarus clarkii,,Procambarus,,clarkii,,species,,B934:1,accepted,,,,,,,,,,,Procambarus,,,7WLRT,2227300,7WLRT,2227300
+B934:1:13,Procambarus fallax,,Procambarus,,fallax,,species,,B934:1,accepted,,,,,,,,,,,Procambarus,,,7WLST,2227309,7WLST,2227309
+B934:1:14,Procambarus fallax f. virginalis,,Procambarus,,fallax,virginalis,form,,B934:1,accepted,,,B934:1:13,Procambarus fallax,,,,,,,Procambarus,,Procambarus fallax,,,,

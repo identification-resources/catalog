@@ -1,136 +1,136 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B69:1:1,Sciaroidae,,,,,,superfamily,,B69:1,accepted,,,,,,,,,,,,,,,
-B69:1:3,Ditomyiidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Ditomyiidae,,,,Sciaroidae,6249Z,3350
-B69:1:4,Symmerus Walker,Walker,,,,,genus,,B69:1,accepted,,,B69:1:3,Ditomyiidae,,,,,Ditomyiidae,,Symmerus,,Sciaroidae | Ditomyiidae,87KV4,1563424
-B69:1:5,Symmerus Walker,Walker,,,,,subgenus,,B69:1,accepted,,,B69:1:4,Symmerus Walker,,,,,Ditomyiidae,,Symmerus,Symmerus,Sciaroidae | Ditomyiidae | Symmerus,87KV4,
-B69:1:6,Psilosymmerus Munroe,Munroe,,,,,subgenus,,B69:1,accepted,,,B69:1:4,Symmerus Walker,,,,,Ditomyiidae,,Symmerus,Psilosymmerus,Sciaroidae | Ditomyiidae | Symmerus,89T5F,
-B69:1:7,Ditomyia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:3,Ditomyiidae,,,,,Ditomyiidae,,Ditomyia,,Sciaroidae | Ditomyiidae,474Q,1563343
-B69:1:8,Asioditomyia Saiguisa,Saiguisa,,,,,genus,,B69:1,accepted,,,B69:1:3,Ditomyiidae,,,,,Ditomyiidae,,Asioditomyia,,Sciaroidae | Ditomyiidae,33WB,1563418
-B69:1:9,Bolitophilidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Bolitophilidae,,,,Sciaroidae,622F5,7284
-B69:1:10,Bolitophila Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:9,Bolitophilidae,,,,,Bolitophilidae,,Bolitophila,,Sciaroidae | Bolitophilidae,3B8Y,1563675
-B69:1:11,Cliopisa Enderlein,Enderlein,,,,,subgenus,,B69:1,accepted,,,B69:1:10,Bolitophila Meigen,,,,,Bolitophilidae,,Bolitophila,Cliopisa,Sciaroidae | Bolitophilidae | Bolitophila,89S4V,
-B69:1:12,Bolitophila Meigen,Meigen,,,,,subgenus,,B69:1,accepted,,,B69:1:10,Bolitophila Meigen,,,,,Bolitophilidae,,Bolitophila,Bolitophila,Sciaroidae | Bolitophilidae | Bolitophila,3B8Y,
-B69:1:13,Diadocidiidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Diadocidiidae,,,,Sciaroidae,62498,3348
-B69:1:14,Diadocidia Ruthe,Ruthe,,,,,genus,,B69:1,accepted,,,B69:1:13,Diadocidiidae,,,,,Diadocidiidae,,Diadocidia,,Sciaroidae | Diadocidiidae,87FJR,1493869
-B69:1:15,Adidocidia Laštovka,Laštovka,,,,,subgenus,et Matile,B69:1,accepted,,,B69:1:14,Diadocidia Ruthe,,,,,Diadocidiidae,,Diadocidia,Adidocidia,Sciaroidae | Diadocidiidae | Diadocidia,89RSL,
-B69:1:16,Diadocidia Ruthe,Ruthe,,,,,subgenus,,B69:1,accepted,,,B69:1:14,Diadocidia Ruthe,,,,,Diadocidiidae,,Diadocidia,Diadocidia,Sciaroidae | Diadocidiidae | Diadocidia,87FJR,
-B69:1:17,Keroplatidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Keroplatidae,,,,Sciaroidae,BLP,5558
-B69:1:18,Keroplatinae,,,,,,subfamily,,B69:1,accepted,,,B69:1:17,Keroplatidae,,,,,Keroplatidae,Keroplatinae,,,Sciaroidae | Keroplatidae,89NYM,
-B69:1:19,Keroplatini,,,,,,tribe,,B69:1,accepted,,,B69:1:18,Keroplatinae,,,,,Keroplatidae,Keroplatinae,,,Sciaroidae | Keroplatidae | Keroplatinae,89PBD,
-B69:1:20,Keroplatus Bosc,Bosc,,,,,genus,,B69:1,accepted,,,B69:1:19,Keroplatini,,,,,Keroplatidae,Keroplatinae,Keroplatus,,Sciaroidae | Keroplatidae | Keroplatinae | Keroplatini,8MRGV,1563876
-B69:1:21,Heteropterna Skuse,Skuse,,,,,genus,,B69:1,accepted,,,B69:1:19,Keroplatini,,,,,Keroplatidae,Keroplatinae,Heteropterna,,Sciaroidae | Keroplatidae | Keroplatinae | Keroplatini,8NQ8C,1563814
-B69:1:22,Cerotelion Rondani,Rondani,,,,,genus,,B69:1,accepted,,,B69:1:19,Keroplatini,,,,,Keroplatidae,Keroplatinae,Cerotelion,,Sciaroidae | Keroplatidae | Keroplatinae | Keroplatini,3L8B,1563698
-B69:1:23,Rocetelion Matile,Matile,,,,,genus,,B69:1,accepted,,,B69:1:19,Keroplatini,,,,,Keroplatidae,Keroplatinae,Rocetelion,,Sciaroidae | Keroplatidae | Keroplatinae | Keroplatini,89RDK,4406266
-B69:1:24,Setostylus Matile,Matile,,,,,genus,,B69:1,accepted,,,B69:1:19,Keroplatini,,,,,Keroplatidae,Keroplatinae,Setostylus,,Sciaroidae | Keroplatidae | Keroplatinae | Keroplatini,7G6F,1564581
-B69:1:25,Orfeliini,,,,,,tribe,,B69:1,accepted,,,B69:1:18,Keroplatinae,,,,,Keroplatidae,Keroplatinae,,,Sciaroidae | Keroplatidae | Keroplatinae,8N3T7,
-B69:1:26,Asindulum Latreille,Latreille,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Asindulum,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,33VV,1563693
-B69:1:27,Macrorrhyncha Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Macrorrhyncha,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,8MRTD,1564390
-B69:1:28,Antlemon Loew,Loew,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Antlemon,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,XSC,10988329
-B69:1:29,Platyura Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Platyura,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,8NX8D,1563336
-B69:1:30,Proceroplatus Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Proceroplatus,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,6W7L,1564343
-B69:1:31,Monocentrota Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Monocentrota,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,63BGB,1563679
-B69:1:32,Neoplatyura Malloch,Malloch,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Neoplatyura,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,62CY,1564492
-B69:1:33,Isoneuromyia Brunetti,Brunetti,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Isoneuromyia,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,55K2,1563533
-B69:1:34,Urytalpa Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Urytalpa,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,647HW,1564333
-B69:1:35,Pyratula Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Pyratula,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,75Y4,1564789
-B69:1:36,Orfelia Costa,Costa,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Orfelia,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,69PY,1564597
-B69:1:37,Xenoplatyura Malloch,Malloch,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Xenoplatyura,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,88WC,1563938
-B69:1:38,Truplaya Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Truplaya,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,87L7S,1563741
-B69:1:39,Rutylapa Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Rutylapa,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,7B9K,1564813
-B69:1:40,Laurypta Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Laurypta,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,5BHH,1563517
-B69:1:41,Macrocerinae,,,,,,subfamily,,B69:1,accepted,,,B69:1:17,Keroplatidae,,,,,Keroplatidae,Macrocerinae,,,Sciaroidae | Keroplatidae,89NZ7,
-B69:1:42,Robsonomyiini,,,,,,tribe,,B69:1,accepted,,,B69:1:41,Macrocerinae,,,,,Keroplatidae,Macrocerinae,,,Sciaroidae | Keroplatidae | Macrocerinae,89PFJ,
-B69:1:43,Robsonomyia Matile,Matile,,,,,genus,et Vockeroth,B69:1,accepted,,,B69:1:42,Robsonomyiini,,,,,Keroplatidae,Macrocerinae,Robsonomyia,,Sciaroidae | Keroplatidae | Macrocerinae | Robsonomyiini,6443B,1564573
-B69:1:44,Macrocerini,,,,,,tribe,,B69:1,accepted,,,B69:1:41,Macrocerinae,,,,,Keroplatidae,Macrocerinae,,,Sciaroidae | Keroplatidae | Macrocerinae,89PBW,
-B69:1:45,Macrocera Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:44,Macrocerini,,,,,Keroplatidae,Macrocerinae,Macrocera,,Sciaroidae | Keroplatidae | Macrocerinae | Macrocerini,5J9W,1564089
-B69:1:46,Fenderomyia Shaw,Shaw,,,,,genus,,B69:1,accepted,,,B69:1:44,Macrocerini,,,,,Keroplatidae,Macrocerinae,Fenderomyia,,Sciaroidae | Keroplatidae | Macrocerinae | Macrocerini,89Q8G,1563783
-B69:1:47,Lygistorrhinidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Lygistorrhinidae,,,,Sciaroidae,,9494
-B69:1:48,Lygistorrhina Skuse,Skuse,,,,,genus,,B69:1,accepted,,,B69:1:47,Lygistorrhinidae,,,,,Lygistorrhinidae,,Lygistorrhina,,Sciaroidae | Lygistorrhinidae,5HP2,1620910
-B69:1:49,Sciaridae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Sciaridae,,,,Sciaroidae,G3Z,3525
-B69:1:50,Mycetophilidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Mycetophilidae,,,,Sciaroidae,D26,5565
-B69:1:51,Manota Williston,Williston,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Manota,,Sciaroidae | Mycetophilidae,5KY7,1611895
-B69:1:52,Parempheriella Matile,Matile,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Parempheriella,,Sciaroidae | Mycetophilidae,6HMM,1612784
-B69:1:53,Neoempheria Osten-Sacken,Osten-Sacken,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Neoempheria,,Sciaroidae | Mycetophilidae,63DTZ,1614957
-B69:1:54,Mycomya Rondani,Rondani,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Mycomya,,Sciaroidae | Mycetophilidae,5W58,1612938
-B69:1:55,Calcomycomya Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Calcomycomya,Sciaroidae | Mycetophilidae | Mycomya,,
-B69:1:56,Mycomya Rondani,Rondani,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Mycomya,Sciaroidae | Mycetophilidae | Mycomya,5W58,
-B69:1:57,Coheromyia Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Coheromyia,Sciaroidae | Mycetophilidae | Mycomya,89S4Z,
-B69:1:58,Cymomya Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Cymomya,Sciaroidae | Mycetophilidae | Mycomya,89S6G,
-B69:1:59,Neomycomya Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Neomycomya,Sciaroidae | Mycetophilidae | Mycomya,89SRS,
-B69:1:60,Lycomya Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Lycomya,Sciaroidae | Mycetophilidae | Mycomya,87J3J,
-B69:1:61,Mycomyopsis Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Mycomyopsis,Sciaroidae | Mycetophilidae | Mycomya,89SQM,
-B69:1:62,Phthinia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Phthinia,,Sciaroidae | Mycetophilidae,6PDS,1613551
-B69:1:63,Paratinia Mik,Mik,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Paratinia,,Sciaroidae | Mycetophilidae,6H88,1616885
-B69:1:64,Azana Walker,Walker,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Azana,,Sciaroidae | Mycetophilidae,36W6,1612498
-B69:1:65,Syntemna Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Syntemna,,Sciaroidae | Mycetophilidae,63TDP,1614769
-B69:1:66,Monoclona Mik,Mik,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Monoclona,,Sciaroidae | Mycetophilidae,63DC3,1616158
-B69:1:67,Acnemia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Acnemia,,Sciaroidae | Mycetophilidae,N3Q,1612090
-B69:1:68,Polylepta Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Polylepta,,Sciaroidae | Mycetophilidae,63NHK,1613611
-B69:1:69,Anaclileia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Anaclileia,,Sciaroidae | Mycetophilidae,62BX9,1612911
-B69:1:70,Neuratelia Rondani,Rondani,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Neuratelia,,Sciaroidae | Mycetophilidae,63QL,1613473
-B69:1:71,Baeopterogyna Vockeroth,Vockeroth,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Baeopterogyna,,Sciaroidae | Mycetophilidae,379H,1616833
-B69:1:72,Sciophila Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Sciophila,,Sciaroidae | Mycetophilidae,8MV3V,1613689
-B69:1:73,Megalopelma Enderlein,Enderlein,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Megalopelma,,Sciaroidae | Mycetophilidae,62YZB,1615791
-B69:1:74,Leptomorphus Curtis,Curtis,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Leptomorphus,,Sciaroidae | Mycetophilidae,87GVK,1612040
-B69:1:75,Allocotocera Mik,Mik,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Allocotocera,,Sciaroidae | Mycetophilidae,S8Y,1616847
-B69:1:76,Eudicrana Loew,Loew,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Eudicrana,,Sciaroidae | Mycetophilidae,4FG2,1612205
-B69:1:77,Allactoneura De,De,,,,,genus,Meijere,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Allactoneura,,Sciaroidae | Mycetophilidae,S23,1613593
-B69:1:78,Coelophthinia Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Coelophthinia,,Sciaroidae | Mycetophilidae,3RWM,1612520
-B69:1:79,Coelosia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Coelosia,,Sciaroidae | Mycetophilidae,3RXB,1612356
-B69:1:80,Gnoriste Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Gnoriste,,Sciaroidae | Mycetophilidae,4PP2,1613511
-B69:1:81,Drepanocercus Vockeroth,Vockeroth,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Drepanocercus,,Sciaroidae | Mycetophilidae,632VK,1612151
-B69:1:82,Aglaomyia Vockeroth,Vockeroth,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Aglaomyia,,Sciaroidae | Mycetophilidae,QRF,1612771
-B69:1:83,Synapha Meigeil,Meigeil,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Synapha,,Sciaroidae | Mycetophilidae,7QZQ,1614887
-B69:1:84,Grzegorzekia Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Grzegorzekia,,Sciaroidae | Mycetophilidae,8NS7Q,1615734
-B69:1:85,Creagdhubhia Chandler,Chandler,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Creagdhubhia,,Sciaroidae | Mycetophilidae,3VGC,1616837
-B69:1:86,Phoenikiella Chandler,Chandler,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Phoenikiella,,Sciaroidae | Mycetophilidae,,4520967
-B69:1:87,Acomoptera Vockeroth,Vockeroth,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Acomoptera,,Sciaroidae | Mycetophilidae,N4Z,1612156
-B69:1:88,Saigusaia Vockeroth,Vockeroth,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Saigusaia,,Sciaroidae | Mycetophilidae,7BQ6,1616559
-B69:1:89,Boletina Staeger,Staeger,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Boletina,,Sciaroidae | Mycetophilidae,3B87,1616183
-B69:1:90,Novakia Strobl,Strobl,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Novakia,,Sciaroidae | Mycetophilidae,65NH,1616399
-B69:1:91,Chalastonepsia Søli,Søli,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Chalastonepsia,,Sciaroidae | Mycetophilidae,62M2W,1613669
-B69:1:92,Docosia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Docosia,,Sciaroidae | Mycetophilidae,62R75,1612397
-B69:1:93,Tetragoneura Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Tetragoneura,,Sciaroidae | Mycetophilidae,646S3,1615550
-B69:1:94,Ectrepesthoneura Enderlein,Enderlein,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Ectrepesthoneura,,Sciaroidae | Mycetophilidae,49ZL,1616009
-B69:1:95,Apolephthisa Grzegorzek,Grzegorzek,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Apolephthisa,,Sciaroidae | Mycetophilidae,YYD,1615717
-B69:1:96,Rondaniella Johannsen,Johannsen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Rondaniella,,Sciaroidae | Mycetophilidae,63RTJ,1612129
-B69:1:97,Greenomyia Brunetti,Brunetti,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Greenomyia,,Sciaroidae | Mycetophilidae,4QZN,1616542
-B69:1:98,Neoclastobasis Ostroverkhova,Ostroverkhova,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Neoclastobasis,,Sciaroidae | Mycetophilidae,5Z3M,1616356
-B69:1:99,Clastobasis Skuse,Skuse,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Clastobasis,,Sciaroidae | Mycetophilidae,3QJD,1613634
-B69:1:100,Leia Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Leia,,Sciaroidae | Mycetophilidae,62X7X,1615198
-B69:1:101,Megophthalmidia Dziedzicki,Dziedzicki,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Megophthalmidia,,Sciaroidae | Mycetophilidae,87H9B,1615517
-B69:1:102,Impleta Plassmann,Plassmann,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Impleta,,Sciaroidae | Mycetophilidae,62WJT,1613605
-B69:1:103,Palaeodocosia Meunier,Meunier,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Palaeodocosia,,Sciaroidae | Mycetophilidae,6CFT,1614807
-B69:1:104,Hadroneura Lundström,Lundström,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Hadroneura,,Sciaroidae | Mycetophilidae,4SDN,1613530
-B69:1:105,Dziedzickia Johannsen,Johannsen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Dziedzickia,,Sciaroidae | Mycetophilidae,4993,1615128
-B69:1:106,Anatella Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Anatella,,Sciaroidae | Mycetophilidae,62C2K,1611835
-B69:1:107,Exechia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Exechia,,Sciaroidae | Mycetophilidae,4HST,1612526
-B69:1:108,Pseudexechia Tuornikoski,Tuornikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Pseudexechia,,Sciaroidae | Mycetophilidae,6Z2M,1615686
-B69:1:109,Exechiopsis Tuornikoski,Tuornikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Exechiopsis,,Sciaroidae | Mycetophilidae,8NPQL,1616031
-B69:1:110,Exechiopsis Tuomikoski,Tuomikoski,,,,,subgenus,,B69:1,accepted,,,B69:1:109,Exechiopsis Tuornikoski,,,,,Mycetophilidae,,Exechiopsis,Exechiopsis,Sciaroidae | Mycetophilidae | Exechiopsis,8NPQL,
-B69:1:111,Xenexechia Tuomikoski,Tuomikoski,,,,,subgenus,,B69:1,accepted,,,B69:1:109,Exechiopsis Tuornikoski,,,,,Mycetophilidae,,Exechiopsis,Xenexechia,Sciaroidae | Mycetophilidae | Exechiopsis,8PHCN,
-B69:1:112,Stigmatomeria Tuomikoski,Tuomikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Stigmatomeria,,Sciaroidae | Mycetophilidae,645N2,4298099
-B69:1:113,Pseudobrachypeza Tuomikoski,Tuomikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Pseudobrachypeza,,Sciaroidae | Mycetophilidae,6ZCM,1616427
-B69:1:114,Brachypeza Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Brachypeza,,Sciaroidae | Mycetophilidae,87DQC,1616405
-B69:1:115,Brachypeza Winnertz,Winnertz,,,,,subgenus,,B69:1,accepted,,,B69:1:114,Brachypeza Winnertz,,,,,Mycetophilidae,,Brachypeza,Brachypeza,Sciaroidae | Mycetophilidae | Brachypeza,87DQC,
-B69:1:116,Paracordyla Tuomikoski,Tuomikoski,,,,,subgenus,,B69:1,accepted,,,B69:1:114,Brachypeza Winnertz,,,,,Mycetophilidae,,Brachypeza,Paracordyla,Sciaroidae | Mycetophilidae | Brachypeza,,
-B69:1:117,Pseudorymosia Tuomikoski,Tuomikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Pseudorymosia,,Sciaroidae | Mycetophilidae,642S4,1615681
-B69:1:118,Synplasta Skuse,Skuse,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Synplasta,,Sciaroidae | Mycetophilidae,7RDP,1616372
-B69:1:119,"Myrosia Tuomikoski,","Tuomikoski,",,,,,genus,n. stat.,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Myrosia,,Sciaroidae | Mycetophilidae,89SQS,9087285
-B69:1:120,"Notolopha Tuomikoski,","Tuomikoski,",,,,,genus,n. stat.,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Notolopha,,Sciaroidae | Mycetophilidae,89SSX,9104583
-B69:1:121,Allodiopsis Tuomikoski,Tuomikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Allodiopsis,,Sciaroidae | Mycetophilidae,62942,1613861
-B69:1:122,Rymosia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Rymosia,,Sciaroidae | Mycetophilidae,643JZ,1616436
-B69:1:123,Tarnania Tuomikoski,Tuomikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Tarnania,,Sciaroidae | Mycetophilidae,645J9,1612927
-B69:1:124,Brevicornu Marshall,Marshall,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Brevicornu,,Sciaroidae | Mycetophilidae,8MQB5,1615892
-B69:1:125,Allodia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Allodia,,Sciaroidae | Mycetophilidae,87D6V,1612223
-B69:1:126,Allodia Winnertz,Winnertz,,,,,subgenus,,B69:1,accepted,,,B69:1:125,Allodia Winnertz,,,,,Mycetophilidae,,Allodia,Allodia,Sciaroidae | Mycetophilidae | Allodia,87D6V,
-B69:1:127,Brachycampta Winnertz,Winnertz,,,,,subgenus,,B69:1,accepted,,,B69:1:125,Allodia Winnertz,,,,,Mycetophilidae,,Allodia,Brachycampta,Sciaroidae | Mycetophilidae | Allodia,89RZV,
-B69:1:128,Cordyla Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Cordyla,,Sciaroidae | Mycetophilidae,,1616779
-B69:1:129,Dynatosoma Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Dynatosoma,,Sciaroidae | Mycetophilidae,48YW,1612860
-B69:1:130,Trichonta Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Trichonta,,Sciaroidae | Mycetophilidae,7ZH5,1616894
-B69:1:131,Macrobrachius Dziedzicki,Dziedzicki,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Macrobrachius,,Sciaroidae | Mycetophilidae,5J8X,1616003
-B69:1:132,Phronia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Phronia,,Sciaroidae | Mycetophilidae,63MJJ,1616571
-B69:1:133,Mycetophila Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Mycetophila,,Sciaroidae | Mycetophilidae,5W2Y,1487049
-B69:1:134,Epicypta Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Epicypta,,Sciaroidae | Mycetophilidae,87FVY,1617044
-B69:1:135,Platurocypta Enderlein,Enderlein,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Platurocypta,,Sciaroidae | Mycetophilidae,8FPMQ,1612517
-B69:1:136,Sceptonia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Sceptonia,,Sciaroidae | Mycetophilidae,87KHR,8946967
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B69:1:1,Sciaroidae,,,,,,superfamily,,B69:1,accepted,,,,,,,,,,,,,,,,,
+B69:1:3,Ditomyiidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Ditomyiidae,,,,Sciaroidae,6249Z,3350,6249Z,3350
+B69:1:4,Symmerus Walker,Walker,,,,,genus,,B69:1,accepted,,,B69:1:3,Ditomyiidae,,,,,Ditomyiidae,,Symmerus,,Sciaroidae | Ditomyiidae,87KV4,1563424,87KV4,1563424
+B69:1:5,Symmerus Walker,Walker,,,,,subgenus,,B69:1,accepted,,,B69:1:4,Symmerus Walker,,,,,Ditomyiidae,,Symmerus,Symmerus,Sciaroidae | Ditomyiidae | Symmerus,87KV4,,87KV4,
+B69:1:6,Psilosymmerus Munroe,Munroe,,,,,subgenus,,B69:1,accepted,,,B69:1:4,Symmerus Walker,,,,,Ditomyiidae,,Symmerus,Psilosymmerus,Sciaroidae | Ditomyiidae | Symmerus,89T5F,,89T5F,
+B69:1:7,Ditomyia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:3,Ditomyiidae,,,,,Ditomyiidae,,Ditomyia,,Sciaroidae | Ditomyiidae,474Q,1563343,474Q,1563343
+B69:1:8,Asioditomyia Saiguisa,Saiguisa,,,,,genus,,B69:1,accepted,,,B69:1:3,Ditomyiidae,,,,,Ditomyiidae,,Asioditomyia,,Sciaroidae | Ditomyiidae,33WB,1563418,33WB,1563418
+B69:1:9,Bolitophilidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Bolitophilidae,,,,Sciaroidae,622F5,7284,622F5,7284
+B69:1:10,Bolitophila Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:9,Bolitophilidae,,,,,Bolitophilidae,,Bolitophila,,Sciaroidae | Bolitophilidae,3B8Y,1563675,3B8Y,1563675
+B69:1:11,Cliopisa Enderlein,Enderlein,,,,,subgenus,,B69:1,accepted,,,B69:1:10,Bolitophila Meigen,,,,,Bolitophilidae,,Bolitophila,Cliopisa,Sciaroidae | Bolitophilidae | Bolitophila,89S4V,,89S4V,
+B69:1:12,Bolitophila Meigen,Meigen,,,,,subgenus,,B69:1,accepted,,,B69:1:10,Bolitophila Meigen,,,,,Bolitophilidae,,Bolitophila,Bolitophila,Sciaroidae | Bolitophilidae | Bolitophila,3B8Y,,3B8Y,
+B69:1:13,Diadocidiidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Diadocidiidae,,,,Sciaroidae,62498,3348,62498,3348
+B69:1:14,Diadocidia Ruthe,Ruthe,,,,,genus,,B69:1,accepted,,,B69:1:13,Diadocidiidae,,,,,Diadocidiidae,,Diadocidia,,Sciaroidae | Diadocidiidae,9JGM2,1493869,9JGM2,1493869
+B69:1:15,Adidocidia Laštovka,Laštovka,,,,,subgenus,et Matile,B69:1,accepted,,,B69:1:14,Diadocidia Ruthe,,,,,Diadocidiidae,,Diadocidia,Adidocidia,Sciaroidae | Diadocidiidae | Diadocidia,89RSL,,89RSL,
+B69:1:16,Diadocidia Ruthe,Ruthe,,,,,subgenus,,B69:1,accepted,,,B69:1:14,Diadocidia Ruthe,,,,,Diadocidiidae,,Diadocidia,Diadocidia,Sciaroidae | Diadocidiidae | Diadocidia,9JGM2,,9JGM2,
+B69:1:17,Keroplatidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Keroplatidae,,,,Sciaroidae,BLP,5558,BLP,5558
+B69:1:18,Keroplatinae,,,,,,subfamily,,B69:1,accepted,,,B69:1:17,Keroplatidae,,,,,Keroplatidae,Keroplatinae,,,Sciaroidae | Keroplatidae,89NYM,,89NYM,
+B69:1:19,Keroplatini,,,,,,tribe,,B69:1,accepted,,,B69:1:18,Keroplatinae,,,,,Keroplatidae,Keroplatinae,,,Sciaroidae | Keroplatidae | Keroplatinae,89PBD,,89PBD,
+B69:1:20,Keroplatus Bosc,Bosc,,,,,genus,,B69:1,accepted,,,B69:1:19,Keroplatini,,,,,Keroplatidae,Keroplatinae,Keroplatus,,Sciaroidae | Keroplatidae | Keroplatinae | Keroplatini,582W,1563876,582W,1563876
+B69:1:21,Heteropterna Skuse,Skuse,,,,,genus,,B69:1,accepted,,,B69:1:19,Keroplatini,,,,,Keroplatidae,Keroplatinae,Heteropterna,,Sciaroidae | Keroplatidae | Keroplatinae | Keroplatini,4WPR,1563814,4WPR,1563814
+B69:1:22,Cerotelion Rondani,Rondani,,,,,genus,,B69:1,accepted,,,B69:1:19,Keroplatini,,,,,Keroplatidae,Keroplatinae,Cerotelion,,Sciaroidae | Keroplatidae | Keroplatinae | Keroplatini,9XBW4,1563698,9XBW4,1563698
+B69:1:23,Rocetelion Matile,Matile,,,,,genus,,B69:1,accepted,,,B69:1:19,Keroplatini,,,,,Keroplatidae,Keroplatinae,Rocetelion,,Sciaroidae | Keroplatidae | Keroplatinae | Keroplatini,89RDK,4406266,89RDK,4406266
+B69:1:24,Setostylus Matile,Matile,,,,,genus,,B69:1,accepted,,,B69:1:19,Keroplatini,,,,,Keroplatidae,Keroplatinae,Setostylus,,Sciaroidae | Keroplatidae | Keroplatinae | Keroplatini,7G6F,1564581,7G6F,1564581
+B69:1:25,Orfeliini,,,,,,tribe,,B69:1,accepted,,,B69:1:18,Keroplatinae,,,,,Keroplatidae,Keroplatinae,,,Sciaroidae | Keroplatidae | Keroplatinae,9JG9B,,9JG9B,
+B69:1:26,Asindulum Latreille,Latreille,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Asindulum,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,9WKZP,1563693,9WKZP,1563693
+B69:1:27,Macrorrhyncha Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Macrorrhyncha,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,9XC9B,1564390,9XC9B,1564390
+B69:1:28,Antlemon Loew,Loew,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Antlemon,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,XSC,10988329,XSC,10988329
+B69:1:29,Platyura Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Platyura,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,6S79,1563336,6S79,1563336
+B69:1:30,Proceroplatus Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Proceroplatus,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,6W7L,1564343,6W7L,1564343
+B69:1:31,Monocentrota Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Monocentrota,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,63BGB,1563679,63BGB,1563679
+B69:1:32,Neoplatyura Malloch,Malloch,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Neoplatyura,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,62CY,1564492,62CY,1564492
+B69:1:33,Isoneuromyia Brunetti,Brunetti,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Isoneuromyia,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,55K2,1563533,55K2,1563533
+B69:1:34,Urytalpa Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Urytalpa,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,647HW,1564333,647HW,1564333
+B69:1:35,Pyratula Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Pyratula,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,75Y4,1564789,75Y4,1564789
+B69:1:36,Orfelia Costa,Costa,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Orfelia,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,69PY,1564597,69PY,1564597
+B69:1:37,Xenoplatyura Malloch,Malloch,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Xenoplatyura,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,88WC,1563938,88WC,1563938
+B69:1:38,Truplaya Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Truplaya,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,87L7S,1563741,87L7S,1563741
+B69:1:39,Rutylapa Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Rutylapa,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,7B9K,1564813,7B9K,1564813
+B69:1:40,Laurypta Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:25,Orfeliini,,,,,Keroplatidae,Keroplatinae,Laurypta,,Sciaroidae | Keroplatidae | Keroplatinae | Orfeliini,5BHH,1563517,5BHH,1563517
+B69:1:41,Macrocerinae,,,,,,subfamily,,B69:1,accepted,,,B69:1:17,Keroplatidae,,,,,Keroplatidae,Macrocerinae,,,Sciaroidae | Keroplatidae,89NZ7,,89NZ7,
+B69:1:42,Robsonomyiini,,,,,,tribe,,B69:1,accepted,,,B69:1:41,Macrocerinae,,,,,Keroplatidae,Macrocerinae,,,Sciaroidae | Keroplatidae | Macrocerinae,89PFJ,,89PFJ,
+B69:1:43,Robsonomyia Matile,Matile,,,,,genus,et Vockeroth,B69:1,accepted,,,B69:1:42,Robsonomyiini,,,,,Keroplatidae,Macrocerinae,Robsonomyia,,Sciaroidae | Keroplatidae | Macrocerinae | Robsonomyiini,6443B,1564573,6443B,1564573
+B69:1:44,Macrocerini,,,,,,tribe,,B69:1,accepted,,,B69:1:41,Macrocerinae,,,,,Keroplatidae,Macrocerinae,,,Sciaroidae | Keroplatidae | Macrocerinae,89PBW,,89PBW,
+B69:1:45,Macrocera Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:44,Macrocerini,,,,,Keroplatidae,Macrocerinae,Macrocera,,Sciaroidae | Keroplatidae | Macrocerinae | Macrocerini,5J9W,1564089,5J9W,1564089
+B69:1:46,Fenderomyia Shaw,Shaw,,,,,genus,,B69:1,accepted,,,B69:1:44,Macrocerini,,,,,Keroplatidae,Macrocerinae,Fenderomyia,,Sciaroidae | Keroplatidae | Macrocerinae | Macrocerini,89Q8G,1563783,89Q8G,1563783
+B69:1:47,Lygistorrhinidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Lygistorrhinidae,,,,Sciaroidae,,9494,,9494
+B69:1:48,Lygistorrhina Skuse,Skuse,,,,,genus,,B69:1,accepted,,,B69:1:47,Lygistorrhinidae,,,,,Lygistorrhinidae,,Lygistorrhina,,Sciaroidae | Lygistorrhinidae,5HP2,1620910,5HP2,1620910
+B69:1:49,Sciaridae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Sciaridae,,,,Sciaroidae,G3Z,3525,G3Z,3525
+B69:1:50,Mycetophilidae,,,,,,family,,B69:1,accepted,,,B69:1:1,Sciaroidae,,,,,Mycetophilidae,,,,Sciaroidae,D26,5565,D26,5565
+B69:1:51,Manota Williston,Williston,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Manota,,Sciaroidae | Mycetophilidae,5KY7,1611895,5KY7,1611895
+B69:1:52,Parempheriella Matile,Matile,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Parempheriella,,Sciaroidae | Mycetophilidae,6HMM,1612784,6HMM,1612784
+B69:1:53,Neoempheria Osten-Sacken,Osten-Sacken,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Neoempheria,,Sciaroidae | Mycetophilidae,8YQJR,1614957,8YQJR,1614957
+B69:1:54,Mycomya Rondani,Rondani,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Mycomya,,Sciaroidae | Mycetophilidae,5W58,1612938,5W58,1612938
+B69:1:55,Calcomycomya Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Calcomycomya,Sciaroidae | Mycetophilidae | Mycomya,,,,
+B69:1:56,Mycomya Rondani,Rondani,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Mycomya,Sciaroidae | Mycetophilidae | Mycomya,5W58,,5W58,
+B69:1:57,Coheromyia Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Coheromyia,Sciaroidae | Mycetophilidae | Mycomya,89S4Z,,89S4Z,
+B69:1:58,Cymomya Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Cymomya,Sciaroidae | Mycetophilidae | Mycomya,89S6G,,89S6G,
+B69:1:59,Neomycomya Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Neomycomya,Sciaroidae | Mycetophilidae | Mycomya,89SRS,,89SRS,
+B69:1:60,Lycomya Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Lycomya,Sciaroidae | Mycetophilidae | Mycomya,87J3J,,87J3J,
+B69:1:61,Mycomyopsis Väisänen,Väisänen,,,,,subgenus,,B69:1,accepted,,,B69:1:54,Mycomya Rondani,,,,,Mycetophilidae,,Mycomya,Mycomyopsis,Sciaroidae | Mycetophilidae | Mycomya,89SQM,,89SQM,
+B69:1:62,Phthinia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Phthinia,,Sciaroidae | Mycetophilidae,6PDS,1613551,6PDS,1613551
+B69:1:63,Paratinia Mik,Mik,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Paratinia,,Sciaroidae | Mycetophilidae,6H88,1616885,6H88,1616885
+B69:1:64,Azana Walker,Walker,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Azana,,Sciaroidae | Mycetophilidae,36W6,1612498,36W6,1612498
+B69:1:65,Syntemna Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Syntemna,,Sciaroidae | Mycetophilidae,63TDP,1614769,63TDP,1614769
+B69:1:66,Monoclona Mik,Mik,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Monoclona,,Sciaroidae | Mycetophilidae,63DC3,1616158,63DC3,1616158
+B69:1:67,Acnemia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Acnemia,,Sciaroidae | Mycetophilidae,N3Q,1612090,N3Q,1612090
+B69:1:68,Polylepta Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Polylepta,,Sciaroidae | Mycetophilidae,63NHK,1613611,63NHK,1613611
+B69:1:69,Anaclileia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Anaclileia,,Sciaroidae | Mycetophilidae,62BX9,1612911,62BX9,1612911
+B69:1:70,Neuratelia Rondani,Rondani,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Neuratelia,,Sciaroidae | Mycetophilidae,63QL,1613473,63QL,1613473
+B69:1:71,Baeopterogyna Vockeroth,Vockeroth,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Baeopterogyna,,Sciaroidae | Mycetophilidae,379H,1616833,379H,1616833
+B69:1:72,Sciophila Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Sciophila,,Sciaroidae | Mycetophilidae,9WLHK,11984480,9WLHK,11984480
+B69:1:73,Megalopelma Enderlein,Enderlein,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Megalopelma,,Sciaroidae | Mycetophilidae,62YZB,1615791,62YZB,1615791
+B69:1:74,Leptomorphus Curtis,Curtis,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Leptomorphus,,Sciaroidae | Mycetophilidae,87GVK,1612040,87GVK,1612040
+B69:1:75,Allocotocera Mik,Mik,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Allocotocera,,Sciaroidae | Mycetophilidae,S8Y,1616847,S8Y,1616847
+B69:1:76,Eudicrana Loew,Loew,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Eudicrana,,Sciaroidae | Mycetophilidae,4FG2,1612205,4FG2,1612205
+B69:1:77,Allactoneura De,De,,,,,genus,Meijere,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Allactoneura,,Sciaroidae | Mycetophilidae,S23,1613593,S23,1613593
+B69:1:78,Coelophthinia Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Coelophthinia,,Sciaroidae | Mycetophilidae,3RWM,1612520,3RWM,1612520
+B69:1:79,Coelosia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Coelosia,,Sciaroidae | Mycetophilidae,9WL3C,1612356,9WL3C,1612356
+B69:1:80,Gnoriste Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Gnoriste,,Sciaroidae | Mycetophilidae,4PP2,1613511,4PP2,1613511
+B69:1:81,Drepanocercus Vockeroth,Vockeroth,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Drepanocercus,,Sciaroidae | Mycetophilidae,,1612151,,1612151
+B69:1:82,Aglaomyia Vockeroth,Vockeroth,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Aglaomyia,,Sciaroidae | Mycetophilidae,QRF,1612771,QRF,1612771
+B69:1:83,Synapha Meigeil,Meigeil,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Synapha,,Sciaroidae | Mycetophilidae,7QZQ,1614887,7QZQ,1614887
+B69:1:84,Grzegorzekia Edwards,Edwards,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Grzegorzekia,,Sciaroidae | Mycetophilidae,8VT9V,1615734,8VT9V,1615734
+B69:1:85,Creagdhubhia Chandler,Chandler,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Creagdhubhia,,Sciaroidae | Mycetophilidae,3VGC,1616837,3VGC,1616837
+B69:1:86,Phoenikiella Chandler,Chandler,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Phoenikiella,,Sciaroidae | Mycetophilidae,,4520967,,4520967
+B69:1:87,Acomoptera Vockeroth,Vockeroth,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Acomoptera,,Sciaroidae | Mycetophilidae,N4Z,1612156,N4Z,1612156
+B69:1:88,Saigusaia Vockeroth,Vockeroth,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Saigusaia,,Sciaroidae | Mycetophilidae,7BQ6,1616559,7BQ6,1616559
+B69:1:89,Boletina Staeger,Staeger,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Boletina,,Sciaroidae | Mycetophilidae,9XBVK,1616183,9XBVK,1616183
+B69:1:90,Novakia Strobl,Strobl,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Novakia,,Sciaroidae | Mycetophilidae,65NH,1616399,65NH,1616399
+B69:1:91,Chalastonepsia Søli,Søli,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Chalastonepsia,,Sciaroidae | Mycetophilidae,62M2W,1613669,62M2W,1613669
+B69:1:92,Docosia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Docosia,,Sciaroidae | Mycetophilidae,62R75,1612397,62R75,1612397
+B69:1:93,Tetragoneura Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Tetragoneura,,Sciaroidae | Mycetophilidae,646S3,1615550,646S3,1615550
+B69:1:94,Ectrepesthoneura Enderlein,Enderlein,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Ectrepesthoneura,,Sciaroidae | Mycetophilidae,49ZL,1616009,49ZL,1616009
+B69:1:95,Apolephthisa Grzegorzek,Grzegorzek,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Apolephthisa,,Sciaroidae | Mycetophilidae,YYD,1615717,YYD,1615717
+B69:1:96,Rondaniella Johannsen,Johannsen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Rondaniella,,Sciaroidae | Mycetophilidae,63RTJ,1612129,63RTJ,1612129
+B69:1:97,Greenomyia Brunetti,Brunetti,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Greenomyia,,Sciaroidae | Mycetophilidae,4QZN,1616542,4QZN,1616542
+B69:1:98,Neoclastobasis Ostroverkhova,Ostroverkhova,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Neoclastobasis,,Sciaroidae | Mycetophilidae,5Z3M,1616356,5Z3M,1616356
+B69:1:99,Clastobasis Skuse,Skuse,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Clastobasis,,Sciaroidae | Mycetophilidae,3QJD,1613634,3QJD,1613634
+B69:1:100,Leia Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Leia,,Sciaroidae | Mycetophilidae,62X7X,1615198,62X7X,1615198
+B69:1:101,Megophthalmidia Dziedzicki,Dziedzicki,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Megophthalmidia,,Sciaroidae | Mycetophilidae,9H6ZD,1615517,9H6ZD,1615517
+B69:1:102,Impleta Plassmann,Plassmann,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Impleta,,Sciaroidae | Mycetophilidae,62WJT,1613605,62WJT,1613605
+B69:1:103,Palaeodocosia Meunier,Meunier,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Palaeodocosia,,Sciaroidae | Mycetophilidae,6CFT,1614807,6CFT,1614807
+B69:1:104,Hadroneura Lundström,Lundström,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Hadroneura,,Sciaroidae | Mycetophilidae,4SDN,1613530,4SDN,1613530
+B69:1:105,Dziedzickia Johannsen,Johannsen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Dziedzickia,,Sciaroidae | Mycetophilidae,4993,1615128,4993,1615128
+B69:1:106,Anatella Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Anatella,,Sciaroidae | Mycetophilidae,62C2K,1611835,62C2K,1611835
+B69:1:107,Exechia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Exechia,,Sciaroidae | Mycetophilidae,4HST,1612526,4HST,1612526
+B69:1:108,Pseudexechia Tuornikoski,Tuornikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Pseudexechia,,Sciaroidae | Mycetophilidae,6Z2M,1615686,6Z2M,1615686
+B69:1:109,Exechiopsis Tuornikoski,Tuornikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Exechiopsis,,Sciaroidae | Mycetophilidae,4HSV,1616031,4HSV,1616031
+B69:1:110,Exechiopsis Tuomikoski,Tuomikoski,,,,,subgenus,,B69:1,accepted,,,B69:1:109,Exechiopsis Tuornikoski,,,,,Mycetophilidae,,Exechiopsis,Exechiopsis,Sciaroidae | Mycetophilidae | Exechiopsis,4HSV,,4HSV,
+B69:1:111,Xenexechia Tuomikoski,Tuomikoski,,,,,subgenus,,B69:1,accepted,,,B69:1:109,Exechiopsis Tuornikoski,,,,,Mycetophilidae,,Exechiopsis,Xenexechia,Sciaroidae | Mycetophilidae | Exechiopsis,9XCRP,,9XCRP,
+B69:1:112,Stigmatomeria Tuomikoski,Tuomikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Stigmatomeria,,Sciaroidae | Mycetophilidae,645N2,4298099,645N2,4298099
+B69:1:113,Pseudobrachypeza Tuomikoski,Tuomikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Pseudobrachypeza,,Sciaroidae | Mycetophilidae,6ZCM,1616427,6ZCM,1616427
+B69:1:114,Brachypeza Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Brachypeza,,Sciaroidae | Mycetophilidae,87DQC,1616405,87DQC,1616405
+B69:1:115,Brachypeza Winnertz,Winnertz,,,,,subgenus,,B69:1,accepted,,,B69:1:114,Brachypeza Winnertz,,,,,Mycetophilidae,,Brachypeza,Brachypeza,Sciaroidae | Mycetophilidae | Brachypeza,87DQC,,87DQC,
+B69:1:116,Paracordyla Tuomikoski,Tuomikoski,,,,,subgenus,,B69:1,accepted,,,B69:1:114,Brachypeza Winnertz,,,,,Mycetophilidae,,Brachypeza,Paracordyla,Sciaroidae | Mycetophilidae | Brachypeza,,,,
+B69:1:117,Pseudorymosia Tuomikoski,Tuomikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Pseudorymosia,,Sciaroidae | Mycetophilidae,642S4,1615681,642S4,1615681
+B69:1:118,Synplasta Skuse,Skuse,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Synplasta,,Sciaroidae | Mycetophilidae,7RDP,1616372,7RDP,1616372
+B69:1:119,"Myrosia Tuomikoski,","Tuomikoski,",,,,,genus,n. stat.,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Myrosia,,Sciaroidae | Mycetophilidae,89SQS,9087285,89SQS,9087285
+B69:1:120,"Notolopha Tuomikoski,","Tuomikoski,",,,,,genus,n. stat.,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Notolopha,,Sciaroidae | Mycetophilidae,89SSX,9104583,89SSX,9104583
+B69:1:121,Allodiopsis Tuomikoski,Tuomikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Allodiopsis,,Sciaroidae | Mycetophilidae,62942,1613861,62942,1613861
+B69:1:122,Rymosia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Rymosia,,Sciaroidae | Mycetophilidae,643JZ,1616436,643JZ,1616436
+B69:1:123,Tarnania Tuomikoski,Tuomikoski,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Tarnania,,Sciaroidae | Mycetophilidae,645J9,1612927,645J9,1612927
+B69:1:124,Brevicornu Marshall,Marshall,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Brevicornu,,Sciaroidae | Mycetophilidae,9GL9Z,1615892,9GL9Z,1615892
+B69:1:125,Allodia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Allodia,,Sciaroidae | Mycetophilidae,9WKZ3,1612223,9WKZ3,1612223
+B69:1:126,Allodia Winnertz,Winnertz,,,,,subgenus,,B69:1,accepted,,,B69:1:125,Allodia Winnertz,,,,,Mycetophilidae,,Allodia,Allodia,Sciaroidae | Mycetophilidae | Allodia,9WKZ3,,9WKZ3,
+B69:1:127,Brachycampta Winnertz,Winnertz,,,,,subgenus,,B69:1,accepted,,,B69:1:125,Allodia Winnertz,,,,,Mycetophilidae,,Allodia,Brachycampta,Sciaroidae | Mycetophilidae | Allodia,89RZV,,89RZV,
+B69:1:128,Cordyla Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Cordyla,,Sciaroidae | Mycetophilidae,99D9B,1616779,99D9B,1616779
+B69:1:129,Dynatosoma Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Dynatosoma,,Sciaroidae | Mycetophilidae,9WL53,1612860,9WL53,1612860
+B69:1:130,Trichonta Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Trichonta,,Sciaroidae | Mycetophilidae,7ZH5,1616894,7ZH5,1616894
+B69:1:131,Macrobrachius Dziedzicki,Dziedzicki,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Macrobrachius,,Sciaroidae | Mycetophilidae,5J8X,1616003,5J8X,1616003
+B69:1:132,Phronia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Phronia,,Sciaroidae | Mycetophilidae,63MJJ,1616571,63MJJ,1616571
+B69:1:133,Mycetophila Meigen,Meigen,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Mycetophila,,Sciaroidae | Mycetophilidae,5W2Y,1487049,5W2Y,1487049
+B69:1:134,Epicypta Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Epicypta,,Sciaroidae | Mycetophilidae,87FVY,1617044,87FVY,1617044
+B69:1:135,Platurocypta Enderlein,Enderlein,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Platurocypta,,Sciaroidae | Mycetophilidae,8FPMQ,1612517,8FPMQ,1612517
+B69:1:136,Sceptonia Winnertz,Winnertz,,,,,genus,,B69:1,accepted,,,B69:1:50,Mycetophilidae,,,,,Mycetophilidae,,Sceptonia,,Sciaroidae | Mycetophilidae,87KHR,8946967,87KHR,8946967

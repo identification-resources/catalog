@@ -1,15 +1,15 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID
-B183:2:1,Rhizophaginae,,,,,,subfamily,,B183:2,accepted,,,,,,,,,,Rhizophaginae,,,,,
-B183:2:2,Cyanostolus aeneus (Richter),(Richter),Cyanostolus,,aeneus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Cyanostolus,,Rhizophaginae,,6097709
-B183:2:3,Cyanostolus caeruleipennis (Sahlberg),(Sahlberg),Cyanostolus,,caeruleipennis,,species,,B183:2,synonym,B183:2:2,Cyanostolus aeneus (Richter),,,,,,,,Rhizophaginae,Cyanostolus,,Rhizophaginae,,11360110
-B183:2:4,Rhizophagus picipes (Olivier),(Olivier),Rhizophagus,,picipes,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748842
-B183:2:5,Rhizophagus politus (Hellwig),(Hellwig),Rhizophagus,,politus,,species,,B183:2,synonym,B183:2:4,Rhizophagus picipes (Olivier),,,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,11272546
-B183:2:6,Rhizophagus cribratus Gyllenhal,Gyllenhal,Rhizophagus,,cribratus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748867
-B183:2:7,Rhizophagus depressus (Fabricius),(Fabricius),Rhizophagus,,depressus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748831
-B183:2:8,Rhizophagus oblongicollis Blatch & Horner,Blatch & Horner,Rhizophagus,,oblongicollis,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,6989916
-B183:2:9,Rhizophagus ferrugineus (Paykull),(Paykull),Rhizophagus,,ferrugineus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748858
-B183:2:10,Rhizophagus perforatus Erichson,Erichson,Rhizophagus,,perforatus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748863
-B183:2:11,Rhizophagus parvulus (Paykull),(Paykull),Rhizophagus,,parvulus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748849
-B183:2:12,Rhizophagus bipustulatus (Fabricius),(Fabricius),Rhizophagus,,bipustulatus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748854
-B183:2:13,Rhizophagus nitidulus (Fabricius),(Fabricius),Rhizophagus,,nitidulus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748847
-B183:2:14,Rhizophagus dispar (Paykull),(Paykull),Rhizophagus,,dispar,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748844
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B183:2:1,Rhizophaginae,,,,,,subfamily,,B183:2,accepted,,,,,,,,,,Rhizophaginae,,,,,,,
+B183:2:2,Cyanostolus aeneus (Richter),(Richter),Cyanostolus,,aeneus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Cyanostolus,,Rhizophaginae,,6097709,,6989927
+B183:2:3,Cyanostolus caeruleipennis (Sahlberg),(Sahlberg),Cyanostolus,,caeruleipennis,,species,,B183:2,synonym,B183:2:2,Cyanostolus aeneus (Richter),,,,,,,,Rhizophaginae,Cyanostolus,,Rhizophaginae,,11360110,,6989927
+B183:2:4,Rhizophagus picipes (Olivier),(Olivier),Rhizophagus,,picipes,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748842,,5748842
+B183:2:5,Rhizophagus politus (Hellwig),(Hellwig),Rhizophagus,,politus,,species,,B183:2,synonym,B183:2:4,Rhizophagus picipes (Olivier),,,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,11272546,,5748842
+B183:2:6,Rhizophagus cribratus Gyllenhal,Gyllenhal,Rhizophagus,,cribratus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748867,,5748867
+B183:2:7,Rhizophagus depressus (Fabricius),(Fabricius),Rhizophagus,,depressus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748831,,5748831
+B183:2:8,Rhizophagus oblongicollis Blatch & Horner,Blatch & Horner,Rhizophagus,,oblongicollis,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,6989916,,6989916
+B183:2:9,Rhizophagus ferrugineus (Paykull),(Paykull),Rhizophagus,,ferrugineus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748858,,5748858
+B183:2:10,Rhizophagus perforatus Erichson,Erichson,Rhizophagus,,perforatus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748863,,5748863
+B183:2:11,Rhizophagus parvulus (Paykull),(Paykull),Rhizophagus,,parvulus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748849,,8708730
+B183:2:12,Rhizophagus bipustulatus (Fabricius),(Fabricius),Rhizophagus,,bipustulatus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748854,,5748854
+B183:2:13,Rhizophagus nitidulus (Fabricius),(Fabricius),Rhizophagus,,nitidulus,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748847,,5748847
+B183:2:14,Rhizophagus dispar (Paykull),(Paykull),Rhizophagus,,dispar,,species,,B183:2,accepted,,,B183:2:1,Rhizophaginae,,,,,,Rhizophaginae,Rhizophagus,,Rhizophaginae,,5748844,,5748844
