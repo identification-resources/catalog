@@ -6042,6 +6042,62 @@
     "id": "B563:1",
     "taxonCount": 14
   },
+  "B571:1": {
+    "levels": [
+      "suborder",
+      "family"
+    ],
+    "scope": [],
+    "catalog": {
+      "title": "Clé des familles d'aculéates prèsentes en Europe",
+      "pages": "20-23",
+      "taxon": "Aculeata",
+      "target_taxa": "family"
+    },
+    "id": "B571:1",
+    "taxonCount": 14
+  },
+  "B571:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus"
+    ],
+    "scope": [],
+    "catalog": {
+      "title": "Clé des genres de Sphecidae d'Europe",
+      "pages": "45-60",
+      "key_type": "key",
+      "taxon": "Sphecidae",
+      "region": "Europe",
+      "target_taxa": "genus"
+    },
+    "id": "B571:2",
+    "taxonCount": 111
+  },
+  "B571:3": {
+    "levels": [
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety",
+      "race"
+    ],
+    "scope": [],
+    "catalog": {
+      "pages": "61-266",
+      "key_type": "key",
+      "taxon": "Crabroninae",
+      "region": "Europe",
+      "target_taxa": "species"
+    },
+    "id": "B571:3",
+    "taxonCount": 691
+  },
   "B578:1": {
     "levels": [
       "family",
