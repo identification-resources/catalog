@@ -44,8 +44,7 @@ and is available online at https://identification-resources.github.io/.
   - A set of dynamic, interactive visualizations of the catalog can be viewed here:
     https://identification-resources.github.io/catalog/visualizations
 
-In addition, a proof-of-concept application is also being developed in
-[another Git repository](https://github.com/identification-resources/proof-of-concept).
+In addition, a web application is being developed in [another Git repository](https://github.com/identification-resources/find-resources).
 This application is intended to select the right key for you (and gives you the other options as
 well, of course), automatically. This is based on a known parent taxon and the location of
 the observation. The results are then sorted on a number of heuristics, such as the

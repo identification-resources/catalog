@@ -31,15 +31,25 @@ two optional:
   - The metadata of the entry should be added to `catalog.csv`. [The format for this is described in a separate document](docs/catalog.md#catalog).
   - Optionally, any authors, publishers and places in that metadata can be linked
     to Wikidata in `authors.csv` ([docs](docs/catalog.md#authors)), `publishers.csv`
-    ([docs](docs/catalog.md⎄d#publishers)), and `places.csv` ([docs](docs/catalog.md#places)).
+    ([docs](docs/catalog.md#publishers)), and `places.csv` ([docs](docs/catalog.md#places)).
   - Additionally, if possible a checklist in Darwin Core-format is appreciated
     in `checklists/ID.csv` where `ID` is the ID of the entry (`B###`).
 
 ## Adding resources within works
 
-When adding new resources within works, the following principles should be considered.
+There are two layers of entities, works and resources. Works are listed in the catalog, resources are part of works and contain a list of taxa.
+Sometimes, a single book clearly contains multiple resources, e.g. a list of short keys in a supplement, or a checklist and a less complete key.
+Otherwise, when adding new resources within works, the following principles should be considered.
 
+  - If a work contains e.g. a key to adults and a key to nymphs (or females/males, etc.) but the included species differs, include them
+    as separate resources.
+  - If a work contains a key of Family A to Genus B and C, a key to the species of Genus B, but **not** a key to the species of Genus C,
+    include the key to genera and the key to species as separate resources.
   - If a work contains a key of Family A to Genus B and C, a key to the species of Genus B, and a key to the species of Genus C, those can be modeled as a single key to the species of Family A.
+  - If a work contains multiple distinct bibliographical entries, consider whether to add them as new works (using [`part_of`](docs/catalog.md#catalog)).
+    "Distinct bibliographical entry" is a gray area and depends to how they are refered to by their "parent" work.
+    Decisive is the number of distinct entries: if that number gets too large, it is preferable to include them
+    as resources regardless.
 
 To do this, follow the following steps:
 
