@@ -7107,6 +7107,79 @@
     "id": "B1376:2",
     "taxonCount": 317
   },
+  "B1378:1": {
+    "levels": [
+      "superfamily",
+      "family"
+    ],
+    "scope": [
+      "adults",
+      "nymphs",
+      "eggs"
+    ],
+    "catalog": {
+      "pages": "21-22"
+    },
+    "id": "B1378:1",
+    "taxonCount": 5
+  },
+  "B1378:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "subtribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety",
+      "form"
+    ],
+    "scope": [
+      "adults"
+    ],
+    "id": "B1378:2",
+    "taxonCount": 488
+  },
+  "B1378:3": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "subtribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety",
+      "form"
+    ],
+    "scope": [
+      "nymphs"
+    ],
+    "id": "B1378:3",
+    "taxonCount": 420
+  },
+  "B1378:4": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "subtribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety",
+      "form"
+    ],
+    "scope": [
+      "eggs"
+    ],
+    "id": "B1378:4",
+    "taxonCount": 266
+  },
   "B1441:1": {
     "levels": [
       "family",
