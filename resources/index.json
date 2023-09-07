@@ -6172,6 +6172,14 @@
     "id": "B749:1",
     "taxonCount": 146
   },
+  "B770:1": {
+    "levels": [
+      "species"
+    ],
+    "scope": [],
+    "id": "B770:1",
+    "taxonCount": 33
+  },
   "B797:1": {
     "levels": [
       "class",
@@ -6400,6 +6408,14 @@
     "id": "B890:1",
     "taxonCount": 17
   },
+  "B891:1": {
+    "levels": [
+      "genus"
+    ],
+    "scope": [],
+    "id": "B891:1",
+    "taxonCount": 30
+  },
   "B892:1": {
     "levels": [
       "genus",
@@ -6419,6 +6435,14 @@
     "scope": [],
     "id": "B893:1",
     "taxonCount": 17
+  },
+  "B894:1": {
+    "levels": [
+      "species"
+    ],
+    "scope": [],
+    "id": "B894:1",
+    "taxonCount": 11
   },
   "B895:1": {
     "levels": [
@@ -6601,6 +6625,16 @@
     "id": "B919:1",
     "taxonCount": 94
   },
+  "B920:1": {
+    "levels": [
+      "tribe",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "id": "B920:1",
+    "taxonCount": 41
+  },
   "B921:1": {
     "levels": [
       "species"
@@ -6725,6 +6759,18 @@
     "id": "B936:1",
     "taxonCount": 6
   },
+  "B937:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [],
+    "id": "B937:1",
+    "taxonCount": 107
+  },
   "B938:1": {
     "levels": [
       "species"
@@ -6740,6 +6786,15 @@
     "scope": [],
     "id": "B939:1",
     "taxonCount": 65
+  },
+  "B940:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "id": "B940:1",
+    "taxonCount": 51
   },
   "B941:1": {
     "levels": [
@@ -6765,6 +6820,17 @@
     "scope": [],
     "id": "B943:1",
     "taxonCount": 51
+  },
+  "B944:1": {
+    "levels": [
+      "order",
+      "family",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "id": "B944:1",
+    "taxonCount": 62
   },
   "B945:1": {
     "levels": [
@@ -6840,6 +6906,18 @@
     "scope": [],
     "id": "B1006:1",
     "taxonCount": 119
+  },
+  "B1015:1": {
+    "levels": [
+      "order",
+      "suborder",
+      "family",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "id": "B1015:1",
+    "taxonCount": 105
   },
   "B1023:1": {
     "levels": [
@@ -7221,5 +7299,13 @@
     "scope": [],
     "id": "B1454:1",
     "taxonCount": 9
+  },
+  "B1485:1": {
+    "levels": [
+      "species"
+    ],
+    "scope": [],
+    "id": "B1485:1",
+    "taxonCount": 51
   }
 }
