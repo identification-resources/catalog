@@ -1,0 +1,108 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B937:1:1,Pentatomoidea,,,,,,superfamily,,B937:1,accepted,,,,,,,,,,,,,,622P8,,622P8,
+B937:1:2,Acanthosomatidae,,,,,,family,,B937:1,accepted,,,B937:1:1,Pentatomoidea,,,,,Acanthosomatidae,,,,Pentatomoidea,7NFSF,4303,7NFSF,4303
+B937:1:3,Acanthosoma,,,,,,genus,,B937:1,accepted,,,B937:1:2,Acanthosomatidae,,,,,Acanthosomatidae,,Acanthosoma,,Pentatomoidea | Acanthosomatidae,7NMN9,11258498,7NMN9,11258498
+B937:1:4,Acanthosoma haemorrhoidale,,Acanthosoma,,haemorrhoidale,,species,,B937:1,accepted,,,B937:1:3,Acanthosoma,,,,,Acanthosomatidae,,Acanthosoma,,Pentatomoidea | Acanthosomatidae | Acanthosoma,7Q9KF,5866246,7Q9KF,5866246
+B937:1:5,Cyphostethus,,,,,,genus,,B937:1,accepted,,,B937:1:2,Acanthosomatidae,,,,,Acanthosomatidae,,Cyphostethus,,Pentatomoidea | Acanthosomatidae,7NV8G,3265727,7NV8G,3265727
+B937:1:6,Cyphostethus tristriatus,,Cyphostethus,,tristriatus,,species,,B937:1,accepted,,,B937:1:5,Cyphostethus,,,,,Acanthosomatidae,,Cyphostethus,,Pentatomoidea | Acanthosomatidae | Cyphostethus,7SX54,6096805,7SX54,6096805
+B937:1:7,Elasmostethus,,,,,,genus,,B937:1,accepted,,,B937:1:2,Acanthosomatidae,,,,,Acanthosomatidae,,Elasmostethus,,Pentatomoidea | Acanthosomatidae,7NVTY,2079269,7NVTY,2079269
+B937:1:8,Elasmostethus interstinctus,,Elasmostethus,,interstinctus,,species,,B937:1,accepted,,,B937:1:7,Elasmostethus,,,,,Acanthosomatidae,,Elasmostethus,,Pentatomoidea | Acanthosomatidae | Elasmostethus,7TG9H,2079270,7TG9H,2079270
+B937:1:9,Elasmostethus minor,,Elasmostethus,,minor,,species,,B937:1,accepted,,,B937:1:7,Elasmostethus,,,,,Acanthosomatidae,,Elasmostethus,,Pentatomoidea | Acanthosomatidae | Elasmostethus,7TG9R,4485983,7TG9R,4485983
+B937:1:10,Elasmucha,,,,,,genus,,B937:1,accepted,,,B937:1:2,Acanthosomatidae,,,,,Acanthosomatidae,,Elasmucha,,Pentatomoidea | Acanthosomatidae,7NYBN,2079257,7NYBN,2079257
+B937:1:11,Elasmucha ferrugata,,Elasmucha,,ferrugata,,species,,B937:1,accepted,,,B937:1:10,Elasmucha,,,,,Acanthosomatidae,,Elasmucha,,Pentatomoidea | Acanthosomatidae | Elasmucha,7TGBP,2079261,7TGBP,2079261
+B937:1:12,Elasmucha fieberi,,Elasmucha,,fieberi,,species,,B937:1,accepted,,,B937:1:10,Elasmucha,,,,,Acanthosomatidae,,Elasmucha,,Pentatomoidea | Acanthosomatidae | Elasmucha,7TGBR,4485991,7TGBR,4485991
+B937:1:13,Elasmucha grisea,,Elasmucha,,grisea,,species,,B937:1,accepted,,,B937:1:10,Elasmucha,,,,,Acanthosomatidae,,Elasmucha,,Pentatomoidea | Acanthosomatidae | Elasmucha,7TGBX,4485987,7TGBX,4485987
+B937:1:14,Elasmucha grisea subsp. grisea,,Elasmucha,,grisea,grisea,subspecies,,B937:1,accepted,,,B937:1:13,Elasmucha grisea,,,,,Acanthosomatidae,,Elasmucha,,Pentatomoidea | Acanthosomatidae | Elasmucha | Elasmucha grisea,7XCZH,4485990,7XCZH,4485990
+B937:1:15,Cydnidae,,,,,,family,,B937:1,accepted,,,B937:1:1,Pentatomoidea,,,,,Cydnidae,,,,Pentatomoidea,624H7,6989,624H7,6989
+B937:1:16,Adomerus,,,,,,genus,,B937:1,accepted,,,B937:1:15,Cydnidae,,,,,Cydnidae,,Adomerus,,Pentatomoidea | Cydnidae,,4405030,,4405030
+B937:1:17,Adomerus biguttatus,,Adomerus,,biguttatus,,species,,B937:1,accepted,,,B937:1:16,Adomerus,,,,,Cydnidae,,Adomerus,,Pentatomoidea | Cydnidae | Adomerus,,4486134,,4486134
+B937:1:18,Byrsinus,,,,,,genus,,B937:1,accepted,,,B937:1:15,Cydnidae,,,,,Cydnidae,,Byrsinus,,Pentatomoidea | Cydnidae,,4406877,,4406877
+B937:1:19,Byrsinus flavicornis,,Byrsinus,,flavicornis,,species,,B937:1,accepted,,,B937:1:18,Byrsinus,,,,,Cydnidae,,Byrsinus,,Pentatomoidea | Cydnidae | Byrsinus,,4486103,,4486103
+B937:1:20,Cydnus,,,,,,genus,,B937:1,accepted,,,B937:1:15,Cydnidae,,,,,Cydnidae,,Cydnus,,Pentatomoidea | Cydnidae,3Y6K,2078814,3Y6K,2078814
+B937:1:21,Cydnus aterrimus,,Cydnus,,aterrimus,,species,,B937:1,accepted,,,B937:1:20,Cydnus,,,,,Cydnidae,,Cydnus,,Pentatomoidea | Cydnidae | Cydnus,,2078815,,2078815
+B937:1:22,Legnotus,,,,,,genus,,B937:1,accepted,,,B937:1:15,Cydnidae,,,,,Cydnidae,,Legnotus,,Pentatomoidea | Cydnidae,,3265255,,3265255
+B937:1:23,Legnotus limbosus,,Legnotus,,limbosus,,species,,B937:1,accepted,,,B937:1:22,Legnotus,,,,,Cydnidae,,Legnotus,,Pentatomoidea | Cydnidae | Legnotus,,5758810,,5758810
+B937:1:24,Legnotus picipes,,Legnotus,,picipes,,species,,B937:1,accepted,,,B937:1:22,Legnotus,,,,,Cydnidae,,Legnotus,,Pentatomoidea | Cydnidae | Legnotus,,5758812,,5758812
+B937:1:25,Microporus,,,,,,genus,,B937:1,accepted,,,B937:1:15,Cydnidae,,,,,Cydnidae,,Microporus,,Pentatomoidea | Cydnidae,BDWL7,2078797,7PP7Y,2078797
+B937:1:26,Microporus nigrita,,Microporus,,nigrita,,species,,B937:1,accepted,,,B937:1:25,Microporus,,,,,Cydnidae,,Microporus,,Pentatomoidea | Cydnidae | Microporus,,5758803,,5758803
+B937:1:27,Sehirus,,,,,,genus,,B937:1,accepted,,,B937:1:15,Cydnidae,,,,,Cydnidae,,Sehirus,,Pentatomoidea | Cydnidae,7F5B,2078780,7F5B,2078780
+B937:1:28,Sehirus luctuosus,,Sehirus,,luctuosus,,species,,B937:1,accepted,,,B937:1:27,Sehirus,,,,,Cydnidae,,Sehirus,,Pentatomoidea | Cydnidae | Sehirus,,4486163,,4486163
+B937:1:29,Sehirus morio,,Sehirus,,morio,,species,,B937:1,accepted,,,B937:1:27,Sehirus,,,,,Cydnidae,,Sehirus,,Pentatomoidea | Cydnidae | Sehirus,,2078781,,2078781
+B937:1:30,Tritomegas,,,,,,genus,,B937:1,accepted,,,B937:1:15,Cydnidae,,,,,Cydnidae,,Tritomegas,,Pentatomoidea | Cydnidae,,3265258,,3265258
+B937:1:31,Tritomegas bicolor,,Tritomegas,,bicolor,,species,,B937:1,accepted,,,B937:1:30,Tritomegas,,,,,Cydnidae,,Tritomegas,,Pentatomoidea | Cydnidae | Tritomegas,,5758805,,5758805
+B937:1:32,Tritomegas sexmaculatus,,Tritomegas,,sexmaculatus,,species,,B937:1,accepted,,,B937:1:30,Tritomegas,,,,,Cydnidae,,Tritomegas,,Pentatomoidea | Cydnidae | Tritomegas,,5758809,,5758809
+B937:1:33,Thyreocoridae,,,,,,family,,B937:1,accepted,,,B937:1:1,Pentatomoidea,,,,,Thyreocoridae,,,,Pentatomoidea,H8R,7898,H8R,7898
+B937:1:34,Thyreocoris,,,,,,genus,,B937:1,accepted,,,B937:1:33,Thyreocoridae,,,,,Thyreocoridae,,Thyreocoris,,Pentatomoidea | Thyreocoridae,,4486000,,4486000
+B937:1:35,Thyreocoris scarabaeoides,,Thyreocoris,,scarabaeoides,,species,,B937:1,accepted,,,B937:1:34,Thyreocoris,,,,,Thyreocoridae,,Thyreocoris,,Pentatomoidea | Thyreocoridae | Thyreocoris,,4486004,,4486004
+B937:1:36,Pentatomidae,,,,,,family,,B937:1,accepted,,,B937:1:1,Pentatomoidea,,,,,Pentatomidae,,,,Pentatomoidea,62662,9650,62662,9650
+B937:1:37,Aelia,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Aelia,,Pentatomoidea | Pentatomidae,PLJ,2079121,PLJ,2079121
+B937:1:38,Aelia acuminata,,Aelia,,acuminata,,species,,B937:1,accepted,,,B937:1:37,Aelia,,,,,Pentatomidae,,Aelia,,Pentatomoidea | Pentatomidae | Aelia,,2079123,,2079123
+B937:1:39,Aelia klugii,,Aelia,,klugii,,species,,B937:1,accepted,,,B937:1:37,Aelia,,,,,Pentatomidae,,Aelia,,Pentatomoidea | Pentatomidae | Aelia,,6096804,,6096804
+B937:1:40,Arma,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Arma,,Pentatomoidea | Pentatomidae,,8888117,,8888117
+B937:1:41,Arma custos,,Arma,,custos,,species,,B937:1,accepted,,,B937:1:40,Arma,,,,,Pentatomidae,,Arma,,Pentatomoidea | Pentatomidae | Arma,,4485971,,4485971
+B937:1:42,Carpocoris,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Carpocoris,,Pentatomoidea | Pentatomidae,,4405367,,4405367
+B937:1:43,Carpocoris fuscispinus,,Carpocoris,,fuscispinus,,species,,B937:1,accepted,,,B937:1:42,Carpocoris,,,,,Pentatomidae,,Carpocoris,,Pentatomoidea | Pentatomidae | Carpocoris,,4485800,,4485800
+B937:1:44,Carpocoris purpureipennis,,Carpocoris,,purpureipennis,,species,,B937:1,accepted,,,B937:1:42,Carpocoris,,,,,Pentatomidae,,Carpocoris,,Pentatomoidea | Pentatomidae | Carpocoris,,4485798,,4485798
+B937:1:45,Chlorochroa,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Chlorochroa,,Pentatomoidea | Pentatomidae,3NMG,2064707,3NMG,2064707
+B937:1:46,Chlorochroa juniperina,,Chlorochroa,,juniperina,,species,,B937:1,accepted,,,B937:1:45,Chlorochroa,,,,,Pentatomidae,,Chlorochroa,,Pentatomoidea | Pentatomidae | Chlorochroa,,4485816,,4485816
+B937:1:47,Chlorochroa pinicola,,Chlorochroa,,pinicola,,species,,B937:1,accepted,,,B937:1:45,Chlorochroa,,,,,Pentatomidae,,Chlorochroa,,Pentatomoidea | Pentatomidae | Chlorochroa,,4485821,,4485821
+B937:1:48,Dolycoris,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Dolycoris,,Pentatomoidea | Pentatomidae,,4406875,,4406875
+B937:1:49,Dolycoris baccarum,,Dolycoris,,baccarum,,species,,B937:1,accepted,,,B937:1:48,Dolycoris,,,,,Pentatomidae,,Dolycoris,,Pentatomoidea | Pentatomidae | Dolycoris,,4485824,,4485824
+B937:1:50,Eurydema,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Eurydema,,Pentatomoidea | Pentatomidae,,8781759,,8781759
+B937:1:51,Eurydema dominulus,,Eurydema,,dominulus,,species,,B937:1,accepted,,,B937:1:50,Eurydema,,,,,Pentatomidae,,Eurydema,,Pentatomoidea | Pentatomidae | Eurydema,,4485896,,4485896
+B937:1:52,Eurydema oleracea,,Eurydema,,oleracea,,species,,B937:1,accepted,,,B937:1:50,Eurydema,,,,,Pentatomidae,,Eurydema,,Pentatomoidea | Pentatomidae | Eurydema,,4485898,,4485898
+B937:1:53,Eurydema ornata,,Eurydema,,ornata,,species,,B937:1,accepted,,,B937:1:50,Eurydema,,,,,Pentatomidae,,Eurydema,,Pentatomoidea | Pentatomidae | Eurydema,,4485906,,4485906
+B937:1:54,Eurydema ventralis,,Eurydema,,ventralis,,species,,B937:1,accepted,,,B937:1:50,Eurydema,,,,,Pentatomidae,,Eurydema,,Pentatomoidea | Pentatomidae | Eurydema,,4485895,,4485895
+B937:1:55,Eysarcoris,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Eysarcoris,,Pentatomoidea | Pentatomidae,4J56,2078841,4J56,2078841
+B937:1:56,Eysarcoris aeneus,,Eysarcoris,,aeneus,,species,,B937:1,accepted,,,B937:1:55,Eysarcoris,,,,,Pentatomidae,,Eysarcoris,,Pentatomoidea | Pentatomidae | Eysarcoris,,4485955,,4485955
+B937:1:57,Eysarcoris venustissimus,,Eysarcoris,,venustissimus,,species,,B937:1,accepted,,,B937:1:55,Eysarcoris,,,,,Pentatomidae,,Eysarcoris,,Pentatomoidea | Pentatomidae | Eysarcoris,,4485952,,4485952
+B937:1:58,Graphosoma,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Graphosoma,,Pentatomoidea | Pentatomidae,,4405318,,4405318
+B937:1:59,Graphosoma lineatum,,Graphosoma,,lineatum,,species,,B937:1,accepted,,,B937:1:58,Graphosoma,,,,,Pentatomidae,,Graphosoma,,Pentatomoidea | Pentatomidae | Graphosoma,,4485729,,4485729
+B937:1:60,Holcostethus,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Holcostethus,,Pentatomoidea | Pentatomidae,4XVB,2079189,4XVB,2079189
+B937:1:61,Holcostethus sphacelatus,,Holcostethus,,sphacelatus,,species,,B937:1,accepted,,,B937:1:60,Holcostethus,,,,,Pentatomidae,,Holcostethus,,Pentatomoidea | Pentatomidae | Holcostethus,,2079190,,2079190
+B937:1:62,Jalla,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Jalla,,Pentatomoidea | Pentatomidae,8PMHC,3266040,8P34B,3266040
+B937:1:63,Jalla dumosa,,Jalla,,dumosa,,species,,B937:1,accepted,,,B937:1:62,Jalla,,,,,Pentatomidae,,Jalla,,Pentatomoidea | Pentatomidae | Jalla,,5758771,,5758771
+B937:1:64,Neottiglossa,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Neottiglossa,,Pentatomoidea | Pentatomidae,62YZ,2078911,62YZ,2078911
+B937:1:65,Neottiglossa pusilla,,Neottiglossa,,pusilla,,species,,B937:1,accepted,,,B937:1:64,Neottiglossa,,,,,Pentatomidae,,Neottiglossa,,Pentatomoidea | Pentatomidae | Neottiglossa,,4485936,,4485936
+B937:1:66,Nezara,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Nezara,,Pentatomoidea | Pentatomidae,63VD,11330274,63VD,11330274
+B937:1:67,Nezara viridula,,Nezara,,viridula,,species,,B937:1,accepted,,,B937:1:66,Nezara,,,,,Pentatomidae,,Nezara,,Pentatomoidea | Pentatomidae | Nezara,,2078852,,2078852
+B937:1:68,Palomena,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Palomena,,Pentatomoidea | Pentatomidae,,4406712,,4406712
+B937:1:69,Palomena prasina,,Palomena,,prasina,,species,,B937:1,accepted,,,B937:1:68,Palomena,,,,,Pentatomidae,,Palomena,,Pentatomoidea | Pentatomidae | Palomena,,4485776,,4485776
+B937:1:70,Palomena viridissima,,Palomena,,viridissima,,species,,B937:1,accepted,,,B937:1:68,Palomena,,,,,Pentatomidae,,Palomena,,Pentatomoidea | Pentatomidae | Palomena,,4485774,,4485774
+B937:1:71,Pentatoma,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Pentatoma,,Pentatomoidea | Pentatomidae,9KVKC,2079009,9J9VQ,2079009
+B937:1:72,Pentatoma rufipes,,Pentatoma,,rufipes,,species,,B937:1,accepted,,,B937:1:71,Pentatoma,,,,,Pentatomidae,,Pentatoma,,Pentatomoidea | Pentatomidae | Pentatoma,,5758737,,5758737
+B937:1:73,Peribalus,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Peribalus,,Pentatomoidea | Pentatomidae,,2079014,,2079014
+B937:1:74,Peribalus strictus,,Peribalus,,strictus,,species,,B937:1,accepted,,,B937:1:73,Peribalus,,,,,Pentatomidae,,Peribalus,,Pentatomoidea | Pentatomidae | Peribalus,,4485782,,6096794
+B937:1:75,Picromerus,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Picromerus,,Pentatomoidea | Pentatomidae,6Q8W,2079126,6Q8W,2079126
+B937:1:76,Picromerus bidens,,Picromerus,,bidens,,species,,B937:1,accepted,,,B937:1:75,Picromerus,,,,,Pentatomidae,,Picromerus,,Pentatomoidea | Pentatomidae | Picromerus,,5160015,,5160015
+B937:1:77,Piezodorus,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Piezodorus,,Pentatomoidea | Pentatomidae,63MF2,2078820,63MF2,2078820
+B937:1:78,Piezodorus lituratus,,Piezodorus,,lituratus,,species,,B937:1,accepted,,,B937:1:77,Piezodorus,,,,,Pentatomidae,,Piezodorus,,Pentatomoidea | Pentatomidae | Piezodorus,,2078821,,2078821
+B937:1:79,Pinthaeus,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Pinthaeus,,Pentatomoidea | Pentatomidae,,4407624,,4407624
+B937:1:80,Pinthaeus sanguinipes,,Pinthaeus,,sanguinipes,,species,,B937:1,accepted,,,B937:1:79,Pinthaeus,,,,,Pentatomidae,,Pinthaeus,,Pentatomoidea | Pentatomidae | Pinthaeus,,4485978,,4485978
+B937:1:81,Podops,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Podops,,Pentatomoidea | Pentatomidae,,8882580,,8882580
+B937:1:82,Podops inuncta,,Podops,,inuncta,,species,,B937:1,accepted,,,B937:1:81,Podops,,,,,Pentatomidae,,Podops,,Pentatomoidea | Pentatomidae | Podops,,4485704,,4485704
+B937:1:83,Rhacognathus,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Rhacognathus,,Pentatomoidea | Pentatomidae,787H,2078994,787H,2078994
+B937:1:84,Rhacognathus punctatus,,Rhacognathus,,punctatus,,species,,B937:1,accepted,,,B937:1:83,Rhacognathus,,,,,Pentatomidae,,Rhacognathus,,Pentatomoidea | Pentatomidae | Rhacognathus,,2078996,,2078996
+B937:1:85,Rhaphigaster,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Rhaphigaster,,Pentatomoidea | Pentatomidae,,2079011,,2079011
+B937:1:86,Rhaphigaster nebulosa,,Rhaphigaster,,nebulosa,,species,,B937:1,accepted,,,B937:1:85,Rhaphigaster,,,,,Pentatomidae,,Rhaphigaster,,Pentatomoidea | Pentatomidae | Rhaphigaster,,5758736,,5758736
+B937:1:87,Rubiconia,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Rubiconia,,Pentatomoidea | Pentatomidae,,4406106,,4406106
+B937:1:88,Rubiconia intermedia,,Rubiconia,,intermedia,,species,,B937:1,accepted,,,B937:1:87,Rubiconia,,,,,Pentatomidae,,Rubiconia,,Pentatomoidea | Pentatomidae | Rubiconia,,4485796,,4485796
+B937:1:89,Sciocoris,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Sciocoris,,Pentatomoidea | Pentatomidae,63RHM,2079251,63RHM,2079251
+B937:1:90,Sciocoris cursitans,,Sciocoris,,cursitans,,species,,B937:1,accepted,,,B937:1:89,Sciocoris,,,,,Pentatomidae,,Sciocoris,,Pentatomoidea | Pentatomidae | Sciocoris,,2079253,,2079253
+B937:1:91,Sciocoris homalonotus,,Sciocoris,,homalonotus,,species,,B937:1,accepted,,,B937:1:89,Sciocoris,,,,,Pentatomidae,,Sciocoris,,Pentatomoidea | Pentatomidae | Sciocoris,,4485866,,4485866
+B937:1:92,Stagonomus,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Stagonomus,,Pentatomoidea | Pentatomidae,,9131176,,9131176
+B937:1:93,Stagonomus bipunctatus,,Stagonomus,,bipunctatus,,species,,B937:1,accepted,,,B937:1:92,Stagonomus,,,,,Pentatomidae,,Stagonomus,,Pentatomoidea | Pentatomidae | Stagonomus,,5758763,,5758763
+B937:1:94,Troilus,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Troilus,,Pentatomoidea | Pentatomidae,,4407233,,4407233
+B937:1:95,Troilus luridus,,Troilus,,luridus,,species,,B937:1,accepted,,,B937:1:94,Troilus,,,,,Pentatomidae,,Troilus,,Pentatomoidea | Pentatomidae | Troilus,,4485973,,4485973
+B937:1:96,Zicrona,,,,,,genus,,B937:1,accepted,,,B937:1:36,Pentatomidae,,,,,Pentatomidae,,Zicrona,,Pentatomoidea | Pentatomidae,648MM,2078941,648MM,2078941
+B937:1:97,Zicrona caerulea,,Zicrona,,caerulea,,species,,B937:1,accepted,,,B937:1:96,Zicrona,,,,,Pentatomidae,,Zicrona,,Pentatomoidea | Pentatomidae | Zicrona,,2078942,,2078942
+B937:1:98,Scutelleridae,,,,,,family,,B937:1,accepted,,,B937:1:1,Pentatomoidea,,,,,Scutelleridae,,,,Pentatomoidea,G5X,4327,G5X,4327
+B937:1:99,Eurygaster,,,,,,genus,,B937:1,accepted,,,B937:1:98,Scutelleridae,,,,,Scutelleridae,,Eurygaster,,Pentatomoidea | Scutelleridae,B7VXS,2079334,B7VXS,2079334
+B937:1:100,Eurygaster austriaca,,Eurygaster,,austriaca,,species,,B937:1,accepted,,,B937:1:99,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Pentatomoidea | Scutelleridae | Eurygaster,,5758791,,5758791
+B937:1:101,Eurygaster maura,,Eurygaster,,maura,,species,,B937:1,accepted,,,B937:1:99,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Pentatomoidea | Scutelleridae | Eurygaster,,5758789,,5758789
+B937:1:102,Eurygaster testudinaria,,Eurygaster,,testudinaria,,species,,B937:1,accepted,,,B937:1:99,Eurygaster,,,,,Scutelleridae,,Eurygaster,,Pentatomoidea | Scutelleridae | Eurygaster,,5758794,,5758794
+B937:1:103,Odontoscelis,,,,,,genus,,B937:1,accepted,,,B937:1:98,Scutelleridae,,,,,Scutelleridae,,Odontoscelis,,Pentatomoidea | Scutelleridae,8LQJK,2079364,8KW79,2079364
+B937:1:104,Odontoscelis fuliginosa,,Odontoscelis,,fuliginosa,,species,,B937:1,accepted,,,B937:1:103,Odontoscelis,,,,,Scutelleridae,,Odontoscelis,,Pentatomoidea | Scutelleridae | Odontoscelis,,5758780,,5758780
+B937:1:105,Odontoscelis lineola,,Odontoscelis,,lineola,,species,,B937:1,accepted,,,B937:1:103,Odontoscelis,,,,,Scutelleridae,,Odontoscelis,,Pentatomoidea | Scutelleridae | Odontoscelis,,5758782,,5758782
+B937:1:106,Phimodera,,,,,,genus,,B937:1,accepted,,,B937:1:98,Scutelleridae,,,,,Scutelleridae,,Phimodera,,Pentatomoidea | Scutelleridae,6NLZ,2079352,6NLZ,2079352
+B937:1:107,Phimodera humeralis,,Phimodera,,humeralis,,species,,B937:1,accepted,,,B937:1:106,Phimodera,,,,,Scutelleridae,,Phimodera,,Pentatomoidea | Scutelleridae | Phimodera,,4486030,,4486030
