@@ -34,6 +34,7 @@
 | `listed_of`  | ❌        | ✔               | Entries that this entry is listed in | `B` followed by any number of digits (no leading zero) |
 | `part_of`    | ❌        | ✔               | Entries that this entry is correcting or part of | `B` followed by any number of digits (no leading zero) |
 | `version_of` | ❌        | ✔               | Entries that this entry is a version of | `B` followed by any number of digits (no leading zero) |
+| `duplicate_of` | ❌        | ❌               | Entry that this entry is a duplicate of | `B` followed by any number of digits (no leading zero) |
 
 # Authors
 
