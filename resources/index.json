@@ -6928,6 +6928,52 @@
     "id": "B1023:1",
     "taxonCount": 30
   },
+  "B1138:1": {
+    "levels": [
+      "infraorder",
+      "superfamily",
+      "family"
+    ],
+    "scope": [],
+    "catalog": {
+      "pages": "71-71"
+    },
+    "id": "B1138:1",
+    "taxonCount": 9
+  },
+  "B1138:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "form"
+    ],
+    "scope": [
+      "adults"
+    ],
+    "id": "B1138:2",
+    "taxonCount": 785
+  },
+  "B1138:3": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "scope": [
+      "nymphs"
+    ],
+    "id": "B1138:3",
+    "taxonCount": 381
+  },
   "B1169:1": {
     "levels": [
       "family",
