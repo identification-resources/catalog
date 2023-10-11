@@ -1,0 +1,33 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B657:2:1,Dermaptera,,,,,,order,,B657:2,accepted,,,,,,,,Dermaptera,,,,,,8MP8D,1224,8MP8D,1224
+B657:2:2,Carcinophoridae,,,,,,family,,B657:2,accepted,,,B657:2:1,Dermaptera,,,,Dermaptera,Carcinophoridae,,,,Dermaptera,,4767,,4767
+B657:2:3,Anisolabis,,,,,,genus,,B657:2,accepted,,,B657:2:2,Carcinophoridae,,,,Dermaptera,Carcinophoridae,,Anisolabis,,Dermaptera | Carcinophoridae,8MQ26,1419900,8MQ26,1419900
+B657:2:4,Anisolabis maritima (Bonelli),(Bonelli),Anisolabis,,maritima,,species,,B657:2,accepted,,,B657:2:3,Anisolabis,,,,Dermaptera,Carcinophoridae,,Anisolabis,,Dermaptera | Carcinophoridae | Anisolabis,5V3KJ,1419902,5V3KJ,1419902
+B657:2:5,Euborellia,,,,,,genus,,B657:2,accepted,,,B657:2:2,Carcinophoridae,,,,Dermaptera,Carcinophoridae,,Euborellia,,Dermaptera | Carcinophoridae,8MR2V,1419888,8MR2V,1419888
+B657:2:6,Euborellia ambigua (Borelli),(Borelli),Euborellia,,ambigua,,species,,B657:2,accepted,,,B657:2:5,Euborellia,,,,Dermaptera,Carcinophoridae,,Euborellia,,Dermaptera | Carcinophoridae | Euborellia,3BNX5,1419893,3BNX5,1419893
+B657:2:7,Euborellia annulata (F.),(F.),Euborellia,,annulata,,species,,B657:2,accepted,,,B657:2:5,Euborellia,,,,Dermaptera,Carcinophoridae,,Euborellia,,Dermaptera | Carcinophoridae | Euborellia,,,,
+B657:2:8,Euborellia annulipes (Lucas),(Lucas),Euborellia,,annulipes,,species,,B657:2,accepted,,,B657:2:5,Euborellia,,,,Dermaptera,Carcinophoridae,,Euborellia,,Dermaptera | Carcinophoridae | Euborellia,3BNX9,1419894,3BNX9,1419894
+B657:2:9,Euborellia caraibea Hebard,Hebard,Euborellia,,caraibea,,species,,B657:2,accepted,,,B657:2:5,Euborellia,,,,Dermaptera,Carcinophoridae,,Euborellia,,Dermaptera | Carcinophoridae | Euborellia,3BNXK,1419897,3BNXK,1419897
+B657:2:10,Forficulidae,,,,,,family,,B657:2,accepted,,,B657:2:1,Dermaptera,,,,Dermaptera,Forficulidae,,,,Dermaptera,8MPD6,7861,8MPD6,7861
+B657:2:11,Doru,,,,,,genus,,B657:2,accepted,,,B657:2:10,Forficulidae,,,,Dermaptera,Forficulidae,,Doru,,Dermaptera | Forficulidae,8MQWZ,1419839,8MQWZ,1419839
+B657:2:12,Doru aculeatum (Scudder),(Scudder),Doru,,aculeatum,,species,,B657:2,accepted,,,B657:2:11,Doru,,,,Dermaptera,Forficulidae,,Doru,,Dermaptera | Forficulidae | Doru,6DHBQ,1419843,6DHBQ,1419843
+B657:2:13,Doru davisi Rehn & Hebard,Rehn & Hebard,Doru,,davisi,,species,,B657:2,accepted,,,B657:2:11,Doru,,,,Dermaptera,Forficulidae,,Doru,,Dermaptera | Forficulidae | Doru,6DHBS,1419841,6DHBS,1419841
+B657:2:14,Doru taeniatum (Dohrn),(Dohrn),Doru,,taeniatum,,species,,B657:2,accepted,,,B657:2:11,Doru,,,,Dermaptera,Forficulidae,,Doru,,Dermaptera | Forficulidae | Doru,6DHBK,1419842,6DHBK,1419842
+B657:2:15,Forficula,,,,,,genus,,B657:2,accepted,,,B657:2:10,Forficulidae,,,,Dermaptera,Forficulidae,,Forficula,,Dermaptera | Forficulidae,8MR5M,1419844,8MR5M,1419844
+B657:2:16,Forficula auricularia L.,L.,Forficula,,auricularia,,species,,B657:2,accepted,,,B657:2:15,Forficula,,,,Dermaptera,Forficulidae,,Forficula,,Dermaptera | Forficulidae | Forficula,6JGYS,1419845,6JGYS,1419845
+B657:2:17,Pygidicranidae,,,,,,family,,B657:2,accepted,,,B657:2:1,Dermaptera,,,,Dermaptera,Pygidicranidae,,,,Dermaptera,8MPJL,3264062,8MPJL,3264062
+B657:2:18,Pyragropsis,,,,,,genus,,B657:2,accepted,,,B657:2:17,Pygidicranidae,,,,Dermaptera,Pygidicranidae,,Pyragropsis,,Dermaptera | Pygidicranidae,8MTW9,4394399,8MTW9,4394399
+B657:2:19,Pyragropsis buscki (Caudell),(Caudell),Pyragropsis,,buscki,,species,,B657:2,accepted,,,B657:2:18,Pyragropsis,,,,Dermaptera,Pygidicranidae,,Pyragropsis,,Dermaptera | Pygidicranidae | Pyragropsis,4QQ2K,4394404,4QQ2K,4394404
+B657:2:20,Labiduridae,,,,,,family,,B657:2,accepted,,,B657:2:1,Dermaptera,,,,Dermaptera,Labiduridae,,,,Dermaptera,8MPDQ,7862,8MPDQ,7862
+B657:2:21,Labidura,,,,,,genus,,B657:2,accepted,,,B657:2:20,Labiduridae,,,,Dermaptera,Labiduridae,,Labidura,,Dermaptera | Labiduridae,8MRHN,1419911,8MRHN,1419911
+B657:2:22,Labidura riparia (Pallas),(Pallas),Labidura,,riparia,,species,,B657:2,accepted,,,B657:2:21,Labidura,,,,Dermaptera,Labiduridae,,Labidura,,Dermaptera | Labiduridae | Labidura,3RJLW,1419912,3RJLW,1419912
+B657:2:23,Labiidae,,,,,,family,,B657:2,accepted,,,B657:2:1,Dermaptera,,,,Dermaptera,Labiidae,,,,Dermaptera,8MPDR,7863,8MPK4,2795
+B657:2:24,Labia,,,,,,genus,,B657:2,accepted,,,B657:2:23,Labiidae,,,,Dermaptera,Labiidae,,Labia,,Dermaptera | Labiidae,8MRHM,1419850,8MRHM,1419850
+B657:2:25,Labia curvicauda (Motschulsky),(Motschulsky),Labia,,curvicauda,,species,,B657:2,accepted,,,B657:2:24,Labia,,,,Dermaptera,Labiidae,,Labia,,Dermaptera | Labiidae | Labia,,4421280,,1419864
+B657:2:26,Labia minor (L.),(L.),Labia,,minor,,species,,B657:2,accepted,,,B657:2:24,Labia,,,,Dermaptera,Labiidae,,Labia,,Dermaptera | Labiidae | Labia,6NQ9V,1419851,6NQ9V,1419851
+B657:2:27,Labia rehni Hebard,Hebard,Labia,,rehni,,species,,B657:2,accepted,,,B657:2:24,Labia,,,,Dermaptera,Labiidae,,Labia,,Dermaptera | Labiidae | Labia,3RJBM,4683265,4Z7Y4,1419862
+B657:2:28,Marava,,,,,,genus,,B657:2,accepted,,,B657:2:23,Labiidae,,,,Dermaptera,Labiidae,,Marava,,Dermaptera | Labiidae,8MRWQ,1419865,8MRWQ,1419865
+B657:2:29,Marava arachidis (Yersin),(Yersin),Marava,,arachidis,,species,,B657:2,accepted,,,B657:2:28,Marava,,,,Dermaptera,Labiidae,,Marava,,Dermaptera | Labiidae | Marava,3Y2H4,1419867,3Y2H4,1419867
+B657:2:30,Marava pulchella (Audinet-Serville),(Audinet-Serville),Marava,,pulchella,,species,,B657:2,accepted,,,B657:2:28,Marava,,,,Dermaptera,Labiidae,,Marava,,Dermaptera | Labiidae | Marava,3Y2JC,1419868,3Y2JC,1419868
+B657:2:31,Vostox,,,,,,genus,,B657:2,accepted,,,B657:2:23,Labiidae,,,,Dermaptera,Labiidae,,Vostox,,Dermaptera | Labiidae,8MVRH,1419852,8MVRH,1419852
+B657:2:32,Vostox brunneipennis (Audinet-Serville),(Audinet-Serville),Vostox,,brunneipennis,,species,,B657:2,accepted,,,B657:2:31,Vostox,,,,Dermaptera,Labiidae,,Vostox,,Dermaptera | Labiidae | Vostox,5BRHV,1419854,5BRHV,1419854

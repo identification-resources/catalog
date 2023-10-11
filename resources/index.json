@@ -6158,6 +6158,68 @@
     "id": "B656:1",
     "taxonCount": 46
   },
+  "B657:1": {
+    "levels": [
+      "order",
+      "superfamily",
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "pages": "3-3",
+      "key_type": "checklist",
+      "region": "North America"
+    },
+    "id": "B657:1",
+    "taxonCount": 49
+  },
+  "B657:2": {
+    "levels": [
+      "order",
+      "family",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "pages": "3-8",
+      "key_type": "key",
+      "region": "North America, Eastern"
+    },
+    "id": "B657:2",
+    "taxonCount": 32
+  },
+  "B657:3": {
+    "levels": [
+      "order",
+      "superfamily",
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "catalog": {
+      "pages": "8-13",
+      "key_type": "reference",
+      "region": "North America, USA, SC"
+    },
+    "id": "B657:3",
+    "taxonCount": 43
+  },
+  "B714:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "scope": [],
+    "id": "B714:1",
+    "taxonCount": 25
+  },
   "B749:1": {
     "levels": [
       "infraorder",

@@ -1,0 +1,26 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B714:1:1,Coreidae,,,,,,family,,B714:1,accepted,,,,,,,,,Coreidae,,,,,8NKJF,9649,8NKJF,9649
+B714:1:2,Arenocoris,,,,,,genus,,B714:1,accepted,,,B714:1:1,Coreidae,,,,,Coreidae,,Arenocoris,,Coreidae,8NM3C,4391585,8NM3C,4391585
+B714:1:3,Arenocoris falleni,,Arenocoris,,falleni,,species,,B714:1,accepted,,,B714:1:2,Arenocoris,,,,,Coreidae,,Arenocoris,,Coreidae | Arenocoris,GFN8,4391587,GFN8,4391587
+B714:1:4,Arenocoris waltli,,Arenocoris,,waltli,,species,,B714:1,accepted,,,B714:1:2,Arenocoris,,,,,Coreidae,,Arenocoris,,Coreidae | Arenocoris,5VRDM,4391597,5VRDM,4391597
+B714:1:5,Bathysolen,,,,,,genus,,B714:1,accepted,,,B714:1:1,Coreidae,,,,,Coreidae,,Bathysolen,,Coreidae,8NMDQ,4391661,8NMDQ,4391661
+B714:1:6,Bathysolen nubilus,,Bathysolen,,nubilus,,species,,B714:1,accepted,,,B714:1:5,Bathysolen,,,,,Coreidae,,Bathysolen,,Coreidae | Bathysolen,KYCN,4391663,KYCN,4391663
+B714:1:7,Ceraleptus,,,,,,genus,,B714:1,accepted,,,B714:1:1,Coreidae,,,,,Coreidae,,Ceraleptus,,Coreidae,8NMYV,2050009,8NMYV,2050009
+B714:1:8,Ceraleptus gracilicornis,,Ceraleptus,,gracilicornis,,species,,B714:1,accepted,,,B714:1:7,Ceraleptus,,,,,Coreidae,,Ceraleptus,,Coreidae | Ceraleptus,SGGN,2050012,SGGN,2050012
+B714:1:9,Ceraleptus lividus,,Ceraleptus,,lividus,,species,,B714:1,accepted,,,B714:1:7,Ceraleptus,,,,,Coreidae,,Ceraleptus,,Coreidae | Ceraleptus,SGGQ,4391506,SGGQ,4391506
+B714:1:10,Coreus,,,,,,genus,,B714:1,accepted,,,B714:1:1,Coreidae,,,,,Coreidae,,Coreus,,Coreidae,8NNFP,2049958,8NNFP,2049958
+B714:1:11,Coreus marginatus,,Coreus,,marginatus,,species,,B714:1,accepted,,,B714:1:10,Coreus,,,,,Coreidae,,Coreus,,Coreidae | Coreus,6B3KM,4388646,6B3KM,4388646
+B714:1:12,Coriomeris,,,,,,genus,,B714:1,accepted,,,B714:1:1,Coreidae,,,,,Coreidae,,Coriomeris,,Coreidae,8NNFS,2050064,8NNFS,2050064
+B714:1:13,Coriomeris denticulatus,,Coriomeris,,denticulatus,,species,,B714:1,accepted,,,B714:1:12,Coriomeris,,,,,Coreidae,,Coriomeris,,Coreidae | Coriomeris,6B57L,2050067,6B57L,2050067
+B714:1:14,Coriomeris scabricornis,,Coriomeris,,scabricornis,,species,,B714:1,accepted,,,B714:1:12,Coriomeris,,,,,Coreidae,,Coriomeris,,Coreidae | Coriomeris,YF8Q,4391547,YF8Q,4391547
+B714:1:15,Enoplops,,,,,,genus,,B714:1,accepted,,,B714:1:1,Coreidae,,,,,Coreidae,,Enoplops,,Coreidae,8NPGG,4388488,8NPGG,4388488
+B714:1:16,Enoplops scapha,,Enoplops,,scapha,,species,,B714:1,accepted,,,B714:1:15,Enoplops,,,,,Coreidae,,Enoplops,,Coreidae | Enoplops,39WS5,4388497,39WS5,4388497
+B714:1:17,Gonocerus,,,,,,genus,,B714:1,accepted,,,B714:1:1,Coreidae,,,,,Coreidae,,Gonocerus,,Coreidae,8NPX8,2050051,8NPX8,2050051
+B714:1:18,Gonocerus acuteangulatus,,Gonocerus,,acuteangulatus,,species,,B714:1,accepted,,,B714:1:17,Gonocerus,,,,,Coreidae,,Gonocerus,,Coreidae | Gonocerus,3GY8F,4390084,3GY8F,4390084
+B714:1:19,Gonocerus juniperi,,Gonocerus,,juniperi,,species,,B714:1,accepted,,,B714:1:17,Gonocerus,,,,,Coreidae,,Gonocerus,,Coreidae | Gonocerus,3GY9H,4390078,3GY9H,4390078
+B714:1:20,Nemocoris,,,,,,genus,,B714:1,accepted,,,B714:1:1,Coreidae,,,,,Coreidae,,Nemocoris,,Coreidae,8NSZ2,4391681,8NSZ2,4391681
+B714:1:21,Nemocoris falleni,,Nemocoris,,falleni,,species,,B714:1,accepted,,,B714:1:20,Nemocoris,,,,,Coreidae,,Nemocoris,,Coreidae | Nemocoris,468B4,4391683,468B4,4391683
+B714:1:22,Spathocera,,,,,,genus,,B714:1,accepted,,,B714:1:1,Coreidae,,,,,Coreidae,,Spathocerus,,Coreidae,8NZ9X,4388614,8NZ9X,4388614
+B714:1:23,Spathocera dalmanii,,Spathocera,,dalmanii,,species,,B714:1,accepted,,,B714:1:22,Spathocera,,,,,Coreidae,,Spathocerus,,Coreidae | Spathocera,6Z6ZN,4388623,6Z6ZN,4388623
+B714:1:24,Syromastus,,,,,,genus,,B714:1,accepted,,,B714:1:1,Coreidae,,,,,Coreidae,,Syromastus,,Coreidae,8NZQR,4388657,8NZQR,4388657
+B714:1:25,Syromastus rhombeus,,Syromastus,,rhombeus,,species,,B714:1,accepted,,,B714:1:24,Syromastus,,,,,Coreidae,,Syromastus,,Coreidae | Syromastus,5433H,4388663,5433H,4388663
