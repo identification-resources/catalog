@@ -1,11 +1,10 @@
 ---
 levels:
   - species
-scope:
-  - female
 catalog:
   key_type: matrix
   pages: 38-38
+  scope: females
 ---
 
 Priocnemis hyalinata (F.)
@@ -16,11 +15,10 @@ Priocnemis fennica Haupt
 ---
 levels:
   - species
-scope:
-  - female
 catalog:
   key_type: matrix
   pages: 40-40
+  scope: females
 ---
 
 Priocnemis exaltata (F.)
@@ -31,11 +29,10 @@ Priocnemis fennica Haupt
 ---
 levels:
   - species
-scope:
-  - female
 catalog:
   key_type: matrix
   pages: 41-41
+  scope: females
 ---
 
 Priocnemis agilis (Shuck.)
@@ -47,11 +44,10 @@ Priocnemis gracilis Haupt
 levels:
   - group
   - species
-scope:
-  - female
 catalog:
   key_type: key
   pages: 40-40
+  scope: females
 ---
 
 Priocnemis agilis
@@ -64,11 +60,10 @@ Priocnemis agilis
 ---
 levels:
   - species
-scope:
-  - male
 catalog:
   key_type: matrix
   pages: 43-43
+  scope: males
 ---
 
 Priocnemis perturbator (Harris)
@@ -79,11 +74,10 @@ Priocnemis susterai Haupt
 ---
 levels:
   - species
-scope:
-  - male
 catalog:
   key_type: matrix
   pages: 43-43
+  scope: males
 ---
 
 Priocnemis vulgaris (Duf.)

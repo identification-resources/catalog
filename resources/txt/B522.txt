@@ -62,12 +62,9 @@ Ancistrocerus Wesmael, 1836
 levels:
   - species
   - subspecies
-scope:
-  - female
 catalog:
-  key_type:
-    - key
-    - supplement
+  key_type: key; supplement
+  scope: females
 ---
 
   Leptochilus torretassoi subsp. venerensis Blüthgen

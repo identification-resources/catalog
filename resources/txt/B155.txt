@@ -1,10 +1,10 @@
 ---
-scope:
-  - imagines
 levels:
   - family
   - genus
   - species
+catalog:
+  scope: adults
 ---
 
 Hydroptilidae
@@ -50,11 +50,11 @@ Hydroptilidae
 ===
 
 ---
-scope:
-  - larvae, fifth instar
 levels:
   - family
   - genus
+catalog:
+  scope: larvae (instar V)
 ---
 
 Hydroptilidae

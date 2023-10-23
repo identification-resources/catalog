@@ -2,10 +2,9 @@
 levels:
   - subfamily
   - genus
-scope:
-  - nests
 catalog:
   key_type: key
+  scope: nests
 ---
 
 VESPINAE
@@ -51,10 +50,9 @@ levels:
   - subgenus
   - species
   - subspecies
-scope:
-  - nests
 catalog:
   key_type: checklist
+  scope: nests
 ---
 
 VESPINAE

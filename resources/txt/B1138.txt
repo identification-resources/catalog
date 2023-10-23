@@ -34,8 +34,8 @@ levels:
   - species
   - subspecies
   - form
-scope:
-  - adults
+catalog:
+  scope: adults
 ---
 
 Lygaeidae Stål, 1862
@@ -841,8 +841,8 @@ levels:
   - subgenus
   - species
   - subspecies
-scope:
-  - nymphs
+catalog:
+ scope: nymphs
 ---
 
 Lygaeidae Stål, 1862

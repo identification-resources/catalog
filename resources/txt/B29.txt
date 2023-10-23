@@ -138,12 +138,10 @@ Mecoptera
 levels:
   - order
   - suborder
-scope:
-  - larvae
-  - puppa
 catalog:
   pages: 92-92
   key_type: key
+  scope: larvae; pupae
 ---
 
 Neuroptera
@@ -158,12 +156,10 @@ Mecoptera
 levels:
   - suborder
   - family
-scope:
-  - larvae
-  - puppa
 catalog:
   pages: 95-95
   key_type: key
+  scope: larvae; pupae
 ---
 
 Planipennia

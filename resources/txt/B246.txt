@@ -96,11 +96,10 @@ levels:
   - genus
   - subgenus
   - species
-scope:
-  - Species that have been found in the British Isles but have not become established
 catalog:
   pages: 27-27
   key_type: checklist
+  taxon_scope: Species that have been found in the British Isles but have not become established
 ---
 
 DACINAE
@@ -305,10 +304,9 @@ levels:
   - tribe
   - genus
   - species
-scope:
-  - puparia
 catalog:
   pages: 54-55
+  scope: puparia
 ---
 
 TEPHRITIDAE
@@ -326,10 +324,10 @@ TEPHRITIDAE
 ---
 levels:
   - species
-scope:
-  - puparia found in Carduus species
 catalog:
   pages: 55-55
+  taxon_scope: found in Carduus species
+  scope: puparia
 ---
 
 Urophora solstitialis (Linnaeus)
@@ -343,10 +341,10 @@ Terellia winthemi (Meigen)
 levels:
   - tribe
   - species
-scope:
-  - puparia found in Centaurea nigra and Centaurea debeauxii
 catalog:
   pages: 55-56
+  taxon_scope: found in Centaurea nigra and Centaurea debeauxii
+  scope: puparia
 ---
 
   Acanthiophilus helianthi (Rossi)
@@ -360,10 +358,10 @@ TERELLIINI
 ---
 levels:
   - species
-scope:
-  - puparia found in Centaurea scabiosa
 catalog:
   pages: 56-56
+  taxon_scope: found in Centaurea scabiosa
+  scope: puparia
 ---
 
 Cerajocera plagiata (Dahlbom)
@@ -377,10 +375,10 @@ Urophora cuspidata (Meigen)
 ---
 levels:
   - species
-scope:
-  - puparia found in Cirsium species
 catalog:
   pages: 56-56
+  taxon_scope: found in Cirsium species
+  scope: puparia
 ---
 
 Urophora cardui (Linnaeus)
@@ -398,11 +396,11 @@ Terellia ruficauda (Fabricius)
 ---
 levels:
   - species
-scope:
-  - puparia of stem and leaf-mining species
 catalog:
   pages: 56-58
   key_type: matrix
+  taxon_scope: stem and leaf-mining species
+  scope: puparia
 ---
 
 ACIDIA cognata (Wiedemann, 1817)

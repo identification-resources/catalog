@@ -8,7 +8,7 @@ levels:
   - genus
   - species
 catalog:
-  pages:
+  pages: 32-140
 ---
 
 DIPTERA
@@ -340,10 +340,9 @@ levels:
   - subfamily
   - genus
   - species
-scope:
-  - common 'pest' species usually found in pasture soil or gardens
 catalog:
   pages: 36-36
+  taxon_scope: common 'pest' species usually found in pasture soil or gardens
 ---
 
 Tipulinae

@@ -11,12 +11,12 @@ the checklist. The following information is supported:
 
   - `levels`, an array specifying which indentation levels correspond to
     which taxon ranks.
-  - `scope`, an array with scopes restricting the usage of the checklist, e.g.
-    only for larvae.
-  - `catalog`: override catalog data
+  - `catalog`: override catalog data, for example:
     - `pages`, a string specifying on which pages the key is available
     - `fulltext_url`, a string specifying on which url the key is available
     - `key_type`, one of the catalog resource types
+    - `scope`, one or more scopes restricting the usage of the checklist, e.g.
+      only for larvae
 
 ## Taxa
 

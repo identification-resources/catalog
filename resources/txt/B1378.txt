@@ -2,12 +2,9 @@
 levels:
   - superfamily
   - family
-scope:
-  - adults
-  - nymphs
-  - eggs
 catalog:
   pages: 21-22
+  scope: adults; nymphs; eggs
 ---
 
 Lygaeoidea Stål, 1865
@@ -30,8 +27,8 @@ levels:
   - subspecies
   - variety
   - form
-scope:
-  - adults
+catalog:
+  scope: adults
 ---
 
 Lygaeidae Schilling, 1829
@@ -555,8 +552,8 @@ levels:
   - subspecies
   - variety
   - form
-scope:
-  - nymphs
+catalog:
+  scope: nymphs
 ---
 
 Lygaeidae Schilling, 1829
@@ -1010,8 +1007,8 @@ levels:
   - subspecies
   - variety
   - form
-scope:
-  - eggs
+catalog:
+  scope: eggs
 ---
 
 Lygaeidae Schilling, 1829

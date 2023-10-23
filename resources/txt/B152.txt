@@ -95,8 +95,6 @@ Odonata
 ===
 
 ---
-scope:
-  - larvae
 levels:
   - order
   - suborder
@@ -104,6 +102,8 @@ levels:
   - family
   - genus
   - species
+catalog:
+  scope: larvae
 ---
 
 Odonata
