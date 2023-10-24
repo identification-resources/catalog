@@ -1,32 +1,32 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B187:4:1,Melandryidae,,,,,,family,,B187:4,accepted,,,,,,,,,Melandryidae,,,,,CJL,4741,CJL,4741
-B187:4:2,Orchesia Latreille,Latreille,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Orchesia,,Melandryidae,,2079599,,2079599
-B187:4:3,Orchesia micans (Panzer),(Panzer),Orchesia,,micans,,species,,B187:4,accepted,,,B187:4:2,Orchesia Latreille,,,,,Melandryidae,,Orchesia,,Melandryidae | Orchesia,,4453580,,4453580
-B187:4:4,Orchesia minor Walker,Walker,Orchesia,,minor,,species,,B187:4,accepted,,,B187:4:2,Orchesia Latreille,,,,,Melandryidae,,Orchesia,,Melandryidae | Orchesia,,4453600,,4453600
-B187:4:5,Orchesia undulata Kraatz,Kraatz,Orchesia,,undulata,,species,,B187:4,accepted,,,B187:4:2,Orchesia Latreille,,,,,Melandryidae,,Orchesia,,Melandryidae | Orchesia,,4453594,,4453594
-B187:4:6,Hallomenus Panzer,Panzer,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Hallomenus,,Melandryidae,4STZ,1045114,4STZ,1045114
-B187:4:7,Hallomenus binotatus (Quensel),(Quensel),Hallomenus,,binotatus,,species,,B187:4,accepted,,,B187:4:6,Hallomenus Panzer,,,,,Melandryidae,,Hallomenus,,Melandryidae | Hallomenus,,1045119,,1045119
-B187:4:8,Hallomenus humeralis Panzer,Panzer,Hallomenus,,humeralis,,species,,B187:4,synonym,B187:4:7,Hallomenus binotatus (Quensel),,,,,,,Melandryidae,,Hallomenus,,Melandryidae | Hallomenus,,4458286,,1045119
-B187:4:9,Anisoxya Mulsant,Mulsant,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Anisoxya,,Melandryidae,,3263187,,3263187
-B187:4:10,Anisoxya fuscula (Illiger),(Illiger),Anisoxya,,fuscula,,species,,B187:4,accepted,,,B187:4:9,Anisoxya Mulsant,,,,,Melandryidae,,Anisoxya,,Melandryidae | Anisoxya,,5749845,,5749845
-B187:4:11,Melandrya Fabricius,Fabricius,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Melandrya,,Melandryidae,,4405287,,4405287
-B187:4:12,Melandrya barbata (Fabricius),(Fabricius),Melandrya,,barbata,,species,,B187:4,accepted,,,B187:4:11,Melandrya Fabricius,,,,,Melandryidae,,Melandrya,,Melandryidae | Melandrya,,4453690,,4453690
-B187:4:13,Melandrya caraboides (Linnaeus),(Linnaeus),Melandrya,,caraboides,,species,,B187:4,accepted,,,B187:4:11,Melandrya Fabricius,,,,,Melandryidae,,Melandrya,,Melandryidae | Melandrya,,4453698,,4453698
-B187:4:14,Zilora Mulsant,Mulsant,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Zilora,,Melandryidae,,4404442,,4404442
-B187:4:15,Zilora ferruginea (Paykull),(Paykull),Zilora,,ferruginea,,species,,B187:4,accepted,,,B187:4:14,Zilora Mulsant,,,,,Melandryidae,,Zilora,,Melandryidae | Zilora,,4453562,,4453562
-B187:4:16,Conopalpus Gyllenhal,Gyllenhal,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Conopalpus,,Melandryidae,,8810163,,8810163
-B187:4:17,Conopalpus testaceus (Olivier),(Olivier),Conopalpus,,testaceus,,species,,B187:4,accepted,,,B187:4:16,Conopalpus Gyllenhal,,,,,Melandryidae,,Conopalpus,,Melandryidae | Conopalpus,,4453611,,4453611
-B187:4:18,Osphya Illiger,Illiger,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Osphya,,Melandryidae,,4407680,,4407680
-B187:4:19,Osphya bipunctata (Fabricius),(Fabricius),Osphya,,bipunctata,,species,,B187:4,accepted,,,B187:4:18,Osphya Illiger,,,,,Melandryidae,,Osphya,,Melandryidae | Osphya,,4453653,,4453653
-B187:4:20,Hypulus Paykull,Paykull,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Hypulus,,Melandryidae,,3261703,,3261703
-B187:4:21,Hypulus quercinus (Quensel),(Quensel),Hypulus,,quercinus,,species,,B187:4,accepted,,,B187:4:20,Hypulus Paykull,,,,,Melandryidae,,Hypulus,,Melandryidae | Hypulus,,5749867,,5749867
-B187:4:22,Phloiotrya Stephens,Stephens,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Phloiotrya,,Melandryidae,,4453531,,4453531
-B187:4:23,Phloiotrya rufipes (Gyllenhal),(Gyllenhal),Phloiotrya,,rufipes,,species,,B187:4,accepted,,,B187:4:22,Phloiotrya Stephens,,,,,Melandryidae,,Phloiotrya,,Melandryidae | Phloiotrya,,4453532,,4453532
-B187:4:24,Xylita Paykull,Paykull,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Xylita,,Melandryidae,,4404946,,4404946
-B187:4:25,Xylita laevigata (Hellenius),(Hellenius),Xylita,,laevigata,,species,,B187:4,accepted,,,B187:4:24,Xylita Paykull,,,,,Melandryidae,,Xylita,,Melandryidae | Xylita,,4453676,,4453676
-B187:4:26,Abdera Stephens,Stephens,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Abdera,,Melandryidae,,4406398,,4406398
-B187:4:27,Abdera biflexuosa (Curtis),(Curtis),Abdera,,biflexuosa,,species,,B187:4,accepted,,,B187:4:26,Abdera Stephens,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,,7984899,,7984899
-B187:4:28,Abdera quadrifasciata (Curtis),(Curtis),Abdera,,quadrifasciata,,species,,B187:4,accepted,,,B187:4:26,Abdera Stephens,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,,4453544,,4453544
-B187:4:29,Abdera flexuosa (Paykull),(Paykull),Abdera,,flexuosa,,species,,B187:4,accepted,,,B187:4:26,Abdera Stephens,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,,4453551,,4453551
-B187:4:30,Abdera affinis (Paykull),(Paykull),Abdera,,affinis,,species,,B187:4,accepted,,,B187:4:26,Abdera Stephens,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,,4453554,,4453554
-B187:4:31,Abdera triguttata (Gyllenhal),(Gyllenhal),Abdera,,triguttata,,species,,B187:4,accepted,,,B187:4:26,Abdera Stephens,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,,6097803,,4453571
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B187:4:1,Melandryidae,,,,,,family,,B187:4,accepted,,,,,,,,,Melandryidae,,,,,MELANDRYIDAE,CJL,4741,CJL,4741
+B187:4:2,Orchesia Latreille,Latreille,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Orchesia,,Melandryidae,Orchesia Latreille,,2079599,,2079599
+B187:4:3,Orchesia micans (Panzer),(Panzer),Orchesia,,micans,,species,,B187:4,accepted,,,B187:4:2,Orchesia Latreille,,,,,Melandryidae,,Orchesia,,Melandryidae | Orchesia,micans (Panzer),,4453580,,4453580
+B187:4:4,Orchesia minor Walker,Walker,Orchesia,,minor,,species,,B187:4,accepted,,,B187:4:2,Orchesia Latreille,,,,,Melandryidae,,Orchesia,,Melandryidae | Orchesia,minor Walker,,4453600,,4453600
+B187:4:5,Orchesia undulata Kraatz,Kraatz,Orchesia,,undulata,,species,,B187:4,accepted,,,B187:4:2,Orchesia Latreille,,,,,Melandryidae,,Orchesia,,Melandryidae | Orchesia,undulata Kraatz,,4453594,,4453594
+B187:4:6,Hallomenus Panzer,Panzer,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Hallomenus,,Melandryidae,Hallomenus Panzer,4STZ,1045114,4STZ,1045114
+B187:4:7,Hallomenus binotatus (Quensel),(Quensel),Hallomenus,,binotatus,,species,,B187:4,accepted,,,B187:4:6,Hallomenus Panzer,,,,,Melandryidae,,Hallomenus,,Melandryidae | Hallomenus,binotatus (Quensel),,1045119,,1045119
+B187:4:8,Hallomenus humeralis Panzer,Panzer,Hallomenus,,humeralis,,species,,B187:4,synonym,B187:4:7,Hallomenus binotatus (Quensel),,,,,,,Melandryidae,,Hallomenus,,Melandryidae | Hallomenus,humeralis Panzer,,4458286,,1045119
+B187:4:9,Anisoxya Mulsant,Mulsant,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Anisoxya,,Melandryidae,Anisoxya Mulsant,,3263187,,3263187
+B187:4:10,Anisoxya fuscula (Illiger),(Illiger),Anisoxya,,fuscula,,species,,B187:4,accepted,,,B187:4:9,Anisoxya Mulsant,,,,,Melandryidae,,Anisoxya,,Melandryidae | Anisoxya,fuscula (Illiger),,5749845,,5749845
+B187:4:11,Melandrya Fabricius,Fabricius,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Melandrya,,Melandryidae,Melandrya Fabricius,,4405287,,4405287
+B187:4:12,Melandrya barbata (Fabricius),(Fabricius),Melandrya,,barbata,,species,,B187:4,accepted,,,B187:4:11,Melandrya Fabricius,,,,,Melandryidae,,Melandrya,,Melandryidae | Melandrya,barbata (Fabricius),,4453690,,4453690
+B187:4:13,Melandrya caraboides (Linnaeus),(Linnaeus),Melandrya,,caraboides,,species,,B187:4,accepted,,,B187:4:11,Melandrya Fabricius,,,,,Melandryidae,,Melandrya,,Melandryidae | Melandrya,caraboides (Linnaeus),,4453698,,4453698
+B187:4:14,Zilora Mulsant,Mulsant,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Zilora,,Melandryidae,Zilora Mulsant,,4404442,,4404442
+B187:4:15,Zilora ferruginea (Paykull),(Paykull),Zilora,,ferruginea,,species,,B187:4,accepted,,,B187:4:14,Zilora Mulsant,,,,,Melandryidae,,Zilora,,Melandryidae | Zilora,ferruginea (Paykull),,4453562,,4453562
+B187:4:16,Conopalpus Gyllenhal,Gyllenhal,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Conopalpus,,Melandryidae,Conopalpus Gyllenhal,,8810163,,8810163
+B187:4:17,Conopalpus testaceus (Olivier),(Olivier),Conopalpus,,testaceus,,species,,B187:4,accepted,,,B187:4:16,Conopalpus Gyllenhal,,,,,Melandryidae,,Conopalpus,,Melandryidae | Conopalpus,testaceus (Olivier),,4453611,,4453611
+B187:4:18,Osphya Illiger,Illiger,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Osphya,,Melandryidae,Osphya Illiger,,4407680,,4407680
+B187:4:19,Osphya bipunctata (Fabricius),(Fabricius),Osphya,,bipunctata,,species,,B187:4,accepted,,,B187:4:18,Osphya Illiger,,,,,Melandryidae,,Osphya,,Melandryidae | Osphya,bipunctata (Fabricius),,4453653,,4453653
+B187:4:20,Hypulus Paykull,Paykull,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Hypulus,,Melandryidae,Hypulus Paykull,,3261703,,3261703
+B187:4:21,Hypulus quercinus (Quensel),(Quensel),Hypulus,,quercinus,,species,,B187:4,accepted,,,B187:4:20,Hypulus Paykull,,,,,Melandryidae,,Hypulus,,Melandryidae | Hypulus,quercinus (Quensel),,5749867,,5749867
+B187:4:22,Phloiotrya Stephens,Stephens,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Phloiotrya,,Melandryidae,Phloiotrya Stephens,,4453531,,4453531
+B187:4:23,Phloiotrya rufipes (Gyllenhal),(Gyllenhal),Phloiotrya,,rufipes,,species,,B187:4,accepted,,,B187:4:22,Phloiotrya Stephens,,,,,Melandryidae,,Phloiotrya,,Melandryidae | Phloiotrya,rufipes (Gyllenhal),,4453532,,4453532
+B187:4:24,Xylita Paykull,Paykull,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Xylita,,Melandryidae,Xylita Paykull,,4404946,,4404946
+B187:4:25,Xylita laevigata (Hellenius),(Hellenius),Xylita,,laevigata,,species,,B187:4,accepted,,,B187:4:24,Xylita Paykull,,,,,Melandryidae,,Xylita,,Melandryidae | Xylita,laevigata (Hellenius),,4453676,,4453676
+B187:4:26,Abdera Stephens,Stephens,,,,,genus,,B187:4,accepted,,,B187:4:1,Melandryidae,,,,,Melandryidae,,Abdera,,Melandryidae,Abdera Stephens,,4406398,,4406398
+B187:4:27,Abdera biflexuosa (Curtis),(Curtis),Abdera,,biflexuosa,,species,,B187:4,accepted,,,B187:4:26,Abdera Stephens,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,biflexuosa (Curtis),,7984899,,7984899
+B187:4:28,Abdera quadrifasciata (Curtis),(Curtis),Abdera,,quadrifasciata,,species,,B187:4,accepted,,,B187:4:26,Abdera Stephens,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,quadrifasciata (Curtis),,4453544,,4453544
+B187:4:29,Abdera flexuosa (Paykull),(Paykull),Abdera,,flexuosa,,species,,B187:4,accepted,,,B187:4:26,Abdera Stephens,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,flexuosa (Paykull),,4453551,,4453551
+B187:4:30,Abdera affinis (Paykull),(Paykull),Abdera,,affinis,,species,,B187:4,accepted,,,B187:4:26,Abdera Stephens,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,affinis (Paykull),,4453554,,4453554
+B187:4:31,Abdera triguttata (Gyllenhal),(Gyllenhal),Abdera,,triguttata,,species,,B187:4,accepted,,,B187:4:26,Abdera Stephens,,,,,Melandryidae,,Abdera,,Melandryidae | Abdera,triguttata (Gyllenhal),,6097803,,4453571

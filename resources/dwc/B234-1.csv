@@ -1,8 +1,8 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B234:1:1,Diptera,,,,,,order,,B234:1,accepted,,,,,,,,Diptera,,,,,,D2P,811,D2P,811
-B234:1:2,Cyclorrhapha,,,,,,suborder,,B234:1,accepted,,,B234:1:1,Diptera,,,,Diptera,,,,,Diptera,,,,
-B234:1:3,Orthorrhapha,,,,,,suborder,,B234:1,accepted,,,B234:1:1,Diptera,,,,Diptera,,,,,Diptera,,,,
-B234:1:4,Nematocera,,,,,,suborder,,B234:1,accepted,,,B234:1:3,Orthorrhapha,,,,Diptera,,,,,Diptera | Orthorrhapha,89QSK,,89QSK,
-B234:1:5,Brachycera,,,,,,suborder,,B234:1,accepted,,,B234:1:3,Orthorrhapha,,,,Diptera,,,,,Diptera | Orthorrhapha,,,,
-B234:1:6,Empididae,,,,,,family,,B234:1,accepted,,,B234:1:5,Brachycera,,,,Diptera,Empididae,,,,Diptera | Orthorrhapha | Brachycera,9NM,9483,9NM,9483
-B234:1:7,Dolichopodidae,,,,,,family,,B234:1,accepted,,,B234:1:5,Brachycera,,,,Diptera,Dolichopodidae,,,,Diptera | Orthorrhapha | Brachycera,623XN,7305,623XN,7305
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B234:1:1,Diptera,,,,,,order,,B234:1,accepted,,,,,,,,Diptera,,,,,,Diptera,D2P,811,D2P,811
+B234:1:2,Cyclorrhapha,,,,,,suborder,,B234:1,accepted,,,B234:1:1,Diptera,,,,Diptera,,,,,Diptera,CYCLORRHAPHA,,,,
+B234:1:3,Orthorrhapha,,,,,,suborder,,B234:1,accepted,,,B234:1:1,Diptera,,,,Diptera,,,,,Diptera,ORTHORRHAPHA,,,,
+B234:1:4,Nematocera,,,,,,suborder,,B234:1,accepted,,,B234:1:3,Orthorrhapha,,,,Diptera,,,,,Diptera | Orthorrhapha,NEMATOCERA,89QSK,,89QSK,
+B234:1:5,Brachycera,,,,,,suborder,,B234:1,accepted,,,B234:1:3,Orthorrhapha,,,,Diptera,,,,,Diptera | Orthorrhapha,BRACHYCERA,,,,
+B234:1:6,Empididae,,,,,,family,,B234:1,accepted,,,B234:1:5,Brachycera,,,,Diptera,Empididae,,,,Diptera | Orthorrhapha | Brachycera,Empididae,9NM,9483,9NM,9483
+B234:1:7,Dolichopodidae,,,,,,family,,B234:1,accepted,,,B234:1:5,Brachycera,,,,Diptera,Dolichopodidae,,,,Diptera | Orthorrhapha | Brachycera,Dolichopodidae,623XN,7305,623XN,7305

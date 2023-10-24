@@ -1,13 +1,13 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B187:8:1,Oedemeridae,,,,,,family,,B187:8,accepted,,,,,,,,,Oedemeridae,,,,,626H2,4749,626H2,4749
-B187:8:2,Oedemera Olivier,Olivier,,,,,genus,,B187:8,accepted,,,B187:8:1,Oedemeridae,,,,,Oedemeridae,,Oedemera,,Oedemeridae,,9115310,,9115310
-B187:8:3,Oedemera nobilis (Scopoli),(Scopoli),Oedemera,,nobilis,,species,,B187:8,accepted,,,B187:8:2,Oedemera Olivier,,,,,Oedemeridae,,Oedemera,,Oedemeridae | Oedemera,,4458482,,4458482
-B187:8:4,Oedemera virescens (Linnaeus),(Linnaeus),Oedemera,,virescens,,species,,B187:8,accepted,,,B187:8:2,Oedemera Olivier,,,,,Oedemeridae,,Oedemera,,Oedemeridae | Oedemera,,4458533,,4458533
-B187:8:5,Oedemera lurida (Marsham),(Marsham),Oedemera,,lurida,,species,,B187:8,accepted,,,B187:8:2,Oedemera Olivier,,,,,Oedemeridae,,Oedemera,,Oedemeridae | Oedemera,,4458479,,4458479
-B187:8:6,Ischnomera Stephens,Stephens,,,,,genus,,B187:8,accepted,,,B187:8:1,Oedemeridae,,,,,Oedemeridae,,Ischnomera,,Oedemeridae,,4405946,,4405946
-B187:8:7,Ischnomera caerulea (Linnaeus),(Linnaeus),Ischnomera,,caerulea,,species,,B187:8,accepted,,,B187:8:6,Ischnomera Stephens,,,,,Oedemeridae,,Ischnomera,,Oedemeridae | Ischnomera,,4458433,,4458433
-B187:8:8,Ischnomera sanguinicollis (Fabricius),(Fabricius),Ischnomera,,sanguinicollis,,species,,B187:8,accepted,,,B187:8:6,Ischnomera Stephens,,,,,Oedemeridae,,Ischnomera,,Oedemeridae | Ischnomera,,4458446,,4458446
-B187:8:9,Nacerdes Faldermann,Faldermann,,,,,genus,,B187:8,accepted,,,B187:8:1,Oedemeridae,,,,,Oedemeridae,,Nacerdes,,Oedemeridae,63CG6,7892651,63CG6,1045470
-B187:8:10,Nacerdes melanura (Linnaeus),(Linnaeus),Nacerdes,,melanura,,species,,B187:8,accepted,,,B187:8:9,Nacerdes Faldermann,,,,,Oedemeridae,,Nacerdes,,Oedemeridae | Nacerdes,,1045471,,1045471
-B187:8:11,Oncomera Stephens,Stephens,,,,,genus,,B187:8,accepted,,,B187:8:1,Oedemeridae,,,,,Oedemeridae,,Oncomera,,Oedemeridae,,4735959,,4735959
-B187:8:12,Oncomera femorata (Fabricius),(Fabricius),Oncomera,,femorata,,species,,B187:8,accepted,,,B187:8:11,Oncomera Stephens,,,,,Oedemeridae,,Oncomera,,Oedemeridae | Oncomera,,11288235,,4458474
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B187:8:1,Oedemeridae,,,,,,family,,B187:8,accepted,,,,,,,,,Oedemeridae,,,,,OEDEMERIDAE,626H2,4749,626H2,4749
+B187:8:2,Oedemera Olivier,Olivier,,,,,genus,,B187:8,accepted,,,B187:8:1,Oedemeridae,,,,,Oedemeridae,,Oedemera,,Oedemeridae,Oedemera Olivier,,9115310,,9115310
+B187:8:3,Oedemera nobilis (Scopoli),(Scopoli),Oedemera,,nobilis,,species,,B187:8,accepted,,,B187:8:2,Oedemera Olivier,,,,,Oedemeridae,,Oedemera,,Oedemeridae | Oedemera,nobilis (Scopoli),,4458482,,4458482
+B187:8:4,Oedemera virescens (Linnaeus),(Linnaeus),Oedemera,,virescens,,species,,B187:8,accepted,,,B187:8:2,Oedemera Olivier,,,,,Oedemeridae,,Oedemera,,Oedemeridae | Oedemera,virescens (Linnaeus),,4458533,,4458533
+B187:8:5,Oedemera lurida (Marsham),(Marsham),Oedemera,,lurida,,species,,B187:8,accepted,,,B187:8:2,Oedemera Olivier,,,,,Oedemeridae,,Oedemera,,Oedemeridae | Oedemera,lurida (Marsham),,4458479,,4458479
+B187:8:6,Ischnomera Stephens,Stephens,,,,,genus,,B187:8,accepted,,,B187:8:1,Oedemeridae,,,,,Oedemeridae,,Ischnomera,,Oedemeridae,Ischnomera Stephens,,4405946,,4405946
+B187:8:7,Ischnomera caerulea (Linnaeus),(Linnaeus),Ischnomera,,caerulea,,species,,B187:8,accepted,,,B187:8:6,Ischnomera Stephens,,,,,Oedemeridae,,Ischnomera,,Oedemeridae | Ischnomera,caerulea (Linnaeus),,4458433,,4458433
+B187:8:8,Ischnomera sanguinicollis (Fabricius),(Fabricius),Ischnomera,,sanguinicollis,,species,,B187:8,accepted,,,B187:8:6,Ischnomera Stephens,,,,,Oedemeridae,,Ischnomera,,Oedemeridae | Ischnomera,sanguinicollis (Fabricius),,4458446,,4458446
+B187:8:9,Nacerdes Faldermann,Faldermann,,,,,genus,,B187:8,accepted,,,B187:8:1,Oedemeridae,,,,,Oedemeridae,,Nacerdes,,Oedemeridae,Nacerdes Faldermann,63CG6,7892651,63CG6,1045470
+B187:8:10,Nacerdes melanura (Linnaeus),(Linnaeus),Nacerdes,,melanura,,species,,B187:8,accepted,,,B187:8:9,Nacerdes Faldermann,,,,,Oedemeridae,,Nacerdes,,Oedemeridae | Nacerdes,melanura (Linnaeus),,1045471,,1045471
+B187:8:11,Oncomera Stephens,Stephens,,,,,genus,,B187:8,accepted,,,B187:8:1,Oedemeridae,,,,,Oedemeridae,,Oncomera,,Oedemeridae,Oncomera Stephens,,4735959,,4735959
+B187:8:12,Oncomera femorata (Fabricius),(Fabricius),Oncomera,,femorata,,species,,B187:8,accepted,,,B187:8:11,Oncomera Stephens,,,,,Oedemeridae,,Oncomera,,Oedemeridae | Oncomera,femorata (Fabricius),,11288235,,4458474

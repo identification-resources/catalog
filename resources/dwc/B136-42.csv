@@ -1,5 +1,5 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B136:42:1,Phratora,,,,,,genus,,B136:42,accepted,,,,,,,,,,,Phratora,,,6P83,1048862,6P83,1048862
-B136:42:2,Phyllodecta,,,,,,genus,,B136:42,synonym,B136:42:1,Phratora,,,,,,,,,Phyllodecta,,,,6757968,,6757968
-B136:42:3,Phratora polaris (Sparre Schneider),(Sparre Schneider),Phratora,,polaris,,species,,B136:42,accepted,,,B136:42:1,Phratora,,,,,,,Phratora,,Phratora,,7721564,,7721564
-B136:42:4,Phratora vitellinae,,Phratora,,vitellinae,,species,,B136:42,accepted,,,B136:42:1,Phratora,,,,,,,Phratora,,Phratora,,4459693,,4459693
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:42:1,Phratora,,,,,,genus,,B136:42,accepted,,,,,,,,,,,Phratora,,,Phratora,6P83,1048862,6P83,1048862
+B136:42:2,Phyllodecta,,,,,,genus,,B136:42,synonym,B136:42:1,Phratora,,,,,,,,,Phyllodecta,,,Phyllodecta,,6757968,,6757968
+B136:42:3,Phratora polaris (Sparre Schneider),(Sparre Schneider),Phratora,,polaris,,species,,B136:42,accepted,,,B136:42:1,Phratora,,,,,,,Phratora,,Phratora,polaris (Sparre Schneider),,7721564,,7721564
+B136:42:4,Phratora vitellinae,,Phratora,,vitellinae,,species,,B136:42,accepted,,,B136:42:1,Phratora,,,,,,,Phratora,,Phratora,vitellinae,,4459693,,4459693

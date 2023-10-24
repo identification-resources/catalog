@@ -1,343 +1,343 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B224:2:1,Belytinae,,,,,,subfamily,,B224:2,accepted,,,,,,,,,,Belytinae,,,,,,,
-B224:2:2,Acanosema Kieffer,Kieffer,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Acanosema,,Belytinae,,9088733,,9088733
-B224:2:3,Cardiopsilus Kieffer,Kieffer,,,,,genus,syn. n.,B224:2,synonym,B224:2:2,Acanosema Kieffer,,,,,,,,Belytinae,Cardiopsilus,,Belytinae,,9116737,,9116737
-B224:2:4,Acanosema clavata (Kieffer),(Kieffer),Acanosema,,clavata,,species,comb. n.,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,9844211,,4503482
-B224:2:5,Acanopsilus clavatus Kieffer,Kieffer,Acanopsilus,,clavatus,,species,,B224:2,synonym,B224:2:4,Acanosema clavata (Kieffer),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,11156135,,11156135
-B224:2:6,Acanosema heterocera (Haliday),(Haliday),Acanosema,,heterocera,,species,comb. n.,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,,,
-B224:2:7,Belita heterocera Haliday in Kieffer,Haliday in Kieffer,Belita,,heterocera,,species,,B224:2,synonym,B224:2:6,Acanosema heterocera (Haliday),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,4503483,,4503482
-B224:2:8,Acanosema brevipenne Kieffer,Kieffer,Acanosema,,brevipenne,,species,,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,,,
-B224:2:9,Acanosema reitteri Kieffer,Kieffer,Acanosema,,reitteri,,species,,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,11126760,,11126760
-B224:2:10,Acanosema nervosa (Thomson),(Thomson),Acanosema,,nervosa,,species,,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,4503227,,4503227
-B224:2:11,Cinetus nervosus Thomson,Thomson,Cinetus,,nervosus,,species,,B224:2,synonym,B224:2:10,Acanosema nervosa (Thomson),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,4503228,,4503227
-B224:2:12,Aclista microcera Kieffer,Kieffer,Aclista,,microcera,,species,syn. n.,B224:2,synonym,B224:2:10,Acanosema nervosa (Thomson),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,,,
-B224:2:13,Cardiopsilus rufiventris Kieffer,Kieffer,Cardiopsilus,,rufiventris,,species,syn. n.,B224:2,synonym,B224:2:10,Acanosema nervosa (Thomson),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,,,
-B224:2:14,Acanosema alpestre Kieffer,Kieffer,Acanosema,,alpestre,,species,,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,10359689,,4503227
-B224:2:15,Acanosema flavipes (Kieffer),(Kieffer),Acanosema,,flavipes,,species,comb. n.,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,11356108,,4502953
-B224:2:16,Psilomma flavipes Kieffer,Kieffer,Psilomma,,flavipes,,species,,B224:2,synonym,B224:2:15,Acanosema flavipes (Kieffer),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,,,,
-B224:2:17,Aclista Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Aclista,,Belytinae,,4405710,,4405710
-B224:2:18,Xenotoma Kieffer,Kieffer,,,,,genus,,B224:2,synonym,B224:2:17,Aclista Förster,,,,,,,,Belytinae,Xenotoma,,Belytinae,,4670204,,4670204
-B224:2:19,Aclista insolita,,Aclista,,insolita,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502711,,4502711
-B224:2:20,Aclista angusta (Kieffer),(Kieffer),Aclista,,angusta,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502801,,4502801
-B224:2:21,Anectata angusta Kieffer,Kieffer,Anectata,,angusta,,species,,B224:2,synonym,B224:2:20,Aclista angusta (Kieffer),,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502802,,4502801
-B224:2:22,Aclista neglecta (Kieffer),(Kieffer),Aclista,,neglecta,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502789,,4502789
-B224:2:23,Aclista szelenyii (Moczar),(Moczar),Aclista,,szelenyii,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502810,,4502810
-B224:2:24,Aclista bitensis (Kieffer),(Kieffer),Aclista,,bitensis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502734,,4502734
-B224:2:25,Anectata bitensis Kieffer,Kieffer,Anectata,,bitensis,,species,,B224:2,synonym,B224:2:24,Aclista bitensis (Kieffer),,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502735,,4502734
-B224:2:26,Aclista soror (Kieffer),(Kieffer),Aclista,,soror,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502718,,4502718
-B224:2:27,Anectata soror Kieffer,Kieffer,Anectata,,soror,,species,,B224:2,synonym,B224:2:26,Aclista soror (Kieffer),,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502719,,4502718
-B224:2:28,Aclista marshalli (Kieffer),(Kieffer),Aclista,,marshalli,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502749,,4502749
-B224:2:29,Aclista rufipes (Kieffer),(Kieffer),Aclista,,rufipes,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502757,,4502757
-B224:2:30,Xenotoma rufipes Kieffer,Kieffer,Xenotoma,,rufipes,,species,,B224:2,synonym,B224:2:29,Aclista rufipes (Kieffer),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,4502758,,4502757
-B224:2:31,Aclista rufopetiolata (Nees),(Nees),Aclista,,rufopetiolata,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502744,,4502744
-B224:2:32,Xenotoma pleuralis Kieffer,Kieffer,Xenotoma,,pleuralis,,species,syn. n.,B224:2,synonym,B224:2:31,Aclista rufopetiolata (Nees),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,,,
-B224:2:33,Xenotoma versicolor subsp. versicolor Kieffer,Kieffer,Xenotoma,,versicolor,versicolor,subspecies,syn. n.,B224:2,synonym,B224:2:31,Aclista rufopetiolata (Nees),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,,,
-B224:2:34,Xenotoma castaneiventris Kieffer,Kieffer,Xenotoma,,castaneiventris,,species,syn. n.,B224:2,synonym,B224:2:31,Aclista rufopetiolata (Nees),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,,,
-B224:2:35,Aclista cantianus (Curtis),(Curtis),Aclista,,cantianus,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502680,,4502680
-B224:2:36,Cinetus cantianus Curtis,Curtis,Cinetus,,cantianus,,species,,B224:2,synonym,B224:2:35,Aclista cantianus (Curtis),,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502681,,4502680
-B224:2:37,Xenotoma nigrescens Kieffer,Kieffer,Xenotoma,,nigrescens,,species,syn. n.,B224:2,synonym,B224:2:35,Aclista cantianus (Curtis),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,,,
-B224:2:38,Aclista evadne,,Aclista,,evadne,,species,nom. nov.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502833,,4502833
-B224:2:39,"Xenotoma microtoma Kieffer,","Kieffer,",Xenotoma,,microtoma,,species,1909: 542 nec 1909: 453,B224:2,synonym,B224:2:38,Aclista evadne,,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,,,,
-B224:2:40,Aclista praeclara,,Aclista,,praeclara,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502837,,4502837
-B224:2:41,Aclista striolata (Thomson),(Thomson),Aclista,,striolata,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,9805036,,9805036
-B224:2:42,Xenotoma hamifera Kieffer,Kieffer,Xenotoma,,hamifera,,species,syn. n.,B224:2,synonym,B224:2:41,Aclista striolata (Thomson),,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,,,,
-B224:2:43,Aclista elevata (Thomson),(Thomson),Aclista,,elevata,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502691,,4502691
-B224:2:44,Aclista janssoni,,Aclista,,janssoni,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502700,,4502700
-B224:2:45,Aclista subfuscicornis (Kieffer),(Kieffer),Aclista,,subfuscicornis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,11134434,,11134434
-B224:2:46,Aclista analis (Kieffer),(Kieffer),Aclista,,analis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502814,,4502814
-B224:2:47,Anectata analis Kieffer,Kieffer,Anectata,,analis,,species,,B224:2,synonym,B224:2:46,Aclista analis (Kieffer),,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502815,,4502814
-B224:2:48,Aclista folia,,Aclista,,folia,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502728,,4502728
-B224:2:49,Aclista flavicornis (Kieffer),(Kieffer),Aclista,,flavicornis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502767,,4502767
-B224:2:50,Aclista clito,,Aclista,,clito,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502812,,4502812
-B224:2:51,Aclista pallida (Thomson),(Thomson),Aclista,,pallida,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502708,,4502708
-B224:2:52,Aclista prudens,,Aclista,,prudens,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502813,,4502813
-B224:2:53,Aclista boops (Thomson),(Thomson),Aclista,,boops,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502720,,4502720
-B224:2:54,Aclista parvula (Kieffer),(Kieffer),Aclista,,parvula,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502697,,4502697
-B224:2:55,Aclista haemorrhoidalis (Kieffer),(Kieffer),Aclista,,haemorrhoidalis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502780,,4502780
-B224:2:56,Aclista lineare,,Aclista,,lineare,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502817,,4502817
-B224:2:57,Aclista acuta (Kieffer),(Kieffer),Aclista,,acuta,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502683,,4502683
-B224:2:58,Xenotoma alticollis subsp. acuta Kieffer,Kieffer,Xenotoma,,alticollis,acuta,subspecies,,B224:2,synonym,B224:2:57,Aclista acuta (Kieffer),,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,,,,
-B224:2:59,Aclista arisba,,Aclista,,arisba,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502788,,4502788
-B224:2:60,Aclista alticollis (Thomson),(Thomson),Aclista,,alticollis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502838,,4502838
-B224:2:61,Xenotoma fallax subsp. fallax Kieffer,Kieffer,Xenotoma,,fallax,fallax,subspecies,syn. n.,B224:2,synonym,B224:2:60,Aclista alticollis (Thomson),,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,,,,
-B224:2:62,Xenotoma nigra Kieffer,Kieffer,Xenotoma,,nigra,,species,syn. n.,B224:2,synonym,B224:2:60,Aclista alticollis (Thomson),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,,,
-B224:2:63,Xenotoma cilipes Kieffer,Kieffer,Xenotoma,,cilipes,,species,syn. n.,B224:2,synonym,B224:2:60,Aclista alticollis (Thomson),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,,,
-B224:2:64,Aclista oxytoma Kieffer,Kieffer,Aclista,,oxytoma,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502722,,4502722
-B224:2:65,Aclista tristis,,Aclista,,tristis,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502742,,4502742
-B224:2:66,Aclista dubia (Kieffer),(Kieffer),Aclista,,dubia,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502716,,4502716
-B224:2:67,Aclista prolongata (Kieffer),(Kieffer),Aclista,,prolongata,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502825,,4502825
-B224:2:68,Aclista fractinervis (Kieffer),(Kieffer),Aclista,,fractinervis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502701,,4502701
-B224:2:69,Aclista atriceps (Kieffer),(Kieffer),Aclista,,atriceps,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502759,,4502759
-B224:2:70,Aclista mycale,,Aclista,,mycale,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502828,,4502828
-B224:2:71,Aclista nigriceps (Kieffer),(Kieffer),Aclista,,nigriceps,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502761,,4502761
-B224:2:72,Aclista filicornis (Kieffer),(Kieffer),Aclista,,filicornis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,9942921,,4502795
-B224:2:73,Xenotoma similis Kieffer,Kieffer,Xenotoma,,similis,,species,,B224:2,synonym,B224:2:72,Aclista filicornis (Kieffer),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,,,,
-B224:2:74,Aclista myles,,Aclista,,myles,,species,nom. nov.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502816,,4502816
-B224:2:75,Xenotoma fallax subsp. arcuata (Kieffer),(Kieffer),Xenotoma,,fallax,arcuata,subspecies,1909: 544 nec 1909: 349,B224:2,synonym,B224:2:74,Aclista myles,,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,,,,
-B224:2:76,Aclista subaequalis Kieffer,Kieffer,Aclista,,subaequalis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502822,,4502822
-B224:2:77,Aclista scutellaris (Thomson),(Thomson),Aclista,,scutellaris,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502732,,4502732
-B224:2:78,Aclista neglecta (Kieffer),(Kieffer),Aclista,,neglecta,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502789,,4502789
-B224:2:79,Aclista lugens (Kieffer),(Kieffer),Aclista,,lugens,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502791,,4502791
-B224:2:80,Aclista fusciventris (Kieffer),(Kieffer),Aclista,,fusciventris,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,,4502818,,4502818
-B224:2:81,Acropiesta Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Acropiesta,,Belytinae,,4405434,,4405434
-B224:2:82,Acropiesta sciarivora Kieffer,Kieffer,Acropiesta,,sciarivora,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4502953,,4502953
-B224:2:83,Acropiesta flaviventris Thomson,Thomson,Acropiesta,,flaviventris,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4502944,,4502944
-B224:2:84,Xenotoma gracilicornis Kieffer,Kieffer,Xenotoma,,gracilicornis,,species,syn. n.,B224:2,synonym,B224:2:83,Acropiesta flaviventris Thomson,,,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,,,
-B224:2:85,Pantopiesta flaviventris Thomson,Thomson,Pantopiesta,,flaviventris,,species,,B224:2,synonym,B224:2:83,Acropiesta flaviventris Thomson,,,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,,,
-B224:2:86,Acropiesta flavipes Kieffer,Kieffer,Acropiesta,,flavipes,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,8651567,,4502953
-B224:2:87,Acropiesta aptera Kieffer,Kieffer,Acropiesta,,aptera,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,11954908,,10742715
-B224:2:88,Acropiesta xanthura Kieffer,Kieffer,Acropiesta,,xanthura,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4502949,,4502949
-B224:2:89,Acropiesta rufiventris Kieffer,Kieffer,Acropiesta,,rufiventris,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,4502948,,4502948
-B224:2:90,Acropiesta sterope,,Acropiesta,,sterope,,species,sp. n.,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,10430644,,4502955
-B224:2:91,Acropiesta lysicies,,Acropiesta,,lysicies,,species,sp. n.,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,,10727373,,10727373
-B224:2:92,Anommatium Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Anommatium,,Belytinae,,4407410,,4407410
-B224:2:93,Anommatium ashmeadi Mayr,Mayr,Anommatium,,ashmeadi,,species,,B224:2,accepted,,,B224:2:92,Anommatium Förster,,,,,,Belytinae,Anommatium,,Belytinae | Anommatium,,4503255,,4503255
-B224:2:94,Aprestes,,,,,,genus,gen. n.,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Aprestes,,Belytinae,,4406407,,4406407
-B224:2:95,Aprestes aberrans,,Aprestes,,aberrans,,species,sp. n.,B224:2,accepted,,,B224:2:94,Aprestes,,,,,,Belytinae,Aprestes,,Belytinae | Aprestes,,8447746,,4503484
-B224:2:96,Atelopsilus Kieffer,Kieffer,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Atelopsilus,,Belytinae,,4677637,,4677637
-B224:2:97,Atelopsilus ciliatum (Thomson),(Thomson),Atelopsilus,,ciliatum,,species,comb. nov.,B224:2,accepted,,,B224:2:96,Atelopsilus Kieffer,,,,,,Belytinae,Atelopsilus,,Belytinae | Atelopsilus,,9921020,,4503848
-B224:2:98,Opazon ciliatum (Thomson),(Thomson),Opazon,,ciliatum,,species,in Kieffer,B224:2,synonym,B224:2:97,Atelopsilus ciliatum (Thomson),,,,,,,,Belytinae,Atelopsilus,,Belytinae | Atelopsilus,,,,
-B224:2:99,Atelopsilus borealis Petersen,Petersen,Atelopsilus,,borealis,,species,,B224:2,accepted,,,B224:2:96,Atelopsilus Kieffer,,,,,,Belytinae,Atelopsilus,,Belytinae | Atelopsilus,,4503850,,8185920
-B224:2:100,Belyta Jurine,Jurine,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Belyta,,Belytinae,,9091893,,9091893
-B224:2:101,Belyta fuscipennis Thomson,Thomson,Belyta,,fuscipennis,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503259,,4503258
-B224:2:102,Belyta seron,,Belyta,,seron,,species,sp. n.,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503357,,4503357
-B224:2:103,Belyta abrupta Thomson,Thomson,Belyta,,abrupta,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503366,,4503366
-B224:2:104,Belyta depressa Thomson,Thomson,Belyta,,depressa,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503358,,4503358
-B224:2:105,Belyta depressa var. cursitans Kieffer,Kieffer,Belyta,,depressa,cursitans,variety,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10548718,,4503358
-B224:2:106,Belyta furcata Kieffer,Kieffer,Belyta,,furcata,,species,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11297279,,4503358
-B224:2:107,Belyta arietina Kieffer,Kieffer,Belyta,,arietina,,species,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11281140,,4503358
-B224:2:108,Belyta costalis subsp. costalis Kieffer,Kieffer,Belyta,,costalis,costalis,subspecies,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,,,
-B224:2:109,Belyta costalis subsp. obliterata Kieffer,Kieffer,Belyta,,costalis,obliterata,subspecies,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,,,
-B224:2:110,Belyta modesta Kieffer,Kieffer,Belyta,,modesta,,species,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11324415,,4503358
-B224:2:111,Belyta lativentris Cameron,Cameron,Belyta,,lativentris,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11137282,,11137282
-B224:2:112,Belyta moniliata Cameron,Cameron,Belyta,,moniliata,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503402,,4503402
-B224:2:113,Belyta pelias,,Belyta,,pelias,,species,sp. n.,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503371,,4503371
-B224:2:114,Belyta carinifrons (Kieffer),(Kieffer),Belyta,,carinifrons,,species,comb. n.,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503372,,4503372
-B224:2:115,Paraclista carinifrons Kieffer,Kieffer,Paraclista,,carinifrons,,species,,B224:2,synonym,B224:2:114,Belyta carinifrons (Kieffer),,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503373,,4503372
-B224:2:116,Belyta pedestris (Kieffer),(Kieffer),Belyta,,pedestris,,species,comb. n.,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503387,,4503358
-B224:2:117,Paraclista pedestris Kieffer,Kieffer,Paraclista,,pedestris,,species,,B224:2,synonym,B224:2:116,Belyta pedestris (Kieffer),,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,,,
-B224:2:118,Belyta tenuicornis Kieffer,Kieffer,Belyta,,tenuicornis,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11214130,,11214130
-B224:2:119,Belyta gaullei Kieffer,Kieffer,Belyta,,gaullei,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10624808,,10624808
-B224:2:120,Belyta quadridens Kieffer,Kieffer,Belyta,,quadridens,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,8624013,,4503374
-B224:2:121,Belyta longistilus Kieffer,Kieffer,Belyta,,longistilus,,species,syn. n.,B224:2,synonym,B224:2:120,Belyta quadridens Kieffer,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10286101,,4503374
-B224:2:122,Pantoclis atristilus Kieffer,Kieffer,Pantoclis,,atristilus,,species,syn. n.,B224:2,synonym,B224:2:120,Belyta quadridens Kieffer,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,,,
-B224:2:123,Belyta forticornis Cameron,Cameron,Belyta,,forticornis,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,8656240,,4503374
-B224:2:124,Belyta crassinervis Kieffer,Kieffer,Belyta,,crassinervis,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10397149,,4503374
-B224:2:125,Belyta crassinervis var. scotica Kieffer,Kieffer,Belyta,,crassinervis,scotica,variety,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,,,
-B224:2:126,Belyta marginalis Kieffer,Kieffer,Belyta,,marginalis,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11280996,,4503374
-B224:2:127,Belyta mullensis Cameron,Cameron,Belyta,,mullensis,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11271133,,4503374
-B224:2:128,Belyta peraffinis Kieffer,Kieffer,Belyta,,peraffinis,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11324266,,4503374
-B224:2:129,Pantoclis arcuata Kieffer,Kieffer,Pantoclis,,arcuata,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10588989,,4503374
-B224:2:130,Pantoclis arcuata subsp. festiva Kieffer,Kieffer,Pantoclis,,arcuata,festiva,subspecies,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10095019,,4503374
-B224:2:131,Pantoclis levistylus Kieffer,Kieffer,Pantoclis,,levistylus,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,10437449,,4503374
-B224:2:132,Xenotoma scotica Kieffer,Kieffer,Xenotoma,,scotica,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,,,
-B224:2:133,Belyta rugosicollis Kieffer,Kieffer,Belyta,,rugosicollis,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503389,,4503389
-B224:2:134,Belyta elegans Kieffer,Kieffer,Belyta,,elegans,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503395,,4503395
-B224:2:135,Belyta acuta Kieffer,Kieffer,Belyta,,acuta,,species,syn. n.,B224:2,synonym,B224:2:134,Belyta elegans Kieffer,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503383,,4503383
-B224:2:136,Belyta norvegica Kieffer,Kieffer,Belyta,,norvegica,,species,syn. n.,B224:2,synonym,B224:2:134,Belyta elegans Kieffer,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,11369071,,4503395
-B224:2:137,Belyta validicornis Thomson,Thomson,Belyta,,validicornis,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503377,,4503377
-B224:2:138,Belyta lubrica Kieffer,Kieffer,Belyta,,lubrica,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,,4503367,,4503367
-B224:2:139,Cinelaptus,,,,,,genus,gen. n.,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Cinelaptus,,Belytinae,,4670825,,4670825
-B224:2:140,Cinelaptus fragilis,,Cinelaptus,,fragilis,,species,sp. n.,B224:2,accepted,,,B224:2:139,Cinelaptus,,,,,,Belytinae,Cinelaptus,,Belytinae | Cinelaptus,,4503555,,4503554
-B224:2:141,Cinetus Jurine,Jurine,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Cinetus,,Belytinae,,9172475,,9172475
-B224:2:142,Cinetus lanceolatus Thomson,Thomson,Cinetus,,lanceolatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503196,,4503196
-B224:2:143,Cinetus ilione,,Cinetus,,ilione,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503214,,4503214
-B224:2:144,Cinetus sequester,,Cinetus,,sequester,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,8150711,,8150711
-B224:2:145,Cinetus mermerus,,Cinetus,,mermerus,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503208,,4503208
-B224:2:146,Cinetus elatior,,Cinetus,,elatior,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503190,,4503190
-B224:2:147,Cinetus procris,,Cinetus,,procris,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503223,,4503223
-B224:2:148,Cinetus telon,,Cinetus,,telon,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503172,,4503172
-B224:2:149,Cinetus fuliginosus Curtis,Curtis,Cinetus,,fuliginosus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503211,,4503211
-B224:2:150,Cinetus tenuicornis Thomson,Thomson,Cinetus,,tenuicornis,,species,syn. n.,B224:2,synonym,B224:2:149,Cinetus fuliginosus Curtis,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,10510630,,4503211
-B224:2:151,Cinetus simulans,,Cinetus,,simulans,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503181,,4503181
-B224:2:152,Cinetus ariantes,,Cinetus,,ariantes,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503213,,4503213
-B224:2:153,Cinetus iridipennis Lepeletier,Lepeletier,Cinetus,,iridipennis,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503205,,4503205
-B224:2:154,Cinetus gracilis Curtis,Curtis,Cinetus,,gracilis,,species,syn. n.,B224:2,synonym,B224:2:153,Cinetus iridipennis Lepeletier,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,11223463,,4503205
-B224:2:155,Cinetus gracilipes Curtis,Curtis,Cinetus,,gracilipes,,species,syn. n.,B224:2,synonym,B224:2:153,Cinetus iridipennis Lepeletier,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,11334767,,4503205
-B224:2:156,Cinetus filicornis Thomson,Thomson,Cinetus,,filicornis,,species,syn. n.,B224:2,synonym,B224:2:153,Cinetus iridipennis Lepeletier,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,10417597,,4503205
-B224:2:157,Cinetus cameroni Kieffer,Kieffer,Cinetus,,cameroni,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503178,,4503178
-B224:2:158,Cinetus iridipennis subsp. prolongata Kieffer,Kieffer,Cinetus,,iridipennis,prolongata,subspecies,syn. n.,B224:2,synonym,B224:2:157,Cinetus cameroni Kieffer,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,,,
-B224:2:159,Cinetus atriceps (Kieffer),(Kieffer),Cinetus,,atriceps,,species,stat. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503204,,4503204
-B224:2:160,Cinetus iridipennis subsp. atriceps Kieffer,Kieffer,Cinetus,,iridipennis,atriceps,subspecies,,B224:2,synonym,B224:2:159,Cinetus atriceps (Kieffer),,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,,,
-B224:2:161,Cinetus angustatus Kieffer,Kieffer,Cinetus,,angustatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503175,,4503175
-B224:2:162,Cinetus ennius,,Cinetus,,ennius,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503182,,4503182
-B224:2:163,Cinetus decipiens Kieffer,Kieffer,Cinetus,,decipiens,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503207,,4503207
-B224:2:164,Cinetus lysis,,Cinetus,,lysis,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503171,,4503171
-B224:2:165,Cinetus gaus,,Cinetus,,gaus,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503176,,4503176
-B224:2:166,Cinetus proclea,,Cinetus,,proclea,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503177,,4503177
-B224:2:167,Cinetus princeps,,Cinetus,,princeps,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503194,,4503194
-B224:2:168,Cinetus piceus Thomson,Thomson,Cinetus,,piceus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503220,,4503220
-B224:2:169,Cinetus strandi Kieffer,Kieffer,Cinetus,,strandi,,species,syn. n.,B224:2,synonym,B224:2:168,Cinetus piceus Thomson,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,11330949,,4503220
-B224:2:170,Scorpioteleia rufa Kieffer,Kieffer,Scorpioteleia,,rufa,,species,syn. n.,B224:2,synonym,B224:2:168,Cinetus piceus Thomson,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,9856053,,4503220
-B224:2:171,Cinetus breipetiolatus Thomson,Thomson,Cinetus,,breipetiolatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503187,,4503187
-B224:2:172,Cinetus lusitanica (Kieffer),(Kieffer),Cinetus,,lusitanica,,species,comb. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503179,,4503179
-B224:2:173,Scorpioteleia lusitanica Kieffer,Kieffer,Scorpioteleia,,lusitanica,,species,,B224:2,synonym,B224:2:172,Cinetus lusitanica (Kieffer),,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,,,
-B224:2:174,Cinetus aletes,,Cinetus,,aletes,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503192,,4503192
-B224:2:175,Cinetus alce,,Cinetus,,alce,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503201,,4503201
-B224:2:176,Cinetus fuscipes Kieffer,Kieffer,Cinetus,,fuscipes,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503185,,4503185
-B224:2:177,Cinetus licus,,Cinetus,,licus,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503188,,4503188
-B224:2:178,Cinetus excavatus Kieffer,Kieffer,Cinetus,,excavatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503173,,4503173
-B224:2:179,Cinetus tristis,,Cinetus,,tristis,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503218,,4503218
-B224:2:180,Cinetus dentatus Kieffer,Kieffer,Cinetus,,dentatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,8600419,,4503220
-B224:2:181,Cinetus piciventris Thomson,Thomson,Cinetus,,piciventris,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,,4503212,,4503212
-B224:2:182,Diphora Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Diphora,,Belytinae,,4407449,,4407449
-B224:2:183,Diphora westwoodi Förster,Förster,Diphora,,westwoodi,,species,,B224:2,accepted,,,B224:2:182,Diphora Förster,,,,,,Belytinae,Diphora,,Belytinae | Diphora,,4503025,,4503025
-B224:2:184,Diphora monticola Kieffer,Kieffer,Diphora,,monticola,,species,syn. n.,B224:2,synonym,B224:2:183,Diphora westwoodi Förster,,,,,,,,Belytinae,Diphora,,Belytinae | Diphora,,10432238,,4503025
-B224:2:185,Diphora nigriceps Kieffer,Kieffer,Diphora,,nigriceps,,species,syn. n.,B224:2,synonym,B224:2:183,Diphora westwoodi Förster,,,,,,,,Belytinae,Diphora,,Belytinae | Diphora,,11303465,,4503025
-B224:2:186,Diphora rufiventris Kieffer,Kieffer,Diphora,,rufiventris,,species,syn. n.,B224:2,synonym,B224:2:183,Diphora westwoodi Förster,,,,,,,,Belytinae,Diphora,,Belytinae | Diphora,,11249137,,4503025
-B224:2:187,Ismarus Haliday,Haliday,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Ismarus,,Belytinae,,3258922,,3258922
-B224:2:188,Ismarus dorsiger Curtis,Curtis,Ismarus,,dorsiger,,species,,B224:2,accepted,,,B224:2:187,Ismarus Haliday,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,,7571451,,7571451
-B224:2:189,Ismarus rugulosus Förster,Förster,Ismarus,,rugulosus,,species,,B224:2,accepted,,,B224:2:187,Ismarus Haliday,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,,7428347,,7428347
-B224:2:190,Ismarus flavicornis Thomson,Thomson,Ismarus,,flavicornis,,species,,B224:2,accepted,,,B224:2:187,Ismarus Haliday,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,,8203896,,8203896
-B224:2:191,Ismarus halidayi Förster,Förster,Ismarus,,halidayi,,species,,B224:2,accepted,,,B224:2:187,Ismarus Haliday,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,,8079867,,8079867
-B224:2:192,Leptorhaptus Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Leptorhaptus,,Belytinae,,4670100,,4670100
-B224:2:193,Leptorhaptus costalis Thomson,Thomson,Leptorhaptus,,costalis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,,,
-B224:2:194,Leptorhaptus macrocerus Kieffer,Kieffer,Leptorhaptus,,macrocerus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,,,
-B224:2:195,Leptorhaptus transiens,,Leptorhaptus,,transiens,,species,sp. n.,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502869,,4502868
-B224:2:196,Leptorhaptus docilis,,Leptorhaptus,,docilis,,species,sp. n.,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502884,,4502883
-B224:2:197,Leptorhaptus compressus Thomson,Thomson,Leptorhaptus,,compressus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,,,
-B224:2:198,Leptorhaptus petiolaris Thomson,Thomson,Leptorhaptus,,petiolaris,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,,,
-B224:2:199,Leptorhaptus fungorum Kieffer,Kieffer,Leptorhaptus,,fungorum,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502876,,4502875
-B224:2:200,Leptorhaptus perplexus Kieffer,Kieffer,Leptorhaptus,,perplexus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502932,,4502931
-B224:2:201,Leptorhaptus tenuicornis Kieffer,Kieffer,Leptorhaptus,,tenuicornis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502896,,4502895
-B224:2:202,Leptorhaptus abbreviatus Kieffer,Kieffer,Leptorhaptus,,abbreviatus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502914,,4502913
-B224:2:203,Leptorhaptus analis Kieffer,Kieffer,Leptorhaptus,,analis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502888,,4502881
-B224:2:204,Leptorhaptus flavidicornis Kieffer,Kieffer,Leptorhaptus,,flavidicornis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502890,,4502889
-B224:2:205,Leptorhaptus monilicornis Kieffer,Kieffer,Leptorhaptus,,monilicornis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502886,,4502885
-B224:2:206,Leptorhaptus myrmecophilus Kieffer,Kieffer,Leptorhaptus,,myrmecophilus,,species,syn. n.,B224:2,synonym,B224:2:205,Leptorhaptus monilicornis Kieffer,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,,,
-B224:2:207,Leptorhaptus brevicornis Kieffer,Kieffer,Leptorhaptus,,brevicornis,,species,syn. n.,B224:2,synonym,B224:2:205,Leptorhaptus monilicornis Kieffer,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,10274121,,4502885
-B224:2:208,Leptorhaptus atriceps Kieffer,Kieffer,Leptorhaptus,,atriceps,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502862,,4502861
-B224:2:209,Leptorhaptus politus Thomson,Thomson,Leptorhaptus,,politus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,,,
-B224:2:210,Leptorhaptus heterocerus Kieffer,Kieffer,Leptorhaptus,,heterocerus,,species,syn. n.,B224:2,synonym,B224:2:209,Leptorhaptus politus Thomson,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,,,
-B224:2:211,Leptorhaptus scutellaris Kieffer,Kieffer,Leptorhaptus,,scutellaris,,species,syn. n.,B224:2,synonym,B224:2:209,Leptorhaptus politus Thomson,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,,,
-B224:2:212,Leptorhaptus fulviventris Kieffer,Kieffer,Leptorhaptus,,fulviventris,,species,syn. n.,B224:2,synonym,B224:2:209,Leptorhaptus politus Thomson,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,,,
-B224:2:213,Leptorhaptus niger Kieffer,Kieffer,Leptorhaptus,,niger,,species,syn. n.,B224:2,synonym,B224:2:209,Leptorhaptus politus Thomson,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,,,
-B224:2:214,Leptorhaptus vacillans,,Leptorhaptus,,vacillans,,species,sp. n.,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502856,,4502855
-B224:2:215,Leptorhaptus incisus Kieffer,Kieffer,Leptorhaptus,,incisus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502894,,4502893
-B224:2:216,Leptorhaptus egregius Kieffer,Kieffer,Leptorhaptus,,egregius,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,,4502858,,4502857
-B224:2:217,Miota Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Miota,,Belytinae,,4408235,,4408235
-B224:2:218,Miota longiventris Kieffer,Kieffer,Miota,,longiventris,,species,,B224:2,accepted,,,B224:2:217,Miota Förster,,,,,,Belytinae,Miota,,Belytinae | Miota,,4503296,,4503295
-B224:2:219,Miota compressa Kieffer,Kieffer,Miota,,compressa,,species,,B224:2,accepted,,,B224:2:217,Miota Förster,,,,,,Belytinae,Miota,,Belytinae | Miota,,4502879,,4502879
-B224:2:220,Miota cebes,,Miota,,cebes,,species,sp. n.,B224:2,accepted,,,B224:2:217,Miota Förster,,,,,,Belytinae,Miota,,Belytinae | Miota,,4503233,,4503232
-B224:2:221,Miota longipetiolata Thomson,Thomson,Miota,,longipetiolata,,species,,B224:2,accepted,,,B224:2:217,Miota Förster,,,,,,Belytinae,Miota,,Belytinae | Miota,,,,
-B224:2:222,Opazon Haliday,Haliday,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Opazon,,Belytinae,,4503300,,4503300
-B224:2:223,Promeuselia Kieffer,Kieffer,,,,,genus,syn. n.,B224:2,synonym,B224:2:222,Opazon Haliday,,,,,,,,Belytinae,Promeuselia,,Belytinae,,4679084,,4679084
-B224:2:224,Opazon parvulus Haliday,Haliday,Opazon,,parvulus,,species,,B224:2,accepted,,,B224:2:222,Opazon Haliday,,,,,,Belytinae,Opazon,,Belytinae | Opazon,,4503303,,4503303
-B224:2:225,Opazon incrassatum Thomson in Kieffer,Thomson in Kieffer,Opazon,,incrassatum,,species,,B224:2,synonym,B224:2:224,Opazon parvulus Haliday,,,,,,,,Belytinae,Opazon,,Belytinae | Opazon,,4503306,,4503306
-B224:2:226,Opazon princeps,,Opazon,,princeps,,species,sp. n.,B224:2,accepted,,,B224:2:222,Opazon Haliday,,,,,,Belytinae,Opazon,,Belytinae | Opazon,,8507501,,4503305
-B224:2:227,Opazon clausa (Kieffer),(Kieffer),Opazon,,clausa,,species,comb. n.,B224:2,accepted,,,B224:2:222,Opazon Haliday,,,,,,Belytinae,Opazon,,Belytinae | Opazon,,,,
-B224:2:228,Promeuselia clausa Kieffer,Kieffer,Promeuselia,,clausa,,species,,B224:2,synonym,B224:2:227,Opazon clausa (Kieffer),,,,,,,,Belytinae,Opazon,,Belytinae | Opazon,,,,
-B224:2:229,Oxylabis Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Oxylabis,,Belytinae,,9133928,,9133928
-B224:2:230,Oxylabis tuberculata Kieffer,Kieffer,Oxylabis,,tuberculata,,species,,B224:2,accepted,,,B224:2:229,Oxylabis Förster,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,,4503240,,4503240
-B224:2:231,Oxylabis cameroni (Kieffer),(Kieffer),Oxylabis,,cameroni,,species,comb. n.,B224:2,accepted,,,B224:2:229,Oxylabis Förster,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,,8612442,,4503178
-B224:2:232,Oxylabis maculata Kieffer,Kieffer,Oxylabis,,maculata,,species,,B224:2,accepted,,,B224:2:229,Oxylabis Förster,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,,10432984,,4502938
-B224:2:233,Oxylabis punctulata Kieffer,Kieffer,Oxylabis,,punctulata,,species,syn. n.,B224:2,synonym,B224:2:232,Oxylabis maculata Kieffer,,,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,,11338846,,4502938
-B224:2:234,Oxylabis thomsoni Kieffer,Kieffer,Oxylabis,,thomsoni,,species,,B224:2,accepted,,,B224:2:229,Oxylabis Förster,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,,4502934,,4502933
-B224:2:235,Pamis,,,,,,genus,gen. n.,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Pamis,,Belytinae,,8860610,,8860610
-B224:2:236,Pamis ione,,Pamis,,ione,,species,sp. n.,B224:2,accepted,,,B224:2:235,Pamis,,,,,,Belytinae,Pamis,,Belytinae | Pamis,,4503589,,4503589
-B224:2:237,Pantoclis Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Pantoclis,,Belytinae,,4406533,,4406533
-B224:2:238,Pantoclis leviventris (Kieffer),(Kieffer),Pantoclis,,leviventris,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503548,,4503548
-B224:2:239,Oxylabis leviventris Kieffer,Kieffer,Oxylabis,,leviventris,,species,,B224:2,synonym,B224:2:238,Pantoclis leviventris (Kieffer),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503549,,4503548
-B224:2:240,Pantoclis ruralis,,Pantoclis,,ruralis,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503494,,4503494
-B224:2:241,Pantoclis obscuripes Kieffer,Kieffer,Pantoclis,,obscuripes,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503491,,4503491
-B224:2:242,Pantoclis mese,,Pantoclis,,mese,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503487,,4503487
-B224:2:243,Pantoclis gaudens,,Pantoclis,,gaudens,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503510,,4503510
-B224:2:244,Pantoclis eulimine,,Pantoclis,,eulimine,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503495,,4503495
-B224:2:245,Pantoclis dolon,,Pantoclis,,dolon,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503516,,4503516
-B224:2:246,Pantoclis subatricornis Kieffer,Kieffer,Pantoclis,,subatricornis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503518,,4503518
-B224:2:247,Pantoclis dives,,Pantoclis,,dives,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503524,,4503524
-B224:2:248,Pantoclis sulcata (Thomson),(Thomson),Pantoclis,,sulcata,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503507,,4503507
-B224:2:249,Pantoclis excavatus Kieffer,Kieffer,Pantoclis,,excavatus,,species,syn. n.,B224:2,synonym,B224:2:248,Pantoclis sulcata (Thomson),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,11294956,,4503507
-B224:2:250,Pantoclis brevicornis Kieffer,Kieffer,Pantoclis,,brevicornis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503521,,4503521
-B224:2:251,Pantoclis longipennis (Thomson),(Thomson),Pantoclis,,longipennis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503534,,4503534
-B224:2:252,Pantoclis macrotoma Kieffer,Kieffer,Pantoclis,,macrotoma,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503517,,4503517
-B224:2:253,Pantoclis carinata (Thomson),(Thomson),Pantoclis,,carinata,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503546,,4503546
-B224:2:254,Acropiesta carinata Thomson,Thomson,Acropiesta,,carinata,,species,,B224:2,synonym,B224:2:253,Pantoclis carinata (Thomson),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,,,
-B224:2:255,Pantoclis scotica (Kieffer),(Kieffer),Pantoclis,,scotica,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503550,,4503550
-B224:2:256,Aclista scotica Kieffer,Kieffer,Aclista,,scotica,,species,,B224:2,synonym,B224:2:255,Pantoclis scotica (Kieffer),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503551,,4503550
-B224:2:257,Pantoclis striola (Thomson),(Thomson),Pantoclis,,striola,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503526,,4503526
-B224:2:258,Acropiesta striola Thomson,Thomson,Acropiesta,,striola,,species,,B224:2,synonym,B224:2:257,Pantoclis striola (Thomson),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,,,
-B224:2:259,Pantoclis brevior (Kieffer),(Kieffer),Pantoclis,,brevior,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503512,,4503512
-B224:2:260,Acropiesta brevior Kieffer,Kieffer,Acropiesta,,brevior,,species,,B224:2,synonym,B224:2:259,Pantoclis brevior (Kieffer),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503513,,4503512
-B224:2:261,Pantoclis orodes,,Pantoclis,,orodes,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,,,
-B224:2:262,Pantoclis merope,,Pantoclis,,merope,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503496,,4503496
-B224:2:263,Pantoclis trisulcata Kieffer,Kieffer,Pantoclis,,trisulcata,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503488,,4503488
-B224:2:264,Pantoclis similis (Thomson),(Thomson),Pantoclis,,similis,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503536,,4503536
-B224:2:265,Acropiesta similis Thomson,Thomson,Acropiesta,,similis,,species,,B224:2,synonym,B224:2:264,Pantoclis similis (Thomson),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,,,
-B224:2:266,Pantoclis rufiventris Kieffer,Kieffer,Pantoclis,,rufiventris,,species,syn. n.,B224:2,synonym,B224:2:264,Pantoclis similis (Thomson),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,11257549,,4503536
-B224:2:267,Pantoclis hirtistilus Kieffer,Kieffer,Pantoclis,,hirtistilus,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503514,,4503514
-B224:2:268,Pantoclis magnicornis Kieffer,Kieffer,Pantoclis,,magnicornis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503506,,4503506
-B224:2:269,Pantoclis numen,,Pantoclis,,numen,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503511,,4503511
-B224:2:270,Pantoclis evanescens Kieffer,Kieffer,Pantoclis,,evanescens,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,,4503486,,4503486
-B224:2:271,Pantolyta Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Pantolyta,,Belytinae,,4406529,,4406529
-B224:2:272,Meuselia Kieffer,Kieffer,,,,,genus,syn. n.,B224:2,synonym,B224:2:271,Pantolyta Förster,,,,,,,,Belytinae,Meuselia,,Belytinae,,9462158,,4503300
-B224:2:273,Pantolyta fuscicornis (Kieffer),(Kieffer),Pantolyta,,fuscicornis,,species,comb. n.,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,10416963,,4503303
-B224:2:274,Meuselia fuscicornis Kieffer,Kieffer,Meuselia,,fuscicornis,,species,,B224:2,synonym,B224:2:273,Pantolyta fuscicornis (Kieffer),,,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,8544283,,4503303
-B224:2:275,Pantolyta anysis,,Pantolyta,,anysis,,species,sp. n.,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,8458262,,8458262
-B224:2:276,Pantolyta atrata (Förster),(Förster),Pantolyta,,atrata,,species,,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503292,,4503292
-B224:2:277,Pantolyta atrata Förster in Kieffer,Förster in Kieffer,Pantolyta,,atrata,,species,,B224:2,synonym,B224:2:276,Pantolyta atrata (Förster),,,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503292,,4503292
-B224:2:278,Pantolyta incerta (Kieffer),(Kieffer),Pantolyta,,incerta,,species,comb. n.,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,11174308,,11174308
-B224:2:279,Psiolmma incerta Kieffer,Kieffer,Psiolmma,,incerta,,species,,B224:2,synonym,B224:2:278,Pantolyta incerta (Kieffer),,,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,,,
-B224:2:280,Pantolyta vernalis,,Pantolyta,,vernalis,,species,sp. n.,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503286,,4503285
-B224:2:281,Pantolyta pallida Kieffer,Kieffer,Pantolyta,,pallida,,species,,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503282,,4503282
-B224:2:282,Pantolyta subtilis Kieffer,Kieffer,Pantolyta,,subtilis,,species,,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503283,,4503283
-B224:2:283,Pantolyta fuscipes Kieffer,Kieffer,Pantolyta,,fuscipes,,species,,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503288,,4503288
-B224:2:284,Pantolyta semirufa Kieffer,Kieffer,Pantolyta,,semirufa,,species,,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,,4503289,,4503289
-B224:2:285,Paroxylabis Kieffer,Kieffer,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Paroxylabis,,Belytinae,,4405004,,4405004
-B224:2:286,"Acanthomiota Janson, 1942","Janson, 1942",,,,,genus,,B224:2,synonym,B224:2:285,Paroxylabis Kieffer,,,,,,,,Belytinae,Acanthomiota,,Belytinae,,4677356,,4677356
-B224:2:287,Paroxylabis spinifer,,Paroxylabis,,spinifer,,species,sp. n.,B224:2,accepted,,,B224:2:285,Paroxylabis Kieffer,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,4503310,,4503310
-B224:2:288,Paroxylabis semirufa Kieffer,Kieffer,Paroxylabis,,semirufa,,species,,B224:2,accepted,,,B224:2:285,Paroxylabis Kieffer,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,4503308,,4503308
-B224:2:289,Acanthomiota oxylaboides Jansson,Jansson,Acanthomiota,,oxylaboides,,species,syn. n.,B224:2,synonym,B224:2:288,Paroxylabis semirufa Kieffer,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,,,
-B224:2:290,Paroxylabis fuscicornis Kieffer,Kieffer,Paroxylabis,,fuscicornis,,species,syn. n.,B224:2,synonym,B224:2:288,Paroxylabis semirufa Kieffer,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,11301120,,4503308
-B224:2:291,Xenotoma arcitenens Kieffer,Kieffer,Xenotoma,,arcitenens,,species,syn. n.,B224:2,synonym,B224:2:288,Paroxylabis semirufa Kieffer,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,9949782,,4503308
-B224:2:292,Xenotoma festiva Kieffer,Kieffer,Xenotoma,,festiva,,species,syn. n.,B224:2,synonym,B224:2:288,Paroxylabis semirufa Kieffer,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,,10589716,,4503308
-B224:2:293,Psilomma Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Psilomma,,Belytinae,,8620239,,8620239
-B224:2:294,Psilomma atriceps Kieffer,Kieffer,Psilomma,,atriceps,,species,,B224:2,accepted,,,B224:2:293,Psilomma Förster,,,,,,Belytinae,Psilomma,,Belytinae | Psilomma,,8514747,,4503315
-B224:2:295,Psilomma nigra Kieffer,Kieffer,Psilomma,,nigra,,species,,B224:2,accepted,,,B224:2:293,Psilomma Förster,,,,,,Belytinae,Psilomma,,Belytinae | Psilomma,,10071488,,4503314
-B224:2:296,Psilomma dubia Kieffer,Kieffer,Psilomma,,dubia,,species,,B224:2,accepted,,,B224:2:293,Psilomma Förster,,,,,,Belytinae,Psilomma,,Belytinae | Psilomma,,,,
-B224:2:297,Rhynchopsilus Kieffer,Kieffer,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Rhynchopsilus,,Belytinae,,4670522,,4670522
-B224:2:298,"Brunnicophilus Nixon, 1931","Nixon, 1931",,,,,genus,syn. n.,B224:2,synonym,B224:2:297,Rhynchopsilus Kieffer,,,,,,,,Belytinae,Brunnicophilus,,Belytinae,,4681347,,4681347
-B224:2:299,Rhynchopsilus donisthorpei (Nixon),(Nixon),Rhynchopsilus,,donisthorpei,,species,comb. n.,B224:2,accepted,,,B224:2:297,Rhynchopsilus Kieffer,,,,,,Belytinae,Rhynchopsilus,,Belytinae | Rhynchopsilus,,11219847,,11219847
-B224:2:300,"Brunnicophilus donisthorpei Nixon, 1931","Nixon, 1931",Brunnicophilus,,donisthorpei,,species,,B224:2,synonym,B224:2:299,Rhynchopsilus donisthorpei (Nixon),,,,,,,,Belytinae,Rhynchopsilus,,Belytinae | Rhynchopsilus,,,,
-B224:2:301,Rhynchopsilus apertus Kieffer,Kieffer,Rhynchopsilus,,apertus,,species,,B224:2,accepted,,,B224:2:297,Rhynchopsilus Kieffer,,,,,,Belytinae,Rhynchopsilus,,Belytinae | Rhynchopsilus,,10344431,,10344431
-B224:2:302,Synacra Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Synacra,,Belytinae,,4405955,,4405955
-B224:2:303,Synacra brevipennis Kieffer,Kieffer,Synacra,,brevipennis,,species,,B224:2,accepted,,,B224:2:302,Synacra Förster,,,,,,Belytinae,Synacra,,Belytinae | Synacra,,10695359,,10695359
-B224:2:304,Synacra brachialis Nees,Nees,Synacra,,brachialis,,species,,B224:2,accepted,,,B224:2:302,Synacra Förster,,,,,,Belytinae,Synacra,,Belytinae | Synacra,,4503653,,4503653
-B224:2:305,Synacra holconota Kieffer,Kieffer,Synacra,,holconota,,species,,B224:2,accepted,,,B224:2:302,Synacra Förster,,,,,,Belytinae,Synacra,,Belytinae | Synacra,,4503659,,4503659
-B224:2:306,Zygota Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Zygota,,Belytinae,,4502963,,4502963
-B224:2:307,Zygota hemiptera (Thomson),(Thomson),Zygota,,hemiptera,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502985,,4502985
-B224:2:308,Belyta nigriceps (Cameron),(Cameron),Belyta,,nigriceps,,species,in Kieffer syn. n.,B224:2,synonym,B224:2:307,Zygota hemiptera (Thomson),,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,,,
-B224:2:309,Zygota subaptera (Thomson),(Thomson),Zygota,,subaptera,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502998,,4502998
-B224:2:310,Aclista tenuicornis Kieffer,Kieffer,Aclista,,tenuicornis,,species,syn. n.,B224:2,synonym,B224:2:309,Zygota subaptera (Thomson),,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,9873524,,4502998
-B224:2:311,Zygota brevipennis (Kieffer),(Kieffer),Zygota,,brevipennis,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502993,,4502993
-B224:2:312,Zygota cursor (Kieffer),(Kieffer),Zygota,,cursor,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503002,,4503002
-B224:2:313,Zygota caecutiens (Kieffer),(Kieffer),Zygota,,caecutiens,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503017,,4503017
-B224:2:314,Zygota cilla,,Zygota,,cilla,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502978,,4502978
-B224:2:315,Zygota fuscata (Thomson),(Thomson),Zygota,,fuscata,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503004,,4503004
-B224:2:316,Aclista lasiorum Kieffer,Kieffer,Aclista,,lasiorum,,species,syn. n.,B224:2,synonym,B224:2:315,Zygota fuscata (Thomson),,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,,,
-B224:2:317,Zygota microtoma (Kieffer),(Kieffer),Zygota,,microtoma,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503006,,4503006
-B224:2:318,Zygota striata (Kieffer),(Kieffer),Zygota,,striata,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502977,,4502977
-B224:2:319,Zygota brevinervis (Kieffer),(Kieffer),Zygota,,brevinervis,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503013,,4503013
-B224:2:320,Zygota soluta (Kieffer),(Kieffer),Zygota,,soluta,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502991,,4502991
-B224:2:321,Pantoclis soluta Kieffer,Kieffer,Pantoclis,,soluta,,species,,B224:2,synonym,B224:2:320,Zygota soluta (Kieffer),,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502992,,4502991
-B224:2:322,Zygota fossulata (Thomson),(Thomson),Zygota,,fossulata,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502964,,4502964
-B224:2:323,Zygota claviscapa (Thomson),(Thomson),Zygota,,claviscapa,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503020,,4503020
-B224:2:324,Zygota praetor,,Zygota,,praetor,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503008,,4503008
-B224:2:325,Zygota croton,,Zygota,,croton,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503024,,4503024
-B224:2:326,Zygota ruficornis (Curtis),(Curtis),Zygota,,ruficornis,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503010,,4503010
-B224:2:327,Zygota sulciventris (Kieffer),(Kieffer),Zygota,,sulciventris,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502979,,4502979
-B224:2:328,Zygota loris,,Zygota,,loris,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,,,
-B224:2:329,Zygota norvegica (Kieffer),(Kieffer),Zygota,,norvegica,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,8479447,,4503010
-B224:2:330,Zygota breviuscula (Thomson),(Thomson),Zygota,,breviuscula,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502975,,4502975
-B224:2:331,Zygota macroneura (Kieffer),(Kieffer),Zygota,,macroneura,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502966,,4502968
-B224:2:332,Zygota nigra (Thomson),(Thomson),Zygota,,nigra,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502987,,4502987
-B224:2:333,Pantoclis cameroni Kieffer,Kieffer,Pantoclis,,cameroni,,species,syn. n.,B224:2,synonym,B224:2:332,Zygota nigra (Thomson),,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,,,
-B224:2:334,Zygota semirufa (Kieffer),(Kieffer),Zygota,,semirufa,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,10207968,,4502983
-B224:2:335,Zygota bensoni,,Zygota,,bensoni,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502973,,4502973
-B224:2:336,Zygota spinosipes (Kieffer),(Kieffer),Zygota,,spinosipes,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502995,,4502995
-B224:2:337,Zygota larides,,Zygota,,larides,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,8592739,,4502975
-B224:2:338,Zygota excisipes (Kieffer),(Kieffer),Zygota,,excisipes,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,10079796,,4502983
-B224:2:339,Zygota dentatipes (Kieffer),(Kieffer),Zygota,,dentatipes,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,8605013,,4503010
-B224:2:340,Zygota comes,,Zygota,,comes,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,7488123,,4503015
-B224:2:341,Zygota parallela (Thomson),(Thomson),Zygota,,parallela,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4502968,,4502968
-B224:2:342,Zygota vigil,,Zygota,,vigil,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,,4503001,,4503001
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B224:2:1,Belytinae,,,,,,subfamily,,B224:2,accepted,,,,,,,,,,Belytinae,,,,BELYTINAE,,,,
+B224:2:2,Acanosema Kieffer,Kieffer,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Acanosema,,Belytinae,Acanosema Kieffer,,9088733,,9088733
+B224:2:3,Cardiopsilus Kieffer,Kieffer,,,,,genus,syn. n.,B224:2,synonym,B224:2:2,Acanosema Kieffer,,,,,,,,Belytinae,Cardiopsilus,,Belytinae,Cardiopsilus Kieffer syn. n.,,9116737,,9116737
+B224:2:4,Acanosema clavata (Kieffer),(Kieffer),Acanosema,,clavata,,species,comb. n.,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,clavata (Kieffer) comb. n.,,9844211,,4503482
+B224:2:5,Acanopsilus clavatus Kieffer,Kieffer,Acanopsilus,,clavatus,,species,,B224:2,synonym,B224:2:4,Acanosema clavata (Kieffer),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,Acanopsilus clavatus Kieffer,,11156135,,11156135
+B224:2:6,Acanosema heterocera (Haliday),(Haliday),Acanosema,,heterocera,,species,comb. n.,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,heterocera (Haliday) comb. n.,,,,
+B224:2:7,Belita heterocera Haliday in Kieffer,Haliday in Kieffer,Belita,,heterocera,,species,,B224:2,synonym,B224:2:6,Acanosema heterocera (Haliday),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,Belita heterocera Haliday in Kieffer,,4503483,,4503482
+B224:2:8,Acanosema brevipenne Kieffer,Kieffer,Acanosema,,brevipenne,,species,,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,brevipenne Kieffer,,,,
+B224:2:9,Acanosema reitteri Kieffer,Kieffer,Acanosema,,reitteri,,species,,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,reitteri Kieffer,,11126760,,11126760
+B224:2:10,Acanosema nervosa (Thomson),(Thomson),Acanosema,,nervosa,,species,,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,nervosa (Thomson),,4503227,,4503227
+B224:2:11,Cinetus nervosus Thomson,Thomson,Cinetus,,nervosus,,species,,B224:2,synonym,B224:2:10,Acanosema nervosa (Thomson),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,Cinetus nervosus Thomson,,4503228,,4503227
+B224:2:12,Aclista microcera Kieffer,Kieffer,Aclista,,microcera,,species,syn. n.,B224:2,synonym,B224:2:10,Acanosema nervosa (Thomson),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,Aclista microcera Kieffer syn. n.,,,,
+B224:2:13,Cardiopsilus rufiventris Kieffer,Kieffer,Cardiopsilus,,rufiventris,,species,syn. n.,B224:2,synonym,B224:2:10,Acanosema nervosa (Thomson),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,Cardiopsilus rufiventris Kieffer syn. n.,,,,
+B224:2:14,Acanosema alpestre Kieffer,Kieffer,Acanosema,,alpestre,,species,,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,alpestre Kieffer,,10359689,,4503227
+B224:2:15,Acanosema flavipes (Kieffer),(Kieffer),Acanosema,,flavipes,,species,comb. n.,B224:2,accepted,,,B224:2:2,Acanosema Kieffer,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,flavipes (Kieffer) comb. n.,,11356108,,4502953
+B224:2:16,Psilomma flavipes Kieffer,Kieffer,Psilomma,,flavipes,,species,,B224:2,synonym,B224:2:15,Acanosema flavipes (Kieffer),,,,,,,,Belytinae,Acanosema,,Belytinae | Acanosema,Psilomma flavipes Kieffer,,,,
+B224:2:17,Aclista Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Aclista,,Belytinae,Aclista Förster,,4405710,,4405710
+B224:2:18,Xenotoma Kieffer,Kieffer,,,,,genus,,B224:2,synonym,B224:2:17,Aclista Förster,,,,,,,,Belytinae,Xenotoma,,Belytinae,Xenotoma Kieffer,,4670204,,4670204
+B224:2:19,Aclista insolita,,Aclista,,insolita,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,insolita sp. n.,,4502711,,4502711
+B224:2:20,Aclista angusta (Kieffer),(Kieffer),Aclista,,angusta,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,angusta (Kieffer) comb. n.,,4502801,,4502801
+B224:2:21,Anectata angusta Kieffer,Kieffer,Anectata,,angusta,,species,,B224:2,synonym,B224:2:20,Aclista angusta (Kieffer),,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,Anectata angusta Kieffer,,4502802,,4502801
+B224:2:22,Aclista neglecta (Kieffer),(Kieffer),Aclista,,neglecta,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,neglecta (Kieffer) comb. n.,,4502789,,4502789
+B224:2:23,Aclista szelenyii (Moczar),(Moczar),Aclista,,szelenyii,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,szelenyii (Moczar) comb. n.,,4502810,,4502810
+B224:2:24,Aclista bitensis (Kieffer),(Kieffer),Aclista,,bitensis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,bitensis (Kieffer) comb. n.,,4502734,,4502734
+B224:2:25,Anectata bitensis Kieffer,Kieffer,Anectata,,bitensis,,species,,B224:2,synonym,B224:2:24,Aclista bitensis (Kieffer),,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,Anectata bitensis Kieffer,,4502735,,4502734
+B224:2:26,Aclista soror (Kieffer),(Kieffer),Aclista,,soror,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,soror (Kieffer) comb. n.,,4502718,,4502718
+B224:2:27,Anectata soror Kieffer,Kieffer,Anectata,,soror,,species,,B224:2,synonym,B224:2:26,Aclista soror (Kieffer),,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,Anectata soror Kieffer,,4502719,,4502718
+B224:2:28,Aclista marshalli (Kieffer),(Kieffer),Aclista,,marshalli,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,marshalli (Kieffer) comb. n.,,4502749,,4502749
+B224:2:29,Aclista rufipes (Kieffer),(Kieffer),Aclista,,rufipes,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,rufipes (Kieffer) comb. n.,,4502757,,4502757
+B224:2:30,Xenotoma rufipes Kieffer,Kieffer,Xenotoma,,rufipes,,species,,B224:2,synonym,B224:2:29,Aclista rufipes (Kieffer),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,Xenotoma (Xenotoma) rufipes Kieffer,,4502758,,4502757
+B224:2:31,Aclista rufopetiolata (Nees),(Nees),Aclista,,rufopetiolata,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,rufopetiolata (Nees) comb. n.,,4502744,,4502744
+B224:2:32,Xenotoma pleuralis Kieffer,Kieffer,Xenotoma,,pleuralis,,species,syn. n.,B224:2,synonym,B224:2:31,Aclista rufopetiolata (Nees),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,Xenotoma (Xenotoma) pleuralis Kieffer syn. n.,,,,
+B224:2:33,Xenotoma versicolor subsp. versicolor Kieffer,Kieffer,Xenotoma,,versicolor,versicolor,subspecies,syn. n.,B224:2,synonym,B224:2:31,Aclista rufopetiolata (Nees),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,Xenotoma (Xenotoma) versicolor versicolor Kieffer syn. n.,,,,
+B224:2:34,Xenotoma castaneiventris Kieffer,Kieffer,Xenotoma,,castaneiventris,,species,syn. n.,B224:2,synonym,B224:2:31,Aclista rufopetiolata (Nees),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,Xenotoma (Xenotoma) castaneiventris Kieffer syn. n.,,,,
+B224:2:35,Aclista cantianus (Curtis),(Curtis),Aclista,,cantianus,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,cantianus (Curtis) comb. n.,,4502680,,4502680
+B224:2:36,Cinetus cantianus Curtis,Curtis,Cinetus,,cantianus,,species,,B224:2,synonym,B224:2:35,Aclista cantianus (Curtis),,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,Cinetus cantianus Curtis,,4502681,,4502680
+B224:2:37,Xenotoma nigrescens Kieffer,Kieffer,Xenotoma,,nigrescens,,species,syn. n.,B224:2,synonym,B224:2:35,Aclista cantianus (Curtis),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,Xenotoma (Xenotoma) nigrescens Kieffer syn. n.,,,,
+B224:2:38,Aclista evadne,,Aclista,,evadne,,species,nom. nov.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,evadne nom. nov.,,4502833,,4502833
+B224:2:39,"Xenotoma microtoma Kieffer,","Kieffer,",Xenotoma,,microtoma,,species,1909: 542 nec 1909: 453,B224:2,synonym,B224:2:38,Aclista evadne,,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,"Xenotoma (Zelotypa) microtoma Kieffer, 1909: 542 nec 1909: 453",,,,
+B224:2:40,Aclista praeclara,,Aclista,,praeclara,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,praeclara sp. n.,,4502837,,4502837
+B224:2:41,Aclista striolata (Thomson),(Thomson),Aclista,,striolata,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,striolata (Thomson) comb. n.,,9805036,,9805036
+B224:2:42,Xenotoma hamifera Kieffer,Kieffer,Xenotoma,,hamifera,,species,syn. n.,B224:2,synonym,B224:2:41,Aclista striolata (Thomson),,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,Xenotoma (Zelotypa) hamifera Kieffer syn. n.,,,,
+B224:2:43,Aclista elevata (Thomson),(Thomson),Aclista,,elevata,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,elevata (Thomson) comb. n.,,4502691,,4502691
+B224:2:44,Aclista janssoni,,Aclista,,janssoni,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,janssoni sp. n.,,4502700,,4502700
+B224:2:45,Aclista subfuscicornis (Kieffer),(Kieffer),Aclista,,subfuscicornis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,subfuscicornis (Kieffer) comb. n.,,11134434,,11134434
+B224:2:46,Aclista analis (Kieffer),(Kieffer),Aclista,,analis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,analis (Kieffer) comb. n.,,4502814,,4502814
+B224:2:47,Anectata analis Kieffer,Kieffer,Anectata,,analis,,species,,B224:2,synonym,B224:2:46,Aclista analis (Kieffer),,,,,,,,Belytinae,Aclista,,Belytinae | Aclista,Anectata analis Kieffer,,4502815,,4502814
+B224:2:48,Aclista folia,,Aclista,,folia,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,folia sp. n.,,4502728,,4502728
+B224:2:49,Aclista flavicornis (Kieffer),(Kieffer),Aclista,,flavicornis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,flavicornis (Kieffer) comb. n.,,4502767,,4502767
+B224:2:50,Aclista clito,,Aclista,,clito,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,clito sp. n.,,4502812,,4502812
+B224:2:51,Aclista pallida (Thomson),(Thomson),Aclista,,pallida,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,pallida (Thomson) comb. n.,,4502708,,4502708
+B224:2:52,Aclista prudens,,Aclista,,prudens,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,prudens sp. n.,,4502813,,4502813
+B224:2:53,Aclista boops (Thomson),(Thomson),Aclista,,boops,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,boops (Thomson) comb. n.,,4502720,,4502720
+B224:2:54,Aclista parvula (Kieffer),(Kieffer),Aclista,,parvula,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,parvula (Kieffer) comb. n.,,4502697,,4502697
+B224:2:55,Aclista haemorrhoidalis (Kieffer),(Kieffer),Aclista,,haemorrhoidalis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,haemorrhoidalis (Kieffer) comb. n.,,4502780,,4502780
+B224:2:56,Aclista lineare,,Aclista,,lineare,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,lineare sp. n.,,4502817,,4502817
+B224:2:57,Aclista acuta (Kieffer),(Kieffer),Aclista,,acuta,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,acuta (Kieffer) comb. n.,,4502683,,4502683
+B224:2:58,Xenotoma alticollis subsp. acuta Kieffer,Kieffer,Xenotoma,,alticollis,acuta,subspecies,,B224:2,synonym,B224:2:57,Aclista acuta (Kieffer),,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,Xenotoma (Zelotypa) alticollis acuta Kieffer,,,,
+B224:2:59,Aclista arisba,,Aclista,,arisba,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,arisba sp. n.,,4502788,,4502788
+B224:2:60,Aclista alticollis (Thomson),(Thomson),Aclista,,alticollis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,alticollis (Thomson) comb. n.,,4502838,,4502838
+B224:2:61,Xenotoma fallax subsp. fallax Kieffer,Kieffer,Xenotoma,,fallax,fallax,subspecies,syn. n.,B224:2,synonym,B224:2:60,Aclista alticollis (Thomson),,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,Xenotoma (Zelotypa) fallax fallax Kieffer syn. n.,,,,
+B224:2:62,Xenotoma nigra Kieffer,Kieffer,Xenotoma,,nigra,,species,syn. n.,B224:2,synonym,B224:2:60,Aclista alticollis (Thomson),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,Xenotoma (Xenotoma) nigra Kieffer syn. n.,,,,
+B224:2:63,Xenotoma cilipes Kieffer,Kieffer,Xenotoma,,cilipes,,species,syn. n.,B224:2,synonym,B224:2:60,Aclista alticollis (Thomson),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,Xenotoma (Xenotoma) cilipes Kieffer syn. n.,,,,
+B224:2:64,Aclista oxytoma Kieffer,Kieffer,Aclista,,oxytoma,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,oxytoma Kieffer comb. n.,,4502722,,4502722
+B224:2:65,Aclista tristis,,Aclista,,tristis,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,tristis sp. n.,,4502742,,4502742
+B224:2:66,Aclista dubia (Kieffer),(Kieffer),Aclista,,dubia,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,dubia (Kieffer) comb. n.,,4502716,,4502716
+B224:2:67,Aclista prolongata (Kieffer),(Kieffer),Aclista,,prolongata,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,prolongata (Kieffer) comb. n.,,4502825,,4502825
+B224:2:68,Aclista fractinervis (Kieffer),(Kieffer),Aclista,,fractinervis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,fractinervis (Kieffer) comb. n.,,4502701,,4502701
+B224:2:69,Aclista atriceps (Kieffer),(Kieffer),Aclista,,atriceps,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,atriceps (Kieffer) comb. n.,,4502759,,4502759
+B224:2:70,Aclista mycale,,Aclista,,mycale,,species,sp. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,mycale sp. n.,,4502828,,4502828
+B224:2:71,Aclista nigriceps (Kieffer),(Kieffer),Aclista,,nigriceps,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,nigriceps (Kieffer) comb. n.,,4502761,,4502761
+B224:2:72,Aclista filicornis (Kieffer),(Kieffer),Aclista,,filicornis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,filicornis (Kieffer) comb. n.,,9942921,,4502795
+B224:2:73,Xenotoma similis Kieffer,Kieffer,Xenotoma,,similis,,species,,B224:2,synonym,B224:2:72,Aclista filicornis (Kieffer),,,,,,,,Belytinae,Aclista,Xenotoma,Belytinae | Aclista,Xenotoma (Xenotoma) similis Kieffer,,,,
+B224:2:74,Aclista myles,,Aclista,,myles,,species,nom. nov.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,myles nom. nov.,,4502816,,4502816
+B224:2:75,Xenotoma fallax subsp. arcuata (Kieffer),(Kieffer),Xenotoma,,fallax,arcuata,subspecies,1909: 544 nec 1909: 349,B224:2,synonym,B224:2:74,Aclista myles,,,,,,,,Belytinae,Aclista,Zelotypa,Belytinae | Aclista,"Xenotoma (Zelotypa) fallax arcuata (Kieffer), 1909: 544 nec 1909: 349",,,,
+B224:2:76,Aclista subaequalis Kieffer,Kieffer,Aclista,,subaequalis,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,subaequalis Kieffer comb. n.,,4502822,,4502822
+B224:2:77,Aclista scutellaris (Thomson),(Thomson),Aclista,,scutellaris,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,scutellaris (Thomson) comb. n.,,4502732,,4502732
+B224:2:78,Aclista neglecta (Kieffer),(Kieffer),Aclista,,neglecta,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,neglecta (Kieffer) comb. n.,,4502789,,4502789
+B224:2:79,Aclista lugens (Kieffer),(Kieffer),Aclista,,lugens,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,lugens (Kieffer) comb. n.,,4502791,,4502791
+B224:2:80,Aclista fusciventris (Kieffer),(Kieffer),Aclista,,fusciventris,,species,comb. n.,B224:2,accepted,,,B224:2:17,Aclista Förster,,,,,,Belytinae,Aclista,,Belytinae | Aclista,fusciventris (Kieffer) comb. n.,,4502818,,4502818
+B224:2:81,Acropiesta Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Acropiesta,,Belytinae,Acropiesta Förster,,4405434,,4405434
+B224:2:82,Acropiesta sciarivora Kieffer,Kieffer,Acropiesta,,sciarivora,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,sciarivora Kieffer,,4502953,,4502953
+B224:2:83,Acropiesta flaviventris Thomson,Thomson,Acropiesta,,flaviventris,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,flaviventris Thomson,,4502944,,4502944
+B224:2:84,Xenotoma gracilicornis Kieffer,Kieffer,Xenotoma,,gracilicornis,,species,syn. n.,B224:2,synonym,B224:2:83,Acropiesta flaviventris Thomson,,,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,Xenotoma gracilicornis Kieffer syn. n.,,,,
+B224:2:85,Pantopiesta flaviventris Thomson,Thomson,Pantopiesta,,flaviventris,,species,,B224:2,synonym,B224:2:83,Acropiesta flaviventris Thomson,,,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,Pantopiesta flaviventris Thomson,,,,
+B224:2:86,Acropiesta flavipes Kieffer,Kieffer,Acropiesta,,flavipes,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,flavipes Kieffer,,8651567,,4502953
+B224:2:87,Acropiesta aptera Kieffer,Kieffer,Acropiesta,,aptera,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,aptera Kieffer,,11954908,,10742715
+B224:2:88,Acropiesta xanthura Kieffer,Kieffer,Acropiesta,,xanthura,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,xanthura Kieffer,,4502949,,4502949
+B224:2:89,Acropiesta rufiventris Kieffer,Kieffer,Acropiesta,,rufiventris,,species,,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,rufiventris Kieffer,,4502948,,4502948
+B224:2:90,Acropiesta sterope,,Acropiesta,,sterope,,species,sp. n.,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,sterope sp. n.,,10430644,,4502955
+B224:2:91,Acropiesta lysicies,,Acropiesta,,lysicies,,species,sp. n.,B224:2,accepted,,,B224:2:81,Acropiesta Förster,,,,,,Belytinae,Acropiesta,,Belytinae | Acropiesta,lysicies sp. n.,,10727373,,10727373
+B224:2:92,Anommatium Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Anommatium,,Belytinae,Anommatium Förster,,4407410,,4407410
+B224:2:93,Anommatium ashmeadi Mayr,Mayr,Anommatium,,ashmeadi,,species,,B224:2,accepted,,,B224:2:92,Anommatium Förster,,,,,,Belytinae,Anommatium,,Belytinae | Anommatium,ashmeadi Mayr,,4503255,,4503255
+B224:2:94,Aprestes,,,,,,genus,gen. n.,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Aprestes,,Belytinae,Aprestes gen. n.,,4406407,,4406407
+B224:2:95,Aprestes aberrans,,Aprestes,,aberrans,,species,sp. n.,B224:2,accepted,,,B224:2:94,Aprestes,,,,,,Belytinae,Aprestes,,Belytinae | Aprestes,aberrans sp. n.,,8447746,,4503484
+B224:2:96,Atelopsilus Kieffer,Kieffer,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Atelopsilus,,Belytinae,Atelopsilus Kieffer,,4677637,,4677637
+B224:2:97,Atelopsilus ciliatum (Thomson),(Thomson),Atelopsilus,,ciliatum,,species,comb. nov.,B224:2,accepted,,,B224:2:96,Atelopsilus Kieffer,,,,,,Belytinae,Atelopsilus,,Belytinae | Atelopsilus,ciliatum (Thomson) comb. nov.,,9921020,,4503848
+B224:2:98,Opazon ciliatum (Thomson),(Thomson),Opazon,,ciliatum,,species,in Kieffer,B224:2,synonym,B224:2:97,Atelopsilus ciliatum (Thomson),,,,,,,,Belytinae,Atelopsilus,,Belytinae | Atelopsilus,Opazon ciliatum (Thomson) in Kieffer,,,,
+B224:2:99,Atelopsilus borealis Petersen,Petersen,Atelopsilus,,borealis,,species,,B224:2,accepted,,,B224:2:96,Atelopsilus Kieffer,,,,,,Belytinae,Atelopsilus,,Belytinae | Atelopsilus,borealis Petersen,,4503850,,8185920
+B224:2:100,Belyta Jurine,Jurine,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Belyta,,Belytinae,Belyta Jurine,,9091893,,9091893
+B224:2:101,Belyta fuscipennis Thomson,Thomson,Belyta,,fuscipennis,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,fuscipennis Thomson,,4503259,,4503258
+B224:2:102,Belyta seron,,Belyta,,seron,,species,sp. n.,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,seron sp. n.,,4503357,,4503357
+B224:2:103,Belyta abrupta Thomson,Thomson,Belyta,,abrupta,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,abrupta Thomson,,4503366,,4503366
+B224:2:104,Belyta depressa Thomson,Thomson,Belyta,,depressa,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,depressa Thomson,,4503358,,4503358
+B224:2:105,Belyta depressa var. cursitans Kieffer,Kieffer,Belyta,,depressa,cursitans,variety,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,depressa var. cursitans Kieffer syn. n.,,10548718,,4503358
+B224:2:106,Belyta furcata Kieffer,Kieffer,Belyta,,furcata,,species,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,furcata Kieffer syn. n.,,11297279,,4503358
+B224:2:107,Belyta arietina Kieffer,Kieffer,Belyta,,arietina,,species,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,arietina Kieffer syn. n.,,11281140,,4503358
+B224:2:108,Belyta costalis subsp. costalis Kieffer,Kieffer,Belyta,,costalis,costalis,subspecies,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,costalis costalis Kieffer syn. n.,,,,
+B224:2:109,Belyta costalis subsp. obliterata Kieffer,Kieffer,Belyta,,costalis,obliterata,subspecies,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,costalis obliterata Kieffer syn. n.,,,,
+B224:2:110,Belyta modesta Kieffer,Kieffer,Belyta,,modesta,,species,syn. n.,B224:2,synonym,B224:2:104,Belyta depressa Thomson,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,modesta Kieffer syn. n.,,11324415,,4503358
+B224:2:111,Belyta lativentris Cameron,Cameron,Belyta,,lativentris,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,lativentris Cameron,,11137282,,11137282
+B224:2:112,Belyta moniliata Cameron,Cameron,Belyta,,moniliata,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,moniliata Cameron,,4503402,,4503402
+B224:2:113,Belyta pelias,,Belyta,,pelias,,species,sp. n.,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,pelias sp. n.,,4503371,,4503371
+B224:2:114,Belyta carinifrons (Kieffer),(Kieffer),Belyta,,carinifrons,,species,comb. n.,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,carinifrons (Kieffer) comb. n.,,4503372,,4503372
+B224:2:115,Paraclista carinifrons Kieffer,Kieffer,Paraclista,,carinifrons,,species,,B224:2,synonym,B224:2:114,Belyta carinifrons (Kieffer),,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,Paraclista carinifrons Kieffer,,4503373,,4503372
+B224:2:116,Belyta pedestris (Kieffer),(Kieffer),Belyta,,pedestris,,species,comb. n.,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,pedestris (Kieffer) comb. n.,,4503387,,4503358
+B224:2:117,Paraclista pedestris Kieffer,Kieffer,Paraclista,,pedestris,,species,,B224:2,synonym,B224:2:116,Belyta pedestris (Kieffer),,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,Paraclista pedestris Kieffer,,,,
+B224:2:118,Belyta tenuicornis Kieffer,Kieffer,Belyta,,tenuicornis,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,tenuicornis Kieffer,,11214130,,11214130
+B224:2:119,Belyta gaullei Kieffer,Kieffer,Belyta,,gaullei,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,gaullei Kieffer,,10624808,,10624808
+B224:2:120,Belyta quadridens Kieffer,Kieffer,Belyta,,quadridens,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,quadridens Kieffer,,8624013,,4503374
+B224:2:121,Belyta longistilus Kieffer,Kieffer,Belyta,,longistilus,,species,syn. n.,B224:2,synonym,B224:2:120,Belyta quadridens Kieffer,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,longistilus Kieffer syn. n.,,10286101,,4503374
+B224:2:122,Pantoclis atristilus Kieffer,Kieffer,Pantoclis,,atristilus,,species,syn. n.,B224:2,synonym,B224:2:120,Belyta quadridens Kieffer,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,Pantoclis atristilus Kieffer syn. n.,,,,
+B224:2:123,Belyta forticornis Cameron,Cameron,Belyta,,forticornis,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,forticornis Cameron,,8656240,,4503374
+B224:2:124,Belyta crassinervis Kieffer,Kieffer,Belyta,,crassinervis,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,crassinervis Kieffer syn. n.,,10397149,,4503374
+B224:2:125,Belyta crassinervis var. scotica Kieffer,Kieffer,Belyta,,crassinervis,scotica,variety,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,crassinervis var. scotica Kieffer syn. n.,,,,
+B224:2:126,Belyta marginalis Kieffer,Kieffer,Belyta,,marginalis,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,marginalis Kieffer syn. n.,,11280996,,4503374
+B224:2:127,Belyta mullensis Cameron,Cameron,Belyta,,mullensis,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,mullensis Cameron syn. n.,,11271133,,4503374
+B224:2:128,Belyta peraffinis Kieffer,Kieffer,Belyta,,peraffinis,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,peraffinis Kieffer syn. n.,,11324266,,4503374
+B224:2:129,Pantoclis arcuata Kieffer,Kieffer,Pantoclis,,arcuata,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,Pantoclis arcuata Kieffer syn. n.,,10588989,,4503374
+B224:2:130,Pantoclis arcuata subsp. festiva Kieffer,Kieffer,Pantoclis,,arcuata,festiva,subspecies,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,Pantoclis arcuata festiva Kieffer syn. n.,,10095019,,4503374
+B224:2:131,Pantoclis levistylus Kieffer,Kieffer,Pantoclis,,levistylus,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,Pantoclis levistylus Kieffer syn. n.,,10437449,,4503374
+B224:2:132,Xenotoma scotica Kieffer,Kieffer,Xenotoma,,scotica,,species,syn. n.,B224:2,synonym,B224:2:123,Belyta forticornis Cameron,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,Xenotoma scotica Kieffer syn. n.,,,,
+B224:2:133,Belyta rugosicollis Kieffer,Kieffer,Belyta,,rugosicollis,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,rugosicollis Kieffer,,4503389,,4503389
+B224:2:134,Belyta elegans Kieffer,Kieffer,Belyta,,elegans,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,elegans Kieffer,,4503395,,4503395
+B224:2:135,Belyta acuta Kieffer,Kieffer,Belyta,,acuta,,species,syn. n.,B224:2,synonym,B224:2:134,Belyta elegans Kieffer,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,acuta Kieffer syn. n.,,4503383,,4503383
+B224:2:136,Belyta norvegica Kieffer,Kieffer,Belyta,,norvegica,,species,syn. n.,B224:2,synonym,B224:2:134,Belyta elegans Kieffer,,,,,,,,Belytinae,Belyta,,Belytinae | Belyta,norvegica Kieffer syn. n.,,11369071,,4503395
+B224:2:137,Belyta validicornis Thomson,Thomson,Belyta,,validicornis,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,validicornis Thomson,,4503377,,4503377
+B224:2:138,Belyta lubrica Kieffer,Kieffer,Belyta,,lubrica,,species,,B224:2,accepted,,,B224:2:100,Belyta Jurine,,,,,,Belytinae,Belyta,,Belytinae | Belyta,lubrica Kieffer,,4503367,,4503367
+B224:2:139,Cinelaptus,,,,,,genus,gen. n.,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Cinelaptus,,Belytinae,Cinelaptus gen. n.,,4670825,,4670825
+B224:2:140,Cinelaptus fragilis,,Cinelaptus,,fragilis,,species,sp. n.,B224:2,accepted,,,B224:2:139,Cinelaptus,,,,,,Belytinae,Cinelaptus,,Belytinae | Cinelaptus,fragilis sp. n.,,4503555,,4503554
+B224:2:141,Cinetus Jurine,Jurine,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Cinetus,,Belytinae,Cinetus Jurine,,9172475,,9172475
+B224:2:142,Cinetus lanceolatus Thomson,Thomson,Cinetus,,lanceolatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,lanceolatus Thomson,,4503196,,4503196
+B224:2:143,Cinetus ilione,,Cinetus,,ilione,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,ilione sp. n.,,4503214,,4503214
+B224:2:144,Cinetus sequester,,Cinetus,,sequester,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,sequester sp. n.,,8150711,,8150711
+B224:2:145,Cinetus mermerus,,Cinetus,,mermerus,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,mermerus sp. n.,,4503208,,4503208
+B224:2:146,Cinetus elatior,,Cinetus,,elatior,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,elatior sp. n.,,4503190,,4503190
+B224:2:147,Cinetus procris,,Cinetus,,procris,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,procris sp. n.,,4503223,,4503223
+B224:2:148,Cinetus telon,,Cinetus,,telon,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,telon sp. n.,,4503172,,4503172
+B224:2:149,Cinetus fuliginosus Curtis,Curtis,Cinetus,,fuliginosus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,fuliginosus Curtis,,4503211,,4503211
+B224:2:150,Cinetus tenuicornis Thomson,Thomson,Cinetus,,tenuicornis,,species,syn. n.,B224:2,synonym,B224:2:149,Cinetus fuliginosus Curtis,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,tenuicornis Thomson syn. n.,,10510630,,4503211
+B224:2:151,Cinetus simulans,,Cinetus,,simulans,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,simulans sp. n.,,4503181,,4503181
+B224:2:152,Cinetus ariantes,,Cinetus,,ariantes,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,ariantes sp. n.,,4503213,,4503213
+B224:2:153,Cinetus iridipennis Lepeletier,Lepeletier,Cinetus,,iridipennis,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,iridipennis Lepeletier,,4503205,,4503205
+B224:2:154,Cinetus gracilis Curtis,Curtis,Cinetus,,gracilis,,species,syn. n.,B224:2,synonym,B224:2:153,Cinetus iridipennis Lepeletier,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,gracilis Curtis syn. n.,,11223463,,4503205
+B224:2:155,Cinetus gracilipes Curtis,Curtis,Cinetus,,gracilipes,,species,syn. n.,B224:2,synonym,B224:2:153,Cinetus iridipennis Lepeletier,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,gracilipes Curtis syn. n.,,11334767,,4503205
+B224:2:156,Cinetus filicornis Thomson,Thomson,Cinetus,,filicornis,,species,syn. n.,B224:2,synonym,B224:2:153,Cinetus iridipennis Lepeletier,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,filicornis Thomson syn. n.,,10417597,,4503205
+B224:2:157,Cinetus cameroni Kieffer,Kieffer,Cinetus,,cameroni,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,cameroni Kieffer,,4503178,,4503178
+B224:2:158,Cinetus iridipennis subsp. prolongata Kieffer,Kieffer,Cinetus,,iridipennis,prolongata,subspecies,syn. n.,B224:2,synonym,B224:2:157,Cinetus cameroni Kieffer,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,iridipennis prolongata Kieffer syn. n.,,,,
+B224:2:159,Cinetus atriceps (Kieffer),(Kieffer),Cinetus,,atriceps,,species,stat. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,atriceps (Kieffer) stat. n.,,4503204,,4503204
+B224:2:160,Cinetus iridipennis subsp. atriceps Kieffer,Kieffer,Cinetus,,iridipennis,atriceps,subspecies,,B224:2,synonym,B224:2:159,Cinetus atriceps (Kieffer),,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,iridipennis atriceps Kieffer,,,,
+B224:2:161,Cinetus angustatus Kieffer,Kieffer,Cinetus,,angustatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,angustatus Kieffer,,4503175,,4503175
+B224:2:162,Cinetus ennius,,Cinetus,,ennius,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,ennius sp. n.,,4503182,,4503182
+B224:2:163,Cinetus decipiens Kieffer,Kieffer,Cinetus,,decipiens,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,decipiens Kieffer,,4503207,,4503207
+B224:2:164,Cinetus lysis,,Cinetus,,lysis,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,lysis sp. n.,,4503171,,4503171
+B224:2:165,Cinetus gaus,,Cinetus,,gaus,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,gaus sp. n.,,4503176,,4503176
+B224:2:166,Cinetus proclea,,Cinetus,,proclea,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,proclea sp. n.,,4503177,,4503177
+B224:2:167,Cinetus princeps,,Cinetus,,princeps,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,princeps sp. n.,,4503194,,4503194
+B224:2:168,Cinetus piceus Thomson,Thomson,Cinetus,,piceus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,piceus Thomson,,4503220,,4503220
+B224:2:169,Cinetus strandi Kieffer,Kieffer,Cinetus,,strandi,,species,syn. n.,B224:2,synonym,B224:2:168,Cinetus piceus Thomson,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,strandi Kieffer syn. n.,,11330949,,4503220
+B224:2:170,Scorpioteleia rufa Kieffer,Kieffer,Scorpioteleia,,rufa,,species,syn. n.,B224:2,synonym,B224:2:168,Cinetus piceus Thomson,,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,Scorpioteleia rufa Kieffer syn. n.,,9856053,,4503220
+B224:2:171,Cinetus breipetiolatus Thomson,Thomson,Cinetus,,breipetiolatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,breipetiolatus Thomson,,4503187,,4503187
+B224:2:172,Cinetus lusitanica (Kieffer),(Kieffer),Cinetus,,lusitanica,,species,comb. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,lusitanica (Kieffer) comb. n.,,4503179,,4503179
+B224:2:173,Scorpioteleia lusitanica Kieffer,Kieffer,Scorpioteleia,,lusitanica,,species,,B224:2,synonym,B224:2:172,Cinetus lusitanica (Kieffer),,,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,Scorpioteleia lusitanica Kieffer,,,,
+B224:2:174,Cinetus aletes,,Cinetus,,aletes,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,aletes sp. n.,,4503192,,4503192
+B224:2:175,Cinetus alce,,Cinetus,,alce,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,alce sp. n.,,4503201,,4503201
+B224:2:176,Cinetus fuscipes Kieffer,Kieffer,Cinetus,,fuscipes,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,fuscipes Kieffer,,4503185,,4503185
+B224:2:177,Cinetus licus,,Cinetus,,licus,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,licus sp. n.,,4503188,,4503188
+B224:2:178,Cinetus excavatus Kieffer,Kieffer,Cinetus,,excavatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,excavatus Kieffer,,4503173,,4503173
+B224:2:179,Cinetus tristis,,Cinetus,,tristis,,species,sp. n.,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,tristis sp. n.,,4503218,,4503218
+B224:2:180,Cinetus dentatus Kieffer,Kieffer,Cinetus,,dentatus,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,dentatus Kieffer,,8600419,,4503220
+B224:2:181,Cinetus piciventris Thomson,Thomson,Cinetus,,piciventris,,species,,B224:2,accepted,,,B224:2:141,Cinetus Jurine,,,,,,Belytinae,Cinetus,,Belytinae | Cinetus,piciventris Thomson,,4503212,,4503212
+B224:2:182,Diphora Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Diphora,,Belytinae,Diphora Förster,,4407449,,4407449
+B224:2:183,Diphora westwoodi Förster,Förster,Diphora,,westwoodi,,species,,B224:2,accepted,,,B224:2:182,Diphora Förster,,,,,,Belytinae,Diphora,,Belytinae | Diphora,westwoodi Förster,,4503025,,4503025
+B224:2:184,Diphora monticola Kieffer,Kieffer,Diphora,,monticola,,species,syn. n.,B224:2,synonym,B224:2:183,Diphora westwoodi Förster,,,,,,,,Belytinae,Diphora,,Belytinae | Diphora,monticola Kieffer syn. n.,,10432238,,4503025
+B224:2:185,Diphora nigriceps Kieffer,Kieffer,Diphora,,nigriceps,,species,syn. n.,B224:2,synonym,B224:2:183,Diphora westwoodi Förster,,,,,,,,Belytinae,Diphora,,Belytinae | Diphora,nigriceps Kieffer syn. n.,,11303465,,4503025
+B224:2:186,Diphora rufiventris Kieffer,Kieffer,Diphora,,rufiventris,,species,syn. n.,B224:2,synonym,B224:2:183,Diphora westwoodi Förster,,,,,,,,Belytinae,Diphora,,Belytinae | Diphora,rufiventris Kieffer syn. n.,,11249137,,4503025
+B224:2:187,Ismarus Haliday,Haliday,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Ismarus,,Belytinae,Ismarus Haliday,,3258922,,3258922
+B224:2:188,Ismarus dorsiger Curtis,Curtis,Ismarus,,dorsiger,,species,,B224:2,accepted,,,B224:2:187,Ismarus Haliday,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,dorsiger Curtis,,7571451,,7571451
+B224:2:189,Ismarus rugulosus Förster,Förster,Ismarus,,rugulosus,,species,,B224:2,accepted,,,B224:2:187,Ismarus Haliday,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,rugulosus Förster,,7428347,,7428347
+B224:2:190,Ismarus flavicornis Thomson,Thomson,Ismarus,,flavicornis,,species,,B224:2,accepted,,,B224:2:187,Ismarus Haliday,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,flavicornis Thomson,,8203896,,8203896
+B224:2:191,Ismarus halidayi Förster,Förster,Ismarus,,halidayi,,species,,B224:2,accepted,,,B224:2:187,Ismarus Haliday,,,,,,Belytinae,Ismarus,,Belytinae | Ismarus,halidayi Förster,,8079867,,8079867
+B224:2:192,Leptorhaptus Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Leptorhaptus,,Belytinae,Leptorhaptus Förster,,4670100,,4670100
+B224:2:193,Leptorhaptus costalis Thomson,Thomson,Leptorhaptus,,costalis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,costalis Thomson,,,,
+B224:2:194,Leptorhaptus macrocerus Kieffer,Kieffer,Leptorhaptus,,macrocerus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,macrocerus Kieffer,,,,
+B224:2:195,Leptorhaptus transiens,,Leptorhaptus,,transiens,,species,sp. n.,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,transiens sp. n.,,4502869,,4502868
+B224:2:196,Leptorhaptus docilis,,Leptorhaptus,,docilis,,species,sp. n.,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,docilis sp. n.,,4502884,,4502883
+B224:2:197,Leptorhaptus compressus Thomson,Thomson,Leptorhaptus,,compressus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,compressus Thomson,,,,
+B224:2:198,Leptorhaptus petiolaris Thomson,Thomson,Leptorhaptus,,petiolaris,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,petiolaris Thomson,,,,
+B224:2:199,Leptorhaptus fungorum Kieffer,Kieffer,Leptorhaptus,,fungorum,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,fungorum Kieffer,,4502876,,4502875
+B224:2:200,Leptorhaptus perplexus Kieffer,Kieffer,Leptorhaptus,,perplexus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,perplexus Kieffer,,4502932,,4502931
+B224:2:201,Leptorhaptus tenuicornis Kieffer,Kieffer,Leptorhaptus,,tenuicornis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,tenuicornis Kieffer,,4502896,,4502895
+B224:2:202,Leptorhaptus abbreviatus Kieffer,Kieffer,Leptorhaptus,,abbreviatus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,abbreviatus Kieffer,,4502914,,4502913
+B224:2:203,Leptorhaptus analis Kieffer,Kieffer,Leptorhaptus,,analis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,analis Kieffer,,4502888,,4502881
+B224:2:204,Leptorhaptus flavidicornis Kieffer,Kieffer,Leptorhaptus,,flavidicornis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,flavidicornis Kieffer,,4502890,,4502889
+B224:2:205,Leptorhaptus monilicornis Kieffer,Kieffer,Leptorhaptus,,monilicornis,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,monilicornis Kieffer,,4502886,,4502885
+B224:2:206,Leptorhaptus myrmecophilus Kieffer,Kieffer,Leptorhaptus,,myrmecophilus,,species,syn. n.,B224:2,synonym,B224:2:205,Leptorhaptus monilicornis Kieffer,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,myrmecophilus Kieffer syn. n.,,,,
+B224:2:207,Leptorhaptus brevicornis Kieffer,Kieffer,Leptorhaptus,,brevicornis,,species,syn. n.,B224:2,synonym,B224:2:205,Leptorhaptus monilicornis Kieffer,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,brevicornis Kieffer syn. n.,,10274121,,4502885
+B224:2:208,Leptorhaptus atriceps Kieffer,Kieffer,Leptorhaptus,,atriceps,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,atriceps Kieffer,,4502862,,4502861
+B224:2:209,Leptorhaptus politus Thomson,Thomson,Leptorhaptus,,politus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,politus Thomson,,,,
+B224:2:210,Leptorhaptus heterocerus Kieffer,Kieffer,Leptorhaptus,,heterocerus,,species,syn. n.,B224:2,synonym,B224:2:209,Leptorhaptus politus Thomson,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,heterocerus Kieffer syn. n.,,,,
+B224:2:211,Leptorhaptus scutellaris Kieffer,Kieffer,Leptorhaptus,,scutellaris,,species,syn. n.,B224:2,synonym,B224:2:209,Leptorhaptus politus Thomson,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,scutellaris Kieffer syn. n.,,,,
+B224:2:212,Leptorhaptus fulviventris Kieffer,Kieffer,Leptorhaptus,,fulviventris,,species,syn. n.,B224:2,synonym,B224:2:209,Leptorhaptus politus Thomson,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,fulviventris Kieffer syn. n.,,,,
+B224:2:213,Leptorhaptus niger Kieffer,Kieffer,Leptorhaptus,,niger,,species,syn. n.,B224:2,synonym,B224:2:209,Leptorhaptus politus Thomson,,,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,niger Kieffer syn. n.,,,,
+B224:2:214,Leptorhaptus vacillans,,Leptorhaptus,,vacillans,,species,sp. n.,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,vacillans sp. n.,,4502856,,4502855
+B224:2:215,Leptorhaptus incisus Kieffer,Kieffer,Leptorhaptus,,incisus,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,incisus Kieffer,,4502894,,4502893
+B224:2:216,Leptorhaptus egregius Kieffer,Kieffer,Leptorhaptus,,egregius,,species,,B224:2,accepted,,,B224:2:192,Leptorhaptus Förster,,,,,,Belytinae,Leptorhaptus,,Belytinae | Leptorhaptus,egregius Kieffer,,4502858,,4502857
+B224:2:217,Miota Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Miota,,Belytinae,Miota Förster,,4408235,,4408235
+B224:2:218,Miota longiventris Kieffer,Kieffer,Miota,,longiventris,,species,,B224:2,accepted,,,B224:2:217,Miota Förster,,,,,,Belytinae,Miota,,Belytinae | Miota,longiventris Kieffer,,4503296,,4503295
+B224:2:219,Miota compressa Kieffer,Kieffer,Miota,,compressa,,species,,B224:2,accepted,,,B224:2:217,Miota Förster,,,,,,Belytinae,Miota,,Belytinae | Miota,compressa Kieffer,,4502879,,4502879
+B224:2:220,Miota cebes,,Miota,,cebes,,species,sp. n.,B224:2,accepted,,,B224:2:217,Miota Förster,,,,,,Belytinae,Miota,,Belytinae | Miota,cebes sp. n.,,4503233,,4503232
+B224:2:221,Miota longipetiolata Thomson,Thomson,Miota,,longipetiolata,,species,,B224:2,accepted,,,B224:2:217,Miota Förster,,,,,,Belytinae,Miota,,Belytinae | Miota,longipetiolata Thomson,,,,
+B224:2:222,Opazon Haliday,Haliday,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Opazon,,Belytinae,Opazon Haliday,,4503300,,4503300
+B224:2:223,Promeuselia Kieffer,Kieffer,,,,,genus,syn. n.,B224:2,synonym,B224:2:222,Opazon Haliday,,,,,,,,Belytinae,Promeuselia,,Belytinae,Promeuselia Kieffer syn. n.,,4679084,,4679084
+B224:2:224,Opazon parvulus Haliday,Haliday,Opazon,,parvulus,,species,,B224:2,accepted,,,B224:2:222,Opazon Haliday,,,,,,Belytinae,Opazon,,Belytinae | Opazon,parvulus Haliday,,4503303,,4503303
+B224:2:225,Opazon incrassatum Thomson in Kieffer,Thomson in Kieffer,Opazon,,incrassatum,,species,,B224:2,synonym,B224:2:224,Opazon parvulus Haliday,,,,,,,,Belytinae,Opazon,,Belytinae | Opazon,Opazon incrassatum Thomson in Kieffer,,4503306,,4503306
+B224:2:226,Opazon princeps,,Opazon,,princeps,,species,sp. n.,B224:2,accepted,,,B224:2:222,Opazon Haliday,,,,,,Belytinae,Opazon,,Belytinae | Opazon,princeps sp. n.,,8507501,,4503305
+B224:2:227,Opazon clausa (Kieffer),(Kieffer),Opazon,,clausa,,species,comb. n.,B224:2,accepted,,,B224:2:222,Opazon Haliday,,,,,,Belytinae,Opazon,,Belytinae | Opazon,clausa (Kieffer) comb. n.,,,,
+B224:2:228,Promeuselia clausa Kieffer,Kieffer,Promeuselia,,clausa,,species,,B224:2,synonym,B224:2:227,Opazon clausa (Kieffer),,,,,,,,Belytinae,Opazon,,Belytinae | Opazon,Promeuselia clausa Kieffer,,,,
+B224:2:229,Oxylabis Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Oxylabis,,Belytinae,Oxylabis Förster,,9133928,,9133928
+B224:2:230,Oxylabis tuberculata Kieffer,Kieffer,Oxylabis,,tuberculata,,species,,B224:2,accepted,,,B224:2:229,Oxylabis Förster,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,tuberculata Kieffer,,4503240,,4503240
+B224:2:231,Oxylabis cameroni (Kieffer),(Kieffer),Oxylabis,,cameroni,,species,comb. n.,B224:2,accepted,,,B224:2:229,Oxylabis Förster,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,cameroni (Kieffer) comb. n.,,8612442,,4503178
+B224:2:232,Oxylabis maculata Kieffer,Kieffer,Oxylabis,,maculata,,species,,B224:2,accepted,,,B224:2:229,Oxylabis Förster,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,maculata Kieffer,,10432984,,4502938
+B224:2:233,Oxylabis punctulata Kieffer,Kieffer,Oxylabis,,punctulata,,species,syn. n.,B224:2,synonym,B224:2:232,Oxylabis maculata Kieffer,,,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,Oxylabis punctulata Kieffer syn. n.,,11338846,,4502938
+B224:2:234,Oxylabis thomsoni Kieffer,Kieffer,Oxylabis,,thomsoni,,species,,B224:2,accepted,,,B224:2:229,Oxylabis Förster,,,,,,Belytinae,Oxylabis,,Belytinae | Oxylabis,thomsoni Kieffer,,4502934,,4502933
+B224:2:235,Pamis,,,,,,genus,gen. n.,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Pamis,,Belytinae,Pamis gen. n.,,8860610,,8860610
+B224:2:236,Pamis ione,,Pamis,,ione,,species,sp. n.,B224:2,accepted,,,B224:2:235,Pamis,,,,,,Belytinae,Pamis,,Belytinae | Pamis,ione sp. n.,,4503589,,4503589
+B224:2:237,Pantoclis Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Pantoclis,,Belytinae,Pantoclis Förster,,4406533,,4406533
+B224:2:238,Pantoclis leviventris (Kieffer),(Kieffer),Pantoclis,,leviventris,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,leviventris (Kieffer) comb. n.,,4503548,,4503548
+B224:2:239,Oxylabis leviventris Kieffer,Kieffer,Oxylabis,,leviventris,,species,,B224:2,synonym,B224:2:238,Pantoclis leviventris (Kieffer),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,Oxylabis leviventris Kieffer,,4503549,,4503548
+B224:2:240,Pantoclis ruralis,,Pantoclis,,ruralis,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,ruralis sp. n.,,4503494,,4503494
+B224:2:241,Pantoclis obscuripes Kieffer,Kieffer,Pantoclis,,obscuripes,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,obscuripes Kieffer,,4503491,,4503491
+B224:2:242,Pantoclis mese,,Pantoclis,,mese,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,mese sp. n.,,4503487,,4503487
+B224:2:243,Pantoclis gaudens,,Pantoclis,,gaudens,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,gaudens sp. n.,,4503510,,4503510
+B224:2:244,Pantoclis eulimine,,Pantoclis,,eulimine,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,eulimine sp. n.,,4503495,,4503495
+B224:2:245,Pantoclis dolon,,Pantoclis,,dolon,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,dolon sp. n.,,4503516,,4503516
+B224:2:246,Pantoclis subatricornis Kieffer,Kieffer,Pantoclis,,subatricornis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,subatricornis Kieffer,,4503518,,4503518
+B224:2:247,Pantoclis dives,,Pantoclis,,dives,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,dives sp. n.,,4503524,,4503524
+B224:2:248,Pantoclis sulcata (Thomson),(Thomson),Pantoclis,,sulcata,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,sulcata (Thomson),,4503507,,4503507
+B224:2:249,Pantoclis excavatus Kieffer,Kieffer,Pantoclis,,excavatus,,species,syn. n.,B224:2,synonym,B224:2:248,Pantoclis sulcata (Thomson),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,excavatus Kieffer syn. n.,,11294956,,4503507
+B224:2:250,Pantoclis brevicornis Kieffer,Kieffer,Pantoclis,,brevicornis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,brevicornis Kieffer,,4503521,,4503521
+B224:2:251,Pantoclis longipennis (Thomson),(Thomson),Pantoclis,,longipennis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,longipennis (Thomson),,4503534,,4503534
+B224:2:252,Pantoclis macrotoma Kieffer,Kieffer,Pantoclis,,macrotoma,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,macrotoma Kieffer,,4503517,,4503517
+B224:2:253,Pantoclis carinata (Thomson),(Thomson),Pantoclis,,carinata,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,carinata (Thomson) comb. n.,,4503546,,4503546
+B224:2:254,Acropiesta carinata Thomson,Thomson,Acropiesta,,carinata,,species,,B224:2,synonym,B224:2:253,Pantoclis carinata (Thomson),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,Acropiesta carinata Thomson,,,,
+B224:2:255,Pantoclis scotica (Kieffer),(Kieffer),Pantoclis,,scotica,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,scotica (Kieffer) comb. n.,,4503550,,4503550
+B224:2:256,Aclista scotica Kieffer,Kieffer,Aclista,,scotica,,species,,B224:2,synonym,B224:2:255,Pantoclis scotica (Kieffer),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,Aclista scotica Kieffer,,4503551,,4503550
+B224:2:257,Pantoclis striola (Thomson),(Thomson),Pantoclis,,striola,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,striola (Thomson) comb. n.,,4503526,,4503526
+B224:2:258,Acropiesta striola Thomson,Thomson,Acropiesta,,striola,,species,,B224:2,synonym,B224:2:257,Pantoclis striola (Thomson),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,Acropiesta striola Thomson,,,,
+B224:2:259,Pantoclis brevior (Kieffer),(Kieffer),Pantoclis,,brevior,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,brevior (Kieffer) comb. n.,,4503512,,4503512
+B224:2:260,Acropiesta brevior Kieffer,Kieffer,Acropiesta,,brevior,,species,,B224:2,synonym,B224:2:259,Pantoclis brevior (Kieffer),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,Acropiesta brevior Kieffer,,4503513,,4503512
+B224:2:261,Pantoclis orodes,,Pantoclis,,orodes,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,orodes sp. n.,,,,
+B224:2:262,Pantoclis merope,,Pantoclis,,merope,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,merope sp. n.,,4503496,,4503496
+B224:2:263,Pantoclis trisulcata Kieffer,Kieffer,Pantoclis,,trisulcata,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,trisulcata Kieffer,,4503488,,4503488
+B224:2:264,Pantoclis similis (Thomson),(Thomson),Pantoclis,,similis,,species,comb. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,similis (Thomson) comb. n.,,4503536,,4503536
+B224:2:265,Acropiesta similis Thomson,Thomson,Acropiesta,,similis,,species,,B224:2,synonym,B224:2:264,Pantoclis similis (Thomson),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,Acropiesta similis Thomson,,,,
+B224:2:266,Pantoclis rufiventris Kieffer,Kieffer,Pantoclis,,rufiventris,,species,syn. n.,B224:2,synonym,B224:2:264,Pantoclis similis (Thomson),,,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,Pantoclis rufiventris Kieffer syn. n.,,11257549,,4503536
+B224:2:267,Pantoclis hirtistilus Kieffer,Kieffer,Pantoclis,,hirtistilus,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,hirtistilus Kieffer,,4503514,,4503514
+B224:2:268,Pantoclis magnicornis Kieffer,Kieffer,Pantoclis,,magnicornis,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,magnicornis Kieffer,,4503506,,4503506
+B224:2:269,Pantoclis numen,,Pantoclis,,numen,,species,sp. n.,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,numen sp. n.,,4503511,,4503511
+B224:2:270,Pantoclis evanescens Kieffer,Kieffer,Pantoclis,,evanescens,,species,,B224:2,accepted,,,B224:2:237,Pantoclis Förster,,,,,,Belytinae,Pantoclis,,Belytinae | Pantoclis,evanescens Kieffer,,4503486,,4503486
+B224:2:271,Pantolyta Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Pantolyta,,Belytinae,Pantolyta Förster,,4406529,,4406529
+B224:2:272,Meuselia Kieffer,Kieffer,,,,,genus,syn. n.,B224:2,synonym,B224:2:271,Pantolyta Förster,,,,,,,,Belytinae,Meuselia,,Belytinae,Meuselia Kieffer syn. n.,,9462158,,4503300
+B224:2:273,Pantolyta fuscicornis (Kieffer),(Kieffer),Pantolyta,,fuscicornis,,species,comb. n.,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,fuscicornis (Kieffer) comb. n.,,10416963,,4503303
+B224:2:274,Meuselia fuscicornis Kieffer,Kieffer,Meuselia,,fuscicornis,,species,,B224:2,synonym,B224:2:273,Pantolyta fuscicornis (Kieffer),,,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,Meuselia fuscicornis Kieffer,,8544283,,4503303
+B224:2:275,Pantolyta anysis,,Pantolyta,,anysis,,species,sp. n.,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,anysis sp. n.,,8458262,,8458262
+B224:2:276,Pantolyta atrata (Förster),(Förster),Pantolyta,,atrata,,species,,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,atrata (Förster),,4503292,,4503292
+B224:2:277,Pantolyta atrata Förster in Kieffer,Förster in Kieffer,Pantolyta,,atrata,,species,,B224:2,synonym,B224:2:276,Pantolyta atrata (Förster),,,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,Pantolyta atrata Förster in Kieffer,,4503292,,4503292
+B224:2:278,Pantolyta incerta (Kieffer),(Kieffer),Pantolyta,,incerta,,species,comb. n.,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,incerta (Kieffer) comb. n.,,11174308,,11174308
+B224:2:279,Psiolmma incerta Kieffer,Kieffer,Psiolmma,,incerta,,species,,B224:2,synonym,B224:2:278,Pantolyta incerta (Kieffer),,,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,Psiolmma incerta Kieffer,,,,
+B224:2:280,Pantolyta vernalis,,Pantolyta,,vernalis,,species,sp. n.,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,vernalis sp. n.,,4503286,,4503285
+B224:2:281,Pantolyta pallida Kieffer,Kieffer,Pantolyta,,pallida,,species,,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,pallida Kieffer,,4503282,,4503282
+B224:2:282,Pantolyta subtilis Kieffer,Kieffer,Pantolyta,,subtilis,,species,,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,subtilis Kieffer,,4503283,,4503283
+B224:2:283,Pantolyta fuscipes Kieffer,Kieffer,Pantolyta,,fuscipes,,species,,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,fuscipes Kieffer,,4503288,,4503288
+B224:2:284,Pantolyta semirufa Kieffer,Kieffer,Pantolyta,,semirufa,,species,,B224:2,accepted,,,B224:2:271,Pantolyta Förster,,,,,,Belytinae,Pantolyta,,Belytinae | Pantolyta,semirufa Kieffer,,4503289,,4503289
+B224:2:285,Paroxylabis Kieffer,Kieffer,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Paroxylabis,,Belytinae,Paroxylabis Kieffer,,4405004,,4405004
+B224:2:286,"Acanthomiota Janson, 1942","Janson, 1942",,,,,genus,,B224:2,synonym,B224:2:285,Paroxylabis Kieffer,,,,,,,,Belytinae,Acanthomiota,,Belytinae,"Acanthomiota Janson, 1942",,4677356,,4677356
+B224:2:287,Paroxylabis spinifer,,Paroxylabis,,spinifer,,species,sp. n.,B224:2,accepted,,,B224:2:285,Paroxylabis Kieffer,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,spinifer sp. n.,,4503310,,4503310
+B224:2:288,Paroxylabis semirufa Kieffer,Kieffer,Paroxylabis,,semirufa,,species,,B224:2,accepted,,,B224:2:285,Paroxylabis Kieffer,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,semirufa Kieffer,,4503308,,4503308
+B224:2:289,Acanthomiota oxylaboides Jansson,Jansson,Acanthomiota,,oxylaboides,,species,syn. n.,B224:2,synonym,B224:2:288,Paroxylabis semirufa Kieffer,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,Acanthomiota oxylaboides Jansson syn. n.,,,,
+B224:2:290,Paroxylabis fuscicornis Kieffer,Kieffer,Paroxylabis,,fuscicornis,,species,syn. n.,B224:2,synonym,B224:2:288,Paroxylabis semirufa Kieffer,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,fuscicornis Kieffer syn. n.,,11301120,,4503308
+B224:2:291,Xenotoma arcitenens Kieffer,Kieffer,Xenotoma,,arcitenens,,species,syn. n.,B224:2,synonym,B224:2:288,Paroxylabis semirufa Kieffer,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,Xenotoma arcitenens Kieffer syn. n.,,9949782,,4503308
+B224:2:292,Xenotoma festiva Kieffer,Kieffer,Xenotoma,,festiva,,species,syn. n.,B224:2,synonym,B224:2:288,Paroxylabis semirufa Kieffer,,,,,,,,Belytinae,Paroxylabis,,Belytinae | Paroxylabis,Xenotoma festiva Kieffer syn. n.,,10589716,,4503308
+B224:2:293,Psilomma Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Psilomma,,Belytinae,Psilomma Förster,,8620239,,8620239
+B224:2:294,Psilomma atriceps Kieffer,Kieffer,Psilomma,,atriceps,,species,,B224:2,accepted,,,B224:2:293,Psilomma Förster,,,,,,Belytinae,Psilomma,,Belytinae | Psilomma,atriceps Kieffer,,8514747,,4503315
+B224:2:295,Psilomma nigra Kieffer,Kieffer,Psilomma,,nigra,,species,,B224:2,accepted,,,B224:2:293,Psilomma Förster,,,,,,Belytinae,Psilomma,,Belytinae | Psilomma,nigra Kieffer,,10071488,,4503314
+B224:2:296,Psilomma dubia Kieffer,Kieffer,Psilomma,,dubia,,species,,B224:2,accepted,,,B224:2:293,Psilomma Förster,,,,,,Belytinae,Psilomma,,Belytinae | Psilomma,dubia Kieffer,,,,
+B224:2:297,Rhynchopsilus Kieffer,Kieffer,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Rhynchopsilus,,Belytinae,Rhynchopsilus Kieffer,,4670522,,4670522
+B224:2:298,"Brunnicophilus Nixon, 1931","Nixon, 1931",,,,,genus,syn. n.,B224:2,synonym,B224:2:297,Rhynchopsilus Kieffer,,,,,,,,Belytinae,Brunnicophilus,,Belytinae,"Brunnicophilus Nixon, 1931 syn. n.",,4681347,,4681347
+B224:2:299,Rhynchopsilus donisthorpei (Nixon),(Nixon),Rhynchopsilus,,donisthorpei,,species,comb. n.,B224:2,accepted,,,B224:2:297,Rhynchopsilus Kieffer,,,,,,Belytinae,Rhynchopsilus,,Belytinae | Rhynchopsilus,donisthorpei (Nixon) comb. n.,,11219847,,11219847
+B224:2:300,"Brunnicophilus donisthorpei Nixon, 1931","Nixon, 1931",Brunnicophilus,,donisthorpei,,species,,B224:2,synonym,B224:2:299,Rhynchopsilus donisthorpei (Nixon),,,,,,,,Belytinae,Rhynchopsilus,,Belytinae | Rhynchopsilus,"Brunnicophilus donisthorpei Nixon, 1931",,,,
+B224:2:301,Rhynchopsilus apertus Kieffer,Kieffer,Rhynchopsilus,,apertus,,species,,B224:2,accepted,,,B224:2:297,Rhynchopsilus Kieffer,,,,,,Belytinae,Rhynchopsilus,,Belytinae | Rhynchopsilus,apertus Kieffer,,10344431,,10344431
+B224:2:302,Synacra Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Synacra,,Belytinae,Synacra Förster,,4405955,,4405955
+B224:2:303,Synacra brevipennis Kieffer,Kieffer,Synacra,,brevipennis,,species,,B224:2,accepted,,,B224:2:302,Synacra Förster,,,,,,Belytinae,Synacra,,Belytinae | Synacra,brevipennis Kieffer,,10695359,,10695359
+B224:2:304,Synacra brachialis Nees,Nees,Synacra,,brachialis,,species,,B224:2,accepted,,,B224:2:302,Synacra Förster,,,,,,Belytinae,Synacra,,Belytinae | Synacra,brachialis Nees,,4503653,,4503653
+B224:2:305,Synacra holconota Kieffer,Kieffer,Synacra,,holconota,,species,,B224:2,accepted,,,B224:2:302,Synacra Förster,,,,,,Belytinae,Synacra,,Belytinae | Synacra,holconota Kieffer,,4503659,,4503659
+B224:2:306,Zygota Förster,Förster,,,,,genus,,B224:2,accepted,,,B224:2:1,Belytinae,,,,,,Belytinae,Zygota,,Belytinae,Zygota Förster,,4502963,,4502963
+B224:2:307,Zygota hemiptera (Thomson),(Thomson),Zygota,,hemiptera,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,hemiptera (Thomson) comb. n.,,4502985,,4502985
+B224:2:308,Belyta nigriceps (Cameron),(Cameron),Belyta,,nigriceps,,species,in Kieffer syn. n.,B224:2,synonym,B224:2:307,Zygota hemiptera (Thomson),,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,Belyta nigriceps (Cameron) in Kieffer syn. n.,,,,
+B224:2:309,Zygota subaptera (Thomson),(Thomson),Zygota,,subaptera,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,subaptera (Thomson) comb. n.,,4502998,,4502998
+B224:2:310,Aclista tenuicornis Kieffer,Kieffer,Aclista,,tenuicornis,,species,syn. n.,B224:2,synonym,B224:2:309,Zygota subaptera (Thomson),,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,Aclista tenuicornis Kieffer syn. n.,,9873524,,4502998
+B224:2:311,Zygota brevipennis (Kieffer),(Kieffer),Zygota,,brevipennis,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,brevipennis (Kieffer) comb. n.,,4502993,,4502993
+B224:2:312,Zygota cursor (Kieffer),(Kieffer),Zygota,,cursor,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,cursor (Kieffer) comb. n.,,4503002,,4503002
+B224:2:313,Zygota caecutiens (Kieffer),(Kieffer),Zygota,,caecutiens,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,caecutiens (Kieffer) comb. n.,,4503017,,4503017
+B224:2:314,Zygota cilla,,Zygota,,cilla,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,cilla sp. n.,,4502978,,4502978
+B224:2:315,Zygota fuscata (Thomson),(Thomson),Zygota,,fuscata,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,fuscata (Thomson) comb. n.,,4503004,,4503004
+B224:2:316,Aclista lasiorum Kieffer,Kieffer,Aclista,,lasiorum,,species,syn. n.,B224:2,synonym,B224:2:315,Zygota fuscata (Thomson),,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,Aclista lasiorum Kieffer syn. n.,,,,
+B224:2:317,Zygota microtoma (Kieffer),(Kieffer),Zygota,,microtoma,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,microtoma (Kieffer) comb. n.,,4503006,,4503006
+B224:2:318,Zygota striata (Kieffer),(Kieffer),Zygota,,striata,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,striata (Kieffer) comb. n.,,4502977,,4502977
+B224:2:319,Zygota brevinervis (Kieffer),(Kieffer),Zygota,,brevinervis,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,brevinervis (Kieffer) comb. n.,,4503013,,4503013
+B224:2:320,Zygota soluta (Kieffer),(Kieffer),Zygota,,soluta,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,soluta (Kieffer) comb. n.,,4502991,,4502991
+B224:2:321,Pantoclis soluta Kieffer,Kieffer,Pantoclis,,soluta,,species,,B224:2,synonym,B224:2:320,Zygota soluta (Kieffer),,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,Pantoclis soluta Kieffer,,4502992,,4502991
+B224:2:322,Zygota fossulata (Thomson),(Thomson),Zygota,,fossulata,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,fossulata (Thomson) comb. n.,,4502964,,4502964
+B224:2:323,Zygota claviscapa (Thomson),(Thomson),Zygota,,claviscapa,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,claviscapa (Thomson) comb. n.,,4503020,,4503020
+B224:2:324,Zygota praetor,,Zygota,,praetor,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,praetor sp. n.,,4503008,,4503008
+B224:2:325,Zygota croton,,Zygota,,croton,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,croton sp. n.,,4503024,,4503024
+B224:2:326,Zygota ruficornis (Curtis),(Curtis),Zygota,,ruficornis,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,ruficornis (Curtis) comb. n.,,4503010,,4503010
+B224:2:327,Zygota sulciventris (Kieffer),(Kieffer),Zygota,,sulciventris,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,sulciventris (Kieffer) comb. n.,,4502979,,4502979
+B224:2:328,Zygota loris,,Zygota,,loris,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,loris sp. n.,,,,
+B224:2:329,Zygota norvegica (Kieffer),(Kieffer),Zygota,,norvegica,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,norvegica (Kieffer) comb. n.,,8479447,,4503010
+B224:2:330,Zygota breviuscula (Thomson),(Thomson),Zygota,,breviuscula,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,breviuscula (Thomson) comb. n.,,4502975,,4502975
+B224:2:331,Zygota macroneura (Kieffer),(Kieffer),Zygota,,macroneura,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,macroneura (Kieffer) comb. n.,,4502966,,4502968
+B224:2:332,Zygota nigra (Thomson),(Thomson),Zygota,,nigra,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,nigra (Thomson) comb. n.,,4502987,,4502987
+B224:2:333,Pantoclis cameroni Kieffer,Kieffer,Pantoclis,,cameroni,,species,syn. n.,B224:2,synonym,B224:2:332,Zygota nigra (Thomson),,,,,,,,Belytinae,Zygota,,Belytinae | Zygota,Pantoclis cameroni Kieffer syn. n.,,,,
+B224:2:334,Zygota semirufa (Kieffer),(Kieffer),Zygota,,semirufa,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,semirufa (Kieffer) comb. n.,,10207968,,4502983
+B224:2:335,Zygota bensoni,,Zygota,,bensoni,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,bensoni sp. n.,,4502973,,4502973
+B224:2:336,Zygota spinosipes (Kieffer),(Kieffer),Zygota,,spinosipes,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,spinosipes (Kieffer) comb. n.,,4502995,,4502995
+B224:2:337,Zygota larides,,Zygota,,larides,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,larides sp. n.,,8592739,,4502975
+B224:2:338,Zygota excisipes (Kieffer),(Kieffer),Zygota,,excisipes,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,excisipes (Kieffer) comb. n.,,10079796,,4502983
+B224:2:339,Zygota dentatipes (Kieffer),(Kieffer),Zygota,,dentatipes,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,dentatipes (Kieffer) comb. n.,,8605013,,4503010
+B224:2:340,Zygota comes,,Zygota,,comes,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,comes sp. n.,,7488123,,4503015
+B224:2:341,Zygota parallela (Thomson),(Thomson),Zygota,,parallela,,species,comb. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,parallela (Thomson) comb. n.,,4502968,,4502968
+B224:2:342,Zygota vigil,,Zygota,,vigil,,species,sp. n.,B224:2,accepted,,,B224:2:306,Zygota Förster,,,,,,Belytinae,Zygota,,Belytinae | Zygota,vigil sp. n.,,4503001,,4503001

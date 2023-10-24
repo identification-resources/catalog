@@ -1,6 +1,6 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B446:1:1,Hedychrum Latr.,Latr.,,,,,genus,,B446:1,accepted,,,,,,,,,,,Hedychrum,,,,4494164,,4494164
-B446:1:2,Hedychrum rutilans Dahlbom,Dahlbom,Hedychrum,,rutilans,,species,,B446:1,accepted,,,B446:1:1,Hedychrum Latr.,,,,,,,Hedychrum,,Hedychrum,,4494169,,4494169
-B446:1:3,Hedychrum rutilans f. micans Trautmann,Trautmann,Hedychrum,,rutilans,micans,form,,B446:1,accepted,,,B446:1:2,Hedychrum rutilans Dahlbom,,,,,,,Hedychrum,,Hedychrum | Hedychrum rutilans,,,,
-B446:1:4,Hedychrum gerstaeckeri Chevrier,Chevrier,Hedychrum,,gerstaeckeri,,species,,B446:1,accepted,,,B446:1:1,Hedychrum Latr.,,,,,,,Hedychrum,,Hedychrum,,4494185,,4494185
-B446:1:5,Hedychrum nobile Scopoli,Scopoli,Hedychrum,,nobile,,species,,B446:1,accepted,,,B446:1:1,Hedychrum Latr.,,,,,,,Hedychrum,,Hedychrum,,4494165,,4494165
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B446:1:1,Hedychrum Latr.,Latr.,,,,,genus,,B446:1,accepted,,,,,,,,,,,Hedychrum,,,Hedychrum Latr.,,4494164,,4494164
+B446:1:2,Hedychrum rutilans Dahlbom,Dahlbom,Hedychrum,,rutilans,,species,,B446:1,accepted,,,B446:1:1,Hedychrum Latr.,,,,,,,Hedychrum,,Hedychrum,rutilans Dahlbom,,4494169,,4494169
+B446:1:3,Hedychrum rutilans f. micans Trautmann,Trautmann,Hedychrum,,rutilans,micans,form,,B446:1,accepted,,,B446:1:2,Hedychrum rutilans Dahlbom,,,,,,,Hedychrum,,Hedychrum | Hedychrum rutilans,rutilans f. micans Trautmann,,,,
+B446:1:4,Hedychrum gerstaeckeri Chevrier,Chevrier,Hedychrum,,gerstaeckeri,,species,,B446:1,accepted,,,B446:1:1,Hedychrum Latr.,,,,,,,Hedychrum,,Hedychrum,gerstaeckeri Chevrier,,4494185,,4494185
+B446:1:5,Hedychrum nobile Scopoli,Scopoli,Hedychrum,,nobile,,species,,B446:1,accepted,,,B446:1:1,Hedychrum Latr.,,,,,,,Hedychrum,,Hedychrum,nobile Scopoli,,4494165,,4494165

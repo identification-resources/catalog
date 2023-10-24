@@ -1,9 +1,9 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B450:1:1,Chrysis,,,,,,genus,,B450:1,accepted,,,,,,,,,,,Chrysis,,,5T7SW,10501569,62TKF,10501569
-B450:1:2,Chrysis,,,,,,subgenus,,B450:1,accepted,,,B450:1:1,Chrysis,,,,,,,Chrysis,Chrysis,Chrysis,5T7SW,,62TKF,
-B450:1:3,Chrysis fulgida,,Chrysis,,fulgida,,species,,B450:1,accepted,,,B450:1:2,Chrysis,,,,,,,Chrysis,Chrysis,Chrysis | Chrysis,,5870020,,5870020
-B450:1:4,"Chrysis fulgida subsp. immaculata Buysson, 1898","Buysson, 1898",Chrysis,,fulgida,immaculata,subspecies,f. n. subsp.,B450:1,accepted,,,B450:1:3,Chrysis fulgida,,,,,,,Chrysis,Chrysis,Chrysis | Chrysis | Chrysis fulgida,,,,
-B450:1:5,Chrysis ignita L.,L.,Chrysis,,ignita,,species,,B450:1,accepted,,,B450:1:2,Chrysis,,,,,,,Chrysis,Chrysis,Chrysis | Chrysis,,5760254,,5760254
-B450:1:6,"Chrysis brevidens Tournier, 1879","Tournier, 1879",Chrysis,,brevidens,,species,,B450:1,accepted,,,B450:1:2,Chrysis,,,,,,,Chrysis,Chrysis,Chrysis | Chrysis,,11228515,,5870014
-B450:1:7,Chrysogona,,,,,,subgenus,,B450:1,accepted,,,B450:1:1,Chrysis,,,,,,,Chrysis,Chrysogona,Chrysis,,,,
-B450:1:8,"Chrysis gracillima Förster, 1853","Förster, 1853",Chrysis,,gracillima,,species,,B450:1,accepted,,,B450:1:7,Chrysogona,,,,,,,Chrysis,Chrysogona,Chrysis | Chrysogona,,5870003,,5870003
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B450:1:1,Chrysis,,,,,,genus,,B450:1,accepted,,,,,,,,,,,Chrysis,,,Chrysis,5T7SW,10501569,62TKF,10501569
+B450:1:2,Chrysis,,,,,,subgenus,,B450:1,accepted,,,B450:1:1,Chrysis,,,,,,,Chrysis,Chrysis,Chrysis,Chrysis,5T7SW,,62TKF,
+B450:1:3,Chrysis fulgida,,Chrysis,,fulgida,,species,,B450:1,accepted,,,B450:1:2,Chrysis,,,,,,,Chrysis,Chrysis,Chrysis | Chrysis,fulgida,,5870020,,5870020
+B450:1:4,"Chrysis fulgida subsp. immaculata Buysson, 1898","Buysson, 1898",Chrysis,,fulgida,immaculata,subspecies,f. n. subsp.,B450:1,accepted,,,B450:1:3,Chrysis fulgida,,,,,,,Chrysis,Chrysis,Chrysis | Chrysis | Chrysis fulgida,"fulgida subsp. immaculata Buysson, 1898 f. n. subsp.",,,,
+B450:1:5,Chrysis ignita L.,L.,Chrysis,,ignita,,species,,B450:1,accepted,,,B450:1:2,Chrysis,,,,,,,Chrysis,Chrysis,Chrysis | Chrysis,ignita L.,,5760254,,5760254
+B450:1:6,"Chrysis brevidens Tournier, 1879","Tournier, 1879",Chrysis,,brevidens,,species,,B450:1,accepted,,,B450:1:2,Chrysis,,,,,,,Chrysis,Chrysis,Chrysis | Chrysis,"brevidens Tournier, 1879",,11228515,,5870014
+B450:1:7,Chrysogona,,,,,,subgenus,,B450:1,accepted,,,B450:1:1,Chrysis,,,,,,,Chrysis,Chrysogona,Chrysis,Chrysogona,,,,
+B450:1:8,"Chrysis gracillima Förster, 1853","Förster, 1853",Chrysis,,gracillima,,species,,B450:1,accepted,,,B450:1:7,Chrysogona,,,,,,,Chrysis,Chrysogona,Chrysis | Chrysogona,"gracillima Förster, 1853",,5870003,,5870003

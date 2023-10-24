@@ -1,21 +1,21 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B184:1:1,Phalacridae,,,,,,family,,B184:1,accepted,,,,,,,,,Phalacridae,,,,,6268S,7843,6268S,7843
-B184:1:2,Phalacrus Paykull,Paykull,,,,,genus,,B184:1,accepted,,,B184:1:1,Phalacridae,,,,,Phalacridae,,Phalacrus,,Phalacridae,6MNH,1043046,6MNH,1043046
-B184:1:3,Phalacrus championi Guillebeau,Guillebeau,Phalacrus,,championi,,species,,B184:1,accepted,,,B184:1:2,Phalacrus Paykull,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,,6097801,,6097801
-B184:1:4,Phalacrus fimetarius (Fabricius),(Fabricius),Phalacrus,,fimetarius,,species,,B184:1,accepted,,,B184:1:2,Phalacrus Paykull,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,,5878072,,5878072
-B184:1:5,Phalacrus brisouti Rye,Rye,Phalacrus,,brisouti,,species,syn. n.,B184:1,synonym,B184:1:4,Phalacrus fimetarius (Fabricius),,,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,,6970884,,5878072
-B184:1:6,Phalacrus coruscus (Panzer),(Panzer),Phalacrus,,coruscus,,species,,B184:1,accepted,,,B184:1:2,Phalacrus Paykull,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,,7994638,,7994638
-B184:1:7,Phalacrus caricis Sturm,Sturm,Phalacrus,,caricis,,species,,B184:1,accepted,,,B184:1:2,Phalacrus Paykull,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,,6097797,,6097797
-B184:1:8,Phalacrus substriatus Gyllenhal,Gyllenhal,Phalacrus,,substriatus,,species,,B184:1,accepted,,,B184:1:2,Phalacrus Paykull,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,,6097798,,6097798
-B184:1:9,Olibrus Erichson,Erichson,,,,,genus,,B184:1,accepted,,,B184:1:1,Phalacridae,,,,,Phalacridae,,Olibrus,,Phalacridae,,4450370,,4450370
-B184:1:10,Olibrus millefolii (Paykull),(Paykull),Olibrus,,millefolii,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,,4450416,,4450416
-B184:1:11,Olibrus aeneus (Fabricius),(Fabricius),Olibrus,,aeneus,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,,4450421,,4450421
-B184:1:12,Olibrus corticalis (Panzer),(Panzer),Olibrus,,corticalis,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,,4450410,,4450410
-B184:1:13,Olibrus liquidus Erichson,Erichson,Olibrus,,liquidus,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,,4450376,,4450376
-B184:1:14,Olibrus pygmaeus (Sturm),(Sturm),Olibrus,,pygmaeus,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,,4450418,,4450418
-B184:1:15,Olibrus flavicornis (Sturm),(Sturm),Olibrus,,flavicornis,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,,4450392,,4450392
-B184:1:16,Olibrus affinis (Sturm),(Sturm),Olibrus,,affinis,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,,4450401,,4450401
-B184:1:17,Stilbus Seidlitz,Seidlitz,,,,,genus,,B184:1,accepted,,,B184:1:1,Phalacridae,,,,,Phalacridae,,Stilbus,,Phalacridae,,3262891,,3262891
-B184:1:18,Stilbus oblongus (Erichson),(Erichson),Stilbus,,oblongus,,species,,B184:1,accepted,,,B184:1:17,Stilbus Seidlitz,,,,,Phalacridae,,Stilbus,,Phalacridae | Stilbus,,4450451,,4450451
-B184:1:19,Stilbus testaceus (Panzer),(Panzer),Stilbus,,testaceus,,species,,B184:1,accepted,,,B184:1:17,Stilbus Seidlitz,,,,,Phalacridae,,Stilbus,,Phalacridae | Stilbus,,4450455,,4450455
-B184:1:20,Stilbus atomarius (Linnaeus),(Linnaeus),Stilbus,,atomarius,,species,,B184:1,accepted,,,B184:1:17,Stilbus Seidlitz,,,,,Phalacridae,,Stilbus,,Phalacridae | Stilbus,,4450457,,4450457
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B184:1:1,Phalacridae,,,,,,family,,B184:1,accepted,,,,,,,,,Phalacridae,,,,,Phalacridae,6268S,7843,6268S,7843
+B184:1:2,Phalacrus Paykull,Paykull,,,,,genus,,B184:1,accepted,,,B184:1:1,Phalacridae,,,,,Phalacridae,,Phalacrus,,Phalacridae,Phalacrus Paykull,6MNH,1043046,6MNH,1043046
+B184:1:3,Phalacrus championi Guillebeau,Guillebeau,Phalacrus,,championi,,species,,B184:1,accepted,,,B184:1:2,Phalacrus Paykull,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,championi Guillebeau,,6097801,,6097801
+B184:1:4,Phalacrus fimetarius (Fabricius),(Fabricius),Phalacrus,,fimetarius,,species,,B184:1,accepted,,,B184:1:2,Phalacrus Paykull,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,fimetarius (Fabricius),,5878072,,5878072
+B184:1:5,Phalacrus brisouti Rye,Rye,Phalacrus,,brisouti,,species,syn. n.,B184:1,synonym,B184:1:4,Phalacrus fimetarius (Fabricius),,,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,brisouti Rye syn. n.,,6970884,,5878072
+B184:1:6,Phalacrus coruscus (Panzer),(Panzer),Phalacrus,,coruscus,,species,,B184:1,accepted,,,B184:1:2,Phalacrus Paykull,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,coruscus (Panzer),,7994638,,7994638
+B184:1:7,Phalacrus caricis Sturm,Sturm,Phalacrus,,caricis,,species,,B184:1,accepted,,,B184:1:2,Phalacrus Paykull,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,caricis Sturm,,6097797,,6097797
+B184:1:8,Phalacrus substriatus Gyllenhal,Gyllenhal,Phalacrus,,substriatus,,species,,B184:1,accepted,,,B184:1:2,Phalacrus Paykull,,,,,Phalacridae,,Phalacrus,,Phalacridae | Phalacrus,substriatus Gyllenhal,,6097798,,6097798
+B184:1:9,Olibrus Erichson,Erichson,,,,,genus,,B184:1,accepted,,,B184:1:1,Phalacridae,,,,,Phalacridae,,Olibrus,,Phalacridae,Olibrus Erichson,,4450370,,4450370
+B184:1:10,Olibrus millefolii (Paykull),(Paykull),Olibrus,,millefolii,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,millefolii (Paykull),,4450416,,4450416
+B184:1:11,Olibrus aeneus (Fabricius),(Fabricius),Olibrus,,aeneus,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,aeneus (Fabricius),,4450421,,4450421
+B184:1:12,Olibrus corticalis (Panzer),(Panzer),Olibrus,,corticalis,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,corticalis (Panzer),,4450410,,4450410
+B184:1:13,Olibrus liquidus Erichson,Erichson,Olibrus,,liquidus,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,liquidus Erichson,,4450376,,4450376
+B184:1:14,Olibrus pygmaeus (Sturm),(Sturm),Olibrus,,pygmaeus,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,pygmaeus (Sturm),,4450418,,4450418
+B184:1:15,Olibrus flavicornis (Sturm),(Sturm),Olibrus,,flavicornis,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,flavicornis (Sturm),,4450392,,4450392
+B184:1:16,Olibrus affinis (Sturm),(Sturm),Olibrus,,affinis,,species,,B184:1,accepted,,,B184:1:9,Olibrus Erichson,,,,,Phalacridae,,Olibrus,,Phalacridae | Olibrus,affinis (Sturm),,4450401,,4450401
+B184:1:17,Stilbus Seidlitz,Seidlitz,,,,,genus,,B184:1,accepted,,,B184:1:1,Phalacridae,,,,,Phalacridae,,Stilbus,,Phalacridae,Stilbus Seidlitz,,3262891,,3262891
+B184:1:18,Stilbus oblongus (Erichson),(Erichson),Stilbus,,oblongus,,species,,B184:1,accepted,,,B184:1:17,Stilbus Seidlitz,,,,,Phalacridae,,Stilbus,,Phalacridae | Stilbus,oblongus (Erichson),,4450451,,4450451
+B184:1:19,Stilbus testaceus (Panzer),(Panzer),Stilbus,,testaceus,,species,,B184:1,accepted,,,B184:1:17,Stilbus Seidlitz,,,,,Phalacridae,,Stilbus,,Phalacridae | Stilbus,testaceus (Panzer),,4450455,,4450455
+B184:1:20,Stilbus atomarius (Linnaeus),(Linnaeus),Stilbus,,atomarius,,species,,B184:1,accepted,,,B184:1:17,Stilbus Seidlitz,,,,,Phalacridae,,Stilbus,,Phalacridae | Stilbus,atomarius (Linnaeus),,4450457,,4450457

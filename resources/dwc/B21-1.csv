@@ -1,47 +1,47 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B21:1:1,Hartigini,,,,,,tribe,,B21:1,accepted,,,,,,,,,,,,,,,,,
-B21:1:2,"Hartigia Schiodte, 1838","Schiodte, 1838",,,,,genus,,B21:1,accepted,,,B21:1:1,Hartigini,,,,,,,Hartigia,,Hartigini,9K5HN,7710880,9LCQ6,7710880
-B21:1:3,"Hartigia linearis (Schrank, 1781)","(Schrank, 1781)",Hartigia,,linearis,,species,,B21:1,accepted,,,B21:1:2,"Hartigia Schiodte, 1838",,,,,,,Hartigia,,Hartigini | Hartigia,,6096928,,6096928
-B21:1:4,"Hartigia nigra (Harris, 1776)","(Harris, 1776)",Hartigia,,nigra,,species,,B21:1,accepted,,,B21:1:2,"Hartigia Schiodte, 1838",,,,,,,Hartigia,,Hartigini | Hartigia,,6096930,,6096930
-B21:1:5,"Hartigia xanthostoma (Eversmann, 1847)","(Eversmann, 1847)",Hartigia,,xanthostoma,,species,,B21:1,accepted,,,B21:1:2,"Hartigia Schiodte, 1838",,,,,,,Hartigia,,Hartigini | Hartigia,,6096929,,6096929
-B21:1:6,"Janus Stephens, 1835","Stephens, 1835",,,,,genus,,B21:1,accepted,,,B21:1:1,Hartigini,,,,,,,Janus,,Hartigini,56B9,1334172,56B9,1334172
-B21:1:7,"Janus compressus (Fabricius, 1793)","(Fabricius, 1793)",Janus,,compressus,,species,,B21:1,accepted,,,B21:1:6,"Janus Stephens, 1835",,,,,,,Janus,,Hartigini | Janus,,5759848,,5759848
-B21:1:8,"Janus femoratus (Curtis, 1830)","(Curtis, 1830)",Janus,,femoratus,,species,,B21:1,accepted,,,B21:1:6,"Janus Stephens, 1835",,,,,,,Janus,,Hartigini | Janus,,5759846,,7721567
-B21:1:9,"Janus luteipes (Lepeletier, 1823)","(Lepeletier, 1823)",Janus,,luteipes,,species,,B21:1,accepted,,,B21:1:6,"Janus Stephens, 1835",,,,,,,Janus,,Hartigini | Janus,,5759844,,5759844
-B21:1:10,Cephini,,,,,,tribe,,B21:1,accepted,,,,,,,,,,,,,,,,,
-B21:1:11,"Calameuta Konow, 1896","Konow, 1896",,,,,genus,,B21:1,accepted,,,B21:1:10,Cephini,,,,,,,Calameuta,,Cephini,,4406679,,4406679
-B21:1:12,"Calameuta filiformis (Eversmann, 1847)","(Eversmann, 1847)",Calameuta,,filiformis,,species,,B21:1,accepted,,,B21:1:11,"Calameuta Konow, 1896",,,,,,,Calameuta,,Cephini | Calameuta,,4492444,,4492444
-B21:1:13,"Calameuta pallipes (Klug, 1803)","(Klug, 1803)",Calameuta,,pallipes,,species,,B21:1,accepted,,,B21:1:11,"Calameuta Konow, 1896",,,,,,,Calameuta,,Cephini | Calameuta,,4492446,,4492446
-B21:1:14,"Cephus Latreille, 1802","Latreille, 1802",,,,,genus,,B21:1,accepted,,,B21:1:10,Cephini,,,,,,,Cephus,,Cephini,3KKH,1334167,3KKH,1334167
-B21:1:15,"Cephus brachycercus Thomson, 1871","Thomson, 1871",Cephus,,brachycercus,,species,,B21:1,accepted,,,B21:1:14,"Cephus Latreille, 1802",,,,,,,Cephus,,Cephini | Cephus,,6096926,,6096926
-B21:1:16,"Cephus cultratus Eversmann, 1847","Eversmann, 1847",Cephus,,cultratus,,species,,B21:1,accepted,,,B21:1:14,"Cephus Latreille, 1802",,,,,,,Cephus,,Cephini | Cephus,,6096924,,6096923
-B21:1:17,"Cephus infuscatus Thomson, 1871","Thomson, 1871",Cephus,,infuscatus,,species,,B21:1,accepted,,,B21:1:14,"Cephus Latreille, 1802",,,,,,,Cephus,,Cephini | Cephus,,6096927,,6096927
-B21:1:18,"Cephus nigrinus Thomson, 1871","Thomson, 1871",Cephus,,nigrinus,,species,,B21:1,accepted,,,B21:1:14,"Cephus Latreille, 1802",,,,,,,Cephus,,Cephini | Cephus,,6096925,,6096925
-B21:1:19,"Cephus pygmeus (Linnaeus, 1767)","(Linnaeus, 1767)",Cephus,,pygmeus,,species,,B21:1,accepted,,,B21:1:14,"Cephus Latreille, 1802",,,,,,,Cephus,,Cephini | Cephus,,5868024,,5868024
-B21:1:20,"Trachelus Jurine, 1807","Jurine, 1807",,,,,genus,,B21:1,accepted,,,B21:1:10,Cephini,,,,,,,Trachelus,,Cephini,9WN5Q,1334170,9WN5Q,1334170
-B21:1:21,"Trachelus tabidus (Fabricius, 1775)","(Fabricius, 1775)",Trachelus,,tabidus,,species,,B21:1,accepted,,,B21:1:20,"Trachelus Jurine, 1807",,,,,,,Trachelus,,Cephini | Trachelus,,5759865,,5759865
-B21:1:22,Sterictiphorinae,,,,,,tribe,,B21:1,accepted,,,,,,,,,,,,,,,,,
-B21:1:23,"Aprosthema Konow, 1899","Konow, 1899",,,,,genus,,B21:1,accepted,,,B21:1:22,Sterictiphorinae,,,,,,,Aprosthema,,Sterictiphorinae,,9034016,,9034016
-B21:1:24,"Aprosthema fusicorne (Thomson, 1871)","(Thomson, 1871)",Aprosthema,,fusicorne,,species,,B21:1,accepted,,,B21:1:23,"Aprosthema Konow, 1899",,,,,,,Aprosthema,,Sterictiphorinae | Aprosthema,,4490030,,4490030
-B21:1:25,"Aprosthema melanurum (Klug, 1814)","(Klug, 1814)",Aprosthema,,melanurum,,species,,B21:1,accepted,,,B21:1:23,"Aprosthema Konow, 1899",,,,,,,Aprosthema,,Sterictiphorinae | Aprosthema,,4490054,,4490054
-B21:1:26,"Sterictiphora Billberg, 1820","Billberg, 1820",,,,,genus,,B21:1,accepted,,,B21:1:22,Sterictiphorinae,,,,,,,Sterictiphora,,Sterictiphorinae,,4406960,,4406960
-B21:1:27,"Sterictiphora geminata (Gmelin, 1802)","(Gmelin, 1802)",Sterictiphora,,geminata,,species,,B21:1,accepted,,,B21:1:26,"Sterictiphora Billberg, 1820",,,,,,,Sterictiphora,,Sterictiphorinae | Sterictiphora,,4489999,,4489999
-B21:1:28,Arginae,,,,,,tribe,,B21:1,accepted,,,,,,,,,,,,,,,,,
-B21:1:29,"Arge Schrank, 1802","Schrank, 1802",,,,,genus,,B21:1,accepted,,,B21:1:28,Arginae,,,,,,,Arge,,Arginae,32L7,1249713,32L7,1249713
-B21:1:30,"Arge berberidis (Schrank, 1802)","(Schrank, 1802)",Arge,,berberidis,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096907,,6096907
-B21:1:31,"Arge ciliaris (Linnaeus, 1767)","(Linnaeus, 1767)",Arge,,ciliaris,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096913,,6096913
-B21:1:32,"Arge clavicornis (Fabricius, 1781)","(Fabricius, 1781)",Arge,,clavicornis,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096909,,6096909
-B21:1:33,"Arge cyanocrocea (Forster, 1771)","(Forster, 1771)",Arge,,cyanocrocea,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,5868173,,5868173
-B21:1:34,"Arge dimidiata (Fallen, 1808)","(Fallen, 1808)",Arge,,dimidiata,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096914,,6096914
-B21:1:35,"Arge enodis (Linnaeus, 1767)","(Linnaeus, 1767)",Arge,,enodis,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096919,,6096919
-B21:1:36,"Arge gracilicornis (Klug, 1814)","(Klug, 1814)",Arge,,gracilicornis,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096915,,6096915
-B21:1:37,"Arge melanochroa (Gmelin, 1790)","(Gmelin, 1790)",Arge,,melanochroa,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,7881560,,7881560
-B21:1:38,"Arge metallica (Klug, 1834)","(Klug, 1834)",Arge,,metallica,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096916,,6096916
-B21:1:39,"Arge nigripes (Retzius, 1783)","(Retzius, 1783)",Arge,,nigripes,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,5868175,,5868175
-B21:1:40,"Arge enodis auct, nec Linnaeus, 1767","auct, nec Linnaeus, 1767",Arge,,enodis,,species,,B21:1,synonym,B21:1:39,"Arge nigripes (Retzius, 1783)",,,,,,,,,Arge,,Arginae | Arge,,6096919,,6096919
-B21:1:41,"Arge ochropus (Gmelin, 1790)","(Gmelin, 1790)",Arge,,ochropus,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096911,,6096911
-B21:1:42,Arge rosae,,Arge,,rosae,,species,"auct., nec Linnaeus, 1758",B21:1,synonym,B21:1:41,"Arge ochropus (Gmelin, 1790)",,,,,,,,,Arge,,Arginae | Arge,,10041622,,6096911
-B21:1:43,"Arge pagana (Panzer, 1798)","(Panzer, 1798)",Arge,,pagana,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096917,,6096917
-B21:1:44,"Arge pullata (Zaddach, 1859)","(Zaddach, 1859)",Arge,,pullata,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096920,,6096920
-B21:1:45,"Arge rustica (Linnaeus, 1758)","(Linnaeus, 1758)",Arge,,rustica,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096912,,6096912
-B21:1:46,"Arge ustulata (Linnaeus, 1758)","(Linnaeus, 1758)",Arge,,ustulata,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,,6096918,,6096918
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B21:1:1,Hartigini,,,,,,tribe,,B21:1,accepted,,,,,,,,,,,,,,Hartigini,,,,
+B21:1:2,"Hartigia Schiodte, 1838","Schiodte, 1838",,,,,genus,,B21:1,accepted,,,B21:1:1,Hartigini,,,,,,,Hartigia,,Hartigini,"Hartigia Schiodte, 1838",9K5HN,7710880,9LCQ6,7710880
+B21:1:3,"Hartigia linearis (Schrank, 1781)","(Schrank, 1781)",Hartigia,,linearis,,species,,B21:1,accepted,,,B21:1:2,"Hartigia Schiodte, 1838",,,,,,,Hartigia,,Hartigini | Hartigia,"linearis (Schrank, 1781)",,6096928,,6096928
+B21:1:4,"Hartigia nigra (Harris, 1776)","(Harris, 1776)",Hartigia,,nigra,,species,,B21:1,accepted,,,B21:1:2,"Hartigia Schiodte, 1838",,,,,,,Hartigia,,Hartigini | Hartigia,"nigra (Harris, 1776)",,6096930,,6096930
+B21:1:5,"Hartigia xanthostoma (Eversmann, 1847)","(Eversmann, 1847)",Hartigia,,xanthostoma,,species,,B21:1,accepted,,,B21:1:2,"Hartigia Schiodte, 1838",,,,,,,Hartigia,,Hartigini | Hartigia,"xanthostoma (Eversmann, 1847)",,6096929,,6096929
+B21:1:6,"Janus Stephens, 1835","Stephens, 1835",,,,,genus,,B21:1,accepted,,,B21:1:1,Hartigini,,,,,,,Janus,,Hartigini,"Janus Stephens, 1835",56B9,1334172,56B9,1334172
+B21:1:7,"Janus compressus (Fabricius, 1793)","(Fabricius, 1793)",Janus,,compressus,,species,,B21:1,accepted,,,B21:1:6,"Janus Stephens, 1835",,,,,,,Janus,,Hartigini | Janus,"compressus (Fabricius, 1793)",,5759848,,5759848
+B21:1:8,"Janus femoratus (Curtis, 1830)","(Curtis, 1830)",Janus,,femoratus,,species,,B21:1,accepted,,,B21:1:6,"Janus Stephens, 1835",,,,,,,Janus,,Hartigini | Janus,"femoratus (Curtis, 1830)",,5759846,,7721567
+B21:1:9,"Janus luteipes (Lepeletier, 1823)","(Lepeletier, 1823)",Janus,,luteipes,,species,,B21:1,accepted,,,B21:1:6,"Janus Stephens, 1835",,,,,,,Janus,,Hartigini | Janus,"luteipes (Lepeletier, 1823)",,5759844,,5759844
+B21:1:10,Cephini,,,,,,tribe,,B21:1,accepted,,,,,,,,,,,,,,Cephini,,,,
+B21:1:11,"Calameuta Konow, 1896","Konow, 1896",,,,,genus,,B21:1,accepted,,,B21:1:10,Cephini,,,,,,,Calameuta,,Cephini,"Calameuta Konow, 1896",,4406679,,4406679
+B21:1:12,"Calameuta filiformis (Eversmann, 1847)","(Eversmann, 1847)",Calameuta,,filiformis,,species,,B21:1,accepted,,,B21:1:11,"Calameuta Konow, 1896",,,,,,,Calameuta,,Cephini | Calameuta,"filiformis (Eversmann, 1847)",,4492444,,4492444
+B21:1:13,"Calameuta pallipes (Klug, 1803)","(Klug, 1803)",Calameuta,,pallipes,,species,,B21:1,accepted,,,B21:1:11,"Calameuta Konow, 1896",,,,,,,Calameuta,,Cephini | Calameuta,"pallipes (Klug, 1803)",,4492446,,4492446
+B21:1:14,"Cephus Latreille, 1802","Latreille, 1802",,,,,genus,,B21:1,accepted,,,B21:1:10,Cephini,,,,,,,Cephus,,Cephini,"Cephus Latreille, 1802",3KKH,1334167,3KKH,1334167
+B21:1:15,"Cephus brachycercus Thomson, 1871","Thomson, 1871",Cephus,,brachycercus,,species,,B21:1,accepted,,,B21:1:14,"Cephus Latreille, 1802",,,,,,,Cephus,,Cephini | Cephus,"brachycercus Thomson, 1871",,6096926,,6096926
+B21:1:16,"Cephus cultratus Eversmann, 1847","Eversmann, 1847",Cephus,,cultratus,,species,,B21:1,accepted,,,B21:1:14,"Cephus Latreille, 1802",,,,,,,Cephus,,Cephini | Cephus,"cultratus Eversmann, 1847",,6096924,,6096923
+B21:1:17,"Cephus infuscatus Thomson, 1871","Thomson, 1871",Cephus,,infuscatus,,species,,B21:1,accepted,,,B21:1:14,"Cephus Latreille, 1802",,,,,,,Cephus,,Cephini | Cephus,"infuscatus Thomson, 1871",,6096927,,6096927
+B21:1:18,"Cephus nigrinus Thomson, 1871","Thomson, 1871",Cephus,,nigrinus,,species,,B21:1,accepted,,,B21:1:14,"Cephus Latreille, 1802",,,,,,,Cephus,,Cephini | Cephus,"nigrinus Thomson, 1871",,6096925,,6096925
+B21:1:19,"Cephus pygmeus (Linnaeus, 1767)","(Linnaeus, 1767)",Cephus,,pygmeus,,species,,B21:1,accepted,,,B21:1:14,"Cephus Latreille, 1802",,,,,,,Cephus,,Cephini | Cephus,"pygmeus (Linnaeus, 1767)",,5868024,,5868024
+B21:1:20,"Trachelus Jurine, 1807","Jurine, 1807",,,,,genus,,B21:1,accepted,,,B21:1:10,Cephini,,,,,,,Trachelus,,Cephini,"Trachelus Jurine, 1807",9WN5Q,1334170,9WN5Q,1334170
+B21:1:21,"Trachelus tabidus (Fabricius, 1775)","(Fabricius, 1775)",Trachelus,,tabidus,,species,,B21:1,accepted,,,B21:1:20,"Trachelus Jurine, 1807",,,,,,,Trachelus,,Cephini | Trachelus,"tabidus (Fabricius, 1775)",,5759865,,5759865
+B21:1:22,Sterictiphorinae,,,,,,tribe,,B21:1,accepted,,,,,,,,,,,,,,Sterictiphorinae,,,,
+B21:1:23,"Aprosthema Konow, 1899","Konow, 1899",,,,,genus,,B21:1,accepted,,,B21:1:22,Sterictiphorinae,,,,,,,Aprosthema,,Sterictiphorinae,"Aprosthema Konow, 1899",,9034016,,9034016
+B21:1:24,"Aprosthema fusicorne (Thomson, 1871)","(Thomson, 1871)",Aprosthema,,fusicorne,,species,,B21:1,accepted,,,B21:1:23,"Aprosthema Konow, 1899",,,,,,,Aprosthema,,Sterictiphorinae | Aprosthema,"fusicorne (Thomson, 1871)",,4490030,,4490030
+B21:1:25,"Aprosthema melanurum (Klug, 1814)","(Klug, 1814)",Aprosthema,,melanurum,,species,,B21:1,accepted,,,B21:1:23,"Aprosthema Konow, 1899",,,,,,,Aprosthema,,Sterictiphorinae | Aprosthema,"melanurum (Klug, 1814)",,4490054,,4490054
+B21:1:26,"Sterictiphora Billberg, 1820","Billberg, 1820",,,,,genus,,B21:1,accepted,,,B21:1:22,Sterictiphorinae,,,,,,,Sterictiphora,,Sterictiphorinae,"Sterictiphora Billberg, 1820",,4406960,,4406960
+B21:1:27,"Sterictiphora geminata (Gmelin, 1802)","(Gmelin, 1802)",Sterictiphora,,geminata,,species,,B21:1,accepted,,,B21:1:26,"Sterictiphora Billberg, 1820",,,,,,,Sterictiphora,,Sterictiphorinae | Sterictiphora,"geminata (Gmelin, 1802)",,4489999,,4489999
+B21:1:28,Arginae,,,,,,tribe,,B21:1,accepted,,,,,,,,,,,,,,Arginae,,,,
+B21:1:29,"Arge Schrank, 1802","Schrank, 1802",,,,,genus,,B21:1,accepted,,,B21:1:28,Arginae,,,,,,,Arge,,Arginae,"Arge Schrank, 1802",32L7,1249713,32L7,1249713
+B21:1:30,"Arge berberidis (Schrank, 1802)","(Schrank, 1802)",Arge,,berberidis,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"berberidis (Schrank, 1802)",,6096907,,6096907
+B21:1:31,"Arge ciliaris (Linnaeus, 1767)","(Linnaeus, 1767)",Arge,,ciliaris,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"ciliaris (Linnaeus, 1767)",,6096913,,6096913
+B21:1:32,"Arge clavicornis (Fabricius, 1781)","(Fabricius, 1781)",Arge,,clavicornis,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"clavicornis (Fabricius, 1781)",,6096909,,6096909
+B21:1:33,"Arge cyanocrocea (Forster, 1771)","(Forster, 1771)",Arge,,cyanocrocea,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"cyanocrocea (Forster, 1771)",,5868173,,5868173
+B21:1:34,"Arge dimidiata (Fallen, 1808)","(Fallen, 1808)",Arge,,dimidiata,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"dimidiata (Fallen, 1808)",,6096914,,6096914
+B21:1:35,"Arge enodis (Linnaeus, 1767)","(Linnaeus, 1767)",Arge,,enodis,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"enodis (Linnaeus, 1767)",,6096919,,6096919
+B21:1:36,"Arge gracilicornis (Klug, 1814)","(Klug, 1814)",Arge,,gracilicornis,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"gracilicornis (Klug, 1814)",,6096915,,6096915
+B21:1:37,"Arge melanochroa (Gmelin, 1790)","(Gmelin, 1790)",Arge,,melanochroa,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"melanochroa (Gmelin, 1790)",,7881560,,7881560
+B21:1:38,"Arge metallica (Klug, 1834)","(Klug, 1834)",Arge,,metallica,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"metallica (Klug, 1834)",,6096916,,6096916
+B21:1:39,"Arge nigripes (Retzius, 1783)","(Retzius, 1783)",Arge,,nigripes,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"nigripes (Retzius, 1783)",,5868175,,5868175
+B21:1:40,"Arge enodis auct, nec Linnaeus, 1767","auct, nec Linnaeus, 1767",Arge,,enodis,,species,,B21:1,synonym,B21:1:39,"Arge nigripes (Retzius, 1783)",,,,,,,,,Arge,,Arginae | Arge,"enodis auct, nec Linnaeus, 1767",,6096919,,6096919
+B21:1:41,"Arge ochropus (Gmelin, 1790)","(Gmelin, 1790)",Arge,,ochropus,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"ochropus (Gmelin, 1790)",,6096911,,6096911
+B21:1:42,Arge rosae,,Arge,,rosae,,species,"auct., nec Linnaeus, 1758",B21:1,synonym,B21:1:41,"Arge ochropus (Gmelin, 1790)",,,,,,,,,Arge,,Arginae | Arge,"rosae auct., nec Linnaeus, 1758",,10041622,,6096911
+B21:1:43,"Arge pagana (Panzer, 1798)","(Panzer, 1798)",Arge,,pagana,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"pagana (Panzer, 1798)",,6096917,,6096917
+B21:1:44,"Arge pullata (Zaddach, 1859)","(Zaddach, 1859)",Arge,,pullata,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"pullata (Zaddach, 1859)",,6096920,,6096920
+B21:1:45,"Arge rustica (Linnaeus, 1758)","(Linnaeus, 1758)",Arge,,rustica,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"rustica (Linnaeus, 1758)",,6096912,,6096912
+B21:1:46,"Arge ustulata (Linnaeus, 1758)","(Linnaeus, 1758)",Arge,,ustulata,,species,,B21:1,accepted,,,B21:1:29,"Arge Schrank, 1802",,,,,,,Arge,,Arginae | Arge,"ustulata (Linnaeus, 1758)",,6096918,,6096918

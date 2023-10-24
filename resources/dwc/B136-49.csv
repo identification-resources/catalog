@@ -1,11 +1,11 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B136:49:1,Altica,,,,,,genus,,B136:49,accepted,,,,,,,,,,,Altica,,,SZK,7990832,SZK,7990832
-B136:49:2,Haltica,,,,,,genus,,B136:49,synonym,B136:49:1,Altica,,,,,,,,,Haltica,,,,9291973,,9291973
-B136:49:3,Altica oleracea (L.),(L.),Altica,,oleracea,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,,4462315,,4462315
-B136:49:4,Altica palustris (L.),(L.),Altica,,palustris,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,,4462323,,4462323
-B136:49:5,Altica carinthiaca Weise,Weise,Altica,,carinthiaca,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,,4462339,,4462339
-B136:49:6,Altica saliceti Weise,Weise,Altica,,saliceti,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,,10469500,,4462355
-B136:49:7,Altica engstroemi J.Sahlb.,J.Sahlb.,Altica,,engstroemi,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,,4462330,,7848189
-B136:49:8,Altica britteni Sharp,Sharp,Altica,,britteni,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,,8505769,,4462313
-B136:49:9,Altica sandeni Kemner,Kemner,Altica,,sandeni,,species,,B136:49,synonym,B136:49:8,Altica britteni Sharp,,,,,,,,,Altica,,Altica,,8564600,,4462313
-B136:49:10,Altica chamaenerii H.Lindbg.,H.Lindbg.,Altica,,chamaenerii,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,,4462328,,4462328
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:49:1,Altica,,,,,,genus,,B136:49,accepted,,,,,,,,,,,Altica,,,Altica,SZK,7990832,SZK,7990832
+B136:49:2,Haltica,,,,,,genus,,B136:49,synonym,B136:49:1,Altica,,,,,,,,,Haltica,,,Haltica,,9291973,,9291973
+B136:49:3,Altica oleracea (L.),(L.),Altica,,oleracea,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,oleracea (L.),,4462315,,4462315
+B136:49:4,Altica palustris (L.),(L.),Altica,,palustris,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,palustris (L.),,4462323,,4462323
+B136:49:5,Altica carinthiaca Weise,Weise,Altica,,carinthiaca,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,carinthiaca Weise,,4462339,,4462339
+B136:49:6,Altica saliceti Weise,Weise,Altica,,saliceti,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,saliceti Weise,,10469500,,4462355
+B136:49:7,Altica engstroemi J.Sahlb.,J.Sahlb.,Altica,,engstroemi,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,engstroemi J.Sahlb.,,4462330,,7848189
+B136:49:8,Altica britteni Sharp,Sharp,Altica,,britteni,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,britteni Sharp,,8505769,,4462313
+B136:49:9,Altica sandeni Kemner,Kemner,Altica,,sandeni,,species,,B136:49,synonym,B136:49:8,Altica britteni Sharp,,,,,,,,,Altica,,Altica,sandeni Kemner,,8564600,,4462313
+B136:49:10,Altica chamaenerii H.Lindbg.,H.Lindbg.,Altica,,chamaenerii,,species,,B136:49,accepted,,,B136:49:1,Altica,,,,,,,Altica,,Altica,chamaenerii H.Lindbg.,,4462328,,4462328

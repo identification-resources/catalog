@@ -1,63 +1,63 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B944:1:1,Heteroptera,,,,,,order,,B944:1,accepted,,,,,,,,Heteroptera,,,,,,,3264953,,1588281
-B944:1:2,Gerridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Gerridae,,,,Heteroptera,623FR,7881,623FR,7881
-B944:1:3,Aquarius,,,,,,genus,,B944:1,accepted,,,B944:1:2,Gerridae,,,,Heteroptera,Gerridae,,Aquarius,,Heteroptera | Gerridae,ZH4,2020415,ZH4,2020415
-B944:1:4,Aquarius najas,,Aquarius,,najas,,species,,B944:1,accepted,,,B944:1:3,Aquarius,,,,Heteroptera,Gerridae,,Aquarius,,Heteroptera | Gerridae | Aquarius,FZJB,5866107,FZJB,5866107
-B944:1:5,Aquarius paludum,,Aquarius,,paludum,,species,,B944:1,accepted,,,B944:1:3,Aquarius,,,,Heteroptera,Gerridae,,Aquarius,,Heteroptera | Gerridae | Aquarius,67QDV,5866108,67QDV,5866108
-B944:1:6,Gerris,,,,,,genus,,B944:1,accepted,,,B944:1:2,Gerridae,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae,4N84,2008636,4N84,2008636
-B944:1:7,Gerris argentatus,,Gerris,,argentatus,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,7V545,5758660,7V545,5758660
-B944:1:8,Gerris gibbifer,,Gerris,,gibbifer,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,7V54H,5758659,7V54H,5758659
-B944:1:9,Gerris lacustris,,Gerris,,lacustris,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,7V54Q,5154105,7V54Q,5154105
-B944:1:10,Gerris lateralis,,Gerris,,lateralis,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,7V55B,5758665,7V55B,5758665
-B944:1:11,Gerris odontogaster,,Gerris,,odontogaster,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,7V54X,5758658,7V54X,5758658
-B944:1:12,Gerris thoracicus,,Gerris,,thoracicus,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,7V554,5758661,7V554,5758661
-B944:1:13,Limnoporus,,,,,,genus,,B944:1,accepted,,,B944:1:2,Gerridae,,,,Heteroptera,Gerridae,,Limnoporus,,Heteroptera | Gerridae,62YMD,2020446,62YMD,2020446
-B944:1:14,Limnoporus rufoscutellatus,,Limnoporus,,rufoscutellatus,,species,,B944:1,accepted,,,B944:1:13,Limnoporus,,,,Heteroptera,Gerridae,,Limnoporus,,Heteroptera | Gerridae | Limnoporus,6QCKK,2020450,6QCKK,2020450
-B944:1:15,Hebridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Hebridae,,,,Heteroptera,6252Q,4312,6252Q,4312
-B944:1:16,Hebrus,,,,,,genus,,B944:1,accepted,,,B944:1:15,Hebridae,,,,Heteroptera,Hebridae,,Hebrus,,Heteroptera | Hebridae,635VT,2020320,635VT,2020320
-B944:1:17,Hebrus pusillus,,Hebrus,,pusillus,,species,,B944:1,accepted,,,B944:1:16,Hebrus,,,,Heteroptera,Hebridae,,Hebrus,,Heteroptera | Hebridae | Hebrus,3JYF4,2020325,3JYF4,2020325
-B944:1:18,Hebrus ruficeps,,Hebrus,,ruficeps,,species,,B944:1,accepted,,,B944:1:16,Hebrus,,,,Heteroptera,Hebridae,,Hebrus,,Heteroptera | Hebridae | Hebrus,3JYF8,4485475,3JYF8,4485475
-B944:1:19,Hydrometridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Hydrometridae,,,,Heteroptera,B8R,7884,B8R,7884
-B944:1:20,Hydrometra,,,,,,genus,,B944:1,accepted,,,B944:1:19,Hydrometridae,,,,Heteroptera,Hydrometridae,,Hydrometra,,Heteroptera | Hydrometridae,4ZTP,2020474,4ZTP,2020474
-B944:1:21,Hydrometra gracilenta,,Hydrometra,,gracilenta,,species,,B944:1,accepted,,,B944:1:20,Hydrometra,,,,Heteroptera,Hydrometridae,,Hydrometra,,Heteroptera | Hydrometridae | Hydrometra,6MJQV,4485514,6MJQV,4485514
-B944:1:22,Hydrometra stagnorum,,Hydrometra,,stagnorum,,species,,B944:1,accepted,,,B944:1:20,Hydrometra,,,,Heteroptera,Hydrometridae,,Hydrometra,,Heteroptera | Hydrometridae | Hydrometra,3N7QM,2049340,3N7QM,2049340
-B944:1:23,Mesoveliidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Mesoveliidae,,,,Heteroptera,CNB,4318,CNB,4318
-B944:1:24,Mesovelia,,,,,,genus,,B944:1,accepted,,,B944:1:23,Mesoveliidae,,,,Heteroptera,Mesoveliidae,,Mesovelia,,Heteroptera | Mesoveliidae,5Q3C,2012228,5Q3C,2012228
-B944:1:25,Mesovelia furcata,,Mesovelia,,furcata,,species,,B944:1,accepted,,,B944:1:24,Mesovelia,,,,Heteroptera,Mesoveliidae,,Mesovelia,,Heteroptera | Mesoveliidae | Mesovelia,427GM,2012232,427GM,2012232
-B944:1:26,Veliidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Veliidae,,,,Heteroptera,HSH,7900,HSH,7900
-B944:1:27,Microvelia,,,,,,genus,,B944:1,accepted,,,B944:1:26,Veliidae,,,,Heteroptera,Veliidae,,Microvelia,,Heteroptera | Veliidae,5SLM,2020348,5SLM,2020348
-B944:1:28,Microvelia buenoi,,Microvelia,,buenoi,,species,,B944:1,accepted,,,B944:1:27,Microvelia,,,,Heteroptera,Veliidae,,Microvelia,,Heteroptera | Veliidae | Microvelia,7VVH8,2020352,7VVH8,2020352
-B944:1:29,Microvelia pygmaea,,Microvelia,,pygmaea,,species,,B944:1,accepted,,,B944:1:27,Microvelia,,,,Heteroptera,Veliidae,,Microvelia,,Heteroptera | Veliidae | Microvelia,7VVKH,4485323,7VVKH,4485323
-B944:1:30,Microvelia reticulata,,Microvelia,,reticulata,,species,,B944:1,accepted,,,B944:1:27,Microvelia,,,,Heteroptera,Veliidae,,Microvelia,,Heteroptera | Veliidae | Microvelia,7VVHW,4485321,7VVHW,4485321
-B944:1:31,Velia,,,,,,genus,,B944:1,accepted,,,B944:1:26,Veliidae,,,,Heteroptera,Veliidae,,Velia,,Heteroptera | Veliidae,8669,2020395,8669,2020395
-B944:1:32,Velia caprai,,Velia,,caprai,,species,,B944:1,accepted,,,B944:1:31,Velia,,,,Heteroptera,Veliidae,,Velia,,Heteroptera | Veliidae | Velia,7X77G,4485351,7X77G,4485351
-B944:1:33,Velia saulii,,Velia,,saulii,,species,,B944:1,accepted,,,B944:1:31,Velia,,,,Heteroptera,Veliidae,,Velia,,Heteroptera | Veliidae | Velia,7X78C,4485339,7X78C,4485339
-B944:1:34,Aphelocheiridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Aphelocheiridae,,,,Heteroptera,6JZ,3265575,6JZ,3265575
-B944:1:35,Aphelocheirus,,,,,,genus,,B944:1,accepted,,,B944:1:34,Aphelocheiridae,,,,Heteroptera,Aphelocheiridae,,Aphelocheirus,,Heteroptera | Aphelocheiridae,62CXH,3265576,62CXH,3265576
-B944:1:36,Aphelocheirus aestivalis,,Aphelocheirus,,aestivalis,,species,,B944:1,accepted,,,B944:1:35,Aphelocheirus,,,,Heteroptera,Aphelocheiridae,,Aphelocheirus,,Heteroptera | Aphelocheiridae | Aphelocheirus,7QYJC,4485511,7QYJC,4485511
-B944:1:37,Corixidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Corixidae,,,,Heteroptera,8KK,6988,8KK,6988
-B944:1:38,Corixa,,,,,,genus,,B944:1,accepted,,,B944:1:37,Corixidae,,,,Heteroptera,Corixidae,,Corixa,,Heteroptera | Corixidae,62N2S,5156062,62N2S,5156062
-B944:1:39,Cymatia,,,,,,genus,,B944:1,accepted,,,B944:1:37,Corixidae,,,,Heteroptera,Corixidae,,Cymatia,,Heteroptera | Corixidae,62PRB,2049917,62PRB,2049917
-B944:1:40,Cymatia coleoptrata,,Cymatia,,coleoptrata,,species,,B944:1,accepted,,,B944:1:39,Cymatia,,,,Heteroptera,Corixidae,,Cymatia,,Heteroptera | Corixidae | Cymatia,335T3,2049918,335T3,2049918
-B944:1:41,Naucoridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Naucoridae,,,,Heteroptera,624PT,4320,624PT,4320
-B944:1:42,Ilyocoris,,,,,,genus,,B944:1,accepted,,,B944:1:41,Naucoridae,,,,Heteroptera,Naucoridae,,Ilyocoris,,Heteroptera | Naucoridae,53XD,8194261,53XD,8194261
-B944:1:43,Ilyocoris cimicoides,,Ilyocoris,,cimicoides,,species,,B944:1,accepted,,,B944:1:42,Ilyocoris,,,,Heteroptera,Naucoridae,,Ilyocoris,,Heteroptera | Naucoridae | Ilyocoris,3PH9Z,4485505,3PH9Z,4485505
-B944:1:44,Naucoris,,,,,,genus,,B944:1,accepted,,,B944:1:41,Naucoridae,,,,Heteroptera,Naucoridae,,Naucoris,,Heteroptera | Naucoridae,5XV9,2020237,5XV9,2020237
-B944:1:45,Naucoris maculatus,,Naucoris,,maculatus,,species,,B944:1,accepted,,,B944:1:44,Naucoris,,,,Heteroptera,Naucoridae,,Naucoris,,Heteroptera | Naucoridae | Naucoris,745Y9,4485502,745Y9,4485502
-B944:1:46,Micronectidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Micronectidae,,,,Heteroptera,CRJ,4777847,CRJ,4777847
-B944:1:47,Micronecta,,,,,,genus,,B944:1,accepted,,,B944:1:46,Micronectidae,,,,Heteroptera,Micronectidae,,Micronecta,,Heteroptera | Micronectidae,5S3P,4485457,5S3P,4485457
-B944:1:48,Notonectidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Notonectidae,,,,Heteroptera,626HD,4322,626HD,4322
-B944:1:49,Notonecta,,,,,,genus,,B944:1,accepted,,,B944:1:48,Notonectidae,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae,65FM,2020516,65FM,2020516
-B944:1:50,Notonecta glauca,,Notonecta,,glauca,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,7W3FT,2020522,7W3FT,2020522
-B944:1:51,Notonecta lutea,,Notonecta,,lutea,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,7W3FW,4485498,7W3FW,4485498
-B944:1:52,Notonecta maculata,,Notonecta,,maculata,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,7W3FX,2020518,7W3FX,2020518
-B944:1:53,Notonecta obliqua,,Notonecta,,obliqua,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,7W3G4,10728437,7W3G4,10728437
-B944:1:54,Notonecta viridis,,Notonecta,,viridis,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,7W3G8,4485490,7W3G8,4485490
-B944:1:55,Nepidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Nepidae,,,,Heteroptera,DB4,7892,DB4,7892
-B944:1:56,Nepa,,,,,,genus,,B944:1,accepted,,,B944:1:55,Nepidae,,,,Heteroptera,Nepidae,,Nepa,,Heteroptera | Nepidae,634F,2007591,634F,2007591
-B944:1:57,Nepa cinerea,,Nepa,,cinerea,,species,,B944:1,accepted,,,B944:1:56,Nepa,,,,Heteroptera,Nepidae,,Nepa,,Heteroptera | Nepidae | Nepa,6RWWL,5152456,6RWWL,5152456
-B944:1:58,Ranatra,,,,,,genus,,B944:1,accepted,,,B944:1:55,Nepidae,,,,Heteroptera,Nepidae,,Ranatra,,Heteroptera | Nepidae,772G,2007594,772G,2007594
-B944:1:59,Ranatra linearis,,Ranatra,,linearis,,species,,B944:1,accepted,,,B944:1:58,Ranatra,,,,Heteroptera,Nepidae,,Ranatra,,Heteroptera | Nepidae | Ranatra,6WQVR,5152464,6WQVR,5152464
-B944:1:60,Pleidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Pleidae,,,,Heteroptera,6263M,9653,6263M,9653
-B944:1:61,Plea,,,,,,genus,,B944:1,accepted,,,B944:1:60,Pleidae,,,,Heteroptera,Pleidae,,Plea,,Heteroptera | Pleidae,6S8K,2020550,6S8K,2020550
-B944:1:62,Plea minutissima,,Plea,,minutissima,,species,,B944:1,accepted,,,B944:1:61,Plea,,,,Heteroptera,Pleidae,,Plea,,Heteroptera | Pleidae | Plea,4K28X,2020551,4K28X,2020551
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B944:1:1,Heteroptera,,,,,,order,,B944:1,accepted,,,,,,,,Heteroptera,,,,,,Heteroptera,,3264953,,1588281
+B944:1:2,Gerridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Gerridae,,,,Heteroptera,Gerridae,623FR,7881,623FR,7881
+B944:1:3,Aquarius,,,,,,genus,,B944:1,accepted,,,B944:1:2,Gerridae,,,,Heteroptera,Gerridae,,Aquarius,,Heteroptera | Gerridae,Aquarius,ZH4,2020415,ZH4,2020415
+B944:1:4,Aquarius najas,,Aquarius,,najas,,species,,B944:1,accepted,,,B944:1:3,Aquarius,,,,Heteroptera,Gerridae,,Aquarius,,Heteroptera | Gerridae | Aquarius,Aquarius najas,FZJB,5866107,FZJB,5866107
+B944:1:5,Aquarius paludum,,Aquarius,,paludum,,species,,B944:1,accepted,,,B944:1:3,Aquarius,,,,Heteroptera,Gerridae,,Aquarius,,Heteroptera | Gerridae | Aquarius,Aquarius paludum,67QDV,5866108,67QDV,5866108
+B944:1:6,Gerris,,,,,,genus,,B944:1,accepted,,,B944:1:2,Gerridae,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae,Gerris,4N84,2008636,4N84,2008636
+B944:1:7,Gerris argentatus,,Gerris,,argentatus,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,Gerris argentatus,7V545,5758660,7V545,5758660
+B944:1:8,Gerris gibbifer,,Gerris,,gibbifer,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,Gerris gibbifer,7V54H,5758659,7V54H,5758659
+B944:1:9,Gerris lacustris,,Gerris,,lacustris,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,Gerris lacustris,7V54Q,5154105,7V54Q,5154105
+B944:1:10,Gerris lateralis,,Gerris,,lateralis,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,Gerris lateralis,7V55B,5758665,7V55B,5758665
+B944:1:11,Gerris odontogaster,,Gerris,,odontogaster,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,Gerris odontogaster,7V54X,5758658,7V54X,5758658
+B944:1:12,Gerris thoracicus,,Gerris,,thoracicus,,species,,B944:1,accepted,,,B944:1:6,Gerris,,,,Heteroptera,Gerridae,,Gerris,,Heteroptera | Gerridae | Gerris,Gerris thoracicus,7V554,5758661,7V554,5758661
+B944:1:13,Limnoporus,,,,,,genus,,B944:1,accepted,,,B944:1:2,Gerridae,,,,Heteroptera,Gerridae,,Limnoporus,,Heteroptera | Gerridae,Limnoporus,62YMD,2020446,62YMD,2020446
+B944:1:14,Limnoporus rufoscutellatus,,Limnoporus,,rufoscutellatus,,species,,B944:1,accepted,,,B944:1:13,Limnoporus,,,,Heteroptera,Gerridae,,Limnoporus,,Heteroptera | Gerridae | Limnoporus,Limnoporus rufoscutellatus,6QCKK,2020450,6QCKK,2020450
+B944:1:15,Hebridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Hebridae,,,,Heteroptera,Hebridae,6252Q,4312,6252Q,4312
+B944:1:16,Hebrus,,,,,,genus,,B944:1,accepted,,,B944:1:15,Hebridae,,,,Heteroptera,Hebridae,,Hebrus,,Heteroptera | Hebridae,Hebrus,635VT,2020320,635VT,2020320
+B944:1:17,Hebrus pusillus,,Hebrus,,pusillus,,species,,B944:1,accepted,,,B944:1:16,Hebrus,,,,Heteroptera,Hebridae,,Hebrus,,Heteroptera | Hebridae | Hebrus,Hebrus pusillus,3JYF4,2020325,3JYF4,2020325
+B944:1:18,Hebrus ruficeps,,Hebrus,,ruficeps,,species,,B944:1,accepted,,,B944:1:16,Hebrus,,,,Heteroptera,Hebridae,,Hebrus,,Heteroptera | Hebridae | Hebrus,Hebrus ruficeps,3JYF8,4485475,3JYF8,4485475
+B944:1:19,Hydrometridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Hydrometridae,,,,Heteroptera,Hydrometridae,B8R,7884,B8R,7884
+B944:1:20,Hydrometra,,,,,,genus,,B944:1,accepted,,,B944:1:19,Hydrometridae,,,,Heteroptera,Hydrometridae,,Hydrometra,,Heteroptera | Hydrometridae,Hydrometra,4ZTP,2020474,4ZTP,2020474
+B944:1:21,Hydrometra gracilenta,,Hydrometra,,gracilenta,,species,,B944:1,accepted,,,B944:1:20,Hydrometra,,,,Heteroptera,Hydrometridae,,Hydrometra,,Heteroptera | Hydrometridae | Hydrometra,Hydrometra gracilenta,6MJQV,4485514,6MJQV,4485514
+B944:1:22,Hydrometra stagnorum,,Hydrometra,,stagnorum,,species,,B944:1,accepted,,,B944:1:20,Hydrometra,,,,Heteroptera,Hydrometridae,,Hydrometra,,Heteroptera | Hydrometridae | Hydrometra,Hydrometra stagnorum,3N7QM,2049340,3N7QM,2049340
+B944:1:23,Mesoveliidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Mesoveliidae,,,,Heteroptera,Mesoveliidae,CNB,4318,CNB,4318
+B944:1:24,Mesovelia,,,,,,genus,,B944:1,accepted,,,B944:1:23,Mesoveliidae,,,,Heteroptera,Mesoveliidae,,Mesovelia,,Heteroptera | Mesoveliidae,Mesovelia,5Q3C,2012228,5Q3C,2012228
+B944:1:25,Mesovelia furcata,,Mesovelia,,furcata,,species,,B944:1,accepted,,,B944:1:24,Mesovelia,,,,Heteroptera,Mesoveliidae,,Mesovelia,,Heteroptera | Mesoveliidae | Mesovelia,Mesovelia furcata,427GM,2012232,427GM,2012232
+B944:1:26,Veliidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Veliidae,,,,Heteroptera,Veliidae,HSH,7900,HSH,7900
+B944:1:27,Microvelia,,,,,,genus,,B944:1,accepted,,,B944:1:26,Veliidae,,,,Heteroptera,Veliidae,,Microvelia,,Heteroptera | Veliidae,Microvelia,5SLM,2020348,5SLM,2020348
+B944:1:28,Microvelia buenoi,,Microvelia,,buenoi,,species,,B944:1,accepted,,,B944:1:27,Microvelia,,,,Heteroptera,Veliidae,,Microvelia,,Heteroptera | Veliidae | Microvelia,Microvelia buenoi,7VVH8,2020352,7VVH8,2020352
+B944:1:29,Microvelia pygmaea,,Microvelia,,pygmaea,,species,,B944:1,accepted,,,B944:1:27,Microvelia,,,,Heteroptera,Veliidae,,Microvelia,,Heteroptera | Veliidae | Microvelia,Microvelia pygmaea,7VVKH,4485323,7VVKH,4485323
+B944:1:30,Microvelia reticulata,,Microvelia,,reticulata,,species,,B944:1,accepted,,,B944:1:27,Microvelia,,,,Heteroptera,Veliidae,,Microvelia,,Heteroptera | Veliidae | Microvelia,Microvelia reticulata,7VVHW,4485321,7VVHW,4485321
+B944:1:31,Velia,,,,,,genus,,B944:1,accepted,,,B944:1:26,Veliidae,,,,Heteroptera,Veliidae,,Velia,,Heteroptera | Veliidae,Velia,8669,2020395,8669,2020395
+B944:1:32,Velia caprai,,Velia,,caprai,,species,,B944:1,accepted,,,B944:1:31,Velia,,,,Heteroptera,Veliidae,,Velia,,Heteroptera | Veliidae | Velia,Velia caprai,7X77G,4485351,7X77G,4485351
+B944:1:33,Velia saulii,,Velia,,saulii,,species,,B944:1,accepted,,,B944:1:31,Velia,,,,Heteroptera,Veliidae,,Velia,,Heteroptera | Veliidae | Velia,Velia saulii,7X78C,4485339,7X78C,4485339
+B944:1:34,Aphelocheiridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Aphelocheiridae,,,,Heteroptera,Aphelocheiridae,6JZ,3265575,6JZ,3265575
+B944:1:35,Aphelocheirus,,,,,,genus,,B944:1,accepted,,,B944:1:34,Aphelocheiridae,,,,Heteroptera,Aphelocheiridae,,Aphelocheirus,,Heteroptera | Aphelocheiridae,Aphelocheirus,62CXH,3265576,62CXH,3265576
+B944:1:36,Aphelocheirus aestivalis,,Aphelocheirus,,aestivalis,,species,,B944:1,accepted,,,B944:1:35,Aphelocheirus,,,,Heteroptera,Aphelocheiridae,,Aphelocheirus,,Heteroptera | Aphelocheiridae | Aphelocheirus,Aphelocheirus aestivalis,7QYJC,4485511,7QYJC,4485511
+B944:1:37,Corixidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Corixidae,,,,Heteroptera,Corixidae,8KK,6988,8KK,6988
+B944:1:38,Corixa,,,,,,genus,,B944:1,accepted,,,B944:1:37,Corixidae,,,,Heteroptera,Corixidae,,Corixa,,Heteroptera | Corixidae,Corixa,62N2S,5156062,62N2S,5156062
+B944:1:39,Cymatia,,,,,,genus,,B944:1,accepted,,,B944:1:37,Corixidae,,,,Heteroptera,Corixidae,,Cymatia,,Heteroptera | Corixidae,Cymatia,62PRB,2049917,62PRB,2049917
+B944:1:40,Cymatia coleoptrata,,Cymatia,,coleoptrata,,species,,B944:1,accepted,,,B944:1:39,Cymatia,,,,Heteroptera,Corixidae,,Cymatia,,Heteroptera | Corixidae | Cymatia,Cymatia coleoptrata,335T3,2049918,335T3,2049918
+B944:1:41,Naucoridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Naucoridae,,,,Heteroptera,Naucoridae,624PT,4320,624PT,4320
+B944:1:42,Ilyocoris,,,,,,genus,,B944:1,accepted,,,B944:1:41,Naucoridae,,,,Heteroptera,Naucoridae,,Ilyocoris,,Heteroptera | Naucoridae,Ilyocoris,53XD,8194261,53XD,8194261
+B944:1:43,Ilyocoris cimicoides,,Ilyocoris,,cimicoides,,species,,B944:1,accepted,,,B944:1:42,Ilyocoris,,,,Heteroptera,Naucoridae,,Ilyocoris,,Heteroptera | Naucoridae | Ilyocoris,Ilyocoris cimicoides,3PH9Z,4485505,3PH9Z,4485505
+B944:1:44,Naucoris,,,,,,genus,,B944:1,accepted,,,B944:1:41,Naucoridae,,,,Heteroptera,Naucoridae,,Naucoris,,Heteroptera | Naucoridae,Naucoris,5XV9,2020237,5XV9,2020237
+B944:1:45,Naucoris maculatus,,Naucoris,,maculatus,,species,,B944:1,accepted,,,B944:1:44,Naucoris,,,,Heteroptera,Naucoridae,,Naucoris,,Heteroptera | Naucoridae | Naucoris,Naucoris maculatus,745Y9,4485502,745Y9,4485502
+B944:1:46,Micronectidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Micronectidae,,,,Heteroptera,Micronectidae,CRJ,4777847,CRJ,4777847
+B944:1:47,Micronecta,,,,,,genus,,B944:1,accepted,,,B944:1:46,Micronectidae,,,,Heteroptera,Micronectidae,,Micronecta,,Heteroptera | Micronectidae,Micronecta,5S3P,4485457,5S3P,4485457
+B944:1:48,Notonectidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Notonectidae,,,,Heteroptera,Notonectidae,626HD,4322,626HD,4322
+B944:1:49,Notonecta,,,,,,genus,,B944:1,accepted,,,B944:1:48,Notonectidae,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae,Notonecta,65FM,2020516,65FM,2020516
+B944:1:50,Notonecta glauca,,Notonecta,,glauca,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,Notonecta glauca,7W3FT,2020522,7W3FT,2020522
+B944:1:51,Notonecta lutea,,Notonecta,,lutea,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,Notonecta lutea,7W3FW,4485498,7W3FW,4485498
+B944:1:52,Notonecta maculata,,Notonecta,,maculata,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,Notonecta maculata,7W3FX,2020518,7W3FX,2020518
+B944:1:53,Notonecta obliqua,,Notonecta,,obliqua,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,Notonecta obliqua,7W3G4,10728437,7W3G4,10728437
+B944:1:54,Notonecta viridis,,Notonecta,,viridis,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,Notonecta viridis,7W3G8,4485490,7W3G8,4485490
+B944:1:55,Nepidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Nepidae,,,,Heteroptera,Nepidae,DB4,7892,DB4,7892
+B944:1:56,Nepa,,,,,,genus,,B944:1,accepted,,,B944:1:55,Nepidae,,,,Heteroptera,Nepidae,,Nepa,,Heteroptera | Nepidae,Nepa,634F,2007591,634F,2007591
+B944:1:57,Nepa cinerea,,Nepa,,cinerea,,species,,B944:1,accepted,,,B944:1:56,Nepa,,,,Heteroptera,Nepidae,,Nepa,,Heteroptera | Nepidae | Nepa,Nepa cinerea,6RWWL,5152456,6RWWL,5152456
+B944:1:58,Ranatra,,,,,,genus,,B944:1,accepted,,,B944:1:55,Nepidae,,,,Heteroptera,Nepidae,,Ranatra,,Heteroptera | Nepidae,Ranatra,772G,2007594,772G,2007594
+B944:1:59,Ranatra linearis,,Ranatra,,linearis,,species,,B944:1,accepted,,,B944:1:58,Ranatra,,,,Heteroptera,Nepidae,,Ranatra,,Heteroptera | Nepidae | Ranatra,Ranatra linearis,6WQVR,5152464,6WQVR,5152464
+B944:1:60,Pleidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Pleidae,,,,Heteroptera,Pleidae,6263M,9653,6263M,9653
+B944:1:61,Plea,,,,,,genus,,B944:1,accepted,,,B944:1:60,Pleidae,,,,Heteroptera,Pleidae,,Plea,,Heteroptera | Pleidae,Plea,6S8K,2020550,6S8K,2020550
+B944:1:62,Plea minutissima,,Plea,,minutissima,,species,,B944:1,accepted,,,B944:1:61,Plea,,,,Heteroptera,Pleidae,,Plea,,Heteroptera | Pleidae | Plea,Plea minutissima,4K28X,2020551,4K28X,2020551

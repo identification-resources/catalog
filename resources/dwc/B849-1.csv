@@ -1,20 +1,20 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B849:1:1,Barbastella barbastellus,,Barbastella,,barbastellus,,species,,B849:1,accepted,,,,,,,,,,,Barbastella,,,KM7J,2432582,KM7J,2432582
-B849:1:2,Eptesicus nilssonii,,Eptesicus,,nilssonii,,species,,B849:1,accepted,,,,,,,,,,,Eptesicus,,,8LZY2,7261816,8LZY2,7261816
-B849:1:3,Eptesicus serotinus,,Eptesicus,,serotinus,,species,,B849:1,accepted,,,,,,,,,,,Eptesicus,,,8LZ5S,2432359,8LZ5S,2432359
-B849:1:4,Myotis alcathoe,,Myotis,,alcathoe,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,8LZGT,4266346,8LZGT,4266346
-B849:1:5,Myotis bechsteinii,,Myotis,,bechsteinii,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,8LZRX,8634362,8LZRX,8634362
-B849:1:6,Myotis brandtii,,Myotis,,brandtii,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,8LZBM,7261875,8LZBM,7261875
-B849:1:7,Myotis dasycneme,,Myotis,,dasycneme,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,8LZ8D,2432452,8LZ8D,2432452
-B849:1:8,Myotis daubentonii,,Myotis,,daubentonii,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,8LZLR,2432439,8LZLR,2432439
-B849:1:9,Myotis myotis,,Myotis,,myotis,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,8LZKY,2432416,8LZKY,2432416
-B849:1:10,Myotis mystacinus,,Myotis,,mystacinus,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,8LZTK,9754263,8LZTK,9754263
-B849:1:11,Myotis nattereri,,Myotis,,nattereri,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,8LZ4H,2432389,8LZ4H,2432389
-B849:1:12,Nyctalus leisleri,,Nyctalus,,leisleri,,species,,B849:1,accepted,,,,,,,,,,,Nyctalus,,,6SCMV,5218522,6SCMV,5218522
-B849:1:13,Nyctalus noctula,,Nyctalus,,noctula,,species,,B849:1,accepted,,,,,,,,,,,Nyctalus,,,484XC,5218524,484XC,5218524
-B849:1:14,Pipistrellus nathusii,,Pipistrellus,,nathusii,,species,,B849:1,accepted,,,,,,,,,,,Pipistrellus,,,4J6L8,5218471,4J6L8,5218471
-B849:1:15,Pipistrellus pipistrellus,,Pipistrellus,,pipistrellus,,species,,B849:1,accepted,,,,,,,,,,,Pipistrellus,,,6VKNS,5218465,6VKNS,5218465
-B849:1:16,Pipistrellus pygmaeus,,Pipistrellus,,pygmaeus,,species,,B849:1,accepted,,,,,,,,,,,Pipistrellus,,,4J6LJ,5707150,4J6LJ,5707150
-B849:1:17,Plecotus auritus,,Plecotus,,auritus,,species,,B849:1,accepted,,,,,,,,,,,Plecotus,,,4K2Z9,5218507,4K2Z9,5218507
-B849:1:18,Plecotus austriacus,,Plecotus,,austriacus,,species,,B849:1,accepted,,,,,,,,,,,Plecotus,,,6W36Q,5739437,6W36Q,5739437
-B849:1:19,Vespertilio murinus,,Vespertilio,,murinus,,species,,B849:1,accepted,,,,,,,,,,,Vespertilio,,,7FQRQ,7395002,7FQRQ,7395002
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B849:1:1,Barbastella barbastellus,,Barbastella,,barbastellus,,species,,B849:1,accepted,,,,,,,,,,,Barbastella,,,Barbastella barbastellus,KM7J,2432582,KM7J,2432582
+B849:1:2,Eptesicus nilssonii,,Eptesicus,,nilssonii,,species,,B849:1,accepted,,,,,,,,,,,Eptesicus,,,Eptesicus nilssonii,8LZY2,7261816,8LZY2,7261816
+B849:1:3,Eptesicus serotinus,,Eptesicus,,serotinus,,species,,B849:1,accepted,,,,,,,,,,,Eptesicus,,,Eptesicus serotinus,8LZ5S,2432359,8LZ5S,2432359
+B849:1:4,Myotis alcathoe,,Myotis,,alcathoe,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,Myotis alcathoe,8LZGT,4266346,8LZGT,4266346
+B849:1:5,Myotis bechsteinii,,Myotis,,bechsteinii,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,Myotis bechsteinii,8LZRX,8634362,8LZRX,8634362
+B849:1:6,Myotis brandtii,,Myotis,,brandtii,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,Myotis brandtii,8LZBM,7261875,8LZBM,7261875
+B849:1:7,Myotis dasycneme,,Myotis,,dasycneme,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,Myotis dasycneme,8LZ8D,2432452,8LZ8D,2432452
+B849:1:8,Myotis daubentonii,,Myotis,,daubentonii,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,Myotis daubentonii,8LZLR,2432439,8LZLR,2432439
+B849:1:9,Myotis myotis,,Myotis,,myotis,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,Myotis myotis,8LZKY,2432416,8LZKY,2432416
+B849:1:10,Myotis mystacinus,,Myotis,,mystacinus,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,Myotis mystacinus,8LZTK,9754263,8LZTK,9754263
+B849:1:11,Myotis nattereri,,Myotis,,nattereri,,species,,B849:1,accepted,,,,,,,,,,,Myotis,,,Myotis nattereri,8LZ4H,2432389,8LZ4H,2432389
+B849:1:12,Nyctalus leisleri,,Nyctalus,,leisleri,,species,,B849:1,accepted,,,,,,,,,,,Nyctalus,,,Nyctalus leisleri,6SCMV,5218522,6SCMV,5218522
+B849:1:13,Nyctalus noctula,,Nyctalus,,noctula,,species,,B849:1,accepted,,,,,,,,,,,Nyctalus,,,Nyctalus noctula,484XC,5218524,484XC,5218524
+B849:1:14,Pipistrellus nathusii,,Pipistrellus,,nathusii,,species,,B849:1,accepted,,,,,,,,,,,Pipistrellus,,,Pipistrellus nathusii,4J6L8,5218471,4J6L8,5218471
+B849:1:15,Pipistrellus pipistrellus,,Pipistrellus,,pipistrellus,,species,,B849:1,accepted,,,,,,,,,,,Pipistrellus,,,Pipistrellus pipistrellus,6VKNS,5218465,6VKNS,5218465
+B849:1:16,Pipistrellus pygmaeus,,Pipistrellus,,pygmaeus,,species,,B849:1,accepted,,,,,,,,,,,Pipistrellus,,,Pipistrellus pygmaeus,4J6LJ,5707150,4J6LJ,5707150
+B849:1:17,Plecotus auritus,,Plecotus,,auritus,,species,,B849:1,accepted,,,,,,,,,,,Plecotus,,,Plecotus auritus,4K2Z9,5218507,4K2Z9,5218507
+B849:1:18,Plecotus austriacus,,Plecotus,,austriacus,,species,,B849:1,accepted,,,,,,,,,,,Plecotus,,,Plecotus austriacus,6W36Q,5739437,6W36Q,5739437
+B849:1:19,Vespertilio murinus,,Vespertilio,,murinus,,species,,B849:1,accepted,,,,,,,,,,,Vespertilio,,,Vespertilio murinus,7FQRQ,7395002,7FQRQ,7395002

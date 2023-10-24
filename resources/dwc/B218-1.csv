@@ -1,13 +1,13 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B218:1:1,Cynipoidae,,,,,,superfamily,,B218:1,accepted,,,,,,,,,,,,,,,,,
-B218:1:2,Ibaliidae,,,,,,family,,B218:1,accepted,,,B218:1:1,Cynipoidae,,,,,Ibaliidae,,,,Cynipoidae,BCF,4343,BCF,4343
-B218:1:3,Liopteridae,,,,,,family,,B218:1,accepted,,,B218:1:1,Cynipoidae,,,,,Liopteridae,,,,Cynipoidae,,3259269,,3259269
-B218:1:4,Eucoilidae,,,,,,family,,B218:1,accepted,,,B218:1:1,Cynipoidae,,,,,Eucoilidae,,,,Cynipoidae,,4673983,,4673983
-B218:1:5,Figitidae,,,,,,family,,B218:1,accepted,,,B218:1:1,Cynipoidae,,,,,Figitidae,,,,Cynipoidae,62446,6990,62446,6990
-B218:1:6,Aspicerinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:5,Figitidae,,,,,Figitidae,Aspicerinae,,,Cynipoidae | Figitidae,,,,
-B218:1:7,Anacharitinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:5,Figitidae,,,,,Figitidae,Anacharitinae,,,Cynipoidae | Figitidae,,,,
-B218:1:8,Figitinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:5,Figitidae,,,,,Figitidae,Figitinae,,,Cynipoidae | Figitidae,,,,
-B218:1:9,Cynipidae,,,,,,family,,B218:1,accepted,,,B218:1:1,Cynipoidae,,,,,Cynipidae,,,,Cynipoidae,8VX,4339,8VX,4339
-B218:1:10,Pycnostigmatinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:9,Cynipidae,,,,,Cynipidae,Pycnostigmatinae,,,Cynipoidae | Cynipidae,,,,
-B218:1:11,Charipinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:9,Cynipidae,,,,,Cynipidae,Charipinae,,,Cynipoidae | Cynipidae,,,,
-B218:1:12,Cynipinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:9,Cynipidae,,,,,Cynipidae,Cynipinae,,,Cynipoidae | Cynipidae,,,,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B218:1:1,Cynipoidae,,,,,,superfamily,,B218:1,accepted,,,,,,,,,,,,,,CYNIPOIDAE,,,,
+B218:1:2,Ibaliidae,,,,,,family,,B218:1,accepted,,,B218:1:1,Cynipoidae,,,,,Ibaliidae,,,,Cynipoidae,IBALIIDAE,BCF,4343,BCF,4343
+B218:1:3,Liopteridae,,,,,,family,,B218:1,accepted,,,B218:1:1,Cynipoidae,,,,,Liopteridae,,,,Cynipoidae,LIOPTERIDAE,,3259269,,3259269
+B218:1:4,Eucoilidae,,,,,,family,,B218:1,accepted,,,B218:1:1,Cynipoidae,,,,,Eucoilidae,,,,Cynipoidae,EUCOILIDAE,,4673983,,4673983
+B218:1:5,Figitidae,,,,,,family,,B218:1,accepted,,,B218:1:1,Cynipoidae,,,,,Figitidae,,,,Cynipoidae,FIGITIDAE,62446,6990,62446,6990
+B218:1:6,Aspicerinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:5,Figitidae,,,,,Figitidae,Aspicerinae,,,Cynipoidae | Figitidae,ASPICERINAE,,,,
+B218:1:7,Anacharitinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:5,Figitidae,,,,,Figitidae,Anacharitinae,,,Cynipoidae | Figitidae,ANACHARITINAE,,,,
+B218:1:8,Figitinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:5,Figitidae,,,,,Figitidae,Figitinae,,,Cynipoidae | Figitidae,FIGITINAE,,,,
+B218:1:9,Cynipidae,,,,,,family,,B218:1,accepted,,,B218:1:1,Cynipoidae,,,,,Cynipidae,,,,Cynipoidae,CYNIPIDAE,8VX,4339,8VX,4339
+B218:1:10,Pycnostigmatinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:9,Cynipidae,,,,,Cynipidae,Pycnostigmatinae,,,Cynipoidae | Cynipidae,PYCNOSTIGMATINAE,,,,
+B218:1:11,Charipinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:9,Cynipidae,,,,,Cynipidae,Charipinae,,,Cynipoidae | Cynipidae,CHARIPINAE,,,,
+B218:1:12,Cynipinae,,,,,,subfamily,,B218:1,accepted,,,B218:1:9,Cynipidae,,,,,Cynipidae,Cynipinae,,,Cynipoidae | Cynipidae,CYNIPINAE,,,,

@@ -1,73 +1,73 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B150:1:1,Ephemeridae,,,,,,family,,B150:1,accepted,,,,,,,,,Ephemeridae,,,,,9SB,4298,9SB,4298
-B150:1:2,Ephemera L.,L.,,,,,genus,,B150:1,accepted,,,B150:1:1,Ephemeridae,,,,,Ephemeridae,,Ephemera,,Ephemeridae,4CTJ,1407107,4CTJ,1407107
-B150:1:3,Ephemera danica Müller,Müller,Ephemera,,danica,,species,,B150:1,accepted,,,B150:1:2,Ephemera L.,,,,,Ephemeridae,,Ephemera,,Ephemeridae | Ephemera,6FP8R,5716472,6FP8R,5716472
-B150:1:4,Ephemera lineata L.,L.,Ephemera,,lineata,,species,,B150:1,accepted,,,B150:1:2,Ephemera L.,,,,,Ephemeridae,,Ephemera,,Ephemeridae | Ephemera,6FP8D,6096694,6FP8D,6096694
-B150:1:5,Ephemera vulgata Eaton,Eaton,Ephemera,,vulgata,,species,,B150:1,accepted,,,B150:1:2,Ephemera L.,,,,,Ephemeridae,,Ephemera,,Ephemeridae | Ephemera,6FP9C,5864880,6FP9C,5864880
-B150:1:6,Potamanthidae,,,,,,family,,B150:1,accepted,,,,,,,,,Potamanthidae,,,,,627MS,2235,627MS,2235
-B150:1:7,Potamanthus,,,,,,genus,,B150:1,accepted,,,B150:1:6,Potamanthidae,,,,,Potamanthidae,,Potamanthus,,Potamanthidae,6V57,12033390,6V57,12033390
-B150:1:8,Potamanthus luteus (L.),(L.),Potamanthus,,luteus,,species,,B150:1,accepted,,,B150:1:7,Potamanthus,,,,,Potamanthidae,,Potamanthus,,Potamanthidae | Potamanthus,6VVKH,1407105,6VVKH,1407105
-B150:1:9,Leptophlebiidae,,,,,,family,,B150:1,accepted,,,,,,,,,Leptophlebiidae,,,,,BXY,7868,BXY,7868
-B150:1:10,Leptophlebia Westwood,Westwood,,,,,genus,,B150:1,accepted,,,B150:1:9,Leptophlebiidae,,,,,Leptophlebiidae,,Leptophlebia,,Leptophlebiidae,5D97,1407190,5D97,1407190
-B150:1:11,Leptophlebia marginata (L.),(L.),Leptophlebia,,marginata,,species,,B150:1,accepted,,,B150:1:10,Leptophlebia Westwood,,,,,Leptophlebiidae,,Leptophlebia,,Leptophlebiidae | Leptophlebia,6PHPZ,4481232,6PHPZ,4481232
-B150:1:12,Leptophlebia vespertina (L.),(L.),Leptophlebia,,vespertina,,species,,B150:1,accepted,,,B150:1:10,Leptophlebia Westwood,,,,,Leptophlebiidae,,Leptophlebia,,Leptophlebiidae | Leptophlebia,3TT4Y,4481234,3TT4Y,4481234
-B150:1:13,Paraleptophlebia Lestage,Lestage,,,,,genus,,B150:1,accepted,,,B150:1:9,Leptophlebiidae,,,,,Leptophlebiidae,,Paraleptophlebia,,Leptophlebiidae,6F8B,1407240,6F8B,1407240
-B150:1:14,Paraleptophlebia cincta (Brauer),(Brauer),Paraleptophlebia,,cincta,,species,,B150:1,accepted,,,B150:1:13,Paraleptophlebia Lestage,,,,,Leptophlebiidae,,Paraleptophlebia,,Leptophlebiidae | Paraleptophlebia,4CYMS,4481241,4CYMS,4481241
-B150:1:15,Paraleptophlebia submarginata (Stephens),(Stephens),Paraleptophlebia,,submarginata,,species,,B150:1,accepted,,,B150:1:13,Paraleptophlebia Lestage,,,,,Leptophlebiidae,,Paraleptophlebia,,Leptophlebiidae | Paraleptophlebia,6TPYX,4481237,6TPYX,4481237
-B150:1:16,Paraleptophlebia tumida Bengtsson,Bengtsson,Paraleptophlebia,,tumida,,species,,B150:1,accepted,,,B150:1:13,Paraleptophlebia Lestage,,,,,Leptophlebiidae,,Paraleptophlebia,,Leptophlebiidae | Paraleptophlebia,,4481250,,4481249
-B150:1:17,Habrophlebia Eaton,Eaton,,,,,genus,,B150:1,accepted,,,B150:1:9,Leptophlebiidae,,,,,Leptophlebiidae,,Habrophlebia,,Leptophlebiidae,4S9R,1407340,4S9R,1407340
-B150:1:18,Habrophlebia fusca (Curt.),(Curt.),Habrophlebia,,fusca,,species,,B150:1,accepted,,,B150:1:17,Habrophlebia Eaton,,,,,Leptophlebiidae,,Habrophlebia,,Leptophlebiidae | Habrophlebia,3J5T9,1407344,3J5T9,1407344
-B150:1:19,Ephemerellidae,,,,,,family,,B150:1,accepted,,,,,,,,,Ephemerellidae,,,,,623ZC,7870,623ZC,7870
-B150:1:20,Ephemerella Walsh,Walsh,,,,,genus,,B150:1,accepted,,,B150:1:19,Ephemerellidae,,,,,Ephemerellidae,,Ephemerella,,Ephemerellidae,4CTK,1407473,4CTK,1407473
-B150:1:21,Ephemerella ignita (Poda),(Poda),Ephemerella,,ignita,,species,,B150:1,accepted,,,B150:1:20,Ephemerella Walsh,,,,,Ephemerellidae,,Ephemerella,,Ephemerellidae | Ephemerella,,6096704,,4481256
-B150:1:22,Ephemerella notata Eaton,Eaton,Ephemerella,,notata,,species,,B150:1,accepted,,,B150:1:20,Ephemerella Walsh,,,,,Ephemerellidae,,Ephemerella,,Ephemerellidae | Ephemerella,6FP2C,6931868,6FP2C,6931868
-B150:1:23,Caenidae,,,,,,family,,B150:1,accepted,,,,,,,,,Caenidae,,,,,7J4,7869,7J4,7869
-B150:1:24,Caenis Stephens,Stephens,,,,,genus,,B150:1,accepted,,,B150:1:23,Caenidae,,,,,Caenidae,,Caenis,,Caenidae,62JGW,1408104,62JGW,1408104
-B150:1:25,Caenis horaria (L.),(L.),Caenis,,horaria,,species,,B150:1,accepted,,,B150:1:24,Caenis Stephens,,,,,Caenidae,,Caenis,,Caenidae | Caenis,P9LD,5757628,P9LD,5757628
-B150:1:26,Caenis macrura Stephens,Stephens,Caenis,,macrura,,species,,B150:1,accepted,,,B150:1:24,Caenis Stephens,,,,,Caenidae,,Caenis,,Caenidae | Caenis,P9M2,5757633,P9M2,5757633
-B150:1:27,Caenis moesta Bengtsson,Bengtsson,Caenis,,moesta,,species,,B150:1,accepted,,,B150:1:24,Caenis Stephens,,,,,Caenidae,,Caenis,,Caenidae | Caenis,,5757623,,5757622
-B150:1:28,Caenis rivulorum Eaton,Eaton,Caenis,,rivulorum,,species,,B150:1,accepted,,,B150:1:24,Caenis Stephens,,,,,Caenidae,,Caenis,,Caenidae | Caenis,5WSV8,6932828,5WSV8,6932828
-B150:1:29,Brachycercus Curtis,Curtis,,,,,genus,,B150:1,accepted,,,B150:1:23,Caenidae,,,,,Caenidae,,Brachycercus,,Caenidae,62GZG,1409076,62GZG,1409076
-B150:1:30,Brachycercus harrisella Curtis,Curtis,Brachycercus,,harrisella,,species,,B150:1,accepted,,,B150:1:29,Brachycercus Curtis,,,,,Caenidae,,Brachycercus,,Caenidae | Brachycercus,5X29J,5049213,5X29J,5049213
-B150:1:31,Baetidae,,,,,,family,,B150:1,accepted,,,,,,,,,Baetidae,,,,,6ZG,7865,6ZG,7865
-B150:1:32,Baetis Leach,Leach,,,,,genus,,B150:1,accepted,,,B150:1:31,Baetidae,,,,,Baetidae,,Baetis,,Baetidae,62FJ6,1407108,62FJ6,1407108
-B150:1:33,Baetis bioculatus (L.),(L.),Baetis,,bioculatus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,,6096687,,4481156
-B150:1:34,Baetis buceratus Eaton,Eaton,Baetis,,buceratus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,KCXK,4481148,KCXK,4481148
-B150:1:35,Baetis niger (L.),(L.),Baetis,,niger,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,,4481123,,6932170
-B150:1:36,Baetis pumilus (Burmeister),(Burmeister),Baetis,,pumilus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,,6096689,,6932000
-B150:1:37,Baetis rhodani (Pictet),(Pictet),Baetis,,rhodani,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,KD2J,4481106,KD2J,4481106
-B150:1:38,Baetis scambus Eaton,Eaton,Baetis,,scambus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,KD2Q,4481160,KD2Q,4481160
-B150:1:39,Baetis atrebatinus Eaton,Eaton,Baetis,,atrebatinus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,,4481120,,7184552
-B150:1:40,Baetis tenax Eaton,Eaton,Baetis,,tenax,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,,4481088,,4481086
-B150:1:41,Baetis vernus Eaton,Eaton,Baetis,,vernus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,KD3P,4481086,KD3P,4481086
-B150:1:42,Centroptilum Eaton,Eaton,,,,,genus,,B150:1,accepted,,,B150:1:31,Baetidae,,,,,Baetidae,,Centroptilum,,Baetidae,3KB2,1407705,3KB2,1407705
-B150:1:43,Centroptilum luteolum (Müller),(Müller),Centroptilum,,luteolum,,species,,B150:1,accepted,,,B150:1:42,Centroptilum Eaton,,,,,Baetidae,,Centroptilum,,Baetidae | Centroptilum,SB6R,4481189,SB6R,4481189
-B150:1:44,Centroptilum pennulatum Eaton,Eaton,Centroptilum,,pennulatum,,species,,B150:1,accepted,,,B150:1:42,Centroptilum Eaton,,,,,Baetidae,,Centroptilum,,Baetidae | Centroptilum,,1407675,,1407673
-B150:1:45,Cloeon Leach,Leach,,,,,genus,,B150:1,accepted,,,B150:1:31,Baetidae,,,,,Baetidae,,Cloeon,,Baetidae,3R5Y,1407878,3R5Y,1407878
-B150:1:46,Cloeon dipterum (L.),(L.),Cloeon,,dipterum,,species,,B150:1,accepted,,,B150:1:45,Cloeon Leach,,,,,Baetidae,,Cloeon,,Baetidae | Cloeon,5ZC6V,1407879,5ZC6V,1407879
-B150:1:47,Cloeon simile Eaton,Eaton,Cloeon,,simile,,species,,B150:1,accepted,,,B150:1:45,Cloeon Leach,,,,,Baetidae,,Cloeon,,Baetidae | Cloeon,5ZBVV,4481169,5ZBVV,4481169
-B150:1:48,Procloeon Bengtsson,Bengtsson,,,,,genus,,B150:1,accepted,,,B150:1:31,Baetidae,,,,,Baetidae,,Procloëon,,Baetidae,63PRK,1407651,63PRK,1407651
-B150:1:49,"Procloeon bifidum (Bengtsson, 1912)","(Bengtsson, 1912)",Procloeon,,bifidum,,species,,B150:1,accepted,,,B150:1:48,Procloeon Bengtsson,,,,,Baetidae,,Procloëon,,Baetidae | Procloeon,4MNVT,5757566,4MNVT,5757566
-B150:1:50,Siphlonuridae,,,,,,family,,B150:1,accepted,,,,,,,,,Siphlonuridae,,,,,GBG,7866,GBG,7866
-B150:1:51,Ameletus Eaton,Eaton,,,,,genus,,B150:1,accepted,,,B150:1:50,Siphlonuridae,,,,,Siphlonuridae,,Ameletus,,Siphlonuridae,TNJ,1407481,TNJ,1407481
-B150:1:52,Ameletus inopinatus Eaton,Eaton,Ameletus,,inopinatus,,species,,B150:1,accepted,,,B150:1:51,Ameletus Eaton,,,,,Siphlonuridae,,Ameletus,,Siphlonuridae | Ameletus,CQSK,1407518,CQSK,1407518
-B150:1:53,Siphlonurus Eaton,Eaton,,,,,genus,,B150:1,accepted,,,B150:1:50,Siphlonuridae,,,,,Siphlonuridae,,Siphlonurus,,Siphlonuridae,7HM8,1407116,7HM8,1407116
-B150:1:54,Siphlonurus armatus Eaton,Eaton,Siphlonurus,,armatus,,species,,B150:1,accepted,,,B150:1:53,Siphlonurus Eaton,,,,,Siphlonuridae,,Siphlonurus,,Siphlonuridae | Siphlonurus,6YR34,4481035,6YR34,4481035
-B150:1:55,Siphlonurus lacustris Eaton,Eaton,Siphlonurus,,lacustris,,species,,B150:1,accepted,,,B150:1:53,Siphlonurus Eaton,,,,,Siphlonuridae,,Siphlonurus,,Siphlonuridae | Siphlonurus,4XNGS,4481038,4XNGS,4481038
-B150:1:56,Siphlonurus linnaeanus (Eaton),(Eaton),Siphlonurus,,linnaeanus,,species,,B150:1,accepted,,,B150:1:53,Siphlonurus Eaton,,,,,Siphlonuridae,,Siphlonurus,,Siphlonuridae | Siphlonurus,,6096697,,1407136
-B150:1:57,Heptageniidae,,,,,,family,,B150:1,accepted,,,,,,,,,Ecdyonuridae,,,,,624T4,7873,624T4,7873
-B150:1:58,Arthroplea Bengtsson,Bengtsson,,,,,genus,,B150:1,accepted,,,B150:1:57,Heptageniidae,,,,,Ecdyonuridae,,Arthroplea,,Heptageniidae,33DB,1408436,33DB,1408436
-B150:1:59,Arthroplea congener Bengtsson,Bengtsson,Arthroplea,,congener,,species,,B150:1,accepted,,,B150:1:58,Arthroplea Bengtsson,,,,,Ecdyonuridae,,Arthroplea,,Heptageniidae | Arthroplea,GZ6D,4481305,GZ6D,4481305
-B150:1:60,Ecdyonurus Eaton,Eaton,,,,,genus,Eaton,B150:1,accepted,,,B150:1:57,Heptageniidae,,,,,Ecdyonuridae,,Ecdyonurus,,Heptageniidae,632Z8,1408837,632Z8,1408837
-B150:1:61,Ecdyonurus dispar (Curtis),(Curtis),Ecdyonurus,,dispar,,species,,B150:1,accepted,,,B150:1:60,Ecdyonurus Eaton,,,,,Ecdyonuridae,,Ecdyonurus,,Heptageniidae | Ecdyonurus,6DT5C,4481463,6DT5C,4481463
-B150:1:62,Ecdyonurus insignis (Eaton),(Eaton),Ecdyonurus,,insignis,,species,,B150:1,accepted,,,B150:1:60,Ecdyonurus Eaton,,,,,Ecdyonuridae,,Ecdyonurus,,Heptageniidae | Ecdyonurus,6DT57,4481484,6DT57,4481484
-B150:1:63,Ecdyonurus torrentis Kimmins,Kimmins,Ecdyonurus,,torrentis,,species,,B150:1,accepted,,,B150:1:60,Ecdyonurus Eaton,,,,,Ecdyonuridae,,Ecdyonurus,,Heptageniidae | Ecdyonurus,6DST5,4481477,6DST5,4481477
-B150:1:64,Ecdyonurus venosus (F.),(F.),Ecdyonurus,,venosus,,species,,B150:1,accepted,,,B150:1:60,Ecdyonurus Eaton,,,,,Ecdyonuridae,,Ecdyonurus,,Heptageniidae | Ecdyonurus,6DT4T,4481461,6DT4T,4481461
-B150:1:65,Heptagenia Walsh,Walsh,,,,,genus,,B150:1,accepted,,,B150:1:57,Heptageniidae,,,,,Ecdyonuridae,,Heptagenia,,Heptageniidae,4VP8,1407103,4VP8,1407103
-B150:1:66,Heptagenia fuscogrisea (Retzius),(Retzius),Heptagenia,,fuscogrisea,,species,,B150:1,accepted,,,B150:1:65,Heptagenia Walsh,,,,,Ecdyonuridae,,Heptagenia,,Heptageniidae | Heptagenia,,6096705,,4481489
-B150:1:67,Heptagenia lateralis (Curtis),(Curtis),Heptagenia,,lateralis,,species,,B150:1,accepted,,,B150:1:65,Heptagenia Walsh,,,,,Ecdyonuridae,,Heptagenia,,Heptageniidae | Heptagenia,,6096711,,4481521
-B150:1:68,Heptagenia longicauda (Stephens),(Stephens),Heptagenia,,longicauda,,species,,B150:1,accepted,,,B150:1:65,Heptagenia Walsh,,,,,Ecdyonuridae,,Heptagenia,,Heptageniidae | Heptagenia,3KWP4,4481433,3KWP4,4481433
-B150:1:69,Heptagenia sulphurea (Müller),(Müller),Heptagenia,,sulphurea,,species,,B150:1,accepted,,,B150:1:65,Heptagenia Walsh,,,,,Ecdyonuridae,,Heptagenia,,Heptageniidae | Heptagenia,6M42N,4481425,6M42N,4481425
-B150:1:70,Rhithrogena Eaton,Eaton,,,,,genus,,B150:1,accepted,,,B150:1:57,Heptageniidae,,,,,Ecdyonuridae,,Rhithrogena,,Heptageniidae,78W9,1408385,78W9,1408385
-B150:1:71,Rhithrogena haarupi Esben-Petersen,Esben-Petersen,Rhithrogena,,haarupi,,species,,B150:1,accepted,,,B150:1:70,Rhithrogena Eaton,,,,,Ecdyonuridae,,Rhithrogena,,Heptageniidae | Rhithrogena,,4481351,,4481348
-B150:1:72,Rhithrogena semicolorata (Curtis),(Curtis),Rhithrogena,,semicolorata,,species,,B150:1,accepted,,,B150:1:70,Rhithrogena Eaton,,,,,Ecdyonuridae,,Rhithrogena,,Heptageniidae | Rhithrogena,4SBQW,4481359,4SBQW,4481359
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B150:1:1,Ephemeridae,,,,,,family,,B150:1,accepted,,,,,,,,,Ephemeridae,,,,,EPHEMERIDAE,9SB,4298,9SB,4298
+B150:1:2,Ephemera L.,L.,,,,,genus,,B150:1,accepted,,,B150:1:1,Ephemeridae,,,,,Ephemeridae,,Ephemera,,Ephemeridae,Ephemera L.,4CTJ,1407107,4CTJ,1407107
+B150:1:3,Ephemera danica Müller,Müller,Ephemera,,danica,,species,,B150:1,accepted,,,B150:1:2,Ephemera L.,,,,,Ephemeridae,,Ephemera,,Ephemeridae | Ephemera,Ephemera danica Müller,6FP8R,5716472,6FP8R,5716472
+B150:1:4,Ephemera lineata L.,L.,Ephemera,,lineata,,species,,B150:1,accepted,,,B150:1:2,Ephemera L.,,,,,Ephemeridae,,Ephemera,,Ephemeridae | Ephemera,Ephemera lineata L.,6FP8D,6096694,6FP8D,6096694
+B150:1:5,Ephemera vulgata Eaton,Eaton,Ephemera,,vulgata,,species,,B150:1,accepted,,,B150:1:2,Ephemera L.,,,,,Ephemeridae,,Ephemera,,Ephemeridae | Ephemera,Ephemera vulgata Eaton,6FP9C,5864880,6FP9C,5864880
+B150:1:6,Potamanthidae,,,,,,family,,B150:1,accepted,,,,,,,,,Potamanthidae,,,,,POTAMANTHIDAE,627MS,2235,627MS,2235
+B150:1:7,Potamanthus,,,,,,genus,,B150:1,accepted,,,B150:1:6,Potamanthidae,,,,,Potamanthidae,,Potamanthus,,Potamanthidae,Potamanthus,6V57,12033390,6V57,12033390
+B150:1:8,Potamanthus luteus (L.),(L.),Potamanthus,,luteus,,species,,B150:1,accepted,,,B150:1:7,Potamanthus,,,,,Potamanthidae,,Potamanthus,,Potamanthidae | Potamanthus,Potamanthus luteus (L.),6VVKH,1407105,6VVKH,1407105
+B150:1:9,Leptophlebiidae,,,,,,family,,B150:1,accepted,,,,,,,,,Leptophlebiidae,,,,,LEPTOPHLEBIIDAE,BXY,7868,BXY,7868
+B150:1:10,Leptophlebia Westwood,Westwood,,,,,genus,,B150:1,accepted,,,B150:1:9,Leptophlebiidae,,,,,Leptophlebiidae,,Leptophlebia,,Leptophlebiidae,Leptophlebia Westwood,5D97,1407190,5D97,1407190
+B150:1:11,Leptophlebia marginata (L.),(L.),Leptophlebia,,marginata,,species,,B150:1,accepted,,,B150:1:10,Leptophlebia Westwood,,,,,Leptophlebiidae,,Leptophlebia,,Leptophlebiidae | Leptophlebia,Leptophlebia marginata (L.),6PHPZ,4481232,6PHPZ,4481232
+B150:1:12,Leptophlebia vespertina (L.),(L.),Leptophlebia,,vespertina,,species,,B150:1,accepted,,,B150:1:10,Leptophlebia Westwood,,,,,Leptophlebiidae,,Leptophlebia,,Leptophlebiidae | Leptophlebia,Leptophlebia vespertina (L.),3TT4Y,4481234,3TT4Y,4481234
+B150:1:13,Paraleptophlebia Lestage,Lestage,,,,,genus,,B150:1,accepted,,,B150:1:9,Leptophlebiidae,,,,,Leptophlebiidae,,Paraleptophlebia,,Leptophlebiidae,Paraleptophlebia Lestage,6F8B,1407240,6F8B,1407240
+B150:1:14,Paraleptophlebia cincta (Brauer),(Brauer),Paraleptophlebia,,cincta,,species,,B150:1,accepted,,,B150:1:13,Paraleptophlebia Lestage,,,,,Leptophlebiidae,,Paraleptophlebia,,Leptophlebiidae | Paraleptophlebia,Paraleptophlebia cincta (Brauer),4CYMS,4481241,4CYMS,4481241
+B150:1:15,Paraleptophlebia submarginata (Stephens),(Stephens),Paraleptophlebia,,submarginata,,species,,B150:1,accepted,,,B150:1:13,Paraleptophlebia Lestage,,,,,Leptophlebiidae,,Paraleptophlebia,,Leptophlebiidae | Paraleptophlebia,Paraleptophlebia submarginata (Stephens),6TPYX,4481237,6TPYX,4481237
+B150:1:16,Paraleptophlebia tumida Bengtsson,Bengtsson,Paraleptophlebia,,tumida,,species,,B150:1,accepted,,,B150:1:13,Paraleptophlebia Lestage,,,,,Leptophlebiidae,,Paraleptophlebia,,Leptophlebiidae | Paraleptophlebia,Paraleptophlebia tumida Bengtsson,,4481250,,4481249
+B150:1:17,Habrophlebia Eaton,Eaton,,,,,genus,,B150:1,accepted,,,B150:1:9,Leptophlebiidae,,,,,Leptophlebiidae,,Habrophlebia,,Leptophlebiidae,Habrophlebia Eaton,4S9R,1407340,4S9R,1407340
+B150:1:18,Habrophlebia fusca (Curt.),(Curt.),Habrophlebia,,fusca,,species,,B150:1,accepted,,,B150:1:17,Habrophlebia Eaton,,,,,Leptophlebiidae,,Habrophlebia,,Leptophlebiidae | Habrophlebia,Habrophlebia fusca (Curt.),3J5T9,1407344,3J5T9,1407344
+B150:1:19,Ephemerellidae,,,,,,family,,B150:1,accepted,,,,,,,,,Ephemerellidae,,,,,EPHEMERELLIDAE,623ZC,7870,623ZC,7870
+B150:1:20,Ephemerella Walsh,Walsh,,,,,genus,,B150:1,accepted,,,B150:1:19,Ephemerellidae,,,,,Ephemerellidae,,Ephemerella,,Ephemerellidae,Ephemerella Walsh,4CTK,1407473,4CTK,1407473
+B150:1:21,Ephemerella ignita (Poda),(Poda),Ephemerella,,ignita,,species,,B150:1,accepted,,,B150:1:20,Ephemerella Walsh,,,,,Ephemerellidae,,Ephemerella,,Ephemerellidae | Ephemerella,Ephemerella ignita (Poda),,6096704,,4481256
+B150:1:22,Ephemerella notata Eaton,Eaton,Ephemerella,,notata,,species,,B150:1,accepted,,,B150:1:20,Ephemerella Walsh,,,,,Ephemerellidae,,Ephemerella,,Ephemerellidae | Ephemerella,Ephemerella notata Eaton,6FP2C,6931868,6FP2C,6931868
+B150:1:23,Caenidae,,,,,,family,,B150:1,accepted,,,,,,,,,Caenidae,,,,,CAENIDAE,7J4,7869,7J4,7869
+B150:1:24,Caenis Stephens,Stephens,,,,,genus,,B150:1,accepted,,,B150:1:23,Caenidae,,,,,Caenidae,,Caenis,,Caenidae,Caenis Stephens,62JGW,1408104,62JGW,1408104
+B150:1:25,Caenis horaria (L.),(L.),Caenis,,horaria,,species,,B150:1,accepted,,,B150:1:24,Caenis Stephens,,,,,Caenidae,,Caenis,,Caenidae | Caenis,Caenis horaria (L.),P9LD,5757628,P9LD,5757628
+B150:1:26,Caenis macrura Stephens,Stephens,Caenis,,macrura,,species,,B150:1,accepted,,,B150:1:24,Caenis Stephens,,,,,Caenidae,,Caenis,,Caenidae | Caenis,Caenis macrura Stephens,P9M2,5757633,P9M2,5757633
+B150:1:27,Caenis moesta Bengtsson,Bengtsson,Caenis,,moesta,,species,,B150:1,accepted,,,B150:1:24,Caenis Stephens,,,,,Caenidae,,Caenis,,Caenidae | Caenis,Caenis moesta Bengtsson,,5757623,,5757622
+B150:1:28,Caenis rivulorum Eaton,Eaton,Caenis,,rivulorum,,species,,B150:1,accepted,,,B150:1:24,Caenis Stephens,,,,,Caenidae,,Caenis,,Caenidae | Caenis,Caenis rivulorum Eaton,5WSV8,6932828,5WSV8,6932828
+B150:1:29,Brachycercus Curtis,Curtis,,,,,genus,,B150:1,accepted,,,B150:1:23,Caenidae,,,,,Caenidae,,Brachycercus,,Caenidae,Brachycercus Curtis,62GZG,1409076,62GZG,1409076
+B150:1:30,Brachycercus harrisella Curtis,Curtis,Brachycercus,,harrisella,,species,,B150:1,accepted,,,B150:1:29,Brachycercus Curtis,,,,,Caenidae,,Brachycercus,,Caenidae | Brachycercus,Brachycercus harrisella Curtis,5X29J,5049213,5X29J,5049213
+B150:1:31,Baetidae,,,,,,family,,B150:1,accepted,,,,,,,,,Baetidae,,,,,BAETIDAE,6ZG,7865,6ZG,7865
+B150:1:32,Baetis Leach,Leach,,,,,genus,,B150:1,accepted,,,B150:1:31,Baetidae,,,,,Baetidae,,Baetis,,Baetidae,Baetis Leach,62FJ6,1407108,62FJ6,1407108
+B150:1:33,Baetis bioculatus (L.),(L.),Baetis,,bioculatus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,Baetis bioculatus (L.),,6096687,,4481156
+B150:1:34,Baetis buceratus Eaton,Eaton,Baetis,,buceratus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,Baetis buceratus Eaton,KCXK,4481148,KCXK,4481148
+B150:1:35,Baetis niger (L.),(L.),Baetis,,niger,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,Baetis niger (L.),,4481123,,6932170
+B150:1:36,Baetis pumilus (Burmeister),(Burmeister),Baetis,,pumilus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,Baetis pumilus (Burmeister),,6096689,,6932000
+B150:1:37,Baetis rhodani (Pictet),(Pictet),Baetis,,rhodani,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,Baetis rhodani (Pictet),KD2J,4481106,KD2J,4481106
+B150:1:38,Baetis scambus Eaton,Eaton,Baetis,,scambus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,Baetis scambus Eaton,KD2Q,4481160,KD2Q,4481160
+B150:1:39,Baetis atrebatinus Eaton,Eaton,Baetis,,atrebatinus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,Baetis atrebatinus Eaton,,4481120,,7184552
+B150:1:40,Baetis tenax Eaton,Eaton,Baetis,,tenax,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,Baetis tenax Eaton,,4481088,,4481086
+B150:1:41,Baetis vernus Eaton,Eaton,Baetis,,vernus,,species,,B150:1,accepted,,,B150:1:32,Baetis Leach,,,,,Baetidae,,Baetis,,Baetidae | Baetis,Baetis vernus Eaton,KD3P,4481086,KD3P,4481086
+B150:1:42,Centroptilum Eaton,Eaton,,,,,genus,,B150:1,accepted,,,B150:1:31,Baetidae,,,,,Baetidae,,Centroptilum,,Baetidae,Centroptilum Eaton,3KB2,1407705,3KB2,1407705
+B150:1:43,Centroptilum luteolum (Müller),(Müller),Centroptilum,,luteolum,,species,,B150:1,accepted,,,B150:1:42,Centroptilum Eaton,,,,,Baetidae,,Centroptilum,,Baetidae | Centroptilum,Centroptilum luteolum (Müller),SB6R,4481189,SB6R,4481189
+B150:1:44,Centroptilum pennulatum Eaton,Eaton,Centroptilum,,pennulatum,,species,,B150:1,accepted,,,B150:1:42,Centroptilum Eaton,,,,,Baetidae,,Centroptilum,,Baetidae | Centroptilum,Centroptilum pennulatum Eaton,,1407675,,1407673
+B150:1:45,Cloeon Leach,Leach,,,,,genus,,B150:1,accepted,,,B150:1:31,Baetidae,,,,,Baetidae,,Cloeon,,Baetidae,Cloeon Leach,3R5Y,1407878,3R5Y,1407878
+B150:1:46,Cloeon dipterum (L.),(L.),Cloeon,,dipterum,,species,,B150:1,accepted,,,B150:1:45,Cloeon Leach,,,,,Baetidae,,Cloeon,,Baetidae | Cloeon,Cloeon dipterum (L.),5ZC6V,1407879,5ZC6V,1407879
+B150:1:47,Cloeon simile Eaton,Eaton,Cloeon,,simile,,species,,B150:1,accepted,,,B150:1:45,Cloeon Leach,,,,,Baetidae,,Cloeon,,Baetidae | Cloeon,Cloeon simile Eaton,5ZBVV,4481169,5ZBVV,4481169
+B150:1:48,Procloeon Bengtsson,Bengtsson,,,,,genus,,B150:1,accepted,,,B150:1:31,Baetidae,,,,,Baetidae,,Procloëon,,Baetidae,Procloeon Bengtsson,63PRK,1407651,63PRK,1407651
+B150:1:49,"Procloeon bifidum (Bengtsson, 1912)","(Bengtsson, 1912)",Procloeon,,bifidum,,species,,B150:1,accepted,,,B150:1:48,Procloeon Bengtsson,,,,,Baetidae,,Procloëon,,Baetidae | Procloeon,"Procloeon bifidum (Bengtsson, 1912)",4MNVT,5757566,4MNVT,5757566
+B150:1:50,Siphlonuridae,,,,,,family,,B150:1,accepted,,,,,,,,,Siphlonuridae,,,,,SIPHLONURIDAE,GBG,7866,GBG,7866
+B150:1:51,Ameletus Eaton,Eaton,,,,,genus,,B150:1,accepted,,,B150:1:50,Siphlonuridae,,,,,Siphlonuridae,,Ameletus,,Siphlonuridae,Ameletus Eaton,TNJ,1407481,TNJ,1407481
+B150:1:52,Ameletus inopinatus Eaton,Eaton,Ameletus,,inopinatus,,species,,B150:1,accepted,,,B150:1:51,Ameletus Eaton,,,,,Siphlonuridae,,Ameletus,,Siphlonuridae | Ameletus,Ameletus inopinatus Eaton,CQSK,1407518,CQSK,1407518
+B150:1:53,Siphlonurus Eaton,Eaton,,,,,genus,,B150:1,accepted,,,B150:1:50,Siphlonuridae,,,,,Siphlonuridae,,Siphlonurus,,Siphlonuridae,Siphlonurus Eaton,7HM8,1407116,7HM8,1407116
+B150:1:54,Siphlonurus armatus Eaton,Eaton,Siphlonurus,,armatus,,species,,B150:1,accepted,,,B150:1:53,Siphlonurus Eaton,,,,,Siphlonuridae,,Siphlonurus,,Siphlonuridae | Siphlonurus,Siphlonurus armatus Eaton,6YR34,4481035,6YR34,4481035
+B150:1:55,Siphlonurus lacustris Eaton,Eaton,Siphlonurus,,lacustris,,species,,B150:1,accepted,,,B150:1:53,Siphlonurus Eaton,,,,,Siphlonuridae,,Siphlonurus,,Siphlonuridae | Siphlonurus,Siphlonurus lacustris Eaton,4XNGS,4481038,4XNGS,4481038
+B150:1:56,Siphlonurus linnaeanus (Eaton),(Eaton),Siphlonurus,,linnaeanus,,species,,B150:1,accepted,,,B150:1:53,Siphlonurus Eaton,,,,,Siphlonuridae,,Siphlonurus,,Siphlonuridae | Siphlonurus,Siphlonurus linnaeanus (Eaton),,6096697,,1407136
+B150:1:57,Heptageniidae,,,,,,family,,B150:1,accepted,,,,,,,,,Ecdyonuridae,,,,,Heptageniidae,624T4,7873,624T4,7873
+B150:1:58,Arthroplea Bengtsson,Bengtsson,,,,,genus,,B150:1,accepted,,,B150:1:57,Heptageniidae,,,,,Ecdyonuridae,,Arthroplea,,Heptageniidae,Arthroplea Bengtsson,33DB,1408436,33DB,1408436
+B150:1:59,Arthroplea congener Bengtsson,Bengtsson,Arthroplea,,congener,,species,,B150:1,accepted,,,B150:1:58,Arthroplea Bengtsson,,,,,Ecdyonuridae,,Arthroplea,,Heptageniidae | Arthroplea,Arthroplea congener Bengtsson,GZ6D,4481305,GZ6D,4481305
+B150:1:60,Ecdyonurus Eaton,Eaton,,,,,genus,Eaton,B150:1,accepted,,,B150:1:57,Heptageniidae,,,,,Ecdyonuridae,,Ecdyonurus,,Heptageniidae,Ecdyonurus Eaton Eaton,632Z8,1408837,632Z8,1408837
+B150:1:61,Ecdyonurus dispar (Curtis),(Curtis),Ecdyonurus,,dispar,,species,,B150:1,accepted,,,B150:1:60,Ecdyonurus Eaton,,,,,Ecdyonuridae,,Ecdyonurus,,Heptageniidae | Ecdyonurus,Ecdyonurus dispar (Curtis),6DT5C,4481463,6DT5C,4481463
+B150:1:62,Ecdyonurus insignis (Eaton),(Eaton),Ecdyonurus,,insignis,,species,,B150:1,accepted,,,B150:1:60,Ecdyonurus Eaton,,,,,Ecdyonuridae,,Ecdyonurus,,Heptageniidae | Ecdyonurus,Ecdyonurus insignis (Eaton),6DT57,4481484,6DT57,4481484
+B150:1:63,Ecdyonurus torrentis Kimmins,Kimmins,Ecdyonurus,,torrentis,,species,,B150:1,accepted,,,B150:1:60,Ecdyonurus Eaton,,,,,Ecdyonuridae,,Ecdyonurus,,Heptageniidae | Ecdyonurus,Ecdyonurus torrentis Kimmins,6DST5,4481477,6DST5,4481477
+B150:1:64,Ecdyonurus venosus (F.),(F.),Ecdyonurus,,venosus,,species,,B150:1,accepted,,,B150:1:60,Ecdyonurus Eaton,,,,,Ecdyonuridae,,Ecdyonurus,,Heptageniidae | Ecdyonurus,Ecdyonurus venosus (F.),6DT4T,4481461,6DT4T,4481461
+B150:1:65,Heptagenia Walsh,Walsh,,,,,genus,,B150:1,accepted,,,B150:1:57,Heptageniidae,,,,,Ecdyonuridae,,Heptagenia,,Heptageniidae,Heptagenia Walsh,4VP8,1407103,4VP8,1407103
+B150:1:66,Heptagenia fuscogrisea (Retzius),(Retzius),Heptagenia,,fuscogrisea,,species,,B150:1,accepted,,,B150:1:65,Heptagenia Walsh,,,,,Ecdyonuridae,,Heptagenia,,Heptageniidae | Heptagenia,Heptagenia fuscogrisea (Retzius),,6096705,,4481489
+B150:1:67,Heptagenia lateralis (Curtis),(Curtis),Heptagenia,,lateralis,,species,,B150:1,accepted,,,B150:1:65,Heptagenia Walsh,,,,,Ecdyonuridae,,Heptagenia,,Heptageniidae | Heptagenia,Heptagenia lateralis (Curtis),,6096711,,4481521
+B150:1:68,Heptagenia longicauda (Stephens),(Stephens),Heptagenia,,longicauda,,species,,B150:1,accepted,,,B150:1:65,Heptagenia Walsh,,,,,Ecdyonuridae,,Heptagenia,,Heptageniidae | Heptagenia,Heptagenia longicauda (Stephens),3KWP4,4481433,3KWP4,4481433
+B150:1:69,Heptagenia sulphurea (Müller),(Müller),Heptagenia,,sulphurea,,species,,B150:1,accepted,,,B150:1:65,Heptagenia Walsh,,,,,Ecdyonuridae,,Heptagenia,,Heptageniidae | Heptagenia,Heptagenia sulphurea (Müller),6M42N,4481425,6M42N,4481425
+B150:1:70,Rhithrogena Eaton,Eaton,,,,,genus,,B150:1,accepted,,,B150:1:57,Heptageniidae,,,,,Ecdyonuridae,,Rhithrogena,,Heptageniidae,Rhithrogena Eaton,78W9,1408385,78W9,1408385
+B150:1:71,Rhithrogena haarupi Esben-Petersen,Esben-Petersen,Rhithrogena,,haarupi,,species,,B150:1,accepted,,,B150:1:70,Rhithrogena Eaton,,,,,Ecdyonuridae,,Rhithrogena,,Heptageniidae | Rhithrogena,Rhithrogena haarupi Esben-Petersen,,4481351,,4481348
+B150:1:72,Rhithrogena semicolorata (Curtis),(Curtis),Rhithrogena,,semicolorata,,species,,B150:1,accepted,,,B150:1:70,Rhithrogena Eaton,,,,,Ecdyonuridae,,Rhithrogena,,Heptageniidae | Rhithrogena,Rhithrogena semicolorata (Curtis),4SBQW,4481359,4SBQW,4481359

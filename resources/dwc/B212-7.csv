@@ -1,4 +1,4 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B212:7:1,Zimmerini,,,,,,tribe,,B212:7,accepted,,,,,,,,,,,,,,,,,
-B212:7:2,Zimmeria Heinrich,Heinrich,,,,,genus,,B212:7,accepted,,,B212:7:1,Zimmerini,,,,,,,Zimmeria,,Zimmerini,,3259318,,1294247
-B212:7:3,Zimmeria dirus (Wesmael),(Wesmael),Zimmeria,,dirus,,species,,B212:7,accepted,,,B212:7:2,Zimmeria Heinrich,,,,,,,Zimmeria,,Zimmerini | Zimmeria,,11272919,,1294249
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B212:7:1,Zimmerini,,,,,,tribe,,B212:7,accepted,,,,,,,,,,,,,,ZIMMERINI,,,,
+B212:7:2,Zimmeria Heinrich,Heinrich,,,,,genus,,B212:7,accepted,,,B212:7:1,Zimmerini,,,,,,,Zimmeria,,Zimmerini,Zimmeria Heinrich,,3259318,,1294247
+B212:7:3,Zimmeria dirus (Wesmael),(Wesmael),Zimmeria,,dirus,,species,,B212:7,accepted,,,B212:7:2,Zimmeria Heinrich,,,,,,,Zimmeria,,Zimmerini | Zimmeria,dirus (Wesmael),,11272919,,1294249

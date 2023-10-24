@@ -1,18 +1,18 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B39:1:1,Chrysopinae,,,,,,subfamily,,B39:1,accepted,,,,,,,,,,Chrysopinae,,,,,,,
-B39:1:2,Belonopterygini,,,,,,tribe,,B39:1,accepted,,,B39:1:1,Chrysopinae,,,,,,Chrysopinae,,,Chrysopinae,,,,
-B39:1:3,"Italochrysa Principi, 1946","Principi, 1946",,,,,genus,,B39:1,accepted,,,B39:1:2,Belonopterygini,,,,,,Chrysopinae,Italochrysa,,Chrysopinae | Belonopterygini,55SP,2104544,55SP,2104544
-B39:1:4,Chrysopini,,,,,,tribe,,B39:1,accepted,,,B39:1:1,Chrysopinae,,,,,,Chrysopinae,,,Chrysopinae,,,,
-B39:1:5,"Suarius Navas, 1911","Navas, 1911",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Suarius,,Chrysopinae | Chrysopini,63TPZ,2105193,63TPZ,2105193
-B39:1:6,"Rexa Navas, 1920","Navas, 1920",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Rexa,,Chrysopinae | Chrysopini,77YS,2103990,77YS,2103990
-B39:1:7,"Mallada Navas, 1925","Navas, 1925",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Mallada,,Chrysopinae | Chrysopini,5KL6,2104765,5KL6,2104765
-B39:1:8,"Cunctochrysa Hölzel, 1970","Hölzel, 1970",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Cuntochrysa,,Chrysopinae | Chrysopini,62PZZ,2104253,62PZZ,2104253
-B39:1:9,"Chrysopidia Navas, 1910","Navas, 1910",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Chrysopidia,,Chrysopinae | Chrysopini,3PKV,11390112,3PKV,11390112
-B39:1:10,"Brinckochrysa Tjeder, 1966","Tjeder, 1966",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Brinckochrysa,,Chrysopinae | Chrysopini,62H3Y,2105062,62H3Y,2105062
-B39:1:11,"Nineta Navas, 1912","Navas, 1912",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Nineta,,Chrysopinae | Chrysopini,647L,2104130,647L,2104130
-B39:1:12,"Peyerimhoffina Lacroix, 1920","Lacroix, 1920",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Peyerimhoffina,,Chrysopinae | Chrysopini,6M83,2105631,6M83,2105631
-B39:1:13,"Chrysoperla Steinmann, 1964","Steinmann, 1964",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Chrysoperla,,Chrysopinae | Chrysopini,3PKJ,2105310,3PKJ,2105310
-B39:1:14,"Chrysopa Leach, 1815","Leach, 1815",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Chrysopa,,Chrysopinae | Chrysopini,62LNN,2101894,62LNN,2101894
-B39:1:15,Nothochrysinae,,,,,,subfamily,,B39:1,accepted,,,,,,,,,,Nothochrysinae,,,,,,,
-B39:1:16,"Nothochrysa McLachlan, 1868","McLachlan, 1868",,,,,genus,,B39:1,accepted,,,B39:1:15,Nothochrysinae,,,,,,Nothochrysinae,Nothochrysa,,Nothochrysinae,653R,2103955,653R,2103955
-B39:1:17,"Hypochrysa Hagen, 1866","Hagen, 1866",,,,,genus,,B39:1,accepted,,,B39:1:15,Nothochrysinae,,,,,,Nothochrysinae,Hypochrysa,,Nothochrysinae,52NJ,2104964,52NJ,2104964
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B39:1:1,Chrysopinae,,,,,,subfamily,,B39:1,accepted,,,,,,,,,,Chrysopinae,,,,CHRYSOPINAE,,,,
+B39:1:2,Belonopterygini,,,,,,tribe,,B39:1,accepted,,,B39:1:1,Chrysopinae,,,,,,Chrysopinae,,,Chrysopinae,BELONOPTERYGINI,,,,
+B39:1:3,"Italochrysa Principi, 1946","Principi, 1946",,,,,genus,,B39:1,accepted,,,B39:1:2,Belonopterygini,,,,,,Chrysopinae,Italochrysa,,Chrysopinae | Belonopterygini,"Italochrysa Principi, 1946",55SP,2104544,55SP,2104544
+B39:1:4,Chrysopini,,,,,,tribe,,B39:1,accepted,,,B39:1:1,Chrysopinae,,,,,,Chrysopinae,,,Chrysopinae,CHRYSOPINI,,,,
+B39:1:5,"Suarius Navas, 1911","Navas, 1911",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Suarius,,Chrysopinae | Chrysopini,"Suarius Navas, 1911",63TPZ,2105193,63TPZ,2105193
+B39:1:6,"Rexa Navas, 1920","Navas, 1920",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Rexa,,Chrysopinae | Chrysopini,"Rexa Navas, 1920",77YS,2103990,77YS,2103990
+B39:1:7,"Mallada Navas, 1925","Navas, 1925",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Mallada,,Chrysopinae | Chrysopini,"Mallada Navas, 1925",5KL6,2104765,5KL6,2104765
+B39:1:8,"Cunctochrysa Hölzel, 1970","Hölzel, 1970",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Cuntochrysa,,Chrysopinae | Chrysopini,"Cunctochrysa Hölzel, 1970",62PZZ,2104253,62PZZ,2104253
+B39:1:9,"Chrysopidia Navas, 1910","Navas, 1910",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Chrysopidia,,Chrysopinae | Chrysopini,"Chrysopidia Navas, 1910",3PKV,11390112,3PKV,11390112
+B39:1:10,"Brinckochrysa Tjeder, 1966","Tjeder, 1966",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Brinckochrysa,,Chrysopinae | Chrysopini,"Brinckochrysa Tjeder, 1966",62H3Y,2105062,62H3Y,2105062
+B39:1:11,"Nineta Navas, 1912","Navas, 1912",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Nineta,,Chrysopinae | Chrysopini,"Nineta Navas, 1912",647L,2104130,647L,2104130
+B39:1:12,"Peyerimhoffina Lacroix, 1920","Lacroix, 1920",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Peyerimhoffina,,Chrysopinae | Chrysopini,"Peyerimhoffina Lacroix, 1920",6M83,2105631,6M83,2105631
+B39:1:13,"Chrysoperla Steinmann, 1964","Steinmann, 1964",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Chrysoperla,,Chrysopinae | Chrysopini,"Chrysoperla Steinmann, 1964",3PKJ,2105310,3PKJ,2105310
+B39:1:14,"Chrysopa Leach, 1815","Leach, 1815",,,,,genus,,B39:1,accepted,,,B39:1:4,Chrysopini,,,,,,Chrysopinae,Chrysopa,,Chrysopinae | Chrysopini,"Chrysopa Leach, 1815",62LNN,2101894,62LNN,2101894
+B39:1:15,Nothochrysinae,,,,,,subfamily,,B39:1,accepted,,,,,,,,,,Nothochrysinae,,,,NOTHOCHRYSINAE,,,,
+B39:1:16,"Nothochrysa McLachlan, 1868","McLachlan, 1868",,,,,genus,,B39:1,accepted,,,B39:1:15,Nothochrysinae,,,,,,Nothochrysinae,Nothochrysa,,Nothochrysinae,"Nothochrysa McLachlan, 1868",653R,2103955,653R,2103955
+B39:1:17,"Hypochrysa Hagen, 1866","Hagen, 1866",,,,,genus,,B39:1,accepted,,,B39:1:15,Nothochrysinae,,,,,,Nothochrysinae,Hypochrysa,,Nothochrysinae,"Hypochrysa Hagen, 1866",52NJ,2104964,52NJ,2104964

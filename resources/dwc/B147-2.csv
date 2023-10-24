@@ -1,24 +1,24 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B147:2:1,Plecoptera,,,,,,order,,B147:2,accepted,,,,,,,,Plecoptera,,,,,,9CHXG,787,9CHXG,787
-B147:2:2,Taeniopterygidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Taeniopterygidae,,,,Plecoptera,8MPKC,2994,8MPKC,2994
-B147:2:3,Taeniopteryx,,,,,,genus,,B147:2,accepted,,,B147:2:2,Taeniopterygidae,,,,Plecoptera,Taeniopterygidae,,Taeniopteryx,,Plecoptera | Taeniopterygidae,8MVF5,2001548,8MVF5,2001548
-B147:2:4,Brachyptera,,,,,,genus,,B147:2,accepted,,,B147:2:2,Taeniopterygidae,,,,Plecoptera,Taeniopterygidae,,Brachyptera,,Plecoptera | Taeniopterygidae,8MQ9N,2001466,8MQ9N,2001466
-B147:2:5,Nemouridae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Nemouridae,,,,Plecoptera,8MPGQ,2997,8MPGQ,2997
-B147:2:6,Protonemura,,,,,,genus,,B147:2,accepted,,,B147:2:5,Nemouridae,,,,Plecoptera,Nemouridae,,Protonemura,,Plecoptera | Nemouridae,8MTRH,2003179,8MTRH,2003179
-B147:2:7,Amphinemura,,,,,,genus,,B147:2,accepted,,,B147:2:5,Nemouridae,,,,Plecoptera,Nemouridae,,Amphinemura,,Plecoptera | Nemouridae,8MPZP,11326566,8MPZP,11326566
-B147:2:8,Nemoura,,,,,,genus,,B147:2,accepted,,,B147:2:5,Nemouridae,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae,8MQT5,2001440,8MQT5,2001440
-B147:2:9,Nemurella,,,,,,genus,,B147:2,accepted,,,B147:2:5,Nemouridae,,,,Plecoptera,Nemouridae,,Nemurella,,Plecoptera | Nemouridae,8MSZY,2002690,8MSZY,2002690
-B147:2:10,Capniidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Capniidae,,,,Plecoptera,8MPBL,9386,8MPBL,9386
-B147:2:11,Capnia,,,,,,genus,,B147:2,accepted,,,B147:2:10,Capniidae,,,,Plecoptera,Capniidae,,Capnia,,Plecoptera | Capniidae,8MQD6,10497399,8MQD6,10497399
-B147:2:12,Leuctridae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Leuctridae,,,,Plecoptera,8MPFF,2998,8MPFF,2998
-B147:2:13,Leuctra,,,,,,genus,,B147:2,accepted,,,B147:2:12,Leuctridae,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae,8MRN7,10278948,8MRN7,10278948
-B147:2:14,Perlidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Perlidae,,,,Plecoptera,8MPHF,7223,8MPHF,7223
-B147:2:15,Perla,,,,,,genus,,B147:2,accepted,,,B147:2:14,Perlidae,,,,Plecoptera,Perlidae,,Perla,,Plecoptera | Perlidae,8MT7Z,2001220,8MT7Z,2001220
-B147:2:16,Perlodidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Perlodidae,,,,Plecoptera,8MPHH,2996,8MPHH,2996
-B147:2:17,Perlodes,,,,,,genus,,B147:2,accepted,,,B147:2:16,Perlodidae,,,,Plecoptera,Perlodidae,,Perlodes,,Plecoptera | Perlodidae,8MTJD,2003960,8MTJD,2003960
-B147:2:18,"Diura Billberg, 1820","Billberg, 1820",,,,,genus,,B147:2,accepted,,,B147:2:16,Perlodidae,,,,Plecoptera,Perlodidae,,Diura,,Plecoptera | Perlodidae,8MQW7,5986713,8MQW7,5986713
-B147:2:19,Dictyopterygella,,,,,,genus,,B147:2,synonym,B147:2:18,"Diura Billberg, 1820",,,,,,Plecoptera,Perlodidae,,Dictyopterygella,,Plecoptera | Perlodidae,8NGWS,2004524,8MQW7,5986713
-B147:2:20,Isoperlidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Isoperlidae,,,,Plecoptera,8NH7G,4383016,8MPHH,2996
-B147:2:21,Isoperla,,,,,,genus,,B147:2,accepted,,,B147:2:20,Isoperlidae,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae,8MRFY,11354082,8MRFY,11354082
-B147:2:22,Chloroperlidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Chloroperlidae,,,,Plecoptera,8MPBZ,9387,8MPBZ,9387
-B147:2:23,Chloroperla,,,,,,genus,,B147:2,accepted,,,B147:2:22,Chloroperlidae,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae,8MQHB,2001248,8MQHB,2001248
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B147:2:1,Plecoptera,,,,,,order,,B147:2,accepted,,,,,,,,Plecoptera,,,,,,PLECOPTERA,9CHXG,787,9CHXG,787
+B147:2:2,Taeniopterygidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Taeniopterygidae,,,,Plecoptera,TAENIOPTERYGIDAE,8MPKC,2994,8MPKC,2994
+B147:2:3,Taeniopteryx,,,,,,genus,,B147:2,accepted,,,B147:2:2,Taeniopterygidae,,,,Plecoptera,Taeniopterygidae,,Taeniopteryx,,Plecoptera | Taeniopterygidae,Taeniopteryx,8MVF5,2001548,8MVF5,2001548
+B147:2:4,Brachyptera,,,,,,genus,,B147:2,accepted,,,B147:2:2,Taeniopterygidae,,,,Plecoptera,Taeniopterygidae,,Brachyptera,,Plecoptera | Taeniopterygidae,Brachyptera,8MQ9N,2001466,8MQ9N,2001466
+B147:2:5,Nemouridae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Nemouridae,,,,Plecoptera,NEMOURIDAE,8MPGQ,2997,8MPGQ,2997
+B147:2:6,Protonemura,,,,,,genus,,B147:2,accepted,,,B147:2:5,Nemouridae,,,,Plecoptera,Nemouridae,,Protonemura,,Plecoptera | Nemouridae,Protonemura,8MTRH,2003179,8MTRH,2003179
+B147:2:7,Amphinemura,,,,,,genus,,B147:2,accepted,,,B147:2:5,Nemouridae,,,,Plecoptera,Nemouridae,,Amphinemura,,Plecoptera | Nemouridae,Amphinemura,8MPZP,11326566,8MPZP,11326566
+B147:2:8,Nemoura,,,,,,genus,,B147:2,accepted,,,B147:2:5,Nemouridae,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae,Nemoura,8MQT5,2001440,8MQT5,2001440
+B147:2:9,Nemurella,,,,,,genus,,B147:2,accepted,,,B147:2:5,Nemouridae,,,,Plecoptera,Nemouridae,,Nemurella,,Plecoptera | Nemouridae,Nemurella,8MSZY,2002690,8MSZY,2002690
+B147:2:10,Capniidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Capniidae,,,,Plecoptera,CAPNIIDAE,8MPBL,9386,8MPBL,9386
+B147:2:11,Capnia,,,,,,genus,,B147:2,accepted,,,B147:2:10,Capniidae,,,,Plecoptera,Capniidae,,Capnia,,Plecoptera | Capniidae,Capnia,8MQD6,10497399,8MQD6,10497399
+B147:2:12,Leuctridae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Leuctridae,,,,Plecoptera,LEUCTRIDAE,8MPFF,2998,8MPFF,2998
+B147:2:13,Leuctra,,,,,,genus,,B147:2,accepted,,,B147:2:12,Leuctridae,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae,Leuctra,8MRN7,10278948,8MRN7,10278948
+B147:2:14,Perlidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Perlidae,,,,Plecoptera,PERLIDAE,8MPHF,7223,8MPHF,7223
+B147:2:15,Perla,,,,,,genus,,B147:2,accepted,,,B147:2:14,Perlidae,,,,Plecoptera,Perlidae,,Perla,,Plecoptera | Perlidae,Perla,8MT7Z,2001220,8MT7Z,2001220
+B147:2:16,Perlodidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Perlodidae,,,,Plecoptera,PERLODIDAE,8MPHH,2996,8MPHH,2996
+B147:2:17,Perlodes,,,,,,genus,,B147:2,accepted,,,B147:2:16,Perlodidae,,,,Plecoptera,Perlodidae,,Perlodes,,Plecoptera | Perlodidae,Perlodes,8MTJD,2003960,8MTJD,2003960
+B147:2:18,"Diura Billberg, 1820","Billberg, 1820",,,,,genus,,B147:2,accepted,,,B147:2:16,Perlodidae,,,,Plecoptera,Perlodidae,,Diura,,Plecoptera | Perlodidae,"Diura Billberg, 1820",8MQW7,5986713,8MQW7,5986713
+B147:2:19,Dictyopterygella,,,,,,genus,,B147:2,synonym,B147:2:18,"Diura Billberg, 1820",,,,,,Plecoptera,Perlodidae,,Dictyopterygella,,Plecoptera | Perlodidae,Dictyopterygella,8NGWS,2004524,8MQW7,5986713
+B147:2:20,Isoperlidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Isoperlidae,,,,Plecoptera,ISOPERLIDAE,8NH7G,4383016,8MPHH,2996
+B147:2:21,Isoperla,,,,,,genus,,B147:2,accepted,,,B147:2:20,Isoperlidae,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae,Isoperla,8MRFY,11354082,8MRFY,11354082
+B147:2:22,Chloroperlidae,,,,,,family,,B147:2,accepted,,,B147:2:1,Plecoptera,,,,Plecoptera,Chloroperlidae,,,,Plecoptera,CHLOROPERLIDAE,8MPBZ,9387,8MPBZ,9387
+B147:2:23,Chloroperla,,,,,,genus,,B147:2,accepted,,,B147:2:22,Chloroperlidae,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae,Chloroperla,8MQHB,2001248,8MQHB,2001248

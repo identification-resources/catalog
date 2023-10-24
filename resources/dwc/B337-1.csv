@@ -1,21 +1,21 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B337:1:1,Asteraceae,,,,,,family,,B337:1,accepted,,,,,,,,,Asteraceae,,,,,622TP,3065,622TP,3065
-B337:1:2,Carduus nutans,,Carduus,,nutans,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Carduus,,Asteraceae,R6ZB,8185959,R6ZB,8185959
-B337:1:3,Carduus tenuiflorus,,Carduus,,tenuiflorus,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Carduus,,Asteraceae,R76H,3114627,R76H,3114627
-B337:1:4,Carlina vulgaris,,Carlina,,vulgaris,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Carlina,,Asteraceae,69C38,7918820,69C38,7918820
-B337:1:5,Centauria calcitrapa,,Centauria,,calcitrapa,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Centaurie,,Asteraceae,S68Z,3128483,S68Z,3128483
-B337:1:6,Centauria jacea,,Centauria,,jacea,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Centaurie,,Asteraceae,S6S6,3128547,S6S6,3128547
-B337:1:7,Cirsium acanthoides,,Cirsium,,acanthoides,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,,11234304,,7759962
-B337:1:8,Cirsium acaule,,Cirsium,,acaule,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,,8324412,,8324412
-B337:1:9,Cirsium arvense,,Cirsium,,arvense,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,VHPB,3113414,VHPB,3113414
-B337:1:10,Cirsium crispus,,Cirsium,,crispus,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,,,,
-B337:1:11,Cirsium dissectum,,Cirsium,,dissectum,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,VHV3,3113784,VHV3,3113784
-B337:1:12,Cirsium eriophorum,,Cirsium,,eriophorum,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,VHVZ,3112620,B2Z47,3112620
-B337:1:13,Cirsium oleraceum,,Cirsium,,oleraceum,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,VJ8V,3113650,VJ8V,3113650
-B337:1:14,Cirsium palustre,,Cirsium,,palustre,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,VJ9F,3113239,VJ9F,3113239
-B337:1:15,Cirsium vulgare,,Cirsium,,vulgare,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,VJJT,3112801,VJJT,3112801
-B337:1:16,Echinops exaltatus,,Echinops,,exaltatus,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Echinops,,Asteraceae,6DV77,5392683,6DV77,5392683
-B337:1:17,Echinops sphaerocephalus,,Echinops,,sphaerocephalus,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Echinops,,Asteraceae,38K8R,5392883,38K8R,5392883
-B337:1:18,Onopordum acanthium,,Onopordum,,acanthium,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Onopordum,,Asteraceae,49LG8,3094900,49LG8,3094900
-B337:1:19,Silybum maranum,,Silybum,,maranum,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Silybum,,Asteraceae,6YPNF,3145214,6YPNF,3145214
-B337:1:20,Arctium,,,,,,genus,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Arctium,,Asteraceae,32BQ,8106066,32BQ,8106066
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B337:1:1,Asteraceae,,,,,,family,,B337:1,accepted,,,,,,,,,Asteraceae,,,,,Asteraceae,622TP,3065,622TP,3065
+B337:1:2,Carduus nutans,,Carduus,,nutans,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Carduus,,Asteraceae,Carduus nutans,R6ZB,8185959,R6ZB,8185959
+B337:1:3,Carduus tenuiflorus,,Carduus,,tenuiflorus,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Carduus,,Asteraceae,Carduus tenuiflorus,R76H,3114627,R76H,3114627
+B337:1:4,Carlina vulgaris,,Carlina,,vulgaris,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Carlina,,Asteraceae,Carlina vulgaris,69C38,7918820,69C38,7918820
+B337:1:5,Centauria calcitrapa,,Centauria,,calcitrapa,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Centaurie,,Asteraceae,Centauria calcitrapa,S68Z,3128483,S68Z,3128483
+B337:1:6,Centauria jacea,,Centauria,,jacea,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Centaurie,,Asteraceae,Centauria jacea,S6S6,3128547,S6S6,3128547
+B337:1:7,Cirsium acanthoides,,Cirsium,,acanthoides,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,Cirsium acanthoides,,11234304,,7759962
+B337:1:8,Cirsium acaule,,Cirsium,,acaule,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,Cirsium acaule,,8324412,,8324412
+B337:1:9,Cirsium arvense,,Cirsium,,arvense,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,Cirsium arvense,VHPB,3113414,VHPB,3113414
+B337:1:10,Cirsium crispus,,Cirsium,,crispus,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,Cirsium crispus,,,,
+B337:1:11,Cirsium dissectum,,Cirsium,,dissectum,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,Cirsium dissectum,VHV3,3113784,VHV3,3113784
+B337:1:12,Cirsium eriophorum,,Cirsium,,eriophorum,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,Cirsium eriophorum,VHVZ,3112620,B2Z47,3112620
+B337:1:13,Cirsium oleraceum,,Cirsium,,oleraceum,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,Cirsium oleraceum,VJ8V,3113650,VJ8V,3113650
+B337:1:14,Cirsium palustre,,Cirsium,,palustre,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,Cirsium palustre,VJ9F,3113239,VJ9F,3113239
+B337:1:15,Cirsium vulgare,,Cirsium,,vulgare,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Cirsium,,Asteraceae,Cirsium vulgare,VJJT,3112801,VJJT,3112801
+B337:1:16,Echinops exaltatus,,Echinops,,exaltatus,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Echinops,,Asteraceae,Echinops exaltatus,6DV77,5392683,6DV77,5392683
+B337:1:17,Echinops sphaerocephalus,,Echinops,,sphaerocephalus,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Echinops,,Asteraceae,Echinops sphaerocephalus,38K8R,5392883,38K8R,5392883
+B337:1:18,Onopordum acanthium,,Onopordum,,acanthium,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Onopordum,,Asteraceae,Onopordum acanthium,49LG8,3094900,49LG8,3094900
+B337:1:19,Silybum maranum,,Silybum,,maranum,,species,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Silybum,,Asteraceae,Silybum maranum,6YPNF,3145214,6YPNF,3145214
+B337:1:20,Arctium,,,,,,genus,,B337:1,accepted,,,B337:1:1,Asteraceae,,,,,Asteraceae,,Arctium,,Asteraceae,Arctium,32BQ,8106066,32BQ,8106066

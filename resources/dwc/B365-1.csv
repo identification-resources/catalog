@@ -1,19 +1,19 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B365:1:1,Paederinae,,,,,,subfamily,,B365:1,accepted,,,,,,,,,,Paederinae,,,,9J9JV,,9J9JV,
-B365:1:2,Ochtephilum Steph.,Steph.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Ochtephilum,,Paederinae,,4744784,,4744784
-B365:1:3,Paederidus Muls.,Muls.,,,,,genus,et Rey,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Paederidus,,Paederinae,9KVJ3,4406886,9KVJ3,4406886
-B365:1:4,Paederus F.,F.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Paederus,,Paederinae,9JBDL,3262381,9JBDL,3262381
-B365:1:5,Astenus Dej.,Dej.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Astenus,,Paederinae,9J9W9,5431102,9J9W9,5431102
-B365:1:6,Rugilus Leach,Leach,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Rugilus,,Paederinae,9JBJ7,7833921,9JBJ7,7833921
-B365:1:7,Scopaeus Er.,Er.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Scopaeus,,Paederinae,9JBJM,4404665,9JBJM,4404665
-B365:1:8,Achenium Sam.,Sam.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Achenium,,Paederinae,9JGNS,8497168,9JGNS,8497168
-B365:1:9,Dolicaon Castel.,Castel.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Dolicaon,,Paederinae,9LBX9,5431115,9LBX9,5431115
-B365:1:10,Scymbalium Er.,Er.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Scymbalium,,Paederinae,9KVQN,4404459,9KVQN,4404459
-B365:1:11,Sunius Curt.,Curt.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Sunius,,Paederinae,9JBL5,10967695,9JBL5,10967695
-B365:1:12,Medon Steph.,Steph.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Medon,,Paederinae,9JB93,1040422,9JB93,1040422
-B365:1:13,Luzea Blackw.,Blackw.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Luzea,,Paederinae,9LDKW,9193256,9LDKW,9193256
-B365:1:14,Lithocharis Dej.,Dej.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Lithocharis,,Paederinae,9JB8J,1039332,9JB8J,1039332
-B365:1:15,Pseudomedon Muls.,Muls.,,,,,genus,et Rey,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Pseudomedon,,Paederinae,9JBH7,4439751,9JBH7,4439751
-B365:1:16,Domene Fauv.,Fauv.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Domene,,Paederinae,9KV36,4406872,9KV36,4406872
-B365:1:17,Lobrathium Muls.,Muls.,,,,,genus,et Rey,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Lobrathium,,Paederinae,9JB8L,4407237,9JB8L,4407237
-B365:1:18,Lathrobium Grav.,Grav.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Lathrobium,,Paederinae,9JB7S,4290502,9JB7S,4290502
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B365:1:1,Paederinae,,,,,,subfamily,,B365:1,accepted,,,,,,,,,,Paederinae,,,,Paederinae,9J9JV,,9J9JV,
+B365:1:2,Ochtephilum Steph.,Steph.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Ochtephilum,,Paederinae,Ochtephilum Steph.,,4744784,,4744784
+B365:1:3,Paederidus Muls.,Muls.,,,,,genus,et Rey,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Paederidus,,Paederinae,Paederidus Muls. et Rey,9KVJ3,4406886,9KVJ3,4406886
+B365:1:4,Paederus F.,F.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Paederus,,Paederinae,Paederus F.,9JBDL,3262381,9JBDL,3262381
+B365:1:5,Astenus Dej.,Dej.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Astenus,,Paederinae,Astenus Dej.,9J9W9,5431102,9J9W9,5431102
+B365:1:6,Rugilus Leach,Leach,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Rugilus,,Paederinae,Rugilus Leach,9JBJ7,7833921,9JBJ7,7833921
+B365:1:7,Scopaeus Er.,Er.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Scopaeus,,Paederinae,Scopaeus Er.,9JBJM,4404665,9JBJM,4404665
+B365:1:8,Achenium Sam.,Sam.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Achenium,,Paederinae,Achenium Sam.,9JGNS,8497168,9JGNS,8497168
+B365:1:9,Dolicaon Castel.,Castel.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Dolicaon,,Paederinae,Dolicaon Castel.,9LBX9,5431115,9LBX9,5431115
+B365:1:10,Scymbalium Er.,Er.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Scymbalium,,Paederinae,Scymbalium Er.,9KVQN,4404459,9KVQN,4404459
+B365:1:11,Sunius Curt.,Curt.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Sunius,,Paederinae,Sunius Curt.,9JBL5,10967695,9JBL5,10967695
+B365:1:12,Medon Steph.,Steph.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Medon,,Paederinae,Medon Steph.,9JB93,1040422,9JB93,1040422
+B365:1:13,Luzea Blackw.,Blackw.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Luzea,,Paederinae,Luzea Blackw.,9LDKW,9193256,9LDKW,9193256
+B365:1:14,Lithocharis Dej.,Dej.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Lithocharis,,Paederinae,Lithocharis Dej.,9JB8J,1039332,9JB8J,1039332
+B365:1:15,Pseudomedon Muls.,Muls.,,,,,genus,et Rey,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Pseudomedon,,Paederinae,Pseudomedon Muls. et Rey,9JBH7,4439751,9JBH7,4439751
+B365:1:16,Domene Fauv.,Fauv.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Domene,,Paederinae,Domene Fauv.,9KV36,4406872,9KV36,4406872
+B365:1:17,Lobrathium Muls.,Muls.,,,,,genus,et Rey,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Lobrathium,,Paederinae,Lobrathium Muls. et Rey,9JB8L,4407237,9JB8L,4407237
+B365:1:18,Lathrobium Grav.,Grav.,,,,,genus,,B365:1,accepted,,,B365:1:1,Paederinae,,,,,,Paederinae,Lathrobium,,Paederinae,Lathrobium Grav.,9JB7S,4290502,9JB7S,4290502

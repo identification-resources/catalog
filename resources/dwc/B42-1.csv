@@ -1,8 +1,8 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B42:1:1,"Sphegina clavata (Scopoli, 1763)","(Scopoli, 1763)",Sphegina,,clavata,,species,,B42:1,accepted,,,,,,,,,,,Sphegina,,,8F42Q,1535610,8F42Q,1535610
-B42:1:2,"Sphegina nigra Meigen, 1822","Meigen, 1822",Sphegina,,nigra,,species,,B42:1,synonym,B42:1:1,"Sphegina clavata (Scopoli, 1763)",,,,,,,,,Sphegina,,,8F43H,1535642,8F43H,1535642
-B42:1:3,"Sphegina clunipes (Fallén, 1817)","(Fallén, 1817)",Sphegina,,clunipes,,species,,B42:1,accepted,,,,,,,,,,,Sphegina,,,8F42S,1535561,8F42S,1535561
-B42:1:4,"Sphegina elegans (Schummel, 1843)","(Schummel, 1843)",Sphegina,,elegans,,species,,B42:1,accepted,,,,,,,,,,,Sphegina,,,8F42W,1535656,8F42W,1535656
-B42:1:5,"Sphegina kimakowiczi Strobl,","Strobl,",Sphegina,,kimakowiczi,,species,1897 ,B42:1,synonym,B42:1:4,"Sphegina elegans (Schummel, 1843)",,,,,,,,,Sphegina,,,8F45V,1535659,8F42W,1535656
-B42:1:6,"Sphegina sibirica Stackelberg, 1953","Stackelberg, 1953",Sphegina,,sibirica,,species,,B42:1,accepted,,,,,,,,,,,Sphegina,,,8F3ZK,1535634,8F3ZK,1535634
-B42:1:7,"Sphegina verecunda Collin, 1937","Collin, 1937",Sphegina,,verecunda,,species,,B42:1,accepted,,,,,,,,,,,Sphegina,,,8F444,1535651,8F444,1535651
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B42:1:1,"Sphegina clavata (Scopoli, 1763)","(Scopoli, 1763)",Sphegina,,clavata,,species,,B42:1,accepted,,,,,,,,,,,Sphegina,,,"Sphegina clavata (Scopoli, 1763)",8F42Q,1535610,8F42Q,1535610
+B42:1:2,"Sphegina nigra Meigen, 1822","Meigen, 1822",Sphegina,,nigra,,species,,B42:1,synonym,B42:1:1,"Sphegina clavata (Scopoli, 1763)",,,,,,,,,Sphegina,,,"Sphegina nigra Meigen, 1822",8F43H,1535642,8F43H,1535642
+B42:1:3,"Sphegina clunipes (Fallén, 1817)","(Fallén, 1817)",Sphegina,,clunipes,,species,,B42:1,accepted,,,,,,,,,,,Sphegina,,,"Sphegina clunipes (Fallén, 1817)",8F42S,1535561,8F42S,1535561
+B42:1:4,"Sphegina elegans (Schummel, 1843)","(Schummel, 1843)",Sphegina,,elegans,,species,,B42:1,accepted,,,,,,,,,,,Sphegina,,,"Sphegina elegans (Schummel, 1843)",8F42W,1535656,8F42W,1535656
+B42:1:5,"Sphegina kimakowiczi Strobl,","Strobl,",Sphegina,,kimakowiczi,,species,1897 ,B42:1,synonym,B42:1:4,"Sphegina elegans (Schummel, 1843)",,,,,,,,,Sphegina,,,"Sphegina kimakowiczi Strobl, 1897 ",8F45V,1535659,8F42W,1535656
+B42:1:6,"Sphegina sibirica Stackelberg, 1953","Stackelberg, 1953",Sphegina,,sibirica,,species,,B42:1,accepted,,,,,,,,,,,Sphegina,,,"Sphegina sibirica Stackelberg, 1953",8F3ZK,1535634,8F3ZK,1535634
+B42:1:7,"Sphegina verecunda Collin, 1937","Collin, 1937",Sphegina,,verecunda,,species,,B42:1,accepted,,,,,,,,,,,Sphegina,,,"Sphegina verecunda Collin, 1937",8F444,1535651,8F444,1535651

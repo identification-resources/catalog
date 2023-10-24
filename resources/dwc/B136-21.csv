@@ -1,5 +1,5 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B136:21:1,Corticaria,,,,,,genus,,B136:21,accepted,,,,,,,,,,,Corticaria,,,62M9K,1043833,62M9K,1043833
-B136:21:2,Corticaria orbicollis Mnh.,Mnh.,Corticaria,,orbicollis,,species,,B136:21,accepted,,,B136:21:1,Corticaria,,,,,,,Corticaria,,Corticaria,,4451011,,4451011
-B136:21:3,Corticaria munsteri Strand,Strand,Corticaria,,munsteri,,species,,B136:21,synonym,B136:21:2,Corticaria orbicollis Mnh.,,,,,,,,,Corticaria,,Corticaria,,4451012,,4451011
-B136:21:4,Corticaria abietum,,Corticaria,,abietum,,species,,B136:21,accepted,,,B136:21:1,Corticaria,,,,,,,Corticaria,,Corticaria,,10273413,,4450862
+scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:21:1,Corticaria,,,,,,genus,,B136:21,accepted,,,,,,,,,,,Corticaria,,,Corticaria,62M9K,1043833,62M9K,1043833
+B136:21:2,Corticaria orbicollis Mnh.,Mnh.,Corticaria,,orbicollis,,species,,B136:21,accepted,,,B136:21:1,Corticaria,,,,,,,Corticaria,,Corticaria,orbicollis Mnh.,,4451011,,4451011
+B136:21:3,Corticaria munsteri Strand,Strand,Corticaria,,munsteri,,species,,B136:21,synonym,B136:21:2,Corticaria orbicollis Mnh.,,,,,,,,,Corticaria,,Corticaria,munsteri Strand,,4451012,,4451011
+B136:21:4,Corticaria abietum,,Corticaria,,abietum,,species,,B136:21,accepted,,,B136:21:1,Corticaria,,,,,,,Corticaria,,Corticaria,abietum,,10273413,,4450862
