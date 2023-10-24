@@ -1,4 +1,4 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B135:1:1,Hydrometridae,,,,,,family,,B135:1,accepted,,,,,,,,,Hydrometridae,,,,,Hydrometridae,B8R,7884,B8R,7884
 B135:1:2,Hydrometra,,,,,,genus,,B135:1,accepted,,,B135:1:1,Hydrometridae,,,,,Hydrometridae,,Hydrometra,,Hydrometridae,Hydrometra,4ZTP,2020474,4ZTP,2020474
 B135:1:3,Hydrometra stagnorum (L.),(L.),Hydrometra,,stagnorum,,species,,B135:1,accepted,,,B135:1:2,Hydrometra,,,,,Hydrometridae,,Hydrometra,,Hydrometridae | Hydrometra,stagnorum (L.),3N7QM,2049340,3N7QM,2049340
@@ -18,10 +18,10 @@ B135:1:16,Gerris argentatus Schummel,Schummel,Gerris,,argentatus,,species,,B135:
 B135:1:17,Gerris odontogaster (Zetterstedt),(Zetterstedt),Gerris,,odontogaster,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,odontogaster (Zetterstedt),7V54X,5758658,7V54X,5758658
 B135:1:18,Gerris lacustris (L.),(L.),Gerris,,lacustris,,species,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,,Gerridae | Gerris,lacustris (L.),7V54Q,5154105,7V54Q,5154105
 B135:1:19,Limnoporus,,,,,,subgenus,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,Limnoporus,Gerridae | Gerris,Limnoporus,62YMD,,62YMD,
-B135:1:20,Gerris rufoscutellatus (Latreille),(Latreille),Gerris,,rufoscutellatus,,species,,B135:1,accepted,,,B135:1:19,Limnoporus,,,,,Gerridae,,Gerris,Limnoporus,Gerridae | Gerris | Limnoporus,rufoscutellatus (Latreille),6KFRY,5154132,6QCKK,2020450
+B135:1:20,Gerris rufoscutellatus (Latreille),(Latreille),Gerris,Limnoporus,rufoscutellatus,,species,,B135:1,accepted,,,B135:1:19,Limnoporus,,,,,Gerridae,,Gerris,Limnoporus,Gerridae | Gerris | Limnoporus,rufoscutellatus (Latreille),6KFRY,5154132,6QCKK,2020450
 B135:1:21,Aquarius,,,,,,subgenus,,B135:1,accepted,,,B135:1:13,Gerris,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris,Aquarius,ZH4,,ZH4,
-B135:1:22,Gerris paludum (Fabricius),(Fabricius),Gerris,,paludum,,species,,B135:1,accepted,,,B135:1:21,Aquarius,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris | Aquarius,paludum (Fabricius),,5758651,,5866108
-B135:1:23,Gerris najas (Degeer),(Degeer),Gerris,,najas,,species,,B135:1,accepted,,,B135:1:21,Aquarius,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris | Aquarius,najas (Degeer),,6096736,,5866107
+B135:1:22,Gerris paludum (Fabricius),(Fabricius),Gerris,Aquarius,paludum,,species,,B135:1,accepted,,,B135:1:21,Aquarius,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris | Aquarius,paludum (Fabricius),,5758651,,5866108
+B135:1:23,Gerris najas (Degeer),(Degeer),Gerris,Aquarius,najas,,species,,B135:1,accepted,,,B135:1:21,Aquarius,,,,,Gerridae,,Gerris,Aquarius,Gerridae | Gerris | Aquarius,najas (Degeer),,6096736,,5866107
 B135:1:24,Corixidae,,,,,,family,,B135:1,accepted,,,,,,,,,Corixidae,,,,,Corixidae,8KK,6988,8KK,6988
 B135:1:25,Veliidae,,,,,,family,,B135:1,accepted,,,,,,,,,Veliidae,,,,,Veliidae,HSH,7900,HSH,7900
 B135:1:26,Microvelia,,,,,,genus,,B135:1,accepted,,,B135:1:25,Veliidae,,,,,Veliidae,,Microvelia,,Veliidae,Microvelia,5SLM,2020348,5SLM,2020348

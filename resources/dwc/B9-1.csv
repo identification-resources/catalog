@@ -1,4 +1,4 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B9:1:1,Andrenosoma atra,,Andrenosoma,,atra,,species,,B9:1,accepted,,,,,,,,,,,Andrenosoma,,,Andrenosoma atra,8TLH4,1657781,8TLH4,1657781
 B9:1:2,Antipalus varipes,,Antipalus,,varipes,,species,,B9:1,accepted,,,,,,,,,,,Antipalus,,,Antipalus varipes,8B29M,4515372,8B29M,4515372
 B9:1:3,Asilus crabroniformis,,Asilus,,crabroniformis,,species,,B9:1,accepted,,,,,,,,,,,Asilus,,,Asilus crabroniformis,5W5T5,1659278,5W5T5,1659278
@@ -18,7 +18,7 @@ B9:1:16,Dioctria longicornis,,Dioctria,,longicornis,,species,,B9:1,accepted,,,,,
 B9:1:17,Dioctria oelandica,,Dioctria,,oelandica,,species,,B9:1,accepted,,,,,,,,,,,Dioctria,,,Dioctria oelandica,8BSRH,1656438,8BSRH,1656438
 B9:1:18,Dioctria rufipes,,Dioctria,,rufipes,,species,,B9:1,accepted,,,,,,,,,,,Dioctria,,,Dioctria rufipes,6D7J9,9064239,6D7J9,9064239
 B9:1:19,Dioctria sudetica,,Dioctria,,sudetica,,species,,B9:1,accepted,,,,,,,,,,,Dioctria,,,Dioctria sudetica,8BSS2,1656444,8BSS2,1656444
-B9:1:20,Dysmachus picipes,,Dysmachus,,picipes,,species,,B9:1,accepted,,,,,,,,,,,Dysmachus,Didysmachus,,Dysmachus (Didysmachus) picipes,,5091219,,5091219
+B9:1:20,Dysmachus picipes,,Dysmachus,Didysmachus,picipes,,species,,B9:1,accepted,,,,,,,,,,,Dysmachus,Didysmachus,,Dysmachus (Didysmachus) picipes,,5091219,,5091219
 B9:1:21,Dysmachus trigonus,,Dysmachus,,trigonus,,species,,B9:1,accepted,,,,,,,,,,,Dysmachus,,,Dysmachus trigonus,389LR,1659167,389LR,1659167
 B9:1:22,Erax punctipennis,,Erax,,punctipennis,,species,,B9:1,accepted,,,,,,,,,,,Erax,,,Erax punctipennis,6GC5F,1661602,6GC5F,1661602
 B9:1:23,Eutolmus rufibarbis,,Eutolmus,,rufibarbis,,species,,B9:1,accepted,,,,,,,,,,,Eutolmus,,,Eutolmus rufibarbis,3DDWS,1658957,3DDWS,1658957
@@ -33,16 +33,16 @@ B9:1:31,Leptogaster cylindrica,,Leptogaster,,cylindrica,,species,,B9:1,accepted,
 B9:1:32,Leptogaster guttiventris,,Leptogaster,,guttiventris,,species,,B9:1,accepted,,,,,,,,,,,Leptogaster,,,Leptogaster guttiventris,3TP6F,5090866,3TP6F,5090866
 B9:1:33,Leptogaster subtilis,,Leptogaster,,subtilis,,species,,B9:1,accepted,,,,,,,,,,,Leptogaster,,,Leptogaster subtilis,6PGSQ,5090862,6PGSQ,5090862
 B9:1:34,Machimus arthriticus,,Machimus,,arthriticus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,,,Machimus arthriticus,,4515468,,1657845
-B9:1:35,Machimus atricapillus,,Machimus,,atricapillus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Tolmerus,,Machimus (Tolmerus) atricapillus,3WZ9H,1656153,3WZ9H,1656153
-B9:1:36,Machimus atricapillus,,Machimus,,atricapillus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Tolmerus,,Machimus (Tolmerus) atricapillus,3WZ9H,1656153,3WZ9H,1656153
+B9:1:35,Machimus atricapillus,,Machimus,Tolmerus,atricapillus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Tolmerus,,Machimus (Tolmerus) atricapillus,3WZ9H,1656153,3WZ9H,1656153
+B9:1:36,Machimus atricapillus,,Machimus,Tolmerus,atricapillus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Tolmerus,,Machimus (Tolmerus) atricapillus,3WZ9H,1656153,3WZ9H,1656153
 B9:1:37,Machimus caliginosus,,Machimus,,caliginosus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,,,Machimus caliginosus,8CPC6,1655947,8CPC6,1655947
-B9:1:38,Machimus cingulatus,,Machimus,,cingulatus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Tolmerus,,Machimus (Tolmerus) cingulatus,,6097947,,1657852
-B9:1:39,Machimus cowini,,Machimus,,cowini,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Tolmerus,,Machimus (Tolmerus) cowini,,4515311,,7867499
+B9:1:38,Machimus cingulatus,,Machimus,Tolmerus,cingulatus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Tolmerus,,Machimus (Tolmerus) cingulatus,,6097947,,1657852
+B9:1:39,Machimus cowini,,Machimus,Tolmerus,cowini,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Tolmerus,,Machimus (Tolmerus) cowini,,4515311,,7867499
 B9:1:40,Machimus gonatistes,,Machimus,,gonatistes,,species,,B9:1,accepted,,,,,,,,,,,Machimus,,,Machimus gonatistes,8CPCV,1655974,8CPCV,1655974
-B9:1:41,Machimus micans,,Machimus,,micans,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Tolmerus,,Machimus (Tolmerus) micans,,,,
+B9:1:41,Machimus micans,,Machimus,Tolmerus,micans,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Tolmerus,,Machimus (Tolmerus) micans,,,,
 B9:1:42,Machimus rusticus,,Machimus,,rusticus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,,,Machimus rusticus,,1656209,,1656209
 B9:1:43,Machimus setibarbus,,Machimus,,setibarbus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,,,Machimus setibarbus,8CPF2,4515477,8CPF2,4515477
-B9:1:44,Machimus setosulus,,Machimus,,setosulus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Neoepitriptus,,Machimus (Neoepitriptus) setosulus,,6097946,,1657840
+B9:1:44,Machimus setosulus,,Machimus,Neoepitriptus,setosulus,,species,,B9:1,accepted,,,,,,,,,,,Machimus,Neoepitriptus,,Machimus (Neoepitriptus) setosulus,,6097946,,1657840
 B9:1:45,Molobratia teutonus,,Molobratia,,teutonus,,species,,B9:1,accepted,,,,,,,,,,,Molobratia,,,Molobratia teutonus,43WRQ,1655858,43WRQ,1655858
 B9:1:46,Neoitamus cothurnatus,,Neoitamus,,cothurnatus,,species,,B9:1,accepted,,,,,,,,,,,Neoitamus,,,Neoitamus cothurnatus,46JQV,1661966,46JQV,1661966
 B9:1:47,Neoitamus cyanurus,,Neoitamus,,cyanurus,,species,,B9:1,accepted,,,,,,,,,,,Neoitamus,,,Neoitamus cyanurus,46JQX,1661975,46JQX,1661975

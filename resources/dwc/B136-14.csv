@@ -1,34 +1,34 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,intragenericEpithet,specificEpithet,intraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B136:14:1,Atomaria,,,,,,genus,,B136:14,accepted,,,,,,,,,,,Atomaria,,,Atomaria,356C,3260984,63FT6,3260984
 B136:14:2,Anchicera,,,,,,subgenus,,B136:14,accepted,,,B136:14:1,Atomaria,,,,,,,Atomaria,Anchicera,Atomaria,Anchicera,,,,
-B136:14:3,Atomaria munda Er.,Er.,Atomaria,,munda,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,munda Er.,,5749265,,5749265
-B136:14:4,Atomaria impressa Er.,Er.,Atomaria,,impressa,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,impressa Er.,,5749132,,5749132
-B136:14:5,Atomaria pusilla Schønh.,Schønh.,Atomaria,,pusilla,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,pusilla Schønh.,,5749280,,5749280
-B136:14:6,Atomaria fuscipes Gyll,Gyll,Atomaria,,fuscipes,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,fuscipes Gyll,,5716420,,5716420
-B136:14:7,Atomaria peltata Kr.,Kr.,Atomaria,,peltata,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,peltata Kr.,,5749241,,5749241
-B136:14:8,Atomaria peltataeformis Sjøb.,Sjøb.,Atomaria,,peltataeformis,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,peltataeformis Sjøb.,,6943302,,6943302
-B136:14:9,Atomaria lewisi Reitter,Reitter,Atomaria,,lewisi,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,lewisi Reitter,,5749277,,5749277
-B136:14:10,Atomaria clavigera Ganglb.,Ganglb.,Atomaria,,clavigera,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,clavigera Ganglb.,,5749191,,5749191
-B136:14:11,Atomaria soedermani Sjøb.,Sjøb.,Atomaria,,soedermani,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,soedermani Sjøb.,,6943256,,6943256
-B136:14:12,Atomaria semitestacea Reitter,Reitter,Atomaria,,semitestacea,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,semitestacea Reitter,,6943295,,6943205
-B136:14:13,Atomaria nitidula (Mrsh.),(Mrsh.),Atomaria,,nitidula,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,nitidula (Mrsh.),,6943225,,6943225
-B136:14:14,Atomaria borealis Sjøb.,Sjøb.,Atomaria,,borealis,,species,,B136:14,synonym,B136:14:13,Atomaria nitidula (Mrsh.),,,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,borealis Sjøb.,,6943226,,6943225
-B136:14:15,Atomaria ruficornis Mrsh.,Mrsh.,Atomaria,,ruficornis,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,ruficornis Mrsh.,,6943390,,5749203
-B136:14:16,Atomaria hislopi Woll.,Woll.,Atomaria,,hislopi,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,hislopi Woll.,,6943324,,6943324
+B136:14:3,Atomaria munda Er.,Er.,Atomaria,Anchicera,munda,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,munda Er.,,5749265,,5749265
+B136:14:4,Atomaria impressa Er.,Er.,Atomaria,Anchicera,impressa,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,impressa Er.,,5749132,,5749132
+B136:14:5,Atomaria pusilla Schønh.,Schønh.,Atomaria,Anchicera,pusilla,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,pusilla Schønh.,,5749280,,5749280
+B136:14:6,Atomaria fuscipes Gyll,Gyll,Atomaria,Anchicera,fuscipes,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,fuscipes Gyll,,5716420,,5716420
+B136:14:7,Atomaria peltata Kr.,Kr.,Atomaria,Anchicera,peltata,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,peltata Kr.,,5749241,,5749241
+B136:14:8,Atomaria peltataeformis Sjøb.,Sjøb.,Atomaria,Anchicera,peltataeformis,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,peltataeformis Sjøb.,,6943302,,6943302
+B136:14:9,Atomaria lewisi Reitter,Reitter,Atomaria,Anchicera,lewisi,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,lewisi Reitter,,5749277,,5749277
+B136:14:10,Atomaria clavigera Ganglb.,Ganglb.,Atomaria,Anchicera,clavigera,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,clavigera Ganglb.,,5749191,,5749191
+B136:14:11,Atomaria soedermani Sjøb.,Sjøb.,Atomaria,Anchicera,soedermani,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,soedermani Sjøb.,,6943256,,6943256
+B136:14:12,Atomaria semitestacea Reitter,Reitter,Atomaria,Anchicera,semitestacea,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,semitestacea Reitter,,6943295,,6943205
+B136:14:13,Atomaria nitidula (Mrsh.),(Mrsh.),Atomaria,Anchicera,nitidula,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,nitidula (Mrsh.),,6943225,,6943225
+B136:14:14,Atomaria borealis Sjøb.,Sjøb.,Atomaria,Anchicera,borealis,,species,,B136:14,synonym,B136:14:13,Atomaria nitidula (Mrsh.),,,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,borealis Sjøb.,,6943226,,6943225
+B136:14:15,Atomaria ruficornis Mrsh.,Mrsh.,Atomaria,Anchicera,ruficornis,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,ruficornis Mrsh.,,6943390,,5749203
+B136:14:16,Atomaria hislopi Woll.,Woll.,Atomaria,Anchicera,hislopi,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,hislopi Woll.,,6943324,,6943324
 B136:14:17,Atomaria,,,,,,subgenus,s.str.,B136:14,accepted,,,B136:14:1,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria,Atomaria s.str.,356C,,63FT6,
-B136:14:18,Atomaria prolixa Er.,Er.,Atomaria,,prolixa,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,prolixa Er.,,6943311,,6943247
-B136:14:19,Atomaria procerula Er.,Er.,Atomaria,,procerula,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,procerula Er.,,5749184,,6943202
-B136:14:20,Atomaria atrata Rtt.,Rtt.,Atomaria,,atrata,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,atrata Rtt.,,6943310,,6943310
-B136:14:21,Atomaria strandi Johnson,Johnson,Atomaria,,strandi,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,strandi Johnson,,6943368,,6943368
-B136:14:22,Atomaria fimetarii Herb.,Herb.,Atomaria,,fimetarii,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,fimetarii Herb.,,5749175,,8042552
-B136:14:23,Atomaria umbrina Gyll.,Gyll.,Atomaria,,umbrina,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,umbrina Gyll.,,5749168,,5749168
-B136:14:24,Atomaria diluta Er.,Er.,Atomaria,,diluta,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,diluta Er.,,5749153,,5749153
-B136:14:25,Atomaria sparreschneideri Munster,Munster,Atomaria,,sparreschneideri,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,sparreschneideri Munster,,6943389,,6943389
-B136:14:26,Atomaria fuscicollis Mnh.,Mnh.,Atomaria,,fuscicollis,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,fuscicollis Mnh.,,6943321,,6943264
-B136:14:27,Atomaria linearis Steph.,Steph.,Atomaria,,linearis,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,linearis Steph.,,5749156,,5749156
-B136:14:28,Atomaria alpina Heer,Heer,Atomaria,,alpina,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,alpina Heer,,5749137,,5749137
-B136:14:29,Atomaria subangulata J.Sahlb.,J.Sahlb.,Atomaria,,subangulata,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,subangulata J.Sahlb.,,6943345,,6943345
-B136:14:30,Atomaria pseudaffinis Johnsen & Strand,Johnsen & Strand,Atomaria,,pseudaffinis,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,pseudaffinis Johnsen & Strand,,8523595,,8523595
-B136:14:31,Atomaria sahlbergi Sjøb.,Sjøb.,Atomaria,,sahlbergi,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,sahlbergi Sjøb.,,6943184,,6943183
-B136:14:32,Atomaria affinis Sahlb.,Sahlb.,Atomaria,,affinis,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,affinis Sahlb.,,6943371,,6943371
-B136:14:33,Atomaria bescidica Reitter,Reitter,Atomaria,,bescidica,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,bescidica Reitter,,6943228,,6943228
+B136:14:18,Atomaria prolixa Er.,Er.,Atomaria,Atomaria,prolixa,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,prolixa Er.,,6943311,,6943247
+B136:14:19,Atomaria procerula Er.,Er.,Atomaria,Atomaria,procerula,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,procerula Er.,,5749184,,6943202
+B136:14:20,Atomaria atrata Rtt.,Rtt.,Atomaria,Atomaria,atrata,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,atrata Rtt.,,6943310,,6943310
+B136:14:21,Atomaria strandi Johnson,Johnson,Atomaria,Atomaria,strandi,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,strandi Johnson,,6943368,,6943368
+B136:14:22,Atomaria fimetarii Herb.,Herb.,Atomaria,Atomaria,fimetarii,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,fimetarii Herb.,,5749175,,8042552
+B136:14:23,Atomaria umbrina Gyll.,Gyll.,Atomaria,Atomaria,umbrina,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,umbrina Gyll.,,5749168,,5749168
+B136:14:24,Atomaria diluta Er.,Er.,Atomaria,Atomaria,diluta,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,diluta Er.,,5749153,,5749153
+B136:14:25,Atomaria sparreschneideri Munster,Munster,Atomaria,Atomaria,sparreschneideri,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,sparreschneideri Munster,,6943389,,6943389
+B136:14:26,Atomaria fuscicollis Mnh.,Mnh.,Atomaria,Atomaria,fuscicollis,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,fuscicollis Mnh.,,6943321,,6943264
+B136:14:27,Atomaria linearis Steph.,Steph.,Atomaria,Atomaria,linearis,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,linearis Steph.,,5749156,,5749156
+B136:14:28,Atomaria alpina Heer,Heer,Atomaria,Atomaria,alpina,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,alpina Heer,,5749137,,5749137
+B136:14:29,Atomaria subangulata J.Sahlb.,J.Sahlb.,Atomaria,Atomaria,subangulata,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,subangulata J.Sahlb.,,6943345,,6943345
+B136:14:30,Atomaria pseudaffinis Johnsen & Strand,Johnsen & Strand,Atomaria,Atomaria,pseudaffinis,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,pseudaffinis Johnsen & Strand,,8523595,,8523595
+B136:14:31,Atomaria sahlbergi Sjøb.,Sjøb.,Atomaria,Atomaria,sahlbergi,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,sahlbergi Sjøb.,,6943184,,6943183
+B136:14:32,Atomaria affinis Sahlb.,Sahlb.,Atomaria,Atomaria,affinis,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,affinis Sahlb.,,6943371,,6943371
+B136:14:33,Atomaria bescidica Reitter,Reitter,Atomaria,Atomaria,bescidica,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,bescidica Reitter,,6943228,,6943228
