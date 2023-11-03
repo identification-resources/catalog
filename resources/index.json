@@ -1570,7 +1570,7 @@
       "pages": "45-48",
       "scope": [
         "adults",
-        "alate",
+        "alatae",
         "viviparae"
       ]
     },
@@ -1586,7 +1586,7 @@
       "pages": "48-50",
       "scope": [
         "adults",
-        "apterous",
+        "apterae",
         "viviparae"
       ]
     },
@@ -3712,7 +3712,7 @@
       "species"
     ],
     "id": "B311:1",
-    "taxonCount": 114
+    "taxonCount": 112
   },
   "B312:1": {
     "levels": [
@@ -4698,7 +4698,7 @@
       ]
     },
     "id": "B478:1",
-    "taxonCount": 429
+    "taxonCount": 428
   },
   "B479:1": {
     "levels": [
@@ -5523,7 +5523,7 @@
       "pages": "2-3"
     },
     "id": "B544:1",
-    "taxonCount": 30
+    "taxonCount": 29
   },
   "B544:2": {
     "levels": [
@@ -7050,5 +7050,19 @@
     ],
     "id": "B1485:1",
     "taxonCount": 51
+  },
+  "B1497:1": {
+    "levels": [
+      "tribe",
+      "genus"
+    ],
+    "catalog": {
+      "title": [
+        "Updated key to Batrachideini genera"
+      ],
+      "pages": "281-281"
+    },
+    "id": "B1497:1",
+    "taxonCount": 15
   }
 }
