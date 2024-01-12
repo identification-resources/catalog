@@ -1,0 +1,20 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1546:1:1,Andrenidae,,,,,,family,,B1546:1,accepted,,,,,,,,,Andrenidae,,,,,Andrenidae,6233D,7901,6233D,7901
+B1546:1:2,Andrena,,,,,,genus,,B1546:1,accepted,,,B1546:1:1,Andrenidae,,,,,Andrenidae,,Andrena,,Andrenidae,Andrena,62BS5,1345710,62BS5,1345710
+B1546:1:3,Apidae,,,,,,family,,B1546:1,accepted,,,,,,,,,Apidae,,,,,Apidae,6KD,4334,6KD,4334
+B1546:1:4,Apis,,,,,,genus,,B1546:1,accepted,,,B1546:1:3,Apidae,,,,,Apidae,,Apis,,Apidae,Apis,YNV,1334757,YNV,1334757
+B1546:1:5,Bombus,,,,,,genus,,B1546:1,accepted,,,B1546:1:3,Apidae,,,,,Apidae,,Bombus,,Apidae,Bombus,62H8K,1340278,62H8K,1340278
+B1546:1:6,Ceratina,,,,,,genus,,B1546:1,accepted,,,B1546:1:3,Apidae,,,,,Apidae,,Ceratina,,Apidae,Ceratina,3KPT,1341198,3KPT,1341198
+B1546:1:7,Melissodes,,,,,,genus,,B1546:1,accepted,,,B1546:1:3,Apidae,,,,,Apidae,,Melissodes,,Apidae,Melissodes,5NRV,7445738,5NRV,7445738
+B1546:1:8,Halictidae,,,,,,family,,B1546:1,accepted,,,,,,,,,Halictidae,,,,,Halictidae,625H4,7908,625H4,7908
+B1546:1:9,Agapostemon,,,,,,genus,,B1546:1,accepted,,,B1546:1:8,Halictidae,,,,,Halictidae,,Agapostemon,,Halictidae,Agapostemon,QJR,5042846,QJR,5042846
+B1546:1:10,Lasioglossum,,,,,,genus,,B1546:1,accepted,,,B1546:1:8,Halictidae,,,,,Halictidae,,Lasioglossum,,Halictidae,Lasioglossum,5B4P,1353501,5B4P,1353501
+B1546:1:11,Lasioglossum,,,,,,subgenus,,B1546:1,accepted,,,B1546:1:10,Lasioglossum,,,,,Halictidae,,Lasioglossum,Lasioglossum,Halictidae | Lasioglossum,Lasioglossum,5B4P,,5B4P,
+B1546:1:12,Dialictus,,,,,,subgenus,,B1546:1,accepted,,,B1546:1:10,Lasioglossum,,,,,Halictidae,,Lasioglossum,Dialictus,Halictidae | Lasioglossum,Dialictus,,,,
+B1546:1:13,Halictus,,,,,,genus,,B1546:1,accepted,,,B1546:1:8,Halictidae,,,,,Halictidae,,Halictus,,Halictidae,Halictus,4SQY,1347978,4SQY,1347978
+B1546:1:14,Halictus,,,,,,subgenus,,B1546:1,accepted,,,B1546:1:13,Halictus,,,,,Halictidae,,Halictus,Halictus,Halictidae | Halictus,Halictus,4SQY,,4SQY,
+B1546:1:15,Seladonia,,,,,,subgenus,,B1546:1,accepted,,,B1546:1:13,Halictus,,,,,Halictidae,,Halictus,Seladonia,Halictidae | Halictus,Seladonia,,,,
+B1546:1:16,Megachilidae,,,,,,family,,B1546:1,accepted,,,,,,,,,Megachilidae,,,,,Megachilidae,CGP,7911,CGP,7911
+B1546:1:17,Megachile,,,,,,genus,,B1546:1,accepted,,,B1546:1:16,Megachilidae,,,,,Megachilidae,,Megachile,,Megachilidae,Megachile,5MM4,1335011,5MM4,1335011
+B1546:1:18,Megachilidae,,,,,,family,,B1546:1,accepted,,,,,,,,,Megachilidae,,,,,Megachilidae,CGP,7911,CGP,7911
+B1546:1:19,Osmia,,,,,,genus,,B1546:1,accepted,,,B1546:1:18,Megachilidae,,,,,Megachilidae,,Osmia,,Megachilidae,Osmia,63GNP,1337664,63GNP,1337664
