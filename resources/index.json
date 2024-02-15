@@ -7475,5 +7475,82 @@
     ],
     "id": "B1550:1",
     "taxonCount": 4
+  },
+  "B1623:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B1623:1",
+    "taxonCount": 8
+  },
+  "B1624:1": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "catalog": {
+      "pages": "158-158",
+      "target_taxa": [
+        "species"
+      ]
+    },
+    "id": "B1624:1",
+    "taxonCount": 6
+  },
+  "B1624:2": {
+    "levels": [
+      "genus"
+    ],
+    "catalog": {
+      "pages": "161-161",
+      "taxon": [
+        "Carpocoris",
+        "Codophila"
+      ],
+      "target_taxa": [
+        "genus"
+      ]
+    },
+    "id": "B1624:2",
+    "taxonCount": 2
+  },
+  "B1624:3": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "163-164",
+      "taxon": [
+        "Holcostethus",
+        "Peribalus",
+        "Enigmocoris"
+      ],
+      "target_taxa": [
+        "species"
+      ]
+    },
+    "id": "B1624:3",
+    "taxonCount": 15
+  },
+  "B1624:4": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "167-167",
+      "taxon": [
+        "Palomena"
+      ],
+      "target_taxa": [
+        "species"
+      ]
+    },
+    "id": "B1624:4",
+    "taxonCount": 6
   }
 }
