@@ -7552,5 +7552,118 @@
     },
     "id": "B1624:4",
     "taxonCount": 6
+  },
+  "B1625:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "48-48"
+    },
+    "id": "B1625:1",
+    "taxonCount": 5
+  },
+  "B1625:2": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "54-54"
+    },
+    "id": "B1625:2",
+    "taxonCount": 6
+  },
+  "B1626:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to the Fijian and French Polynesian Hylaeus (Prosopisteron) males"
+      ],
+      "key_type": [
+        "key"
+      ],
+      "taxon": [
+        "Prosopisteron"
+      ],
+      "scope": [
+        "males"
+      ],
+      "region": [
+        "Australia, Fiji",
+        "Australia, French Polynesia"
+      ]
+    },
+    "id": "B1626:1",
+    "taxonCount": 8
+  },
+  "B1626:2": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to the Fijian and French Polynesian Hylaeus (Prosopisteron) males"
+      ],
+      "key_type": [
+        "key"
+      ],
+      "taxon": [
+        "Prosopisteron"
+      ],
+      "scope": [
+        "females"
+      ],
+      "region": [
+        "Australia, Fiji",
+        "Australia, French Polynesia"
+      ]
+    },
+    "id": "B1626:2",
+    "taxonCount": 8
+  },
+  "B1626:3": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to the Micronesian Hylaeus (Euprosopoides)"
+      ],
+      "key_type": [
+        "key"
+      ],
+      "taxon": [
+        "Euprosopoides"
+      ],
+      "region": [
+        "Australia, Micronesia"
+      ]
+    },
+    "id": "B1626:3",
+    "taxonCount": 6
+  },
+  "B1626:4": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to Hylaeus (Colletidae) of the Pacific"
+      ],
+      "key_type": [
+        "matrix"
+      ]
+    },
+    "id": "B1626:4",
+    "taxonCount": 10
   }
 }
