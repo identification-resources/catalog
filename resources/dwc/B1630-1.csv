@@ -1,0 +1,8 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1630:1:1,Lampyridae,,,,,,family,,B1630:1,accepted,,,,,,,,,Lampyridae,,,,,Lampyridae,BRN,4737,BRN,4737
+B1630:1:2,"Phosphaenus Laporte, 1833","Laporte, 1833",,,,,genus,,B1630:1,accepted,,,B1630:1:1,Lampyridae,,,,,Lampyridae,,Phosphaenus,,Lampyridae,"Phosphaenus Laporte, 1833",6P42,1162831,6P42,1162831
+B1630:1:3,"Phosphaenus hemipterus (Goeze, 1777)","(Goeze, 1777)",Phosphaenus,,hemipterus,,species,,B1630:1,accepted,,,B1630:1:2,"Phosphaenus Laporte, 1833",,,,,Lampyridae,,Phosphaenus,,Lampyridae | Phosphaenus,"hemipterus (Goeze, 1777)",4GSDH,9776685,4GSDH,9776685
+B1630:1:4,Lamprohiza,,,,,,genus,,B1630:1,accepted,,,B1630:1:1,Lampyridae,,,,,Lampyridae,,Lamprohiza,,Lampyridae,Lamprohiza,62XHQ,1162805,62XHQ,1162805
+B1630:1:5,"Lamprohiza splendidula (Linnaeus, 1767)","(Linnaeus, 1767)",Lamprohiza,,splendidula,,species,,B1630:1,accepted,,,B1630:1:4,Lamprohiza,,,,,Lampyridae,,Lamprohiza,,Lampyridae | Lamprohiza,"splendidula (Linnaeus, 1767)",6NV98,1162856,6NV98,1162856
+B1630:1:6,Lampyris,,,,,,genus,,B1630:1,accepted,,,B1630:1:1,Lampyridae,,,,,Lampyridae,,Lampyris,,Lampyridae,Lampyris,639KM,7915414,639KM,7915414
+B1630:1:7,"Lampyris noctiluca (Linnaeus, 1758)","(Linnaeus, 1758)",Lampyris,,noctiluca,,species,,B1630:1,accepted,,,B1630:1:6,Lampyris,,,,,Lampyridae,,Lampyris,,Lampyridae | Lampyris,"noctiluca (Linnaeus, 1758)",3S647,5744295,3S647,5744295
