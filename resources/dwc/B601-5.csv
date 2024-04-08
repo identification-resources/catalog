@@ -1,0 +1,5 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B601:5:1,Nomioides,,,,,,genus,,B601:5,accepted,,,,,,,,,,,Nomioides,,,Nomioides,64R9,1352049,64R9,1352049
+B601:5:2,"Nomioides facilis (Smith, 1853)","(Smith, 1853)",Nomioides,,facilis,,species,,B601:5,accepted,,,B601:5:1,Nomioides,,,,,,,Nomioides,,Nomioides,"facilis (Smith, 1853)",47NZH,1352051,47NZH,1352051
+B601:5:3,"Nomioides fallax Handlirsch, 1888","Handlirsch, 1888",Nomioides,,fallax,,species,,B601:5,synonym,B601:5:2,"Nomioides facilis (Smith, 1853)",,,,,,,,,Nomioides,,Nomioides,"fallax Handlirsch, 1888",,,,
+B601:5:4,"Nomioides minutissimus (Rossi, 1790)","(Rossi, 1790)",Nomioides,,minutissimus,,species,,B601:5,accepted,,,B601:5:1,Nomioides,,,,,,,Nomioides,,Nomioides,"minutissimus (Rossi, 1790)",47P23,1352096,47P23,1352096
