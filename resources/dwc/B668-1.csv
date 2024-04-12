@@ -1,0 +1,83 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B668:1:1,Ensifera,,,,,,suborder,,B668:1,accepted,,,,,,,,,,,,,,Ensifera,8NKFN,,8NKFN,
+B668:1:2,Tettigonioidea,,,,,,superfamily,,B668:1,accepted,,,B668:1:1,Ensifera,,,,,,,,,Ensifera,Tettigonioidea,B7W4T,,B7W4T,
+B668:1:3,Barbitistes,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Barbitistes,,Ensifera | Tettigonioidea,Barbitistes,8NN3R,1695043,8NN3R,1695043
+B668:1:4,Barbitistes serricauda,,Barbitistes,,serricauda,,species,,B668:1,accepted,,,B668:1:3,Barbitistes,,,,,,,Barbitistes,,Ensifera | Tettigonioidea | Barbitistes,serricauda,KMJT,1695052,KMJT,1695052
+B668:1:5,Conocephalus,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Conocephalus,,Ensifera | Tettigonioidea,Conocephalus,8NND3,1682933,8NND3,1682933
+B668:1:6,Conocephalus discolor,,Conocephalus,,discolor,,species,,B668:1,accepted,,,B668:1:5,Conocephalus,,,,,,,Conocephalus,,Ensifera | Tettigonioidea | Conocephalus,discolor,XQCH,1683073,BVKTF,1683067
+B668:1:7,Conocephalus dorsalis,,Conocephalus,,dorsalis,,species,,B668:1,accepted,,,B668:1:5,Conocephalus,,,,,,,Conocephalus,,Ensifera | Tettigonioidea | Conocephalus,dorsalis,XPYG,1683331,XPYG,1683331
+B668:1:8,Decticus,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Decticus,,Ensifera | Tettigonioidea,Decticus,8NQNF,1690683,8NQNF,1690683
+B668:1:9,Decticus verrucivorus,,Decticus,,verrucivorus,,species,,B668:1,accepted,,,B668:1:8,Decticus,,,,,,,Decticus,,Ensifera | Tettigonioidea | Decticus,verrucivorus,6CGV4,1690685,6CGV4,1690685
+B668:1:10,Ephippiger,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Ephippiger,,Ensifera | Tettigonioidea,Ephippiger,8NRDQ,1683970,8NRDQ,1683970
+B668:1:11,Ephippiger ephippiger,,Ephippiger,,ephippiger,,species,,B668:1,accepted,,,B668:1:10,Ephippiger,,,,,,,Ephippiger,,Ensifera | Tettigonioidea | Ephippiger,ephippiger,6FQ7F,1684006,6FQ7F,1684006
+B668:1:12,Gampsocleis,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Gampsocleis,,Ensifera | Tettigonioidea,Gampsocleis,8NRX7,1694531,8NRX7,1694531
+B668:1:13,Gampsocleis glabra,,Gampsocleis,,glabra,,species,,B668:1,accepted,,,B668:1:12,Gampsocleis,,,,,,,Gampsocleis,,Ensifera | Tettigonioidea | Gampsocleis,glabra,6K8YC,1694547,6K8YC,1694547
+B668:1:14,Leptophyes,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Leptophyes,,Ensifera | Tettigonioidea,Leptophyes,8NTGZ,1688004,8NTGZ,1688004
+B668:1:15,Leptophyes punctatissima,,Leptophyes,,punctatissima,,species,,B668:1,accepted,,,B668:1:14,Leptophyes,,,,,,,Leptophyes,,Ensifera | Tettigonioidea | Leptophyes,punctatissima,3TT7Q,1688020,3TT7Q,1688020
+B668:1:16,Meconema,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Meconema,,Ensifera | Tettigonioidea,Meconema,8NRQT,1690427,8NRQT,1690427
+B668:1:17,Meconema thalassinum,,Meconema,,thalassinum,,species,,B668:1,accepted,,,B668:1:16,Meconema,,,,,,,Meconema,,Ensifera | Tettigonioidea | Meconema,thalassinum,3YLJ4,1690432,3YLJ4,1690432
+B668:1:18,Metrioptera,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Metrioptera,,Ensifera | Tettigonioidea,Metrioptera,8NS6T,1685533,8NS6T,1685533
+B668:1:19,Metrioptera bicolor,,Metrioptera,,bicolor,,species,,B668:1,accepted,,,B668:1:18,Metrioptera,,,,,,,Metrioptera,,Ensifera | Tettigonioidea | Metrioptera,bicolor,BVQW3,1688989,7JFHN,7197490
+B668:1:20,Metrioptera brachyptera,,Metrioptera,,brachyptera,,species,,B668:1,accepted,,,B668:1:18,Metrioptera,,,,,,,Metrioptera,,Ensifera | Tettigonioidea | Metrioptera,brachyptera,6RF7Y,1685536,6RF7Y,1685536
+B668:1:21,Metrioptera roeseli,,Metrioptera,,roeseli,,species,,B668:1,accepted,,,B668:1:18,Metrioptera,,,,,,,Metrioptera,,Ensifera | Tettigonioidea | Metrioptera,roeseli,BVQWF,4298895,4T9L7,7180586
+B668:1:22,Phaneroptera,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Phaneroptera,,Ensifera | Tettigonioidea,Phaneroptera,8NWG5,1686201,8NWG5,1686201
+B668:1:23,Phaneroptera falcata,,Phaneroptera,,falcata,,species,,B668:1,accepted,,,B668:1:22,Phaneroptera,,,,,,,Phaneroptera,,Ensifera | Tettigonioidea | Phaneroptera,falcata,4FT4Z,1686243,4FT4Z,1686243
+B668:1:24,Pholidoptera,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Pholidoptera,,Ensifera | Tettigonioidea,Pholidoptera,8NXJ4,1695264,8NXJ4,1695264
+B668:1:25,Pholidoptera griseoaptera,,Pholidoptera,,griseoaptera,,species,,B668:1,accepted,,,B668:1:24,Pholidoptera,,,,,,,Pholidoptera,,Ensifera | Tettigonioidea | Pholidoptera,griseoaptera,4GLSW,1695297,4GLSW,1695297
+B668:1:26,Platycleis,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Platycleis,,Ensifera | Tettigonioidea,Platycleis,8NX6R,1685160,8NX6R,1685160
+B668:1:27,Platycleis albopunctata,,Platycleis,,albopunctata,,species,,B668:1,accepted,,,B668:1:26,Platycleis,,,,,,,Platycleis,,Ensifera | Tettigonioidea | Platycleis,albopunctata,4JPR2,1685298,4JPR2,1685298
+B668:1:28,Tettigonia,,,,,,genus,,B668:1,accepted,,,B668:1:2,Tettigonioidea,,,,,,,Tettigonia,,Ensifera | Tettigonioidea,Tettigonia,8NPCN,1692864,8NPCN,1692864
+B668:1:29,Tettigonia cantans,,Tettigonia,,cantans,,species,,B668:1,accepted,,,B668:1:28,Tettigonia,,,,,,,Tettigonia,,Ensifera | Tettigonioidea | Tettigonia,cantans,55VHL,8347376,55VHL,8347376
+B668:1:30,Tettigonia viridissima,,Tettigonia,,viridissima,,species,,B668:1,accepted,,,B668:1:28,Tettigonia,,,,,,,Tettigonia,,Ensifera | Tettigonioidea | Tettigonia,viridissima,55WDR,1692898,55WDR,1692898
+B668:1:31,Grylloidea,,,,,,superfamily,,B668:1,accepted,,,B668:1:1,Ensifera,,,,,,,,,Ensifera,Grylloidea,B7W4C,,B7W4C,
+B668:1:32,Acheta,,,,,,genus,,B668:1,accepted,,,B668:1:31,Grylloidea,,,,,,,Acheta,,Ensifera | Grylloidea,Acheta,8NLDR,8391695,8NLDR,8391695
+B668:1:33,Acheta domesticus,,Acheta,,domesticus,,species,,B668:1,accepted,,,B668:1:32,Acheta,,,,,,,Acheta,,Ensifera | Grylloidea | Acheta,domesticus,96XX,1718308,96XX,1718308
+B668:1:34,Gryllotalpa,,,,,,genus,,B668:1,accepted,,,B668:1:31,Grylloidea,,,,,,,Gryllotalpa,,Ensifera | Grylloidea,Gryllotalpa,8NQ28,1716116,8NQ28,1716116
+B668:1:35,Gryllotalpa gryllotalpa,,Gryllotalpa,,gryllotalpa,,species,,B668:1,accepted,,,B668:1:34,Gryllotalpa,,,,,,,Gryllotalpa,,Ensifera | Grylloidea | Gryllotalpa,gryllotalpa,3HGDW,1716128,3HGDW,1716128
+B668:1:36,Gryllus,,,,,,genus,,B668:1,accepted,,,B668:1:31,Grylloidea,,,,,,,Gryllus,,Ensifera | Grylloidea,Gryllus,8NQ2B,1404683,8NQ2B,1404683
+B668:1:37,Gryllus campestris,,Gryllus,,campestris,,species,,B668:1,accepted,,,B668:1:36,Gryllus,,,,,,,Gryllus,,Ensifera | Grylloidea | Gryllus,campestris,9GQRY,1716462,9GQRY,1716462
+B668:1:38,Nemobius,,,,,,genus,,B668:1,accepted,,,B668:1:31,Grylloidea,,,,,,,Nemobius,,Ensifera | Grylloidea,Nemobius,8HKZX,1228921,8HKZX,1228921
+B668:1:39,Nemobius sylvestris,,Nemobius,,sylvestris,,species,,B668:1,accepted,,,B668:1:38,Nemobius,,,,,,,Nemobius,,Ensifera | Grylloidea | Nemobius,sylvestris,46882,1722903,46882,1722903
+B668:1:40,Oecanthus,,,,,,genus,,B668:1,accepted,,,B668:1:31,Grylloidea,,,,,,,Oecanthus,,Ensifera | Grylloidea,Oecanthus,8NTQ2,1699510,8NTQ2,1699510
+B668:1:41,Oecanthus pellucens,,Oecanthus,,pellucens,,species,,B668:1,accepted,,,B668:1:40,Oecanthus,,,,,,,Oecanthus,,Ensifera | Grylloidea | Oecanthus,pellucens,6SGSR,1720967,6SGSR,1720967
+B668:1:42,Caelifera,,,,,,suborder,,B668:1,accepted,,,,,,,,,,,,,,Caelifera,8NKFL,,8NKFL,
+B668:1:43,Acridioidea,,,,,,superfamily,,B668:1,accepted,,,B668:1:42,Caelifera,,,,,,,,,Caelifera,Acridioidea,8PRTL,,B7W47,
+B668:1:44,Chorthippus,,,,,,genus,,B668:1,accepted,,,B668:1:43,Acridioidea,,,,,,,Chorthippus,,Caelifera | Acridioidea,Chorthippus,8NN5B,1708152,8NN5B,1708152
+B668:1:45,Chorthippus albomarginatus,,Chorthippus,,albomarginatus,,species,,B668:1,accepted,,,B668:1:44,Chorthippus,,,,,,,Chorthippus,,Caelifera | Acridioidea | Chorthippus,albomarginatus,5YDQ3,1708567,5YDQ3,1708567
+B668:1:46,Chorthippus apricarius,,Chorthippus,,apricarius,,species,,B668:1,accepted,,,B668:1:44,Chorthippus,,,,,,,Chorthippus,,Caelifera | Acridioidea | Chorthippus,apricarius,5YDSH,1708601,5YDSH,1708601
+B668:1:47,Chorthippus biguttulus,,Chorthippus,,biguttulus,,species,,B668:1,accepted,,,B668:1:44,Chorthippus,,,,,,,Chorthippus,,Caelifera | Acridioidea | Chorthippus,biguttulus,5YDSC,1708251,5YDSC,1708251
+B668:1:48,Chorthippus brunneus,,Chorthippus,,brunneus,,species,,B668:1,accepted,,,B668:1:44,Chorthippus,,,,,,,Chorthippus,,Caelifera | Acridioidea | Chorthippus,brunneus,5YDT2,1708459,5YDT2,1708459
+B668:1:49,Chorthippus dorsatus,,Chorthippus,,dorsatus,,species,,B668:1,accepted,,,B668:1:44,Chorthippus,,,,,,,Chorthippus,,Caelifera | Acridioidea | Chorthippus,dorsatus,5YDRB,1708512,5YDRB,1708512
+B668:1:50,Chorthippus mollis,,Chorthippus,,mollis,,species,,B668:1,accepted,,,B668:1:44,Chorthippus,,,,,,,Chorthippus,,Caelifera | Acridioidea | Chorthippus,mollis,5YDTP,1708667,5YDTP,1708667
+B668:1:51,Chorthippus montanus,,Chorthippus,,montanus,,species,,B668:1,accepted,,,B668:1:44,Chorthippus,,,,,,,Chorthippus,,Caelifera | Acridioidea | Chorthippus,montanus,8PXNK,1708370,4NTJ8,1708370
+B668:1:52,Chorthippus parallelus,,Chorthippus,,parallelus,,species,,B668:1,accepted,,,B668:1:44,Chorthippus,,,,,,,Chorthippus,,Caelifera | Acridioidea | Chorthippus,parallelus,5YFP5,1708622,5KQGJ,7372413
+B668:1:53,Chorthippus vagans,,Chorthippus,,vagans,,species,,B668:1,accepted,,,B668:1:44,Chorthippus,,,,,,,Chorthippus,,Caelifera | Acridioidea | Chorthippus,vagans,5YDT5,1708333,5YDT5,1708333
+B668:1:54,Chrysochraon,,,,,,genus,,B668:1,accepted,,,B668:1:43,Acridioidea,,,,,,,Chrysochraon,,Caelifera | Acridioidea,Chrysochraon,8NN5P,1697359,8NN5P,1697359
+B668:1:55,Chrysochraon dispar,,Chrysochraon,,dispar,,species,,B668:1,accepted,,,B668:1:54,Chrysochraon,,,,,,,Chrysochraon,,Caelifera | Acridioidea | Chrysochraon,dispar,5YMGM,1700841,5YMGM,1700841
+B668:1:56,Chrysochraon brachypterus,,Chrysochraon,,brachypterus,,species,,B668:1,accepted,,,B668:1:54,Chrysochraon,,,,,,,Chrysochraon,,Caelifera | Acridioidea | Chrysochraon,brachypterus,,1701350,,7197712
+B668:1:57,Euthystira brachyptera,,Euthystira,,brachyptera,,species,,B668:1,synonym,B668:1:56,Chrysochraon brachypterus,,,,,,,,,Chrysochraon,,Caelifera | Acridioidea | Chrysochraon,Euthystira brachyptera,3DDPG,1701343,3DDPG,1701343
+B668:1:58,Gomphocerippus,,,,,,genus,,B668:1,accepted,,,B668:1:43,Acridioidea,,,,,,,Gomphocerippus,,Caelifera | Acridioidea,Gomphocerippus,8NS3Y,1700022,8NS3Y,1700022
+B668:1:59,Gomphocerippus rufus,,Gomphocerippus,,rufus,,species,,B668:1,accepted,,,B668:1:58,Gomphocerippus,,,,,,,Gomphocerippus,,Caelifera | Acridioidea | Gomphocerippus,rufus,3GSVN,1700023,3GSVN,1700023
+B668:1:60,Locusta,,,,,,genus,,B668:1,accepted,,,B668:1:43,Acridioidea,,,,,,,Locusta,,Caelifera | Acridioidea,Locusta,8NTNP,1687259,8NTNP,1687259
+B668:1:61,Locusta migratoria,,Locusta,,migratoria,,species,,B668:1,accepted,,,B668:1:60,Locusta,,,,,,,Locusta,,Caelifera | Acridioidea | Locusta,migratoria,72LGF,1713418,72LGF,1713418
+B668:1:62,Myrmeleotettix,,,,,,genus,,B668:1,accepted,,,B668:1:43,Acridioidea,,,,,,,Myrmeleotettix,,Caelifera | Acridioidea,Myrmeleotettix,8NVNK,1701360,8NVNK,1701360
+B668:1:63,Myrmeleotettix maculatus,,Myrmeleotettix,,maculatus,,species,,B668:1,accepted,,,B668:1:62,Myrmeleotettix,,,,,,,Myrmeleotettix,,Caelifera | Acridioidea | Myrmeleotettix,maculatus,45CMM,1701365,45CMM,1701365
+B668:1:64,Oedipoda,,,,,,genus,,B668:1,accepted,,,B668:1:43,Acridioidea,,,,,,,Oedipoda,,Caelifera | Acridioidea,Oedipoda,8NW7N,1697770,8NW7N,1697770
+B668:1:65,Oedipoda caerulescens,,Oedipoda,,caerulescens,,species,,B668:1,accepted,,,B668:1:64,Oedipoda,,,,,,,Oedipoda,,Caelifera | Acridioidea | Oedipoda,caerulescens,48WC7,1700310,48WC7,1700310
+B668:1:66,Omocestus,,,,,,genus,,B668:1,accepted,,,B668:1:43,Acridioidea,,,,,,,Omocestus,,Caelifera | Acridioidea,Omocestus,8NW9D,1710730,8NW9D,1710730
+B668:1:67,Omocestus rufipes,,Omocestus,,rufipes,,species,,B668:1,accepted,,,B668:1:66,Omocestus,,,,,,,Omocestus,,Caelifera | Acridioidea | Omocestus,rufipes,49D37,1710802,49D37,1710802
+B668:1:68,Omocestus ventralis,,Omocestus,,ventralis,,species,,B668:1,synonym,B668:1:67,Omocestus rufipes,,,,,,,,,Omocestus,,Caelifera | Acridioidea | Omocestus,Omocestus ventralis,BT7JP,1710803,49D37,1710802
+B668:1:69,Omocestus viridulus,,Omocestus,,viridulus,,species,,B668:1,accepted,,,B668:1:66,Omocestus,,,,,,,Omocestus,,Caelifera | Acridioidea | Omocestus,viridulus,49D3C,1710755,49D3C,1710755
+B668:1:70,Stenobothrus,,,,,,genus,,B668:1,accepted,,,B668:1:43,Acridioidea,,,,,,,Stenobothrus,,Caelifera | Acridioidea,Stenobothrus,8NZH5,1710898,8NZH5,1710898
+B668:1:71,Stenobothrus lineatus,,Stenobothrus,,lineatus,,species,,B668:1,accepted,,,B668:1:70,Stenobothrus,,,,,,,Stenobothrus,,Caelifera | Acridioidea | Stenobothrus,lineatus,4ZVYL,1710962,4ZVYL,1710962
+B668:1:72,Stenobothrus stigmaticus,,Stenobothrus,,stigmaticus,,species,,B668:1,accepted,,,B668:1:70,Stenobothrus,,,,,,,Stenobothrus,,Caelifera | Acridioidea | Stenobothrus,stigmaticus,4ZW2W,1710986,4ZW2W,1710986
+B668:1:73,Stethophyma,,,,,,genus,,B668:1,accepted,,,B668:1:43,Acridioidea,,,,,,,Stethophyma,,Caelifera | Acridioidea,Stethophyma,8NZK9,1711084,8NZK9,1711084
+B668:1:74,Stethophyma grossum,,Stethophyma,,grossum,,species,,B668:1,accepted,,,B668:1:73,Stethophyma,,,,,,,Stethophyma,,Caelifera | Acridioidea | Stethophyma,grossum,52GHS,1711091,52GHS,1711091
+B668:1:75,Mecostethus grossus,,Mecostethus,,grossus,,species,,B668:1,synonym,B668:1:74,Stethophyma grossum,,,,,,,,,Stethophyma,,Caelifera | Acridioidea | Stethophyma,Mecostethus grossus,3YLWN,5099017,52GHS,1711091
+B668:1:76,Tetrigoidea,,,,,,superfamily,,B668:1,accepted,,,B668:1:42,Caelifera,,,,,,,,,Caelifera,Tetrigoidea,B7W4S,,B7W4S,
+B668:1:77,Tetrix,,,,,,genus,,B668:1,accepted,,,B668:1:76,Tetrigoidea,,,,,,,Tetrix,,Caelifera | Tetrigoidea,Tetrix,8NZZV,1681026,8NZZV,1681026
+B668:1:78,Tetrix bipunctata,,Tetrix,,bipunctata,,species,,B668:1,accepted,,,B668:1:77,Tetrix,,,,,,,Tetrix,,Caelifera | Tetrigoidea | Tetrix,bipunctata,7C4RD,1681155,7C4RD,1681155
+B668:1:79,Tetrix ceperoi,,Tetrix,,ceperoi,,species,,B668:1,accepted,,,B668:1:77,Tetrix,,,,,,,Tetrix,,Caelifera | Tetrigoidea | Tetrix,ceperoi,7C53C,1681054,7C53C,1681054
+B668:1:80,Tetrix subulata,,Tetrix,,subulata,,species,,B668:1,accepted,,,B668:1:77,Tetrix,,,,,,,Tetrix,,Caelifera | Tetrigoidea | Tetrix,subulata,7C4BK,1681124,7C4BK,1681124
+B668:1:81,Tetrix tenuicornis,,Tetrix,,tenuicornis,,species,,B668:1,accepted,,,B668:1:77,Tetrix,,,,,,,Tetrix,,Caelifera | Tetrigoidea | Tetrix,tenuicornis,7C4BX,1681181,7C4BX,1681181
+B668:1:82,Tetrix undulata,,Tetrix,,undulata,,species,,B668:1,accepted,,,B668:1:77,Tetrix,,,,,,,Tetrix,,Caelifera | Tetrigoidea | Tetrix,undulata,7BSC3,1681247,7BSC3,1681247
