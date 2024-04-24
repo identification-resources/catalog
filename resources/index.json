@@ -6582,6 +6582,14 @@
     "id": "B797:1",
     "taxonCount": 75
   },
+  "B842:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B842:1",
+    "taxonCount": 8
+  },
   "B844:1": {
     "levels": [
       "species"
@@ -8773,5 +8781,22 @@
     ],
     "id": "B1690:1",
     "taxonCount": 21
+  },
+  "B1693:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1693:1",
+    "taxonCount": 10
+  },
+  "B1694:1": {
+    "levels": [
+      "genus",
+      "group",
+      "species"
+    ],
+    "id": "B1694:1",
+    "taxonCount": 103
   }
 }
