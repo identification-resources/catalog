@@ -6509,6 +6509,14 @@
     "id": "B662:1",
     "taxonCount": 6
   },
+  "B663:1": {
+    "levels": [
+      "class",
+      "order"
+    ],
+    "id": "B663:1",
+    "taxonCount": 10
+  },
   "B668:1": {
     "levels": [
       "suborder",
@@ -6518,6 +6526,17 @@
     ],
     "id": "B668:1",
     "taxonCount": 82
+  },
+  "B672:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus"
+    ],
+    "id": "B672:1",
+    "taxonCount": 86
   },
   "B714:1": {
     "levels": [
