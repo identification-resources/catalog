@@ -7325,6 +7325,25 @@
     "id": "B1169:1",
     "taxonCount": 105
   },
+  "B1288:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "scope": [
+        "adults"
+      ]
+    },
+    "id": "B1288:1",
+    "taxonCount": 343
+  },
   "B1289:1": {
     "levels": [
       "family",
@@ -8494,6 +8513,14 @@
     "id": "B1633:1",
     "taxonCount": 26
   },
+  "B1646:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1646:1",
+    "taxonCount": 4
+  },
   "B1647:1": {
     "levels": [
       "species",
@@ -8919,5 +8946,67 @@
     ],
     "id": "B1723:1",
     "taxonCount": 46
+  },
+  "B1727:1": {
+    "levels": [
+      "species"
+    ],
+    "catalog": {
+      "key_type": [
+        "checklist"
+      ],
+      "title": [
+        "Liste actualisée des espèces françaises"
+      ]
+    },
+    "id": "B1727:1",
+    "taxonCount": 89
+  },
+  "B1727:2": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "catalog": {
+      "title": [
+        "Clé de détermination des genres de Stratiomyidés d'Europe"
+      ],
+      "pages": "185-187"
+    },
+    "id": "B1727:2",
+    "taxonCount": 25
+  },
+  "B1727:3": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "205-207",
+      "key_type": [
+        "checklist"
+      ],
+      "region": [
+        "Europe"
+      ]
+    },
+    "id": "B1727:3",
+    "taxonCount": 181
+  },
+  "B1727:4": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "catalog": {
+      "title": [
+        "Key to the genera of Stratiomyids from Europe"
+      ],
+      "pages": "208-209"
+    },
+    "id": "B1727:4",
+    "taxonCount": 25
   }
 }
