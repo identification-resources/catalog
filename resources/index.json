@@ -8845,6 +8845,15 @@
     "id": "B1694:1",
     "taxonCount": 103
   },
+  "B1699:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B1699:1",
+    "taxonCount": 213
+  },
   "B1706:1": {
     "levels": [
       "genus",
@@ -9008,5 +9017,91 @@
     },
     "id": "B1727:4",
     "taxonCount": 25
+  },
+  "B1732:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "146-146",
+      "taxon": [
+        "Pachygaster"
+      ]
+    },
+    "id": "B1732:1",
+    "taxonCount": 6
+  },
+  "B1732:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "148-148",
+      "taxon": [
+        "Zabrachia"
+      ]
+    },
+    "id": "B1732:2",
+    "taxonCount": 4
+  },
+  "B1733:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1733:1",
+    "taxonCount": 3
+  },
+  "B1734:1": {
+    "levels": [
+      "family",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B1734:1",
+    "taxonCount": 115
+  },
+  "B1735:1": {
+    "levels": [
+      "species",
+      "subspecies"
+    ],
+    "id": "B1735:1",
+    "taxonCount": 33
+  },
+  "B1737:1": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "id": "B1737:1",
+    "taxonCount": 24
+  },
+  "B1738:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "id": "B1738:1",
+    "taxonCount": 113
+  },
+  "B1741:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "A key to Pachygasterinae of Ukraine and bordering countries"
+      ]
+    },
+    "id": "B1741:1",
+    "taxonCount": 6
   }
 }
