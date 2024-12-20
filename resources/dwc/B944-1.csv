@@ -1,5 +1,5 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B944:1:1,Heteroptera,,,,,,order,,B944:1,accepted,,,,,,,,Heteroptera,,,,,,Heteroptera,,3264953,,1588281
+B944:1:1,Heteroptera,,,,,,order,,B944:1,accepted,,,,,,,,Heteroptera,,,,,,Heteroptera,BXWCX,3264953,BXWCX,1588281
 B944:1:2,Gerridae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Gerridae,,,,Heteroptera,Gerridae,623FR,7881,623FR,7881
 B944:1:3,Aquarius,,,,,,genus,,B944:1,accepted,,,B944:1:2,Gerridae,,,,Heteroptera,Gerridae,,Aquarius,,Heteroptera | Gerridae,Aquarius,ZH4,2020415,ZH4,2020415
 B944:1:4,Aquarius najas,,Aquarius,,najas,,species,,B944:1,accepted,,,B944:1:3,Aquarius,,,,Heteroptera,Gerridae,,Aquarius,,Heteroptera | Gerridae | Aquarius,Aquarius najas,FZJB,5866107,FZJB,5866107
@@ -53,7 +53,7 @@ B944:1:51,Notonecta lutea,,Notonecta,,lutea,,species,,B944:1,accepted,,,B944:1:4
 B944:1:52,Notonecta maculata,,Notonecta,,maculata,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,Notonecta maculata,7W3FX,2020518,7W3FX,2020518
 B944:1:53,Notonecta obliqua,,Notonecta,,obliqua,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,Notonecta obliqua,7W3G4,10728437,7W3G4,10728437
 B944:1:54,Notonecta viridis,,Notonecta,,viridis,,species,,B944:1,accepted,,,B944:1:49,Notonecta,,,,Heteroptera,Notonectidae,,Notonecta,,Heteroptera | Notonectidae | Notonecta,Notonecta viridis,7W3G8,4485490,7W3G8,4485490
-B944:1:55,Nepidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Nepidae,,,,Heteroptera,Nepidae,DB4,7892,DB4,7892
+B944:1:55,Nepidae,,,,,,family,,B944:1,accepted,,,B944:1:1,Heteroptera,,,,Heteroptera,Nepidae,,,,Heteroptera,Nepidae,CG645,7892,CG645,7892
 B944:1:56,Nepa,,,,,,genus,,B944:1,accepted,,,B944:1:55,Nepidae,,,,Heteroptera,Nepidae,,Nepa,,Heteroptera | Nepidae,Nepa,634F,2007591,634F,2007591
 B944:1:57,Nepa cinerea,,Nepa,,cinerea,,species,,B944:1,accepted,,,B944:1:56,Nepa,,,,Heteroptera,Nepidae,,Nepa,,Heteroptera | Nepidae | Nepa,Nepa cinerea,6RWWL,5152456,6RWWL,5152456
 B944:1:58,Ranatra,,,,,,genus,,B944:1,accepted,,,B944:1:55,Nepidae,,,,Heteroptera,Nepidae,,Ranatra,,Heteroptera | Nepidae,Ranatra,772G,2007594,772G,2007594

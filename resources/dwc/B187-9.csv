@@ -1,12 +1,12 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B187:9:1,Mordellidae,,,,,,family,,B187:9,accepted,,,,,,,,,Mordellidae,,,,,MORDELLIDAE,CXS,4746,CXS,4746
-B187:9:2,Mordella Linnaeus,Linnaeus,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Mordella,,Mordellidae,Mordella Linnaeus,63CZV,1045999,63CZV,1045999
+B187:9:1,Mordellidae,,,,,,family,,B187:9,accepted,,,,,,,,,Mordellidae,,,,,MORDELLIDAE,CB7MG,4746,CB7MG,4746
+B187:9:2,Mordella Linnaeus,Linnaeus,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Mordella,,Mordellidae,Mordella Linnaeus,CBFQF,1045999,CBFQF,1045999
 B187:9:3,Mordella villosa (Schrank),(Schrank),Mordella,,villosa,,species,,B187:9,accepted,,,B187:9:2,Mordella Linnaeus,,,,,Mordellidae,,Mordella,,Mordellidae | Mordella,villosa (Schrank),,4456519,,4456515
 B187:9:4,Mordella fasciata Fabricius,Fabricius,Mordella,,fasciata,,species,,B187:9,synonym,B187:9:3,Mordella villosa (Schrank),,,,,,,Mordellidae,,Mordella,,Mordellidae | Mordella,fasciata Fabricius,,4456343,,4456515
 B187:9:5,Mordella aculeata Linnaeus,Linnaeus,Mordella,,aculeata,,species,,B187:9,accepted,,,B187:9:2,Mordella Linnaeus,,,,,Mordellidae,,Mordella,,Mordellidae | Mordella,aculeata Linnaeus,,4456565,,4456565
-B187:9:6,Tomoxia Costa,Costa,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Tomoxia,,Mordellidae,Tomoxia Costa,7XNL,1046048,7XNL,1046048
+B187:9:6,Tomoxia Costa,Costa,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Tomoxia,,Mordellidae,Tomoxia Costa,CC8HW,1046048,CC8HW,1046048
 B187:9:7,Tomoxia biguttata (Gyllenhal),(Gyllenhal),Tomoxia,,biguttata,,species,,B187:9,accepted,,,B187:9:6,Tomoxia Costa,,,,,Mordellidae,,Tomoxia,,Mordellidae | Tomoxia,biguttata (Gyllenhal),,7568878,,4456507
-B187:9:8,Mordellistena Costa,Costa,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Mordellistena,,Mordellidae,Mordellistena Costa,5V5H,1046076,5V5H,1046076
+B187:9:8,Mordellistena Costa,Costa,,,,,genus,,B187:9,accepted,,,B187:9:1,Mordellidae,,,,,Mordellidae,,Mordellistena,,Mordellidae,Mordellistena Costa,CBFV2,1046076,CBFV2,1046076
 B187:9:9,Mordellistena abdominalis (Fabricius),(Fabricius),Mordellistena,,abdominalis,,species,,B187:9,accepted,,,B187:9:8,Mordellistena Costa,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,abdominalis (Fabricius),,10047911,,4456599
 B187:9:10,Mordellistena parvula (Gyllenhal),(Gyllenhal),Mordellistena,,parvula,,species,,B187:9,accepted,,,B187:9:8,Mordellistena Costa,,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena,parvula (Gyllenhal),,4456675,,4456675
 B187:9:11,Mordellistena parvula var. inaequalis Mulsant,Mulsant,Mordellistena,,parvula,inaequalis,variety,,B187:9,accepted,,,B187:9:10,Mordellistena parvula (Gyllenhal),,,,,Mordellidae,,Mordellistena,,Mordellidae | Mordellistena | Mordellistena parvula,inaequalis Mulsant,,,,

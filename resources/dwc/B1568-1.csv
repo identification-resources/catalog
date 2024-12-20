@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B1568:1:1,Gibiinae,,,,,,subfamily,,B1568:1,accepted,,,,,,,,,,Gibiinae,,,,Gibiinae,,,,
 B1568:1:2,Gibiini,,,,,,tribe,,B1568:1,accepted,,,B1568:1:1,Gibiinae,,,,,,Gibiinae,,,Gibiinae,Gibiini,,,,
-B1568:1:3,"Gibbium Scopoli, 1777","Scopoli, 1777",,,,,genus,,B1568:1,accepted,,,B1568:1:2,Gibiini,,,,,,Gibiinae,Gibbium,,Gibiinae | Gibiini,"Gibbium Scopoli, 1777",4ND8,1095749,4ND8,1095749
+B1568:1:3,"Gibbium Scopoli, 1777","Scopoli, 1777",,,,,genus,,B1568:1,accepted,,,B1568:1:2,Gibiini,,,,,,Gibiinae,Gibbium,,Gibiinae | Gibiini,"Gibbium Scopoli, 1777",C9VL8,1095749,C9VL8,1095749
 B1568:1:4,"Scotias Czenpinski, 1778","Czenpinski, 1778",,,,,genus,,B1568:1,synonym,B1568:1:3,"Gibbium Scopoli, 1777",,,,,,,,Gibiinae,Scotias,,Gibiinae | Gibiini,"Scotias Czenpinski, 1778",,3262778,,1095749
 B1568:1:5,"Gibbium psylloides (Czenpinski, 1778)","(Czenpinski, 1778)",Gibbium,,psylloides,,species,,B1568:1,accepted,,,B1568:1:3,"Gibbium Scopoli, 1777",,,,,,Gibiinae,Gibbium,,Gibiinae | Gibiini | Gibbium,"psylloides (Czenpinski, 1778)",,1095750,,1095750
 B1568:1:6,"Scotias psylloides Czenpinski, 1778","Czenpinski, 1778",Scotias,,psylloides,,species,,B1568:1,synonym,B1568:1:5,"Gibbium psylloides (Czenpinski, 1778)",,,,,,,,Gibiinae,Gibbium,,Gibiinae | Gibiini | Gibbium,"Scotias psylloides Czenpinski, 1778",,9165996,,1095750
@@ -15,7 +15,7 @@ B1568:1:13,"Gibbium psylloides subsp. brevicorne Reitter, 1885","Reitter, 1885",
 B1568:1:14,"Gibbium aegyptiacum Pic, 1894","Pic, 1894",Gibbium,,aegyptiacum,,species,,B1568:1,synonym,B1568:1:11,"Gibbium aequinoctiala Boieldieu, 1854",,,,,,,,Gibiinae,Gibbium,,Gibiinae | Gibiini | Gibbium,"Gibbium aegyptiacum Pic, 1894",,6964170,,1095751
 B1568:1:15,"Gibbium einsteini Bellés, 1980","Bellés, 1980",Gibbium,,einsteini,,species,,B1568:1,synonym,B1568:1:11,"Gibbium aequinoctiala Boieldieu, 1854",,,,,,,,Gibiinae,Gibbium,,Gibiinae | Gibiini | Gibbium,"Gibbium einsteini Bellés, 1980",,6964171,,1095751
 B1568:1:16,Meziini,,,,,,tribe,,B1568:1,accepted,,,B1568:1:1,Gibiinae,,,,,,Gibiinae,,,Gibiinae,Meziini,,,,
-B1568:1:17,Mezium,,,,,,genus,,B1568:1,accepted,,,B1568:1:16,Meziini,,,,,,Gibiinae,Mezium,,Gibiinae | Meziini,Mezium,5R86,1095738,5R86,1095738
+B1568:1:17,Mezium,,,,,,genus,,B1568:1,accepted,,,B1568:1:16,Meziini,,,,,,Gibiinae,Mezium,,Gibiinae | Meziini,Mezium,CB9R9,1095738,CB9R9,1095738
 B1568:1:18,"Mezium affine Boieldieu, 1856","Boieldieu, 1856",Mezium,,affine,,species,,B1568:1,accepted,,,B1568:1:17,Mezium,,,,,,Gibiinae,Mezium,,Gibiinae | Meziini | Mezium,"affine Boieldieu, 1856",,1095739,,1095739
 B1568:1:19,"Mezium sulcatum Curtis, 1828","Curtis, 1828",Mezium,,sulcatum,,species,,B1568:1,synonym,B1568:1:18,"Mezium affine Boieldieu, 1856",,,,,,,,Gibiinae,Mezium,,Gibiinae | Meziini | Mezium,"Mezium sulcatum Curtis, 1828",,4426914,,4426914
 B1568:1:20,"Mezium giganteum Escalera, 1914","Escalera, 1914",Mezium,,giganteum,,species,,B1568:1,accepted,,,B1568:1:17,Mezium,,,,,,Gibiinae,Mezium,,Gibiinae | Meziini | Mezium,"giganteum Escalera, 1914",,4426913,,4426913

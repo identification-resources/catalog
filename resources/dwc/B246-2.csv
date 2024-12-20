@@ -1,19 +1,19 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B246:2:1,Dacinae,,,,,,subfamily,,B246:2,accepted,,,,,,,,,,Dacinae,,,,DACINAE,,,,
-B246:2:2,"Dacus Fabricius, 1805","Fabricius, 1805",,,,,genus,,B246:2,accepted,,,B246:2:1,Dacinae,,,,,,Dacinae,Dacus,,Dacinae,"DACUS Fabricius, 1805",62PV2,8986045,62PV2,8986045
-B246:2:3,"Didacus Collart, 1935","Collart, 1935",,,,,subgenus,,B246:2,accepted,,,B246:2:2,"Dacus Fabricius, 1805",,,,,,Dacinae,Dacus,Didacus,Dacinae | Dacus,"DIDACUS Collart, 1935",455B,,455B,
+B246:2:2,"Dacus Fabricius, 1805","Fabricius, 1805",,,,,genus,,B246:2,accepted,,,B246:2:1,Dacinae,,,,,,Dacinae,Dacus,,Dacinae,"DACUS Fabricius, 1805",BXZK8,8986045,BXZK8,8986045
+B246:2:3,"Didacus Collart, 1935","Collart, 1935",,,,,subgenus,,B246:2,accepted,,,B246:2:2,"Dacus Fabricius, 1805",,,,,,Dacinae,Dacus,Didacus,Dacinae | Dacus,"DIDACUS Collart, 1935",BYV94,,BYV94,
 B246:2:4,"Dacus ciliatus Loew, 1862","Loew, 1862",Dacus,Didacus,ciliatus,,species,,B246:2,accepted,,,B246:2:3,"Didacus Collart, 1935",,,,,,Dacinae,Dacus,Didacus,Dacinae | Dacus | Didacus,"ciliatus Loew, 1862",883X7,1625561,883X7,1625561
-B246:2:5,Trypetinae,,,,,,subfamily,,B246:2,accepted,,,,,,,,,,Trypetinae,,,,TRYPETINAE,9WKV8,,9WKV8,
+B246:2:5,Trypetinae,,,,,,subfamily,,B246:2,accepted,,,,,,,,,,Trypetinae,,,,TRYPETINAE,B7X9Y,,B7X9Y,
 B246:2:6,Acanthonevrini,,,,,,tribe,,B246:2,accepted,,,B246:2:5,Trypetinae,,,,,,Trypetinae,,,Trypetinae,ACANTHONEVRINI,89P5M,,89P5M,
-B246:2:7,"Taomyia Bezzi, 1920","Bezzi, 1920",,,,,genus,,B246:2,accepted,,,B246:2:6,Acanthonevrini,,,,,,Trypetinae,Taomyia,,Trypetinae | Acanthonevrini,"TAOMYIA Bezzi, 1920",7SKL,1624302,7SKL,1624302
+B246:2:7,"Taomyia Bezzi, 1920","Bezzi, 1920",,,,,genus,,B246:2,accepted,,,B246:2:6,Acanthonevrini,,,,,,Trypetinae,Taomyia,,Trypetinae | Acanthonevrini,"TAOMYIA Bezzi, 1920",BYRDZ,1624302,BYRDZ,1624302
 B246:2:8,"Taomyia marshalli Bezzi, 1920","Bezzi, 1920",Taomyia,,marshalli,,species,,B246:2,accepted,,,B246:2:7,"Taomyia Bezzi, 1920",,,,,,Trypetinae,Taomyia,,Trypetinae | Acanthonevrini | Taomyia,"marshalli Bezzi, 1920",54R77,1624303,54R77,1624303
 B246:2:9,Ceratitini,,,,,,tribe,,B246:2,accepted,,,B246:2:5,Trypetinae,,,,,,Trypetinae,,,Trypetinae,CERATITINI,,,,
-B246:2:10,"Ceratitis MacLeay, 1829","MacLeay, 1829",,,,,genus,,B246:2,accepted,,,B246:2:9,Ceratitini,,,,,,Trypetinae,Ceratitis,,Trypetinae | Ceratitini,"CERATITIS MacLeay, 1829",3KQD,8776023,3KQD,8776023
+B246:2:10,"Ceratitis MacLeay, 1829","MacLeay, 1829",,,,,genus,,B246:2,accepted,,,B246:2:9,Ceratitini,,,,,,Trypetinae,Ceratitis,,Trypetinae | Ceratitini,"CERATITIS MacLeay, 1829",BXWPM,8776023,BXWPM,8776023
 B246:2:11,"Ceratitis capitata (Wiedemann, 1824)","(Wiedemann, 1824)",Ceratitis,,capitata,,species,,B246:2,accepted,,,B246:2:10,"Ceratitis MacLeay, 1829",,,,,,Trypetinae,Ceratitis,,Trypetinae | Ceratitini | Ceratitis,"capitata (Wiedemann, 1824)",87VGX,1626096,87VGX,1626096
-B246:2:12,"Pardalaspis Bezzi, 1918","Bezzi, 1918",,,,,genus,,B246:2,accepted,,,B246:2:9,Ceratitini,,,,,,Trypetinae,Pardalaspis,,Trypetinae | Ceratitini,"PARDALASPIS Bezzi, 1918",87JFV,1628219,87JFV,1628219
+B246:2:12,"Pardalaspis Bezzi, 1918","Bezzi, 1918",,,,,genus,,B246:2,accepted,,,B246:2:9,Ceratitini,,,,,,Trypetinae,Pardalaspis,,Trypetinae | Ceratitini,"PARDALASPIS Bezzi, 1918",BYWP6,1628219,BYWP6,1628219
 B246:2:13,"Pardalaspis cosyra (Walker, 1849)","(Walker, 1849)",Pardalaspis,,cosyra,,species,,B246:2,accepted,,,B246:2:12,"Pardalaspis Bezzi, 1918",,,,,,Trypetinae,Pardalaspis,,Trypetinae | Ceratitini | Pardalaspis,"cosyra (Walker, 1849)",,11364278,,1626042
-B246:2:14,Trypetini,,,,,,tribe,,B246:2,accepted,,,B246:2:5,Trypetinae,,,,,,Trypetinae,,,Trypetinae,TRYPETINI,9XBSN,,9XBSN,
-B246:2:15,"Anastrepha Schiner, 1868","Schiner, 1868",,,,,genus,,B246:2,accepted,,,B246:2:14,Trypetini,,,,,,Trypetinae,Anastrepha,,Trypetinae | Trypetini,"ANASTREPHA Schiner, 1868",9GL96,11063908,9GL96,11063908
+B246:2:14,Trypetini,,,,,,tribe,,B246:2,accepted,,,B246:2:5,Trypetinae,,,,,,Trypetinae,,,Trypetinae,TRYPETINI,B7XFR,,B7XFR,
+B246:2:15,"Anastrepha Schiner, 1868","Schiner, 1868",,,,,genus,,B246:2,accepted,,,B246:2:14,Trypetini,,,,,,Trypetinae,Anastrepha,,Trypetinae | Trypetini,"ANASTREPHA Schiner, 1868",BXWLM,1624988,BXWLM,1624988
 B246:2:16,"Anastrepha obliqua (Macquart, 1835)","(Macquart, 1835)",Anastrepha,,obliqua,,species,,B246:2,accepted,,,B246:2:15,"Anastrepha Schiner, 1868",,,,,,Trypetinae,Anastrepha,,Trypetinae | Trypetini | Anastrepha,"obliqua (Macquart, 1835)",DHH2,1625082,DHH2,1625082
-B246:2:17,"Rhagoletis Loew, 1862","Loew, 1862",,,,,genus,,B246:2,accepted,,,B246:2:14,Trypetini,,,,,,Trypetinae,Rhagoletis,,Trypetinae | Trypetini,"RHAGOLETIS Loew, 1862",642MG,1622544,642MG,1622544
+B246:2:17,"Rhagoletis Loew, 1862","Loew, 1862",,,,,genus,,B246:2,accepted,,,B246:2:14,Trypetini,,,,,,Trypetinae,Rhagoletis,,Trypetinae | Trypetini,"RHAGOLETIS Loew, 1862",BY3J7,1622544,BY3J7,1622544
 B246:2:18,"Rhagoletis cerasi (Linnaeus, 1758)","(Linnaeus, 1758)",Rhagoletis,,cerasi,,species,,B246:2,accepted,,,B246:2:17,"Rhagoletis Loew, 1862",,,,,,Trypetinae,Rhagoletis,,Trypetinae | Trypetini | Rhagoletis,"cerasi (Linnaeus, 1758)",4RZ52,1622583,4RZ52,1622583

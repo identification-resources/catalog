@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B221:7:1,Thysanidae,,,,,,family,,B221:7,accepted,,,,,,,,,Thysanidae,,,,,THYSANIDAE,,4298572,,5516
-B221:7:2,Thysanus Walker,Walker,,,,,genus,,B221:7,accepted,,,B221:7:1,Thysanidae,,,,,Thysanidae,,Thysanus,,Thysanidae,Thysanus Walker,7Q4HZ,1366144,7Q4HZ,1366144
-B221:7:3,Thysanus,,,,,,subgenus,s. str.,B221:7,accepted,,,B221:7:2,Thysanus Walker,,,,,Thysanidae,,Thysanus,Thysanus,Thysanidae | Thysanus,Thysanus s. str.,7Q4HZ,,7Q4HZ,
+B221:7:1,Thysanidae,,,,,,family,,B221:7,accepted,,,,,,,,,Thysanidae,,,,,THYSANIDAE,CCBXR,4298572,CC2FL,5516
+B221:7:2,Thysanus Walker,Walker,,,,,genus,,B221:7,accepted,,,B221:7:1,Thysanidae,,,,,Thysanidae,,Thysanus,,Thysanidae,Thysanus Walker,CCC2F,1366144,CCC2F,1366144
+B221:7:3,Thysanus,,,,,,subgenus,s. str.,B221:7,accepted,,,B221:7:2,Thysanus Walker,,,,,Thysanidae,,Thysanus,Thysanus,Thysanidae | Thysanus,Thysanus s. str.,CCC2F,,CCC2F,
 B221:7:4,Thysanus ater Walker,Walker,Thysanus,Thysanus,ater,,species,,B221:7,accepted,,,B221:7:3,Thysanus,,,,,Thysanidae,,Thysanus,Thysanus,Thysanidae | Thysanus | Thysanus,ater Walker,7BZ7N,1366153,7BZ7N,1366153
-B221:7:5,Signiphora Ashmead,Ashmead,,,,,subgenus,,B221:7,accepted,,,B221:7:2,Thysanus Walker,,,,,Thysanidae,,Thysanus,Signiphora,Thysanidae | Thysanus,Signiphora Ashmead,7GTL,,7GTL,
-B221:7:6,Chartocerus subaeneus (Förster),(Förster),Chartocerus,,subaeneus,,species,,B221:7,accepted,,,B221:7:5,Signiphora Ashmead,,,,,Thysanidae,,Thysanus,Signiphora,Thysanidae | Thysanus | Signiphora,Chartocerus subaeneus (Förster),,4498413,,4498413
+B221:7:5,Signiphora Ashmead,Ashmead,,,,,subgenus,,B221:7,accepted,,,B221:7:2,Thysanus Walker,,,,,Thysanidae,,Thysanus,Signiphora,Thysanidae | Thysanus,Signiphora Ashmead,CC2DL,,CC2DL,
+B221:7:6,Chartocerus subaeneus (Förster),(Förster),Chartocerus,,subaeneus,,species,,B221:7,accepted,,,B221:7:5,Signiphora Ashmead,,,,,Thysanidae,,Thysanus,Signiphora,Thysanidae | Thysanus | Signiphora,Chartocerus subaeneus (Förster),C99XR,4498413,C99XR,4498413

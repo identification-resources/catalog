@@ -1,18 +1,18 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B559:1:1,Melitaea,,,,,,genus,,B559:1,accepted,,,,,,,,,,,Melitaea,,,Melitaea,92F8N,9042695,92F8N,9042695
+B559:1:1,Melitaea,,,,,,genus,,B559:1,accepted,,,,,,,,,,,Melitaea,,,Melitaea,92F8N,11366402,92F8N,11366402
 B559:1:2,Melitaea didyma,,Melitaea,,didyma,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,didyma,3ZK8D,8393082,3ZK8D,8393082
-B559:1:3,Melitaea didyma f. meridionalis,,Melitaea,,didyma,meridionalis,form,,B559:1,accepted,,,B559:1:2,Melitaea didyma,,,,,,,Melitaea,,Melitaea | Melitaea didyma,meridionalis,5JM78,,5JM78,
+B559:1:3,Melitaea didyma f. meridionalis,,Melitaea,,didyma,meridionalis,form,,B559:1,accepted,,,B559:1:2,Melitaea didyma,,,,,,,Melitaea,,Melitaea | Melitaea didyma,meridionalis,BK78B,,BK78B,
 B559:1:4,Melitaea didyma f. occidentalis,,Melitaea,,didyma,occidentalis,form,,B559:1,accepted,,,B559:1:2,Melitaea didyma,,,,,,,Melitaea,,Melitaea | Melitaea didyma,occidentalis,5JM7L,,5JM7L,
 B559:1:5,Melitaea trivia,,Melitaea,,trivia,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,trivia,3ZKHG,1899349,3NVK2,1899349
 B559:1:6,Melitaea trivia subsp. ignasiti,,Melitaea,,trivia,ignasiti,subspecies,,B559:1,accepted,,,B559:1:5,Melitaea trivia,,,,,,,Melitaea,,Melitaea | Melitaea trivia,ignasiti,,8808004,,1899349
 B559:1:7,Melitaea trivia f. fascelis,,Melitaea,,trivia,fascelis,form,,B559:1,accepted,,,B559:1:6,Melitaea trivia subsp. ignasiti,,,,,,,Melitaea,,Melitaea | Melitaea trivia | Melitaea trivia subsp. ignasiti,fascelis,,,,
 B559:1:8,Melitaea cinxia,,Melitaea,,cinxia,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,cinxia,3ZK77,8168644,3ZK77,8168644
 B559:1:9,Melitaea arduinna,,Melitaea,,arduinna,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,arduinna,3ZK5T,1899818,3ZK5T,1899818
-B559:1:10,Melitaea phoebe,,Melitaea,,phoebe,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,phoebe,72Y6N,7934873,3ZK77,7934873
+B559:1:10,Melitaea phoebe,,Melitaea,,phoebe,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,phoebe,6QY6N,7934873,6QY6N,7934873
 B559:1:11,Melitaea phoebe f. alternans,,Melitaea,,phoebe,alternans,form,,B559:1,accepted,,,B559:1:10,Melitaea phoebe,,,,,,,Melitaea,,Melitaea | Melitaea phoebe,alternans,,,,
 B559:1:12,Melitaea phoebe f. pauper,,Melitaea,,phoebe,pauper,form,,B559:1,accepted,,,B559:1:10,Melitaea phoebe,,,,,,,Melitaea,,Melitaea | Melitaea phoebe,pauper,,,,
-B559:1:13,Melitaea phoebe subsp. occitanica,,Melitaea,,phoebe,occitanica,subspecies,,B559:1,accepted,,,B559:1:10,Melitaea phoebe,,,,,,,Melitaea,,Melitaea | Melitaea phoebe,occitanica,7KBST,6229573,7KBST,6229573
-B559:1:14,Melitaea ornata,,Melitaea,,ornata,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,ornata,3ZKDK,7855265,72Y5Y,6229528
+B559:1:13,Melitaea phoebe subsp. occitanica,,Melitaea,,phoebe,occitanica,subspecies,,B559:1,accepted,,,B559:1:10,Melitaea phoebe,,,,,,,Melitaea,,Melitaea | Melitaea phoebe,occitanica,BK78J,6229573,BK78J,6229573
+B559:1:14,Melitaea ornata,,Melitaea,,ornata,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,ornata,3ZKDK,5129650,72Y5Y,1899349
 B559:1:15,Melitaea aetherie,,Melitaea,,aetherie,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,aetherie,6R9SV,1899737,6R9SV,1899737
 B559:1:16,Melitaea aetherie subsp. perlinii,,Melitaea,,aetherie,perlinii,subspecies,,B559:1,accepted,,,B559:1:15,Melitaea aetherie,,,,,,,Melitaea,,Melitaea | Melitaea aetherie,perlinii,,,,
 B559:1:17,Melitaea athalia,,Melitaea,,athalia,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,athalia,9458B,1899433,3ZL64,1899433
@@ -24,9 +24,9 @@ B559:1:22,Melitaea diamina,,Melitaea,,diamina,,species,,B559:1,accepted,,,B559:1
 B559:1:23,Melitaea diamina subsp. vernetensis,,Melitaea,,diamina,vernetensis,subspecies,,B559:1,accepted,,,B559:1:22,Melitaea diamina,,,,,,,Melitaea,,Melitaea | Melitaea diamina,vernetensis,,9382443,,7768674
 B559:1:24,Melitaea parthenoides,,Melitaea,,parthenoides,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,parthenoides,9458M,5792087,3ZL6J,1913351
 B559:1:25,Melitaea parthenoides f. nevadensis,,Melitaea,,parthenoides,nevadensis,form,,B559:1,accepted,,,B559:1:24,Melitaea parthenoides,,,,,,,Melitaea,,Melitaea | Melitaea parthenoides,nevadensis,,,,
-B559:1:26,Melitaea deione,,Melitaea,,deione,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,deione,936WZ,6229058,3ZL68,1913223
+B559:1:26,Melitaea deione,,Melitaea,,deione,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,deione,936WZ,6229058,3ZL68,6229058
 B559:1:27,Melitaea deione subsp. rosinae,,Melitaea,,deione,rosinae,subspecies,,B559:1,accepted,,,B559:1:26,Melitaea deione,,,,,,,Melitaea,,Melitaea | Melitaea deione,rosinae,,,,
-B559:1:28,Melitaea deione subsp. berisalli,,Melitaea,,deione,berisalli,subspecies,,B559:1,accepted,,,B559:1:26,Melitaea deione,,,,,,,Melitaea,,Melitaea | Melitaea deione,berisalli,,,,
+B559:1:28,Melitaea deione subsp. berisalli,,Melitaea,,deione,berisalli,subspecies,,B559:1,accepted,,,B559:1:26,Melitaea deione,,,,,,,Melitaea,,Melitaea | Melitaea deione,berisalli,,9267040,,6229058
 B559:1:29,Melitaea britomartis,,Melitaea,,britomartis,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,britomartis,9458D,7598816,3ZL66,1913178
 B559:1:30,Melitaea aurelia,,Melitaea,,aurelia,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,aurelia,9458C,5881471,3ZL65,1913175
 B559:1:31,Melitaea varia,,Melitaea,,varia,,species,,B559:1,accepted,,,B559:1:1,Melitaea,,,,,,,Melitaea,,Melitaea,varia,9458R,7867379,3ZL6P,7867379

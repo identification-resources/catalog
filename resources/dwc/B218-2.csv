@@ -1,8 +1,8 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B218:2:1,Cynipinae,,,,,,subfamily,,B218:2,accepted,,,,,,,,,,Cynipinae,,,,CYNIPINAE,,,,
-B218:2:2,Ceroptres Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Ceroptres,,Cynipinae,Ceroptres Hartig,3L7Z,1309570,3L7Z,1309570
+B218:2:2,Ceroptres Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Ceroptres,,Cynipinae,Ceroptres Hartig,C96VQ,1309570,C96VQ,1309570
 B218:2:3,Ceroptres arator Hartig,Hartig,Ceroptres,,arator,,species,,B218:2,accepted,,,B218:2:2,Ceroptres Hartig,,,,,,Cynipinae,Ceroptres,,Cynipinae | Ceroptres,arator Hartig,,1309572,,1309571
-B218:2:4,Phanacis Foerster,Foerster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Phanacis,,Cynipinae,Phanacis Foerster,6MRN,1309619,6MRN,1309619
+B218:2:4,Phanacis Foerster,Foerster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Phanacis,,Cynipinae,Phanacis Foerster,CBPZ2,1309619,CBPZ2,1309619
 B218:2:5,Phanacis centaureae Foerster,Foerster,Phanacis,,centaureae,,species,,B218:2,accepted,,,B218:2:4,Phanacis Foerster,,,,,,Cynipinae,Phanacis,,Cynipinae | Phanacis,centaureae Foerster,,1309623,,1309623
 B218:2:6,Phanacis sonchi (Stefani),(Stefani),Phanacis,,sonchi,,species,comb. n.,B218:2,accepted,,,B218:2:4,Phanacis Foerster,,,,,,Cynipinae,Phanacis,,Cynipinae | Phanacis,sonchi (Stefani) comb. n.,,,,
 B218:2:7,Phanacis hypochoeridis (Kieffer),(Kieffer),Phanacis,,hypochoeridis,,species,comb. n.,B218:2,accepted,,,B218:2:4,Phanacis Foerster,,,,,,Cynipinae,Phanacis,,Cynipinae | Phanacis,hypochoeridis (Kieffer) comb. n.,,1309620,,1309620
@@ -16,26 +16,26 @@ B218:2:14,Aulacidae hieracii (Bouché),(Bouché),Aulacidae,,hieracii,,species,,B
 B218:2:15,Aulacidae graminis (Cameron),(Cameron),Aulacidae,,graminis,,species,syn. n.,B218:2,synonym,B218:2:14,Aulacidae hieracii (Bouché),,,,,,,,Cynipinae,Aulacidae,,Cynipinae | Aulacidae,graminis (Cameron) syn. n.,,,,
 B218:2:16,Aulacidae subterminalis Niblett,Niblett,Aulacidae,,subterminalis,,species,,B218:2,accepted,,,B218:2:11,Aulacidae Ashmead,,,,,,Cynipinae,Aulacidae,,Cynipinae | Aulacidae,subterminalis Niblett,,,,
 B218:2:17,Aulacidae pilosellae (Kieffer),(Kieffer),Aulacidae,,pilosellae,,species,,B218:2,accepted,,,B218:2:11,Aulacidae Ashmead,,,,,,Cynipinae,Aulacidae,,Cynipinae | Aulacidae,pilosellae (Kieffer),,,,
-B218:2:18,Aylax Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Aylax,,Cynipinae,Aylax Hartig,36V8,1309632,36V8,1309632
+B218:2:18,Aylax Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Aylax,,Cynipinae,Aylax Hartig,C8ZF2,1309632,C8ZF2,1309632
 B218:2:19,Aylax papaveris (Perris),(Perris),Aylax,,papaveris,,species,,B218:2,accepted,,,B218:2:18,Aylax Hartig,,,,,,Cynipinae,Aylax,,Cynipinae | Aylax,papaveris (Perris),,1309633,,1309633
 B218:2:20,Aylax minor Hartig,Hartig,Aylax,,minor,,species,,B218:2,accepted,,,B218:2:18,Aylax Hartig,,,,,,Cynipinae,Aylax,,Cynipinae | Aylax,minor Hartig,,4496728,,4496728
-B218:2:21,Isocolus Förster,Förster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Isocolus,,Cynipinae,Isocolus Förster,9WMD8,1309575,9WMD8,1309575
+B218:2:21,Isocolus Förster,Förster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Isocolus,,Cynipinae,Isocolus Förster,C7PQR,1309575,C7PQR,1309575
 B218:2:22,Isocolus fitchi (Kieffer),(Kieffer),Isocolus,,fitchi,,species,,B218:2,accepted,,,B218:2:21,Isocolus Förster,,,,,,Cynipinae,Isocolus,,Cynipinae | Isocolus,fitchi (Kieffer),,8228236,,8228236
 B218:2:23,Isocolus jaceae (Schenck),(Schenck),Isocolus,,jaceae,,species,,B218:2,accepted,,,B218:2:21,Isocolus Förster,,,,,,Cynipinae,Isocolus,,Cynipinae | Isocolus,jaceae (Schenck),,7907335,,7907335
 B218:2:24,Isocolus scabiosae (Giraud),(Giraud),Isocolus,,scabiosae,,species,,B218:2,accepted,,,B218:2:21,Isocolus Förster,,,,,,Cynipinae,Isocolus,,Cynipinae | Isocolus,scabiosae (Giraud),,5761350,,5761350
 B218:2:25,Isocolus rogenhoferi Wachtl,Wachtl,Isocolus,,rogenhoferi,,species,,B218:2,accepted,,,B218:2:21,Isocolus Förster,,,,,,Cynipinae,Isocolus,,Cynipinae | Isocolus,rogenhoferi Wachtl,,5761351,,5761350
 B218:2:26,Liposthenus Foerster,Foerster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Liposthenus,,Cynipinae,Liposthenus Foerster,,4679629,,1309695
 B218:2:27,Liposthenus latreillei (Kieffer),(Kieffer),Liposthenus,,latreillei,,species,,B218:2,accepted,,,B218:2:26,Liposthenus Foerster,,,,,,Cynipinae,Liposthenus,,Cynipinae | Liposthenus,latreillei (Kieffer),,10276119,,1309699
-B218:2:28,Periclistus Förster,Förster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Periclistus,,Cynipinae,Periclistus Förster,6L7N,1309686,6L7N,1309686
+B218:2:28,Periclistus Förster,Förster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Periclistus,,Cynipinae,Periclistus Förster,CBRWW,1309686,CBRWW,1309686
 B218:2:29,Periclistus brandtii Ratzeburg,Ratzeburg,Periclistus,,brandtii,,species,,B218:2,accepted,,,B218:2:28,Periclistus Förster,,,,,,Cynipinae,Periclistus,,Cynipinae | Periclistus,brandtii Ratzeburg,,1309687,,1309687
 B218:2:30,Periclistus caninae Hartig,Hartig,Periclistus,,caninae,,species,,B218:2,accepted,,,B218:2:28,Periclistus Förster,,,,,,Cynipinae,Periclistus,,Cynipinae | Periclistus,caninae Hartig,,4496615,,4496615
 B218:2:31,Periclistus spinosissimae Dettmer,Dettmer,Periclistus,,spinosissimae,,species,,B218:2,accepted,,,B218:2:28,Periclistus Förster,,,,,,Cynipinae,Periclistus,,Cynipinae | Periclistus,spinosissimae Dettmer,,4496620,,4496620
-B218:2:32,Xestophanes Foerster,Foerster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Xestophanes,,Cynipinae,Xestophanes Foerster,898F,1309641,898F,1309641
+B218:2:32,Xestophanes Foerster,Foerster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Xestophanes,,Cynipinae,Xestophanes Foerster,CCCLN,1309641,CCCLN,1309641
 B218:2:33,Xestophanes brevitarsis (Thomson),(Thomson),Xestophanes,,brevitarsis,,species,,B218:2,accepted,,,B218:2:32,Xestophanes Foerster,,,,,,Cynipinae,Xestophanes,,Cynipinae | Xestophanes,brevitarsis (Thomson),,4496666,,4496666
 B218:2:34,Xestophanes potentillae (Retzius),(Retzius),Xestophanes,,potentillae,,species,,B218:2,accepted,,,B218:2:32,Xestophanes Foerster,,,,,,Cynipinae,Xestophanes,,Cynipinae | Xestophanes,potentillae (Retzius),,1309642,,1309642
-B218:2:35,Diastrophus Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Diastrophus,,Cynipinae,Diastrophus Hartig,44DP,1309579,44DP,1309579
+B218:2:35,Diastrophus Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Diastrophus,,Cynipinae,Diastrophus Hartig,C9HVR,1309579,C9HVR,1309579
 B218:2:36,Diastrophus rubi (Bouché),(Bouché),Diastrophus,,rubi,,species,,B218:2,accepted,,,B218:2:35,Diastrophus Hartig,,,,,,Cynipinae,Diastrophus,,Cynipinae | Diastrophus,rubi (Bouché),,5032710,,5032710
-B218:2:37,Synergus Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Synergus,,Cynipinae,Synergus Hartig,87KVK,1176773,87KVK,1176773
+B218:2:37,Synergus Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Synergus,,Cynipinae,Synergus Hartig,CC7J6,1176773,CC7J6,1176773
 B218:2:38,Synergus umbraculus Olivier,Olivier,Synergus,,umbraculus,,species,,B218:2,accepted,,,B218:2:37,Synergus Hartig,,,,,,Cynipinae,Synergus,,Cynipinae | Synergus,umbraculus Olivier,,8166218,,8166218
 B218:2:39,Synergus reinhardi Mayr,Mayr,Synergus,,reinhardi,,species,,B218:2,accepted,,,B218:2:37,Synergus Hartig,,,,,,Cynipinae,Synergus,,Cynipinae | Synergus,reinhardi Mayr,,7994891,,7994891
 B218:2:40,Synergus pallidipennis Mayr,Mayr,Synergus,,pallidipennis,,species,,B218:2,accepted,,,B218:2:37,Synergus Hartig,,,,,,Cynipinae,Synergus,,Cynipinae | Synergus,pallidipennis Mayr,,8131536,,8131536
@@ -52,7 +52,7 @@ B218:2:50,Synergus nervosus Hartig,Hartig,Synergus,,nervosus,,species,,B218:2,ac
 B218:2:51,Synergus albipes Hartig,Hartig,Synergus,,albipes,,species,,B218:2,accepted,,,B218:2:37,Synergus Hartig,,,,,,Cynipinae,Synergus,,Cynipinae | Synergus,albipes Hartig,,8137040,,8137040
 B218:2:52,Saphonecrus Dalla,Dalla,,,,,genus,Torre and Kieffer,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Saphonecrus,,Cynipinae,Saphonecrus Dalla Torre and Kieffer,,4405726,,4405726
 B218:2:53,Saphonecrus connatus (Hartig),(Hartig),Saphonecrus,,connatus,,species,,B218:2,accepted,,,B218:2:52,Saphonecrus Dalla,,,,,,Cynipinae,Saphonecrus,,Cynipinae | Saphonecrus,connatus (Hartig),,4496628,,4496628
-B218:2:54,Diplolepis Geoffroy,Geoffroy,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Diplolepis,,Cynipinae,Diplolepis Geoffroy,6334T,5032715,6334T,5032715
+B218:2:54,Diplolepis Geoffroy,Geoffroy,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Diplolepis,,Cynipinae,Diplolepis Geoffroy,C9PRF,5032715,C9PRF,5032715
 B218:2:55,Diplolepis eglanteriae (Hartig),(Hartig),Diplolepis,,eglanteriae,,species,,B218:2,accepted,,,B218:2:54,Diplolepis Geoffroy,,,,,,Cynipinae,Diplolepis,,Cynipinae | Diplolepis,eglanteriae (Hartig),,7724111,,7724111
 B218:2:56,Diplolepis centifoliae (Hartig),(Hartig),Diplolepis,,centifoliae,,species,,B218:2,accepted,,,B218:2:54,Diplolepis Geoffroy,,,,,,Cynipinae,Diplolepis,,Cynipinae | Diplolepis,centifoliae (Hartig),,9919020,,7417360
 B218:2:57,Diplolepis nervosa (Curtis),(Curtis),Diplolepis,,nervosa,,species,,B218:2,accepted,,,B218:2:54,Diplolepis Geoffroy,,,,,,Cynipinae,Diplolepis,,Cynipinae | Diplolepis,nervosa (Curtis),,7417360,,7417360
@@ -60,11 +60,11 @@ B218:2:58,Diplolepis dispar Niblett,Niblett,Diplolepis,,dispar,,species,syn. nov
 B218:2:59,Diplolepis spinosissimae Giraud,Giraud,Diplolepis,,spinosissimae,,species,,B218:2,accepted,,,B218:2:54,Diplolepis Geoffroy,,,,,,Cynipinae,Diplolepis,,Cynipinae | Diplolepis,spinosissimae Giraud,,7774102,,7774102
 B218:2:60,Diplolepis rosae (Linnaeus),(Linnaeus),Diplolepis,,rosae,,species,,B218:2,accepted,,,B218:2:54,Diplolepis Geoffroy,,,,,,Cynipinae,Diplolepis,,Cynipinae | Diplolepis,rosae (Linnaeus),,5032718,,5032718
 B218:2:61,Diplolepis mayri Schlechtendal,Schlechtendal,Diplolepis,,mayri,,species,,B218:2,accepted,,,B218:2:54,Diplolepis Geoffroy,,,,,,Cynipinae,Diplolepis,,Cynipinae | Diplolepis,mayri Schlechtendal,,8239577,,8239577
-B218:2:62,Callirhytis Foerster,Foerster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Callirhytis,,Cynipinae,Callirhytis Foerster,3FJT,1309629,3FJT,1309629
+B218:2:62,Callirhytis Foerster,Foerster,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Callirhytis,,Cynipinae,Callirhytis Foerster,C96BJ,1309629,C96BJ,1309629
 B218:2:63,Callirhytis bella (Dettmer),(Dettmer),Callirhytis,,bella,,species,,B218:2,accepted,,,B218:2:62,Callirhytis Foerster,,,,,,Cynipinae,Callirhytis,,Cynipinae | Callirhytis,bella (Dettmer),,4497256,,4497256
 B218:2:64,Callirhytis erythrocephala (Giraud),(Giraud),Callirhytis,,erythrocephala,,species,,B218:2,accepted,,,B218:2:62,Callirhytis Foerster,,,,,,Cynipinae,Callirhytis,,Cynipinae | Callirhytis,erythrocephala (Giraud),,1309630,,1309630
 B218:2:65,Callirhytis erythrostoma Dettmer,Dettmer,Callirhytis,,erythrostoma,,species,,B218:2,accepted,,,B218:2:62,Callirhytis Foerster,,,,,,Cynipinae,Callirhytis,,Cynipinae | Callirhytis,erythrostoma Dettmer,,4497252,,1309630
-B218:2:66,Neuroterus Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Neuroterus,,Cynipinae,Neuroterus Hartig,63SL,1309690,63SL,1309690
+B218:2:66,Neuroterus Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Neuroterus,,Cynipinae,Neuroterus Hartig,CBJVR,1309690,CBJVR,1309690
 B218:2:67,Neuroterus tricolor Hartig,Hartig,Neuroterus,,tricolor,,species,,B218:2,accepted,,,B218:2:66,Neuroterus Hartig,,,,,,Cynipinae,Neuroterus,,Cynipinae | Neuroterus,tricolor Hartig,,4496820,,4496820
 B218:2:68,Neuroterus fumipennis Hartig,Hartig,Neuroterus,,fumipennis,,species,,B218:2,synonym,B218:2:67,Neuroterus tricolor Hartig,,,,,,,,Cynipinae,Neuroterus,,Cynipinae | Neuroterus,fumipennis Hartig,,4496821,,4496820
 B218:2:69,Neuroterus quercusbaccarum (Linnaeus),(Linnaeus),Neuroterus,,quercusbaccarum,,species,,B218:2,accepted,,,B218:2:66,Neuroterus Hartig,,,,,,Cynipinae,Neuroterus,,Cynipinae | Neuroterus,quercusbaccarum (Linnaeus),,1309692,,1309692
@@ -75,7 +75,7 @@ B218:2:73,Neuroterus albipes (Schenck),(Schenck),Neuroterus,,albipes,,species,,B
 B218:2:74,Neuroterus laeviusculus Schenck,Schenck,Neuroterus,,laeviusculus,,species,,B218:2,synonym,B218:2:73,Neuroterus albipes (Schenck),,,,,,,,Cynipinae,Neuroterus,,Cynipinae | Neuroterus,laeviusculus Schenck,,4496800,,4496799
 B218:2:75,Neuroterus aprilinus (Giraud),(Giraud),Neuroterus,,aprilinus,,species,,B218:2,accepted,,,B218:2:66,Neuroterus Hartig,,,,,,Cynipinae,Neuroterus,,Cynipinae | Neuroterus,aprilinus (Giraud),,9542411,,9542411
 B218:2:76,Neuroterus schlechtendali Mayr,Mayr,Neuroterus,,schlechtendali,,species,,B218:2,synonym,B218:2:75,Neuroterus aprilinus (Giraud),,,,,,,,Cynipinae,Neuroterus,,Cynipinae | Neuroterus,schlechtendali Mayr,,4496864,,4496861
-B218:2:77,Andricus Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Andricus,,Cynipinae,Andricus Hartig,VTL,1309591,VTL,1309591
+B218:2:77,Andricus Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Andricus,,Cynipinae,Andricus Hartig,C8TMY,1309591,C8TMY,1309591
 B218:2:78,Andricus ostreus Hartig,Hartig,Andricus,,ostreus,,species,,B218:2,accepted,,,B218:2:77,Andricus Hartig,,,,,,Cynipinae,Andricus,,Cynipinae | Andricus,ostreus Hartig,,7657273,,4496851
 B218:2:79,Andricus furunculus Beyerinck,Beyerinck,Andricus,,furunculus,,species,,B218:2,synonym,B218:2:78,Andricus ostreus Hartig,,,,,,,,Cynipinae,Andricus,,Cynipinae | Andricus,furunculus Beyerinck,,11362068,,4496851
 B218:2:80,Andricus curvator Hartig,Hartig,Andricus,,curvator,,species,,B218:2,accepted,,,B218:2:77,Andricus Hartig,,,,,,Cynipinae,Andricus,,Cynipinae | Andricus,curvator Hartig,,1309593,,1309593
@@ -109,7 +109,7 @@ B218:2:107,Andricus marginalis (Schlechtendal),(Schlechtendal),Andricus,,margina
 B218:2:108,Andricus albopunctatus (Schlechtendal),(Schlechtendal),Andricus,,albopunctatus,,species,,B218:2,accepted,,,B218:2:77,Andricus Hartig,,,,,,Cynipinae,Andricus,,Cynipinae | Andricus,albopunctatus (Schlechtendal),,9952715,,4496958
 B218:2:109,Andricus quercuscalicis (Burgsdorf),(Burgsdorf),Andricus,,quercuscalicis,,species,,B218:2,accepted,,,B218:2:77,Andricus Hartig,,,,,,Cynipinae,Andricus,,Cynipinae | Andricus,quercuscalicis (Burgsdorf),,4497124,,4497124
 B218:2:110,Andricus rhizomae (Hartig),(Hartig),Andricus,,rhizomae,,species,,B218:2,accepted,,,B218:2:77,Andricus Hartig,,,,,,Cynipinae,Andricus,,Cynipinae | Andricus,rhizomae (Hartig),,4497243,,4497243
-B218:2:111,Cynips Linnaeus,Linnaeus,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Cynips,,Cynipinae,Cynips Linnaeus,3YK3,1309669,3YK3,1309669
+B218:2:111,Cynips Linnaeus,Linnaeus,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Cynips,,Cynipinae,Cynips Linnaeus,C9JNK,1309669,C9JNK,1309669
 B218:2:112,Cynips quercusfolii Linnaeus,Linnaeus,Cynips,,quercusfolii,,species,,B218:2,accepted,,,B218:2:111,Cynips Linnaeus,,,,,,Cynipinae,Cynips,,Cynipinae | Cynips,quercusfolii Linnaeus,,4496895,,4496895
 B218:2:113,Cynips taschenbergi Schlechtendal,Schlechtendal,Cynips,,taschenbergi,,species,,B218:2,synonym,B218:2:112,Cynips quercusfolii Linnaeus,,,,,,,,Cynipinae,Cynips,,Cynipinae | Cynips,taschenbergi Schlechtendal,,10160734,,4496895
 B218:2:114,Cynips longiventris Hartig,Hartig,Cynips,,longiventris,,species,,B218:2,accepted,,,B218:2:111,Cynips Linnaeus,,,,,,Cynipinae,Cynips,,Cynipinae | Cynips,longiventris Hartig,,4496917,,4496917
@@ -119,11 +119,11 @@ B218:2:117,Cynips verrucosa Schlechtendal,Schlechtendal,Cynips,,verrucosa,,speci
 B218:2:118,Cynips disticha Hartig,Hartig,Cynips,,disticha,,species,,B218:2,accepted,,,B218:2:111,Cynips Linnaeus,,,,,,Cynipinae,Cynips,,Cynipinae | Cynips,disticha Hartig,,4496920,,4496920
 B218:2:119,Cynips indistincta Niblett,Niblett,Cynips,,indistincta,,species,,B218:2,synonym,B218:2:118,Cynips disticha Hartig,,,,,,,,Cynipinae,Cynips,,Cynipinae | Cynips,indistincta Niblett,,4496921,,4496920
 B218:2:120,Cynips agama Hartig,Hartig,Cynips,,agama,,species,,B218:2,accepted,,,B218:2:111,Cynips Linnaeus,,,,,,Cynipinae,Cynips,,Cynipinae | Cynips,agama Hartig,,4496913,,4496913
-B218:2:121,Trigonaspis Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Trigonaspis,,Cynipinae,Trigonaspis Hartig,7ZXQ,1309586,7ZXQ,1309586
+B218:2:121,Trigonaspis Hartig,Hartig,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Trigonaspis,,Cynipinae,Trigonaspis Hartig,CCBTD,1309586,CCBTD,1309586
 B218:2:122,Trigonaspis megaptera (Panzer),(Panzer),Trigonaspis,,megaptera,,species,,B218:2,accepted,,,B218:2:121,Trigonaspis Hartig,,,,,,Cynipinae,Trigonaspis,,Cynipinae | Trigonaspis,megaptera (Panzer),,4497266,,4497266
 B218:2:123,Trigonaspis renum Hartig,Hartig,Trigonaspis,,renum,,species,,B218:2,synonym,B218:2:122,Trigonaspis megaptera (Panzer),,,,,,,,Cynipinae,Trigonaspis,,Cynipinae | Trigonaspis,renum Hartig,,10429286,,4497266
 B218:2:124,Trigonaspis synapsis (Hartig),(Hartig),Trigonaspis,,synapsis,,species,,B218:2,accepted,,,B218:2:121,Trigonaspis Hartig,,,,,,Cynipinae,Trigonaspis,,Cynipinae | Trigonaspis,synapsis (Hartig),,,,
 B218:2:125,Trigonaspis megapteropsis Wreise,Wreise,Trigonaspis,,megapteropsis,,species,,B218:2,synonym,B218:2:124,Trigonaspis synapsis (Hartig),,,,,,,,Cynipinae,Trigonaspis,,Cynipinae | Trigonaspis,megapteropsis Wreise,,7516923,,8353337
-B218:2:126,Biorhiza Westwood,Westwood,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Biorhiza,,Cynipinae,Biorhiza Westwood,62FYJ,1309638,62FYJ,1309638
+B218:2:126,Biorhiza Westwood,Westwood,,,,,genus,,B218:2,accepted,,,B218:2:1,Cynipinae,,,,,,Cynipinae,Biorhiza,,Cynipinae,Biorhiza Westwood,C9388,1309638,C9388,1309638
 B218:2:127,Biorhiza pallida (Olivier),(Olivier),Biorhiza,,pallida,,species,,B218:2,accepted,,,B218:2:126,Biorhiza Westwood,,,,,,Cynipinae,Biorhiza,,Cynipinae | Biorhiza,pallida (Olivier),,1309640,,1309640
 B218:2:128,Biorhiza aptera Fabricius,Fabricius,Biorhiza,,aptera,,species,,B218:2,synonym,B218:2:127,Biorhiza pallida (Olivier),,,,,,,,Cynipinae,Biorhiza,,Cynipinae | Biorhiza,aptera Fabricius,,11307994,,1309640

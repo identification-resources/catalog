@@ -1,11 +1,11 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B136:27:1,Cisidae,,,,,,family,,B136:27,accepted,,,,,,,,,Cisidae,,,,,Cisidae,,4760513,,3794
-B136:27:2,Octotemnus,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Octotemnus,,Cisidae,Octotemnus,66Q7,1045538,66Q7,1045538
+B136:27:2,Octotemnus,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Octotemnus,,Cisidae,Octotemnus,CBL64,1045538,CBL64,1045538
 B136:27:3,Hadreule,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Hadreule,,Cisidae,Hadreule,,4404699,,4404699
-B136:27:4,Sulcacis,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Sulcacis,,Cisidae,Sulcacis,7Q7M,1045804,7Q7M,1045804
-B136:27:5,Sulcacis,,,,,,subgenus,s. str.,B136:27,accepted,,,B136:27:4,Sulcacis,,,,,Cisidae,,Sulcacis,Sulcacis,Cisidae | Sulcacis,Sulcacis s. str.,7Q7M,,7Q7M,
+B136:27:4,Sulcacis,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Sulcacis,,Cisidae,Sulcacis,CC54B,1045804,CC54B,1045804
+B136:27:5,Sulcacis,,,,,,subgenus,s. str.,B136:27,accepted,,,B136:27:4,Sulcacis,,,,,Cisidae,,Sulcacis,Sulcacis,Cisidae | Sulcacis,Sulcacis s. str.,CC54B,,CC54B,
 B136:27:6,Entypocis,,,,,,subgenus,,B136:27,accepted,,,B136:27:4,Sulcacis,,,,,Cisidae,,Sulcacis,Entypocis,Cisidae | Sulcacis,Entypocis,,,,
-B136:27:7,Ennearthron,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Ennearthron,,Cisidae,Ennearthron,4BXJ,1045634,4BXJ,1045634
-B136:27:8,Rhopalodontus,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Rhopalodontus,,Cisidae,Rhopalodontus,79CM,8566704,79CM,8566704
-B136:27:9,Cis,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Cis,,Cisidae,Cis,3Q7Z,1045659,3Q7Z,1045659
-B136:27:10,Orthocis,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Orthocis,,Cisidae,Orthocis,63H6B,1045544,63H6B,1045544
+B136:27:7,Ennearthron,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Ennearthron,,Cisidae,Ennearthron,C9PJP,1045634,C9PJP,1045634
+B136:27:8,Rhopalodontus,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Rhopalodontus,,Cisidae,Rhopalodontus,CBZYC,8566704,CBZYC,8566704
+B136:27:9,Cis,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Cis,,Cisidae,Cis,C9FYT,1045659,C9FYT,1045659
+B136:27:10,Orthocis,,,,,,genus,,B136:27,accepted,,,B136:27:1,Cisidae,,,,,Cisidae,,Orthocis,,Cisidae,Orthocis,CBKX8,1045544,CBKX8,1045544

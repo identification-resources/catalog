@@ -1,5 +1,5 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B147:1:1,Plecoptera,,,,,,order,,B147:1,accepted,,,,,,,,Plecoptera,,,,,,PLECOPTERA,9CHXG,787,9CHXG,787
+B147:1:1,Plecoptera,,,,,,order,,B147:1,accepted,,,,,,,,Plecoptera,,,,,,PLECOPTERA,62372,787,62372,787
 B147:1:2,Taeniopterygidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Taeniopterygidae,,,,Plecoptera,TAENIOPTERYGIDAE,8MPKC,2994,8MPKC,2994
 B147:1:3,Taeniopteryx,,,,,,genus,,B147:1,accepted,,,B147:1:2,Taeniopterygidae,,,,Plecoptera,Taeniopterygidae,,Taeniopteryx,,Plecoptera | Taeniopterygidae,Taeniopteryx,8MVF5,2001548,8MVF5,2001548
 B147:1:4,Taeniopteryx nebulosa (L.),(L.),Taeniopteryx,,nebulosa,,species,,B147:1,accepted,,,B147:1:3,Taeniopteryx,,,,Plecoptera,Taeniopterygidae,,Taeniopteryx,,Plecoptera | Taeniopterygidae | Taeniopteryx,nebulosa (L.),54HQQ,5151773,54HQQ,5151773
@@ -25,7 +25,7 @@ B147:1:23,Nemoura erratica Claassen,Claassen,Nemoura,,erratica,,species,,B147:1,
 B147:1:24,Nemoura cambrica Stephens,Stephens,Nemoura,,cambrica,,species,,B147:1,accepted,,,B147:1:19,Nemoura Pictet,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae | Nemoura,cambrica Stephens,469PB,2003529,469PB,2003529
 B147:1:25,Nemoura avicularis Morton,Morton,Nemoura,,avicularis,,species,,B147:1,accepted,,,B147:1:19,Nemoura Pictet,,,,Plecoptera,Nemouridae,,Nemoura,,Plecoptera | Nemouridae | Nemoura,avicularis Morton,469NK,2003559,469NK,2003559
 B147:1:26,Nemurella,,,,,,genus,,B147:1,accepted,,,B147:1:10,Nemouridae,,,,Plecoptera,Nemouridae,,Nemurella,,Plecoptera | Nemouridae,Nemurella,8MSZY,2002690,8MSZY,2002690
-B147:1:27,Nemurella inconspicua (Pictet),(Pictet),Nemurella,,inconspicua,,species,,B147:1,accepted,,,B147:1:26,Nemurella,,,,Plecoptera,Nemouridae,,Nemurella,,Plecoptera | Nemouridae | Nemurella,inconspicua (Pictet),,11269312,,4383502
+B147:1:27,Nemurella inconspicua (Pictet),(Pictet),Nemurella,,inconspicua,,species,,B147:1,accepted,,,B147:1:26,Nemurella,,,,Plecoptera,Nemouridae,,Nemurella,,Plecoptera | Nemouridae | Nemurella,inconspicua (Pictet),BXG6G,11269312,8NGVT,4383502
 B147:1:28,Leuctridae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Leuctridae,,,,Plecoptera,LEUCTRIDAE,8MPFF,2998,8MPFF,2998
 B147:1:29,Leuctra Stephens,Stephens,,,,,genus,,B147:1,accepted,,,B147:1:28,Leuctridae,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae,Leuctra Stephens,8MRN5,10278948,8MRN5,10278948
 B147:1:30,Leuctra geniculata Stephens,Stephens,Leuctra,,geniculata,,species,,B147:1,accepted,,,B147:1:29,Leuctra Stephens,,,,Plecoptera,Leuctridae,,Leuctra,,Plecoptera | Leuctridae | Leuctra,geniculata Stephens,6PVS3,2001671,6PVS3,2001671
@@ -43,8 +43,8 @@ B147:1:41,Capnia atra Morton,Morton,Capnia,,atra,,species,,B147:1,accepted,,,B14
 B147:1:42,Capnia vidua Klapalek,Klapalek,Capnia,,vidua,,species,,B147:1,accepted,,,B147:1:38,Capnia Pictet,,,,Plecoptera,Capniidae,,Capnia,,Plecoptera | Capniidae | Capnia,vidua Klapalek,5X9JV,5151964,5X9JV,5151964
 B147:1:43,Perlidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Perlidae,,,,Plecoptera,PERLIDAE,8MPHF,7223,8MPHF,7223
 B147:1:44,Perla Pictet,Pictet,,,,,genus,,B147:1,accepted,,,B147:1:43,Perlidae,,,,Plecoptera,Perlidae,,Perla,,Plecoptera | Perlidae,Perla Pictet,8MT7Z,2001220,8MT7Z,2001220
-B147:1:45,Perla cephalotes Curtis,Curtis,Perla,,cephalotes,,species,,B147:1,accepted,,,B147:1:44,Perla Pictet,,,,Plecoptera,Perlidae,,Perla,,Plecoptera | Perlidae | Perla,cephalotes Curtis,6V5JR,5152223,368WQ,2005247
-B147:1:46,Perla carlukiana Klapalek,Klapalek,Perla,,carlukiana,,species,,B147:1,accepted,,,B147:1:44,Perla Pictet,,,,Plecoptera,Perlidae,,Perla,,Plecoptera | Perlidae | Perla,carlukiana Klapalek,4F68Q,5152265,4F68C,5152263
+B147:1:45,Perla cephalotes Curtis,Curtis,Perla,,cephalotes,,species,,B147:1,accepted,,,B147:1:44,Perla Pictet,,,,Plecoptera,Perlidae,,Perla,,Plecoptera | Perlidae | Perla,cephalotes Curtis,CHC6T,5152223,368WQ,2005247
+B147:1:46,Perla carlukiana Klapalek,Klapalek,Perla,,carlukiana,,species,,B147:1,accepted,,,B147:1:44,Perla Pictet,,,,Plecoptera,Perlidae,,Perla,,Plecoptera | Perlidae | Perla,carlukiana Klapalek,4F68Q,5152265,4F68Q,5152263
 B147:1:47,Perlodidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Perlodidae,,,,Plecoptera,PERLODIDAE,8MPHH,2996,8MPHH,2996
 B147:1:48,Isogenus,,,,,,genus,,B147:1,accepted,,,B147:1:47,Perlodidae,,,,Plecoptera,Perlodidae,,Isogenus,,Plecoptera | Perlodidae,Isogenus,8MRFP,9757391,8MRFP,9757391
 B147:1:49,Isogenus nubecula Newman,Newman,Isogenus,,nubecula,,species,,B147:1,accepted,,,B147:1:48,Isogenus,,,,Plecoptera,Perlodidae,,Isogenus,,Plecoptera | Perlodidae | Isogenus,nubecula Newman,3Q8Y4,2004508,3Q8Y4,2004508
@@ -55,11 +55,11 @@ B147:1:53,Dictyopterygella,,,,,,genus,,B147:1,synonym,B147:1:52,"Diura Billberg,
 B147:1:54,Diura bicaudata (L),(L),Diura,,bicaudata,,species,,B147:1,accepted,,,B147:1:52,"Diura Billberg, 1820",,,,Plecoptera,Perlodidae,,Diura,,Plecoptera | Perlodidae | Diura,bicaudata (L),36ZKW,5986716,36ZKW,5986716
 B147:1:55,Chloroperlidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Chloroperlidae,,,,Plecoptera,CHLOROPERLIDAE,8MPBZ,9387,8MPBZ,9387
 B147:1:56,Chloroperla Newman,Newman,,,,,genus,,B147:1,accepted,,,B147:1:55,Chloroperlidae,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae,Chloroperla Newman,8MQHB,2001248,8MQHB,2001248
-B147:1:57,Chloroperla torrentium (Pictet),(Pictet),Chloroperla,,torrentium,,species,,B147:1,accepted,,,B147:1:56,Chloroperla Newman,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae | Chloroperla,torrentium (Pictet),8MXZN,2003844,4XQ2P,6543388
+B147:1:57,Chloroperla torrentium (Pictet),(Pictet),Chloroperla,,torrentium,,species,,B147:1,accepted,,,B147:1:56,Chloroperla Newman,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae | Chloroperla,torrentium (Pictet),8MXZN,11403004,4XQ2P,2003833
 B147:1:58,Chloroperla tripunctata (Scopoli),(Scopoli),Chloroperla,,tripunctata,,species,,B147:1,accepted,,,B147:1:56,Chloroperla Newman,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae | Chloroperla,tripunctata (Scopoli),69XXH,2003916,69XXH,2003916
 B147:1:59,Chloroperla apicalis Newman,Newman,Chloroperla,,apicalis,,species,,B147:1,accepted,,,B147:1:56,Chloroperla Newman,,,,Plecoptera,Chloroperlidae,,Chloroperla,,Plecoptera | Chloroperlidae | Chloroperla,apicalis Newman,69Y8J,2003859,5C736,2003855
 B147:1:60,Isoperlidae,,,,,,family,,B147:1,accepted,,,B147:1:1,Plecoptera,,,,Plecoptera,Isoperlidae,,,,Plecoptera,ISOPERLIDAE,8NH7G,4383016,8MPHH,2996
 B147:1:61,Isoperla Banks,Banks,,,,,genus,,B147:1,accepted,,,B147:1:60,Isoperlidae,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae,Isoperla Banks,8MRFY,2003678,8MRFY,2003678
-B147:1:62,Isoperla grammatica (Poda),(Poda),Isoperla,,grammatica,,species,,B147:1,accepted,,,B147:1:61,Isoperla Banks,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae | Isoperla,grammatica (Poda),6MZZ4,2004039,6MZZ4,2004039
+B147:1:62,Isoperla grammatica (Poda),(Poda),Isoperla,,grammatica,,species,,B147:1,accepted,,,B147:1:61,Isoperla Banks,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae | Isoperla,grammatica (Poda),CFX5C,2004039,CFX5C,2004039
 B147:1:63,Isoperla obscura (Zetterstedt),(Zetterstedt),Isoperla,,obscura,,species,,B147:1,accepted,,,B147:1:61,Isoperla Banks,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae | Isoperla,obscura (Zetterstedt),6MZLC,2004134,6MZLC,2004134
 B147:1:64,Isoperla griseipennis (Pictet),(Pictet),Isoperla,,griseipennis,,species,,B147:1,synonym,B147:1:63,Isoperla obscura (Zetterstedt),,,,,,Plecoptera,Isoperlidae,,Isoperla,,Plecoptera | Isoperlidae | Isoperla,griseipennis (Pictet),,6097291,,2004134
