@@ -1,8 +1,8 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B518:1:1,Eumenidae,,,,,,family,,B518:1,accepted,,,,,,,,,Eumenidae,,,,,Eumenidae,9XR,4240,9XR,4240
 B518:1:2,Raphiglossinae,,,,,,subfamily,,B518:1,accepted,,,B518:1:1,Eumenidae,,,,,Eumenidae,Raphiglossinae,,,Eumenidae,Raphiglossinae,,,,
-B518:1:3,Psiliglossa S.,S.,,,,,genus,S. Saunders,B518:1,accepted,,,B518:1:2,Raphiglossinae,,,,,Eumenidae,Raphiglossinae,Psiliglossa,,Eumenidae | Raphiglossinae,Psiliglossa S. S. Saunders,747C,1329058,747C,1329058
-B518:1:4,Raphiglossa S.,S.,,,,,genus,S. Saunders,B518:1,accepted,,,B518:1:2,Raphiglossinae,,,,,Eumenidae,Raphiglossinae,Raphiglossa,,Eumenidae | Raphiglossinae,Raphiglossa S. S. Saunders,776C,1328473,776C,1328473
+B518:1:3,Psiliglossa S. S. Saunders,S. S. Saunders,,,,,genus,,B518:1,accepted,,,B518:1:2,Raphiglossinae,,,,,Eumenidae,Raphiglossinae,Psiliglossa,,Eumenidae | Raphiglossinae,Psiliglossa S. S. Saunders,747C,1329058,747C,1329058
+B518:1:4,Raphiglossa S. S. Saunders,S. S. Saunders,,,,,genus,,B518:1,accepted,,,B518:1:2,Raphiglossinae,,,,,Eumenidae,Raphiglossinae,Raphiglossa,,Eumenidae | Raphiglossinae,Raphiglossa S. S. Saunders,776C,1328473,776C,1328473
 B518:1:5,Discoeliinae,,,,,,subfamily,,B518:1,accepted,,,B518:1:1,Eumenidae,,,,,Eumenidae,Discoeliinae,,,Eumenidae,Discoeliinae,,,,
 B518:1:6,Discoelius Latreille,Latreille,,,,,genus,,B518:1,accepted,,,B518:1:5,Discoeliinae,,,,,Eumenidae,Discoeliinae,Discoelius,,Eumenidae | Discoeliinae,Discoelius Latreille,46PZ,1330599,46PZ,1330599
 B518:1:7,Eumeninae,,,,,,subfamily,,B518:1,accepted,,,B518:1:1,Eumenidae,,,,,Eumenidae,Eumeninae,,,Eumenidae,Eumeninae,,,,
@@ -16,13 +16,13 @@ B518:1:14,Brachyodynerus Blüthgen,Blüthgen,,,,,genus,,B518:1,accepted,,,B518:1
 B518:1:15,Brachypipona Gusenleitner,Gusenleitner,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Brachypipona,,Eumenidae | Eumeninae,Brachypipona Gusenleitner,3CHJ,1331470,3CHJ,1331470
 B518:1:16,Cephalochilus Blüthgen,Blüthgen,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Cephalochilus,,Eumenidae | Eumeninae,Cephalochilus Blüthgen,62K8C,1330518,62K8C,1330518
 B518:1:17,Chlorodynerus Blüthgen,Blüthgen,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Chlorodynerus,,Eumenidae | Eumeninae,Chlorodynerus Blüthgen,3NNS,1329277,3NNS,1329277
-B518:1:18,Cyrtolabulus Van,Van,,,,,genus,Der Vecht,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Cyrtolabulus,,Eumenidae | Eumeninae,Cyrtolabulus Van Der Vecht,3YXL,1332904,3YXL,1332904
+B518:1:18,Cyrtolabulus Van Der Vecht,Van Der Vecht,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Cyrtolabulus,,Eumenidae | Eumeninae,Cyrtolabulus Van Der Vecht,3YXL,1332904,3YXL,1332904
 B518:1:19,Delta Saussure,Saussure,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Delta,,Eumenidae | Eumeninae,Delta Saussure,CD5Q6,1330315,CD5Q6,1330315
 B518:1:20,Eumenes Latreille,Latreille,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Eumenes,,Eumenidae | Eumeninae,Eumenes Latreille,CD7XZ,1311630,CD7XZ,1311630
 B518:1:21,Eumicrodynerus Gusenleitner,Gusenleitner,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Eumicrodynerus,,Eumenidae | Eumeninae,Eumicrodynerus Gusenleitner,635GG,1329188,635GG,1329188
-B518:1:22,Euodynerus Dalla,Dalla,,,,,genus,Torre,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Euodynerus,,Eumenidae | Eumeninae,Euodynerus Dalla Torre,4G4Z,5037530,4G4Z,5037530
-B518:1:23,Euodynerus Dalla,Dalla,,,,,subgenus,Torre,B518:1,accepted,,,B518:1:22,Euodynerus Dalla,,,,,Eumenidae,Eumeninae,Euodynerus,Euodynerus,Eumenidae | Eumeninae | Euodynerus,Euodynerus Dalla Torre,4G4Z,,4G4Z,
-B518:1:24,Pareuodynerus Blüthgen,Blüthgen,,,,,subgenus,,B518:1,accepted,,,B518:1:22,Euodynerus Dalla,,,,,Eumenidae,Eumeninae,Euodynerus,Pareuodynerus,Eumenidae | Eumeninae | Euodynerus,Pareuodynerus Blüthgen,,,,
+B518:1:22,Euodynerus Dalla Torre,Dalla Torre,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Euodynerus,,Eumenidae | Eumeninae,Euodynerus Dalla Torre,4G4Z,7235993,4G4Z,7235993
+B518:1:23,Euodynerus Dalla Torre,Dalla Torre,,,,,subgenus,,B518:1,accepted,,,B518:1:22,Euodynerus Dalla Torre,,,,,Eumenidae,Eumeninae,Euodynerus,Euodynerus,Eumenidae | Eumeninae | Euodynerus,Euodynerus Dalla Torre,4G4Z,,4G4Z,
+B518:1:24,Pareuodynerus Blüthgen,Blüthgen,,,,,subgenus,,B518:1,accepted,,,B518:1:22,Euodynerus Dalla Torre,,,,,Eumenidae,Eumeninae,Euodynerus,Pareuodynerus,Eumenidae | Eumeninae | Euodynerus,Pareuodynerus Blüthgen,,,,
 B518:1:25,Eustenancistrocerus Blüthgen,Blüthgen,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Eustenancistrocerus,,Eumenidae | Eumeninae,Eustenancistrocerus Blüthgen,4H7Q,1329147,4H7Q,1329147
 B518:1:26,Eustenancistrocerus Blüthgen,Blüthgen,,,,,subgenus,,B518:1,accepted,,,B518:1:25,Eustenancistrocerus Blüthgen,,,,,Eumenidae,Eumeninae,Eustenancistrocerus,Eustenancistrocerus,Eumenidae | Eumeninae | Eustenancistrocerus,Eustenancistrocerus Blüthgen,4H7Q,,4H7Q,
 B518:1:27,Parastenancistrocerus Blüthgen,Blüthgen,,,,,subgenus,,B518:1,accepted,,,B518:1:25,Eustenancistrocerus Blüthgen,,,,,Eumenidae,Eumeninae,Eustenancistrocerus,Parastenancistrocerus,Eumenidae | Eumeninae | Eustenancistrocerus,Parastenancistrocerus Blüthgen,,,,
@@ -50,5 +50,5 @@ B518:1:48,Stenancistrocerus Blüthgen,Blüthgen,,,,,genus,,B518:1,accepted,,,B51
 B518:1:49,Stenodynerus Saussure,Saussure,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Stenodynerus,,Eumenidae | Eumeninae,Stenodynerus Saussure,7MM2,1332670,7MM2,1332670
 B518:1:50,Symmorphus Wesmael,Wesmael,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Symmorphus,,Eumenidae | Eumeninae,Symmorphus Wesmael,7QTL,1331373,7QTL,1331373
 B518:1:51,Syneuodynerus Blüthgen,Blüthgen,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Syneuodynerus,,Eumenidae | Eumeninae,Syneuodynerus Blüthgen,7R92,1333294,7R92,1333294
-B518:1:52,Tachyancistrocerus Giordani,Giordani,,,,,genus,Soika,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Tachyancistrocerus,,Eumenidae | Eumeninae,Tachyancistrocerus Giordani Soika,7RSJ,1332476,7RSJ,1332476
+B518:1:52,Tachyancistrocerus Giordani Soika,Giordani Soika,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Tachyancistrocerus,,Eumenidae | Eumeninae,Tachyancistrocerus Giordani Soika,7RSJ,1332476,7RSJ,1332476
 B518:1:53,Tropidodynerus Blüthgen,Blüthgen,,,,,genus,,B518:1,accepted,,,B518:1:7,Eumeninae,,,,,Eumenidae,Eumeninae,Tropidodynerus,,Eumenidae | Eumeninae,Tropidodynerus Blüthgen,8332,1333799,8332,1333799
