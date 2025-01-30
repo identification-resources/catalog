@@ -1,0 +1,603 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1815:1:1,Accipitridae,,,,,,family,,B1815:1,accepted,,,,,,,,,Accipitridae,,,,,Accipitridae,5W6,2877,5W6,2877
+B1815:1:2,Accipiter,,,,,,genus,,B1815:1,accepted,,,B1815:1:1,Accipitridae,,,,,Accipitridae,,Accipiter,,Accipitridae,Accipiter,627QR,2480577,627QR,2480577
+B1815:1:3,Accipiter gentilis,,Accipiter,,gentilis,,species,,B1815:1,accepted,,,B1815:1:2,Accipiter,,,,,Accipitridae,,Accipiter,,Accipitridae | Accipiter,Accipiter gentilis,93V5,2480589,93V5,2480589
+B1815:1:4,Accipiter nisus,,Accipiter,,nisus,,species,,B1815:1,accepted,,,B1815:1:2,Accipiter,,,,,Accipitridae,,Accipiter,,Accipitridae | Accipiter,Accipiter nisus,93VP,2480637,93VP,2480637
+B1815:1:5,Aquila,,,,,,genus,,B1815:1,accepted,,,B1815:1:1,Accipitridae,,,,,Accipitridae,,Aquila,,Accipitridae,Aquila,ZHL,11273045,ZHL,11273045
+B1815:1:6,Aquila chrysaetos,,Aquila,,chrysaetos,,species,,B1815:1,accepted,,,B1815:1:5,Aquila,,,,,Accipitridae,,Aquila,,Accipitridae | Aquila,Aquila chrysaetos,FZLP,2480506,FZLP,2480506
+B1815:1:7,Buteo,,,,,,genus,,B1815:1,accepted,,,B1815:1:1,Accipitridae,,,,,Accipitridae,,Buteo,,Accipitridae,Buteo,62HVC,9611328,62HVC,9611328
+B1815:1:8,Buteo buteo,,Buteo,,buteo,,species,,B1815:1,accepted,,,B1815:1:7,Buteo,,,,,Accipitridae,,Buteo,,Accipitridae | Buteo,Buteo buteo,NYV7,2480537,NYV7,2480537
+B1815:1:9,Buteo lagopus,,Buteo,,lagopus,,species,,B1815:1,accepted,,,B1815:1:7,Buteo,,,,,Accipitridae,,Buteo,,Accipitridae | Buteo,Buteo lagopus,NYVC,2480524,NYVC,2480524
+B1815:1:10,Circaetus,,,,,,genus,,B1815:1,accepted,,,B1815:1:1,Accipitridae,,,,,Accipitridae,,Circaetus,,Accipitridae,Circaetus,62LC9,2480661,62LC9,2480661
+B1815:1:11,Circaetus gallicus,,Circaetus,,gallicus,,species,,B1815:1,accepted,,,B1815:1:10,Circaetus,,,,,Accipitridae,,Circaetus,,Accipitridae | Circaetus,Circaetus gallicus,VFS9,2480666,VFS9,2480666
+B1815:1:12,Circus,,,,,,genus,,B1815:1,accepted,,,B1815:1:1,Accipitridae,,,,,Accipitridae,,Circus,,Accipitridae,Circus,3Q54,2480481,3Q54,2480481
+B1815:1:13,Circus cyaneus,,Circus,,cyaneus,,species,,B1815:1,accepted,,,B1815:1:12,Circus,,,,,Accipitridae,,Circus,,Accipitridae | Circus,Circus cyaneus,VG7Z,2480487,VG7Z,2480487
+B1815:1:14,Circus aeruginosus,,Circus,,aeruginosus,,species,,B1815:1,accepted,,,B1815:1:12,Circus,,,,,Accipitridae,,Circus,,Accipitridae | Circus,Circus aeruginosus,5Z6WQ,2480482,5Z6WQ,2480482
+B1815:1:15,Circus pygargus,,Circus,,pygargus,,species,,B1815:1,accepted,,,B1815:1:12,Circus,,,,,Accipitridae,,Circus,,Accipitridae | Circus,Circus pygargus,VG87,2480495,VG87,2480495
+B1815:1:16,Circus macrourus,,Circus,,macrourus,,species,,B1815:1,accepted,,,B1815:1:12,Circus,,,,,Accipitridae,,Circus,,Accipitridae | Circus,Circus macrourus,VG83,2480491,VG83,2480491
+B1815:1:17,Elanus,,,,,,genus,,B1815:1,accepted,,,B1815:1:1,Accipitridae,,,,,Accipitridae,,Elanus,,Accipitridae,Elanus,6332H,2480366,6332H,2480366
+B1815:1:18,Elanus caeruleus,,Elanus,,caeruleus,,species,,B1815:1,accepted,,,B1815:1:17,Elanus,,,,,Accipitridae,,Elanus,,Accipitridae | Elanus,Elanus caeruleus,38YJ7,2480372,38YJ7,2480372
+B1815:1:19,Gyps,,,,,,genus,,B1815:1,accepted,,,B1815:1:1,Accipitridae,,,,,Accipitridae,,Gyps,,Accipitridae,Gyps,4S2Z,2480382,4S2Z,2480382
+B1815:1:20,Gyps fulvus,,Gyps,,fulvus,,species,,B1815:1,accepted,,,B1815:1:19,Gyps,,,,,Accipitridae,,Gyps,,Accipitridae | Gyps,Gyps fulvus,3HXNC,2480389,3HXNC,2480389
+B1815:1:21,Haliaeetus,,,,,,genus,,B1815:1,accepted,,,B1815:1:1,Accipitridae,,,,,Accipitridae,,Haliaeetus,,Accipitridae,Haliaeetus,4SPP,2480444,4SPP,2480444
+B1815:1:22,Haliaeetus albicilla,,Haliaeetus,,albicilla,,species,,B1815:1,accepted,,,B1815:1:21,Haliaeetus,,,,,Accipitridae,,Haliaeetus,,Accipitridae | Haliaeetus,Haliaeetus albicilla,3JBJV,2480449,3JBJV,2480449
+B1815:1:23,Milvus,,,,,,genus,,B1815:1,accepted,,,B1815:1:1,Accipitridae,,,,,Accipitridae,,Milvus,,Accipitridae,Milvus,5SVR,5229166,5SVR,5229166
+B1815:1:24,Milvus milvus,,Milvus,,milvus,,species,,B1815:1,accepted,,,B1815:1:23,Milvus,,,,,Accipitridae,,Milvus,,Accipitridae | Milvus,Milvus milvus,43DZJ,5229168,43DZJ,5229168
+B1815:1:25,Milvus migrans,,Milvus,,migrans,,species,,B1815:1,accepted,,,B1815:1:23,Milvus,,,,,Accipitridae,,Milvus,,Accipitridae | Milvus,Milvus migrans,43DZH,5229167,43DZH,5229167
+B1815:1:26,Pernis,,,,,,genus,,B1815:1,accepted,,,B1815:1:1,Accipitridae,,,,,Accipitridae,,Pernis,,Accipitridae,Pernis,6LNQ,2480419,6LNQ,2480419
+B1815:1:27,Pernis apivorus,,Pernis,,apivorus,,species,,B1815:1,accepted,,,B1815:1:26,Pernis,,,,,Accipitridae,,Pernis,,Accipitridae | Pernis,Pernis apivorus,4F6YZ,2480420,4F6YZ,2480420
+B1815:1:28,Acrocephalidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Acrocephalidae,,,,,Acrocephalidae,5YC,6101019,5YC,6101019
+B1815:1:29,Acrocephalus,,,,,,genus,,B1815:1,accepted,,,B1815:1:28,Acrocephalidae,,,,,Acrocephalidae,,Acrocephalus,,Acrocephalidae,Acrocephalus,NC3,2493112,NC3,2493112
+B1815:1:30,Acrocephalus palustris,,Acrocephalus,,palustris,,species,,B1815:1,accepted,,,B1815:1:29,Acrocephalus,,,,,Acrocephalidae,,Acrocephalus,,Acrocephalidae | Acrocephalus,Acrocephalus palustris,9L78,2493136,9L78,2493136
+B1815:1:31,Acrocephalus arundinaceus,,Acrocephalus,,arundinaceus,,species,,B1815:1,accepted,,,B1815:1:29,Acrocephalus,,,,,Acrocephalidae,,Acrocephalus,,Acrocephalidae | Acrocephalus,Acrocephalus arundinaceus,9L48,11007527,9L48,11007527
+B1815:1:32,Acrocephalus scirpaceus,,Acrocephalus,,scirpaceus,,species,,B1815:1,accepted,,,B1815:1:29,Acrocephalus,,,,,Acrocephalidae,,Acrocephalus,,Acrocephalidae | Acrocephalus,Acrocephalus scirpaceus,9L82,2493118,9L82,2493118
+B1815:1:33,Acrocephalus schoenobaenus,,Acrocephalus,,schoenobaenus,,species,,B1815:1,accepted,,,B1815:1:29,Acrocephalus,,,,,Acrocephalidae,,Acrocephalus,,Acrocephalidae | Acrocephalus,Acrocephalus schoenobaenus,9L7Y,2493129,9L7Y,2493129
+B1815:1:34,Acrocephalus dumetorum,,Acrocephalus,,dumetorum,,species,,B1815:1,accepted,,,B1815:1:29,Acrocephalus,,,,,Acrocephalidae,,Acrocephalus,,Acrocephalidae | Acrocephalus,Acrocephalus dumetorum,9L5F,2493145,9L5F,2493145
+B1815:1:35,Acrocephalus paludicola,,Acrocephalus,,paludicola,,species,,B1815:1,accepted,,,B1815:1:29,Acrocephalus,,,,,Acrocephalidae,,Acrocephalus,,Acrocephalidae | Acrocephalus,Acrocephalus paludicola,9L77,2493114,9L77,2493114
+B1815:1:36,Hippolais,,,,,,genus,,B1815:1,accepted,,,B1815:1:28,Acrocephalidae,,,,,Acrocephalidae,,Hippolais,,Acrocephalidae,Hippolais,4XFF,2493213,4XFF,2493213
+B1815:1:37,Hippolais polyglotta,,Hippolais,,polyglotta,,species,,B1815:1,accepted,,,B1815:1:36,Hippolais,,,,,Acrocephalidae,,Hippolais,,Acrocephalidae | Hippolais,Hippolais polyglotta,3M26F,2493214,3M26F,2493214
+B1815:1:38,Hippolais icterina,,Hippolais,,icterina,,species,,B1815:1,accepted,,,B1815:1:36,Hippolais,,,,,Acrocephalidae,,Hippolais,,Acrocephalidae | Hippolais,Hippolais icterina,3M26B,2493220,3M26B,2493220
+B1815:1:39,Aegithalidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Aegithalidae,,,,,Aegithalidae,63D,2878,63D,2878
+B1815:1:40,Aegithalos,,,,,,genus,,B1815:1,accepted,,,B1815:1:39,Aegithalidae,,,,,Aegithalidae,,Aegithalos,,Aegithalidae,Aegithalos,629KV,9270076,629KV,9270076
+B1815:1:41,Aegithalos caudatus,,Aegithalos,,caudatus,,species,,B1815:1,accepted,,,B1815:1:40,Aegithalos,,,,,Aegithalidae,,Aegithalos,,Aegithalidae | Aegithalos,Aegithalos caudatus,64WQQ,2495000,64WQQ,2495000
+B1815:1:42,Alaudidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Alaudidae,,,,,Alaudidae,667,7211,667,7211
+B1815:1:43,Alauda,,,,,,genus,,B1815:1,accepted,,,B1815:1:42,Alaudidae,,,,,Alaudidae,,Alauda,,Alaudidae,Alauda,RFQ,2490696,RFQ,2490696
+B1815:1:44,Alauda arvensis,,Alauda,,arvensis,,species,,B1815:1,accepted,,,B1815:1:43,Alauda,,,,,Alaudidae,,Alauda,,Alaudidae | Alauda,Alauda arvensis,BFFT,8077224,BFFT,8077224
+B1815:1:45,Eremophila,,,,,,genus,,B1815:1,accepted,,,B1815:1:42,Alaudidae,,,,,Alaudidae,,Eremophila,,Alaudidae,Eremophila,633Z3,2490615,633Z3,2490615
+B1815:1:46,Eremophila flava,,Eremophila,,flava,,species,,B1815:1,accepted,,,B1815:1:45,Eremophila,,,,,Alaudidae,,Eremophila,,Alaudidae | Eremophila,Eremophila flava,,9427709,,6086903
+B1815:1:47,Galerida,,,,,,genus,,B1815:1,accepted,,,B1815:1:42,Alaudidae,,,,,Alaudidae,,Galerida,,Alaudidae,Galerida,62SST,2490666,62SST,2490666
+B1815:1:48,Galerida cristata,,Galerida,,cristata,,species,,B1815:1,accepted,,,B1815:1:47,Galerida,,,,,Alaudidae,,Galerida,,Alaudidae | Galerida,Galerida cristata,3F4BG,2490669,3F4BG,2490669
+B1815:1:49,Lullula,,,,,,genus,,B1815:1,accepted,,,B1815:1:42,Alaudidae,,,,,Alaudidae,,Lullula,,Alaudidae,Lullula,5H93,2490603,5H93,2490603
+B1815:1:50,Lullula arborea,,Lullula,,arborea,,species,,B1815:1,accepted,,,B1815:1:49,Lullula,,,,,Alaudidae,,Lullula,,Alaudidae | Lullula,Lullula arborea,732CT,2490604,732CT,2490604
+B1815:1:51,Alcedinidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Alcedinidae,,,,,Alcedinidae,66F,2984,66F,2984
+B1815:1:52,Alcedo,,,,,,genus,,B1815:1,accepted,,,B1815:1:51,Alcedinidae,,,,,Alcedinidae,,Alcedo,,Alcedinidae,Alcedo,RKP,2475493,RKP,2475493
+B1815:1:53,Alcedo atthis,,Alcedo,,atthis,,species,,B1815:1,accepted,,,B1815:1:52,Alcedo,,,,,Alcedinidae,,Alcedo,,Alcedinidae | Alcedo,Alcedo atthis,667V7,2475532,667V7,2475532
+B1815:1:54,Alcidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Alcidae,,,,,Alcidae,66H,2985,66H,2985
+B1815:1:55,Alca,,,,,,genus,,B1815:1,accepted,,,B1815:1:54,Alcidae,,,,,Alcidae,,Alca,,Alcidae,Alca,RK7,2481308,RK7,2481308
+B1815:1:56,Alca torda,,Alca,,torda,,species,,B1815:1,accepted,,,B1815:1:55,Alca,,,,,Alcidae,,Alca,,Alcidae | Alca,Alca torda,BGZW,8277073,BGZW,8277073
+B1815:1:57,Alle,,,,,,genus,,B1815:1,accepted,,,B1815:1:54,Alcidae,,,,,Alcidae,,Alle,,Alcidae,Alle,S47,2481298,S47,2481298
+B1815:1:58,Alle alle,,Alle,,alle,,species,,B1815:1,accepted,,,B1815:1:57,Alle,,,,,Alcidae,,Alle,,Alcidae | Alle,Alle alle,BTFY,2481299,BTFY,2481299
+B1815:1:59,Cepphus,,,,,,genus,,B1815:1,accepted,,,B1815:1:54,Alcidae,,,,,Alcidae,,Cepphus,,Alcidae,Cepphus,3KKN,3241982,3KKN,3241982
+B1815:1:60,Cepphus grylle,,Cepphus,,grylle,,species,,B1815:1,accepted,,,B1815:1:59,Cepphus,,,,,Alcidae,,Cepphus,,Alcidae | Cepphus,Cepphus grylle,SFVL,2481312,SFVL,2481312
+B1815:1:61,Fratercula,,,,,,genus,,B1815:1,accepted,,,B1815:1:54,Alcidae,,,,,Alcidae,,Fratercula,,Alcidae,Fratercula,62T2G,2481352,62T2G,2481352
+B1815:1:62,Fratercula arctica,,Fratercula,,arctica,,species,,B1815:1,accepted,,,B1815:1:61,Fratercula,,,,,Alcidae,,Fratercula,,Alcidae | Fratercula,Fratercula arctica,6JMR3,2481353,6JMR3,2481353
+B1815:1:63,Uria,,,,,,genus,,B1815:1,accepted,,,B1815:1:54,Alcidae,,,,,Alcidae,,Uria,,Alcidae,Uria,855Y,2481338,855Y,2481338
+B1815:1:64,Uria aalge,,Uria,,aalge,,species,,B1815:1,accepted,,,B1815:1:63,Uria,,,,,Alcidae,,Uria,,Alcidae | Uria,Uria aalge,7DS6Y,2481342,7DS6Y,2481342
+B1815:1:65,Anatidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Anatidae,,,,,Anatidae,9H6K5,2986,9H6K5,2986
+B1815:1:66,Aix,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Aix,,Anatidae,Aix,R89,2498386,R89,2498386
+B1815:1:67,Aix galericulata,,Aix,,galericulata,,species,,B1815:1,accepted,,,B1815:1:66,Aix,,,,,Anatidae,,Aix,,Anatidae | Aix,Aix galericulata,5TV4F,2498388,5TV4F,2498388
+B1815:1:68,Alopochen,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Alopochen,,Anatidae,Alopochen,6294B,2498251,6294B,2498251
+B1815:1:69,Alopochen aegyptiacus,,Alopochen,,aegyptiacus,,species,,B1815:1,accepted,,,B1815:1:68,Alopochen,,,,,Anatidae,,Alopochen,,Anatidae | Alopochen,Alopochen aegyptiacus,C5KL,2498252,C5KM,2498252
+B1815:1:70,Anas,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Anas,,Anatidae,Anas,V8R,2498056,V8R,2498056
+B1815:1:71,Anas carolinensis,,Anas,,carolinensis,,species,,B1815:1,accepted,,,B1815:1:70,Anas,,,,,Anatidae,,Anas,,Anatidae | Anas,Anas carolinensis,DGN9,2498125,DGN9,2498125
+B1815:1:72,Anas acuta,,Anas,,acuta,,species,,B1815:1,accepted,,,B1815:1:70,Anas,,,,,Anatidae,,Anas,,Anatidae | Anas,Anas acuta,DGMX,2498112,DGMX,2498112
+B1815:1:73,Anas platyrhynchos,,Anas,,platyrhynchos,,species,,B1815:1,accepted,,,B1815:1:70,Anas,,,,,Anatidae,,Anas,,Anatidae | Anas,Anas platyrhynchos,DGP6,9761484,DGP6,9761484
+B1815:1:74,Anas crecca,,Anas,,crecca,,species,,B1815:1,accepted,,,B1815:1:70,Anas,,,,,Anatidae,,Anas,,Anatidae | Anas,Anas crecca,DGND,8214667,DGND,8214667
+B1815:1:75,Anser,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Anser,,Anatidae,Anser,X5D,2498016,X5D,2498016
+B1815:1:76,Anser erythropus,,Anser,,erythropus,,species,,B1815:1,accepted,,,B1815:1:75,Anser,,,,,Anatidae,,Anser,,Anatidae | Anser,Anser erythropus,66Y94,2498026,66Y94,2498026
+B1815:1:77,Anser anser,,Anser,,anser,,species,,B1815:1,accepted,,,B1815:1:75,Anser,,,,,Anatidae,,Anser,,Anatidae | Anser,Anser anser,679X7,2498036,679X7,2498036
+B1815:1:78,Anser indicus,,Anser,,indicus,,species,,B1815:1,accepted,,,B1815:1:75,Anser,,,,,Anatidae,,Anser,,Anatidae | Anser,Anser indicus,5V9X5,2498035,5V9X5,2498035
+B1815:1:79,Anser brachyrhynchus,,Anser,,brachyrhynchus,,species,,B1815:1,accepted,,,B1815:1:75,Anser,,,,,Anatidae,,Anser,,Anatidae | Anser,Anser brachyrhynchus,5V9X4,2498024,5V9X4,2498024
+B1815:1:80,Anser albifrons,,Anser,,albifrons,,species,,B1815:1,accepted,,,B1815:1:75,Anser,,,,,Anatidae,,Anser,,Anatidae | Anser,Anser albifrons,679WV,2498017,679WV,2498017
+B1815:1:81,Anser caerulescens,,Anser,,caerulescens,,species,,B1815:1,accepted,,,B1815:1:75,Anser,,,,,Anatidae,,Anser,,Anatidae | Anser,Anser caerulescens,66XWS,2498167,66XWS,2498167
+B1815:1:82,Anser fabalis,,Anser,,fabalis,,species,,B1815:1,accepted,,,B1815:1:75,Anser,,,,,Anatidae,,Anser,,Anatidae | Anser,Anser fabalis,679WS,2498027,679WS,2498027
+B1815:1:83,Anser serrirostris,,Anser,,serrirostris,,species,,B1815:1,accepted,,,B1815:1:75,Anser,,,,,Anatidae,,Anser,,Anatidae | Anser,Anser serrirostris,9HH6D,7340170,9HH6D,7340170
+B1815:1:84,Aythya,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Aythya,,Anatidae,Aythya,36VQ,2498254,36VQ,2498254
+B1815:1:85,Aythya fuligula,,Aythya,,fuligula,,species,,B1815:1,accepted,,,B1815:1:84,Aythya,,,,,Anatidae,,Aythya,,Anatidae | Aythya,Aythya fuligula,5VYJV,2498261,5VYJV,2498261
+B1815:1:86,Aythya ferina,,Aythya,,ferina,,species,,B1815:1,accepted,,,B1815:1:84,Aythya,,,,,Anatidae,,Aythya,,Anatidae | Aythya,Aythya ferina,K56T,2498255,K56T,2498255
+B1815:1:87,Aythya marila,,Aythya,,marila,,species,,B1815:1,accepted,,,B1815:1:84,Aythya,,,,,Anatidae,,Aythya,,Anatidae | Aythya,Aythya marila,K56W,2498265,K56W,2498265
+B1815:1:88,Branta,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Branta,,Anatidae,Branta,62H39,2498190,62H39,2498190
+B1815:1:89,Branta leucopsis,,Branta,,leucopsis,,species,,B1815:1,accepted,,,B1815:1:88,Branta,,,,,Anatidae,,Branta,,Anatidae | Branta,Branta leucopsis,N74C,5232464,N74C,5232464
+B1815:1:90,Branta canadensis,,Branta,,canadensis,,species,,B1815:1,accepted,,,B1815:1:88,Branta,,,,,Anatidae,,Branta,,Anatidae | Branta,Branta canadensis,5WRC3,5232437,5WRC3,5232437
+B1815:1:91,Branta ruficollis,,Branta,,ruficollis,,species,,B1815:1,accepted,,,B1815:1:88,Branta,,,,,Anatidae,,Branta,,Anatidae | Branta,Branta ruficollis,N74F,5232451,N74F,5232451
+B1815:1:92,Branta bernicla,,Branta,,bernicla,,species,,B1815:1,accepted,,,B1815:1:88,Branta,,,,,Anatidae,,Branta,,Anatidae | Branta,Branta bernicla,N749,5232446,N749,5232446
+B1815:1:93,Bucephala,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Bucephala,,Anatidae,Bucephala,62H58,2498324,62H58,2498324
+B1815:1:94,Bucephala clangula,,Bucephala,,clangula,,species,,B1815:1,accepted,,,B1815:1:93,Bucephala,,,,,Anatidae,,Bucephala,,Anatidae | Bucephala,Bucephala clangula,NM25,2498326,NM25,2498326
+B1815:1:95,Cairina,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Cairina,,Anatidae,Cairina,62J47,2498282,62J47,2498282
+B1815:1:96,Cairina moschata,,Cairina,,moschata,,species,,B1815:1,accepted,,,B1815:1:95,Cairina,,,,,Anatidae,,Cairina,,Anatidae | Cairina,Cairina moschata,PBGT,2498283,PBGT,2498283
+B1815:1:97,Clangula,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Clangula,,Anatidae,Clangula,3QG6,2498272,3QG6,2498272
+B1815:1:98,Clangula hyemalis,,Clangula,,hyemalis,,species,,B1815:1,accepted,,,B1815:1:97,Clangula,,,,,Anatidae,,Clangula,,Anatidae | Clangula,Clangula hyemalis,5YVVD,2498273,5YVVD,2498273
+B1815:1:99,Cygnus,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Cygnus,,Anatidae,Cygnus,9H7JC,8996942,9H7JC,8996942
+B1815:1:100,Cygnus bewickii,,Cygnus,,bewickii,,species,,B1815:1,accepted,,,B1815:1:99,Cygnus,,,,,Anatidae,,Cygnus,,Anatidae | Cygnus,Cygnus bewickii,9HDFK,4409105,BNB6F,6178421
+B1815:1:101,Cygnus olor,,Cygnus,,olor,,species,,B1815:1,accepted,,,B1815:1:99,Cygnus,,,,,Anatidae,,Cygnus,,Anatidae | Cygnus,Cygnus olor,32ZQB,2498343,32ZQB,2498343
+B1815:1:102,Cygnus cygnus,,Cygnus,,cygnus,,species,,B1815:1,accepted,,,B1815:1:99,Cygnus,,,,,Anatidae,,Cygnus,,Anatidae | Cygnus,Cygnus cygnus,32ZQ7,2498347,32ZQ7,2498347
+B1815:1:103,Cygnus atratus,,Cygnus,,atratus,,species,,B1815:1,accepted,,,B1815:1:99,Cygnus,,,,,Anatidae,,Cygnus,,Anatidae | Cygnus,Cygnus atratus,32ZQ4,2498344,32ZQ4,2498344
+B1815:1:104,Mareca,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Mareca,,Anatidae,Mareca,9HGXM,2498314,9HGXM,2498314
+B1815:1:105,Mareca americana,,Mareca,,americana,,species,,B1815:1,accepted,,,B1815:1:104,Mareca,,,,,Anatidae,,Mareca,,Anatidae | Mareca,Mareca americana,3Y3C6,2498155,3Y3C6,2498155
+B1815:1:106,Mareca strepera,,Mareca,,strepera,,species,,B1815:1,accepted,,,B1815:1:104,Mareca,,,,,Anatidae,,Mareca,,Anatidae | Mareca,Mareca strepera,9HJGV,9362027,9HJGV,9362027
+B1815:1:107,Mareca penelope,,Mareca,,penelope,,species,,B1815:1,accepted,,,B1815:1:104,Mareca,,,,,Anatidae,,Mareca,,Anatidae | Mareca,Mareca penelope,9HJGS,8000602,9HJGS,8000602
+B1815:1:108,Melanitta,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Melanitta,,Anatidae,Melanitta,62YSK,2498237,62YSK,2498237
+B1815:1:109,Melanitta fusca,,Melanitta,,fusca,,species,,B1815:1,accepted,,,B1815:1:108,Melanitta,,,,,Anatidae,,Melanitta,,Anatidae | Melanitta,Melanitta fusca,3Z83B,2498238,3Z83B,2498238
+B1815:1:110,Melanitta nigra,,Melanitta,,nigra,,species,,B1815:1,accepted,,,B1815:1:108,Melanitta,,,,,Anatidae,,Melanitta,,Anatidae | Melanitta,Melanitta nigra,3Z83C,2498247,3Z83C,2498247
+B1815:1:111,Mergellus,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Mergellus,,Anatidae,Mergellus,5P8N,2498284,5P8N,2498284
+B1815:1:112,Mergellus albellus,,Mergellus,,albellus,,species,,B1815:1,accepted,,,B1815:1:111,Mergellus,,,,,Anatidae,,Mergellus,,Anatidae | Mergellus,Mergellus albellus,3ZTRF,2498285,3ZTRF,2498285
+B1815:1:113,Mergus,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Mergus,,Anatidae,Mergus,5P8Q,2498368,5P8Q,2498368
+B1815:1:114,Mergus merganser,,Mergus,,merganser,,species,,B1815:1,accepted,,,B1815:1:113,Mergus,,,,,Anatidae,,Mergus,,Anatidae | Mergus,Mergus merganser,3ZTRN,9537647,3ZTRN,9537647
+B1815:1:115,Mergus serrator,,Mergus,,serrator,,species,,B1815:1,accepted,,,B1815:1:113,Mergus,,,,,Anatidae,,Mergus,,Anatidae | Mergus,Mergus serrator,3ZTRQ,2498375,3ZTRQ,2498375
+B1815:1:116,Netta,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Netta,,Anatidae,Netta,63P5,2498176,63P5,2498176
+B1815:1:117,Netta rufina,,Netta,,rufina,,species,,B1815:1,accepted,,,B1815:1:116,Netta,,,,,Anatidae,,Netta,,Anatidae | Netta,Netta rufina,479P3,2498180,479P3,2498180
+B1815:1:118,Oxyura,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Oxyura,,Anatidae,Oxyura,6BJS,2498299,6BJS,2498299
+B1815:1:119,Oxyura jamaicensis,,Oxyura,,jamaicensis,,species,,B1815:1,accepted,,,B1815:1:118,Oxyura,,,,,Anatidae,,Oxyura,,Anatidae | Oxyura,Oxyura jamaicensis,4BMPH,2498305,4BMPH,2498305
+B1815:1:120,Somateria,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Somateria,,Anatidae,Somateria,7JL9,2498349,7JL9,2498349
+B1815:1:121,Somateria mollissima,,Somateria,,mollissima,,species,,B1815:1,accepted,,,B1815:1:120,Somateria,,,,,Anatidae,,Somateria,,Anatidae | Somateria,Somateria mollissima,6Z4ZB,2498352,6Z4ZB,2498352
+B1815:1:122,Spatula,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Spatula,,Anatidae,Spatula,9HGYJ,4850990,9HGYJ,4850990
+B1815:1:123,Spatula clypeata,,Spatula,,clypeata,,species,,B1815:1,accepted,,,B1815:1:122,Spatula,,,,,Anatidae,,Spatula,,Anatidae | Spatula,Spatula clypeata,9HKHD,8332393,9HKHD,8332393
+B1815:1:124,Spatula querquedula,,Spatula,,querquedula,,species,,B1815:1,accepted,,,B1815:1:122,Spatula,,,,,Anatidae,,Spatula,,Anatidae | Spatula,Spatula querquedula,9HKHG,9274012,9HKHG,9274012
+B1815:1:125,Tadorna,,,,,,genus,,B1815:1,accepted,,,B1815:1:65,Anatidae,,,,,Anatidae,,Tadorna,,Anatidae,Tadorna,645G2,2498006,645G2,2498006
+B1815:1:126,Tadorna tadorna,,Tadorna,,tadorna,,species,,B1815:1,accepted,,,B1815:1:125,Tadorna,,,,,Anatidae,,Tadorna,,Anatidae | Tadorna,Tadorna tadorna,54GHV,2498009,54GHV,2498009
+B1815:1:127,Tadorna ferruginea,,Tadorna,,ferruginea,,species,,B1815:1,accepted,,,B1815:1:125,Tadorna,,,,,Anatidae,,Tadorna,,Anatidae | Tadorna,Tadorna ferruginea,54GHT,2498015,54GHT,2498015
+B1815:1:128,Apodidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Apodidae,,,,,Apodidae,6L5,2993,6L5,2993
+B1815:1:129,Apus,,,,,,genus,,B1815:1,accepted,,,B1815:1:128,Apodidae,,,,,Apodidae,,Apus,,Apodidae,Apus,ZFN,8204580,ZFN,8204580
+B1815:1:130,Apus apus,,Apus,,apus,,species,,B1815:1,accepted,,,B1815:1:129,Apus,,,,,Apodidae,,Apus,,Apodidae | Apus,Apus apus,FZD9,5228676,FZD9,5228676
+B1815:1:131,Apus pallidus,,Apus,,pallidus,,species,,B1815:1,accepted,,,B1815:1:129,Apus,,,,,Apodidae,,Apus,,Apodidae | Apus,Apus pallidus,67QDC,5228695,67QDC,5228695
+B1815:1:132,Tachymarptis,,,,,,genus,,B1815:1,accepted,,,B1815:1:128,Apodidae,,,,,Apodidae,,Tachymarptis,,Apodidae,Tachymarptis,7RTC,8540301,7RTC,8540301
+B1815:1:133,Tachymarptis melba,,Tachymarptis,,melba,,species,,B1815:1,accepted,,,B1815:1:132,Tachymarptis,,,,,Apodidae,,Tachymarptis,,Apodidae | Tachymarptis,Tachymarptis melba,8J7CN,2477411,8J7CN,2477411
+B1815:1:134,Ardeidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Ardeidae,,,,,Ardeidae,6PB,3685,6PB,3685
+B1815:1:135,Ardea,,,,,,genus,,B1815:1,accepted,,,B1815:1:134,Ardeidae,,,,,Ardeidae,,Ardea,,Ardeidae,Ardea,32FH,12041031,32FH,12041031
+B1815:1:136,Ardea cinerea,,Ardea,,cinerea,,species,,B1815:1,accepted,,,B1815:1:135,Ardea,,,,,Ardeidae,,Ardea,,Ardeidae | Ardea,Ardea cinerea,GCHS,9797180,GCHS,9797180
+B1815:1:137,Ardea alba,,Ardea,,alba,,species,,B1815:1,accepted,,,B1815:1:135,Ardea,,,,,Ardeidae,,Ardea,,Ardeidae | Ardea,Ardea alba,GCHR,9752617,GCHR,9752617
+B1815:1:138,Ardea purpurea,,Ardea,,purpurea,,species,,B1815:1,accepted,,,B1815:1:135,Ardea,,,,,Ardeidae,,Ardea,,Ardeidae | Ardea,Ardea purpurea,GCJ8,2480934,GCJ8,2480934
+B1815:1:139,Ardeola,,,,,,genus,,B1815:1,accepted,,,B1815:1:134,Ardeidae,,,,,Ardeidae,,Ardeola,,Ardeidae,Ardeola,62D5S,2480901,62D5S,2480901
+B1815:1:140,Ardeola ralloides,,Ardeola,,ralloides,,species,,B1815:1,accepted,,,B1815:1:139,Ardeola,,,,,Ardeidae,,Ardeola,,Ardeidae | Ardeola,Ardeola ralloides,GCML,2480906,GCML,2480906
+B1815:1:141,Botaurus,,,,,,genus,,B1815:1,accepted,,,B1815:1:134,Ardeidae,,,,,Ardeidae,,Botaurus,,Ardeidae,Botaurus,3BT5,2480909,3BT5,2480909
+B1815:1:142,Botaurus stellaris,,Botaurus,,stellaris,,species,,B1815:1,accepted,,,B1815:1:141,Botaurus,,,,,Ardeidae,,Botaurus,,Ardeidae | Botaurus,Botaurus stellaris,MMYM,2480910,MMYM,2480910
+B1815:1:143,Bubulcus,,,,,,genus,,B1815:1,accepted,,,B1815:1:134,Ardeidae,,,,,Ardeidae,,Bubulcus,,Ardeidae,Bubulcus,3DQY,2480829,3DQY,2480829
+B1815:1:144,Bubulcus ibis,,Bubulcus,,ibis,,species,,B1815:1,accepted,,,B1815:1:143,Bubulcus,,,,,Ardeidae,,Bubulcus,,Ardeidae | Bubulcus,Bubulcus ibis,NKW9,2480830,NKW9,2480830
+B1815:1:145,Egretta,,,,,,genus,,B1815:1,accepted,,,B1815:1:134,Ardeidae,,,,,Ardeidae,,Egretta,,Ardeidae,Egretta,62QNG,7443971,62QNG,7443971
+B1815:1:146,Egretta garzetta,,Egretta,,garzetta,,species,,B1815:1,accepted,,,B1815:1:145,Egretta,,,,,Ardeidae,,Egretta,,Ardeidae | Egretta,Egretta garzetta,6DYRB,2480876,6DYRB,2480876
+B1815:1:147,Ixobrychus,,,,,,genus,,B1815:1,accepted,,,B1815:1:134,Ardeidae,,,,,Ardeidae,,Ixobrychus,,Ardeidae,Ixobrychus,62W65,2480843,62W65,2480843
+B1815:1:148,Ixobrychus minutus,,Ixobrychus,,minutus,,species,,B1815:1,accepted,,,B1815:1:147,Ixobrychus,,,,,Ardeidae,,Ixobrychus,,Ardeidae | Ixobrychus,Ixobrychus minutus,3QFVB,2480850,3QFVB,2480850
+B1815:1:149,Nycticorax,,,,,,genus,,B1815:1,accepted,,,B1815:1:134,Ardeidae,,,,,Ardeidae,,Nycticorax,,Ardeidae,Nycticorax,65ZQ,2480856,65ZQ,2480856
+B1815:1:150,Nycticorax nycticorax,,Nycticorax,,nycticorax,,species,,B1815:1,accepted,,,B1815:1:149,Nycticorax,,,,,Ardeidae,,Nycticorax,,Ardeidae | Nycticorax,Nycticorax nycticorax,485KR,2480863,485KR,2480863
+B1815:1:151,Bombycillidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Bombycillidae,,,,,Bombycillidae,622GL,5215,622GL,5215
+B1815:1:152,Bombycilla,,,,,,genus,,B1815:1,accepted,,,B1815:1:151,Bombycillidae,,,,,Bombycillidae,,Bombycilla,,Bombycillidae,Bombycilla,3BBX,2484604,3BBX,2484604
+B1815:1:153,Bombycilla garrulus,,Bombycilla,,garrulus,,species,,B1815:1,accepted,,,B1815:1:152,Bombycilla,,,,,Bombycillidae,,Bombycilla,,Bombycillidae | Bombycilla,Bombycilla garrulus,5WNQS,2484605,5WNQS,2484605
+B1815:1:154,Burhinidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Burhinidae,,,,,Burhinidae,7GJ,9697,7GJ,9697
+B1815:1:155,Burhinus,,,,,,genus,,B1815:1,accepted,,,B1815:1:154,Burhinidae,,,,,Burhinidae,,Burhinus,,Burhinidae,Burhinus,62HZS,11985804,62HZS,11985804
+B1815:1:156,Burhinus oedicnemus,,Burhinus,,oedicnemus,,species,,B1815:1,accepted,,,B1815:1:155,Burhinus,,,,,Burhinidae,,Burhinus,,Burhinidae | Burhinus,Burhinus oedicnemus,NXG9,2482100,NXG9,2482100
+B1815:1:157,Caprimulgidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Caprimulgidae,,,,,Caprimulgidae,7PQ,5225,7PQ,5225
+B1815:1:158,Caprimulgus,,,,,,genus,,B1815:1,accepted,,,B1815:1:157,Caprimulgidae,,,,,Caprimulgidae,,Caprimulgus,,Caprimulgidae,Caprimulgus,3H66,11235512,3H66,11235512
+B1815:1:159,Caprimulgus europaeus,,Caprimulgus,,europaeus,,species,,B1815:1,accepted,,,B1815:1:158,Caprimulgus,,,,,Caprimulgidae,,Caprimulgus,,Caprimulgidae | Caprimulgus,Caprimulgus europaeus,QSND,8109681,QSND,8109681
+B1815:1:160,Certhiidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Certhiidae,,,,,Certhiidae,7XP,5227,7XP,5227
+B1815:1:161,Certhia,,,,,,genus,,B1815:1,accepted,,,B1815:1:160,Certhiidae,,,,,Certhiidae,,Certhia,,Certhiidae,Certhia,3L8X,2487601,3L8X,2487601
+B1815:1:162,Certhia brachydactyla,,Certhia,,brachydactyla,,species,,B1815:1,accepted,,,B1815:1:161,Certhia,,,,,Certhiidae,,Certhia,,Certhiidae | Certhia,Certhia brachydactyla,69N9M,7806848,69N9M,7806848
+B1815:1:163,Certhia familiaris,,Certhia,,familiaris,,species,,B1815:1,accepted,,,B1815:1:161,Certhia,,,,,Certhiidae,,Certhia,,Certhiidae | Certhia,Certhia familiaris,5XN9F,2487603,5XN9F,2487603
+B1815:1:164,Cettiidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Cettiidae,,,,,Cettiidae,7Y5,6100900,7Y5,6100900
+B1815:1:165,Cettia,,,,,,genus,,B1815:1,accepted,,,B1815:1:164,Cettiidae,,,,,Cettiidae,,Cettia,,Cettiidae,Cettia,3LDD,2492997,3LDD,2492997
+B1815:1:166,Cettia cetti,,Cettia,,cetti,,species,,B1815:1,accepted,,,B1815:1:165,Cettia,,,,,Cettiidae,,Cettia,,Cettiidae | Cettia,Cettia cetti,T77T,2493012,T77T,2493012
+B1815:1:167,Charadriidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Charadriidae,,,,,Charadriidae,824,2480210,824,2480210
+B1815:1:168,Anarhynchus,,,,,,genus,,B1815:1,accepted,,,B1815:1:167,Charadriidae,,,,,Charadriidae,,Anarhynchus,,Charadriidae,Anarhynchus,9H73F,2480251,9H73F,2480251
+B1815:1:169,Anarhynchus alexandrinus,,Anarhynchus,,alexandrinus,,species,,B1815:1,accepted,,,B1815:1:168,Anarhynchus,,,,,Charadriidae,,Anarhynchus,,Charadriidae | Anarhynchus,Anarhynchus alexandrinus,,9372299,,2480311
+B1815:1:170,Calidris,,,,,,genus,,B1815:1,accepted,,,B1815:1:167,Charadriidae,,,,,Charadriidae,,Calidris,,Charadriidae,Calidris,3F8J,2481739,3F8J,2481739
+B1815:1:171,Calidris fuscicollis,,Calidris,,fuscicollis,,species,,B1815:1,accepted,,,B1815:1:170,Calidris,,,,,Charadriidae,,Calidris,,Charadriidae | Calidris,Calidris fuscicollis,PK48,2481756,PK48,2481756
+B1815:1:172,Charadrius,,,,,,genus,,B1815:1,accepted,,,B1815:1:167,Charadriidae,,,,,Charadriidae,,Charadrius,,Charadriidae,Charadrius,3M7T,2480277,3M7T,2480277
+B1815:1:173,Charadrius hiaticula,,Charadrius,,hiaticula,,species,,B1815:1,accepted,,,B1815:1:172,Charadrius,,,,,Charadriidae,,Charadrius,,Charadriidae | Charadrius,Charadrius hiaticula,TMWY,9566659,TMWY,9566659
+B1815:1:174,Charadrius dubius,,Charadrius,,dubius,,species,,B1815:1,accepted,,,B1815:1:172,Charadrius,,,,,Charadriidae,,Charadrius,,Charadriidae | Charadrius,Charadrius dubius,5XPL5,7937336,5XPL5,7937336
+B1815:1:175,Charadrius morinellus,,Charadrius,,morinellus,,species,,B1815:1,accepted,,,B1815:1:172,Charadrius,,,,,Charadriidae,,Charadrius,,Charadriidae | Charadrius,Charadrius morinellus,TMX9,2480281,TMX9,2480281
+B1815:1:176,Pluvialis,,,,,,genus,,B1815:1,accepted,,,B1815:1:167,Charadriidae,,,,,Charadriidae,,Pluvialis,,Charadriidae,Pluvialis,6T7B,2480326,6T7B,2480326
+B1815:1:177,Pluvialis dominica,,Pluvialis,,dominica,,species,,B1815:1,accepted,,,B1815:1:176,Pluvialis,,,,,Charadriidae,,Pluvialis,,Charadriidae | Pluvialis,Pluvialis dominica,4KKPW,2480328,4KKPW,2480328
+B1815:1:178,Pluvialis apricaria,,Pluvialis,,apricaria,,species,,B1815:1,accepted,,,B1815:1:176,Pluvialis,,,,,Charadriidae,,Pluvialis,,Charadriidae | Pluvialis,Pluvialis apricaria,4KKPV,2480332,4KKPV,2480332
+B1815:1:179,Pluvialis squatarola,,Pluvialis,,squatarola,,species,,B1815:1,accepted,,,B1815:1:176,Pluvialis,,,,,Charadriidae,,Pluvialis,,Charadriidae | Pluvialis,Pluvialis squatarola,4KKPY,2480327,4KKPY,2480327
+B1815:1:180,Vanellus,,,,,,genus,,B1815:1,accepted,,,B1815:1:167,Charadriidae,,,,,Charadriidae,,Vanellus,,Charadriidae,Vanellus,647JQ,3242344,647JQ,3242344
+B1815:1:181,Vanellus vanellus,,Vanellus,,vanellus,,species,,B1815:1,accepted,,,B1815:1:180,Vanellus,,,,,Charadriidae,,Vanellus,,Charadriidae | Vanellus,Vanellus vanellus,7FFJL,2480242,7FFJL,2480242
+B1815:1:182,Vanellus gregarius,,Vanellus,,gregarius,,species,,B1815:1,accepted,,,B1815:1:180,Vanellus,,,,,Charadriidae,,Vanellus,,Charadriidae | Vanellus,Vanellus gregarius,7FFJ4,5229138,7FFJ4,5229138
+B1815:1:183,Ciconiidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Ciconiidae,,,,,Ciconiidae,88T,9289,88T,9289
+B1815:1:184,Ciconia,,,,,,genus,,B1815:1,accepted,,,B1815:1:183,Ciconiidae,,,,,Ciconiidae,,Ciconia,,Ciconiidae,Ciconia,62LBC,2481908,62LBC,2481908
+B1815:1:185,Ciconia ciconia,,Ciconia,,ciconia,,species,,B1815:1,accepted,,,B1815:1:184,Ciconia,,,,,Ciconiidae,,Ciconia,,Ciconiidae | Ciconia,Ciconia ciconia,5Z5T3,2481912,5Z5T3,2481912
+B1815:1:186,Ciconia nigra,,Ciconia,,nigra,,species,,B1815:1,accepted,,,B1815:1:184,Ciconia,,,,,Ciconiidae,,Ciconia,,Ciconiidae | Ciconia,Ciconia nigra,5YTSK,2481909,5YTSK,2481909
+B1815:1:187,Cinclidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Cinclidae,,,,,Cinclidae,896,9290,896,9290
+B1815:1:188,Cinclus,,,,,,genus,,B1815:1,accepted,,,B1815:1:187,Cinclidae,,,,,Cinclidae,,Cinclus,,Cinclidae,Cinclus,3PYJ,2495086,3PYJ,2495086
+B1815:1:189,Cinclus cinclus,,Cinclus,,cinclus,,species,,B1815:1,accepted,,,B1815:1:188,Cinclus,,,,,Cinclidae,,Cinclus,,Cinclidae | Cinclus,Cinclus cinclus,VDPH,2495093,VDPH,2495093
+B1815:1:190,Cisticolidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Cisticolidae,,,,,Cisticolidae,89S,9293,89S,9293
+B1815:1:191,Cisticola,,,,,,genus,,B1815:1,accepted,,,B1815:1:190,Cisticolidae,,,,,Cisticolidae,,Cisticola,,Cisticolidae,Cisticola,3Q97,2492786,3Q97,2492786
+B1815:1:192,Cisticola juncidis,,Cisticola,,juncidis,,species,,B1815:1,accepted,,,B1815:1:191,Cisticola,,,,,Cisticolidae,,Cisticola,,Cisticolidae | Cisticola,Cisticola juncidis,5Z8F6,2492822,5Z8F6,2492822
+B1815:1:193,Columbidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Columbidae,,,,,Columbidae,8GD,5233,8GD,5233
+B1815:1:194,Columba,,,,,,genus,,B1815:1,accepted,,,B1815:1:193,Columbidae,,,,,Columbidae,,Columba,,Columbidae,Columba,3SMP,2495404,3SMP,2495404
+B1815:1:195,Columba oenas,,Columba,,oenas,,species,,B1815:1,accepted,,,B1815:1:194,Columba,,,,,Columbidae,,Columba,,Columbidae | Columba,Columba oenas,5ZQ9C,2495471,5ZQ9C,2495471
+B1815:1:196,Columba palumbus,,Columba,,palumbus,,species,,B1815:1,accepted,,,B1815:1:194,Columba,,,,,Columbidae,,Columba,,Columbidae | Columba,Columba palumbus,XBGG,2495455,XBGG,2495455
+B1815:1:197,Columba livia,,Columba,,livia,,species,,B1815:1,accepted,,,B1815:1:194,Columba,,,,,Columbidae,,Columba,,Columbidae | Columba,Columba livia,XBFW,2495414,XBFW,2495414
+B1815:1:198,Streptopelia,,,,,,genus,,B1815:1,accepted,,,B1815:1:193,Columbidae,,,,,Columbidae,,Streptopelia,,Columbidae,Streptopelia,7P7J,2495657,7P7J,2495657
+B1815:1:199,Streptopelia decaocto,,Streptopelia,,decaocto,,species,,B1815:1,accepted,,,B1815:1:198,Streptopelia,,,,,Columbidae,,Streptopelia,,Columbidae | Streptopelia,Streptopelia decaocto,6ZXPP,2495696,6ZXPP,2495696
+B1815:1:200,Streptopelia turtur,,Streptopelia,,turtur,,species,,B1815:1,accepted,,,B1815:1:198,Streptopelia,,,,,Columbidae,,Streptopelia,,Columbidae | Streptopelia,Streptopelia turtur,6ZXPY,2495708,6ZXPY,2495708
+B1815:1:201,Coraciidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Coraciidae,,,,,Coraciidae,8JG,9307,8JG,9307
+B1815:1:202,Coracias,,,,,,genus,,B1815:1,accepted,,,B1815:1:201,Coraciidae,,,,,Coraciidae,,Coracias,,Coraciidae,Coracias,3TV8,2475359,3TV8,2475359
+B1815:1:203,Coracias garrulus,,Coracias,,garrulus,,species,,B1815:1,accepted,,,B1815:1:202,Coracias,,,,,Coraciidae,,Coracias,,Coraciidae | Coracias,Coracias garrulus,5ZZQS,2475365,5ZZQS,2475365
+B1815:1:204,Corvidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Corvidae,,,,,Corvidae,8L6,5235,8L6,5235
+B1815:1:205,Corvus,,,,,,genus,,B1815:1,accepted,,,B1815:1:204,Corvidae,,,,,Corvidae,,Corvus,,Corvidae,Corvus,62LZ4,2482468,62LZ4,2482468
+B1815:1:206,Corvus cornix,,Corvus,,cornix,,species,,B1815:1,accepted,,,B1815:1:205,Corvus,,,,,Corvidae,,Corvus,,Corvidae | Corvus,Corvus cornix,YNHH,2482515,YNHH,2482515
+B1815:1:207,Corvus splendens,,Corvus,,splendens,,species,,B1815:1,accepted,,,B1815:1:205,Corvus,,,,,Corvidae,,Corvus,,Corvidae | Corvus,Corvus splendens,YNJJ,2482499,YNJJ,2482499
+B1815:1:208,Corvus monedula,,Corvus,,monedula,,species,,B1815:1,accepted,,,B1815:1:205,Corvus,,,,,Corvidae,,Corvus,,Corvidae | Corvus,Corvus monedula,YNJ8,2482473,X733,6100954
+B1815:1:209,Corvus corax,,Corvus,,corax,,species,,B1815:1,accepted,,,B1815:1:205,Corvus,,,,,Corvidae,,Corvus,,Corvidae | Corvus,Corvus corax,YNHG,2482492,YNHG,2482492
+B1815:1:210,Corvus frugilegus,,Corvus,,frugilegus,,species,,B1815:1,accepted,,,B1815:1:205,Corvus,,,,,Corvidae,,Corvus,,Corvidae | Corvus,Corvus frugilegus,YNHT,2482513,YNHT,2482513
+B1815:1:211,Corvus corone,,Corvus,,corone,,species,,B1815:1,accepted,,,B1815:1:205,Corvus,,,,,Corvidae,,Corvus,,Corvidae | Corvus,Corvus corone,YNHJ,9409796,YNHJ,9409796
+B1815:1:212,Garrulus,,,,,,genus,,B1815:1,accepted,,,B1815:1:204,Corvidae,,,,,Corvidae,,Garrulus,,Corvidae,Garrulus,4M9W,2482462,4M9W,2482462
+B1815:1:213,Garrulus glandarius,,Garrulus,,glandarius,,species,,B1815:1,accepted,,,B1815:1:212,Garrulus,,,,,Corvidae,,Garrulus,,Corvidae | Garrulus,Garrulus glandarius,6JYHZ,5229493,6JYHZ,5229493
+B1815:1:214,Nucifraga,,,,,,genus,,B1815:1,accepted,,,B1815:1:204,Corvidae,,,,,Corvidae,,Nucifraga,,Corvidae,Nucifraga,65SH,2482612,65SH,2482612
+B1815:1:215,Nucifraga caryocatactes,,Nucifraga,,caryocatactes,,species,,B1815:1,accepted,,,B1815:1:214,Nucifraga,,,,,Corvidae,,Nucifraga,,Corvidae | Nucifraga,Nucifraga caryocatactes,482M4,2482613,482M4,2482613
+B1815:1:216,Pica,,,,,,genus,,B1815:1,accepted,,,B1815:1:204,Corvidae,,,,,Corvidae,,Pica,,Corvidae,Pica,63MBS,2482424,63MBS,2482424
+B1815:1:217,Pica pica,,Pica,,pica,,species,,B1815:1,accepted,,,B1815:1:216,Pica,,,,,Corvidae,,Pica,,Corvidae | Pica,Pica pica,4HPXM,5229490,4HPXM,5229490
+B1815:1:218,Cuculidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Cuculidae,,,,,Cuculidae,8S7,9309,8S7,9309
+B1815:1:219,Cuculus,,,,,,genus,,B1815:1,accepted,,,B1815:1:218,Cuculidae,,,,,Cuculidae,,Cuculus,,Cuculidae,Cuculus,3X8N,2336662,3X8N,2336662
+B1815:1:220,Cuculus canorus,,Cuculus,,canorus,,species,,B1815:1,accepted,,,B1815:1:219,Cuculus,,,,,Cuculidae,,Cuculus,,Cuculidae | Cuculus,Cuculus canorus,6BPL3,5231918,6BPL3,5231918
+B1815:1:221,Emberizidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Emberizidae,,,,,Emberizidae,9N5,9608,9N5,9608
+B1815:1:222,Calcarius,,,,,,genus,,B1815:1,accepted,,,B1815:1:221,Emberizidae,,,,,Emberizidae,,Calcarius,,Emberizidae,Calcarius,3F36,2491676,3F36,2491676
+B1815:1:223,Calcarius lapponicus,,Calcarius,,lapponicus,,species,,B1815:1,accepted,,,B1815:1:222,Calcarius,,,,,Emberizidae,,Calcarius,,Emberizidae | Calcarius,Calcarius lapponicus,PGVX,2491678,PGVX,2491678
+B1815:1:224,Emberiza,,,,,,genus,,B1815:1,accepted,,,B1815:1:221,Emberizidae,,,,,Emberizidae,,Emberiza,,Emberizidae,Emberiza,4B69,2491468,4B69,2491468
+B1815:1:225,Emberiza rustica,,Emberiza,,rustica,,species,,B1815:1,accepted,,,B1815:1:224,Emberiza,,,,,Emberizidae,,Emberiza,,Emberizidae | Emberiza,Emberiza rustica,39FTK,2491582,39FTK,2491582
+B1815:1:226,Emberiza pusilla,,Emberiza,,pusilla,,species,,B1815:1,accepted,,,B1815:1:224,Emberiza,,,,,Emberizidae,,Emberiza,,Emberizidae | Emberiza,Emberiza pusilla,39FTJ,2491544,39FTJ,2491544
+B1815:1:227,Emberiza citrinella,,Emberiza,,citrinella,,species,,B1815:1,accepted,,,B1815:1:224,Emberiza,,,,,Emberizidae,,Emberiza,,Emberizidae | Emberiza,Emberiza citrinella,39FSZ,2491534,39FSZ,2491534
+B1815:1:228,Emberiza calandra,,Emberiza,,calandra,,species,,B1815:1,accepted,,,B1815:1:224,Emberiza,,,,,Emberizidae,,Emberiza,,Emberizidae | Emberiza,Emberiza calandra,39FSR,7634625,39FSR,7634625
+B1815:1:229,Emberiza hortulana,,Emberiza,,hortulana,,species,,B1815:1,accepted,,,B1815:1:224,Emberiza,,,,,Emberizidae,,Emberiza,,Emberizidae | Emberiza,Emberiza hortulana,39FT7,2491482,39FT7,2491482
+B1815:1:230,Emberiza schoeniclus,,Emberiza,,schoeniclus,,species,,B1815:1,accepted,,,B1815:1:224,Emberiza,,,,,Emberizidae,,Emberiza,,Emberizidae | Emberiza,Emberiza schoeniclus,39FTN,2491557,39FTN,2491557
+B1815:1:231,Plectrophenax,,,,,,genus,,B1815:1,accepted,,,B1815:1:221,Emberizidae,,,,,Emberizidae,,Plectrophenax,,Emberizidae,Plectrophenax,63NSN,2491717,63NSN,2491717
+B1815:1:232,Plectrophenax nivalis,,Plectrophenax,,nivalis,,species,,B1815:1,accepted,,,B1815:1:231,Plectrophenax,,,,,Emberizidae,,Plectrophenax,,Emberizidae | Plectrophenax,Plectrophenax nivalis,77QJ8,2491719,77QJ8,2491719
+B1815:1:233,Falconidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Falconidae,,,,,Falconidae,623R8,5240,623R8,5240
+B1815:1:234,Falco,,,,,,genus,,B1815:1,accepted,,,B1815:1:233,Falconidae,,,,,Falconidae,,Falco,,Falconidae,Falco,62SZ6,2480996,62SZ6,2480996
+B1815:1:235,Falco subbuteo,,Falco,,subbuteo,,species,,B1815:1,accepted,,,B1815:1:234,Falco,,,,,Falconidae,,Falco,,Falconidae | Falco,Falco subbuteo,6HNPP,2481035,6HNPP,2481035
+B1815:1:236,Falco vespertinus,,Falco,,vespertinus,,species,,B1815:1,accepted,,,B1815:1:234,Falco,,,,,Falconidae,,Falco,,Falconidae | Falco,Falco vespertinus,3DTGX,2481062,3DTGX,2481062
+B1815:1:237,Falco peregrinus,,Falco,,peregrinus,,species,,B1815:1,accepted,,,B1815:1:234,Falco,,,,,Falconidae,,Falco,,Falconidae | Falco,Falco peregrinus,3DTGL,2481047,3DTGL,2481047
+B1815:1:238,Falco columbarius,,Falco,,columbarius,,species,,B1815:1,accepted,,,B1815:1:234,Falco,,,,,Falconidae,,Falco,,Falconidae | Falco,Falco columbarius,3DTFW,9813242,3DTFW,9813242
+B1815:1:239,Falco tinnunculus,,Falco,,tinnunculus,,species,,B1815:1,accepted,,,B1815:1:234,Falco,,,,,Falconidae,,Falco,,Falconidae | Falco,Falco tinnunculus,3DTGW,9616058,3DTGW,9616058
+B1815:1:240,Fringillidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Fringillidae,,,,,Fringillidae,6244D,5242,6244D,5242
+B1815:1:241,Acanthis,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Acanthis,,Fringillidae,Acanthis,M2J,2494179,M2J,2494179
+B1815:1:242,Acanthis flammea,,Acanthis,,flammea,,species,,B1815:1,accepted,,,B1815:1:241,Acanthis,,,,,Fringillidae,,Acanthis,,Fringillidae | Acanthis,Acanthis flammea,8TTP,5231630,8TTP,5231630
+B1815:1:243,Acanthis cabaret,,Acanthis,,cabaret,,species,,B1815:1,accepted,,,B1815:1:241,Acanthis,,,,,Fringillidae,,Acanthis,,Fringillidae | Acanthis,Acanthis cabaret,,6871058,,8732478
+B1815:1:244,Carduelis,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Carduelis,,Fringillidae,Carduelis,62KHQ,2494621,62KHQ,2494621
+B1815:1:245,Carduelis carduelis,,Carduelis,,carduelis,,species,,B1815:1,accepted,,,B1815:1:244,Carduelis,,,,,Fringillidae,,Carduelis,,Fringillidae | Carduelis,Carduelis carduelis,R6J7,2494686,R6J7,2494686
+B1815:1:246,Chloris,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Chloris,,Fringillidae,Chloris,62LWM,3241514,62LWM,3241514
+B1815:1:247,Chloris chloris,,Chloris,,chloris,,species,,B1815:1,accepted,,,B1815:1:246,Chloris,,,,,Fringillidae,,Chloris,,Fringillidae | Chloris,Chloris chloris,5XWQ6,5845582,5XWQ6,5845582
+B1815:1:248,Coccothraustes,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Coccothraustes,,Fringillidae,Coccothraustes,3RMR,2494310,3RMR,2494310
+B1815:1:249,Coccothraustes coccothraustes,,Coccothraustes,,coccothraustes,,species,,B1815:1,accepted,,,B1815:1:248,Coccothraustes,,,,,Fringillidae,,Coccothraustes,,Fringillidae | Coccothraustes,Coccothraustes coccothraustes,WLXJ,2494329,WLXJ,2494329
+B1815:1:250,Erythrina,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Erythrina,,Fringillidae,Erythrina,62S3X,3241546,62KK5,3241546
+B1815:1:251,Erythrina erythrina,,Erythrina,,erythrina,,species,,B1815:1,accepted,,,B1815:1:250,Erythrina,,,,,Fringillidae,,Erythrina,,Fringillidae | Erythrina,Erythrina erythrina,3BD9Y,5231616,RG9T,2494459
+B1815:1:252,Fringilla,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Fringilla,,Fringillidae,Fringilla,4L6M,2494421,4L6M,2494421
+B1815:1:253,Fringilla montifringilla,,Fringilla,,montifringilla,,species,,B1815:1,accepted,,,B1815:1:252,Fringilla,,,,,Fringillidae,,Fringilla,,Fringillidae | Fringilla,Fringilla montifringilla,6JPSG,2494441,6JPSG,2494441
+B1815:1:254,Fringilla coelebs,,Fringilla,,coelebs,,species,,B1815:1,accepted,,,B1815:1:252,Fringilla,,,,,Fringillidae,,Fringilla,,Fringillidae | Fringilla,Fringilla coelebs,6JPSJ,2494422,6JPSJ,2494422
+B1815:1:255,Linaria,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Linaria,,Fringillidae,Linaria,62YPP,8741507,62YPP,8741507
+B1815:1:256,Linaria flavirostris,,Linaria,,flavirostris,,species,,B1815:1,accepted,,,B1815:1:255,Linaria,,,,,Fringillidae,,Linaria,,Fringillidae | Linaria,Linaria flavirostris,6QGKV,7668711,6QGKV,7668711
+B1815:1:257,Linaria cannabina,,Linaria,,cannabina,,species,,B1815:1,accepted,,,B1815:1:255,Linaria,,,,,Fringillidae,,Linaria,,Fringillidae | Linaria,Linaria cannabina,72F75,8104397,72F75,8104397
+B1815:1:258,Loxia,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Loxia,,Fringillidae,Loxia,5GX7,2494150,5GX7,2494150
+B1815:1:259,Loxia pytyopsittacus,,Loxia,,pytyopsittacus,,species,,B1815:1,accepted,,,B1815:1:258,Loxia,,,,,Fringillidae,,Loxia,,Fringillidae | Loxia,Loxia pytyopsittacus,3W8WV,2494154,3W8WV,2494154
+B1815:1:260,Loxia curvirostra,,Loxia,,curvirostra,,species,,B1815:1,accepted,,,B1815:1:258,Loxia,,,,,Fringillidae,,Loxia,,Fringillidae | Loxia,Loxia curvirostra,3W8WP,9629160,3W8WP,9629160
+B1815:1:261,Loxia leucoptera,,Loxia,,leucoptera,,species,,B1815:1,accepted,,,B1815:1:258,Loxia,,,,,Fringillidae,,Loxia,,Fringillidae | Loxia,Loxia leucoptera,3W8WT,8144830,3W8WT,8144830
+B1815:1:262,Pyrrhula,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Pyrrhula,,Fringillidae,Pyrrhula,767K,2494529,767K,2494529
+B1815:1:263,Pyrrhula pyrrhula,,Pyrrhula,,pyrrhula,,species,,B1815:1,accepted,,,B1815:1:262,Pyrrhula,,,,,Fringillidae,,Pyrrhula,,Fringillidae | Pyrrhula,Pyrrhula pyrrhula,4QW2H,2494543,4QW2H,2494543
+B1815:1:264,Serinus,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Serinus,,Fringillidae,Serinus,644MX,2494180,644MX,2494180
+B1815:1:265,Serinus serinus,,Serinus,,serinus,,species,,B1815:1,accepted,,,B1815:1:264,Serinus,,,,,Fringillidae,,Serinus,,Fringillidae | Serinus,Serinus serinus,4WV7R,2494200,4WV7R,2494200
+B1815:1:266,Spinus,,,,,,genus,,B1815:1,accepted,,,B1815:1:240,Fringillidae,,,,,Fringillidae,,Spinus,,Fringillidae,Spinus,7L9G,8051475,7L9G,8051475
+B1815:1:267,Spinus spinus,,Spinus,,spinus,,species,,B1815:1,accepted,,,B1815:1:266,Spinus,,,,,Fringillidae,,Spinus,,Fringillidae | Spinus,Spinus spinus,4Z65Y,6092830,4Z65Y,6092830
+B1815:1:268,Gaviidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Gaviidae,,,,,Gaviidae,6247R,9312,6247R,9312
+B1815:1:269,Gavia,,,,,,genus,,B1815:1,accepted,,,B1815:1:268,Gaviidae,,,,,Gaviidae,,Gavia,,Gaviidae,Gavia,4MHK,2481954,4MHK,2481954
+B1815:1:270,Gavia immer,,Gavia,,immer,,species,,B1815:1,accepted,,,B1815:1:269,Gavia,,,,,Gaviidae,,Gavia,,Gaviidae | Gavia,Gavia immer,3FFP6,2481962,3FFP6,2481962
+B1815:1:271,Gavia arctica,,Gavia,,arctica,,species,,B1815:1,accepted,,,B1815:1:269,Gavia,,,,,Gaviidae,,Gavia,,Gaviidae | Gavia,Gavia arctica,3FFP5,2481959,3FFP5,2481959
+B1815:1:272,Gavia stellata,,Gavia,,stellata,,species,,B1815:1,accepted,,,B1815:1:269,Gavia,,,,,Gaviidae,,Gavia,,Gaviidae | Gavia,Gavia stellata,3FFP8,2481958,3FFP8,2481958
+B1815:1:273,Gruidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Gruidae,,,,,Gruidae,625DG,9313,625DG,9313
+B1815:1:274,Grus,,,,,,genus,,B1815:1,accepted,,,B1815:1:273,Gruidae,,,,,Gruidae,,Grus,,Gruidae,Grus,4R94,2474940,4R94,2474940
+B1815:1:275,Grus grus,,Grus,,grus,,species,,B1815:1,accepted,,,B1815:1:274,Grus,,,,,Gruidae,,Grus,,Gruidae | Grus,Grus grus,3HFDF,2474950,3HFDF,2474950
+B1815:1:276,Haematopodidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Haematopodidae,,,,,Haematopodidae,625G4,4287243,625G4,4287243
+B1815:1:277,Haematopus,,,,,,genus,,B1815:1,accepted,,,B1815:1:276,Haematopodidae,,,,,Haematopodidae,,Haematopus,,Haematopodidae,Haematopus,4SGR,2480260,4SGR,2480260
+B1815:1:278,Haematopus ostralegus,,Haematopus,,ostralegus,,species,,B1815:1,accepted,,,B1815:1:277,Haematopus,,,,,Haematopodidae,,Haematopus,,Haematopodidae | Haematopus,Haematopus ostralegus,3J8XQ,7788295,3J8XQ,7788295
+B1815:1:279,Hirundinidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Hirundinidae,,,,,Hirundinidae,B3Y,5248,B3Y,5248
+B1815:1:280,Cecropis,,,,,,genus,,B1815:1,accepted,,,B1815:1:279,Hirundinidae,,,,,Hirundinidae,,Cecropis,,Hirundinidae,Cecropis,3JWD,6085729,3JWD,6085729
+B1815:1:281,Cecropis daurica,,Cecropis,,daurica,,species,,B1815:1,accepted,,,B1815:1:280,Cecropis,,,,,Hirundinidae,,Cecropis,,Hirundinidae | Cecropis,Cecropis daurica,5XGTW,9717283,5XGTW,9717283
+B1815:1:282,Delichon,,,,,,genus,,B1815:1,accepted,,,B1815:1:279,Hirundinidae,,,,,Hirundinidae,,Delichon,,Hirundinidae,Delichon,42MV,2489213,42MV,2489213
+B1815:1:283,Delichon urbicum,,Delichon,,urbicum,,species,,B1815:1,accepted,,,B1815:1:282,Delichon,,,,,Hirundinidae,,Delichon,,Hirundinidae | Delichon,Delichon urbicum,34GHX,2489214,34GHX,2489214
+B1815:1:284,Hirundo,,,,,,genus,,B1815:1,accepted,,,B1815:1:279,Hirundinidae,,,,,Hirundinidae,,Hirundo,,Hirundinidae,Hirundo,6376D,2489222,6376D,2489222
+B1815:1:285,Hirundo rustica,,Hirundo,,rustica,,species,,B1815:1,accepted,,,B1815:1:284,Hirundo,,,,,Hirundinidae,,Hirundo,,Hirundinidae | Hirundo,Hirundo rustica,3M4S7,9515886,3M4S7,9515886
+B1815:1:286,Riparia,,,,,,genus,,B1815:1,accepted,,,B1815:1:279,Hirundinidae,,,,,Hirundinidae,,Riparia,,Hirundinidae,Riparia,63RR4,2489158,63RR4,2489158
+B1815:1:287,Riparia riparia,,Riparia,,riparia,,species,,B1815:1,accepted,,,B1815:1:286,Riparia,,,,,Hirundinidae,,Riparia,,Hirundinidae | Riparia,Riparia riparia,4T4PL,2489160,4T4PL,2489160
+B1815:1:288,Hydrobatidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Hydrobatidae,,,,,Hydrobatidae,B87,5249,B87,5249
+B1815:1:289,Hydrobates,,,,,,genus,,B1815:1,accepted,,,B1815:1:288,Hydrobatidae,,,,,Hydrobatidae,,Hydrobates,,Hydrobatidae,Hydrobates,4ZQM,2481972,4ZQM,2481972
+B1815:1:290,Hydrobates pelagicus,,Hydrobates,,pelagicus,,species,,B1815:1,accepted,,,B1815:1:289,Hydrobates,,,,,Hydrobatidae,,Hydrobates,,Hydrobatidae | Hydrobates,Hydrobates pelagicus,3N5B2,4408455,3N5B2,4408455
+B1815:1:291,Oceanodroma,,,,,,genus,,B1815:1,accepted,,,B1815:1:288,Hydrobatidae,,,,,Hydrobatidae,,Oceanodroma,,Hydrobatidae,Oceanodroma,66DS,2481998,66DS,2481998
+B1815:1:292,Oceanodroma leucorhoa,,Oceanodroma,,leucorhoa,,species,,B1815:1,accepted,,,B1815:1:291,Oceanodroma,,,,,Hydrobatidae,,Oceanodroma,,Hydrobatidae | Oceanodroma,Oceanodroma leucorhoa,48C48,2482012,48C48,2482012
+B1815:1:293,Laniidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Laniidae,,,,,Laniidae,BS2,9315,BS2,9315
+B1815:1:294,Lanius,,,,,,genus,,B1815:1,accepted,,,B1815:1:293,Laniidae,,,,,Laniidae,,Lanius,,Laniidae,Lanius,62XLP,12100555,62XLP,12100555
+B1815:1:295,Lanius collurio,,Lanius,,collurio,,species,,B1815:1,accepted,,,B1815:1:294,Lanius,,,,,Laniidae,,Lanius,,Laniidae | Lanius,Lanius collurio,3S7BJ,7745240,3S7BJ,7745240
+B1815:1:296,Lanius excubitor,,Lanius,,excubitor,,species,,B1815:1,accepted,,,B1815:1:294,Lanius,,,,,Laniidae,,Lanius,,Laniidae | Lanius,Lanius excubitor,3S7BN,9444556,3S7BN,9444556
+B1815:1:297,Lanius senator,,Lanius,,senator,,species,,B1815:1,accepted,,,B1815:1:294,Lanius,,,,,Laniidae,,Lanius,,Laniidae | Lanius,Lanius senator,3S7C6,2492867,3S7C6,2492867
+B1815:1:298,Laridae,,,,,,family,,B1815:1,accepted,,,,,,,,,Laridae,,,,,Laridae,BSK,9316,BSK,9316
+B1815:1:299,Chroicocephalus,,,,,,genus,,B1815:1,accepted,,,B1815:1:298,Laridae,,,,,Laridae,,Chroicocephalus,,Laridae,Chroicocephalus,3P9X,4848452,3P9X,4848452
+B1815:1:300,Chroicocephalus ridibundus,,Chroicocephalus,,ridibundus,,species,,B1815:1,accepted,,,B1815:1:299,Chroicocephalus,,,,,Laridae,,Chroicocephalus,,Laridae | Chroicocephalus,Chroicocephalus ridibundus,5YGFK,6065824,5YGFK,6065824
+B1815:1:301,Hydrocoloeus,,,,,,genus,,B1815:1,accepted,,,B1815:1:298,Laridae,,,,,Laridae,,Hydrocoloeus,,Laridae,Hydrocoloeus,4ZRN,4848514,4ZRN,4848514
+B1815:1:302,Hydrocoloeus minutus,,Hydrocoloeus,,minutus,,species,,B1815:1,accepted,,,B1815:1:301,Hydrocoloeus,,,,,Laridae,,Hydrocoloeus,,Laridae | Hydrocoloeus,Hydrocoloeus minutus,6MJWG,6065841,6MJWG,6065841
+B1815:1:303,Larus,,,,,,genus,,B1815:1,accepted,,,B1815:1:298,Laridae,,,,,Laridae,,Larus,,Laridae,Larus,62XFH,2481126,62XFH,2481126
+B1815:1:304,Larus michahellis,,Larus,,michahellis,,species,,B1815:1,accepted,,,B1815:1:303,Larus,,,,,Laridae,,Larus,,Laridae | Larus,Larus michahellis,3SBQP,9413670,3SBQP,9413670
+B1815:1:305,Larus hyperboreus,,Larus,,hyperboreus,,species,,B1815:1,accepted,,,B1815:1:303,Larus,,,,,Laridae,,Larus,,Laridae | Larus,Larus hyperboreus,3SBQG,2481127,3SBQG,2481127
+B1815:1:306,Larus marinus,,Larus,,marinus,,species,,B1815:1,accepted,,,B1815:1:303,Larus,,,,,Laridae,,Larus,,Laridae | Larus,Larus marinus,3SBQM,2481172,3SBQM,2481172
+B1815:1:307,Larus glaucoides,,Larus,,glaucoides,,species,,B1815:1,accepted,,,B1815:1:303,Larus,,,,,Laridae,,Larus,,Laridae | Larus,Larus glaucoides,3SBQC,2481156,3SBQC,2481156
+B1815:1:308,Larus fuscus,,Larus,,fuscus,,species,,B1815:1,accepted,,,B1815:1:303,Larus,,,,,Laridae,,Larus,,Laridae | Larus,Larus fuscus,3SBQ9,2481174,3SBQ9,2481174
+B1815:1:309,Larus cachinnans,,Larus,,cachinnans,,species,,B1815:1,accepted,,,B1815:1:303,Larus,,,,,Laridae,,Larus,,Laridae | Larus,Larus cachinnans,3SBPX,2481181,3SBPX,2481181
+B1815:1:310,Larus canus,,Larus,,canus,,species,,B1815:1,accepted,,,B1815:1:303,Larus,,,,,Laridae,,Larus,,Laridae | Larus,Larus canus,3SBPZ,7982160,3SBPZ,7982160
+B1815:1:311,Larus argentatus,,Larus,,argentatus,,species,,B1815:1,accepted,,,B1815:1:303,Larus,,,,,Laridae,,Larus,,Laridae | Larus,Larus argentatus,3SBPN,2481139,3SBPN,2481139
+B1815:1:312,Larus melanocephalus,,Larus,,melanocephalus,,species,,B1815:1,accepted,,,B1815:1:303,Larus,,,,,Laridae,,Larus,,Laridae | Larus,Larus melanocephalus,3SBQN,2481194,6N5PG,8151548
+B1815:1:313,Rissa,,,,,,genus,,B1815:1,accepted,,,B1815:1:298,Laridae,,,,,Laridae,,Rissa,,Laridae,Rissa,643QY,2481203,643QY,2481203
+B1815:1:314,Rissa tridactyla,,Rissa,,tridactyla,,species,,B1815:1,accepted,,,B1815:1:313,Rissa,,,,,Laridae,,Rissa,,Laridae | Rissa,Rissa tridactyla,4T594,2481205,4T594,2481205
+B1815:1:315,Xema,,,,,,genus,,B1815:1,accepted,,,B1815:1:298,Laridae,,,,,Laridae,,Xema,,Laridae,Xema,88JP,2481220,88JP,2481220
+B1815:1:316,Xema sabini,,Xema,,sabini,,species,,B1815:1,accepted,,,B1815:1:315,Xema,,,,,Laridae,,Xema,,Laridae | Xema,Xema sabini,7G8T5,2481221,7G8T5,2481221
+B1815:1:317,Locustellidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Locustellidae,,,,,Locustellidae,C5V,6100825,C5V,6100825
+B1815:1:318,Locustella,,,,,,genus,,B1815:1,accepted,,,B1815:1:317,Locustellidae,,,,,Locustellidae,,Locustella,,Locustellidae,Locustella,5G59,2493547,5G59,2493547
+B1815:1:319,Locustella fluviatilis,,Locustella,,fluviatilis,,species,,B1815:1,accepted,,,B1815:1:318,Locustella,,,,,Locustellidae,,Locustella,,Locustellidae | Locustella,Locustella fluviatilis,72LK9,2493549,72LK9,2493549
+B1815:1:320,Locustella luscinioides,,Locustella,,luscinioides,,species,,B1815:1,accepted,,,B1815:1:318,Locustella,,,,,Locustellidae,,Locustella,,Locustellidae | Locustella,Locustella luscinioides,6QLJV,2493551,6QLJV,2493551
+B1815:1:321,Locustella naevia,,Locustella,,naevia,,species,,B1815:1,accepted,,,B1815:1:318,Locustella,,,,,Locustellidae,,Locustella,,Locustellidae | Locustella,Locustella naevia,6QLK4,2493548,6QLK4,2493548
+B1815:1:322,Meropidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Meropidae,,,,,Meropidae,CLY,9320,CLY,9320
+B1815:1:323,Merops,,,,,,genus,,B1815:1,accepted,,,B1815:1:322,Meropidae,,,,,Meropidae,,Meropus,,Meropidae,Merops,62Z7C,2475391,62Z7C,2475391
+B1815:1:324,Meropus apiaster,,Meropus,,apiaster,,species,,B1815:1,accepted,,,B1815:1:323,Merops,,,,,Meropidae,,Meropus,,Meropidae | Merops,Meropus apiaster,3ZW55,2475443,3ZW55,2475443
+B1815:1:325,Motacillidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Motacillidae,,,,,Motacillidae,CYC,5257,CYC,5257
+B1815:1:326,Anthus,,,,,,genus,,B1815:1,accepted,,,B1815:1:325,Motacillidae,,,,,Motacillidae,,Anthus,,Motacillidae,Anthus,XJ7,2490241,XJ7,2490241
+B1815:1:327,Anthus trivialis,,Anthus,,trivialis,,species,,B1815:1,accepted,,,B1815:1:326,Anthus,,,,,Motacillidae,,Anthus,,Motacillidae | Anthus,Anthus trivialis,5VKFM,2490246,5VKFM,2490246
+B1815:1:328,Anthus campestris,,Anthus,,campestris,,species,,B1815:1,accepted,,,B1815:1:326,Anthus,,,,,Motacillidae,,Anthus,,Motacillidae | Anthus,Anthus campestris,67KDW,2490274,67KDW,2490274
+B1815:1:329,Anthus pratensis,,Anthus,,pratensis,,species,,B1815:1,accepted,,,B1815:1:326,Anthus,,,,,Motacillidae,,Anthus,,Motacillidae | Anthus,Anthus pratensis,67KF6,2490266,67KF6,2490266
+B1815:1:330,Anthus richardi,,Anthus,,richardi,,species,,B1815:1,accepted,,,B1815:1:326,Anthus,,,,,Motacillidae,,Anthus,,Motacillidae | Anthus,Anthus richardi,67KF5,9465111,67KF5,9465111
+B1815:1:331,Anthus petrosus,,Anthus,,petrosus,,species,,B1815:1,accepted,,,B1815:1:326,Anthus,,,,,Motacillidae,,Anthus,,Motacillidae | Anthus,Anthus petrosus,5VKF6,2490275,5VKF6,2490275
+B1815:1:332,Anthus cervinus,,Anthus,,cervinus,,species,,B1815:1,accepted,,,B1815:1:326,Anthus,,,,,Motacillidae,,Anthus,,Motacillidae | Anthus,Anthus cervinus,5VKDV,2490283,5VKDV,2490283
+B1815:1:333,Anthus hodgsoni,,Anthus,,hodgsoni,,species,,B1815:1,accepted,,,B1815:1:326,Anthus,,,,,Motacillidae,,Anthus,,Motacillidae | Anthus,Anthus hodgsoni,67KDB,12077832,67KDB,12077832
+B1815:1:334,Anthus spinoletta,,Anthus,,spinoletta,,species,,B1815:1,accepted,,,B1815:1:326,Anthus,,,,,Motacillidae,,Anthus,,Motacillidae | Anthus,Anthus spinoletta,5VKDZ,2490255,5VKDZ,2490255
+B1815:1:335,Motacilla,,,,,,genus,,B1815:1,accepted,,,B1815:1:325,Motacillidae,,,,,Motacillidae,,Motacilla,,Motacillidae,Motacilla,63CMY,2490295,63CMY,2490295
+B1815:1:336,Motacilla citreola,,Motacilla,,citreola,,species,,B1815:1,accepted,,,B1815:1:335,Motacilla,,,,,Motacillidae,,Motacilla,,Motacillidae | Motacilla,Motacilla citreola,44G9C,2490307,44G9C,2490307
+B1815:1:337,Motacilla flavissima,,Motacilla,,flavissima,,species,,B1815:1,accepted,,,B1815:1:335,Motacilla,,,,,Motacillidae,,Motacilla,,Motacillidae | Motacilla,Motacilla flavissima,,6543348,,6540377
+B1815:1:338,Motacilla flava,,Motacilla,,flava,,species,,B1815:1,accepted,,,B1815:1:335,Motacilla,,,,,Motacillidae,,Motacilla,,Motacillidae | Motacilla,Motacilla flava,44G9F,9701857,44G9F,9701857
+B1815:1:339,Motacilla cinerea,,Motacilla,,cinerea,,species,,B1815:1,accepted,,,B1815:1:335,Motacilla,,,,,Motacillidae,,Motacilla,,Motacillidae | Motacilla,Motacilla cinerea,44G9B,2490310,44G9B,2490310
+B1815:1:340,Motacilla thunbergi,,Motacilla,,thunbergi,,species,,B1815:1,accepted,,,B1815:1:335,Motacilla,,,,,Motacillidae,,Motacilla,,Motacillidae | Motacilla,Motacilla thunbergi,,5789220,,5789220
+B1815:1:341,Motacilla yarrellii,,Motacilla,,yarrellii,,species,,B1815:1,accepted,,,B1815:1:335,Motacilla,,,,,Motacillidae,,Motacilla,,Motacillidae | Motacilla,Motacilla yarrellii,,6544965,,6544965
+B1815:1:342,Motacilla alba,,Motacilla,,alba,,species,,B1815:1,accepted,,,B1815:1:335,Motacilla,,,,,Motacillidae,,Motacilla,,Motacillidae | Motacilla,Motacilla alba,44G99,9687165,44G99,9687165
+B1815:1:343,Muscicapidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Muscicapidae,,,,,Muscicapidae,CZN,9322,CZN,9322
+B1815:1:344,Erithacus,,,,,,genus,,B1815:1,accepted,,,B1815:1:343,Muscicapidae,,,,,Muscicapidae,,Erithacus,,Muscicapidae,Erithacus,63425,2492460,63425,2492460
+B1815:1:345,Erithacus rubecula,,Erithacus,,rubecula,,species,,B1815:1,accepted,,,B1815:1:344,Erithacus,,,,,Muscicapidae,,Erithacus,,Muscicapidae | Erithacus,Erithacus rubecula,6H2XM,2492462,6H2XM,2492462
+B1815:1:346,Ficedula,,,,,,genus,,B1815:1,accepted,,,B1815:1:343,Muscicapidae,,,,,Muscicapidae,,Ficedula,,Muscicapidae,Ficedula,4JY9,2492596,4JY9,2492596
+B1815:1:347,Ficedula hypoleuca,,Ficedula,,hypoleuca,,species,,B1815:1,accepted,,,B1815:1:346,Ficedula,,,,,Muscicapidae,,Ficedula,,Muscicapidae | Ficedula,Ficedula hypoleuca,6HWGP,2492606,6HWGP,2492606
+B1815:1:348,Ficedula parva,,Ficedula,,parva,,species,,B1815:1,accepted,,,B1815:1:346,Ficedula,,,,,Muscicapidae,,Ficedula,,Muscicapidae | Ficedula,Ficedula parva,6HWGB,2492605,6HWGB,2492605
+B1815:1:349,Ficedula albicollis,,Ficedula,,albicollis,,species,,B1815:1,accepted,,,B1815:1:346,Ficedula,,,,,Muscicapidae,,Ficedula,,Muscicapidae | Ficedula,Ficedula albicollis,6HWH4,2492601,6HWH4,2492601
+B1815:1:350,Luscinia,,,,,,genus,,B1815:1,accepted,,,B1815:1:343,Muscicapidae,,,,,Muscicapidae,,Luscinia,,Muscicapidae,Luscinia,5HCK,5429330,5HCK,5429330
+B1815:1:351,Luscinia megarhynchos,,Luscinia,,megarhynchos,,species,,B1815:1,accepted,,,B1815:1:350,Luscinia,,,,,Muscicapidae,,Luscinia,,Muscicapidae | Luscinia,Luscinia megarhynchos,3WFW6,7660710,3WFW6,7660710
+B1815:1:352,Luscinia luscinia,,Luscinia,,luscinia,,species,,B1815:1,accepted,,,B1815:1:350,Luscinia,,,,,Muscicapidae,,Luscinia,,Muscicapidae | Luscinia,Luscinia luscinia,3WFW5,2492542,3WFW5,2492542
+B1815:1:353,Muscicapa,,,,,,genus,,B1815:1,accepted,,,B1815:1:343,Muscicapidae,,,,,Muscicapidae,,Muscicapa,,Muscicapidae,Muscicapa,5VVQ,2483240,5VVQ,2483240
+B1815:1:354,Muscicapa striata,,Muscicapa,,striata,,species,,B1815:1,accepted,,,B1815:1:353,Muscicapa,,,,,Muscicapidae,,Muscicapa,,Muscicapidae | Muscicapa,Muscicapa striata,44Q67,2492576,44Q67,2492576
+B1815:1:355,Oenanthe,,,,,,genus,,B1815:1,accepted,,,B1815:1:343,Muscicapidae,,,,,Muscicapidae,,Oenanthe,,Muscicapidae,Oenanthe,679P,12107745,679P,12107745
+B1815:1:356,Oenanthe oenanthe,,Oenanthe,,oenanthe,,species,,B1815:1,accepted,,,B1815:1:355,Oenanthe,,,,,Muscicapidae,,Oenanthe,,Muscicapidae | Oenanthe,Oenanthe oenanthe,48X9H,5231240,48X9H,5231240
+B1815:1:357,Phoenicurus,,,,,,genus,,B1815:1,accepted,,,B1815:1:343,Muscicapidae,,,,,Muscicapidae,,Phoenicurus,,Muscicapidae,Phoenicurus,63MGF,5429347,63MGF,5429347
+B1815:1:358,Phoenicurus phoenicurus,,Phoenicurus,,phoenicurus,,species,,B1815:1,accepted,,,B1815:1:357,Phoenicurus,,,,,Muscicapidae,,Phoenicurus,,Muscicapidae | Phoenicurus,Phoenicurus phoenicurus,4GKQY,5739317,4GKQY,5739317
+B1815:1:359,Phoenicurus ochruros,,Phoenicurus,,ochruros,,species,,B1815:1,accepted,,,B1815:1:357,Phoenicurus,,,,,Muscicapidae,,Phoenicurus,,Muscicapidae | Phoenicurus,Phoenicurus ochruros,4GKQX,5739315,4GKQX,5739315
+B1815:1:360,Saxicola,,,,,,genus,,B1815:1,accepted,,,B1815:1:343,Muscicapidae,,,,,Muscicapidae,,Saxicola,,Muscicapidae,Saxicola,7CV9,2492516,7CV9,2492516
+B1815:1:361,Saxicola rubetra,,Saxicola,,rubetra,,species,,B1815:1,accepted,,,B1815:1:360,Saxicola,,,,,Muscicapidae,,Saxicola,,Muscicapidae | Saxicola,Saxicola rubetra,6XR3F,2492521,6XR3F,2492521
+B1815:1:362,Saxicola rubicola,,Saxicola,,rubicola,,species,,B1815:1,accepted,,,B1815:1:360,Saxicola,,,,,Muscicapidae,,Saxicola,,Muscicapidae | Saxicola,Saxicola rubicola,6Y2RF,4408759,6Y2RF,4408759
+B1815:1:363,Tarsiger,,,,,,genus,,B1815:1,accepted,,,B1815:1:343,Muscicapidae,,,,,Muscicapidae,,Tarsiger,,Muscicapidae,Tarsiger,645KS,2492508,645KS,2492508
+B1815:1:364,Tarsiger cyanurus,,Tarsiger,,cyanurus,,species,,B1815:1,accepted,,,B1815:1:363,Tarsiger,,,,,Muscicapidae,,Tarsiger,,Muscicapidae | Tarsiger,Tarsiger cyanurus,54XYS,2492509,54XYS,2492509
+B1815:1:365,Oriolidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Oriolidae,,,,,Oriolidae,DQ9,5708,DQ9,5708
+B1815:1:366,Oriolus,,,,,,genus,,B1815:1,accepted,,,B1815:1:365,Oriolidae,,,,,Oriolidae,,Oriolus,,Oriolidae,Oriolus,63HGX,2488947,63HGX,2488947
+B1815:1:367,Oriolus oriolus,,Oriolus,,oriolus,,species,,B1815:1,accepted,,,B1815:1:366,Oriolus,,,,,Oriolidae,,Oriolus,,Oriolidae | Oriolus,Oriolus oriolus,74VGB,2488949,74VGB,2488949
+B1815:1:368,Pandionidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Pandionidae,,,,,Pandionidae,DWJ,4408414,DWJ,4408414
+B1815:1:369,Pandion,,,,,,genus,,B1815:1,accepted,,,B1815:1:368,Pandionidae,,,,,Pandionidae,,Pandion,,Pandionidae,Pandion,6D6F,2480725,6D6F,2480725
+B1815:1:370,Pandion haliaetus,,Pandion,,haliaetus,,species,,B1815:1,accepted,,,B1815:1:369,Pandion,,,,,Pandionidae,,Pandion,,Pandionidae | Pandion,Pandion haliaetus,4CBTY,2480726,4CBTY,2480726
+B1815:1:371,Paridae,,,,,,family,,B1815:1,accepted,,,,,,,,,Paridae,,,,,Paridae,626B2,9327,626B2,9327
+B1815:1:372,Cyanistes,,,,,,genus,,B1815:1,accepted,,,B1815:1:371,Paridae,,,,,Paridae,,Cyanistes,,Paridae,Cyanistes,3XN8,2487875,3XN8,2487875
+B1815:1:373,Cyanistes caeruleus,,Cyanistes,,caeruleus,,species,,B1815:1,accepted,,,B1815:1:372,Cyanistes,,,,,Paridae,,Cyanistes,,Paridae | Cyanistes,Cyanistes caeruleus,32NH2,2487879,32NH2,2487879
+B1815:1:374,Lophophanes,,,,,,genus,,B1815:1,accepted,,,B1815:1:371,Paridae,,,,,Paridae,,Lophophanus,,Paridae,Lophophanes,5GMJ,2487881,5GMJ,2487881
+B1815:1:375,Lophophanus cristatus,,Lophophanus,,cristatus,,species,,B1815:1,accepted,,,B1815:1:374,Lophophanes,,,,,Paridae,,Lophophanus,,Paridae | Lophophanes,Lophophanus cristatus,3W3VB,2487883,3W3VB,2487883
+B1815:1:376,Parus,,,,,,genus,,B1815:1,accepted,,,B1815:1:371,Paridae,,,,,Paridae,,Parus,,Paridae,Parus,6J9Z,2487923,6J9Z,2487923
+B1815:1:377,Parus major,,Parus,,major,,species,,B1815:1,accepted,,,B1815:1:376,Parus,,,,,Paridae,,Parus,,Paridae | Parus,Parus major,75SVV,9705453,75SVV,9705453
+B1815:1:378,Periparus,,,,,,genus,,B1815:1,accepted,,,B1815:1:371,Paridae,,,,,Paridae,,Periparus,,Paridae,Periparus,6LCZ,7736104,6LCZ,7736104
+B1815:1:379,Periparus ater,,Periparus,,ater,,species,,B1815:1,accepted,,,B1815:1:378,Periparus,,,,,Paridae,,Periparus,,Paridae | Periparus,Periparus ater,4F2VB,2487871,4F2VB,2487871
+B1815:1:380,Poecile,,,,,,genus,,B1815:1,accepted,,,B1815:1:371,Paridae,,,,,Paridae,,Poecile,,Paridae,Poecile,6TGS,2487782,6TGS,2487782
+B1815:1:381,Poecile palustris,,Poecile,,palustris,,species,,B1815:1,accepted,,,B1815:1:380,Poecile,,,,,Paridae,,Poecile,,Paridae | Poecile,Poecile palustris,4KSC9,2487843,4KSC9,2487843
+B1815:1:382,Poecile montanus,,Poecile,,montanus,,species,,B1815:1,accepted,,,B1815:1:380,Poecile,,,,,Paridae,,Poecile,,Paridae | Poecile,Poecile montanus,4KSC7,2487866,4KSC7,2487866
+B1815:1:383,Passeridae,,,,,,family,,B1815:1,accepted,,,,,,,,,Passeridae,,,,,Passeridae,626DC,5264,626DC,5264
+B1815:1:384,Passer,,,,,,genus,,B1815:1,accepted,,,B1815:1:383,Passeridae,,,,,Passeridae,,Passer,,Passeridae,Passer,6JFY,2492321,6JFY,2492321
+B1815:1:385,Passer domesticus,,Passer,,domesticus,,species,,B1815:1,accepted,,,B1815:1:384,Passer,,,,,Passeridae,,Passer,,Passeridae | Passer,Passer domesticus,4DXXM,5231190,4DXXM,5231190
+B1815:1:386,Passer montanus,,Passer,,montanus,,species,,B1815:1,accepted,,,B1815:1:384,Passer,,,,,Passeridae,,Passer,,Passeridae | Passer,Passer montanus,4DXY4,5231198,4DXY4,5231198
+B1815:1:387,Phalacrocoracidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Phalacrocoracidae,,,,,Phalacrocoracidae,62694,5268,62694,5268
+B1815:1:388,Phalacrocorax,,,,,,genus,,B1815:1,accepted,,,B1815:1:387,Phalacrocoracidae,,,,,Phalacrocoracidae,,Phalacrocorax,,Phalacrocoracidae,Phalacrocorax,6MN5,2481854,6MN5,2481854
+B1815:1:389,Phalacrocorax carbo,,Phalacrocorax,,carbo,,species,,B1815:1,accepted,,,B1815:1:388,Phalacrocorax,,,,,Phalacrocoracidae,,Phalacrocorax,,Phalacrocoracidae | Phalacrocorax,Phalacrocorax carbo,4FQQC,2481890,4FQQC,2481890
+B1815:1:390,Phalacrocorax aristotelis,,Phalacrocorax,,aristotelis,,species,,B1815:1,accepted,,,B1815:1:388,Phalacrocorax,,,,,Phalacrocoracidae,,Phalacrocorax,,Phalacrocoracidae | Phalacrocorax,Phalacrocorax aristotelis,4FQQ3,2481861,4FQQ3,2481861
+B1815:1:391,Phasianidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Phasianidae,,,,,Phasianidae,625WG,9331,625WG,9331
+B1815:1:392,Coturnix,,,,,,genus,,B1815:1,accepted,,,B1815:1:391,Phasianidae,,,,,Phasianidae,,Coturnix,,Phasianidae,Coturnix,9JJCS,8725725,9JJCS,8725725
+B1815:1:393,Coturnix coturnix,,Coturnix,,coturnix,,species,,B1815:1,accepted,,,B1815:1:392,Coturnix,,,,,Phasianidae,,Coturnix,,Phasianidae | Coturnix,Coturnix coturnix,YYSJ,2474156,YYSJ,2474156
+B1815:1:394,Perdix,,,,,,genus,,B1815:1,accepted,,,B1815:1:391,Phasianidae,,,,,Phasianidae,,Perdix,,Phasianidae,Perdix,63L8J,2473953,63L8J,2473953
+B1815:1:395,Perdix perdix,,Perdix,,perdix,,species,,B1815:1,accepted,,,B1815:1:394,Perdix,,,,,Phasianidae,,Perdix,,Phasianidae | Perdix,Perdix perdix,6V58Q,2473958,6V58Q,2473958
+B1815:1:396,Phasianus,,,,,,genus,,B1815:1,accepted,,,B1815:1:391,Phasianidae,,,,,Phasianidae,,Phasianus,,Phasianidae,Phasianus,6MY8,2473738,6MY8,2473738
+B1815:1:397,Phasianus colchicus,,Phasianus,,colchicus,,species,,B1815:1,accepted,,,B1815:1:396,Phasianus,,,,,Phasianidae,,Phasianus,,Phasianidae | Phasianus,Phasianus colchicus,4FWMN,9752149,4FWMN,9752149
+B1815:1:398,Tetrao,,,,,,genus,,B1815:1,accepted,,,B1815:1:391,Phasianidae,,,,,Phasianidae,,Tetrao,,Phasianidae,Tetrao,646SW,2473573,646SW,2473573
+B1815:1:399,Tetrao tetrix,,Tetrao,,tetrix,,species,,B1815:1,accepted,,,B1815:1:398,Tetrao,,,,,Phasianidae,,Tetrao,,Phasianidae | Tetrao,Tetrao tetrix,55QS6,8379871,BNMDG,7191070
+B1815:1:400,Phoenicopteridae,,,,,,family,,B1815:1,accepted,,,,,,,,,Phoenicopteridae,,,,,Phoenicopteridae,6269M,5269,6269M,5269
+B1815:1:401,Phoenicopterus,,,,,,genus,,B1815:1,accepted,,,B1815:1:400,Phoenicopteridae,,,,,Phoenicopteridae,,Phoenicopterus,,Phoenicopteridae,Phoenicopterus,6NVS,2481102,6NVS,2481102
+B1815:1:402,Phoenicopterus chilensis,,Phoenicopterus,,chilensis,,species,,B1815:1,accepted,,,B1815:1:401,Phoenicopterus,,,,,Phoenicopteridae,,Phoenicopterus,,Phoenicopteridae | Phoenicopterus,Phoenicopterus chilensis,4GKQ2,2481110,4GKQ2,2481110
+B1815:1:403,Phoenicopterus roseus,,Phoenicopterus,,roseus,,species,,B1815:1,accepted,,,B1815:1:401,Phoenicopterus,,,,,Phoenicopteridae,,Phoenicopterus,,Phoenicopteridae | Phoenicopterus,Phoenicopterus roseus,C45ZK,4352332,C45ZK,4352332
+B1815:1:404,Phylloscopidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Phylloscopidae,,,,,Phylloscopidae,625K5,6100963,625K5,6100963
+B1815:1:405,Phylloscopus,,,,,,genus,,B1815:1,accepted,,,B1815:1:404,Phylloscopidae,,,,,Phylloscopidae,,Phylloscopus,,Phylloscopidae,Phylloscopus,6PRN,2493047,6PRN,2493047
+B1815:1:406,Phylloscopus inornatus,,Phylloscopus,,inornatus,,species,,B1815:1,accepted,,,B1815:1:405,Phylloscopus,,,,,Phylloscopidae,,Phylloscopus,,Phylloscopidae | Phylloscopus,Phylloscopus inornatus,77FMP,2493095,77FMP,2493095
+B1815:1:407,Phylloscopus fuscatus,,Phylloscopus,,fuscatus,,species,,B1815:1,accepted,,,B1815:1:405,Phylloscopus,,,,,Phylloscopidae,,Phylloscopus,,Phylloscopidae | Phylloscopus,Phylloscopus fuscatus,77FML,2493075,77FML,2493075
+B1815:1:408,Phylloscopus sibillatrix,,Phylloscopus,,sibillatrix,,species,,B1815:1,accepted,,,B1815:1:405,Phylloscopus,,,,,Phylloscopidae,,Phylloscopus,,Phylloscopidae | Phylloscopus,Phylloscopus sibillatrix,6VFN8,8128385,6VFN8,8128385
+B1815:1:409,Phylloscopus trochiloides,,Phylloscopus,,trochiloides,,species,,B1815:1,accepted,,,B1815:1:405,Phylloscopus,,,,,Phylloscopidae,,Phylloscopus,,Phylloscopidae | Phylloscopus,Phylloscopus trochiloides,6VFNC,2493084,6VFNC,2493084
+B1815:1:410,Phylloscopus humei,,Phylloscopus,,humei,,species,,B1815:1,accepted,,,B1815:1:405,Phylloscopus,,,,,Phylloscopidae,,Phylloscopus,,Phylloscopidae | Phylloscopus,Phylloscopus humei,6VFMM,7341522,6VFMM,7341522
+B1815:1:411,Phylloscopus proregulus,,Phylloscopus,,proregulus,,species,,B1815:1,accepted,,,B1815:1:405,Phylloscopus,,,,,Phylloscopidae,,Phylloscopus,,Phylloscopidae | Phylloscopus,Phylloscopus proregulus,77FN7,2493090,77FN7,2493090
+B1815:1:412,Phylloscopus tristis,,Phylloscopus,,tristis,,species,,B1815:1,accepted,,,B1815:1:405,Phylloscopus,,,,,Phylloscopidae,,Phylloscopus,,Phylloscopidae | Phylloscopus,Phylloscopus tristis,,7947730,,7947730
+B1815:1:413,Picidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Picidae,,,,,Picidae,625L8,9333,625L8,9333
+B1815:1:414,Dendrocopos,,,,,,genus,,B1815:1,accepted,,,B1815:1:413,Picidae,,,,,Picidae,,Dendrocopos,,Picidae,Dendrocopos,42YV,2477899,42YV,2477899
+B1815:1:415,Dendrocopos major,,Dendrocopos,,major,,species,,B1815:1,accepted,,,B1815:1:414,Dendrocopos,,,,,Picidae,,Dendrocopos,,Picidae | Dendrocopos,Dendrocopos major,6CJDB,2477968,6CJDB,2477968
+B1815:1:416,Dendropicos,,,,,,genus,,B1815:1,accepted,,,B1815:1:413,Picidae,,,,,Picidae,,Dendropicos,,Picidae,Dendropicos,434C,2478384,434C,2478384
+B1815:1:417,Dendropicos medius,,Dendropicos,,medius,,species,,B1815:1,accepted,,,B1815:1:416,Dendropicos,,,,,Picidae,,Dendropicos,,Picidae | Dendropicos,Dendropicos medius,,9501577,,8773033
+B1815:1:418,Dryobates,,,,,,genus,,B1815:1,accepted,,,B1815:1:413,Picidae,,,,,Picidae,,Dryobates,,Picidae,Dryobates,7NXMX,8399994,7NXMX,8399994
+B1815:1:419,Dryobates minor,,Dryobates,,minor,,species,,B1815:1,accepted,,,B1815:1:418,Dryobates,,,,,Picidae,,Dryobates,,Picidae | Dryobates,Dryobates minor,7TCSL,9015784,7TCSL,9015784
+B1815:1:420,Dryocopus,,,,,,genus,,B1815:1,accepted,,,B1815:1:413,Picidae,,,,,Picidae,,Dryocopus,,Picidae,Dryocopus,48HQ,2477865,48HQ,2477865
+B1815:1:421,Dryocopus martius,,Dryocopus,,martius,,species,,B1815:1,accepted,,,B1815:1:420,Dryocopus,,,,,Picidae,,Dryocopus,,Picidae | Dryocopus,Dryocopus martius,37VCZ,2477872,37VCZ,2477872
+B1815:1:422,Jynx,,,,,,genus,,B1815:1,accepted,,,B1815:1:413,Picidae,,,,,Picidae,,Jynx,,Picidae,Jynx,5737,2478152,5737,2478152
+B1815:1:423,Jynx torquilla,,Jynx,,torquilla,,species,,B1815:1,accepted,,,B1815:1:422,Jynx,,,,,Picidae,,Jynx,,Picidae | Jynx,Jynx torquilla,3QXQR,8012314,3QXQR,8012314
+B1815:1:424,Picus,,,,,,genus,,B1815:1,accepted,,,B1815:1:413,Picidae,,,,,Picidae,,Picus,,Picidae,Picus,63MCB,2478487,63MCB,2478487
+B1815:1:425,Picus viridis,,Picus,,viridis,,species,,B1815:1,accepted,,,B1815:1:424,Picus,,,,,Picidae,,Picus,,Picidae | Picus,Picus viridis,4HR3F,2478523,4HR3F,2478523
+B1815:1:426,Podicipedidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Podicipedidae,,,,,Podicipedidae,627FZ,9338,627FZ,9338
+B1815:1:427,Podiceps,,,,,,genus,,B1815:1,accepted,,,B1815:1:426,Podicipedidae,,,,,Podicipedidae,,Podiceps,,Podicipedidae,Podiceps,6TBH,11057428,6TBH,11057428
+B1815:1:428,Podiceps cristatus,,Podiceps,,cristatus,,species,,B1815:1,accepted,,,B1815:1:427,Podiceps,,,,,Podicipedidae,,Podiceps,,Podicipedidae | Podiceps,Podiceps cristatus,782YB,2482054,782YB,2482054
+B1815:1:429,Podiceps nigricollis,,Podiceps,,nigricollis,,species,,B1815:1,accepted,,,B1815:1:427,Podiceps,,,,,Podicipedidae,,Podiceps,,Podicipedidae | Podiceps,Podiceps nigricollis,4KPP4,2482065,4KPP4,2482065
+B1815:1:430,Podiceps auritus,,Podiceps,,auritus,,species,,B1815:1,accepted,,,B1815:1:427,Podiceps,,,,,Podicipedidae,,Podiceps,,Podicipedidae | Podiceps,Podiceps auritus,4KPNN,2482059,4KPNN,2482059
+B1815:1:431,Podiceps grisegena,,Podiceps,,grisegena,,species,,B1815:1,accepted,,,B1815:1:427,Podiceps,,,,,Podicipedidae,,Podiceps,,Podicipedidae | Podiceps,Podiceps grisegena,4KPNX,2482051,4KPNX,2482051
+B1815:1:432,Tachybaptus,,,,,,genus,,B1815:1,accepted,,,B1815:1:426,Podicipedidae,,,,,Podicipedidae,,Tachybaptus,,Podicipedidae,Tachybaptus,7RSK,10901539,7RSK,10901539
+B1815:1:433,Tachybaptus ruficollis,,Tachybaptus,,ruficollis,,species,,B1815:1,accepted,,,B1815:1:432,Tachybaptus,,,,,Podicipedidae,,Tachybaptus,,Podicipedidae | Tachybaptus,Tachybaptus ruficollis,54C7M,2482048,54C7M,2482048
+B1815:1:434,Procellariidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Procellariidae,,,,,Procellariidae,627CQ,9339,627CQ,9339
+B1815:1:435,Ardenna,,,,,,genus,,B1815:1,accepted,,,B1815:1:434,Procellariidae,,,,,Procellariidae,,Ardenna,,Procellariidae,Ardenna,,4847365,,4847365
+B1815:1:436,Ardenna griseus,,Ardenna,,griseus,,species,,B1815:1,accepted,,,B1815:1:435,Ardenna,,,,,Procellariidae,,Ardenna,,Procellariidae | Ardenna,Ardenna griseus,,8249990,,5739277
+B1815:1:437,Fulmarus,,,,,,genus,,B1815:1,accepted,,,B1815:1:434,Procellariidae,,,,,Procellariidae,,Fulmarus,,Procellariidae,Fulmarus,4LCC,2481431,4LCC,2481431
+B1815:1:438,Fulmarus glacialis,,Fulmarus,,glacialis,,species,,B1815:1,accepted,,,B1815:1:437,Fulmarus,,,,,Procellariidae,,Fulmarus,,Procellariidae | Fulmarus,Fulmarus glacialis,6K3X3,2481433,6K3X3,2481433
+B1815:1:439,Puffinus,,,,,,genus,,B1815:1,accepted,,,B1815:1:434,Procellariidae,,,,,Procellariidae,,Puffinus,,Procellariidae,Puffinus,75BM,5229335,75BM,5229335
+B1815:1:440,Puffinus puffinus,,Puffinus,,puffinus,,species,,B1815:1,accepted,,,B1815:1:439,Puffinus,,,,,Procellariidae,,Puffinus,,Procellariidae | Puffinus,Puffinus puffinus,4QFY4,5229380,4QFY4,5229380
+B1815:1:441,Puffinus mauretanicus,,Puffinus,,mauretanicus,,species,,B1815:1,accepted,,,B1815:1:439,Puffinus,,,,,Procellariidae,,Puffinus,,Procellariidae | Puffinus,Puffinus mauretanicus,4QFXW,5229360,4QFXW,5229360
+B1815:1:442,Prunellidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Prunellidae,,,,,Prunellidae,F6N,5273,F6N,5273
+B1815:1:443,Prunella,,,,,,genus,,B1815:1,accepted,,,B1815:1:442,Prunellidae,,,,,Prunellidae,,Prunella,,Prunellidae,Prunella,6Y6B,2495070,6Y6B,2495070
+B1815:1:444,Prunella modularis,,Prunella,,modularis,,species,,B1815:1,accepted,,,B1815:1:443,Prunella,,,,,Prunellidae,,Prunella,,Prunellidae | Prunella,Prunella modularis,4N8CC,5231763,4N8CC,5231763
+B1815:1:445,Psittacidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Psittacidae,,,,,Psittacidae,FBD,9340,FBD,9340
+B1815:1:446,Myiopsitta,,,,,,genus,,B1815:1,accepted,,,B1815:1:445,Psittacidae,,,,,Psittacidae,,Myiopsitta,,Psittacidae,Myiopsitta,63D34,2479406,63D34,2479406
+B1815:1:447,Myiopsitta monachus,,Myiopsitta,,monachus,,species,,B1815:1,accepted,,,B1815:1:446,Myiopsitta,,,,,Psittacidae,,Myiopsitta,,Psittacidae | Myiopsitta,Myiopsitta monachus,4532H,2479407,4532H,2479407
+B1815:1:448,Psittacula,,,,,,genus,,B1815:1,accepted,,,B1815:1:445,Psittacidae,,,,,Psittacidae,,Psittacula,,Psittacidae,Psittacula,642T9,2479192,642T9,2479192
+B1815:1:449,Psittacula eupatria,,Psittacula,,eupatria,,species,,B1815:1,accepted,,,B1815:1:448,Psittacula,,,,,Psittacidae,,Psittacula,,Psittacidae | Psittacula,Psittacula eupatria,4PKCF,5229055,4PKCF,5229055
+B1815:1:450,Psittacula krameri,,Psittacula,,krameri,,species,,B1815:1,accepted,,,B1815:1:448,Psittacula,,,,,Psittacidae,,Psittacula,,Psittacidae | Psittacula,Psittacula krameri,4PKCM,2479226,4PKCM,2479226
+B1815:1:451,Rallidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Rallidae,,,,,Rallidae,FJ9,9342,FJ9,9342
+B1815:1:452,Crex,,,,,,genus,,B1815:1,accepted,,,B1815:1:451,Rallidae,,,,,Rallidae,,Crex,,Rallidae,Crex,3VRZ,3242956,3VRZ,3242956
+B1815:1:453,Crex crex,,Crex,,crex,,species,,B1815:1,accepted,,,B1815:1:452,Crex,,,,,Rallidae,,Crex,,Rallidae | Crex,Crex crex,ZFFP,4408498,ZFFP,4408498
+B1815:1:454,Fulica,,,,,,genus,,B1815:1,accepted,,,B1815:1:451,Rallidae,,,,,Rallidae,,Fulica,,Rallidae,Fulica,4LC2,2474376,4LC2,2474376
+B1815:1:455,Fulica atra,,Fulica,,atra,,species,,B1815:1,accepted,,,B1815:1:454,Fulica,,,,,Rallidae,,Fulica,,Rallidae | Fulica,Fulica atra,6K3W6,2474377,6K3W6,2474377
+B1815:1:456,Gallinula,,,,,,genus,,B1815:1,accepted,,,B1815:1:451,Rallidae,,,,,Rallidae,,Gallinula,,Rallidae,Gallinula,4LXW,2474758,4LXW,2474758
+B1815:1:457,Gallinula chloropus,,Gallinula,,chloropus,,species,,B1815:1,accepted,,,B1815:1:456,Gallinula,,,,,Rallidae,,Gallinula,,Rallidae | Gallinula,Gallinula chloropus,3F6VX,5228199,3F6VX,5228199
+B1815:1:458,Porzana,,,,,,genus,,B1815:1,accepted,,,B1815:1:451,Rallidae,,,,,Rallidae,,Porzana,,Rallidae,Porzana,6V2X,2474604,6V2X,2474604
+B1815:1:459,Porzana porzana,,Porzana,,porzana,,species,,B1815:1,accepted,,,B1815:1:458,Porzana,,,,,Rallidae,,Porzana,,Rallidae | Porzana,Porzana porzana,4M2R8,2474621,4M2R8,2474621
+B1815:1:460,Rallus,,,,,,genus,,B1815:1,accepted,,,B1815:1:451,Rallidae,,,,,Rallidae,,Rallus,,Rallidae,Rallus,76VZ,2474794,76VZ,2474794
+B1815:1:461,Rallus aquaticus,,Rallus,,aquaticus,,species,,B1815:1,accepted,,,B1815:1:460,Rallus,,,,,Rallidae,,Rallus,,Rallidae | Rallus,Rallus aquaticus,4RB9P,2474831,4RB9P,2474831
+B1815:1:462,Zapornia,,,,,,genus,,B1815:1,accepted,,,B1815:1:451,Rallidae,,,,,Rallidae,,Zapornia,,Rallidae,Zapornia,CPPD8,9469275,CPPD8,9469275
+B1815:1:463,Zapornia pusilla,,Zapornia,,pusilla,,species,,B1815:1,accepted,,,B1815:1:462,Zapornia,,,,,Rallidae,,Zapornia,,Rallidae | Zapornia,Zapornia pusilla,CPPDY,9299354,CPPDY,2474628
+B1815:1:464,Zapornia parva,,Zapornia,,parva,,species,,B1815:1,accepted,,,B1815:1:462,Zapornia,,,,,Rallidae,,Zapornia,,Rallidae | Zapornia,Zapornia parva,CPPDW,9272513,CPPDW,2474627
+B1815:1:465,Recurvirostridae,,,,,,family,,B1815:1,accepted,,,,,,,,,Recurvirostridae,,,,,Recurvirostridae,FKR,4287244,FKR,4287244
+B1815:1:466,Himantopus,,,,,,genus,,B1815:1,accepted,,,B1815:1:465,Recurvirostridae,,,,,Recurvirostridae,,Himantopus,,Recurvirostridae,Himantopus,6375G,2480217,6375G,2480217
+B1815:1:467,Himantopus himantopus,,Himantopus,,himantopus,,species,,B1815:1,accepted,,,B1815:1:466,Himantopus,,,,,Recurvirostridae,,Himantopus,,Recurvirostridae | Himantopus,Himantopus himantopus,3LXZ5,5229126,3LXZ5,5229126
+B1815:1:468,Recurvirostra,,,,,,genus,,B1815:1,accepted,,,B1815:1:465,Recurvirostridae,,,,,Recurvirostridae,,Recurvirostra,,Recurvirostridae,Recurvirostra,77FJ,2480255,77FJ,2480255
+B1815:1:469,Recurvirostra avosetta,,Recurvirostra,,avosetta,,species,,B1815:1,accepted,,,B1815:1:468,Recurvirostra,,,,,Recurvirostridae,,Recurvirostra,,Recurvirostridae | Recurvirostra,Recurvirostra avosetta,4RP59,2480259,4RP59,2480259
+B1815:1:470,Regulidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Regulidae,,,,,Regulidae,FL3,5279,FL3,5279
+B1815:1:471,Regulus,,,,,,genus,,B1815:1,accepted,,,B1815:1:470,Regulidae,,,,,Regulidae,,Regulus,,Regulidae,Regulus,77JH,2484589,77JH,2484589
+B1815:1:472,Regulus regulus,,Regulus,,regulus,,species,,B1815:1,accepted,,,B1815:1:471,Regulus,,,,,Regulidae,,Regulus,,Regulidae | Regulus,Regulus regulus,78SHD,2484596,78SHD,2484596
+B1815:1:473,Regulus ignicapilla,,Regulus,,ignicapilla,,species,,B1815:1,accepted,,,B1815:1:471,Regulus,,,,,Regulidae,,Regulus,,Regulidae | Regulus,Regulus ignicapilla,4RPW7,6093527,4RPW7,6093527
+B1815:1:474,Remizidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Remizidae,,,,,Remizidae,FL9,9344,FL9,9344
+B1815:1:475,Remiz,,,,,,genus,,B1815:1,accepted,,,B1815:1:474,Remizidae,,,,,Remizidae,,Remiz,,Remizidae,Remiz,77NZ,2487382,77NZ,2487382
+B1815:1:476,Remiz pendulinus,,Remiz,,pendulinus,,species,,B1815:1,accepted,,,B1815:1:475,Remiz,,,,,Remizidae,,Remiz,,Remizidae | Remiz,Remiz pendulinus,4RRFV,2487385,4RRFV,2487385
+B1815:1:477,Scolopacidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Scolopacidae,,,,,Scolopacidae,G4X,5282,G4X,5282
+B1815:1:478,Actitis,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Actitis,,Scolopacidae,Actitis,NT5,2481797,NT5,2481797
+B1815:1:479,Actitis hypoleucos,,Actitis,,hypoleucos,,species,,B1815:1,accepted,,,B1815:1:478,Actitis,,,,,Scolopacidae,,Actitis,,Scolopacidae | Actitis,Actitis hypoleucos,64QTG,2481800,64QTG,2481800
+B1815:1:480,Arenaria,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Arenaria,,Scolopacidae,Arenaria,6238B,2481774,6238B,2481774
+B1815:1:481,Arenaria interpres,,Arenaria,,interpres,,species,,B1815:1,accepted,,,B1815:1:480,Arenaria,,,,,Scolopacidae,,Arenaria,,Scolopacidae | Arenaria,Arenaria interpres,67RLB,2481776,67RLB,2481776
+B1815:1:482,Calidris,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Calidris,,Scolopacidae,Calidris,3F8J,2481739,3F8J,2481739
+B1815:1:483,Calidris subruficollis,,Calidris,,subruficollis,,species,,B1815:1,accepted,,,B1815:1:482,Calidris,,,,,Scolopacidae,,Calidris,,Scolopacidae | Calidris,Calidris subruficollis,9HCHR,8292425,9HCHR,8292425
+B1815:1:484,Calidris alpina,,Calidris,,alpina,,species,,B1815:1,accepted,,,B1815:1:482,Calidris,,,,,Scolopacidae,,Calidris,,Scolopacidae | Calidris,Calidris alpina,PK42,2481759,PK42,2481759
+B1815:1:485,Calidris alba,,Calidris,,alba,,species,,B1815:1,accepted,,,B1815:1:482,Calidris,,,,,Scolopacidae,,Calidris,,Scolopacidae | Calidris,Calidris alba,PK3Z,2481748,PK3Z,2481748
+B1815:1:486,Calidris melanotos,,Calidris,,melanotos,,species,,B1815:1,accepted,,,B1815:1:482,Calidris,,,,,Scolopacidae,,Calidris,,Scolopacidae | Calidris,Calidris melanotos,PK4C,2481744,PK4C,2481744
+B1815:1:487,Calidris canutus,,Calidris,,canutus,,species,,B1815:1,accepted,,,B1815:1:482,Calidris,,,,,Scolopacidae,,Calidris,,Scolopacidae | Calidris,Calidris canutus,PK44,2481765,PK44,2481765
+B1815:1:488,Calidris pugnax,,Calidris,,pugnax,,species,,B1815:1,accepted,,,B1815:1:482,Calidris,,,,,Scolopacidae,,Calidris,,Scolopacidae | Calidris,Calidris pugnax,9HCHQ,8250742,9HCHQ,8250742
+B1815:1:489,Calidris minuta,,Calidris,,minuta,,species,,B1815:1,accepted,,,B1815:1:482,Calidris,,,,,Scolopacidae,,Calidris,,Scolopacidae | Calidris,Calidris minuta,PK4D,2481749,PK4D,2481749
+B1815:1:490,Calidris ferruginea,,Calidris,,ferruginea,,species,,B1815:1,accepted,,,B1815:1:482,Calidris,,,,,Scolopacidae,,Calidris,,Scolopacidae | Calidris,Calidris ferruginea,PK47,2481741,PK47,2481741
+B1815:1:491,Calidris maritima,,Calidris,,maritima,,species,,B1815:1,accepted,,,B1815:1:482,Calidris,,,,,Scolopacidae,,Calidris,,Scolopacidae | Calidris,Calidris maritima,695XN,2481743,695XN,2481743
+B1815:1:492,Calidris temminckii,,Calidris,,temminckii,,species,,B1815:1,accepted,,,B1815:1:482,Calidris,,,,,Scolopacidae,,Calidris,,Scolopacidae | Calidris,Calidris temminckii,PK4K,2481740,PK4K,2481740
+B1815:1:493,Gallinago,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Gallinago,,Scolopacidae,Gallinago,4LXT,2481808,4LXT,2481808
+B1815:1:494,Gallinago gallinago,,Gallinago,,gallinago,,species,,B1815:1,accepted,,,B1815:1:493,Gallinago,,,,,Scolopacidae,,Gallinago,,Scolopacidae | Gallinago,Gallinago gallinago,3F6V9,2481819,3F6V9,2481819
+B1815:1:495,Limicola,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Limicola,,Scolopacidae,Limicola,63977,8257602,3F8J,2481679
+B1815:1:496,Limicola falcinellus,,Limicola,,falcinellus,,species,,B1815:1,accepted,,,B1815:1:495,Limicola,,,,,Scolopacidae,,Limicola,,Scolopacidae | Limicola,Limicola falcinellus,72B53,2481780,9HKB9,7537888
+B1815:1:497,Limosa,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Limosa,,Scolopacidae,Limosa,62YMT,2481679,62YMT,2481679
+B1815:1:498,Limosa limosa,,Limosa,,limosa,,species,,B1815:1,accepted,,,B1815:1:497,Limosa,,,,,Scolopacidae,,Limosa,,Scolopacidae | Limosa,Limosa limosa,72FCR,2481685,72FCR,2481685
+B1815:1:499,Limosa lapponica,,Limosa,,lapponica,,species,,B1815:1,accepted,,,B1815:1:497,Limosa,,,,,Scolopacidae,,Limosa,,Scolopacidae | Limosa,Limosa lapponica,6QFD3,2481681,6QFD3,2481681
+B1815:1:500,Lymnocryptes,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Lymnocryptes,,Scolopacidae,Lymnocryptes,5HQD,2481834,5HQD,2481834
+B1815:1:501,Lymnocryptes minimus,,Lymnocryptes,,minimus,,species,,B1815:1,accepted,,,B1815:1:500,Lymnocryptes,,,,,Scolopacidae,,Lymnocryptes,,Scolopacidae | Lymnocryptes,Lymnocryptes minimus,3WSC2,2481835,3WSC2,2481835
+B1815:1:502,Numenius,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Numenius,,Scolopacidae,Numenius,65VC,2481781,65VC,2481781
+B1815:1:503,Numenius phaeopus,,Numenius,,phaeopus,,species,,B1815:1,accepted,,,B1815:1:502,Numenius,,,,,Scolopacidae,,Numenius,,Scolopacidae | Numenius,Numenius phaeopus,483T6,2481784,483T6,2481784
+B1815:1:504,Numenius arquata,,Numenius,,arquata,,species,,B1815:1,accepted,,,B1815:1:502,Numenius,,,,,Scolopacidae,,Numenius,,Scolopacidae | Numenius,Numenius arquata,483SZ,2481792,483SZ,2481792
+B1815:1:505,Phalaropus,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Phalaropus,,Scolopacidae,Phalaropus,6MPL,7237089,6MPL,7237089
+B1815:1:506,Phalaropus lobatus,,Phalaropus,,lobatus,,species,,B1815:1,accepted,,,B1815:1:505,Phalaropus,,,,,Scolopacidae,,Phalaropus,,Scolopacidae | Phalaropus,Phalaropus lobatus,4FRHS,5739290,4FRHS,5739290
+B1815:1:507,Phalaropus fulicarius,,Phalaropus,,fulicarius,,species,,B1815:1,accepted,,,B1815:1:505,Phalaropus,,,,,Scolopacidae,,Phalaropus,,Scolopacidae | Phalaropus,Phalaropus fulicarius,4FRHR,5229390,4FRHR,5229390
+B1815:1:508,Scolopax,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Scolopax,,Scolopacidae,Scolopax,6455D,2481693,6455D,2481693
+B1815:1:509,Scolopax rusticola,,Scolopax,,rusticola,,species,,B1815:1,accepted,,,B1815:1:508,Scolopax,,,,,Scolopacidae,,Scolopax,,Scolopacidae | Scolopax,Scolopax rusticola,4VS4Z,2481700,4VS4Z,2481700
+B1815:1:510,Tringa,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Tringa,,Scolopacidae,Tringa,8288,2481709,8288,2481709
+B1815:1:511,Tringa glareola,,Tringa,,glareola,,species,,B1815:1,accepted,,,B1815:1:510,Tringa,,,,,Scolopacidae,,Tringa,,Scolopacidae | Tringa,Tringa glareola,58VJ4,2481713,58VJ4,2481713
+B1815:1:512,Tringa nebularia,,Tringa,,nebularia,,species,,B1815:1,accepted,,,B1815:1:510,Tringa,,,,,Scolopacidae,,Tringa,,Scolopacidae | Tringa,Tringa nebularia,58VJB,2481726,58VJB,2481726
+B1815:1:513,Tringa stagnatilis,,Tringa,,stagnatilis,,species,,B1815:1,accepted,,,B1815:1:510,Tringa,,,,,Scolopacidae,,Tringa,,Scolopacidae | Tringa,Tringa stagnatilis,58VJG,2481719,58VJG,2481719
+B1815:1:514,Tringa totanus,,Tringa,,totanus,,species,,B1815:1,accepted,,,B1815:1:510,Tringa,,,,,Scolopacidae,,Tringa,,Scolopacidae | Tringa,Tringa totanus,58VJH,2481714,58VJH,2481714
+B1815:1:515,Tringa ochropus,,Tringa,,ochropus,,species,,B1815:1,accepted,,,B1815:1:510,Tringa,,,,,Scolopacidae,,Tringa,,Scolopacidae | Tringa,Tringa ochropus,58VJC,2481728,58VJC,2481728
+B1815:1:516,Tringa erythropus,,Tringa,,erythropus,,species,,B1815:1,accepted,,,B1815:1:510,Tringa,,,,,Scolopacidae,,Tringa,,Scolopacidae | Tringa,Tringa erythropus,58VJ2,2481725,58VJ2,2481725
+B1815:1:517,Xenus,,,,,,genus,,B1815:1,accepted,,,B1815:1:477,Scolopacidae,,,,,Scolopacidae,,Xenus,,Scolopacidae,Xenus,893C,2481702,893C,2481702
+B1815:1:518,Xenus cinereus,,Xenus,,cinereus,,species,,B1815:1,accepted,,,B1815:1:517,Xenus,,,,,Scolopacidae,,Xenus,,Scolopacidae | Xenus,Xenus cinereus,5CBY8,2481703,5CBY8,2481703
+B1815:1:519,Sittidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Sittidae,,,,,Sittidae,626XK,5283,626XK,5283
+B1815:1:520,Sitta,,,,,,genus,,B1815:1,accepted,,,B1815:1:519,Sittidae,,,,,Sittidae,,Sitta,,Sittidae,Sitta,7HWK,2484878,7HWK,2484878
+B1815:1:521,Sitta europaea,,Sitta,,europaea,,species,,B1815:1,accepted,,,B1815:1:520,Sitta,,,,,Sittidae,,Sitta,,Sittidae | Sitta,Sitta europaea,6Z52Z,2484916,6Z52Z,2484916
+B1815:1:522,Stercorariidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Stercorariidae,,,,,Stercorariidae,GNX,9347,GNX,9347
+B1815:1:523,Stercorarius,,,,,,genus,,B1815:1,accepted,,,B1815:1:522,Stercorariidae,,,,,Stercorariidae,,Stercorarius,,Stercorariidae,Stercorarius,7N5S,2481608,7N5S,2481608
+B1815:1:524,Stercorarius skua,,Stercorarius,,skua,,species,,B1815:1,accepted,,,B1815:1:523,Stercorarius,,,,,Stercorariidae,,Stercorarius,,Stercorariidae | Stercorarius,Stercorarius skua,52D8Q,2481618,52D8Q,2481618
+B1815:1:525,Stercorarius parasiticus,,Stercorarius,,parasiticus,,species,,B1815:1,accepted,,,B1815:1:523,Stercorarius,,,,,Stercorariidae,,Stercorarius,,Stercorariidae | Stercorarius,Stercorarius parasiticus,52D8N,2481621,52D8N,2481621
+B1815:1:526,Stercorarius longicaudus,,Stercorarius,,longicaudus,,species,,B1815:1,accepted,,,B1815:1:523,Stercorarius,,,,,Stercorariidae,,Stercorarius,,Stercorariidae | Stercorarius,Stercorarius longicaudus,52D8L,2481613,52D8L,2481613
+B1815:1:527,Stercorarius pomarinus,,Stercorarius,,pomarinus,,species,,B1815:1,accepted,,,B1815:1:523,Stercorarius,,,,,Stercorariidae,,Stercorarius,,Stercorariidae | Stercorarius,Stercorarius pomarinus,52D8P,2481609,52D8P,2481609
+B1815:1:528,Sternidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Sternidae,,,,,Sternidae,,3242555,,9316
+B1815:1:529,Chlidonias,,,,,,genus,,B1815:1,accepted,,,B1815:1:528,Sternidae,,,,,Sternidae,,Chlidonias,,Sternidae,Chlidonias,62M8H,2481118,62M8H,2481118
+B1815:1:530,Chlidonias leucopterus,,Chlidonias,,leucopterus,,species,,B1815:1,accepted,,,B1815:1:529,Chlidonias,,,,,Sternidae,,Chlidonias,,Sternidae | Chlidonias,Chlidonias leucopterus,5Y96Q,2481120,5Y96Q,2481120
+B1815:1:531,Chlidonias hybrida,,Chlidonias,,hybrida,,species,,B1815:1,accepted,,,B1815:1:529,Chlidonias,,,,,Sternidae,,Chlidonias,,Sternidae | Chlidonias,Chlidonias hybrida,5XX6Q,2481121,5XX6Q,2481121
+B1815:1:532,Chlidonias niger,,Chlidonias,,niger,,species,,B1815:1,accepted,,,B1815:1:529,Chlidonias,,,,,Sternidae,,Chlidonias,,Sternidae | Chlidonias,Chlidonias niger,5Y972,2481119,5Y972,2481119
+B1815:1:533,Gelochelidon,,,,,,genus,,B1815:1,accepted,,,B1815:1:528,Sternidae,,,,,Sternidae,,Gelochelidon,,Sternidae,Gelochelidon,4MNJ,2481216,4MNJ,2481216
+B1815:1:534,Gelochelidon nilotica,,Gelochelidon,,nilotica,,species,,B1815:1,accepted,,,B1815:1:533,Gelochelidon,,,,,Sternidae,,Gelochelidon,,Sternidae | Gelochelidon,Gelochelidon nilotica,3FJY7,2481263,3FJY7,2481263
+B1815:1:535,Hydroprogne,,,,,,genus,,B1815:1,accepted,,,B1815:1:528,Sternidae,,,,,Sternidae,,Hydroprogne,,Sternidae,Hydroprogne,4ZVB,2481219,4ZVB,2481219
+B1815:1:536,Hydroprogne caspia,,Hydroprogne,,caspia,,species,,B1815:1,accepted,,,B1815:1:535,Hydroprogne,,,,,Sternidae,,Hydroprogne,,Sternidae | Hydroprogne,Hydroprogne caspia,3N8ZF,2481236,3N8ZF,2481236
+B1815:1:537,Sterna,,,,,,genus,,B1815:1,accepted,,,B1815:1:528,Sternidae,,,,,Sternidae,,Sterna,,Sternidae,Sterna,7N8Q,2481227,7N8Q,2481227
+B1815:1:538,Sterna sandvicensis,,Sterna,,sandvicensis,,species,,B1815:1,accepted,,,B1815:1:537,Sterna,,,,,Sternidae,,Sterna,,Sternidae | Sterna,Sterna sandvicensis,6ZSDH,5229223,7C5FT,2481240
+B1815:1:539,Sterna paradisaea,,Sterna,,paradisaea,,species,,B1815:1,accepted,,,B1815:1:537,Sterna,,,,,Sternidae,,Sterna,,Sternidae | Sterna,Sterna paradisaea,6ZSDC,5229230,6ZSDC,5229230
+B1815:1:540,Sterna hirundo,,Sterna,,hirundo,,species,,B1815:1,accepted,,,B1815:1:537,Sterna,,,,,Sternidae,,Sterna,,Sternidae | Sterna,Sterna hirundo,6ZSCT,9367409,6ZSCT,9367409
+B1815:1:541,Sternula,,,,,,genus,,B1815:1,accepted,,,B1815:1:528,Sternidae,,,,,Sternidae,,Sternula,,Sternidae,Sternula,63TYM,4849628,63TYM,4849628
+B1815:1:542,Sternula albifrons,,Sternula,,albifrons,,species,,B1815:1,accepted,,,B1815:1:541,Sternula,,,,,Sternidae,,Sternula,,Sternidae | Sternula,Sternula albifrons,52G25,5789279,52G25,5789279
+B1815:1:543,Strigidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Strigidae,,,,,Strigidae,GQX,9348,GQX,9348
+B1815:1:544,Asio,,,,,,genus,,B1815:1,accepted,,,B1815:1:543,Strigidae,,,,,Strigidae,,Asio,,Strigidae,Asio,33VY,2497286,33VY,2497286
+B1815:1:545,Asio otus,,Asio,,otus,,species,,B1815:1,accepted,,,B1815:1:544,Asio,,,,,Strigidae,,Asio,,Strigidae | Asio,Asio otus,6866L,2497306,6866L,2497306
+B1815:1:546,Asio flammeus,,Asio,,flammeus,,species,,B1815:1,accepted,,,B1815:1:544,Asio,,,,,Strigidae,,Asio,,Strigidae | Asio,Asio flammeus,5W66M,2497295,5W66M,2497295
+B1815:1:547,Athene,,,,,,genus,,B1815:1,accepted,,,B1815:1:543,Strigidae,,,,,Strigidae,,Athene,,Strigidae,Athene,34YQ,2497239,34YQ,2497239
+B1815:1:548,Athene vidalii,,Athene,,vidalii,,species,,B1815:1,accepted,,,B1815:1:547,Athene,,,,,Strigidae,,Athene,,Strigidae | Athene,Athene vidalii,5VVC9,9268757,BN36J,6176003
+B1815:1:549,Bubo,,,,,,genus,,B1815:1,accepted,,,B1815:1:543,Strigidae,,,,,Strigidae,,Bubo,,Strigidae,Bubo,3DQQ,5959091,3DQQ,5959091
+B1815:1:550,Bubo bubo,,Bubo,,bubo,,species,,B1815:1,accepted,,,B1815:1:549,Bubo,,,,,Strigidae,,Bubo,,Strigidae | Bubo,Bubo bubo,NKSD,5959092,NKSD,5959092
+B1815:1:551,Bubo scandiacus,,Bubo,,scandiacus,,species,,B1815:1,accepted,,,B1815:1:549,Bubo,,,,,Strigidae,,Bubo,,Strigidae | Bubo,Bubo scandiacus,NKTJ,5959143,NKTJ,5959143
+B1815:1:552,Strix,,,,,,genus,,B1815:1,accepted,,,B1815:1:543,Strigidae,,,,,Strigidae,,Strix,,Strigidae,Strix,7PCR,2497486,7PCR,2497486
+B1815:1:553,Strix aluco,,Strix,,aluco,,species,,B1815:1,accepted,,,B1815:1:552,Strix,,,,,Strigidae,,Strix,,Strigidae | Strix,Strix aluco,532G9,9282206,532G9,9282206
+B1815:1:554,Surnia,,,,,,genus,,B1815:1,accepted,,,B1815:1:543,Strigidae,,,,,Strigidae,,Surnia,,Strigidae,Surnia,7QFY,2497893,7QFY,2497893
+B1815:1:555,Surnia ulula,,Surnia,,ulula,,species,,B1815:1,accepted,,,B1815:1:554,Surnia,,,,,Strigidae,,Surnia,,Strigidae | Surnia,Surnia ulula,53HF9,2497894,53HF9,2497894
+B1815:1:556,Sturnidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Sturnidae,,,,,Sturnidae,GRP,9350,GRP,9350
+B1815:1:557,Pastor,,,,,,genus,,B1815:1,accepted,,,B1815:1:556,Sturnidae,,,,,Sturnidae,,Pastor,,Sturnidae,Pastor,6JGW,7799469,6JGW,7799469
+B1815:1:558,Pastor roseus,,Pastor,,roseus,,species,,B1815:1,accepted,,,B1815:1:557,Pastor,,,,,Sturnidae,,Pastor,,Sturnidae | Pastor,Pastor roseus,4DZCM,5845386,4DZCM,5845386
+B1815:1:559,Sturnus,,,,,,genus,,B1815:1,accepted,,,B1815:1:556,Sturnidae,,,,,Sturnidae,,Sturnus,,Sturnidae,Sturnus,7PLY,2489099,7PLY,2489099
+B1815:1:560,Sturnus vulgaris,,Sturnus,,vulgaris,,species,,B1815:1,accepted,,,B1815:1:559,Sturnus,,,,,Sturnidae,,Sturnus,,Sturnidae | Sturnus,Sturnus vulgaris,5384V,9809229,5384V,9809229
+B1815:1:561,Sulidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Sulidae,,,,,Sulidae,626M3,9351,626M3,9351
+B1815:1:562,Morus,,,,,,genus,,B1815:1,accepted,,,B1815:1:561,Sulidae,,,,,Sulidae,,Morus,,Sulidae,Morus,5VCR,2480962,5VCR,2480962
+B1815:1:563,Morus bassanus,,Morus,,bassanus,,species,,B1815:1,accepted,,,B1815:1:562,Morus,,,,,Sulidae,,Morus,,Sulidae | Morus,Morus bassanus,7436N,2480964,7436N,2480964
+B1815:1:564,Sylviidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Sylviidae,,,,,Sylviidae,626LT,5285,626LT,5285
+B1815:1:565,Luscinia,,,,,,genus,,B1815:1,accepted,,,B1815:1:564,Sylviidae,,,,,Sylviidae,,Luscinia,,Sylviidae,Luscinia,5HCK,5429330,5HCK,5429330
+B1815:1:566,Luscinia svecica,,Luscinia,,svecica,,species,,B1815:1,accepted,,,B1815:1:565,Luscinia,,,,,Sylviidae,,Luscinia,,Sylviidae | Luscinia,Luscinia svecica,3WFWC,4408732,3WFWC,4408732
+B1815:1:567,Phylloscopus,,,,,,genus,,B1815:1,accepted,,,B1815:1:564,Sylviidae,,,,,Sylviidae,,Phylloscopus,,Sylviidae,Phylloscopus,6PRN,2493047,6PRN,2493047
+B1815:1:568,Phylloscopus trochilus,,Phylloscopus,,trochilus,,species,,B1815:1,accepted,,,B1815:1:567,Phylloscopus,,,,,Sylviidae,,Phylloscopus,,Sylviidae | Phylloscopus,Phylloscopus trochilus,77FNC,2493052,77FNC,2493052
+B1815:1:569,Phylloscopus collybita,,Phylloscopus,,collybita,,species,,B1815:1,accepted,,,B1815:1:567,Phylloscopus,,,,,Sylviidae,,Phylloscopus,,Sylviidae | Phylloscopus,Phylloscopus collybita,6VFMH,2493091,6VFMH,2493091
+B1815:1:570,Sylvia,,,,,,genus,,B1815:1,accepted,,,B1815:1:564,Sylviidae,,,,,Sylviidae,,Sylvia,,Sylviidae,Sylvia,7QQP,2492941,7QQP,2492941
+B1815:1:571,Sylvia curruca,,Sylvia,,curruca,,species,,B1815:1,accepted,,,B1815:1:570,Sylvia,,,,,Sylviidae,,Sylvia,,Sylviidae | Sylvia,Sylvia curruca,7B74C,2492960,7B74C,2492960
+B1815:1:572,Sylvia communis,,Sylvia,,communis,,species,,B1815:1,accepted,,,B1815:1:570,Sylvia,,,,,Sylviidae,,Sylvia,,Sylviidae | Sylvia,Sylvia communis,53N3R,2492943,53N3R,2492943
+B1815:1:573,Sylvia nisoria,,Sylvia,,nisoria,,species,,B1815:1,accepted,,,B1815:1:570,Sylvia,,,,,Sylviidae,,Sylvia,,Sylviidae | Sylvia,Sylvia nisoria,53N49,2492955,53N49,2492955
+B1815:1:574,Sylvia borin,,Sylvia,,borin,,species,,B1815:1,accepted,,,B1815:1:570,Sylvia,,,,,Sylviidae,,Sylvia,,Sylviidae | Sylvia,Sylvia borin,53N3M,2492942,53N3M,2492942
+B1815:1:575,Sylvia atricapilla,,Sylvia,,atricapilla,,species,,B1815:1,accepted,,,B1815:1:570,Sylvia,,,,,Sylviidae,,Sylvia,,Sylviidae | Sylvia,Sylvia atricapilla,53N3J,2492956,53N3J,2492956
+B1815:1:576,Threskiornithidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Threskiornithidae,,,,,Threskiornithidae,H89,5288,H89,5288
+B1815:1:577,Platalea,,,,,,genus,,B1815:1,accepted,,,B1815:1:576,Threskiornithidae,,,,,Threskiornithidae,,Platalea,,Threskiornithidae,Platalea,6RKC,2480798,6RKC,2480798
+B1815:1:578,Platalea leucorodia,,Platalea,,leucorodia,,species,,B1815:1,accepted,,,B1815:1:577,Platalea,,,,,Threskiornithidae,,Platalea,,Threskiornithidae | Platalea,Platalea leucorodia,4JMRD,2480801,4JMRD,2480801
+B1815:1:579,Plegadis,,,,,,genus,,B1815:1,accepted,,,B1815:1:576,Threskiornithidae,,,,,Threskiornithidae,,Plegadis,,Threskiornithidae,Plegadis,6SDS,8171676,6SDS,8171676
+B1815:1:580,Plegadis falcinellus,,Plegadis,,falcinellus,,species,,B1815:1,accepted,,,B1815:1:579,Plegadis,,,,,Threskiornithidae,,Plegadis,,Threskiornithidae | Plegadis,Plegadis falcinellus,4K62L,2480773,4K62L,2480773
+B1815:1:581,Threskiornis,,,,,,genus,,B1815:1,accepted,,,B1815:1:576,Threskiornithidae,,,,,Threskiornithidae,,Threskiornis,,Threskiornithidae,Threskiornis,7WB9,2480763,7WB9,2480763
+B1815:1:582,Threskiornis aethiopicus,,Threskiornis,,aethiopicus,,species,,B1815:1,accepted,,,B1815:1:581,Threskiornis,,,,,Threskiornithidae,,Threskiornis,,Threskiornithidae | Threskiornis,Threskiornis aethiopicus,56LQB,2480764,56LQB,2480764
+B1815:1:583,Timaliidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Timaliidae,,,,,Timaliidae,H9M,3241609,H9M,3241609
+B1815:1:584,Panurus,,,,,,genus,,B1815:1,accepted,,,B1815:1:583,Timaliidae,,,,,Timaliidae,,Panurus,,Timaliidae,Panurus,6DDT,2493366,6DDT,2493366
+B1815:1:585,Panurus biarmicus,,Panurus,,biarmicus,,species,,B1815:1,accepted,,,B1815:1:584,Panurus,,,,,Timaliidae,,Panurus,,Timaliidae | Panurus,Panurus biarmicus,4CHSV,2493367,4CHSV,2493367
+B1815:1:586,Troglodytidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Troglodytidae,,,,,Troglodytidae,626S2,9355,626S2,9355
+B1815:1:587,Nannus,,,,,,genus,,B1815:1,accepted,,,B1815:1:586,Troglodytidae,,,,,Troglodytidae,,Nannus,,Troglodytidae,Nannus,63CJD,4847151,647TW,2493899
+B1815:1:588,Nannus troglodytes,,Nannus,,troglodytes,,species,,B1815:1,accepted,,,B1815:1:587,Nannus,,,,,Troglodytidae,,Nannus,,Troglodytidae | Nannus,Nannus troglodytes,6S4M4,8117862,598TT,5231438
+B1815:1:589,Turdidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Turdidae,,,,,Turdidae,HLW,5290,HLW,5290
+B1815:1:590,Turdus,,,,,,genus,,B1815:1,accepted,,,B1815:1:589,Turdidae,,,,,Turdidae,,Turdus,,Turdidae,Turdus,647VS,2490714,647VS,2490714
+B1815:1:591,Turdus torquatus,,Turdus,,torquatus,,species,,B1815:1,accepted,,,B1815:1:590,Turdus,,,,,Turdidae,,Turdus,,Turdidae | Turdus,Turdus torquatus,59PND,7865305,59PND,7865305
+B1815:1:592,Turdus viscivorus,,Turdus,,viscivorus,,species,,B1815:1,accepted,,,B1815:1:590,Turdus,,,,,Turdidae,,Turdus,,Turdidae | Turdus,Turdus viscivorus,59PNF,2490774,59PNF,2490774
+B1815:1:593,Turdus iliacus,,Turdus,,iliacus,,species,,B1815:1,accepted,,,B1815:1:590,Turdus,,,,,Turdidae,,Turdus,,Turdidae | Turdus,Turdus iliacus,59PLT,2490781,59PLT,2490781
+B1815:1:594,Turdus pilaris,,Turdus,,pilaris,,species,,B1815:1,accepted,,,B1815:1:590,Turdus,,,,,Turdidae,,Turdus,,Turdidae | Turdus,Turdus pilaris,59PMS,2490737,59PMS,2490737
+B1815:1:595,Turdus merula,,Turdus,,merula,,species,,B1815:1,accepted,,,B1815:1:590,Turdus,,,,,Turdidae,,Turdus,,Turdidae | Turdus,Turdus merula,7CYVX,2490719,7CYVX,2490719
+B1815:1:596,Turdus philomelos,,Turdus,,philomelos,,species,,B1815:1,accepted,,,B1815:1:590,Turdus,,,,,Turdidae,,Turdus,,Turdidae | Turdus,Turdus philomelos,59PMR,7901064,59PMR,7901064
+B1815:1:597,Tytonidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Tytonidae,,,,,Tytonidae,HMY,5292,HMY,5292
+B1815:1:598,Tyto,,,,,,genus,,B1815:1,accepted,,,B1815:1:597,Tytonidae,,,,,Tytonidae,,Tyto,,Tytonidae,Tyto,6488W,2497905,6488W,2497905
+B1815:1:599,Tyto alba,,Tyto,,alba,,species,,B1815:1,accepted,,,B1815:1:598,Tyto,,,,,Tytonidae,,Tyto,,Tytonidae | Tyto,Tyto alba,59ZVQ,2497921,59ZVQ,2497921
+B1815:1:600,Upupidae,,,,,,family,,B1815:1,accepted,,,,,,,,,Upupidae,,,,,Upupidae,626S6,5293,626S6,5293
+B1815:1:601,Upupa,,,,,,genus,,B1815:1,accepted,,,B1815:1:600,Upupidae,,,,,Upupidae,,Upupa,,Upupidae,Upupa,8528,8349133,8528,8349133
+B1815:1:602,Upupa epops,,Upupa,,epops,,species,,B1815:1,accepted,,,B1815:1:601,Upupa,,,,,Upupidae,,Upupa,,Upupidae | Upupa,Upupa epops,7DLHC,2498415,7DLHC,2498415
