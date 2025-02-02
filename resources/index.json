@@ -433,6 +433,48 @@
     "id": "B47:1",
     "taxonCount": 88
   },
+  "B48:1": {
+    "levels": [
+      "order",
+      "family"
+    ],
+    "catalog": {
+      "pages": "12-13"
+    },
+    "id": "B48:1",
+    "taxonCount": 7
+  },
+  "B48:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "group",
+      "species"
+    ],
+    "catalog": {
+      "key_type": [
+        "key"
+      ]
+    },
+    "id": "B48:2",
+    "taxonCount": 819
+  },
+  "B48:3": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe"
+    ],
+    "catalog": {
+      "title": [
+        "Schlüssel für die höheren Kategorien"
+      ],
+      "pages": "94-96, 124"
+    },
+    "id": "B48:3",
+    "taxonCount": 35
+  },
   "B49:1": {
     "levels": [
       "species"
@@ -488,6 +530,13 @@
     ],
     "id": "B58:1",
     "taxonCount": 3
+  },
+  "B59:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B59:1",
+    "taxonCount": 64
   },
   "B63:1": {
     "levels": [

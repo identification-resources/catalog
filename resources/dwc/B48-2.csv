@@ -1,0 +1,820 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B48:2:1,Tachinidae,,,,,,family,,B48:2,accepted,,,,,,,,,Tachinidae,,,,,Tachinidae,GVY,6918,GVY,6918
+B48:2:2,Gastrolepta,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Gastrolepta,,Tachinidae,Gastrolepta,BYDJW,5058315,BYDJW,5058315
+B48:2:3,Gastrolepta anthracina Meig.,Meig.,Gastrolepta,,anthracina,,species,,B48:2,accepted,,,B48:2:2,Gastrolepta,,,,,Tachinidae,,Gastrolepta,,Tachinidae | Gastrolepta,anthracina Meig.,6K9SK,5058316,6K9SK,5058316
+B48:2:4,Dexiosoma,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Dexiosoma,,Tachinidae,Dexiosoma,BYBNQ,1467090,BYBNQ,1467090
+B48:2:5,Dexiosoma caninum F.,F.,Dexiosoma,,caninum,,species,,B48:2,accepted,,,B48:2:4,Dexiosoma,,,,,Tachinidae,,Dexiosoma,,Tachinidae | Dexiosoma,caninum F.,3567H,4515025,3567H,4515025
+B48:2:6,Microphthalma,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Microphthalma,,Tachinidae,Microphthalma,BYJ6K,1466178,BYJ6K,1466178
+B48:2:7,Microphthalma europaea Egg.,Egg.,Microphthalma,,europaea,,species,,B48:2,accepted,,,B48:2:6,Microphthalma,,,,,Tachinidae,,Microphthalma,,Tachinidae | Microphthalma,europaea Egg.,73J42,1466205,73J42,1466205
+B48:2:8,Chaetoptilia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Chaetoptilia,,Tachinidae,Chaetoptilia,,10105418,,1475127
+B48:2:9,Chaetoptilia puella Rond.,Rond.,Chaetoptilia,,puella,,species,,B48:2,accepted,,,B48:2:8,Chaetoptilia,,,,,Tachinidae,,Chaetoptilia,,Tachinidae | Chaetoptilia,puella Rond.,,10578547,,1475131
+B48:2:10,Prosena,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Prosena,,Tachinidae,Prosena,BY3Y8,1472196,BY3Y8,1472196
+B48:2:11,Prosena siberita F.,F.,Prosena,,siberita,,species,,B48:2,accepted,,,B48:2:10,Prosena,,,,,Tachinidae,,Prosena,,Tachinidae | Prosena,siberita F.,4MVGF,1472219,4MVGF,1472219
+B48:2:12,Villanovia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Villanovia,,Tachinidae,Villanovia,BYSRF,1469501,BYSRF,1469501
+B48:2:13,Villanovia villicornis Zett.,Zett.,Villanovia,,villicornis,,species,,B48:2,accepted,,,B48:2:12,Villanovia,,,,,Tachinidae,,Villanovia,,Tachinidae | Villanovia,villicornis Zett.,5BF5X,4515137,5BF5X,4515137
+B48:2:14,Stomina,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Stomina,,Tachinidae,Stomina,BYQYT,1503443,BYQYT,1503443
+B48:2:15,Stomina tachinoides Fall.,Fall.,Stomina,,tachinoides,,species,,B48:2,accepted,,,B48:2:14,Stomina,,,,,Tachinidae,,Stomina,,Tachinidae | Stomina,tachinoides Fall.,6ZV8G,1503444,6ZV8G,1503444
+B48:2:16,Phyllomya,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Phyllomya,,Tachinidae,Phyllomya,BYMHG,1462153,BYMHG,1462153
+B48:2:17,Phyllomya volvulus F.,F.,Phyllomya,,volvulus,,species,,B48:2,accepted,,,B48:2:16,Phyllomya,,,,,Tachinidae,,Phyllomya,,Tachinidae | Phyllomya,volvulus F.,4H7WF,4515122,4H7WF,4515122
+B48:2:18,Mintho,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Mintho,,Tachinidae,Mintho,BYJ9P,1465088,BYJ9P,1465088
+B48:2:19,Mintho rufiventris Fall.,Fall.,Mintho,,rufiventris,,species,,B48:2,accepted,,,B48:2:18,Mintho,,,,,Tachinidae,,Mintho,,Tachinidae | Mintho,rufiventris Fall.,,4515069,,4515069
+B48:2:20,Hyleorus,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Hyleorus,,Tachinidae,Hyleorus,BY2DV,1478624,BY2DV,1478624
+B48:2:21,Hyleorus elatus Meig.,Meig.,Hyleorus,,elatus,,species,,B48:2,accepted,,,B48:2:20,Hyleorus,,,,,Tachinidae,,Hyleorus,,Tachinidae | Hyleorus,elatus Meig.,3NF3K,1478627,3NF3K,1478627
+B48:2:22,Voria,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Voria,,Tachinidae,Voria,BY4Z6,1466075,BY4Z6,1466075
+B48:2:23,Voria ruralis Fall.,Fall.,Voria,,ruralis,,species,,B48:2,accepted,,,B48:2:22,Voria,,,,,Tachinidae,,Voria,,Tachinidae | Voria,ruralis Fall.,5BQY7,1466084,5BQY7,1466084
+B48:2:24,Chaetovoria,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Chaetovoria,,Tachinidae,Chaetovoria,BY9B4,1478723,BY9B4,1478723
+B48:2:25,Chaetovoria antennata Vill.,Vill.,Chaetovoria,,antennata,,species,,B48:2,accepted,,,B48:2:24,Chaetovoria,,,,,Tachinidae,,Chaetovoria,,Tachinidae | Chaetovoria,antennata Vill.,69QJJ,1478724,69QJJ,1478724
+B48:2:26,Klugia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Klugia,,Tachinidae,Klugia,BYGBF,1473260,BYGBF,1473260
+B48:2:27,Klugia marginata Meig.,Meig.,Klugia,,marginata,,species,,B48:2,accepted,,,B48:2:26,Klugia,,,,,Tachinidae,,Klugia,,Tachinidae | Klugia,marginata Meig.,3R9RP,1473262,3R9RP,1473262
+B48:2:28,Melisoneura,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Melisoneura,,Tachinidae,Melisoneura,BYHTF,1465962,BYHTF,1465962
+B48:2:29,Melisoneura leucoptera Meig.,Meig.,Melisoneura,,leucoptera,,species,,B48:2,accepted,,,B48:2:28,Melisoneura,,,,,Tachinidae,,Melisoneura,,Tachinidae | Melisoneura,leucoptera Meig.,6QY5N,1465963,6QY5N,1465963
+B48:2:30,Ocytata,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Ocytata,,Tachinidae,Ocytata,BYKJL,1469487,BYKJL,1469487
+B48:2:31,Ocytata pallipes Fall.,Fall.,Ocytata,,pallipes,,species,,B48:2,accepted,,,B48:2:30,Ocytata,,,,,Tachinidae,,Ocytata,,Tachinidae | Ocytata,pallipes Fall.,48MQV,1469490,48MQV,1469490
+B48:2:32,Demoticus,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Demoticus,,Tachinidae,Demoticus,BYBLR,1471091,BYBLR,1471091
+B48:2:33,Demoticus amorphus Vill.,Vill.,Demoticus,,amorphus,,species,,B48:2,accepted,,,B48:2:32,Demoticus,,,,,Tachinidae,,Demoticus,,Tachinidae | Demoticus,amorphus Vill.,34LT2,1471092,34LT2,1471092
+B48:2:34,Demoticus plebejus Fall.,Fall.,Demoticus,,plebejus,,species,,B48:2,accepted,,,B48:2:32,Demoticus,,,,,Tachinidae,,Demoticus,,Tachinidae | Demoticus,plebejus Fall.,34LT4,1471094,34LT4,1471094
+B48:2:35,Periscepsia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Periscepsia,,Tachinidae,Periscepsia,BXXJV,1474922,BXXJV,1474922
+B48:2:36,Periscepsia carbonaria Panz.,Panz.,Periscepsia,,carbonaria,,species,,B48:2,accepted,,,B48:2:35,Periscepsia,,,,,Tachinidae,,Periscepsia,,Tachinidae | Periscepsia,carbonaria Panz.,8D8YH,1474953,8D8YH,1474953
+B48:2:37,Erynnia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Erynnia,,Tachinidae,Erynnia,BYCQL,1469409,BYCQL,1469409
+B48:2:38,Erynnia ocypterata Fall.,Fall.,Erynnia,,ocypterata,,species,,B48:2,accepted,,,B48:2:37,Erynnia,,,,,Tachinidae,,Erynnia,,Tachinidae | Erynnia,ocypterata Fall.,3BB9Q,1469413,3BB9Q,1469413
+B48:2:39,Baumhaueria,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Baumhaueria,,Tachinidae,Baumhaueria,BY83S,1475040,BY83S,1475040
+B48:2:40,Baumhaueria goniaeformis Meig.,Meig.,Baumhaueria,,goniaeformis,,species,,B48:2,accepted,,,B48:2:39,Baumhaueria,,,,,Tachinidae,,Baumhaueria,,Tachinidae | Baumhaueria,goniaeformis Meig.,L4JT,1475043,L4JT,1475043
+B48:2:41,Minthodes,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Minthodes,,Tachinidae,Minthodes,BYJ9Q,1465405,BYJ9Q,1465405
+B48:2:42,Minthodes picta Zett.,Zett.,Minthodes,,picta,,species,,B48:2,accepted,,,B48:2:41,Minthodes,,,,,Tachinidae,,Minthodes,,Tachinidae | Minthodes,picta Zett.,6RLVJ,1465413,6RLVJ,1465413
+B48:2:43,Tryphera,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Tryphera,,Tachinidae,Tryphera,BYS9N,1470543,BYS9N,1470543
+B48:2:44,Tryphera lugubris Meig.,Meig.,Tryphera,,lugubris,,species,,B48:2,accepted,,,B48:2:43,Tryphera,,,,,Tachinidae,,Tryphera,,Tachinidae | Tryphera,lugubris Meig.,7CY5J,5058741,7CY5J,5058741
+B48:2:45,Lypha,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Lypha,,Tachinidae,Lypha,BYH8S,1460282,BYH8S,1460282
+B48:2:46,Lypha dubia Fall.,Fall.,Lypha,,dubia,,species,,B48:2,accepted,,,B48:2:45,Lypha,,,,,Tachinidae,,Lypha,,Tachinidae | Lypha,dubia Fall.,72QXF,1460307,72QXF,1460307
+B48:2:47,Sarromyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Sarromyia,,Tachinidae,Sarromyia,BYPSC,1465495,BYPSC,1465495
+B48:2:48,Sarromyia nubigena Pkn.,Pkn.,Sarromyia,,nubigena,,species,,B48:2,accepted,,,B48:2:47,Sarromyia,,,,,Tachinidae,,Sarromyia,,Tachinidae | Sarromyia,nubigena Pkn.,6XPM7,1465496,6XPM7,1465496
+B48:2:49,Trichactia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Trichactia,,Tachinidae,Trichactia,BY2HN,1462899,BY2HN,1462899
+B48:2:50,Trichactia pictiventris Zett.,Zett.,Trichactia,,pictiventris,,species,,B48:2,accepted,,,B48:2:49,Trichactia,,,,,Tachinidae,,Trichactia,,Tachinidae | Trichactia,pictiventris Zett.,5879F,1462900,5879F,1462900
+B48:2:51,Synactia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Synactia,,Tachinidae,Synactia,BYR79,1462148,BYR79,1462148
+B48:2:52,Synactia parvula Rond.,Rond.,Synactia,,parvula,,species,,B48:2,accepted,,,B48:2:51,Synactia,,,,,Tachinidae,,Synactia,,Tachinidae | Synactia,parvula Rond.,53SRR,1462150,53SRR,1462150
+B48:2:53,Pandelleia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Pandelleia,,Tachinidae,Pandelleia,BYL84,1460353,BYL84,1460353
+B48:2:54,Pandelleia otiorrhynchi Vill.,Vill.,Pandelleia,,otiorrhynchi,,species,,B48:2,accepted,,,B48:2:53,Pandelleia,,,,,Tachinidae,,Pandelleia,,Tachinidae | Pandelleia,otiorrhynchi Vill.,4CBM9,1460370,4CBM9,1460370
+B48:2:55,Microsoma,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Microsoma,,Tachinidae,Microsoma,BYJ7H,1477591,BYJ7H,1477591
+B48:2:56,Microsoma exiguum Meig.,Meig.,Microsoma,,exiguum,,species,,B48:2,accepted,,,B48:2:55,Microsoma,,,,,Tachinidae,,Microsoma,,Tachinidae | Microsoma,exiguum Meig.,436G3,5765996,436G3,5765996
+B48:2:57,Pseudopachystylum,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Pseudopachystylum,,Tachinidae,Pseudopachystylum,BYNPL,1462259,BYNPL,1462259
+B48:2:58,Pseudopachystylum gonioides Zett.,Zett.,Pseudopachystylum,,gonioides,,species,,B48:2,accepted,,,B48:2:57,Pseudopachystylum,,,,,Tachinidae,,Pseudopachystylum,,Tachinidae | Pseudopachystylum,gonioides Zett.,4P5MT,1462262,4P5MT,1462262
+B48:2:59,Zophomyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Zophomyia,,Tachinidae,Zophomyia,BYT97,1477123,BYT97,1477123
+B48:2:60,Zophomyia temula Scop.,Scop.,Zophomyia,,temula,,species,,B48:2,accepted,,,B48:2:59,Zophomyia,,,,,Tachinidae,,Zophomyia,,Tachinidae | Zophomyia,temula Scop.,7GGQ4,1477126,7GGQ4,1477126
+B48:2:61,Triarthria,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Triarthria,,Tachinidae,Triarthria,BY4TT,1462782,BY4TT,1462782
+B48:2:62,Triarthria setipennis Fall.,Fall.,Triarthria,,setipennis,,species,,B48:2,accepted,,,B48:2:61,Triarthria,,,,,Tachinidae,,Triarthria,,Tachinidae | Triarthria,setipennis Fall.,585M4,1462784,585M4,1462784
+B48:2:63,Neaera,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Neaera,,Tachinidae,Neaera,BYJQ7,1462939,BYJQ7,1462939
+B48:2:64,Neaera laticornis Meig.,Meig.,Neaera,,laticornis,,species,,B48:2,accepted,,,B48:2:63,Neaera,,,,,Tachinidae,,Neaera,,Tachinidae | Neaera,laticornis Meig.,45XNC,1462940,45XNC,1462940
+B48:2:65,Gwenda,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Gwenda,,Tachinidae,Gwenda,C25ZC,1463139,BYMK4,1463261
+B48:2:66,Gwenda canella Hert.,Hert.,Gwenda,,canella,,species,,B48:2,accepted,,,B48:2:65,Gwenda,,,,,Tachinidae,,Gwenda,,Tachinidae | Gwenda,canella Hert.,,,,
+B48:2:67,Macroprosopa,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Macroprosopa,,Tachinidae,Macroprosopa,BYHC3,1462520,BYHC3,1462520
+B48:2:68,Macroprosopa atrata Fall.,Fall.,Macroprosopa,,atrata,,species,,B48:2,accepted,,,B48:2:67,Macroprosopa,,,,,Tachinidae,,Macroprosopa,,Tachinidae | Macroprosopa,atrata Fall.,3X8PH,1462521,3X8PH,1462521
+B48:2:69,Petagnia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Petagnia,,Tachinidae,Petagnia,BYM75,1478500,BYM75,1478500
+B48:2:70,Petagnia subpetiolata Rond.,Rond.,Petagnia,,subpetiolata,,species,,B48:2,accepted,,,B48:2:69,Petagnia,,,,,Tachinidae,,Petagnia,,Tachinidae | Petagnia,subpetiolata Rond.,92VYC,5060142,92VYC,5060142
+B48:2:71,Buquetia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Buquetia,,Tachinidae,Buquetia,BY8MD,1472671,BY8MD,1472671
+B48:2:72,Buquetia musca R.D.,R.D.,Buquetia,,musca,,species,,B48:2,accepted,,,B48:2:71,Buquetia,,,,,Tachinidae,,Buquetia,,Tachinidae | Buquetia,musca R.D.,5X5S5,1472672,5X5S5,1472672
+B48:2:73,Rhaphiochaeta,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Rhaphiochaeta,,Tachinidae,Rhaphiochaeta,BYP9V,1472118,BYP9V,1472118
+B48:2:74,Rhaphiochaeta breviseta Zett.,Zett.,Rhaphiochaeta,,breviseta,,species,,B48:2,accepted,,,B48:2:73,Rhaphiochaeta,,,,,Tachinidae,,Rhaphiochaeta,,Tachinidae | Rhaphiochaeta,breviseta Zett.,4S4G3,1472119,4S4G3,1472119
+B48:2:75,Smidtia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Smidtia,,Tachinidae,Smidtia,BYQGT,1477232,BYQGT,1477232
+B48:2:76,Smidtia conspersa Meig.,Meig.,Smidtia,,conspersa,,species,,B48:2,accepted,,,B48:2:75,Smidtia,,,,,Tachinidae,,Smidtia,,Tachinidae | Smidtia,conspersa Meig.,4XW64,1477235,4XW64,1477235
+B48:2:77,Timavia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Timavia,,Tachinidae,Timavia,BYXM9,1472161,BYXM9,1472161
+B48:2:78,Timavia amoena Meig.,Meig.,Timavia,,amoena,,species,,B48:2,accepted,,,B48:2:77,Timavia,,,,,Tachinidae,,Timavia,,Tachinidae | Timavia,amoena Meig.,,1472179,,4514900
+B48:2:79,Epicampocera,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Epicampocera,,Tachinidae,Epicampocera,BYCLD,1472497,BYCLD,1472497
+B48:2:80,Epicampocera succincta Meig.,Meig.,Epicampocera,,succincta,,species,,B48:2,accepted,,,B48:2:79,Epicampocera,,,,,Tachinidae,,Epicampocera,,Tachinidae | Epicampocera,succincta Meig.,6FRGT,1472498,6FRGT,1472498
+B48:2:81,Nemoraea,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Nemoraea,,Tachinidae,Nemoraea,BY36F,1460816,BY36F,1460816
+B48:2:82,Nemoraea pellucida Meig.,Meig.,Nemoraea,,pellucida,,species,,B48:2,accepted,,,B48:2:81,Nemoraea,,,,,Tachinidae,,Nemoraea,,Tachinidae | Nemoraea,pellucida Meig.,468Y3,1460849,468Y3,1460849
+B48:2:83,Chrysosomopsis,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Chrysosomopsis,,Tachinidae,Chrysosomopsis,BY9LV,1462588,BY9LV,1462588
+B48:2:84,Chrysosomopsis auratus Fall.,Fall.,Chrysosomopsis,,auratus,,species,,B48:2,accepted,,,B48:2:83,Chrysosomopsis,,,,,Tachinidae,,Chrysosomopsis,,Tachinidae | Chrysosomopsis,auratus Fall.,BZ549,4515033,BZ549,1478436
+B48:2:85,Eloceria,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Eloceria,,Tachinidae,Eloceria,BYCCJ,1474100,BYCCJ,1474100
+B48:2:86,Eloceria delecta Meig.,Meig.,Eloceria,,delecta,,species,,B48:2,accepted,,,B48:2:85,Eloceria,,,,,Tachinidae,,Eloceria,,Tachinidae | Eloceria,delecta Meig.,39C7C,1474107,39C7C,1474107
+B48:2:87,Lydina,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Lydina,,Tachinidae,Lydina,BYH8C,1469426,BYH8C,1469426
+B48:2:88,Lydina aenea Meig.,Meig.,Lydina,,aenea,,species,,B48:2,accepted,,,B48:2:87,Lydina,,,,,Tachinidae,,Lydina,,Tachinidae | Lydina,aenea Meig.,3WNVF,1469433,3WNVF,1469433
+B48:2:89,Emporomyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Emporomyia,,Tachinidae,Emporomyia,BYCF3,1460796,BYCF3,1460796
+B48:2:90,Emporomyia kaufmanni B.B.,B.B.,Emporomyia,,kaufmanni,,species,,B48:2,accepted,,,B48:2:89,Emporomyia,,,,,Tachinidae,,Emporomyia,,Tachinidae | Emporomyia,kaufmanni B.B.,39LM3,1460798,39LM3,1460798
+B48:2:91,Fausta,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Fausta,,Tachinidae,Fausta,BYD9D,1468177,BYD9D,1468177
+B48:2:92,Fausta nemorum Meig.,Meig.,Fausta,,nemorum,,species,,B48:2,accepted,,,B48:2:91,Fausta,,,,,Tachinidae,,Fausta,,Tachinidae | Fausta,nemorum Meig.,3DW6M,1468182,3DW6M,1468182
+B48:2:93,Appendicia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Appendicia,,Tachinidae,Appendicia,C23KB,4294813,BYL97,4294813
+B48:2:94,Appendicia truncata Zett.,Zett.,Appendicia,,truncata,,species,,B48:2,accepted,,,B48:2:93,Appendicia,,,,,Tachinidae,,Appendicia,,Tachinidae | Appendicia,truncata Zett.,,4515032,,5058965
+B48:2:95,Policheta,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Policheta,,Tachinidae,Policheta,BYMXD,1479195,BYMXD,1479195
+B48:2:96,Policheta unicolor Fall.,Fall.,Policheta,,unicolor,,species,,B48:2,accepted,,,B48:2:95,Policheta,,,,,Tachinidae,,Policheta,,Tachinidae | Policheta,unicolor Fall.,8DFYX,4514901,8DFYX,4514901
+B48:2:97,Hebia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Hebia,,Tachinidae,Hebia,BYF5V,1468999,BYF5V,1468999
+B48:2:98,Hebia flavipes R.D.,R.D.,Hebia,,flavipes,,species,,B48:2,accepted,,,B48:2:97,Hebia,,,,,Tachinidae,,Hebia,,Tachinidae | Hebia,flavipes R.D.,3JY7J,1469000,3JY7J,1469000
+B48:2:99,Trigonospila,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Trigonospila,,Tachinidae,Trigonospila,BY4WB,1468519,BY4WB,1468519
+B48:2:100,Trigonospila ludio Zett.,Zett.,Trigonospila,,ludio,,species,,B48:2,accepted,,,B48:2:99,Trigonospila,,,,,Tachinidae,,Trigonospila,,Tachinidae | Trigonospila,ludio Zett.,58T7H,1468533,58T7H,1468533
+B48:2:101,Redtenbacheria,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Redtenbacheria,,Tachinidae,Redtenbacheria,,1472461,,1472461
+B48:2:102,Redtenbacheria insignis Egg.,Egg.,Redtenbacheria,,insignis,,species,,B48:2,accepted,,,B48:2:101,Redtenbacheria,,,,,Tachinidae,,Redtenbacheria,,Tachinidae | Redtenbacheria,insignis Egg.,,5059054,,5059054
+B48:2:103,Halidaya,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Halidaya,,Tachinidae,Halidaya,BYR35,8887109,BY25B,8887109
+B48:2:104,Halidaya aurea Egg.,Egg.,Halidaya,,aurea,,species,,B48:2,accepted,,,B48:2:103,Halidaya,,,,,Tachinidae,,Halidaya,,Tachinidae | Halidaya,aurea Egg.,,8168264,,8168264
+B48:2:105,Leskia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Leskia,,Tachinidae,Leskia,BYGTH,1472523,BYGTH,1472523
+B48:2:106,Leskia aurea Egg.,Egg.,Leskia,,aurea,,species,,B48:2,accepted,,,B48:2:105,Leskia,,,,,Tachinidae,,Leskia,,Tachinidae | Leskia,aurea Egg.,6PRDW,5059067,6PRDW,5059067
+B48:2:107,Atylostoma,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Atylostoma,,Tachinidae,Atylostoma,BY7VD,1464390,BY7VD,1464390
+B48:2:108,Atylostoma tricolor Mik,Mik,Atylostoma,,tricolor,,species,,B48:2,accepted,,,B48:2:107,Atylostoma,,,,,Tachinidae,,Atylostoma,,Tachinidae | Atylostoma,tricolor Mik,JNM8,1464396,JNM8,1464396
+B48:2:109,Phenicellia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Phenicellia,,Tachinidae,Phenicellia,C28NK,4571460,BY4QH,4571460
+B48:2:110,Phenicellia haematodes Meig.,Meig.,Phenicellia,,haematodes,,species,,B48:2,accepted,,,B48:2:109,Phenicellia,,,,,Tachinidae,,Phenicellia,,Tachinidae | Phenicellia,haematodes Meig.,,4515106,,1468133
+B48:2:111,Atylomyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Atylomyia,,Tachinidae,Atylomyia,BY7VC,1471902,BY7VC,1471902
+B48:2:112,Atylomyia loewi Brauer,Brauer,Atylomyia,,loewi,,species,,B48:2,accepted,,,B48:2:111,Atylomyia,,,,,Tachinidae,,Atylomyia,,Tachinidae | Atylomyia,loewi Brauer,JNJQ,1471903,JNJQ,1471903
+B48:2:113,Prosethilla,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Prosethilla,,Tachinidae,Prosethilla,BYNB3,1471834,BYNB3,1471834
+B48:2:114,Prosethilla kramerella Stein,Stein,Prosethilla,,kramerella,,species,,B48:2,accepted,,,B48:2:113,Prosethilla,,,,,Tachinidae,,Prosethilla,,Tachinidae | Prosethilla,kramerella Stein,4MVK4,1471835,4MVK4,1471835
+B48:2:115,Ethilla,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Ethilla,,Tachinidae,Ethilla,BXZVD,1471865,BXZVD,1471865
+B48:2:116,Ethilla aemula Meig.,Meig.,Ethilla,,aemula,,species,,B48:2,accepted,,,B48:2:115,Ethilla,,,,,Tachinidae,,Ethilla,,Tachinidae | Ethilla,aemula Meig.,3BL8L,1471868,3BL8L,1471868
+B48:2:117,Neophryxe,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Neophryxe,,Tachinidae,Neophryxe,BYK2J,1469005,BYK2J,1469005
+B48:2:118,Neophryxe vallina Rond.,Rond.,Neophryxe,,vallina,,species,,B48:2,accepted,,,B48:2:117,Neophryxe,,,,,Tachinidae,,Neophryxe,,Tachinidae | Neophryxe,vallina Rond.,7483D,1469006,7483D,1469006
+B48:2:119,Phorinia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Phorinia,,Tachinidae,Phorinia,BY3R4,1470475,BY3R4,1470475
+B48:2:120,Phorinia aurifrons R.D.,R.D.,Phorinia,,aurifrons,,species,,B48:2,accepted,,,B48:2:119,Phorinia,,,,,Tachinidae,,Phorinia,,Tachinidae | Phorinia,aurifrons R.D.,4GRFQ,5058732,4GRFQ,5058732
+B48:2:121,Diplostichus,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Diplostichus,,Tachinidae,Diplostichus,C255D,1466824,BXZ7H,1466824
+B48:2:122,Diplostichus janitrix Hart.,Hart.,Diplostichus,,janitrix,,species,,B48:2,accepted,,,B48:2:121,Diplostichus,,,,,Tachinidae,,Diplostichus,,Tachinidae | Diplostichus,janitrix Hart.,,4514843,,1468636
+B48:2:123,Parasetigena,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Parasetigena,,Tachinidae,Parasetigena,BYLNT,1477396,BYLNT,1477396
+B48:2:124,Parasetigena silvestris R.D.,R.D.,Parasetigena,,silvestris,,species,,B48:2,accepted,,,B48:2:123,Parasetigena,,,,,Tachinidae,,Parasetigena,,Tachinidae | Parasetigena,silvestris R.D.,4DBZX,1477397,4DBZX,1477397
+B48:2:125,Ligeriella,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Ligeriella,,Tachinidae,Ligeriella,BYGXD,1466068,BYGXD,1466068
+B48:2:126,Ligeriella aristata Vill.,Vill.,Ligeriella,,aristata,,species,,B48:2,accepted,,,B48:2:125,Ligeriella,,,,,Tachinidae,,Ligeriella,,Tachinidae | Ligeriella,aristata Vill.,729NG,1466069,729NG,1466069
+B48:2:127,Ligeria,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Ligeria,,Tachinidae,Ligeria,BYGXC,1471306,BYGXC,1471306
+B48:2:128,Ligeria angusticornis Loew,Loew,Ligeria,,angusticornis,,species,,B48:2,accepted,,,B48:2:127,Ligeria,,,,,Tachinidae,,Ligeria,,Tachinidae | Ligeria,angusticornis Loew,729NL,5058844,729NL,5058844
+B48:2:129,Staurochaeta,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Staurochaeta,,Tachinidae,Staurochaeta,BYQRV,1470373,BYQRV,1470373
+B48:2:130,Staurochaeta albocingulata Fall.,Fall.,Staurochaeta,,albocingulata,,species,,B48:2,accepted,,,B48:2:129,Staurochaeta,,,,,Tachinidae,,Staurochaeta,,Tachinidae | Staurochaeta,albocingulata Fall.,4ZM28,5058683,4ZM28,5058683
+B48:2:131,Paracraspedothrix,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Paracraspedothrix,,Tachinidae,Paracraspedothrix,BYZMQ,1471124,BY99Y,1471124
+B48:2:132,Paracraspedothrix montivaga Vill.,Vill.,Paracraspedothrix,,montivaga,,species,,B48:2,accepted,,,B48:2:131,Paracraspedothrix,,,,,Tachinidae,,Paracraspedothrix,,Tachinidae | Paracraspedothrix,montivaga Vill.,8D6DS,1471125,5XP2C,5978582
+B48:2:133,Robinaldia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Robinaldia,,Tachinidae,Robinaldia,BYPHL,1471567,BYPHL,1471567
+B48:2:134,Robinaldia angustata Vill.,Vill.,Robinaldia,,angustata,,species,,B48:2,accepted,,,B48:2:133,Robinaldia,,,,,Tachinidae,,Robinaldia,,Tachinidae | Robinaldia,angustata Vill.,4T7WG,1471568,4T7WG,1471568
+B48:2:135,Picconia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Picconia,,Tachinidae,Picconia,BXXR7,1471449,BXXR7,1471449
+B48:2:136,Picconia incurva Zett.,Zett.,Picconia,,incurva,,species,,B48:2,accepted,,,B48:2:135,Picconia,,,,,Tachinidae,,Picconia,,Tachinidae | Picconia,incurva Zett.,4HPZC,1471452,4HPZC,1471452
+B48:2:137,Erynniopsis,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Erynniopsis,,Tachinidae,Erynniopsis,BYCQN,1471514,BYCQN,1471514
+B48:2:138,Erynniopsis antennata Rond.,Rond.,Erynniopsis,,antennata,,species,,B48:2,accepted,,,B48:2:137,Erynniopsis,,,,,Tachinidae,,Erynniopsis,,Tachinidae | Erynniopsis,antennata Rond.,3BB9Y,1471515,3BB9Y,1471515
+B48:2:139,Leiophora,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Leiophora,,Tachinidae,Leiophora,BYGPN,1470533,BYGPN,1470533
+B48:2:140,Leiophora innoxia Meig.,Meig.,Leiophora,,innoxia,,species,,B48:2,accepted,,,B48:2:139,Leiophora,,,,,Tachinidae,,Leiophora,,Tachinidae | Leiophora,innoxia Meig.,,1470534,,11140444
+B48:2:141,Compsilura,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Compsilura,,Tachinidae,Compsilura,BXZDV,1469140,BXZDV,1469140
+B48:2:142,Compsilura concinnata Meig.,Meig.,Compsilura,,concinnata,,species,,B48:2,accepted,,,B48:2:141,Compsilura,,,,,Tachinidae,,Compsilura,,Tachinidae | Compsilura,concinnata Meig.,XHD9,1469145,XHD9,1469145
+B48:2:143,Hemimacquartia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Hemimacquartia,,Tachinidae,Hemimacquartia,BYF8N,1470649,BYF8N,1470649
+B48:2:144,Hemimacquartia paradoxa B.B.,B.B.,Hemimacquartia,,paradoxa,,species,,B48:2,accepted,,,B48:2:143,Hemimacquartia,,,,,Tachinidae,,Hemimacquartia,,Tachinidae | Hemimacquartia,paradoxa B.B.,3KQ2X,1470650,3KQ2X,1470650
+B48:2:145,Zaira,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Zaira,,Tachinidae,Zaira,BYT69,1471793,BYT69,1471793
+B48:2:146,Zaira cinerea Fall.,Fall.,Zaira,,cinerea,,species,,B48:2,accepted,,,B48:2:145,Zaira,,,,,Tachinidae,,Zaira,,Tachinidae | Zaira,cinerea Fall.,7GBYB,5058933,7GBYB,5058933
+B48:2:147,Paratrixa,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Paratrixa,,Tachinidae,Paratrixa,BYLRK,1469595,BYLRK,1469595
+B48:2:148,Paratrixa polonica B.B.,B.B.,Paratrixa,,polonica,,species,,B48:2,accepted,,,B48:2:147,Paratrixa,,,,,Tachinidae,,Paratrixa,,Tachinidae | Paratrixa,polonica B.B.,75S65,1469596,75S65,1469596
+B48:2:149,Conogaster,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Conogaster,,Tachinidae,Conogaster,BY9XV,1468242,BY9XV,1468242
+B48:2:150,Conogaster pruinosa Meig.,Meig.,Conogaster,,pruinosa,,species,,B48:2,accepted,,,B48:2:149,Conogaster,,,,,Tachinidae,,Conogaster,,Tachinidae | Conogaster,pruinosa Meig.,XR2Y,1468243,XR2Y,1468243
+B48:2:151,Lomachantha,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Lomachantha,,Tachinidae,Lomachantha,BYH49,1470747,BYH49,1470747
+B48:2:152,Lomachantha parra Rond.,Rond.,Lomachantha,,parra,,species,,B48:2,accepted,,,B48:2:151,Lomachantha,,,,,Tachinidae,,Lomachantha,,Tachinidae | Lomachantha,parra Rond.,3VW2C,1470749,3VW2C,1470749
+B48:2:153,Euexorista,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Euexorista,,Tachinidae,Euexorista,BYCTJ,1475142,BYCTJ,1475142
+B48:2:154,Euexorista obumbrata Pand.,Pand.,Euexorista,,obumbrata,,species,,B48:2,accepted,,,B48:2:153,Euexorista,,,,,Tachinidae,,Euexorista,,Tachinidae | Euexorista,obumbrata Pand.,6H8JS,1475144,6H8JS,1475144
+B48:2:155,Ptesiomyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Ptesiomyia,,Tachinidae,Ptesiomyia,BYNWT,1472398,BYNWT,1472398
+B48:2:156,Ptesiomyia alacris Meig.,Meig.,Ptesiomyia,,alacris,,species,,B48:2,accepted,,,B48:2:155,Ptesiomyia,,,,,Tachinidae,,Ptesiomyia,,Tachinidae | Ptesiomyia,alacris Meig.,4Q7JP,1472401,4Q7JP,1472401
+B48:2:157,Thelymyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Thelymyia,,Tachinidae,Thelymyia,BYRQX,1472253,BYRQX,1472253
+B48:2:158,Thelymyia saltuum Meig.,Meig.,Thelymyia,,saltuum,,species,,B48:2,accepted,,,B48:2:157,Thelymyia,,,,,Tachinidae,,Thelymyia,,Tachinidae | Thelymyia,saltuum Meig.,569G5,1472254,569G5,1472254
+B48:2:159,Amelibaea,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Amelibaea,,Tachinidae,Amelibaea,BY6YD,1474204,BY6YD,1474204
+B48:2:160,Amelibaea tultschensis B.B.,B.B.,Amelibaea,,tultschensis,,species,,B48:2,accepted,,,B48:2:159,Amelibaea,,,,,Tachinidae,,Amelibaea,,Tachinidae | Amelibaea,tultschensis B.B.,CQTK,1474205,CQTK,1474205
+B48:2:161,Cadurciella,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Cadurciella,,Tachinidae,Cadurciella,BY8PG,1473932,BY8PG,1473932
+B48:2:162,Cadurciella tritaeniata Rond.,Rond.,Cadurciella,,tritaeniata,,species,,B48:2,accepted,,,B48:2:161,Cadurciella,,,,,Tachinidae,,Cadurciella,,Tachinidae | Cadurciella,tritaeniata Rond.,5WTC9,1473933,5WTC9,1473933
+B48:2:163,Huebneria,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Huebneria,,Tachinidae,Huebneria,BYFLH,1478367,BYFLC,1470710
+B48:2:164,Huebneria affinis Fall.,Fall.,Huebneria,,affinis,,species,,B48:2,accepted,,,B48:2:163,Huebneria,,,,,Tachinidae,,Huebneria,,Tachinidae | Huebneria,affinis Fall.,,7728713,,1470717
+B48:2:165,Catagonia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Catagonia,,Tachinidae,Catagonia,BY8Z3,1473350,BY8Z3,1473350
+B48:2:166,Catagonia aberrans Rond.,Rond.,Catagonia,,aberrans,,species,,B48:2,accepted,,,B48:2:165,Catagonia,,,,,Tachinidae,,Catagonia,,Tachinidae | Catagonia,aberrans Rond.,RRQV,1473351,RRQV,1473351
+B48:2:167,Madremyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Madremyia,,Tachinidae,Madremyia,BYHDK,1472773,BYHDK,1472773
+B48:2:168,Madremyia clausa Vill.,Vill.,Madremyia,,clausa,,species,,B48:2,accepted,,,B48:2:167,Madremyia,,,,,Tachinidae,,Madremyia,,Tachinidae | Madremyia,clausa Vill.,72TDZ,1472774,72TDZ,1472774
+B48:2:169,Phryno,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Phryno,,Tachinidae,Phryno,BYMGM,1468881,BYMGM,1468881
+B48:2:170,Phryno vetula Meig.,Meig.,Phryno,,vetula,,species,,B48:2,accepted,,,B48:2:169,Phryno,,,,,Tachinidae,,Phryno,,Tachinidae | Phryno,vetula Meig.,4GW7H,1468884,4GW7H,1468884
+B48:2:171,Platymya,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Platymya,,Tachinidae,Platymya,BYMQC,1477551,BYMQC,1477551
+B48:2:172,Platymya fimbriata Meig.,Meig.,Platymya,,fimbriata,,species,,B48:2,accepted,,,B48:2:171,Platymya,,,,,Tachinidae,,Platymya,,Tachinidae | Platymya,fimbriata Meig.,4JT2F,1477560,4JT2F,1477560
+B48:2:173,Aplomya,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Aplomya,,Tachinidae,Aplomya,BXYN2,1474749,BXYN2,1474749
+B48:2:174,Aplomya confinis Fall.,Fall.,Aplomya,,confinis,,species,,B48:2,accepted,,,B48:2:173,Aplomya,,,,,Tachinidae,,Aplomya,,Tachinidae | Aplomya,confinis Fall.,FPGX,1474793,FPGX,1474793
+B48:2:175,Alsomyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Alsomyia,,Tachinidae,Alsomyia,BY6WN,1474561,BY6WN,1474561
+B48:2:176,Alsomyia capillata Rond.,Rond.,Alsomyia,,capillata,,species,,B48:2,accepted,,,B48:2:175,Alsomyia,,,,,Tachinidae,,Alsomyia,,Tachinidae | Alsomyia,capillata Rond.,C7YR,1474567,C7YR,1474567
+B48:2:177,Tlephusa,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Tlephusa,,Tachinidae,Tlephusa,BYRWB,1477497,BYRWB,1477497
+B48:2:178,Tlephusa cincinna Rond.,Rond.,Tlephusa,,cincinna,,species,,B48:2,accepted,,,B48:2:177,Tlephusa,,,,,Tachinidae,,Tlephusa,,Tachinidae | Tlephusa,cincinna Rond.,579MG,1477499,579MG,1477499
+B48:2:179,Phonomyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Phonomyia,,Tachinidae,Phonomyia,BYMFM,11007678,BYMFM,11007678
+B48:2:180,Phonomyia aristata Rond.,Rond.,Phonomyia,,aristata,,species,,B48:2,accepted,,,B48:2:179,Phonomyia,,,,,Tachinidae,,Phonomyia,,Tachinidae | Phonomyia,aristata Rond.,4GQ8S,1470588,4GQ8S,1470588
+B48:2:181,Clemelis,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Clemelis,,Tachinidae,Clemelis,BY9PS,9809847,BY9PS,9809847
+B48:2:182,Clemelis pullata Meig.,Meig.,Clemelis,,pullata,,species,,B48:2,accepted,,,B48:2:181,Clemelis,,,,,Tachinidae,,Clemelis,,Tachinidae | Clemelis,pullata Meig.,VYQ3,1471194,VYQ3,1471194
+B48:2:183,Thelymorpha,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Thelymorpha,,Tachinidae,Thelymorpha,BYRQW,1468271,BYRQW,1468271
+B48:2:184,Thelymorpha marmorata F.,F.,Thelymorpha,,marmorata,,species,,B48:2,accepted,,,B48:2:183,Thelymorpha,,,,,Tachinidae,,Thelymorpha,,Tachinidae | Thelymorpha,marmorata F.,569G3,1468272,569G3,1468272
+B48:2:185,Frontina,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Frontina,,Tachinidae,Frontina,BYDG2,1476189,BYDG2,1476189
+B48:2:186,Frontina laeta Meig.,Meig.,Frontina,,laeta,,species,,B48:2,accepted,,,B48:2:185,Frontina,,,,,Tachinidae,,Frontina,,Tachinidae | Frontina,laeta Meig.,6JPG6,5059839,6JPG6,5059839
+B48:2:187,Periarchiclops,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Periarchiclops,,Tachinidae,Periarchiclops,BYM53,1476223,BYM53,1476223
+B48:2:188,Periarchiclops scutellaris Fall.,Fall.,Periarchiclops,,scutellaris,,species,,B48:2,accepted,,,B48:2:187,Periarchiclops,,,,,Tachinidae,,Periarchiclops,,Tachinidae | Periarchiclops,scutellaris Fall.,774Q4,1476224,774Q4,1476224
+B48:2:189,Brachicheta,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Brachicheta,,Tachinidae,Brachicheta,BY8FJ,7787218,BY8FJ,7787218
+B48:2:190,Brachicheta strigata Meig.,Meig.,Brachicheta,,strigata,,species,,B48:2,accepted,,,B48:2:189,Brachicheta,,,,,Tachinidae,,Brachicheta,,Tachinidae | Brachicheta,strigata Meig.,8FT52,4514886,8FT52,4514886
+B48:2:191,Prosopea,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Prosopea,,Tachinidae,Prosopea,BYNB9,1478398,BYNB9,1478398
+B48:2:192,Prosopea nigricans Egg.,Egg.,Prosopea,,nigricans,,species,,B48:2,accepted,,,B48:2:191,Prosopea,,,,,Tachinidae,,Prosopea,,Tachinidae | Prosopea,nigricans Egg.,4MW32,1478399,4MW32,1478399
+B48:2:193,Thelyconychia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Thelyconychia,,Tachinidae,Thelyconychia,BYRQV,1474472,BYRQV,1474472
+B48:2:194,Thelyconychia solivaga Rond.,Rond.,Thelyconychia,,solivaga,,species,,B48:2,accepted,,,B48:2:193,Thelyconychia,,,,,Tachinidae,,Thelyconychia,,Tachinidae | Thelyconychia,solivaga Rond.,7C6DM,1474482,7C6DM,1474482
+B48:2:195,Pelatachina,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Pelatachina,,Tachinidae,Pelatachina,BYLZ7,1477210,BYLZ7,1477210
+B48:2:196,Pelatachina tibialis Fall.,Fall.,Pelatachina,,tibialis,,species,,B48:2,accepted,,,B48:2:195,Pelatachina,,,,,Tachinidae,,Pelatachina,,Tachinidae | Pelatachina,tibialis Fall.,75Z6L,1477213,75Z6L,1477213
+B48:2:197,Pachystylum,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Pachystylum,,Tachinidae,Pachystylum,BYL2T,1477433,BYL2T,1477433
+B48:2:198,Pachystylum bremii Macq.,Macq.,Pachystylum,,bremii,,species,,B48:2,accepted,,,B48:2:197,Pachystylum,,,,,Tachinidae,,Pachystylum,,Tachinidae | Pachystylum,bremii Macq.,4BV9R,5058000,4BV9R,5058000
+B48:2:199,Masistylum,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Masistylum,,Tachinidae,Masistylum,BYHL3,1467484,BYHL3,1467484
+B48:2:200,Masistylum arcuataum Mik,Mik,Masistylum,,arcuataum,,species,,B48:2,accepted,,,B48:2:199,Masistylum,,,,,Tachinidae,,Masistylum,,Tachinidae | Masistylum,arcuataum Mik,3YBLT,1467486,3YBLT,1467486
+B48:2:201,Bactromyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Bactromyia,,Tachinidae,Bactromyia,BY7Y4,1473175,BY7Y4,1473175
+B48:2:202,Bactromyia aurulenta Meig.,Meig.,Bactromyia,,aurulenta,,species,,B48:2,accepted,,,B48:2:201,Bactromyia,,,,,Tachinidae,,Bactromyia,,Tachinidae | Bactromyia,aurulenta Meig.,KB24,1473183,KB24,1473183
+B48:2:203,Eurysthaea,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Eurysthaea,,Tachinidae,Eurysthaea,BYD4K,1469576,BYD4K,1469576
+B48:2:204,Eurysthaea scutellaris R.D.,R.D.,Eurysthaea,,scutellaris,,species,,B48:2,accepted,,,B48:2:203,Eurysthaea,,,,,Tachinidae,,Eurysthaea,,Tachinidae | Eurysthaea,scutellaris R.D.,3D6TH,1469579,3D6TH,1469579
+B48:2:205,Erythrocera,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Erythrocera,,Tachinidae,Erythrocera,BXZV8,1469751,BXZV8,1469751
+B48:2:206,Erythrocera nigripes R.D.,R.D.,Erythrocera,,nigripes,,species,,B48:2,accepted,,,B48:2:205,Erythrocera,,,,,Tachinidae,,Erythrocera,,Tachinidae | Erythrocera,nigripes R.D.,3BDJB,1469755,3BDJB,1469755
+B48:2:207,Rhacodinella,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Rhacodinella,,Tachinidae,Rhacodinella,BYP8W,1476155,BYP8W,1476155
+B48:2:208,Rhacodinella apicata Pand.,Pand.,Rhacodinella,,apicata,,species,,B48:2,accepted,,,B48:2:207,Rhacodinella,,,,,Tachinidae,,Rhacodinella,,Tachinidae | Rhacodinella,apicata Pand.,4RX5F,1476156,4RX5F,1476156
+B48:2:209,Townsendiellomyia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Townsendiellomyia,,Tachinidae,Townsendiellomyia,BYRY7,1478274,BYRY7,1478274
+B48:2:210,Townsendiellomyia nidicola Tns.,Tns.,Townsendiellomyia,,nidicola,,species,,B48:2,accepted,,,B48:2:209,Townsendiellomyia,,,,,Tachinidae,,Townsendiellomyia,,Tachinidae | Townsendiellomyia,nidicola Tns.,57L93,1478275,57L93,1478275
+B48:2:211,Sturmia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Sturmia,,Tachinidae,Sturmia,BY4KB,1477053,BY4KB,1477053
+B48:2:212,Sturmia bella Meig.,Meig.,Sturmia,,bella,,species,,B48:2,accepted,,,B48:2:211,Sturmia,,,,,Tachinidae,,Sturmia,,Tachinidae | Sturmia,bella Meig.,537WF,1477054,537WF,1477054
+B48:2:213,Pexopsis,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Pexopsis,,Tachinidae,Pexopsis,BYM7M,1464204,BYM7M,1464204
+B48:2:214,Pexopsis aprica Meig.,Meig.,Pexopsis,,aprica,,species,,B48:2,accepted,,,B48:2:213,Pexopsis,,,,,Tachinidae,,Pexopsis,,Tachinidae | Pexopsis,aprica Meig.,777VC,1464219,777VC,1464219
+B48:2:215,Thecocarcelia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Thecocarcelia,,Tachinidae,Thecocarcelia,BYRQD,1465048,BYRQD,1465048
+B48:2:216,Thecocarcelia acutangulata Macq.,Macq.,Thecocarcelia,,acutangulata,,species,,B48:2,accepted,,,B48:2:215,Thecocarcelia,,,,,Tachinidae,,Thecocarcelia,,Tachinidae | Thecocarcelia,acutangulata Macq.,566ZX,1465064,566ZX,1465064
+B48:2:217,Xylotachina,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Xylotachina,,Tachinidae,Xylotachina,BYT3Y,1474465,BYT3Y,1474465
+B48:2:218,Xylotachina diluta Meig.,Meig.,Xylotachina,,diluta,,species,,B48:2,accepted,,,B48:2:217,Xylotachina,,,,,Tachinidae,,Xylotachina,,Tachinidae | Xylotachina,diluta Meig.,5CN8C,1474466,5CN8C,1474466
+B48:2:219,Ceromasia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Ceromasia,,Tachinidae,Ceromasia,BY96M,1474670,BY96M,1474670
+B48:2:220,Ceromasia rubrifrons Macq.,Macq.,Ceromasia,,rubrifrons,,species,,B48:2,accepted,,,B48:2:219,Ceromasia,,,,,Tachinidae,,Ceromasia,,Tachinidae | Ceromasia,rubrifrons Macq.,T2FC,1474673,T2FC,1474673
+B48:2:221,Ancistrophora,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Ancistrophora,,Tachinidae,Ancistrophora,BY75K,1463479,BY75K,1463479
+B48:2:222,Ancistrophora mikii Schin.,Schin.,Ancistrophora,,mikii,,species,,B48:2,accepted,,,B48:2:221,Ancistrophora,,,,,Tachinidae,,Ancistrophora,,Tachinidae | Ancistrophora,mikii Schin.,66LRN,5057036,66LRN,5057036
+B48:2:223,Petinarctia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Petinarctia,,Tachinidae,Petinarctia,BYWRQ,4571467,BYWRQ,4571467
+B48:2:224,Petinarctia stylata B.B.,B.B.,Petinarctia,,stylata,,species,,B48:2,accepted,,,B48:2:223,Petinarctia,,,,,Tachinidae,,Petinarctia,,Tachinidae | Petinarctia,stylata B.B.,,4515136,,1474951
+B48:2:225,Cistogaster,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Cistogaster,,Tachinidae,Cistogaster,BY9NF,1468985,BY9NF,1468985
+B48:2:226,Cistogaster globosa F.,F.,Cistogaster,,globosa,,species,,B48:2,accepted,,,B48:2:225,Cistogaster,,,,,Tachinidae,,Cistogaster,,Tachinidae | Cistogaster,globosa F.,VLFT,1468997,VLFT,1468997
+B48:2:227,Freraea,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Freraea,,Tachinidae,Freraea,BYDFM,1460492,BYDFM,1460492
+B48:2:228,Freraea gagatea R.D.,R.D.,Freraea,,gagatea,,species,,B48:2,accepted,,,B48:2:227,Freraea,,,,,Tachinidae,,Freraea,,Tachinidae | Freraea,gagatea R.D.,6JNQY,1460493,6JNQY,1460493
+B48:2:229,Peteina,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Peteina,,Tachinidae,Peteina,BYM7C,1468157,BYM7C,1468157
+B48:2:230,Peteina erinaceus F.,F.,Peteina,,erinaceus,,species,,B48:2,accepted,,,B48:2:229,Peteina,,,,,Tachinidae,,Peteina,,Tachinidae | Peteina,erinaceus F.,4FD6B,1468158,4FD6B,1468158
+B48:2:231,Eulabidogaster,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Eulabidogaster,,Tachinidae,Eulabidogaster,BYCVM,1476498,BYCVM,1476498
+B48:2:232,Eulabidogaster setifacies Rond.,Rond.,Eulabidogaster,,setifacies,,species,,B48:2,accepted,,,B48:2:231,Eulabidogaster,,,,,Tachinidae,,Eulabidogaster,,Tachinidae | Eulabidogaster,setifacies Rond.,3C9D7,1476499,3C9D7,1476499
+B48:2:233,Lophosia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Lophosia,,Tachinidae,Lophosia,BYH5D,1475648,BYH5D,1475648
+B48:2:234,Lophosia fasciata Meig.,Meig.,Lophosia,,fasciata,,species,,B48:2,accepted,,,B48:2:233,Lophosia,,,,,Tachinidae,,Lophosia,,Tachinidae | Lophosia,fasciata Meig.,8CND2,1475695,8CND2,1475695
+B48:2:235,Brullaea,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Brullaea,,Tachinidae,Brullaea,BY8KZ,1476046,BY8KZ,1476046
+B48:2:236,Brullaea ocypteroidea R.D.,R.D.,Brullaea,,ocypteroidea,,species,,B48:2,accepted,,,B48:2:235,Brullaea,,,,,Tachinidae,,Brullaea,,Tachinidae | Brullaea,ocypteroidea R.D.,5X52Z,1476047,5X52Z,1476047
+B48:2:237,Clairvillia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Clairvillia,,Tachinidae,Clairvillia,BY9NQ,5059449,BY9NQ,5059449
+B48:2:238,Clairvillia biguttata Meig.,Meig.,Clairvillia,,biguttata,,species,,B48:2,accepted,,,B48:2:237,Clairvillia,,,,,Tachinidae,,Clairvillia,,Tachinidae | Clairvillia,biguttata Meig.,VQNF,5059455,VQNF,5059455
+B48:2:239,Subclytia,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Subclytia,,Tachinidae,Subclytia,BYR4L,1475136,BYR4L,1475136
+B48:2:240,Subclytia rotundiventris Fall.,Fall.,Subclytia,,rotundiventris,,species,,B48:2,accepted,,,B48:2:239,Subclytia,,,,,Tachinidae,,Subclytia,,Tachinidae | Subclytia,rotundiventris Fall.,53CYX,1475137,53CYX,1475137
+B48:2:241,Clytiomya,,,,,,genus,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,,Clytiomya,,Tachinidae,Clytiomya,BY9R6,1475015,BY9R6,1475015
+B48:2:242,Clytiomya continua Panz.,Panz.,Clytiomya,,continua,,species,,B48:2,accepted,,,B48:2:241,Clytiomya,,,,,Tachinidae,,Clytiomya,,Tachinidae | Clytiomya,continua Panz.,5ZFF4,1475022,5ZFF4,1475022
+B48:2:243,Exoristinae,,,,,,subfamily,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,Exoristinae,,,Tachinidae,Exoristinae,87CHH,,87CHH,
+B48:2:244,Exorista,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae,Exorista,BXZYB,1467502,BXZYB,1467502
+B48:2:245,Exorista grandis Zett.,Zett.,Exorista,,grandis,,species,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,grandis Zett.,8C5C7,5058094,8C5C7,5058094
+B48:2:246,Exorista sorbillans Wied.,Wied.,Exorista,,sorbillans,,species,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,sorbillans Wied.,8C5C2,5058157,8C5C2,5058157
+B48:2:247,Exorista segregata Rond.,Rond.,Exorista,,segregata,,species,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,segregata Rond.,8C5BZ,7605735,8C5BZ,7605735
+B48:2:248,Exorista nova Rond.,Rond.,Exorista,,nova,,species,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,nova Rond.,8SC3F,5058252,8SC3F,5058252
+B48:2:249,Exorista glossatorum Rond.,Rond.,Exorista,,glossatorum,,species,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,glossatorum Rond.,8C5C3,5058114,8C5C3,5058114
+B48:2:250,Exorista larvarum L.,L.,Exorista,,larvarum,,species,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,larvarum L.,88927,5058159,88927,5058159
+B48:2:251,Exorista fasciata Fall.,Fall.,Exorista,,fasciata,,species,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,fasciata Fall.,8C5BV,5058239,8C5BV,5058239
+B48:2:252,Exorista deligata Pand.,Pand.,Exorista,,deligata,,species,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,deligata Pand.,8C5CG,5058097,8C5CG,5058097
+B48:2:253,Exorista civilis Rond.,Rond.,Exorista,,civilis,,species,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,civilis Rond.,8C5CD,5058216,8C5CD,5058216
+B48:2:254,Exorista florentina Hert.,Hert.,Exorista,,florentina,,species,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,florentina Hert.,3DPV5,5058134,3DPV5,5058134
+B48:2:255,Exorista rustica-group,,Exorista,,,,group,,B48:2,accepted,,,B48:2:244,Exorista,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista,rustica,,,,
+B48:2:256,Exorista rustica Fall.,Fall.,Exorista,,rustica,,species,,B48:2,accepted,,,B48:2:255,Exorista rustica-group,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista | Exorista rustica-group,rustica Fall.,8C5BN,5058028,8C5BN,5058028
+B48:2:257,Exorista mimula Meig.,Meig.,Exorista,,mimula,,species,,B48:2,accepted,,,B48:2:255,Exorista rustica-group,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista | Exorista rustica-group,mimula Meig.,88925,5058178,88925,5058178
+B48:2:258,Exorista cuneata Hert.,Hert.,Exorista,,cuneata,,species,,B48:2,accepted,,,B48:2:255,Exorista rustica-group,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista | Exorista rustica-group,cuneata Hert.,8C5BG,5058246,8C5BG,5058246
+B48:2:259,Exorista tubulosa Hert.,Hert.,Exorista,,tubulosa,,species,,B48:2,accepted,,,B48:2:255,Exorista rustica-group,,,,,Tachinidae,Exoristinae,Exorista,,Tachinidae | Exoristinae | Exorista | Exorista rustica-group,tubulosa Hert.,8C5BR,5058253,8C5BR,5058253
+B48:2:260,Chetogena,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Chetogena,,Tachinidae | Exoristinae,Chetogena,BXZ7H,1468578,BXZ7H,1468578
+B48:2:261,Chetogena acuminata Rond.,Rond.,Chetogena,,acuminata,,species,,B48:2,accepted,,,B48:2:260,Chetogena,,,,,Tachinidae,Exoristinae,Chetogena,,Tachinidae | Exoristinae | Chetogena,acuminata Rond.,TYF9,1468591,TYF9,1468591
+B48:2:262,Chetogena filipalpis Rond.,Rond.,Chetogena,,filipalpis,,species,,B48:2,accepted,,,B48:2:260,Chetogena,,,,,Tachinidae,Exoristinae,Chetogena,,Tachinidae | Exoristinae | Chetogena,filipalpis Rond.,TYFZ,1468690,TYFZ,1468690
+B48:2:263,Chetogena obliquata Fall.,Fall.,Chetogena,,obliquata,,species,,B48:2,accepted,,,B48:2:260,Chetogena,,,,,Tachinidae,Exoristinae,Chetogena,,Tachinidae | Exoristinae | Chetogena,obliquata Fall.,69QQN,1468617,69QQN,1468617
+B48:2:264,Chetogena fasciata Egg.,Egg.,Chetogena,,fasciata,,species,,B48:2,accepted,,,B48:2:260,Chetogena,,,,,Tachinidae,Exoristinae,Chetogena,,Tachinidae | Exoristinae | Chetogena,fasciata Egg.,TYFY,1468633,TYFY,1468633
+B48:2:265,Phorocera,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Phorocera,,Tachinidae | Exoristinae,Phorocera,BYMFW,1462835,BYMFW,1462835
+B48:2:266,Phorocera grandis Rond.,Rond.,Phorocera,,grandis,,species,,B48:2,accepted,,,B48:2:265,Phorocera,,,,,Tachinidae,Exoristinae,Phorocera,,Tachinidae | Exoristinae | Phorocera,grandis Rond.,4GRRC,5056933,4GRRC,5056933
+B48:2:267,Phorocera obscura Fall.,Fall.,Phorocera,,obscura,,species,,B48:2,accepted,,,B48:2:265,Phorocera,,,,,Tachinidae,Exoristinae,Phorocera,,Tachinidae | Exoristinae | Phorocera,obscura Fall.,4GRS9,5056956,4GRS9,5056956
+B48:2:268,Phorocera assimilis Fall.,Fall.,Phorocera,,assimilis,,species,,B48:2,accepted,,,B48:2:265,Phorocera,,,,,Tachinidae,Exoristinae,Phorocera,,Tachinidae | Exoristinae | Phorocera,assimilis Fall.,4GRQ2,5056964,4GRQ2,5056964
+B48:2:269,Bessa,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Bessa,,Tachinidae | Exoristinae,Bessa,BY86D,1473374,BY86D,1473374
+B48:2:270,Bessa selecta Meig.,Meig.,Bessa,,selecta,,species,,B48:2,accepted,,,B48:2:269,Bessa,,,,,Tachinidae,Exoristinae,Bessa,,Tachinidae | Exoristinae | Bessa,selecta Meig.,LNGX,1473386,LNGX,1473386
+B48:2:271,Bessa parallela Meig.,Meig.,Bessa,,parallela,,species,,B48:2,accepted,,,B48:2:269,Bessa,,,,,Tachinidae,Exoristinae,Bessa,,Tachinidae | Exoristinae | Bessa,parallela Meig.,5WK8Q,1473376,5WK8Q,1473376
+B48:2:272,Belida,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Belida,,Tachinidae | Exoristinae,Belida,BY84S,1468203,BY84S,1468203
+B48:2:273,Belida angelicae Meig.,Meig.,Belida,,angelicae,,species,,B48:2,accepted,,,B48:2:272,Belida,,,,,Tachinidae,Exoristinae,Belida,,Tachinidae | Exoristinae | Belida,angelicae Meig.,68H8J,1468211,68H8J,1468211
+B48:2:274,Belida latifrons Jacentk.,Jacentk.,Belida,,latifrons,,species,,B48:2,accepted,,,B48:2:272,Belida,,,,,Tachinidae,Exoristinae,Belida,,Tachinidae | Exoristinae | Belida,latifrons Jacentk.,5WH92,1468217,5WH92,1468217
+B48:2:275,Meigenia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Meigenia,,Tachinidae | Exoristinae,Meigenia,BYHQZ,1476776,BYHQZ,1476776
+B48:2:276,Meigenia majuscula Rond.,Rond.,Meigenia,,majuscula,,species,,B48:2,accepted,,,B48:2:275,Meigenia,,,,,Tachinidae,Exoristinae,Meigenia,,Tachinidae | Exoristinae | Meigenia,majuscula Rond.,3Z2Y3,1476807,3Z2Y3,1476807
+B48:2:277,Meigenia incana Meig.,Meig.,Meigenia,,incana,,species,,B48:2,accepted,,,B48:2:275,Meigenia,,,,,Tachinidae,Exoristinae,Meigenia,,Tachinidae | Exoristinae | Meigenia,incana Meig.,3Z2XS,1476809,3Z2XS,1476809
+B48:2:278,Meigenia mutabilis Fall.,Fall.,Meigenia,,mutabilis,,species,,B48:2,accepted,,,B48:2:275,Meigenia,,,,,Tachinidae,Exoristinae,Meigenia,,Tachinidae | Exoristinae | Meigenia,mutabilis Fall.,3Z2Y7,1476844,3Z2Y7,1476844
+B48:2:279,Meigenia uncinata Mesn.,Mesn.,Meigenia,,uncinata,,species,,B48:2,accepted,,,B48:2:275,Meigenia,,,,,Tachinidae,Exoristinae,Meigenia,,Tachinidae | Exoristinae | Meigenia,uncinata Mesn.,,4514838,,4514838
+B48:2:280,Meigenia dorsalis Meig.,Meig.,Meigenia,,dorsalis,,species,,B48:2,accepted,,,B48:2:275,Meigenia,,,,,Tachinidae,Exoristinae,Meigenia,,Tachinidae | Exoristinae | Meigenia,dorsalis Meig.,CP4TJ,1476860,CP4TJ,1476860
+B48:2:281,Meigenia grandigena Pand.,Pand.,Meigenia,,grandigena,,species,,B48:2,accepted,,,B48:2:275,Meigenia,,,,,Tachinidae,Exoristinae,Meigenia,,Tachinidae | Exoristinae | Meigenia,grandigena Pand.,3Z2XH,1476833,3Z2XH,1476833
+B48:2:282,Medina,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Medina,,Tachinidae | Exoristinae,Medina,BY64W,1471221,BY64W,1471221
+B48:2:283,Medina collaris Fall.,Fall.,Medina,,collaris,,species,,B48:2,accepted,,,B48:2:282,Medina,,,,,Tachinidae,Exoristinae,Medina,,Tachinidae | Exoristinae | Medina,collaris Fall.,3YNT4,5058795,3YNT4,5058795
+B48:2:284,Medina multispina Hert.,Hert.,Medina,,multispina,,species,,B48:2,accepted,,,B48:2:282,Medina,,,,,Tachinidae,Exoristinae,Medina,,Tachinidae | Exoristinae | Medina,multispina Hert.,3YNTX,5058804,3YNTX,5058804
+B48:2:285,Medina luctuosa Meig.,Meig.,Medina,,luctuosa,,species,,B48:2,accepted,,,B48:2:282,Medina,,,,,Tachinidae,Exoristinae,Medina,,Tachinidae | Exoristinae | Medina,luctuosa Meig.,3YNTR,5058799,3YNTR,5058799
+B48:2:286,Medina melania Meig.,Meig.,Medina,,melania,,species,,B48:2,accepted,,,B48:2:282,Medina,,,,,Tachinidae,Exoristinae,Medina,,Tachinidae | Exoristinae | Medina,melania Meig.,3YNTT,5058819,3YNTT,5058819
+B48:2:287,Medina separata Meig.,Meig.,Medina,,separata,,species,,B48:2,accepted,,,B48:2:282,Medina,,,,,Tachinidae,Exoristinae,Medina,,Tachinidae | Exoristinae | Medina,separata Meig.,738BP,5058835,738BP,5058835
+B48:2:288,Istocheta,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Istocheta,,Tachinidae | Exoristinae,Istocheta,BYFXT,1475787,BYFXT,1475787
+B48:2:289,Istocheta hemichaeta B.B.,B.B.,Istocheta,,hemichaeta,,species,,B48:2,accepted,,,B48:2:288,Istocheta,,,,,Tachinidae,Exoristinae,Istocheta,,Tachinidae | Exoristinae | Istocheta,hemichaeta B.B.,3QDD7,1475788,3QDD7,1475788
+B48:2:290,Istocheta longicornis Fall.,Fall.,Istocheta,,longicornis,,species,,B48:2,accepted,,,B48:2:288,Istocheta,,,,,Tachinidae,Exoristinae,Istocheta,,Tachinidae | Exoristinae | Istocheta,longicornis Fall.,6NBN8,1475815,6NBN8,1475815
+B48:2:291,Istocheta polyphyllae Vill.,Vill.,Istocheta,,polyphyllae,,species,,B48:2,accepted,,,B48:2:288,Istocheta,,,,,Tachinidae,Exoristinae,Istocheta,,Tachinidae | Exoristinae | Istocheta,polyphyllae Vill.,3QDDM,1475808,3QDDM,1475808
+B48:2:292,Istocheta subcinerea Bor.,Bor.,Istocheta,,subcinerea,,species,,B48:2,accepted,,,B48:2:288,Istocheta,,,,,Tachinidae,Exoristinae,Istocheta,,Tachinidae | Exoristinae | Istocheta,subcinerea Bor.,3QDDS,1475818,3QDDS,1475818
+B48:2:293,Istocheta cinerea Macq.,Macq.,Istocheta,,cinerea,,species,,B48:2,accepted,,,B48:2:288,Istocheta,,,,,Tachinidae,Exoristinae,Istocheta,,Tachinidae | Exoristinae | Istocheta,cinerea Macq.,3QDD2,1475829,3QDD2,1475829
+B48:2:294,Lecanipa,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Lecanipa,,Tachinidae | Exoristinae,Lecanipa,BY2LN,1470402,BY2LN,1470402
+B48:2:295,Lecanipa leucomelas Meig.,Meig.,Lecanipa,,leucomelas,,species,,B48:2,accepted,,,B48:2:294,Lecanipa,,,,,Tachinidae,Exoristinae,Lecanipa,,Tachinidae | Exoristinae | Lecanipa,leucomelas Meig.,6P5LN,1470405,6P5LN,1470405
+B48:2:296,Lecanipa bicincta Meig.,Meig.,Lecanipa,,bicincta,,species,,B48:2,accepted,,,B48:2:294,Lecanipa,,,,,Tachinidae,Exoristinae,Lecanipa,,Tachinidae | Exoristinae | Lecanipa,bicincta Meig.,3SRLT,1470403,3SRLT,1470403
+B48:2:297,Admontia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Admontia,,Tachinidae | Exoristinae,Admontia,BY6FV,1476889,BY6FV,1476889
+B48:2:298,Admontia blanda Fall.,Fall.,Admontia,,blanda,,species,,B48:2,accepted,,,B48:2:297,Admontia,,,,,Tachinidae,Exoristinae,Admontia,,Tachinidae | Exoristinae | Admontia,blanda Fall.,654XB,1476897,654XB,1476897
+B48:2:299,Admontia continuans Strobl.,Strobl.,Admontia,,continuans,,species,,B48:2,accepted,,,B48:2:297,Admontia,,,,,Tachinidae,Exoristinae,Admontia,,Tachinidae | Exoristinae | Admontia,continuans Strobl.,64T8C,1476922,64T8C,1476922
+B48:2:300,Admontia seria Meig.,Meig.,Admontia,,seria,,species,,B48:2,accepted,,,B48:2:297,Admontia,,,,,Tachinidae,Exoristinae,Admontia,,Tachinidae | Exoristinae | Admontia,seria Meig.,654WK,1476935,654WK,1476935
+B48:2:301,Admontia grandicornis Zett.,Zett.,Admontia,,grandicornis,,species,,B48:2,accepted,,,B48:2:297,Admontia,,,,,Tachinidae,Exoristinae,Admontia,,Tachinidae | Exoristinae | Admontia,grandicornis Zett.,BYYY4,1476908,BYYY4,1476908
+B48:2:302,Admontia maculiscquama Zett.,Zett.,Admontia,,maculiscquama,,species,,B48:2,accepted,,,B48:2:297,Admontia,,,,,Tachinidae,Exoristinae,Admontia,,Tachinidae | Exoristinae | Admontia,maculiscquama Zett.,654WG,1476932,654WG,1476932
+B48:2:303,Admontia podomyia B.B.,B.B.,Admontia,,podomyia,,species,,B48:2,accepted,,,B48:2:297,Admontia,,,,,Tachinidae,Exoristinae,Admontia,,Tachinidae | Exoristinae | Admontia,podomyia B.B.,654WH,1476925,654WH,1476925
+B48:2:304,Admontia cepelaki Mesn.,Mesn.,Admontia,,cepelaki,,species,,B48:2,accepted,,,B48:2:297,Admontia,,,,,Tachinidae,Exoristinae,Admontia,,Tachinidae | Exoristinae | Admontia,cepelaki Mesn.,6559B,1476939,6559B,1476939
+B48:2:305,Oswaldia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Oswaldia,,Tachinidae | Exoristinae,Oswaldia,BYKWJ,1476975,BYKWJ,1476975
+B48:2:306,Oswaldia muscaria Fall.,Fall.,Oswaldia,,muscaria,,species,,B48:2,accepted,,,B48:2:305,Oswaldia,,,,,Tachinidae,Exoristinae,Oswaldia,,Tachinidae | Exoristinae | Oswaldia,muscaria Fall.,6TCK7,7971984,6TCK7,7971984
+B48:2:307,Oswaldia reducta Vill.,Vill.,Oswaldia,,reducta,,species,,B48:2,accepted,,,B48:2:305,Oswaldia,,,,,Tachinidae,Exoristinae,Oswaldia,,Tachinidae | Exoristinae | Oswaldia,reducta Vill.,75CK7,5059958,75CK7,5059958
+B48:2:308,Oswaldia spectabilis Meig.,Meig.,Oswaldia,,spectabilis,,species,,B48:2,accepted,,,B48:2:305,Oswaldia,,,,,Tachinidae,Exoristinae,Oswaldia,,Tachinidae | Exoristinae | Oswaldia,spectabilis Meig.,75CK8,5059947,75CK8,5059947
+B48:2:309,Oswaldia eggeri B.B.,B.B.,Oswaldia,,eggeri,,species,,B48:2,accepted,,,B48:2:305,Oswaldia,,,,,Tachinidae,Exoristinae,Oswaldia,,Tachinidae | Exoristinae | Oswaldia,eggeri B.B.,6TCK3,5059924,6TCK3,5059924
+B48:2:310,Blondelia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Blondelia,,Tachinidae | Exoristinae,Blondelia,BY89B,1464868,BY89B,1464868
+B48:2:311,Blondelia inclusa Hart.,Hart.,Blondelia,,inclusa,,species,,B48:2,accepted,,,B48:2:310,Blondelia,,,,,Tachinidae,Exoristinae,Blondelia,,Tachinidae | Exoristinae | Blondelia,inclusa Hart.,M757,1464871,M757,1464871
+B48:2:312,Blondelia nigripes Fall.,Fall.,Blondelia,,nigripes,,species,,B48:2,accepted,,,B48:2:310,Blondelia,,,,,Tachinidae,Exoristinae,Blondelia,,Tachinidae | Exoristinae | Blondelia,nigripes Fall.,M759,1464906,M759,1464906
+B48:2:313,Blondelia piniariae Hart.,Hart.,Blondelia,,piniariae,,species,,B48:2,accepted,,,B48:2:310,Blondelia,,,,,Tachinidae,Exoristinae,Blondelia,,Tachinidae | Exoristinae | Blondelia,piniariae Hart.,5WM3W,1464877,5WM3W,1464877
+B48:2:314,Vibrissina,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Vibrissina,,Tachinidae | Exoristinae,Vibrissina,BYSQT,1471599,BYSQT,1471599
+B48:2:315,Vibrissina turrita Meig.,Meig.,Vibrissina,,turrita,,species,,B48:2,accepted,,,B48:2:314,Vibrissina,,,,,Tachinidae,Exoristinae,Vibrissina,,Tachinidae | Exoristinae | Vibrissina,turrita Meig.,5BC2X,1471608,5BC2X,1471608
+B48:2:316,Vibrissina debilitata Pand.,Pand.,Vibrissina,,debilitata,,species,,B48:2,accepted,,,B48:2:314,Vibrissina,,,,,Tachinidae,Exoristinae,Vibrissina,,Tachinidae | Exoristinae | Vibrissina,debilitata Pand.,7G2R5,1471632,7G2R5,1471632
+B48:2:317,Acemya,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Acemya,,Tachinidae | Exoristinae,Acemya,BY68R,1464991,BY68R,1464991
+B48:2:318,Acemya acuticornis Meig.,Meig.,Acemya,,acuticornis,,species,,B48:2,accepted,,,B48:2:317,Acemya,,,,,Tachinidae,Exoristinae,Acemya,,Tachinidae | Exoristinae | Acemya,acuticornis Meig.,93Y3,1465006,93Y3,1465006
+B48:2:319,Acemya rufitibia V. Ross.,V. Ross.,Acemya,,rufitibia,,species,,B48:2,accepted,,,B48:2:317,Acemya,,,,,Tachinidae,Exoristinae,Acemya,,Tachinidae | Exoristinae | Acemya,rufitibia V. Ross.,64FG3,1464992,64FG3,1464992
+B48:2:320,Paratryphera,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Paratryphera,,Tachinidae | Exoristinae,Paratryphera,BYLRP,1468807,BYLRP,1468807
+B48:2:321,Paratryphera bisetosa B.B.,B.B.,Paratryphera,,bisetosa,,species,,B48:2,accepted,,,B48:2:320,Paratryphera,,,,,Tachinidae,Exoristinae,Paratryphera,,Tachinidae | Exoristinae | Paratryphera,bisetosa B.B.,4DH67,1468822,4DH67,1468822
+B48:2:322,Paratryphera barbatula Rond.,Rond.,Paratryphera,,barbatula,,species,,B48:2,accepted,,,B48:2:320,Paratryphera,,,,,Tachinidae,Exoristinae,Paratryphera,,Tachinidae | Exoristinae | Paratryphera,barbatula Rond.,4DH66,1468815,4DH66,1468815
+B48:2:323,Winthemia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Winthemia,,Tachinidae | Exoristinae,Winthemia,BY4ZV,1460943,BY4ZV,1460943
+B48:2:324,Winthemia speciosa Egg.,Egg.,Winthemia,,speciosa,,species,,B48:2,accepted,,,B48:2:323,Winthemia,,,,,Tachinidae,Exoristinae,Winthemia,,Tachinidae | Exoristinae | Winthemia,speciosa Egg.,5C2BB,1460947,5C2BB,1460947
+B48:2:325,Winthemia venusta Meig.,Meig.,Winthemia,,venusta,,species,,B48:2,accepted,,,B48:2:323,Winthemia,,,,,Tachinidae,Exoristinae,Winthemia,,Tachinidae | Exoristinae | Winthemia,venusta Meig.,5C2BR,1461022,5C2BR,1461022
+B48:2:326,Winthemia bohemani Zett.,Zett.,Winthemia,,bohemani,,species,,B48:2,accepted,,,B48:2:323,Winthemia,,,,,Tachinidae,Exoristinae,Winthemia,,Tachinidae | Exoristinae | Winthemia,bohemani Zett.,5C27Q,1461121,5C27Q,1461121
+B48:2:327,Winthemia variegata Meig.,Meig.,Winthemia,,variegata,,species,,B48:2,accepted,,,B48:2:323,Winthemia,,,,,Tachinidae,Exoristinae,Winthemia,,Tachinidae | Exoristinae | Winthemia,variegata Meig.,5C2BP,1461140,5C2BP,1461140
+B48:2:328,Winthemia jacentkovskyi Mesn.,Mesn.,Winthemia,,jacentkovskyi,,species,,B48:2,accepted,,,B48:2:323,Winthemia,,,,,Tachinidae,Exoristinae,Winthemia,,Tachinidae | Exoristinae | Winthemia,jacentkovskyi Mesn.,7G7FW,1461172,7G7FW,1461172
+B48:2:329,Winthemia cruentata Rond.,Rond.,Winthemia,,cruentata,,species,,B48:2,accepted,,,B48:2:323,Winthemia,,,,,Tachinidae,Exoristinae,Winthemia,,Tachinidae | Exoristinae | Winthemia,cruentata Rond.,7G7FF,1461104,7G7FF,1461104
+B48:2:330,Winthemia rufiventris Macq.,Macq.,Winthemia,,rufiventris,,species,,B48:2,accepted,,,B48:2:323,Winthemia,,,,,Tachinidae,Exoristinae,Winthemia,,Tachinidae | Exoristinae | Winthemia,rufiventris Macq.,8FMLM,4514895,8FMLM,1460972
+B48:2:331,Winthemia quadripustulata F.,F.,Winthemia,,quadripustulata,,species,,B48:2,accepted,,,B48:2:323,Winthemia,,,,,Tachinidae,Exoristinae,Winthemia,,Tachinidae | Exoristinae | Winthemia,quadripustulata F.,8FMKV,1460950,8FMKV,1460950
+B48:2:332,Winthemia erythrura Meig.,Meig.,Winthemia,,erythrura,,species,,B48:2,accepted,,,B48:2:323,Winthemia,,,,,Tachinidae,Exoristinae,Winthemia,,Tachinidae | Exoristinae | Winthemia,erythrura Meig.,5C28P,1461079,5C28P,1461079
+B48:2:333,Nemorilla,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Nemorilla,,Tachinidae | Exoristinae,Nemorilla,BYJRX,1475331,BYJRX,1475331
+B48:2:334,Nemorilla floralis Fall.,Fall.,Nemorilla,,floralis,,species,,B48:2,accepted,,,B48:2:333,Nemorilla,,,,,Tachinidae,Exoristinae,Nemorilla,,Tachinidae | Exoristinae | Nemorilla,floralis Fall.,4695M,1475359,4695M,1475359
+B48:2:335,Nemorilla maculosa Meig.,Meig.,Nemorilla,,maculosa,,species,,B48:2,accepted,,,B48:2:333,Nemorilla,,,,,Tachinidae,Exoristinae,Nemorilla,,Tachinidae | Exoristinae | Nemorilla,maculosa Meig.,4695Q,1475371,4695Q,1475371
+B48:2:336,Phebellia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae,Phebellia,BYM9W,1460679,BYM9W,1460679
+B48:2:337,Phebellia nigripalpis R.D.,R.D.,Phebellia,,nigripalpis,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,nigripalpis R.D.,BC65H,1460691,BC65H,1460691
+B48:2:338,Phebellia strigifrons Zett.,Zett.,Phebellia,,strigifrons,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,strigifrons Zett.,4FXP8,1460744,4FXP8,1460744
+B48:2:339,Phebellia glirina Rond.,Rond.,Phebellia,,glirina,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,glirina Rond.,76WRX,1460735,76WRX,1460735
+B48:2:340,Phebellia triseta Pand.,Pand.,Phebellia,,triseta,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,triseta Pand.,4FXPC,1460750,4FXPC,1460750
+B48:2:341,Phebellia villica Zett.,Zett.,Phebellia,,villica,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,villica Zett.,4FXPF,1460753,4FXPF,1460753
+B48:2:342,Phebellia vicina Wainwright,Wainwright,Phebellia,,vicina,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,vicina Wainwright,76X3X,1460702,76X3X,1460702
+B48:2:343,Phebellia pauciseta Vill.,Vill.,Phebellia,,pauciseta,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,pauciseta Vill.,4FXP6,1460700,4FXP6,1460700
+B48:2:344,Phebellia stulta Zett.,Zett.,Phebellia,,stulta,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,stulta Zett.,8D9NW,4514873,8D9NW,4514873
+B48:2:345,Phebellia glauca Meig.,Meig.,Phebellia,,glauca,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,glauca Meig.,4FXNS,1460729,4FXNS,1460729
+B48:2:346,Phebellia glaucoides Her.t,Her.t,Phebellia,,glaucoides,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,glaucoides Her.t,4FXNT,1460688,4FXNT,1460688
+B48:2:347,Phebellia clavellaria B.B.,B.B.,Phebellia,,clavellaria,,species,,B48:2,accepted,,,B48:2:336,Phebellia,,,,,Tachinidae,Exoristinae,Phebellia,,Tachinidae | Exoristinae | Phebellia,clavellaria B.B.,4FXNJ,1460683,4FXNJ,1460683
+B48:2:348,Nilea,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Nilea,,Tachinidae | Exoristinae,Nilea,BYK8X,1461336,BYK8X,1461336
+B48:2:349,Nilea hortulana Meig.,Meig.,Nilea,,hortulana,,species,,B48:2,accepted,,,B48:2:348,Nilea,,,,,Tachinidae,Exoristinae,Nilea,,Tachinidae | Exoristinae | Nilea,hortulana Meig.,73ZR3,1461339,73ZR3,1461339
+B48:2:350,Nilea innoxia Meig.,Meig.,Nilea,,innoxia,,species,,B48:2,accepted,,,B48:2:348,Nilea,,,,,Tachinidae,Exoristinae,Nilea,,Tachinidae | Exoristinae | Nilea,innoxia Meig.,73ZQQ,1461371,73ZQQ,1461371
+B48:2:351,Nilea rufiscutellaris Zett.,Zett.,Nilea,,rufiscutellaris,,species,,B48:2,accepted,,,B48:2:348,Nilea,,,,,Tachinidae,Exoristinae,Nilea,,Tachinidae | Exoristinae | Nilea,rufiscutellaris Zett.,73ZQG,1461350,73ZQG,1461350
+B48:2:352,Phryxe,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Phryxe,,Tachinidae | Exoristinae,Phryxe,BYMGR,1477634,BYMGR,1477634
+B48:2:353,Phryxe setifacies Vill.,Vill.,Phryxe,,setifacies,,species,,B48:2,accepted,,,B48:2:352,Phryxe,,,,,Tachinidae,Exoristinae,Phryxe,,Tachinidae | Exoristinae | Phryxe,setifacies Vill.,4GX4P,1477912,4GX4P,1477912
+B48:2:354,Phryxe hirta Bigot,Bigot,Phryxe,,hirta,,species,,B48:2,accepted,,,B48:2:352,Phryxe,,,,,Tachinidae,Exoristinae,Phryxe,,Tachinidae | Exoristinae | Phryxe,hirta Bigot,9HC8H,1477727,9HC8H,1477727
+B48:2:355,Phryxe prima B.B.,B.B.,Phryxe,,prima,,species,,B48:2,accepted,,,B48:2:352,Phryxe,,,,,Tachinidae,Exoristinae,Phryxe,,Tachinidae | Exoristinae | Phryxe,prima B.B.,4GX3L,1477810,4GX3L,1477810
+B48:2:356,Phryxe nemea Meig.,Meig.,Phryxe,,nemea,,species,,B48:2,accepted,,,B48:2:352,Phryxe,,,,,Tachinidae,Exoristinae,Phryxe,,Tachinidae | Exoristinae | Phryxe,nemea Meig.,4GX2K,1477730,4GX2K,1477730
+B48:2:357,Phryxe heraclei Meig.,Meig.,Phryxe,,heraclei,,species,,B48:2,accepted,,,B48:2:352,Phryxe,,,,,Tachinidae,Exoristinae,Phryxe,,Tachinidae | Exoristinae | Phryxe,heraclei Meig.,4GWZ3,1477635,4GWZ3,1477635
+B48:2:358,Phryxe vulgaris Fall.,Fall.,Phryxe,,vulgaris,,species,,B48:2,accepted,,,B48:2:352,Phryxe,,,,,Tachinidae,Exoristinae,Phryxe,,Tachinidae | Exoristinae | Phryxe,vulgaris Fall.,4GX62,1477838,4GX62,1477838
+B48:2:359,Phryxe magnicornis Zett.,Zett.,Phryxe,,magnicornis,,species,,B48:2,accepted,,,B48:2:352,Phryxe,,,,,Tachinidae,Exoristinae,Phryxe,,Tachinidae | Exoristinae | Phryxe,magnicornis Zett.,4GWZZ,1477766,4GWZZ,1477766
+B48:2:360,Phryxe erythrostoma Hart.,Hart.,Phryxe,,erythrostoma,,species,,B48:2,accepted,,,B48:2:352,Phryxe,,,,,Tachinidae,Exoristinae,Phryxe,,Tachinidae | Exoristinae | Phryxe,erythrostoma Hart.,B9Y4B,1477644,B9Y4B,1477644
+B48:2:361,Phryxe semicaudata Hert.,Hert.,Phryxe,,semicaudata,,species,,B48:2,accepted,,,B48:2:352,Phryxe,,,,,Tachinidae,Exoristinae,Phryxe,,Tachinidae | Exoristinae | Phryxe,semicaudata Hert.,4GX4J,1477921,4GX4J,1477921
+B48:2:362,Pseudoperichaeta,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Pseudoperichaeta,,Tachinidae | Exoristinae,Pseudoperichaeta,87K6Q,1473266,87K6Q,1473266
+B48:2:363,Pseudoperichaeta nigrolineata Walk,Walk,Pseudoperichaeta,,nigrolineata,,species,,B48:2,accepted,,,B48:2:362,Pseudoperichaeta,,,,,Tachinidae,Exoristinae,Pseudoperichaeta,,Tachinidae | Exoristinae | Pseudoperichaeta,nigrolineata Walk,,5059248,,5059248
+B48:2:364,Pseudoperichaeta palesoidea R.D.,R.D.,Pseudoperichaeta,,palesoidea,,species,,B48:2,accepted,,,B48:2:362,Pseudoperichaeta,,,,,Tachinidae,Exoristinae,Pseudoperichaeta,,Tachinidae | Exoristinae | Pseudoperichaeta,palesoidea R.D.,,7350943,,7350943
+B48:2:365,Lydella,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Lydella,,Tachinidae | Exoristinae,Lydella,BYH88,1463492,BYH88,1463492
+B48:2:366,Lydella lacustris Hert.,Hert.,Lydella,,lacustris,,species,,B48:2,accepted,,,B48:2:365,Lydella,,,,,Tachinidae,Exoristinae,Lydella,,Tachinidae | Exoristinae | Lydella,lacustris Hert.,3WNTW,1463494,3WNTW,1463494
+B48:2:367,Lydella stabulans Fall.,Fall.,Lydella,,stabulans,,species,,B48:2,accepted,,,B48:2:365,Lydella,,,,,Tachinidae,Exoristinae,Lydella,,Tachinidae | Exoristinae | Lydella,stabulans Fall.,6R3FD,1463551,6R3FD,1463551
+B48:2:368,Lydella ripae Brischke,Brischke,Lydella,,ripae,,species,,B48:2,accepted,,,B48:2:365,Lydella,,,,,Tachinidae,Exoristinae,Lydella,,Tachinidae | Exoristinae | Lydella,ripae Brischke,6R3FG,1463527,6R3FG,1463527
+B48:2:369,Lydella grisescens R.D.,R.D.,Lydella,,grisescens,,species,,B48:2,accepted,,,B48:2:365,Lydella,,,,,Tachinidae,Exoristinae,Lydella,,Tachinidae | Exoristinae | Lydella,grisescens R.D.,3WNTR,1463508,3WNTR,1463508
+B48:2:370,Lydella thompsoni Hert.,Hert.,Lydella,,thompsoni,,species,,B48:2,accepted,,,B48:2:365,Lydella,,,,,Tachinidae,Exoristinae,Lydella,,Tachinidae | Exoristinae | Lydella,thompsoni Hert.,6R3FC,1463549,6R3FC,1463549
+B48:2:371,Lydella stabulans Fall.,Fall.,Lydella,,stabulans,,species,,B48:2,accepted,,,B48:2:365,Lydella,,,,,Tachinidae,Exoristinae,Lydella,,Tachinidae | Exoristinae | Lydella,stabulans Fall.,6R3FD,1463551,6R3FD,1463551
+B48:2:372,Lydella thompsoni Hert.,Hert.,Lydella,,thompsoni,,species,,B48:2,accepted,,,B48:2:365,Lydella,,,,,Tachinidae,Exoristinae,Lydella,,Tachinidae | Exoristinae | Lydella,thompsoni Hert.,6R3FC,1463549,6R3FC,1463549
+B48:2:373,Drino,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Drino,,Tachinidae | Exoristinae,Drino,BYC3N,1464046,BYC3N,1464046
+B48:2:374,Drino lota Meig.,Meig.,Drino,,lota,,species,,B48:2,accepted,,,B48:2:373,Drino,,,,,Tachinidae,Exoristinae,Drino,,Tachinidae | Exoristinae | Drino,lota Meig.,37PGN,1464091,37PGN,1464091
+B48:2:375,Drino vicina Zett.,Zett.,Drino,,vicina,,species,,B48:2,accepted,,,B48:2:373,Drino,,,,,Tachinidae,Exoristinae,Drino,,Tachinidae | Exoristinae | Drino,vicina Zett.,37PHQ,1464082,37PHQ,1464082
+B48:2:376,Drino galii B.B.,B.B.,Drino,,galii,,species,,B48:2,accepted,,,B48:2:373,Drino,,,,,Tachinidae,Exoristinae,Drino,,Tachinidae | Exoristinae | Drino,galii B.B.,37PG4,1464077,37PG4,1464077
+B48:2:377,Drino gilva Hart.,Hart.,Drino,,gilva,,species,,B48:2,accepted,,,B48:2:373,Drino,,,,,Tachinidae,Exoristinae,Drino,,Tachinidae | Exoristinae | Drino,gilva Hart.,37PG5,1464052,37PG5,1464052
+B48:2:378,Drino inconspicua Meig.,Meig.,Drino,,inconspicua,,species,,B48:2,accepted,,,B48:2:373,Drino,,,,,Tachinidae,Exoristinae,Drino,,Tachinidae | Exoristinae | Drino,inconspicua Meig.,37PGD,1464133,37PGD,1464133
+B48:2:379,Drino bohemica Mesn.,Mesn.,Drino,,bohemica,,species,,B48:2,accepted,,,B48:2:373,Drino,,,,,Tachinidae,Exoristinae,Drino,,Tachinidae | Exoristinae | Drino,bohemica Mesn.,37PFH,1464112,37PFH,1464112
+B48:2:380,Carcelia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae,Carcelia,BXZ4J,1469821,BXZ4J,1469821
+B48:2:381,Carcelia bombylans R.D.,R.D.,Carcelia,,bombylans,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,bombylans R.D.,8BBNP,1469965,8BBNP,1469965
+B48:2:382,Carcelia rasa Macq.,Macq.,Carcelia,,rasa,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,rasa Macq.,8BBQ4,1470122,8BBQ4,1470122
+B48:2:383,Carcelia puberula Mesn.,Mesn.,Carcelia,,puberula,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,puberula Mesn.,8BBQ3,1470134,8BBQ3,1470134
+B48:2:384,Carcelia atricosta Hert.,Hert.,Carcelia,,atricosta,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,atricosta Hert.,8BBNK,1469993,8BBNK,1469993
+B48:2:385,Carcelia rasella Bar.,Bar.,Carcelia,,rasella,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,rasella Bar.,8BBQ5,1470105,8BBQ5,1470105
+B48:2:386,Carcelia iliaca Ratz.,Ratz.,Carcelia,,iliaca,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,iliaca Ratz.,8BBP8,1469908,8BBP8,1469908
+B48:2:387,Carcelia gnava Meig.,Meig.,Carcelia,,gnava,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,gnava Meig.,R3FH,1470007,R3FH,1470007
+B48:2:388,Carcelia tibialis R.D.,R.D.,Carcelia,,tibialis,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,tibialis R.D.,8BBT5,1469884,8BBT5,1469884
+B48:2:389,Carcelia falenaria Rond.,Rond.,Carcelia,,falenaria,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,falenaria Rond.,8BBSQ,1469930,8BBSQ,1469930
+B48:2:390,Carcelia laxifrons Vill.,Vill.,Carcelia,,laxifrons,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,laxifrons Vill.,R3GM,1469969,R3GM,1469969
+B48:2:391,Carcelia alpestris Hert.,Hert.,Carcelia,,alpestris,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,alpestris Hert.,8BBNG,1470006,8BBNG,1470006
+B48:2:392,Carcelia kowarzi Vill.,Vill.,Carcelia,,kowarzi,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,kowarzi Vill.,8BBPD,1469872,8BBPD,1469872
+B48:2:393,Carcelia lucorum Meig.,Meig.,Carcelia,,lucorum,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,lucorum Meig.,8BBPH,1469857,8BBPH,1469857
+B48:2:394,Carcelia dubia B.B.,B.B.,Carcelia,,dubia,,species,,B48:2,accepted,,,B48:2:380,Carcelia,,,,,Tachinidae,Exoristinae,Carcelia,,Tachinidae | Exoristinae | Carcelia,dubia B.B.,8BBP2,1469925,8BBP2,1469925
+B48:2:395,Senometopia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Senometopia,,Tachinidae | Exoristinae,Senometopia,89RG3,1471483,89RG3,1471483
+B48:2:396,Senometopia susurrans Rond.,Rond.,Senometopia,,susurrans,,species,,B48:2,accepted,,,B48:2:395,Senometopia,,,,,Tachinidae,Exoristinae,Senometopia,,Tachinidae | Exoristinae | Senometopia,susurrans Rond.,8DVL5,1471509,8DVL5,1471509
+B48:2:397,Senometopia pollinosa Mesn.,Mesn.,Senometopia,,pollinosa,,species,,B48:2,accepted,,,B48:2:395,Senometopia,,,,,Tachinidae,Exoristinae,Senometopia,,Tachinidae | Exoristinae | Senometopia,pollinosa Mesn.,9HKCQ,1471496,9HKCQ,1471496
+B48:2:398,Senometopia intermedia Hert.,Hert.,Senometopia,,intermedia,,species,,B48:2,accepted,,,B48:2:395,Senometopia,,,,,Tachinidae,Exoristinae,Senometopia,,Tachinidae | Exoristinae | Senometopia,intermedia Hert.,9HKCP,1471485,9HKCP,1471485
+B48:2:399,Senometopia confundens Rond.,Rond.,Senometopia,,confundens,,species,,B48:2,accepted,,,B48:2:395,Senometopia,,,,,Tachinidae,Exoristinae,Senometopia,,Tachinidae | Exoristinae | Senometopia,confundens Rond.,9HKXZ,1471502,9HKXZ,1471502
+B48:2:400,Senometopia separata Rond.,Rond.,Senometopia,,separata,,species,,B48:2,accepted,,,B48:2:395,Senometopia,,,,,Tachinidae,Exoristinae,Senometopia,,Tachinidae | Exoristinae | Senometopia,separata Rond.,8DVL3,4514885,8DVL3,4514885
+B48:2:401,Senometopia lena Richt.,Richt.,Senometopia,,lena,,species,,B48:2,accepted,,,B48:2:395,Senometopia,,,,,Tachinidae,Exoristinae,Senometopia,,Tachinidae | Exoristinae | Senometopia,lena Richt.,9HMMF,1471492,9HMMF,1471492
+B48:2:402,Senometopia excisa Fall.,Fall.,Senometopia,,excisa,,species,,B48:2,accepted,,,B48:2:395,Senometopia,,,,,Tachinidae,Exoristinae,Senometopia,,Tachinidae | Exoristinae | Senometopia,excisa Fall.,9HKCN,4514884,9HKCN,4514884
+B48:2:403,Senometopia pilosa Bar.,Bar.,Senometopia,,pilosa,,species,,B48:2,accepted,,,B48:2:395,Senometopia,,,,,Tachinidae,Exoristinae,Senometopia,,Tachinidae | Exoristinae | Senometopia,pilosa Bar.,9HMMG,1471487,9HMMG,1471487
+B48:2:404,Erycia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Erycia,,Tachinidae | Exoristinae,Erycia,BYCQK,1477946,BYCQK,1477946
+B48:2:405,Erycia furibunda Zett.,Zett.,Erycia,,furibunda,,species,,B48:2,accepted,,,B48:2:404,Erycia,,,,,Tachinidae,Exoristinae,Erycia,,Tachinidae | Exoristinae | Erycia,furibunda Zett.,6GR53,1477948,6GR53,1477948
+B48:2:406,Erycia fasciata Vill.,Vill.,Erycia,,fasciata,,species,,B48:2,accepted,,,B48:2:404,Erycia,,,,,Tachinidae,Exoristinae,Erycia,,Tachinidae | Exoristinae | Erycia,fasciata Vill.,6H352,1477966,6H352,1477966
+B48:2:407,Erycia fatua Meig.,Meig.,Erycia,,fatua,,species,,B48:2,accepted,,,B48:2:404,Erycia,,,,,Tachinidae,Exoristinae,Erycia,,Tachinidae | Exoristinae | Erycia,fatua Meig.,6GQSR,1477952,6GQSR,1477952
+B48:2:408,Erycia festinans Meig.,Meig.,Erycia,,festinans,,species,,B48:2,accepted,,,B48:2:404,Erycia,,,,,Tachinidae,Exoristinae,Erycia,,Tachinidae | Exoristinae | Erycia,festinans Meig.,6GQT3,1477958,6GQT3,1477958
+B48:2:409,Eumea,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Eumea,,Tachinidae | Exoristinae,Eumea,BYCWF,1473821,BYCWF,1473821
+B48:2:410,Eumea linearicornis Zett.,Zett.,Eumea,,linearicornis,,species,,B48:2,accepted,,,B48:2:409,Eumea,,,,,Tachinidae,Exoristinae,Eumea,,Tachinidae | Exoristinae | Eumea,linearicornis Zett.,3CCWM,1473831,3CCWM,1473831
+B48:2:411,Eumea mitis Meig.,Meig.,Eumea,,mitis,,species,,B48:2,accepted,,,B48:2:409,Eumea,,,,,Tachinidae,Exoristinae,Eumea,,Tachinidae | Exoristinae | Eumea,mitis Meig.,3CCWR,1473849,3CCWR,1473849
+B48:2:412,Myxexoristops,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Myxexoristops,,Tachinidae | Exoristinae,Myxexoristops,BYJM2,1475087,BYJM2,1475087
+B48:2:413,Myxexoristops hertingi Mesn.,Mesn.,Myxexoristops,,hertingi,,species,,B48:2,accepted,,,B48:2:412,Myxexoristops,,,,,Tachinidae,Exoristinae,Myxexoristops,,Tachinidae | Exoristinae | Myxexoristops,hertingi Mesn.,45GXH,1475099,45GXH,1475099
+B48:2:414,Myxexoristops bicolor Vill.,Vill.,Myxexoristops,,bicolor,,species,,B48:2,accepted,,,B48:2:412,Myxexoristops,,,,,Tachinidae,Exoristinae,Myxexoristops,,Tachinidae | Exoristinae | Myxexoristops,bicolor Vill.,45GXB,1475113,45GXB,1475113
+B48:2:415,Myxexoristops bonsdorffi Zett.,Zett.,Myxexoristops,,bonsdorffi,,species,,B48:2,accepted,,,B48:2:412,Myxexoristops,,,,,Tachinidae,Exoristinae,Myxexoristops,,Tachinidae | Exoristinae | Myxexoristops,bonsdorffi Zett.,,4514861,,4514861
+B48:2:416,Myxexoristops blondeli R.D.,R.D.,Myxexoristops,,blondeli,,species,,B48:2,accepted,,,B48:2:412,Myxexoristops,,,,,Tachinidae,Exoristinae,Myxexoristops,,Tachinidae | Exoristinae | Myxexoristops,blondeli R.D.,45GXD,1475088,45GXD,1475088
+B48:2:417,Myxexoristops abietis Hert.,Hert.,Myxexoristops,,abietis,,species,,B48:2,accepted,,,B48:2:412,Myxexoristops,,,,,Tachinidae,Exoristinae,Myxexoristops,,Tachinidae | Exoristinae | Myxexoristops,abietis Hert.,7455C,1475102,7455C,1475102
+B48:2:418,Myxexoristops stolida Stein,Stein,Myxexoristops,,stolida,,species,,B48:2,accepted,,,B48:2:412,Myxexoristops,,,,,Tachinidae,Exoristinae,Myxexoristops,,Tachinidae | Exoristinae | Myxexoristops,stolida Stein,45GXK,1475103,45GXK,1475103
+B48:2:419,Zenillia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Zenillia,,Tachinidae | Exoristinae,Zenillia,BYT7T,1464788,BYT7T,1464788
+B48:2:420,Zenillia libatrix Panz.,Panz.,Zenillia,,libatrix,,species,,B48:2,accepted,,,B48:2:419,Zenillia,,,,,Tachinidae,Exoristinae,Zenillia,,Tachinidae | Exoristinae | Zenillia,libatrix Panz.,7GDMZ,1464816,7GDMZ,1464816
+B48:2:421,Zenillia dolosa Meig.,Meig.,Zenillia,,dolosa,,species,,B48:2,accepted,,,B48:2:419,Zenillia,,,,,Tachinidae,Exoristinae,Zenillia,,Tachinidae | Exoristinae | Zenillia,dolosa Meig.,7GDP8,1464834,7GDP8,1464834
+B48:2:422,Pales,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Pales,,Tachinidae | Exoristinae,Pales,,6757763,,6757763
+B48:2:423,Pales peregrina Hert.,Hert.,Pales,,peregrina,,species,,B48:2,accepted,,,B48:2:422,Pales,,,,,Tachinidae,Exoristinae,Pales,,Tachinidae | Exoristinae | Pales,peregrina Hert.,,8221012,,8221012
+B48:2:424,Pales pavida Meig.,Meig.,Pales,,pavida,,species,,B48:2,accepted,,,B48:2:422,Pales,,,,,Tachinidae,Exoristinae,Pales,,Tachinidae | Exoristinae | Pales,pavida Meig.,,1466440,,1466440
+B48:2:425,Pales processioneae Ratz.,Ratz.,Pales,,processioneae,,species,,B48:2,accepted,,,B48:2:422,Pales,,,,,Tachinidae,Exoristinae,Pales,,Tachinidae | Exoristinae | Pales,processioneae Ratz.,,1466416,,1466416
+B48:2:426,Cyzenis,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Cyzenis,,Tachinidae | Exoristinae,Cyzenis,BYBFQ,1475880,BYBFQ,1475880
+B48:2:427,Cyzenis albicans Fall.,Fall.,Cyzenis,,albicans,,species,,B48:2,accepted,,,B48:2:426,Cyzenis,,,,,Tachinidae,Exoristinae,Cyzenis,,Tachinidae | Exoristinae | Cyzenis,albicans Fall.,33SRL,1475893,33SRL,1475893
+B48:2:428,Cyzenis jucunda Meig.,Meig.,Cyzenis,,jucunda,,species,,B48:2,accepted,,,B48:2:426,Cyzenis,,,,,Tachinidae,Exoristinae,Cyzenis,,Tachinidae | Exoristinae | Cyzenis,jucunda Meig.,33SRR,1475889,33SRR,1475889
+B48:2:429,Bothria,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Bothria,,Tachinidae | Exoristinae,Bothria,3BTG,8141305,3BTG,8141305
+B48:2:430,Bothria frontosa Meig.,Meig.,Bothria,,frontosa,,species,,B48:2,accepted,,,B48:2:429,Bothria,,,,,Tachinidae,Exoristinae,Bothria,,Tachinidae | Exoristinae | Bothria,frontosa Meig.,MMZS,5058371,MMZS,5058371
+B48:2:431,Bothria subalpina Vill.,Vill.,Bothria,,subalpina,,species,,B48:2,accepted,,,B48:2:429,Bothria,,,,,Tachinidae,Exoristinae,Bothria,,Tachinidae | Exoristinae | Bothria,subalpina Vill.,5WQHS,5058369,5WQHS,5058369
+B48:2:432,Erycilla,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Erycilla,,Tachinidae | Exoristinae,Erycilla,C25JB,1474122,BY6TL,1474122
+B48:2:433,Erycilla ferruginea Meig.,Meig.,Erycilla,,ferruginea,,species,,B48:2,accepted,,,B48:2:432,Erycilla,,,,,Tachinidae,Exoristinae,Erycilla,,Tachinidae | Exoristinae | Erycilla,ferruginea Meig.,,1474129,,1474129
+B48:2:434,Erycilla rufipes B.B.,B.B.,Erycilla,,rufipes,,species,,B48:2,accepted,,,B48:2:432,Erycilla,,,,,Tachinidae,Exoristinae,Erycilla,,Tachinidae | Exoristinae | Erycilla,rufipes B.B.,,,,
+B48:2:435,Allophorocera,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Allophorocera,,Tachinidae | Exoristinae,Allophorocera,BY6TL,1460371,BY6TL,1460371
+B48:2:436,Allophorocera pachystyla Macq.,Macq.,Allophorocera,,pachystyla,,species,,B48:2,accepted,,,B48:2:435,Allophorocera,,,,,Tachinidae,Exoristinae,Allophorocera,,Tachinidae | Exoristinae | Allophorocera,pachystyla Macq.,BY7P,1460400,BY7P,1460400
+B48:2:437,Allophorocera lapponica Wood.,Wood.,Allophorocera,,lapponica,,species,,B48:2,accepted,,,B48:2:435,Allophorocera,,,,,Tachinidae,Exoristinae,Allophorocera,,Tachinidae | Exoristinae | Allophorocera,lapponica Wood.,BY7M,1460389,BY7M,1460389
+B48:2:438,Elodia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Elodia,,Tachinidae | Exoristinae,Elodia,BYCCK,1470273,BYCCK,1470273
+B48:2:439,Elodia morio Fall.,Fall.,Elodia,,morio,,species,,B48:2,accepted,,,B48:2:438,Elodia,,,,,Tachinidae,Exoristinae,Elodia,,Tachinidae | Exoristinae | Elodia,morio Fall.,39C9M,5058667,39C9M,5058667
+B48:2:440,Elodia ambulatoria Meig.,Meig.,Elodia,,ambulatoria,,species,,B48:2,accepted,,,B48:2:438,Elodia,,,,,Tachinidae,Exoristinae,Elodia,,Tachinidae | Exoristinae | Elodia,ambulatoria Meig.,6F4RM,5058678,6F4RM,5058678
+B48:2:441,Blepharipa,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Blepharipa,,Tachinidae | Exoristinae,Blepharipa,BXYY2,1464253,BXYY2,1464253
+B48:2:442,Blepharipa pratensis Meig.,Meig.,Blepharipa,,pratensis,,species,,B48:2,accepted,,,B48:2:441,Blepharipa,,,,,Tachinidae,Exoristinae,Blepharipa,,Tachinidae | Exoristinae | Blepharipa,pratensis Meig.,M5S3,1464295,M5S3,1464295
+B48:2:443,Blepharipa schineri Mesn.,Mesn.,Blepharipa,,schineri,,species,,B48:2,accepted,,,B48:2:441,Blepharipa,,,,,Tachinidae,Exoristinae,Blepharipa,,Tachinidae | Exoristinae | Blepharipa,schineri Mesn.,M5S5,1464288,M5S5,1464288
+B48:2:444,Masicera,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Masicera,,Tachinidae | Exoristinae,Masicera,BYHKW,1475916,BYHKW,1475916
+B48:2:445,Masicera silvatica Fall.,Fall.,Masicera,,silvatica,,species,,B48:2,accepted,,,B48:2:444,Masicera,,,,,Tachinidae,Exoristinae,Masicera,,Tachinidae | Exoristinae | Masicera,silvatica Fall.,3YBJN,1475922,3YBJN,1475922
+B48:2:446,Masicera sphingivora R.D.,R.D.,Masicera,,sphingivora,,species,,B48:2,accepted,,,B48:2:444,Masicera,,,,,Tachinidae,Exoristinae,Masicera,,Tachinidae | Exoristinae | Masicera,sphingivora R.D.,3YBJT,9536445,3YBJT,9536445
+B48:2:447,Masicera pavoniae R.D.,R.D.,Masicera,,pavoniae,,species,,B48:2,accepted,,,B48:2:444,Masicera,,,,,Tachinidae,Exoristinae,Masicera,,Tachinidae | Exoristinae | Masicera,pavoniae R.D.,3YBHZ,1475918,3YBHZ,1475918
+B48:2:448,Gaedia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Gaedia,,Tachinidae | Exoristinae,Gaedia,BYDHB,1468709,BYDHB,1468709
+B48:2:449,Gaedia connexa Meig.,Meig.,Gaedia,,connexa,,species,,B48:2,accepted,,,B48:2:448,Gaedia,,,,,Tachinidae,Exoristinae,Gaedia,,Tachinidae | Exoristinae | Gaedia,connexa Meig.,6JV2W,1468711,6JV2W,1468711
+B48:2:450,Gaedia distincta Egg.,Egg.,Gaedia,,distincta,,species,,B48:2,accepted,,,B48:2:448,Gaedia,,,,,Tachinidae,Exoristinae,Gaedia,,Tachinidae | Exoristinae | Gaedia,distincta Egg.,6JV38,1468715,6JV38,1468715
+B48:2:451,Gonia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Gonia,,Tachinidae | Exoristinae,Gonia,BYDQS,1479207,BYDQS,1479207
+B48:2:452,Gonia divisa Meig.,Meig.,Gonia,,divisa,,species,,B48:2,accepted,,,B48:2:451,Gonia,,,,,Tachinidae,Exoristinae,Gonia,,Tachinidae | Exoristinae | Gonia,divisa Meig.,3GV3H,5060329,3GV3H,5060329
+B48:2:453,Gonia foersteri Meig.,Meig.,Gonia,,foersteri,,species,,B48:2,accepted,,,B48:2:451,Gonia,,,,,Tachinidae,Exoristinae,Gonia,,Tachinidae | Exoristinae | Gonia,foersteri Meig.,3GV3N,5060315,3GV3N,5060315
+B48:2:454,Gonia vacua Meig.,Meig.,Gonia,,vacua,,species,,B48:2,accepted,,,B48:2:451,Gonia,,,,,Tachinidae,Exoristinae,Gonia,,Tachinidae | Exoristinae | Gonia,vacua Meig.,6KQV9,5060291,6KQV9,5060291
+B48:2:455,Gonia capitata DeG.,DeG.,Gonia,,capitata,,species,,B48:2,accepted,,,B48:2:451,Gonia,,,,,Tachinidae,Exoristinae,Gonia,,Tachinidae | Exoristinae | Gonia,capitata DeG.,3GV33,5060271,3GV33,5060271
+B48:2:456,Gonia ornata Meig.,Meig.,Gonia,,ornata,,species,,B48:2,accepted,,,B48:2:451,Gonia,,,,,Tachinidae,Exoristinae,Gonia,,Tachinidae | Exoristinae | Gonia,ornata Meig.,3GV4S,5060304,3GV4S,5060304
+B48:2:457,Gonia picea R.D.,R.D.,Gonia,,picea,,species,,B48:2,accepted,,,B48:2:451,Gonia,,,,,Tachinidae,Exoristinae,Gonia,,Tachinidae | Exoristinae | Gonia,picea R.D.,3GV4X,5060286,3GV4X,5060286
+B48:2:458,Gonia distinguenda Hert.,Hert.,Gonia,,distinguenda,,species,,B48:2,accepted,,,B48:2:451,Gonia,,,,,Tachinidae,Exoristinae,Gonia,,Tachinidae | Exoristinae | Gonia,distinguenda Hert.,3GV3G,5060255,3GV3G,5060255
+B48:2:459,Onychogonia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Onychogonia,,Tachinidae | Exoristinae,Onychogonia,BYKPR,1469175,BYKPR,1469175
+B48:2:460,Onychogonia flaviceps Zett.,Zett.,Onychogonia,,flaviceps,,species,,B48:2,accepted,,,B48:2:459,Onychogonia,,,,,Tachinidae,Exoristinae,Onychogonia,,Tachinidae | Exoristinae | Onychogonia,flaviceps Zett.,49RB3,1469177,49RB3,1469177
+B48:2:461,Onychogonia cervini Bigot,Bigot,Onychogonia,,cervini,,species,,B48:2,accepted,,,B48:2:459,Onychogonia,,,,,Tachinidae,Exoristinae,Onychogonia,,Tachinidae | Exoristinae | Onychogonia,cervini Bigot,6SM8P,1469176,6SM8P,1469176
+B48:2:462,Onychogonia suggesta Pand.,Pand.,Onychogonia,,suggesta,,species,,B48:2,accepted,,,B48:2:459,Onychogonia,,,,,Tachinidae,Exoristinae,Onychogonia,,Tachinidae | Exoristinae | Onychogonia,suggesta Pand.,49RB6,1469187,49RB6,1469187
+B48:2:463,Pseudogonia,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Pseudogonia,,Tachinidae | Exoristinae,Pseudogonia,BY3ZF,1474629,BY3ZF,1474629
+B48:2:464,Pseudogonia parisiaca R.D.,R.D.,Pseudogonia,,parisiaca,,species,,B48:2,accepted,,,B48:2:463,Pseudogonia,,,,,Tachinidae,Exoristinae,Pseudogonia,,Tachinidae | Exoristinae | Pseudogonia,parisiaca R.D.,4NXLH,1474644,4NXLH,1474644
+B48:2:465,Pseudogonia rufifrons Wied.,Wied.,Pseudogonia,,rufifrons,,species,,B48:2,accepted,,,B48:2:463,Pseudogonia,,,,,Tachinidae,Exoristinae,Pseudogonia,,Tachinidae | Exoristinae | Pseudogonia,rufifrons Wied.,4NXLK,1474631,4NXLK,1474631
+B48:2:466,Spallanzania,,,,,,genus,,B48:2,accepted,,,B48:2:243,Exoristinae,,,,,Tachinidae,Exoristinae,Spallanzania,,Tachinidae | Exoristinae,Spallanzania,BYQJX,1469322,BYQJX,1469322
+B48:2:467,Spallanzania hebes Fall.,Fall.,Spallanzania,,hebes,,species,,B48:2,accepted,,,B48:2:466,Spallanzania,,,,,Tachinidae,Exoristinae,Spallanzania,,Tachinidae | Exoristinae | Spallanzania,hebes Fall.,6YVVB,1469327,6YVVB,1469327
+B48:2:468,Spallanzania multisetosa Rond.,Rond.,Spallanzania,,multisetosa,,species,,B48:2,accepted,,,B48:2:466,Spallanzania,,,,,Tachinidae,Exoristinae,Spallanzania,,Tachinidae | Exoristinae | Spallanzania,multisetosa Rond.,6Z7VB,1469338,6Z7VB,1469338
+B48:2:469,Spallanzania quadrimaculata Hert.,Hert.,Spallanzania,,quadrimaculata,,species,,B48:2,accepted,,,B48:2:466,Spallanzania,,,,,Tachinidae,Exoristinae,Spallanzania,,Tachinidae | Exoristinae | Spallanzania,quadrimaculata Hert.,6YVTC,1469324,6YVTC,1469324
+B48:2:470,Tachininae,,,,,,subfamily,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,Tachininae,,,Tachinidae,Tachininae,9H6NM,,9H6NM,
+B48:2:471,Tachina,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Tachina,,Tachinidae | Tachininae,Tachina,BY4M8,1470805,BY4M8,1470805
+B48:2:472,Tachina lurida F.,F.,Tachina,,lurida,,species,,B48:2,accepted,,,B48:2:471,Tachina,,,,,Tachinidae,Tachininae,Tachina,,Tachinidae | Tachininae | Tachina,lurida F.,8FBKV,1461505,8FBKV,1461505
+B48:2:473,Tachina ursina Meig.,Meig.,Tachina,,ursina,,species,,B48:2,accepted,,,B48:2:471,Tachina,,,,,Tachinidae,Tachininae,Tachina,,Tachinidae | Tachininae | Tachina,ursina Meig.,8FBLV,5978726,8FBLV,5978726
+B48:2:474,Tachina nigrohirta Stein,Stein,Tachina,,nigrohirta,,species,,B48:2,accepted,,,B48:2:471,Tachina,,,,,Tachinidae,Tachininae,Tachina,,Tachinidae | Tachininae | Tachina,nigrohirta Stein,,6099969,,5978726
+B48:2:475,Tachina grossa L.,L.,Tachina,,grossa,,species,,B48:2,accepted,,,B48:2:471,Tachina,,,,,Tachinidae,Tachininae,Tachina,,Tachinidae | Tachininae | Tachina,grossa L.,8FBM3,5978626,8FBM3,5978626
+B48:2:476,Tachina praeceps Meig.,Meig.,Tachina,,praeceps,,species,,B48:2,accepted,,,B48:2:471,Tachina,,,,,Tachinidae,Tachininae,Tachina,,Tachinidae | Tachininae | Tachina,praeceps Meig.,8FBHH,5978699,8FBHH,5978699
+B48:2:477,Tachina fera L.,L.,Tachina,,fera,,species,,B48:2,accepted,,,B48:2:471,Tachina,,,,,Tachinidae,Tachininae,Tachina,,Tachinidae | Tachininae | Tachina,fera L.,8FBHX,5978844,8FBHX,5978844
+B48:2:478,Tachina magnicornis Zett.,Zett.,Tachina,,magnicornis,,species,,B48:2,accepted,,,B48:2:471,Tachina,,,,,Tachinidae,Tachininae,Tachina,,Tachinidae | Tachininae | Tachina,magnicornis Zett.,8FBM6,1477768,8FBM6,1477768
+B48:2:479,Tachina nupta Rond.,Rond.,Tachina,,nupta,,species,,B48:2,accepted,,,B48:2:471,Tachina,,,,,Tachinidae,Tachininae,Tachina,,Tachinidae | Tachininae | Tachina,nupta Rond.,54B3B,5978620,54B3B,5978620
+B48:2:480,Nowickia,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Nowickia,,Tachinidae | Tachininae,Nowickia,65R4,3264512,65R4,3264512
+B48:2:481,Nowickia marklini Zett.,Zett.,Nowickia,,marklini,,species,,B48:2,accepted,,,B48:2:480,Nowickia,,,,,Tachinidae,Tachininae,Nowickia,,Tachinidae | Tachininae | Nowickia,marklini Zett.,B9VD7,1466882,B9VD7,1466882
+B48:2:482,Nowickia alpina Zett.,Zett.,Nowickia,,alpina,,species,,B48:2,accepted,,,B48:2:480,Nowickia,,,,,Tachinidae,Tachininae,Nowickia,,Tachinidae | Tachininae | Nowickia,alpina Zett.,8D2DG,4514992,8D2DG,4514992
+B48:2:483,Nowickia ferox Panz.,Panz.,Nowickia,,ferox,,species,,B48:2,accepted,,,B48:2:480,Nowickia,,,,,Tachinidae,Tachininae,Nowickia,,Tachinidae | Tachininae | Nowickia,ferox Panz.,8D2D3,4514994,8D2D3,4514994
+B48:2:484,Nowickia atripalpis R.D.,R.D.,Nowickia,,atripalpis,,species,,B48:2,accepted,,,B48:2:480,Nowickia,,,,,Tachinidae,Tachininae,Nowickia,,Tachinidae | Tachininae | Nowickia,atripalpis R.D.,8D2CZ,1466851,8D2CZ,1466851
+B48:2:485,Nowickia reducta Mesn.,Mesn.,Nowickia,,reducta,,species,,B48:2,accepted,,,B48:2:480,Nowickia,,,,,Tachinidae,Tachininae,Nowickia,,Tachinidae | Tachininae | Nowickia,reducta Mesn.,8D2D9,4514993,8D2D9,4514993
+B48:2:486,Nowickia rondanii Giglio-Tos,Giglio-Tos,Nowickia,,rondanii,,species,,B48:2,accepted,,,B48:2:480,Nowickia,,,,,Tachinidae,Tachininae,Nowickia,,Tachinidae | Tachininae | Nowickia,rondanii Giglio-Tos,8D2DB,1466856,8D2DB,1466856
+B48:2:487,Nowickia strobeli Rond.,Rond.,Nowickia,,strobeli,,species,,B48:2,accepted,,,B48:2:480,Nowickia,,,,,Tachinidae,Tachininae,Nowickia,,Tachinidae | Tachininae | Nowickia,strobeli Rond.,8D2DC,1466877,8D2DC,1466877
+B48:2:488,Peleteria,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Peleteria,,Tachinidae | Tachininae,Peleteria,BYLZG,1470888,BYLZG,1470888
+B48:2:489,Peleteria popeli Portsh.,Portsh.,Peleteria,,popeli,,species,,B48:2,accepted,,,B48:2:488,Peleteria,,,,,Tachinidae,Tachininae,Peleteria,,Tachinidae | Tachininae | Peleteria,popeli Portsh.,75Z28,1470930,75Z28,1470930
+B48:2:490,Peleteria varia F.,F.,Peleteria,,varia,,species,,B48:2,accepted,,,B48:2:488,Peleteria,,,,,Tachinidae,Tachininae,Peleteria,,Tachinidae | Tachininae | Peleteria,varia F.,,4515062,,5978904
+B48:2:491,Peleteria ferina Zett.,Zett.,Peleteria,,ferina,,species,,B48:2,accepted,,,B48:2:488,Peleteria,,,,,Tachinidae,Tachininae,Peleteria,,Tachinidae | Tachininae | Peleteria,ferina Zett.,6TZ42,1470967,6TZ42,1470967
+B48:2:492,Peleteria prompta Meig.,Meig.,Peleteria,,prompta,,species,,B48:2,accepted,,,B48:2:488,Peleteria,,,,,Tachinidae,Tachininae,Peleteria,,Tachinidae | Tachininae | Peleteria,prompta Meig.,6TYQ9,1470910,6TYQ9,1470910
+B48:2:493,Peleteria rubescens R.D.,R.D.,Peleteria,,rubescens,,species,,B48:2,accepted,,,B48:2:488,Peleteria,,,,,Tachinidae,Tachininae,Peleteria,,Tachinidae | Tachininae | Peleteria,rubescens R.D.,6TZ2B,1471050,6TZ2B,1471050
+B48:2:494,Germaria,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Germaria,,Tachinidae | Tachininae,Germaria,BY46F,1473146,BY46F,1473146
+B48:2:495,Germaria ruficeps Meig.,Meig.,Germaria,,ruficeps,,species,,B48:2,accepted,,,B48:2:494,Germaria,,,,,Tachinidae,Tachininae,Germaria,,Tachinidae | Tachininae | Germaria,ruficeps Meig.,3FWLV,1473151,3FWLV,1473151
+B48:2:496,Germaria angustata Zett.,Zett.,Germaria,,angustata,,species,,B48:2,accepted,,,B48:2:494,Germaria,,,,,Tachinidae,Tachininae,Germaria,,Tachinidae | Tachininae | Germaria,angustata Zett.,3FWLG,1473158,3FWLG,1473158
+B48:2:497,Linnaemya,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae,Linnaemya,BY2QF,1465499,BY2QF,1465499
+B48:2:498,Linnaemya frater Rond.,Rond.,Linnaemya,,frater,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,frater Rond.,8CMHL,1465527,8CMHL,1465527
+B48:2:499,Linnaemya vulpina Fall.,Fall.,Linnaemya,,vulpina,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,vulpina Fall.,8CMJD,1465590,8CMJD,1465590
+B48:2:500,Linnaemya comta Fall.,Fall.,Linnaemya,,comta,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,comta Fall.,3V37C,1465661,3V37C,1465661
+B48:2:501,Linnaemya steini Jacentk.,Jacentk.,Linnaemya,,steini,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,steini Jacentk.,8CMHV,1465679,8CMHV,1465679
+B48:2:502,Linnaemya tesselans R.D.,R.D.,Linnaemya,,tesselans,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,tesselans R.D.,8CMH9,1465749,8CMH9,1465749
+B48:2:503,Linnaemya impudica Rond.,Rond.,Linnaemya,,impudica,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,impudica Rond.,8CMH7,1465520,8CMH7,1465520
+B48:2:504,Linnaemya helvetica Hert.,Hert.,Linnaemya,,helvetica,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,helvetica Hert.,8CMJJ,1465655,8CMJJ,1465655
+B48:2:505,Linnaemya rossica Zimin,Zimin,Linnaemya,,rossica,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,rossica Zimin,8CMK3,1465547,8CMK3,1465547
+B48:2:506,Linnaemya haemorrhoidalis Fall.,Fall.,Linnaemya,,haemorrhoidalis,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,haemorrhoidalis Fall.,8CMJH,1465688,8CMJH,1465688
+B48:2:507,Linnaemya perinealis Pand.,Pand.,Linnaemya,,perinealis,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,perinealis Pand.,8CMJW,1465637,8CMJW,1465637
+B48:2:508,Linnaemya fissiglobula Pand.,Pand.,Linnaemya,,fissiglobula,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,fissiglobula Pand.,8CMJG,1465694,8CMJG,1465694
+B48:2:509,Linnaemya zachvatkini Zimin,Zimin,Linnaemya,,zachvatkini,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,zachvatkini Zimin,C2DV6,4515006,C2DV6,4515006
+B48:2:510,Linnaemya picta Meig.,Meig.,Linnaemya,,picta,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,picta Meig.,8CMJY,1465603,8CMJY,1465603
+B48:2:511,Linnaemya olsufjevi Zimin,Zimin,Linnaemya,,olsufjevi,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,olsufjevi Zimin,8CMJS,1465743,8CMJS,1465743
+B48:2:512,Linnaemya media Zimin,Zimin,Linnaemya,,media,,species,,B48:2,accepted,,,B48:2:497,Linnaemya,,,,,Tachinidae,Tachininae,Linnaemya,,Tachinidae | Tachininae | Linnaemya,media Zimin,8CMJM,1465533,8CMJM,1465533
+B48:2:513,Lypha,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Lypha,,Tachinidae | Tachininae,Lypha,BYH8S,1460282,BYH8S,1460282
+B48:2:514,Lypha ruficauda Zett.,Zett.,Lypha,,ruficauda,,species,,B48:2,accepted,,,B48:2:513,Lypha,,,,,Tachinidae,Tachininae,Lypha,,Tachinidae | Tachininae | Lypha,ruficauda Zett.,,1460327,,1460327
+B48:2:515,Lypha dubia Fall.,Fall.,Lypha,,dubia,,species,,B48:2,accepted,,,B48:2:513,Lypha,,,,,Tachinidae,Tachininae,Lypha,,Tachinidae | Tachininae | Lypha,dubia Fall.,72QXF,1460307,72QXF,1460307
+B48:2:516,Ernestia,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Ernestia,,Tachinidae | Tachininae,Ernestia,87FWT,8201362,87FWT,1471955
+B48:2:517,Ernestia vagans Meig.,Meig.,Ernestia,,vagans,,species,,B48:2,accepted,,,B48:2:516,Ernestia,,,,,Tachinidae,Tachininae,Ernestia,,Tachinidae | Tachininae | Ernestia,vagans Meig.,,1471400,,5978451
+B48:2:518,Ernestia rudis Fall.,Fall.,Ernestia,,rudis,,species,,B48:2,accepted,,,B48:2:516,Ernestia,,,,,Tachinidae,Tachininae,Ernestia,,Tachinidae | Tachininae | Ernestia,rudis Fall.,,1471361,,5978455
+B48:2:519,Ernestia laevigata Meig.,Meig.,Ernestia,,laevigata,,species,,B48:2,accepted,,,B48:2:516,Ernestia,,,,,Tachinidae,Tachininae,Ernestia,,Tachinidae | Tachininae | Ernestia,laevigata Meig.,,1471374,,5978457
+B48:2:520,Ernestia puparum F.,F.,Ernestia,,puparum,,species,,B48:2,accepted,,,B48:2:516,Ernestia,,,,,Tachinidae,Tachininae,Ernestia,,Tachinidae | Tachininae | Ernestia,puparum F.,,1471379,,5978458
+B48:2:521,Ernestia argentifera Meig.,Meig.,Ernestia,,argentifera,,species,,B48:2,accepted,,,B48:2:516,Ernestia,,,,,Tachinidae,Tachininae,Ernestia,,Tachinidae | Tachininae | Ernestia,argentifera Meig.,,8215047,,5978453
+B48:2:522,Eurithia,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae,Eurithia,,1461444,,1461444
+B48:2:523,Eurithia anthophila R.D.,R.D.,Eurithia,,anthophila,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,anthophila R.D.,,1461502,,1461502
+B48:2:524,Eurithia intermedia Zett.,Zett.,Eurithia,,intermedia,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,intermedia Zett.,,1461529,,1461529
+B48:2:525,Eurithia vivida Zett.,Zett.,Eurithia,,vivida,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,vivida Zett.,,1461480,,1461480
+B48:2:526,Eurithia connivens Zett.,Zett.,Eurithia,,connivens,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,connivens Zett.,,1461447,,1461447
+B48:2:527,Eurithia consobrina Meig.,Meig.,Eurithia,,consobrina,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,consobrina Meig.,,1461513,,1461513
+B48:2:528,Eurithia caesia Fall.,Fall.,Eurithia,,caesia,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,caesia Fall.,,1461474,,1461474
+B48:2:529,Eurithia suspecta Pand.,Pand.,Eurithia,,suspecta,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,suspecta Pand.,,1461445,,1461445
+B48:2:530,Eurithia indigens Pand.,Pand.,Eurithia,,indigens,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,indigens Pand.,,1461461,,1461461
+B48:2:531,Eurithia fucosa Meig.,Meig.,Eurithia,,fucosa,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,fucosa Meig.,,1461492,,1461492
+B48:2:532,Eurithia incongruens Hert.,Hert.,Eurithia,,incongruens,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,incongruens Hert.,3D26B,1461488,C2FC4,1461488
+B48:2:533,Eurithia gemina Mesn.,Mesn.,Eurithia,,gemina,,species,,B48:2,accepted,,,B48:2:522,Eurithia,,,,,Tachinidae,Tachininae,Eurithia,,Tachinidae | Tachininae | Eurithia,gemina Mesn.,,1461450,,1461450
+B48:2:534,Hyalurgus,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Hyalurgus,,Tachinidae | Tachininae,Hyalurgus,BYFM3,1461921,BYFM3,1461921
+B48:2:535,Hyalurgus tomostethis Cep.,Cep.,Hyalurgus,,tomostethis,,species,,B48:2,accepted,,,B48:2:534,Hyalurgus,,,,,Tachinidae,Tachininae,Hyalurgus,,Tachinidae | Tachininae | Hyalurgus,tomostethis Cep.,3MXJ9,1461946,3MXJ9,1461946
+B48:2:536,Hyalurgus lucidus Meig.,Meig.,Hyalurgus,,lucidus,,species,,B48:2,accepted,,,B48:2:534,Hyalurgus,,,,,Tachinidae,Tachininae,Hyalurgus,,Tachinidae | Tachininae | Hyalurgus,lucidus Meig.,3MXJ5,1461943,3MXJ5,1461943
+B48:2:537,Hyalurgus crucigera Zett.,Zett.,Hyalurgus,,crucigera,,species,,B48:2,accepted,,,B48:2:534,Hyalurgus,,,,,Tachinidae,Tachininae,Hyalurgus,,Tachinidae | Tachininae | Hyalurgus,crucigera Zett.,8CDFL,1461934,8CDFL,4515036
+B48:2:538,Gymnocheta,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Gymnocheta,,Tachinidae | Tachininae,Gymnocheta,BYDXB,1472971,BYDXB,1472971
+B48:2:539,Gymnocheta viridis Fall.,Fall.,Gymnocheta,,viridis,,species,,B48:2,accepted,,,B48:2:538,Gymnocheta,,,,,Tachinidae,Tachininae,Gymnocheta,,Tachinidae | Tachininae | Gymnocheta,viridis Fall.,3HR3S,4514997,3HR3S,4514997
+B48:2:540,Gymnocheta magna Zimin.,Zimin.,Gymnocheta,,magna,,species,,B48:2,accepted,,,B48:2:538,Gymnocheta,,,,,Tachinidae,Tachininae,Gymnocheta,,Tachinidae | Tachininae | Gymnocheta,magna Zimin.,3HR3K,4514996,3HR3K,4514996
+B48:2:541,Cleonice,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Cleonice,,Tachinidae | Tachininae,Cleonice,BY9PV,1477984,BY9PV,1477984
+B48:2:542,Cleonice callida Meig.,Meig.,Cleonice,,callida,,species,,B48:2,accepted,,,B48:2:541,Cleonice,,,,,Tachinidae,Tachininae,Cleonice,,Tachinidae | Tachininae | Cleonice,callida Meig.,VZH2,5060102,VZH2,5060102
+B48:2:543,Cleonice nitidiuscula Zett.,Zett.,Cleonice,,nitidiuscula,,species,,B48:2,accepted,,,B48:2:541,Cleonice,,,,,Tachinidae,Tachininae,Cleonice,,Tachinidae | Tachininae | Cleonice,nitidiuscula Zett.,C2CVF,7987713,C2CVF,5060107
+B48:2:544,Loewia,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Loewia,,Tachinidae | Tachininae,Loewia,BXXHM,1475055,BXXHM,1475055
+B48:2:545,Loewia submetallica Macq.,Macq.,Loewia,,submetallica,,species,,B48:2,accepted,,,B48:2:544,Loewia,,,,,Tachinidae,Tachininae,Loewia,,Tachinidae | Tachininae | Loewia,submetallica Macq.,3VVC6,5059590,3VVC6,5059590
+B48:2:546,Loewia piligena Mesn.,Mesn.,Loewia,,piligena,,species,,B48:2,accepted,,,B48:2:544,Loewia,,,,,Tachinidae,Tachininae,Loewia,,Tachinidae | Tachininae | Loewia,piligena Mesn.,3VVC2,5059592,3VVC2,5059592
+B48:2:547,Loewia foeda Meig.,Meig.,Loewia,,foeda,,species,,B48:2,accepted,,,B48:2:544,Loewia,,,,,Tachinidae,Tachininae,Loewia,,Tachinidae | Tachininae | Loewia,foeda Meig.,3VVBR,5059602,3VVBR,5059602
+B48:2:548,Loewia phaeoptera Meig.,Meig.,Loewia,,phaeoptera,,species,,B48:2,accepted,,,B48:2:544,Loewia,,,,,Tachinidae,Tachininae,Loewia,,Tachinidae | Tachininae | Loewia,phaeoptera Meig.,3VVBY,5059588,3VVBY,5059588
+B48:2:549,Loewia adjuncta Hert.,Hert.,Loewia,,adjuncta,,species,,B48:2,accepted,,,B48:2:544,Loewia,,,,,Tachinidae,Tachininae,Loewia,,Tachinidae | Tachininae | Loewia,adjuncta Hert.,3VVBK,5059594,3VVBK,5059594
+B48:2:550,Loewia nudigena Mesn.,Mesn.,Loewia,,nudigena,,species,,B48:2,accepted,,,B48:2:544,Loewia,,,,,Tachinidae,Tachininae,Loewia,,Tachinidae | Tachininae | Loewia,nudigena Mesn.,3VVBX,5059600,3VVBX,5059600
+B48:2:551,Macquartia,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae,Macquartia,BY2SH,1465103,BY2SH,1465103
+B48:2:552,Macquartia pubiceps Zett.,Zett.,Macquartia,,pubiceps,,species,,B48:2,accepted,,,B48:2:551,Macquartia,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae | Macquartia,pubiceps Zett.,3X26L,5057544,3X26L,5057544
+B48:2:553,Macquartia tesselum Meig.,Meig.,Macquartia,,tesselum,,species,,B48:2,accepted,,,B48:2:551,Macquartia,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae | Macquartia,tesselum Meig.,3X26T,5057546,3X26T,5057546
+B48:2:554,Macquartia grisea Fall.,Fall.,Macquartia,,grisea,,species,,B48:2,accepted,,,B48:2:551,Macquartia,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae | Macquartia,grisea Fall.,6QQJY,5057559,6QQJY,5057559
+B48:2:555,Macquartia macularis Vill.,Vill.,Macquartia,,macularis,,species,,B48:2,accepted,,,B48:2:551,Macquartia,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae | Macquartia,macularis Vill.,3X263,5057539,3X263,5057539
+B48:2:556,Macquartia dispar Fall.,Fall.,Macquartia,,dispar,,species,,B48:2,accepted,,,B48:2:551,Macquartia,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae | Macquartia,dispar Fall.,3X25J,5057534,3X25J,5057534
+B48:2:557,Macquartia viridana R.D.,R.D.,Macquartia,,viridana,,species,,B48:2,accepted,,,B48:2:551,Macquartia,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae | Macquartia,viridana R.D.,3X26X,5057530,3X26X,5057530
+B48:2:558,Macquartia tenebricosa Meig.,Meig.,Macquartia,,tenebricosa,,species,,B48:2,accepted,,,B48:2:551,Macquartia,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae | Macquartia,tenebricosa Meig.,3X26R,5057523,3X26R,5057523
+B48:2:559,Macquartia chalconota Meig.,Meig.,Macquartia,,chalconota,,species,,B48:2,accepted,,,B48:2:551,Macquartia,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae | Macquartia,chalconota Meig.,3X25F,5057508,3X25F,5057508
+B48:2:560,Macquartia nudigena Mesn.,Mesn.,Macquartia,,nudigena,,species,,B48:2,accepted,,,B48:2:551,Macquartia,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae | Macquartia,nudigena Mesn.,6R2JY,5057503,6R2JY,5057503
+B48:2:561,Macquartia praefica Meig.,Meig.,Macquartia,,praefica,,species,,B48:2,accepted,,,B48:2:551,Macquartia,,,,,Tachinidae,Tachininae,Macquartia,,Tachinidae | Tachininae | Macquartia,praefica Meig.,3X26J,5057516,3X26J,5057516
+B48:2:562,Anthomyiopsis,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Anthomyiopsis,,Tachinidae | Tachininae,Anthomyiopsis,BY79G,1462551,BY79G,1462551
+B48:2:563,Anthomyiopsis nigrisquamata Zett.,Zett.,Anthomyiopsis,,nigrisquamata,,species,,B48:2,accepted,,,B48:2:562,Anthomyiopsis,,,,,Tachinidae,Tachininae,Anthomyiopsis,,Tachinidae | Tachininae | Anthomyiopsis,nigrisquamata Zett.,5VDN9,1462557,5VDN9,1462557
+B48:2:564,Anthomyiopsis plagioderae Mesn.,Mesn.,Anthomyiopsis,,plagioderae,,species,,B48:2,accepted,,,B48:2:562,Anthomyiopsis,,,,,Tachinidae,Tachininae,Anthomyiopsis,,Tachinidae | Tachininae | Anthomyiopsis,plagioderae Mesn.,67DMX,1462553,67DMX,1462553
+B48:2:565,Elfia,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Elfia,,Tachinidae | Tachininae,Elfia,BYZF7,1476005,BYMK4,1476005
+B48:2:566,Elfia nigroaenea Hert.,Hert.,Elfia,,nigroaenea,,species,,B48:2,accepted,,,B48:2:565,Elfia,,,,,Tachinidae,Tachininae,Elfia,,Tachinidae | Tachininae | Elfia,nigroaenea Hert.,BZ7XG,1476028,BZCR5,4515083
+B48:2:567,Elfia riedeli Vill.,Vill.,Elfia,,riedeli,,species,,B48:2,accepted,,,B48:2:565,Elfia,,,,,Tachinidae,Tachininae,Elfia,,Tachinidae | Tachininae | Elfia,riedeli Vill.,,,,
+B48:2:568,Elfia bohemica Kramer,Kramer,Elfia,,bohemica,,species,,B48:2,accepted,,,B48:2:565,Elfia,,,,,Tachinidae,Tachininae,Elfia,,Tachinidae | Tachininae | Elfia,bohemica Kramer,,,,
+B48:2:569,Elfia zonella Zett.,Zett.,Elfia,,zonella,,species,,B48:2,accepted,,,B48:2:565,Elfia,,,,,Tachinidae,Tachininae,Elfia,,Tachinidae | Tachininae | Elfia,zonella Zett.,,,,
+B48:2:570,Elfia cingulata R.D.,R.D.,Elfia,,cingulata,,species,,B48:2,accepted,,,B48:2:565,Elfia,,,,,Tachinidae,Tachininae,Elfia,,Tachinidae | Tachininae | Elfia,cingulata R.D.,,1476041,,4515079
+B48:2:571,Elfia minutissima Zett.,Zett.,Elfia,,minutissima,,species,,B48:2,accepted,,,B48:2:565,Elfia,,,,,Tachinidae,Tachininae,Elfia,,Tachinidae | Tachininae | Elfia,minutissima Zett.,,1476015,,4515076
+B48:2:572,Phytomyptera,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Phytomyptera,,Tachinidae | Tachininae,Phytomyptera,BYMK4,1463261,BYMK4,1463261
+B48:2:573,Phytomyptera nigrina Meig.,Meig.,Phytomyptera,,nigrina,,species,,B48:2,accepted,,,B48:2:572,Phytomyptera,,,,,Tachinidae,Tachininae,Phytomyptera,,Tachinidae | Tachininae | Phytomyptera,nigrina Meig.,4HMJF,1463324,4HMJF,1463324
+B48:2:574,Phytomyptera vaccinii Sint.,Sint.,Phytomyptera,,vaccinii,,species,,B48:2,accepted,,,B48:2:572,Phytomyptera,,,,,Tachinidae,Tachininae,Phytomyptera,,Tachinidae | Tachininae | Phytomyptera,vaccinii Sint.,4HMK6,1463325,4HMJF,1463324
+B48:2:575,Graphogaster,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Graphogaster,,Tachinidae | Tachininae,Graphogaster,BYDST,1463356,BYDST,1463356
+B48:2:576,Graphogaster dispar B.B.,B.B.,Graphogaster,,dispar,,species,,B48:2,accepted,,,B48:2:575,Graphogaster,,,,,Tachinidae,Tachininae,Graphogaster,,Tachinidae | Tachininae | Graphogaster,dispar B.B.,6L3H4,1463362,6L3H4,1463362
+B48:2:577,Graphogaster buccata Hert.,Hert.,Graphogaster,,buccata,,species,,B48:2,accepted,,,B48:2:575,Graphogaster,,,,,Tachinidae,Tachininae,Graphogaster,,Tachinidae | Tachininae | Graphogaster,buccata Hert.,8C8N4,1463360,8C8N4,1463360
+B48:2:578,Graphogaster brunnescens Vill.,Vill.,Graphogaster,,brunnescens,,species,,B48:2,accepted,,,B48:2:575,Graphogaster,,,,,Tachinidae,Tachininae,Graphogaster,,Tachinidae | Tachininae | Graphogaster,brunnescens Vill.,6KRGS,1463357,6KRGS,1463357
+B48:2:579,Graphogaster nigrescens Hert.,Hert.,Graphogaster,,nigrescens,,species,,B48:2,accepted,,,B48:2:575,Graphogaster,,,,,Tachinidae,Tachininae,Graphogaster,,Tachinidae | Tachininae | Graphogaster,nigrescens Hert.,6L3GN,1463371,6L3GN,1463371
+B48:2:580,Goniocera,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Goniocera,,Tachinidae | Tachininae,Goniocera,BYDQZ,1468760,BYDQZ,1468760
+B48:2:581,Goniocera schistacea B.B.,B.B.,Goniocera,,schistacea,,species,,B48:2,accepted,,,B48:2:580,Goniocera,,,,,Tachinidae,Tachininae,Goniocera,,Tachinidae | Tachininae | Goniocera,schistacea B.B.,3GW8H,1468770,3GW8H,1468770
+B48:2:582,Goniocera versicolor Fall.,Fall.,Goniocera,,versicolor,,species,,B48:2,accepted,,,B48:2:580,Goniocera,,,,,Tachinidae,Tachininae,Goniocera,,Tachinidae | Tachininae | Goniocera,versicolor Fall.,3GW8J,1468765,3GW8J,1468765
+B48:2:583,Entomophaga,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Entomophaga,,Tachinidae | Tachininae,Entomophaga,BXX3J,1478647,BXX3J,1478647
+B48:2:584,Entomophaga nigrohalterata Vill.,Vill.,Entomophaga,,nigrohalterata,,species,,B48:2,accepted,,,B48:2:583,Entomophaga,,,,,Tachinidae,Tachininae,Entomophaga,,Tachinidae | Tachininae | Entomophaga,nigrohalterata Vill.,6FGJL,1478649,6FGJL,1478649
+B48:2:585,Entomophaga exoleta Meig.,Meig.,Entomophaga,,exoleta,,species,,B48:2,accepted,,,B48:2:583,Entomophaga,,,,,Tachinidae,Tachininae,Entomophaga,,Tachinidae | Tachininae | Entomophaga,exoleta Meig.,6FGHY,1478654,6FGHY,1478654
+B48:2:586,Ceromya,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Ceromya,,Tachinidae | Tachininae,Ceromya,BXZ65,1469610,BXZ65,1469610
+B48:2:587,Ceromya monstrosicornis Stein,Stein,Ceromya,,monstrosicornis,,species,,B48:2,accepted,,,B48:2:586,Ceromya,,,,,Tachinidae,Tachininae,Ceromya,,Tachinidae | Tachininae | Ceromya,monstrosicornis Stein,C2CRK,6098175,C2CRK,6098175
+B48:2:588,Ceromya bicolor Meig.,Meig.,Ceromya,,bicolor,,species,,B48:2,accepted,,,B48:2:586,Ceromya,,,,,Tachinidae,Tachininae,Ceromya,,Tachinidae | Tachininae | Ceromya,bicolor Meig.,T2JQ,5058544,T2JQ,5058544
+B48:2:589,Ceromya flaviceps Ratz.,Ratz.,Ceromya,,flaviceps,,species,,B48:2,accepted,,,B48:2:586,Ceromya,,,,,Tachinidae,Tachininae,Ceromya,,Tachinidae | Tachininae | Ceromya,flaviceps Ratz.,T2K6,5058601,T2K6,5058601
+B48:2:590,Ceromya flaviseta Vill.,Vill.,Ceromya,,flaviseta,,species,,B48:2,accepted,,,B48:2:586,Ceromya,,,,,Tachinidae,Tachininae,Ceromya,,Tachinidae | Tachininae | Ceromya,flaviseta Vill.,T2K7,5058552,T2K7,5058552
+B48:2:591,Ceromya silacea Meig.,Meig.,Ceromya,,silacea,,species,,B48:2,accepted,,,B48:2:586,Ceromya,,,,,Tachinidae,Tachininae,Ceromya,,Tachinidae | Tachininae | Ceromya,silacea Meig.,T2LJ,5058572,T2LJ,5058572
+B48:2:592,Ceromya dorsigera Hert.,Hert.,Ceromya,,dorsigera,,species,,B48:2,accepted,,,B48:2:586,Ceromya,,,,,Tachinidae,Tachininae,Ceromya,,Tachinidae | Tachininae | Ceromya,dorsigera Hert.,T2JX,5058620,T2JX,5058620
+B48:2:593,Actia,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Actia,,Tachinidae | Tachininae,Actia,BXY3N,1463605,BXY3N,1463605
+B48:2:594,Actia lamia Meig.,Meig.,Actia,,lamia,,species,,B48:2,accepted,,,B48:2:593,Actia,,,,,Tachinidae,Tachininae,Actia,,Tachinidae | Tachininae | Actia,lamia Meig.,9SQP,1463624,9SQP,1463624
+B48:2:595,Actia pilipennis Fall.,Fall.,Actia,,pilipennis,,species,,B48:2,accepted,,,B48:2:593,Actia,,,,,Tachinidae,Tachininae,Actia,,Tachinidae | Tachininae | Actia,pilipennis Fall.,9SRN,9488120,9SRN,9488120
+B48:2:596,Actia crassicornis Meig.,Meig.,Actia,,crassicornis,,species,,B48:2,accepted,,,B48:2:593,Actia,,,,,Tachinidae,Tachininae,Actia,,Tachinidae | Tachininae | Actia,crassicornis Meig.,9SPY,1463706,9SPY,1463706
+B48:2:597,Actia dubitata Hert.,Hert.,Actia,,dubitata,,species,,B48:2,accepted,,,B48:2:593,Actia,,,,,Tachinidae,Tachininae,Actia,,Tachinidae | Tachininae | Actia,dubitata Hert.,9SQ8,1463716,9SQ8,1463716
+B48:2:598,Actia nudibasis Stein,Stein,Actia,,nudibasis,,species,,B48:2,accepted,,,B48:2:593,Actia,,,,,Tachinidae,Tachininae,Actia,,Tachinidae | Tachininae | Actia,nudibasis Stein,64NX7,1463642,9SQM,5057116
+B48:2:599,Actia maksymovi Mesn.,Mesn.,Actia,,maksymovi,,species,,B48:2,accepted,,,B48:2:593,Actia,,,,,Tachinidae,Tachininae,Actia,,Tachinidae | Tachininae | Actia,maksymovi Mesn.,9SQT,1463719,9SQT,1463719
+B48:2:600,Actia infantula Zett.,Zett.,Actia,,infantula,,species,,B48:2,accepted,,,B48:2:593,Actia,,,,,Tachinidae,Tachininae,Actia,,Tachinidae | Tachininae | Actia,infantula Zett.,9SQL,1463655,9SQL,1463655
+B48:2:601,Actia nigroscutellata Lundb.,Lundb.,Actia,,nigroscutellata,,species,,B48:2,accepted,,,B48:2:593,Actia,,,,,Tachinidae,Tachininae,Actia,,Tachinidae | Tachininae | Actia,nigroscutellata Lundb.,9SR7,1463654,9SR7,1463654
+B48:2:602,Peribaea,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Peribaea,,Tachinidae | Tachininae,Peribaea,BY3PD,1463869,BY3PD,1463869
+B48:2:603,Peribaea fissicornis Str.,Str.,Peribaea,,fissicornis,,species,,B48:2,accepted,,,B48:2:602,Peribaea,,,,,Tachinidae,Tachininae,Peribaea,,Tachinidae | Tachininae | Peribaea,fissicornis Str.,6V529,5057239,6V529,5057239
+B48:2:604,Peribaea tibialis R.D.,R.D.,Peribaea,,tibialis,,species,,B48:2,accepted,,,B48:2:602,Peribaea,,,,,Tachinidae,Tachininae,Peribaea,,Tachinidae | Tachininae | Peribaea,tibialis R.D.,76T4F,5057217,76T4F,5057217
+B48:2:605,Peribaea apicalis R.D.,R.D.,Peribaea,,apicalis,,species,,B48:2,accepted,,,B48:2:602,Peribaea,,,,,Tachinidae,Tachininae,Peribaea,,Tachinidae | Tachininae | Peribaea,apicalis R.D.,6V4Q8,5057259,6V4Q8,5057259
+B48:2:606,Ceranthia,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae,Ceranthia,BYTZ2,8763814,BYTZ2,8763814
+B48:2:607,Ceranthia pallida Hert.,Hert.,Ceranthia,,pallida,,species,,B48:2,accepted,,,B48:2:606,Ceranthia,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae | Ceranthia,pallida Hert.,8BCZJ,4515046,4XP79,1476607
+B48:2:608,Ceranthia abdominalis R.D.,R.D.,Ceranthia,,abdominalis,,species,,B48:2,accepted,,,B48:2:606,Ceranthia,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae | Ceranthia,abdominalis R.D.,,4515047,,1476695
+B48:2:609,Ceranthia tenuipalpis Vill.,Vill.,Ceranthia,,tenuipalpis,,species,,B48:2,accepted,,,B48:2:606,Ceranthia,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae | Ceranthia,tenuipalpis Vill.,,4515041,,1476683
+B48:2:610,Ceranthia lichtwardtiana Vill.,Vill.,Ceranthia,,lichtwardtiana,,species,,B48:2,accepted,,,B48:2:606,Ceranthia,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae | Ceranthia,lichtwardtiana Vill.,,4515039,,1476626
+B48:2:611,Ceranthia tristella Hert.,Hert.,Ceranthia,,tristella,,species,,B48:2,accepted,,,B48:2:606,Ceranthia,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae | Ceranthia,tristella Hert.,8BCZQ,4515038,4XP8T,1476594
+B48:2:612,Ceranthia samarensis Vill.,Vill.,Ceranthia,,samarensis,,species,,B48:2,accepted,,,B48:2:606,Ceranthia,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae | Ceranthia,samarensis Vill.,,6098185,,1476569
+B48:2:613,Ceranthia siphonoides Strobl.,Strobl.,Ceranthia,,siphonoides,,species,,B48:2,accepted,,,B48:2:606,Ceranthia,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae | Ceranthia,siphonoides Strobl.,,,,
+B48:2:614,Ceranthia brunnescens Vill.,Vill.,Ceranthia,,brunnescens,,species,,B48:2,accepted,,,B48:2:606,Ceranthia,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae | Ceranthia,brunnescens Vill.,,,,
+B48:2:615,Ceranthia starkei Mesn.,Mesn.,Ceranthia,,starkei,,species,,B48:2,accepted,,,B48:2:606,Ceranthia,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae | Ceranthia,starkei Mesn.,,,,
+B48:2:616,Ceranthia verralli Wainwr.,Wainwr.,Ceranthia,,verralli,,species,,B48:2,accepted,,,B48:2:606,Ceranthia,,,,,Tachinidae,Tachininae,Ceranthia,,Tachinidae | Tachininae | Ceranthia,verralli Wainwr.,8BCZS,4797414,4XP8Z,1476654
+B48:2:617,Siphona,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae,Siphona,BY4F3,1476556,BY4F3,1476556
+B48:2:618,Siphona geniculata DeG.,DeG.,Siphona,,geniculata,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,geniculata DeG.,4XP5K,1476749,4XP5K,1476749
+B48:2:619,Siphona paludosa Mesn.,Mesn.,Siphona,,paludosa,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,paludosa Mesn.,4XP7B,1476611,4XP7B,1476611
+B48:2:620,Siphona nigricans Vill.,Vill.,Siphona,,nigricans,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,nigricans Vill.,4XP6X,1476764,4XP6X,1476764
+B48:2:621,Siphona boreata Mesn.,Mesn.,Siphona,,boreata,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,boreata Mesn.,4XP4J,1476634,4XP4J,1476634
+B48:2:622,Siphona pauciseta Rond.,Rond.,Siphona,,pauciseta,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,pauciseta Rond.,4XP7D,1476579,4XP7D,1476579
+B48:2:623,Siphona ingerae And.,And.,Siphona,,ingerae,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,ingerae And.,4XP5W,1476647,4XP5W,1476647
+B48:2:624,Siphona hungarica And.,And.,Siphona,,hungarica,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,hungarica And.,4XP5R,1476771,4XP5R,1476771
+B48:2:625,Siphona mesnili And.,And.,Siphona,,mesnili,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,mesnili And.,4XP6R,1476610,4XP6R,1476610
+B48:2:626,Siphona maculata Staeg.,Staeg.,Siphona,,maculata,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,maculata Staeg.,4XP6G,1476561,4XP6G,1476561
+B48:2:627,Siphona collini Mesn.,Mesn.,Siphona,,collini,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,collini Mesn.,4XP4X,1476743,4XP4X,1476743
+B48:2:628,Siphona rossica Mesn.,Mesn.,Siphona,,rossica,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,rossica Mesn.,4XP7X,1476644,4XP7X,1476644
+B48:2:629,Siphona flavifrons Staeg.,Staeg.,Siphona,,flavifrons,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,flavifrons Staeg.,4XP5B,1476736,4XP5B,1476736
+B48:2:630,Siphona setosa Mesn.,Mesn.,Siphona,,setosa,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,setosa Mesn.,4XP88,1476668,4XP88,1476668
+B48:2:631,Siphona cristata F.,F.,Siphona,,cristata,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,cristata F.,4XP56,1476565,4XP56,1476565
+B48:2:632,Siphona grandistyla Pand.,Pand.,Siphona,,grandistyla,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,grandistyla Pand.,4XP5M,1476722,4XP5M,1476722
+B48:2:633,Siphona confusa Mesn.,Mesn.,Siphona,,confusa,,species,,B48:2,accepted,,,B48:2:617,Siphona,,,,,Tachinidae,Tachininae,Siphona,,Tachinidae | Tachininae | Siphona,confusa Mesn.,4XP4Z,1476655,4XP4Z,1476655
+B48:2:634,Aphria,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Aphria,,Tachinidae | Tachininae,Aphria,BY7DT,1471546,BY7DT,1471546
+B48:2:635,Aphria longirostris Meig.,Meig.,Aphria,,longirostris,,species,,B48:2,accepted,,,B48:2:634,Aphria,,,,,Tachinidae,Tachininae,Aphria,,Tachinidae | Tachininae | Aphria,longirostris Meig.,FK2D,1471557,FK2D,1471557
+B48:2:636,Aphria longilingua Rond.,Rond.,Aphria,,longilingua,,species,,B48:2,accepted,,,B48:2:634,Aphria,,,,,Tachinidae,Tachininae,Aphria,,Tachinidae | Tachininae | Aphria,longilingua Rond.,FK2C,1471547,FK2C,1471547
+B48:2:637,Aphria latifrons Vill.,Vill.,Aphria,,latifrons,,species,,B48:2,accepted,,,B48:2:634,Aphria,,,,,Tachinidae,Tachininae,Aphria,,Tachinidae | Tachininae | Aphria,latifrons Vill.,FK2B,7793046,FK2B,7793046
+B48:2:638,Aphria xyphias Pand.,Pand.,Aphria,,xyphias,,species,,B48:2,accepted,,,B48:2:634,Aphria,,,,,Tachinidae,Tachininae,Aphria,,Tachinidae | Tachininae | Aphria,xyphias Pand.,FK2L,1471550,FK2L,1471550
+B48:2:639,Bithia,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Bithia,,Tachinidae | Tachininae,Bithia,BY884,1464317,BY884,1464317
+B48:2:640,Bithia spreta Meig.,Meig.,Bithia,,spreta,,species,,B48:2,accepted,,,B48:2:639,Bithia,,,,,Tachinidae,Tachininae,Bithia,,Tachinidae | Tachininae | Bithia,spreta Meig.,5WKT3,1464348,5WKT3,1464348
+B48:2:641,Bithia glirina Rond.,Rond.,Bithia,,glirina,,species,,B48:2,accepted,,,B48:2:639,Bithia,,,,,Tachinidae,Tachininae,Bithia,,Tachinidae | Tachininae | Bithia,glirina Rond.,5WKSR,1464339,5WKSR,1464339
+B48:2:642,Bithia immaculata Hert.,Hert.,Bithia,,immaculata,,species,,B48:2,accepted,,,B48:2:639,Bithia,,,,,Tachinidae,Tachininae,Bithia,,Tachinidae | Tachininae | Bithia,immaculata Hert.,LX9J,1464324,LX9J,1464324
+B48:2:643,Bithia demotica Egg.,Egg.,Bithia,,demotica,,species,,B48:2,accepted,,,B48:2:639,Bithia,,,,,Tachinidae,Tachininae,Bithia,,Tachinidae | Tachininae | Bithia,demotica Egg.,LX9B,1464320,LX9B,1464320
+B48:2:644,Bithia modesta Meig.,Meig.,Bithia,,modesta,,species,,B48:2,accepted,,,B48:2:639,Bithia,,,,,Tachinidae,Tachininae,Bithia,,Tachinidae | Tachininae | Bithia,modesta Meig.,LX9N,1464326,LX9N,1464326
+B48:2:645,Bithia acanthophora Rond.,Rond.,Bithia,,acanthophora,,species,,B48:2,accepted,,,B48:2:639,Bithia,,,,,Tachinidae,Tachininae,Bithia,,Tachinidae | Tachininae | Bithia,acanthophora Rond.,,1464334,,1464334
+B48:2:646,Bithia geniculata Zett.,Zett.,Bithia,,geniculata,,species,,B48:2,accepted,,,B48:2:639,Bithia,,,,,Tachinidae,Tachininae,Bithia,,Tachinidae | Tachininae | Bithia,geniculata Zett.,LX9D,1464362,LX9D,1464362
+B48:2:647,Bithia jacentkovskyi Vill.,Vill.,Bithia,,jacentkovskyi,,species,,B48:2,accepted,,,B48:2:639,Bithia,,,,,Tachinidae,Tachininae,Bithia,,Tachinidae | Tachininae | Bithia,jacentkovskyi Vill.,LX9K,1464367,LX9K,1464367
+B48:2:648,Solieria,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Solieria,,Tachinidae | Tachininae,Solieria,BY4FZ,1466612,BY4FZ,1466612
+B48:2:649,Solieria borealis Rindg.,Rindg.,Solieria,,borealis,,species,,B48:2,accepted,,,B48:2:648,Solieria,,,,,Tachinidae,Tachininae,Solieria,,Tachinidae | Tachininae | Solieria,borealis Rindg.,6Z57L,5057907,6Z57L,5057907
+B48:2:650,Solieria pacifica Meig.,Meig.,Solieria,,pacifica,,species,,B48:2,accepted,,,B48:2:648,Solieria,,,,,Tachinidae,Tachininae,Solieria,,Tachinidae | Tachininae | Solieria,pacifica Meig.,4Y7SN,1466705,4Y7SN,1466705
+B48:2:651,Solieria vacua Rond.,Rond.,Solieria,,vacua,,species,,B48:2,accepted,,,B48:2:648,Solieria,,,,,Tachinidae,Tachininae,Solieria,,Tachinidae | Tachininae | Solieria,vacua Rond.,4Y7T4,5057895,4Y7T4,5057895
+B48:2:652,Solieria fenestrata Meig.,Meig.,Solieria,,fenestrata,,species,,B48:2,accepted,,,B48:2:648,Solieria,,,,,Tachinidae,Tachininae,Solieria,,Tachinidae | Tachininae | Solieria,fenestrata Meig.,4Y7RT,5057891,4Y7RT,5057891
+B48:2:653,Solieria inanis Fall.,Fall.,Solieria,,inanis,,species,,B48:2,accepted,,,B48:2:648,Solieria,,,,,Tachinidae,Tachininae,Solieria,,Tachinidae | Tachininae | Solieria,inanis Fall.,4Y7S5,5057877,4Y7S5,5057877
+B48:2:654,Angiorhina,,,,,,genus,,B48:2,accepted,,,B48:2:470,Tachininae,,,,,Tachinidae,Tachininae,Angiorhina,,Tachinidae | Tachininae,Angiorhina,C23FG,7934167,BYDPF,7934167
+B48:2:655,Angiorhina fulvicornis Zett.,Zett.,Angiorhina,,fulvicornis,,species,,B48:2,accepted,,,B48:2:654,Angiorhina,,,,,Tachinidae,Tachininae,Angiorhina,,Tachinidae | Tachininae | Angiorhina,fulvicornis Zett.,,4515005,,1468111
+B48:2:656,Angiorhina puncticeps Zett.,Zett.,Angiorhina,,puncticeps,,species,,B48:2,accepted,,,B48:2:654,Angiorhina,,,,,Tachinidae,Tachininae,Angiorhina,,Tachinidae | Tachininae | Angiorhina,puncticeps Zett.,,1466036,,4294837
+B48:2:657,Dexiinae,,,,,,subfamily,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,Dexiinae,,,Tachinidae,Dexiinae,9H6LN,,9H6LN,
+B48:2:658,Trixia,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Trixia,,Tachinidae | Dexiinae,Trixia,C2BS8,4796751,BYS76,4796751
+B48:2:659,Trixia conspersa Harr.,Harr.,Trixia,,conspersa,,species,,B48:2,accepted,,,B48:2:658,Trixia,,,,,Tachinidae,Dexiinae,Trixia,,Tachinidae | Dexiinae | Trixia,conspersa Harr.,5964S,1467035,5964S,1467035
+B48:2:660,Trixia alpina Meig.,Meig.,Trixia,,alpina,,species,,B48:2,accepted,,,B48:2:658,Trixia,,,,,Tachinidae,Dexiinae,Trixia,,Tachinidae | Dexiinae | Trixia,alpina Meig.,8FJQD,1467034,8FJQD,1467034
+B48:2:661,Trixia caerulescens Meig.,Meig.,Trixia,,caerulescens,,species,,B48:2,accepted,,,B48:2:658,Trixia,,,,,Tachinidae,Dexiinae,Trixia,,Tachinidae | Dexiinae | Trixia,caerulescens Meig.,5964P,1467051,5964P,1467051
+B48:2:662,Billaea,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Billaea,,Tachinidae | Dexiinae,Billaea,BY87J,1466889,BY87J,1466889
+B48:2:663,Billaea triangulifera Zett.,Zett.,Billaea,,triangulifera,,species,,B48:2,accepted,,,B48:2:662,Billaea,,,,,Tachinidae,Dexiinae,Billaea,,Tachinidae | Dexiinae | Billaea,triangulifera Zett.,5WL5R,1466999,5WL5R,1466999
+B48:2:664,Billaea adelpha Loew,Loew,Billaea,,adelpha,,species,,B48:2,accepted,,,B48:2:662,Billaea,,,,,Tachinidae,Dexiinae,Billaea,,Tachinidae | Dexiinae | Billaea,adelpha Loew,68LDW,1466972,68LDW,1466972
+B48:2:665,Billaea pectinata Meig.,Meig.,Billaea,,pectinata,,species,,B48:2,accepted,,,B48:2:662,Billaea,,,,,Tachinidae,Dexiinae,Billaea,,Tachinidae | Dexiinae | Billaea,pectinata Meig.,68L6H,1466937,68L6H,1466937
+B48:2:666,Billaea irrorata Meig.,Meig.,Billaea,,irrorata,,species,,B48:2,accepted,,,B48:2:662,Billaea,,,,,Tachinidae,Dexiinae,Billaea,,Tachinidae | Dexiinae | Billaea,irrorata Meig.,5WLF9,1466944,5WLF9,1466944
+B48:2:667,Billaea fortis Rond.,Rond.,Billaea,,fortis,,species,,B48:2,accepted,,,B48:2:662,Billaea,,,,,Tachinidae,Dexiinae,Billaea,,Tachinidae | Dexiinae | Billaea,fortis Rond.,68LF3,1466895,68LF3,1466895
+B48:2:668,Billaea steini B.B.,B.B.,Billaea,,steini,,species,,B48:2,accepted,,,B48:2:662,Billaea,,,,,Tachinidae,Dexiinae,Billaea,,Tachinidae | Dexiinae | Billaea,steini B.B.,5WKTR,1466901,5WKTR,1466901
+B48:2:669,Dinera,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Dinera,,Tachinidae | Dexiinae,Dinera,BYBTD,1470177,BYBTD,1470177
+B48:2:670,Dinera grisescens Fall.,Fall.,Dinera,,grisescens,,species,,B48:2,accepted,,,B48:2:669,Dinera,,,,,Tachinidae,Dexiinae,Dinera,,Tachinidae | Dexiinae | Dinera,grisescens Fall.,368L6,1470190,368L6,1470190
+B48:2:671,Dinera ferina Fall.,Fall.,Dinera,,ferina,,species,,B48:2,accepted,,,B48:2:669,Dinera,,,,,Tachinidae,Dexiinae,Dinera,,Tachinidae | Dexiinae | Dinera,ferina Fall.,368KY,1470178,368KY,1470178
+B48:2:672,Dinera carinifrons Fall.,Fall.,Dinera,,carinifrons,,species,,B48:2,accepted,,,B48:2:669,Dinera,,,,,Tachinidae,Dexiinae,Dinera,,Tachinidae | Dexiinae | Dinera,carinifrons Fall.,368KQ,1470225,368KQ,1470225
+B48:2:673,Estheria,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Estheria,,Tachinidae | Dexiinae,Estheria,BY5FJ,1461258,BY5FJ,1461258
+B48:2:674,Estheria cristata Meig.,Meig.,Estheria,,cristata,,species,,B48:2,accepted,,,B48:2:673,Estheria,,,,,Tachinidae,Dexiinae,Estheria,,Tachinidae | Dexiinae | Estheria,cristata Meig.,3BJSX,1461299,3BJSX,1461299
+B48:2:675,Estheria bohemani Rond.,Rond.,Estheria,,bohemani,,species,,B48:2,accepted,,,B48:2:673,Estheria,,,,,Tachinidae,Dexiinae,Estheria,,Tachinidae | Dexiinae | Estheria,bohemani Rond.,3BJST,1461293,3BJST,1461293
+B48:2:676,Estheria picta Meig.,Meig.,Estheria,,picta,,species,,B48:2,accepted,,,B48:2:673,Estheria,,,,,Tachinidae,Dexiinae,Estheria,,Tachinidae | Dexiinae | Estheria,picta Meig.,3BJTK,1461315,3BJTK,1461315
+B48:2:677,Estheria petiolata Bonsd.,Bonsd.,Estheria,,petiolata,,species,,B48:2,accepted,,,B48:2:673,Estheria,,,,,Tachinidae,Dexiinae,Estheria,,Tachinidae | Dexiinae | Estheria,petiolata Bonsd.,3BJTJ,1461287,3BJTJ,1461287
+B48:2:678,Dexia,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Dexia,,Tachinidae | Dexiinae,Dexia,BYBNL,11946306,BYBNL,11946306
+B48:2:679,Dexia rustica Fall.,Fall.,Dexia,,rustica,,species,,B48:2,accepted,,,B48:2:678,Dexia,,,,,Tachinidae,Dexiinae,Dexia,,Tachinidae | Dexiinae | Dexia,rustica Fall.,3565T,1467408,3565T,1467408
+B48:2:680,Dexia vacua Fall.,Fall.,Dexia,,vacua,,species,,B48:2,accepted,,,B48:2:678,Dexia,,,,,Tachinidae,Dexiinae,Dexia,,Tachinidae | Dexiinae | Dexia,vacua Fall.,,1467425,,1467425
+B48:2:681,Zeuxia,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Zeuxia,,Tachinidae | Dexiinae,Zeuxia,BYT83,1478117,BYT83,1478117
+B48:2:682,Zeuxia cinerea Meig.,Meig.,Zeuxia,,cinerea,,species,,B48:2,accepted,,,B48:2:681,Zeuxia,,,,,Tachinidae,Dexiinae,Zeuxia,,Tachinidae | Dexiinae | Zeuxia,cinerea Meig.,5D46Y,1478148,5D46Y,1478148
+B48:2:683,Zeuxia brevicornis Egg.,Egg.,Zeuxia,,brevicornis,,species,,B48:2,accepted,,,B48:2:681,Zeuxia,,,,,Tachinidae,Dexiinae,Zeuxia,,Tachinidae | Dexiinae | Zeuxia,brevicornis Egg.,5D46W,1478119,5D46W,1478119
+B48:2:684,Zeuxia subapennina Rond.,Rond.,Zeuxia,,subapennina,,species,,B48:2,accepted,,,B48:2:681,Zeuxia,,,,,Tachinidae,Dexiinae,Zeuxia,,Tachinidae | Dexiinae | Zeuxia,subapennina Rond.,5D47N,1478164,5D47N,1478164
+B48:2:685,Eriothrix,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Eriothrix,,Tachinidae | Dexiinae,Eriothrix,BYCPV,1471140,BYCPV,1471140
+B48:2:686,Eriothrix monticola Egg.,Egg.,Eriothrix,,monticola,,species,,B48:2,accepted,,,B48:2:685,Eriothrix,,,,,Tachinidae,Dexiinae,Eriothrix,,Tachinidae | Dexiinae | Eriothrix,monticola Egg.,3B6YB,1471159,3B6YB,1471159
+B48:2:687,Eriothrix prolixa Meig.,Meig.,Eriothrix,,prolixa,,species,,B48:2,accepted,,,B48:2:685,Eriothrix,,,,,Tachinidae,Dexiinae,Eriothrix,,Tachinidae | Dexiinae | Eriothrix,prolixa Meig.,3B6YG,1471144,3B6YG,1471144
+B48:2:688,Eriothrix rufomaculatus DeG.,DeG.,Eriothrix,,rufomaculatus,,species,,B48:2,accepted,,,B48:2:685,Eriothrix,,,,,Tachinidae,Dexiinae,Eriothrix,,Tachinidae | Dexiinae | Eriothrix,rufomaculatus DeG.,88RVP,1471177,88RVP,1471177
+B48:2:689,Eriothrix argyreatus Meig.,Meig.,Eriothrix,,argyreatus,,species,,B48:2,accepted,,,B48:2:685,Eriothrix,,,,,Tachinidae,Dexiinae,Eriothrix,,Tachinidae | Dexiinae | Eriothrix,argyreatus Meig.,3B6Y3,1471169,3B6Y3,1471169
+B48:2:690,Eriothrix apenninus Rond.,Rond.,Eriothrix,,apenninus,,species,,B48:2,accepted,,,B48:2:685,Eriothrix,,,,,Tachinidae,Dexiinae,Eriothrix,,Tachinidae | Dexiinae | Eriothrix,apenninus Rond.,3B6Y2,1471154,3B6Y2,1471154
+B48:2:691,Eriothrix micronyx Stein.,Stein.,Eriothrix,,micronyx,,species,,B48:2,accepted,,,B48:2:685,Eriothrix,,,,,Tachinidae,Dexiinae,Eriothrix,,Tachinidae | Dexiinae | Eriothrix,micronyx Stein.,3B6Y9,1471142,3B6Y9,1471142
+B48:2:692,Trafoia,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Trafoia,,Tachinidae | Dexiinae,Trafoia,BYRYZ,1467331,BYRYZ,1467331
+B48:2:693,Trafoia gemina Hert.,Hert.,Trafoia,,gemina,,species,,B48:2,accepted,,,B48:2:692,Trafoia,,,,,Tachinidae,Dexiinae,Trafoia,,Tachinidae | Dexiinae | Trafoia,gemina Hert.,7CLV9,1467334,7CLV9,1467334
+B48:2:694,Trafoia monticola B.B.,B.B.,Trafoia,,monticola,,species,,B48:2,accepted,,,B48:2:692,Trafoia,,,,,Tachinidae,Dexiinae,Trafoia,,Tachinidae | Dexiinae | Trafoia,monticola B.B.,7CM79,1467340,7CM79,1467340
+B48:2:695,Campylocheta,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Campylocheta,,Tachinidae | Dexiinae,Campylocheta,BXZ43,1472876,BXZ43,1472876
+B48:2:696,Campylocheta inepta Meig.,Meig.,Campylocheta,,inepta,,species,,B48:2,accepted,,,B48:2:695,Campylocheta,,,,,Tachinidae,Dexiinae,Campylocheta,,Tachinidae | Dexiinae | Campylocheta,inepta Meig.,QGWG,1472932,QGWG,1472932
+B48:2:697,Campylocheta fuscinervis Stein,Stein,Campylocheta,,fuscinervis,,species,,B48:2,accepted,,,B48:2:695,Campylocheta,,,,,Tachinidae,Dexiinae,Campylocheta,,Tachinidae | Dexiinae | Campylocheta,fuscinervis Stein,QGWB,1472892,QGWB,1472892
+B48:2:698,Campylocheta praecox Meig.,Meig.,Campylocheta,,praecox,,species,,B48:2,accepted,,,B48:2:695,Campylocheta,,,,,Tachinidae,Dexiinae,Campylocheta,,Tachinidae | Dexiinae | Campylocheta,praecox Meig.,QGWW,1472896,QGWW,1472896
+B48:2:699,Campylocheta latigena Mesn.,Mesn.,Campylocheta,,latigena,,species,,B48:2,accepted,,,B48:2:695,Campylocheta,,,,,Tachinidae,Dexiinae,Campylocheta,,Tachinidae | Dexiinae | Campylocheta,latigena Mesn.,QGWJ,1472926,QGWJ,1472926
+B48:2:700,Blepharomyia,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Blepharomyia,,Tachinidae | Dexiinae,Blepharomyia,BY894,1468043,BY894,1468043
+B48:2:701,Blepharomyia angustifrons Hert.,Hert.,Blepharomyia,,angustifrons,,species,,B48:2,accepted,,,B48:2:700,Blepharomyia,,,,,Tachinidae,Dexiinae,Blepharomyia,,Tachinidae | Dexiinae | Blepharomyia,angustifrons Hert.,M6BY,1468060,M6BY,1468060
+B48:2:702,Blepharomyia pagana Meig.,Meig.,Blepharomyia,,pagana,,species,,B48:2,accepted,,,B48:2:700,Blepharomyia,,,,,Tachinidae,Dexiinae,Blepharomyia,,Tachinidae | Dexiinae | Blepharomyia,pagana Meig.,M6C4,1468053,M6C4,1468053
+B48:2:703,Blepharomyia piliceps Zett.,Zett.,Blepharomyia,,piliceps,,species,,B48:2,accepted,,,B48:2:700,Blepharomyia,,,,,Tachinidae,Dexiinae,Blepharomyia,,Tachinidae | Dexiinae | Blepharomyia,piliceps Zett.,M6C5,1468050,M6C5,1468050
+B48:2:704,Ramonda,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Ramonda,,Tachinidae | Dexiinae,Ramonda,BXXSF,1470676,BXXSF,1470676
+B48:2:705,Ramonda spathulata Fall.,Fall.,Ramonda,,spathulata,,species,,B48:2,accepted,,,B48:2:704,Ramonda,,,,,Tachinidae,Dexiinae,Ramonda,,Tachinidae | Dexiinae | Ramonda,spathulata Fall.,,5058759,,5978568
+B48:2:706,Ramonda latifrons Zett.,Zett.,Ramonda,,latifrons,,species,,B48:2,accepted,,,B48:2:704,Ramonda,,,,,Tachinidae,Dexiinae,Ramonda,,Tachinidae | Dexiinae | Ramonda,latifrons Zett.,,5058756,,5978562
+B48:2:707,Ramonda jugorum Vill.,Vill.,Ramonda,,jugorum,,species,,B48:2,accepted,,,B48:2:704,Ramonda,,,,,Tachinidae,Dexiinae,Ramonda,,Tachinidae | Dexiinae | Ramonda,jugorum Vill.,,7769434,,5978563
+B48:2:708,Ramonda delphinensis Vill.,Vill.,Ramonda,,delphinensis,,species,,B48:2,accepted,,,B48:2:704,Ramonda,,,,,Tachinidae,Dexiinae,Ramonda,,Tachinidae | Dexiinae | Ramonda,delphinensis Vill.,,7421875,,5978566
+B48:2:709,Ramonda ringdahli Vill.,Vill.,Ramonda,,ringdahli,,species,,B48:2,accepted,,,B48:2:704,Ramonda,,,,,Tachinidae,Dexiinae,Ramonda,,Tachinidae | Dexiinae | Ramonda,ringdahli Vill.,,7605374,,9870526
+B48:2:710,Ramonda plorans Rond.,Rond.,Ramonda,,plorans,,species,,B48:2,accepted,,,B48:2:704,Ramonda,,,,,Tachinidae,Dexiinae,Ramonda,,Tachinidae | Dexiinae | Ramonda,plorans Rond.,,8244344,,5978573
+B48:2:711,Ramonda prunaria Rond.,Rond.,Ramonda,,prunaria,,species,,B48:2,accepted,,,B48:2:704,Ramonda,,,,,Tachinidae,Dexiinae,Ramonda,,Tachinidae | Dexiinae | Ramonda,prunaria Rond.,,5058757,,5978572
+B48:2:712,Ramonda prunicia Hert.,Hert.,Ramonda,,prunicia,,species,,B48:2,accepted,,,B48:2:704,Ramonda,,,,,Tachinidae,Dexiinae,Ramonda,,Tachinidae | Dexiinae | Ramonda,prunicia Hert.,,5058765,,5978569
+B48:2:713,Wagneria,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Wagneria,,Tachinidae | Dexiinae,Wagneria,BYSTR,1473316,BYSTR,1473316
+B48:2:714,Wagneria alpina Vill.,Vill.,Wagneria,,alpina,,species,,B48:2,accepted,,,B48:2:713,Wagneria,,,,,Tachinidae,Dexiinae,Wagneria,,Tachinidae | Dexiinae | Wagneria,alpina Vill.,5BSTS,1473338,5BSTS,1473338
+B48:2:715,Wagneria cunctans Meig.,Meig.,Wagneria,,cunctans,,species,,B48:2,accepted,,,B48:2:713,Wagneria,,,,,Tachinidae,Dexiinae,Wagneria,,Tachinidae | Dexiinae | Wagneria,cunctans Meig.,5BSTW,1473328,5BSTW,1473328
+B48:2:716,Wagneria gagatea R.D.,R.D.,Wagneria,,gagatea,,species,,B48:2,accepted,,,B48:2:713,Wagneria,,,,,Tachinidae,Dexiinae,Wagneria,,Tachinidae | Dexiinae | Wagneria,gagatea R.D.,7FT76,1473340,7FT76,1473340
+B48:2:717,Wagneria costata Fall.,Fall.,Wagneria,,costata,,species,,B48:2,accepted,,,B48:2:713,Wagneria,,,,,Tachinidae,Dexiinae,Wagneria,,Tachinidae | Dexiinae | Wagneria,costata Fall.,5BSTV,1473322,5BSTV,1473322
+B48:2:718,Kirbya,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Kirbya,,Tachinidae | Dexiinae,Kirbya,BYG9S,1474047,BYG9S,1474047
+B48:2:719,Kirbya moerens Meig.,Meig.,Kirbya,,moerens,,species,,B48:2,accepted,,,B48:2:718,Kirbya,,,,,Tachinidae,Dexiinae,Kirbya,,Tachinidae | Dexiinae | Kirbya,moerens Meig.,8CFXX,1474061,8CFXX,1474061
+B48:2:720,Kirbya unicolor Vill.,Vill.,Kirbya,,unicolor,,species,,B48:2,accepted,,,B48:2:718,Kirbya,,,,,Tachinidae,Dexiinae,Kirbya,,Tachinidae | Dexiinae | Kirbya,unicolor Vill.,8CFXY,1474058,8CFXY,1474058
+B48:2:721,Athrycia,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Athrycia,,Tachinidae | Dexiinae,Athrycia,BY7TF,1471682,BY7TF,1471682
+B48:2:722,Athrycia curvinervis Zett.,Zett.,Athrycia,,curvinervis,,species,,B48:2,accepted,,,B48:2:721,Athrycia,,,,,Tachinidae,Dexiinae,Athrycia,,Tachinidae | Dexiinae | Athrycia,curvinervis Zett.,8B55H,4515145,8B55H,4515145
+B48:2:723,Athrycia trepida Meig.,Meig.,Athrycia,,trepida,,species,,B48:2,accepted,,,B48:2:721,Athrycia,,,,,Tachinidae,Dexiinae,Athrycia,,Tachinidae | Dexiinae | Athrycia,trepida Meig.,JF78,1471684,JF78,1471684
+B48:2:724,Athrycia impressa Wulp.,Wulp.,Athrycia,,impressa,,species,,B48:2,accepted,,,B48:2:721,Athrycia,,,,,Tachinidae,Dexiinae,Athrycia,,Tachinidae | Dexiinae | Athrycia,impressa Wulp.,JF72,1471701,JF72,1471701
+B48:2:725,Cyrtophleba,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Cyrtophleba,,Tachinidae | Dexiinae,Cyrtophleba,CD3LF,1464003,CD3LF,1464003
+B48:2:726,Cyrtophleba ruricola Meig.,Meig.,Cyrtophleba,,ruricola,,species,,B48:2,accepted,,,B48:2:725,Cyrtophleba,,,,,Tachinidae,Dexiinae,Cyrtophleba,,Tachinidae | Dexiinae | Cyrtophleba,ruricola Meig.,33N52,1464008,33N52,1464008
+B48:2:727,Cyrtophleba vernalis Kram.,Kram.,Cyrtophleba,,vernalis,,species,,B48:2,accepted,,,B48:2:725,Cyrtophleba,,,,,Tachinidae,Dexiinae,Cyrtophleba,,Tachinidae | Dexiinae | Cyrtophleba,vernalis Kram.,33N53,1464017,33N53,1464017
+B48:2:728,Thelaira,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Thelaira,,Tachinidae | Dexiinae,Thelaira,BY4QH,1468115,BY4QH,1468115
+B48:2:729,Thelaira nigripes F.,F.,Thelaira,,nigripes,,species,,B48:2,accepted,,,B48:2:728,Thelaira,,,,,Tachinidae,Dexiinae,Thelaira,,Tachinidae | Dexiinae | Thelaira,nigripes F.,,1468138,,1468138
+B48:2:730,Thelaira solivaga Harr.,Harr.,Thelaira,,solivaga,,species,,B48:2,accepted,,,B48:2:728,Thelaira,,,,,Tachinidae,Dexiinae,Thelaira,,Tachinidae | Dexiinae | Thelaira,solivaga Harr.,567GF,1468136,567GF,1468136
+B48:2:731,Thelaira leucozona Meig.,Meig.,Thelaira,,leucozona,,species,,B48:2,accepted,,,B48:2:728,Thelaira,,,,,Tachinidae,Dexiinae,Thelaira,,Tachinidae | Dexiinae | Thelaira,leucozona Meig.,567G6,1468118,567G6,1468118
+B48:2:732,Dufouria,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Dufouria,,Tachinidae | Dexiinae,Dufouria,BYC4L,1471419,BYC4L,1471419
+B48:2:733,Dufouria chalybeata Meig.,Meig.,Dufouria,,chalybeata,,species,,B48:2,accepted,,,B48:2:732,Dufouria,,,,,Tachinidae,Dexiinae,Dufouria,,Tachinidae | Dexiinae | Dufouria,chalybeata Meig.,37ZQL,5058888,37ZQL,5058888
+B48:2:734,Dufouria nigrita Fall.,Fall.,Dufouria,,nigrita,,species,,B48:2,accepted,,,B48:2:732,Dufouria,,,,,Tachinidae,Dexiinae,Dufouria,,Tachinidae | Dexiinae | Dufouria,nigrita Fall.,37ZQQ,5058882,37ZQQ,5058882
+B48:2:735,Dufouria occlusa R.D.,R.D.,Dufouria,,occlusa,,species,,B48:2,accepted,,,B48:2:732,Dufouria,,,,,Tachinidae,Dexiinae,Dufouria,,Tachinidae | Dexiinae | Dufouria,occlusa R.D.,37ZQT,5058894,37ZQT,5058894
+B48:2:736,Rondania,,,,,,genus,,B48:2,accepted,,,B48:2:657,Dexiinae,,,,,Tachinidae,Dexiinae,Rondania,,Tachinidae | Dexiinae,Rondania,BY47B,1466118,BYBD9,1466118
+B48:2:737,Rondania fasciata Meig.,Meig.,Rondania,,fasciata,,species,,B48:2,accepted,,,B48:2:736,Rondania,,,,,Tachinidae,Dexiinae,Rondania,,Tachinidae | Dexiinae | Rondania,fasciata Meig.,,5057641,,5057641
+B48:2:738,Rondania cucullata R.D.,R.D.,Rondania,,cucullata,,species,,B48:2,accepted,,,B48:2:736,Rondania,,,,,Tachinidae,Dexiinae,Rondania,,Tachinidae | Dexiinae | Rondania,cucullata R.D.,,5057644,,5057644
+B48:2:739,Rondania dimidiata Meig.,Meig.,Rondania,,dimidiata,,species,,B48:2,accepted,,,B48:2:736,Rondania,,,,,Tachinidae,Dexiinae,Rondania,,Tachinidae | Dexiinae | Rondania,dimidiata Meig.,,5057652,,5057652
+B48:2:740,Rondania dispar Duf.,Duf.,Rondania,,dispar,,species,,B48:2,accepted,,,B48:2:736,Rondania,,,,,Tachinidae,Dexiinae,Rondania,,Tachinidae | Dexiinae | Rondania,dispar Duf.,,5057649,,5057649
+B48:2:741,Phasiinae,,,,,,subfamily,,B48:2,accepted,,,B48:2:1,Tachinidae,,,,,Tachinidae,Phasiinae,,,Tachinidae,Phasiinae,8VSS2,,8VSS2,
+B48:2:742,Eliozeta,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Eliozeta,,Tachinidae | Phasiinae,Eliozeta,BYCBR,1474876,BYCBR,1474876
+B48:2:743,Eliozeta helluo F.,F.,Eliozeta,,helluo,,species,,B48:2,accepted,,,B48:2:742,Eliozeta,,,,,Tachinidae,Phasiinae,Eliozeta,,Tachinidae | Phasiinae | Eliozeta,helluo F.,6F5HT,1474877,6F5HT,1474877
+B48:2:744,Eliozeta pelluscens Fall.,Fall.,Eliozeta,,pelluscens,,species,,B48:2,accepted,,,B48:2:742,Eliozeta,,,,,Tachinidae,Phasiinae,Eliozeta,,Tachinidae | Phasiinae | Eliozeta,pelluscens Fall.,6F5HS,1474884,6F5HS,1474884
+B48:2:745,Ectophasia,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Ectophasia,,Tachinidae | Phasiinae,Ectophasia,BYC7G,1460606,BYC7G,1460606
+B48:2:746,Ectophasia crassipennis F.,F.,Ectophasia,,crassipennis,,species,,B48:2,accepted,,,B48:2:745,Ectophasia,,,,,Tachinidae,Phasiinae,Ectophasia,,Tachinidae | Phasiinae | Ectophasia,crassipennis F.,6DY3R,1460610,6DY3R,1460610
+B48:2:747,Ectophasia oblonga R.D.,R.D.,Ectophasia,,oblonga,,species,,B48:2,accepted,,,B48:2:745,Ectophasia,,,,,Tachinidae,Phasiinae,Ectophasia,,Tachinidae | Phasiinae | Ectophasia,oblonga R.D.,38QV2,1460667,38QV2,1460667
+B48:2:748,Gymnosoma,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Gymnosoma,,Tachinidae | Phasiinae,Gymnosoma,BYDYF,9317084,BYDYF,9317084
+B48:2:749,Gymnosoma nitens Meig.,Meig.,Gymnosoma,,nitens,,species,,B48:2,accepted,,,B48:2:748,Gymnosoma,,,,,Tachinidae,Phasiinae,Gymnosoma,,Tachinidae | Phasiinae | Gymnosoma,nitens Meig.,6KVW4,5059136,6KVW4,5059136
+B48:2:750,Gymnosoma clavatum Rohd.,Rohd.,Gymnosoma,,clavatum,,species,,B48:2,accepted,,,B48:2:748,Gymnosoma,,,,,Tachinidae,Phasiinae,Gymnosoma,,Tachinidae | Phasiinae | Gymnosoma,clavatum Rohd.,6KW66,5765952,6KW66,5765952
+B48:2:751,Gymnosoma dolycoridis Dup.,Dup.,Gymnosoma,,dolycoridis,,species,,B48:2,accepted,,,B48:2:748,Gymnosoma,,,,,Tachinidae,Phasiinae,Gymnosoma,,Tachinidae | Phasiinae | Gymnosoma,dolycoridis Dup.,88XYS,5059144,8C8Z2,11130024
+B48:2:752,Gymnosoma desertorum Rohd.,Rohd.,Gymnosoma,,desertorum,,species,,B48:2,accepted,,,B48:2:748,Gymnosoma,,,,,Tachinidae,Phasiinae,Gymnosoma,,Tachinidae | Phasiinae | Gymnosoma,desertorum Rohd.,6KVTV,5059123,6KVTV,5059123
+B48:2:753,Gymnosoma rotundatum L.,L.,Gymnosoma,,rotundatum,,species,,B48:2,accepted,,,B48:2:748,Gymnosoma,,,,,Tachinidae,Phasiinae,Gymnosoma,,Tachinidae | Phasiinae | Gymnosoma,rotundatum L.,6L7VT,5765956,6L7VT,5765956
+B48:2:754,Gymnosoma costatum Panz.,Panz.,Gymnosoma,,costatum,,species,,B48:2,accepted,,,B48:2:748,Gymnosoma,,,,,Tachinidae,Phasiinae,Gymnosoma,,Tachinidae | Phasiinae | Gymnosoma,costatum Panz.,6L866,5765954,6L866,5765954
+B48:2:755,Gymnosoma nudifrons Hert.,Hert.,Gymnosoma,,nudifrons,,species,,B48:2,accepted,,,B48:2:748,Gymnosoma,,,,,Tachinidae,Phasiinae,Gymnosoma,,Tachinidae | Phasiinae | Gymnosoma,nudifrons Hert.,CNT3R,5059119,CNT3R,5059119
+B48:2:756,Opesia,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Opesia,,Tachinidae | Phasiinae,Opesia,BYKQB,1475751,BYKQB,1475751
+B48:2:757,Opesia descendens Hert.,Hert.,Opesia,,descendens,,species,,B48:2,accepted,,,B48:2:756,Opesia,,,,,Tachinidae,Phasiinae,Opesia,,Tachinidae | Phasiinae | Opesia,descendens Hert.,74NCC,1475757,74NCC,1475757
+B48:2:758,Opesia cana Meig.,Meig.,Opesia,,cana,,species,,B48:2,accepted,,,B48:2:756,Opesia,,,,,Tachinidae,Phasiinae,Opesia,,Tachinidae | Phasiinae | Opesia,cana Meig.,6SNCC,1475758,6SNCC,1475758
+B48:2:759,Opesia grandis Egg.,Egg.,Opesia,,grandis,,species,,B48:2,accepted,,,B48:2:756,Opesia,,,,,Tachinidae,Phasiinae,Opesia,,Tachinidae | Phasiinae | Opesia,grandis Egg.,6SNBZ,1475752,6SNBZ,1475752
+B48:2:760,Phasia,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Phasia,,Tachinidae | Phasiinae,Phasia,BY3QQ,10978301,BY3QQ,10978301
+B48:2:761,Phasia subcoleoptrata L.,L.,Phasia,,subcoleoptrata,,species,,B48:2,accepted,,,B48:2:760,Phasia,,,,,Tachinidae,Phasiinae,Phasia,,Tachinidae | Phasiinae | Phasia,subcoleoptrata L.,4FWHW,1464758,4FWHW,1464758
+B48:2:762,Phasia theodori Draber,Draber,Phasia,,theodori,,species,,B48:2,accepted,,,B48:2:760,Phasia,,,,,Tachinidae,Phasiinae,Phasia,,Tachinidae | Phasiinae | Phasia,theodori Draber,4FWJ5,5057450,4FWJ5,5057450
+B48:2:763,Phasia pusilla Meig.,Meig.,Phasia,,pusilla,,species,,B48:2,accepted,,,B48:2:760,Phasia,,,,,Tachinidae,Phasiinae,Phasia,,Tachinidae | Phasiinae | Phasia,pusilla Meig.,4FWH9,1464777,4FWH9,1464777
+B48:2:764,Phasia pandellei Dup.,Dup.,Phasia,,pandellei,,species,,B48:2,accepted,,,B48:2:760,Phasia,,,,,Tachinidae,Phasiinae,Phasia,,Tachinidae | Phasiinae | Phasia,pandellei Dup.,4FWGW,1464622,4FWGW,1464622
+B48:2:765,Phasia barbifrons Girsch.,Girsch.,Phasia,,barbifrons,,species,,B48:2,accepted,,,B48:2:760,Phasia,,,,,Tachinidae,Phasiinae,Phasia,,Tachinidae | Phasiinae | Phasia,barbifrons Girsch.,4FWDF,1464719,4FWDF,1464719
+B48:2:766,Phasia hemiptera F.,F.,Phasia,,hemiptera,,species,,B48:2,accepted,,,B48:2:760,Phasia,,,,,Tachinidae,Phasiinae,Phasia,,Tachinidae | Phasiinae | Phasia,hemiptera F.,4FWF4,1464567,4FWF4,1464567
+B48:2:767,Phasia aurigera Egg.,Egg.,Phasia,,aurigera,,species,,B48:2,accepted,,,B48:2:760,Phasia,,,,,Tachinidae,Phasiinae,Phasia,,Tachinidae | Phasiinae | Phasia,aurigera Egg.,4FWDC,1464726,4FWDC,1464726
+B48:2:768,Phasia obesa F.,F.,Phasia,,obesa,,species,,B48:2,accepted,,,B48:2:760,Phasia,,,,,Tachinidae,Phasiinae,Phasia,,Tachinidae | Phasiinae | Phasia,obesa F.,4FWGN,1464517,4FWGN,1464517
+B48:2:769,Phasia aurulans Meig.,Meig.,Phasia,,aurulans,,species,,B48:2,accepted,,,B48:2:760,Phasia,,,,,Tachinidae,Phasiinae,Phasia,,Tachinidae | Phasiinae | Phasia,aurulans Meig.,4FWDD,1464665,4FWDD,1464665
+B48:2:770,Catharosia,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Catharosia,,Tachinidae | Phasiinae,Catharosia,BY8ZT,1477272,BY8ZT,1477272
+B48:2:771,Catharosia flavicornis Zett.,Zett.,Catharosia,,flavicornis,,species,,B48:2,accepted,,,B48:2:770,Catharosia,,,,,Tachinidae,Phasiinae,Catharosia,,Tachinidae | Phasiinae | Catharosia,flavicornis Zett.,5XFPM,1477275,5XFPM,1477275
+B48:2:772,Catharosia pygmaea Fall.,Fall.,Catharosia,,pygmaea,,species,,B48:2,accepted,,,B48:2:770,Catharosia,,,,,Tachinidae,Phasiinae,Catharosia,,Tachinidae | Phasiinae | Catharosia,pygmaea Fall.,69FQ5,1477289,69FQ5,1477289
+B48:2:773,Catharosia albisquama Vill.,Vill.,Catharosia,,albisquama,,species,,B48:2,accepted,,,B48:2:770,Catharosia,,,,,Tachinidae,Phasiinae,Catharosia,,Tachinidae | Phasiinae | Catharosia,albisquama Vill.,69G2J,1477278,69G2J,1477278
+B48:2:774,Strongygaster,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Strongygaster,,Tachinidae | Phasiinae,Strongygaster,BYR2T,1476423,BYR2T,1476423
+B48:2:775,Strongygaster globula Meig.,Meig.,Strongygaster,,globula,,species,,B48:2,accepted,,,B48:2:774,Strongygaster,,,,,Tachinidae,Phasiinae,Strongygaster,,Tachinidae | Phasiinae | Strongygaster,globula Meig.,6ZYX8,1476439,6ZYX8,1476439
+B48:2:776,Strongygaster celer Meig.,Meig.,Strongygaster,,celer,,species,,B48:2,accepted,,,B48:2:774,Strongygaster,,,,,Tachinidae,Phasiinae,Strongygaster,,Tachinidae | Phasiinae | Strongygaster,celer Meig.,534DS,1476450,534DS,1476450
+B48:2:777,Dionaea,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Dionaea,,Tachinidae | Phasiinae,Dionaea,BXWY5,1460906,BXWY5,1460906
+B48:2:778,Dionaea aurifrons Meig.,Meig.,Dionaea,,aurifrons,,species,,B48:2,accepted,,,B48:2:777,Dionaea,,,,,Tachinidae,Phasiinae,Dionaea,,Tachinidae | Phasiinae | Dionaea,aurifrons Meig.,6D6XG,1460909,6D6XG,1460909
+B48:2:779,Dionaea flavisquamis R.D.,R.D.,Dionaea,,flavisquamis,,species,,B48:2,accepted,,,B48:2:777,Dionaea,,,,,Tachinidae,Phasiinae,Dionaea,,Tachinidae | Phasiinae | Dionaea,flavisquamis R.D.,36B5Z,1460915,36B5Z,1460915
+B48:2:780,Leucostoma,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Leucostoma,,Tachinidae | Phasiinae,Leucostoma,BXXJS,1477303,BXXJS,1477303
+B48:2:781,Leucostoma meridianum Rond.,Rond.,Leucostoma,,meridianum,,species,,B48:2,accepted,,,B48:2:780,Leucostoma,,,,,Tachinidae,Phasiinae,Leucostoma,,Tachinidae | Phasiinae | Leucostoma,meridianum Rond.,6PTTN,1477355,6PTTN,1477355
+B48:2:782,Leucostoma abbreviatum Hert.,Hert.,Leucostoma,,abbreviatum,,species,,B48:2,accepted,,,B48:2:780,Leucostoma,,,,,Tachinidae,Phasiinae,Leucostoma,,Tachinidae | Phasiinae | Leucostoma,abbreviatum Hert.,72665,1477314,72665,1477314
+B48:2:783,Leucostoma simplex Fall.,Fall.,Leucostoma,,simplex,,species,,B48:2,accepted,,,B48:2:780,Leucostoma,,,,,Tachinidae,Phasiinae,Leucostoma,,Tachinidae | Phasiinae | Leucostoma,simplex Fall.,6PTTK,1477348,6PTTK,1477348
+B48:2:784,Leucostoma anthracinum Meig.,Meig.,Leucostoma,,anthracinum,,species,,B48:2,accepted,,,B48:2:780,Leucostoma,,,,,Tachinidae,Phasiinae,Leucostoma,,Tachinidae | Phasiinae | Leucostoma,anthracinum Meig.,6Q663,1477353,6Q663,1477353
+B48:2:785,Leucostoma crassum Kugl.,Kugl.,Leucostoma,,crassum,,species,,B48:2,accepted,,,B48:2:780,Leucostoma,,,,,Tachinidae,Phasiinae,Leucostoma,,Tachinidae | Phasiinae | Leucostoma,crassum Kugl.,725TS,5060019,725TS,5060019
+B48:2:786,Leucostoma tetraptera Meig.,Meig.,Leucostoma,,tetraptera,,species,,B48:2,accepted,,,B48:2:780,Leucostoma,,,,,Tachinidae,Phasiinae,Leucostoma,,Tachinidae | Phasiinae | Leucostoma,tetraptera Meig.,6Q5TK,1477335,6Q5TK,1477335
+B48:2:787,Leucostoma turonicum Dup.,Dup.,Leucostoma,,turonicum,,species,,B48:2,accepted,,,B48:2:780,Leucostoma,,,,,Tachinidae,Phasiinae,Leucostoma,,Tachinidae | Phasiinae | Leucostoma,turonicum Dup.,725TK,1477332,725TK,1477332
+B48:2:788,Leucostoma abbreviatum Hert.,Hert.,Leucostoma,,abbreviatum,,species,,B48:2,accepted,,,B48:2:780,Leucostoma,,,,,Tachinidae,Phasiinae,Leucostoma,,Tachinidae | Phasiinae | Leucostoma,abbreviatum Hert.,72665,1477314,72665,1477314
+B48:2:789,Labigastera,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Labigastera,,Tachinidae | Phasiinae,Labigastera,BYGGS,1473230,BYGGS,1473230
+B48:2:790,Labigastera forcipata Meig.,Meig.,Labigastera,,forcipata,,species,,B48:2,accepted,,,B48:2:789,Labigastera,,,,,Tachinidae,Phasiinae,Labigastera,,Tachinidae | Phasiinae | Labigastera,forcipata Meig.,3RJNW,1473233,3RJNW,1473233
+B48:2:791,Labigastera nitidula Meig.,Meig.,Labigastera,,nitidula,,species,,B48:2,accepted,,,B48:2:789,Labigastera,,,,,Tachinidae,Phasiinae,Labigastera,,Tachinidae | Phasiinae | Labigastera,nitidula Meig.,3RJP2,1473243,3RJP2,1473243
+B48:2:792,Labigastera pauciseta Rond.,Rond.,Labigastera,,pauciseta,,species,,B48:2,accepted,,,B48:2:789,Labigastera,,,,,Tachinidae,Phasiinae,Labigastera,,Tachinidae | Phasiinae | Labigastera,pauciseta Rond.,BZB22,1473240,BZB22,1473240
+B48:2:793,Cylindromyia,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae,Cylindromyia,BXZJJ,1473585,BXZJJ,1473585
+B48:2:794,Cylindromyia rufifrons Loew,Loew,Cylindromyia,,rufifrons,,species,,B48:2,accepted,,,B48:2:793,Cylindromyia,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae | Cylindromyia,rufifrons Loew,8BPYQ,1473613,8BPYQ,1473613
+B48:2:795,Cylindromyia bicolor Oliv.,Oliv.,Cylindromyia,,bicolor,,species,,B48:2,accepted,,,B48:2:793,Cylindromyia,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae | Cylindromyia,bicolor Oliv.,8BPY4,9768924,8BPY4,9768924
+B48:2:796,Cylindromyia brevicornis Loew,Loew,Cylindromyia,,brevicornis,,species,,B48:2,accepted,,,B48:2:793,Cylindromyia,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae | Cylindromyia,brevicornis Loew,8BPY7,1473651,8BPY7,1473651
+B48:2:797,Cylindromyia xylotina Egg.,Egg.,Cylindromyia,,xylotina,,species,,B48:2,accepted,,,B48:2:793,Cylindromyia,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae | Cylindromyia,xylotina Egg.,8BPYH,1473712,8BPYH,1473712
+B48:2:798,Cylindromyia pilipes Loew,Loew,Cylindromyia,,pilipes,,species,,B48:2,accepted,,,B48:2:793,Cylindromyia,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae | Cylindromyia,pilipes Loew,8BPYD,1473703,8BPYD,1473703
+B48:2:799,Cylindromyia brassicaria F.,F.,Cylindromyia,,brassicaria,,species,,B48:2,accepted,,,B48:2:793,Cylindromyia,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae | Cylindromyia,brassicaria F.,8BPY5,1473620,8BPY5,1473620
+B48:2:800,Cylindromyia pusilla Meig.,Meig.,Cylindromyia,,pusilla,,species,,B48:2,accepted,,,B48:2:793,Cylindromyia,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae | Cylindromyia,pusilla Meig.,8BPZ4,9474091,8BPZ4,9474091
+B48:2:801,Cylindromyia interrupta Meig.,Meig.,Cylindromyia,,interrupta,,species,,B48:2,accepted,,,B48:2:793,Cylindromyia,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae | Cylindromyia,interrupta Meig.,883KL,1473763,883KL,1473763
+B48:2:802,Cylindromyia intermedia Meig.,Meig.,Cylindromyia,,intermedia,,species,,B48:2,accepted,,,B48:2:793,Cylindromyia,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae | Cylindromyia,intermedia Meig.,883KB,1473598,883KB,1473598
+B48:2:803,Cylindromyia auriceps Meig.,Meig.,Cylindromyia,,auriceps,,species,,B48:2,accepted,,,B48:2:793,Cylindromyia,,,,,Tachinidae,Phasiinae,Cylindromyia,,Tachinidae | Phasiinae | Cylindromyia,auriceps Meig.,8BPYW,1473715,8BPYW,1473715
+B48:2:804,Hemyda,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Hemyda,,Tachinidae | Phasiinae,Hemyda,BYF95,1476482,BYF95,1476482
+B48:2:805,Hemyda vittata Meig.,Meig.,Hemyda,,vittata,,species,,B48:2,accepted,,,B48:2:804,Hemyda,,,,,Tachinidae,Phasiinae,Hemyda,,Tachinidae | Phasiinae | Hemyda,vittata Meig.,6LR4K,1476483,6LR4K,1476483
+B48:2:806,Hemyda obscuripennis Meig.,Meig.,Hemyda,,obscuripennis,,species,,B48:2,accepted,,,B48:2:804,Hemyda,,,,,Tachinidae,Phasiinae,Hemyda,,Tachinidae | Phasiinae | Hemyda,obscuripennis Meig.,6LQSK,1476490,6LQSK,1476490
+B48:2:807,Besseria,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Besseria,,Tachinidae | Phasiinae,Besseria,BY86F,1465258,BY86F,1465258
+B48:2:808,Besseria anthophila Loew,Loew,Besseria,,anthophila,,species,,B48:2,accepted,,,B48:2:807,Besseria,,,,,Tachinidae,Phasiinae,Besseria,,Tachinidae | Phasiinae | Besseria,anthophila Loew,LNHH,1465271,LNHH,1465271
+B48:2:809,Besseria lateritia Meig.,Meig.,Besseria,,lateritia,,species,,B48:2,accepted,,,B48:2:807,Besseria,,,,,Tachinidae,Phasiinae,Besseria,,Tachinidae | Phasiinae | Besseria,lateritia Meig.,LNHS,1465281,LNHS,1465281
+B48:2:810,Besseria melanura Meig.,Meig.,Besseria,,melanura,,species,,B48:2,accepted,,,B48:2:807,Besseria,,,,,Tachinidae,Phasiinae,Besseria,,Tachinidae | Phasiinae | Besseria,melanura Meig.,68JX2,1465279,68JX2,1465279
+B48:2:811,Besseria dimidiata Zett.,Zett.,Besseria,,dimidiata,,species,,B48:2,accepted,,,B48:2:807,Besseria,,,,,Tachinidae,Phasiinae,Besseria,,Tachinidae | Phasiinae | Besseria,dimidiata Zett.,LNHN,1465268,LNHN,1465268
+B48:2:812,Besseria reflexa R.D.,R.D.,Besseria,,reflexa,,species,,B48:2,accepted,,,B48:2:807,Besseria,,,,,Tachinidae,Phasiinae,Besseria,,Tachinidae | Phasiinae | Besseria,reflexa R.D.,LNHY,1465278,LNHY,1465278
+B48:2:813,Phania,,,,,,genus,,B48:2,accepted,,,B48:2:741,Phasiinae,,,,,Tachinidae,Phasiinae,Phania,,Tachinidae | Phasiinae,Phania,BYM8V,1472139,BYM8V,1472139
+B48:2:814,Phania speculifrons Vill.,Vill.,Phania,,speculifrons,,species,,B48:2,accepted,,,B48:2:813,Phania,,,,,Tachinidae,Phasiinae,Phania,,Tachinidae | Phasiinae | Phania,speculifrons Vill.,779CY,1472149,779CY,1472149
+B48:2:815,Phania funesta Meig.,Meig.,Phania,,funesta,,species,,B48:2,accepted,,,B48:2:813,Phania,,,,,Tachinidae,Phasiinae,Phania,,Tachinidae | Phasiinae | Phania,funesta Meig.,6V9CX,1472141,6V9CX,1472141
+B48:2:816,Phania curvicauda Fall.,Fall.,Phania,,curvicauda,,species,,B48:2,accepted,,,B48:2:813,Phania,,,,,Tachinidae,Phasiinae,Phania,,Tachinidae | Phasiinae | Phania,curvicauda Fall.,4FTTY,1472146,4FTTY,1472146
+B48:2:817,Phania albisquama Vill.,Vill.,Phania,,albisquama,,species,,B48:2,accepted,,,B48:2:813,Phania,,,,,Tachinidae,Phasiinae,Phania,,Tachinidae | Phasiinae | Phania,albisquama Vill.,4FTTS,1472153,4FTTS,1472153
+B48:2:818,Phania thoracica Meig.,Meig.,Phania,,thoracica,,species,,B48:2,accepted,,,B48:2:813,Phania,,,,,Tachinidae,Phasiinae,Phania,,Tachinidae | Phasiinae | Phania,thoracica Meig.,6V9CZ,1472140,6V9CZ,1472140
+B48:2:819,Phania incrassata Pand.,Pand.,Phania,,incrassata,,species,,B48:2,accepted,,,B48:2:813,Phania,,,,,Tachinidae,Phasiinae,Phania,,Tachinidae | Phasiinae | Phania,incrassata Pand.,6V9D9,1472147,6V9D9,1472147
