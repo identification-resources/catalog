@@ -1,0 +1,159 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1848:1:1,Petromyzontidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Petromyzontidae,,,,,Petromyzontidae,625W9,2212,625W9,2212
+B1848:1:2,Lampetra,,,,,,genus,,B1848:1,accepted,,,B1848:1:1,Petromyzontidae,,,,,Petromyzontidae,,Lampetra,,Petromyzontidae,Lampetra,CB5PB,2421329,CB5PB,2421329
+B1848:1:3,"Lampetra planeri (Bloch, 1784)","(Bloch, 1784)",Lampetra,,planeri,,species,,B1848:1,accepted,,,B1848:1:2,Lampetra,,,,,Petromyzontidae,,Lampetra,,Petromyzontidae | Lampetra,"planeri (Bloch, 1784)",6NVMN,2421402,6NVMN,2421402
+B1848:1:4,"Lampetra fluviatilis (Linnaeus, 1758)","(Linnaeus, 1758)",Lampetra,,fluviatilis,,species,,B1848:1,accepted,,,B1848:1:2,Lampetra,,,,,Petromyzontidae,,Lampetra,,Petromyzontidae | Lampetra,"fluviatilis (Linnaeus, 1758)",6NVLC,2421365,6NVLC,2421365
+B1848:1:5,Petromyzon,,,,,,genus,,B1848:1,accepted,,,B1848:1:1,Petromyzontidae,,,,,Petromyzontidae,,Petromyzon,,Petromyzontidae,Petromyzon,CBVC3,2421261,CBVC3,2421261
+B1848:1:6,"Petromyzon marinus Linnaeus, 1758","Linnaeus, 1758",Petromyzon,,marinus,,species,,B1848:1,accepted,,,B1848:1:5,Petromyzon,,,,,Petromyzontidae,,Petromyzon,,Petromyzontidae | Petromyzon,"marinus Linnaeus, 1758",6V6DZ,8236498,6V6DZ,8236498
+B1848:1:7,Acipenseridae,,,,,,family,,B1848:1,accepted,,,,,,,,,Acipenseridae,,,,,Acipenseridae,5XM,2947,5XM,2947
+B1848:1:8,Acipenser,,,,,,genus,,B1848:1,accepted,,,B1848:1:7,Acipenseridae,,,,,Acipenseridae,,Acipenser,,Acipenseridae,Acipenser,C92W4,9754115,C92W4,5202178
+B1848:1:9,"Acipenser baerii Brandt, 1869","Brandt, 1869",Acipenser,,baerii,,species,,B1848:1,accepted,,,B1848:1:8,Acipenser,,,,,Acipenseridae,,Acipenser,,Acipenseridae | Acipenser,"baerii Brandt, 1869",9C4T,4287131,9C4T,4287131
+B1848:1:10,"Acipenser baerii subsp. baerii Brandt, 1869","Brandt, 1869",Acipenser,,baerii,baerii,subspecies,,B1848:1,accepted,,,B1848:1:9,"Acipenser baerii Brandt, 1869",,,,,Acipenseridae,,Acipenser,,Acipenseridae | Acipenser | Acipenser baerii,"baerii ssp. baerii Brandt, 1869",7J76Z,6169511,9C4T,4287131
+B1848:1:11,"Acipenser gueldenstaedtii Brandt & Ratzeburg, 1833","Brandt & Ratzeburg, 1833",Acipenser,,gueldenstaedtii,,species,,B1848:1,accepted,,,B1848:1:8,Acipenser,,,,,Acipenseridae,,Acipenser,,Acipenseridae | Acipenser,"gueldenstaedtii Brandt & Ratzeburg, 1833",9C5J,2402129,9C5J,2402129
+B1848:1:12,"Acipenser ruthenus Linnaeus, 1758","Linnaeus, 1758",Acipenser,,ruthenus,,species,,B1848:1,accepted,,,B1848:1:8,Acipenser,,,,,Acipenseridae,,Acipenser,,Acipenseridae | Acipenser,"ruthenus Linnaeus, 1758",64KGJ,2402168,64KGJ,2402168
+B1848:1:13,"Acipenser sturio Linnaeus, 1758","Linnaeus, 1758",Acipenser,,sturio,,species,,B1848:1,accepted,,,B1848:1:8,Acipenser,,,,,Acipenseridae,,Acipenser,,Acipenseridae | Acipenser,"sturio Linnaeus, 1758",9C7Q,2402203,9C7Q,2402203
+B1848:1:14,Anguillidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Anguillidae,,,,,Anguillidae,62352,2949,62352,2949
+B1848:1:15,Anguilla,,,,,,genus,,B1848:1,accepted,,,B1848:1:14,Anguillidae,,,,,Anguillidae,,Anguilla,,Anguillidae,Anguilla,C8V4M,11024460,C8V4M,11024460
+B1848:1:16,"Anguilla anguilla (Linnaeus, 1758)","(Linnaeus, 1758)",Anguilla,,anguilla,,species,,B1848:1,accepted,,,B1848:1:15,Anguilla,,,,,Anguillidae,,Anguilla,,Anguillidae | Anguilla,"anguilla (Linnaeus, 1758)",DZZN,5212973,DZZN,5212973
+B1848:1:17,Clupeidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Clupeidae,,,,,Clupeidae,8CJ,7332,8CJ,7332
+B1848:1:18,Alosa,,,,,,genus,,B1848:1,accepted,,,B1848:1:17,Clupeidae,,,,,Clupeidae,,Alosa,,Clupeidae,Alosa,C8VLS,2412615,C8VLS,2412615
+B1848:1:19,"Alosa alosa (Linnaeus, 1758)","(Linnaeus, 1758)",Alosa,,alosa,,species,,B1848:1,accepted,,,B1848:1:18,Alosa,,,,,Clupeidae,,Alosa,,Clupeidae | Alosa,"alosa (Linnaeus, 1758)",C5LK,2412685,C5LK,2412685
+B1848:1:20,"Alosa fallax (Lacépède, 1803)","(Lacépède, 1803)",Alosa,,fallax,,species,,B1848:1,accepted,,,B1848:1:18,Alosa,,,,,Clupeidae,,Alosa,,Clupeidae | Alosa,"fallax (Lacépède, 1803)",C5M6,2412623,C5M6,2412623
+B1848:1:21,"Alosa fallax subsp. fallax (Lacépède, 1803)","(Lacépède, 1803)",Alosa,,fallax,fallax,subspecies,,B1848:1,accepted,,,B1848:1:20,"Alosa fallax (Lacépède, 1803)",,,,,Clupeidae,,Alosa,,Clupeidae | Alosa | Alosa fallax,"fallax ssp. fallax (Lacépède, 1803)",5FJ74,6166124,C5M6,2412623
+B1848:1:22,Salmonidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Salmonidae,,,,,Salmonidae,FWM,8615,FWM,8615
+B1848:1:23,Salmoninae,,,,,,subfamily,,B1848:1,accepted,,,B1848:1:22,Salmonidae,,,,,Salmonidae,Salmoninae,,,Salmonidae,SALMONINAE,,,,
+B1848:1:24,Oncorhynchus,,,,,,genus,,B1848:1,accepted,,,B1848:1:23,Salmoninae,,,,,Salmonidae,Salmoninae,Oncorhynchus,,Salmonidae | Salmoninae,Oncorhynchus,C9C7G,2351426,C9C7G,2351426
+B1848:1:25,"Oncorhynchus mykiss (Walbaum, 1792)","(Walbaum, 1792)",Oncorhynchus,,mykiss,,species,,B1848:1,accepted,,,B1848:1:24,Oncorhynchus,,,,,Salmonidae,Salmoninae,Oncorhynchus,,Salmonidae | Salmoninae | Oncorhynchus,"mykiss (Walbaum, 1792)",49JFF,5204019,49JFF,5204019
+B1848:1:26,Salmo,,,,,,genus,,B1848:1,accepted,,,B1848:1:23,Salmoninae,,,,,Salmonidae,Salmoninae,Salmo,,Salmonidae | Salmoninae,Salmo,CCHCN,2347608,CCHCN,2347608
+B1848:1:27,"Salmo salar Linnaeus, 1758","Linnaeus, 1758",Salmo,,salar,,species,,B1848:1,accepted,,,B1848:1:26,Salmo,,,,,Salmonidae,Salmoninae,Salmo,,Salmonidae | Salmoninae | Salmo,"salar Linnaeus, 1758",6XCXT,7595433,6XCXT,7595433
+B1848:1:28,"Salmo trutta Linnaeus, 1758","Linnaeus, 1758",Salmo,,trutta,,species,,B1848:1,accepted,,,B1848:1:26,Salmo,,,,,Salmonidae,Salmoninae,Salmo,,Salmonidae | Salmoninae | Salmo,"trutta Linnaeus, 1758",79CZL,8215487,79CZL,8215487
+B1848:1:29,"Salmo trutta subsp. fario Linnaeus, 1758","Linnaeus, 1758",Salmo,,trutta,fario,subspecies,,B1848:1,accepted,,,B1848:1:28,"Salmo trutta Linnaeus, 1758",,,,,Salmonidae,Salmoninae,Salmo,,Salmonidae | Salmoninae | Salmo | Salmo trutta,"trutta ssp. fario Linnaeus, 1758",5KZF6,6169666,79CZL,8215487
+B1848:1:30,"Salmo trutta subsp. trutta Linnaeus, 1758","Linnaeus, 1758",Salmo,,trutta,trutta,subspecies,,B1848:1,accepted,,,B1848:1:28,"Salmo trutta Linnaeus, 1758",,,,,Salmonidae,Salmoninae,Salmo,,Salmonidae | Salmoninae | Salmo | Salmo trutta,"trutta ssp. trutta Linnaeus, 1758",5KZFJ,7193468,79CZL,8215487
+B1848:1:31,Salvelinus,,,,,,genus,,B1848:1,accepted,,,B1848:1:23,Salmoninae,,,,,Salmonidae,Salmoninae,Salvelinus,,Salmonidae | Salmoninae,Salvelinus,CCHCR,2351241,CCHCR,2351241
+B1848:1:32,"Salvelinus fontinalis (Mitchill, 1814)","(Mitchill, 1814)",Salvelinus,,fontinalis,,species,,B1848:1,accepted,,,B1848:1:31,Salvelinus,,,,,Salmonidae,Salmoninae,Salvelinus,,Salmonidae | Salmoninae | Salvelinus,"fontinalis (Mitchill, 1814)",6XG35,2351271,6XG35,2351271
+B1848:1:33,Thymallinae,,,,,,subfamily,,B1848:1,accepted,,,B1848:1:22,Salmonidae,,,,,Salmonidae,Thymallinae,,,Salmonidae,THYMALLINAE,,,,
+B1848:1:34,Thymallus,,,,,,genus,,B1848:1,accepted,,,B1848:1:33,Thymallinae,,,,,Salmonidae,Thymallinae,Thymallus,,Salmonidae | Thymallinae,Thymallus,CC9WF,5203981,CC9WF,5203981
+B1848:1:35,"Thymallus thymallus (Linnaeus, 1758)","(Linnaeus, 1758)",Thymallus,,thymallus,,species,,B1848:1,accepted,,,B1848:1:34,Thymallus,,,,,Salmonidae,Thymallinae,Thymallus,,Salmonidae | Thymallinae | Thymallus,"thymallus (Linnaeus, 1758)",56Q8K,5203999,56Q8K,5203999
+B1848:1:36,Coregoninae,,,,,,subfamily,,B1848:1,accepted,,,B1848:1:22,Salmonidae,,,,,Salmonidae,Coregoninae,,,Salmonidae,COREGONINAE,,,,
+B1848:1:37,Coregonus,,,,,,genus,,B1848:1,accepted,,,B1848:1:36,Coregoninae,,,,,Salmonidae,Coregoninae,Coregonus,,Salmonidae | Coregoninae,Coregonus,C9C9K,2350934,C9C9K,2350934
+B1848:1:38,"Coregonus albula  (Linnaeus, 1758)"," (Linnaeus, 1758)",Coregonus,,albula,,species,,B1848:1,accepted,,,B1848:1:37,Coregonus,,,,,Salmonidae,Coregoninae,Coregonus,,Salmonidae | Coregoninae | Coregonus,"albula  (Linnaeus, 1758)",YD7R,2351027,YD7R,2351027
+B1848:1:39,"Coregonus lavaretus (Linnaeus, 1758)","(Linnaeus, 1758)",Coregonus,,lavaretus,,species,,B1848:1,accepted,,,B1848:1:37,Coregonus,,,,,Salmonidae,Coregoninae,Coregonus,,Salmonidae | Coregoninae | Coregonus,"lavaretus (Linnaeus, 1758)",6B298,2351211,6B298,2351211
+B1848:1:40,"Coregonus oxyrinchus Linnaeus, 1758","Linnaeus, 1758",Coregonus,,oxyrinchus,,species,,B1848:1,accepted,,,B1848:1:37,Coregonus,,,,,Salmonidae,Coregoninae,Coregonus,,Salmonidae | Coregoninae | Coregonus,"oxyrinchus Linnaeus, 1758",6B3P8,2351155,6B3P8,2351155
+B1848:1:41,Osmeridae,,,,,,family,,B1848:1,accepted,,,,,,,,,Osmeridae,,,,,Osmeridae,DR9,8480,DR9,8480
+B1848:1:42,Osmerus,,,,,,genus,,B1848:1,accepted,,,B1848:1:41,Osmeridae,,,,,Osmeridae,,Osmerus,,Osmeridae,Osmerus,CBMKZ,2401117,CBMKZ,2401117
+B1848:1:43,"Osmerus eperlanus (Linnaeus, 1758)","(Linnaeus, 1758)",Osmerus,,eperlanus,,species,,B1848:1,accepted,,,B1848:1:42,Osmerus,,,,,Osmeridae,,Osmerus,,Osmeridae | Osmerus,"eperlanus (Linnaeus, 1758)",6SZTL,2410854,6SZTL,2410854
+B1848:1:44,Esocidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Esocidae,,,,,Esocidae,9VR,7662,9VR,7662
+B1848:1:45,Esox,,,,,,genus,,B1848:1,accepted,,,B1848:1:44,Esocidae,,,,,Esocidae,,Esox,,Esocidae,Esox,C9S64,9752795,C9S64,2413913
+B1848:1:46,"Esox lucius Linnaeus, 1758","Linnaeus, 1758",Esox,,lucius,,species,,B1848:1,accepted,,,B1848:1:45,Esox,,,,,Esocidae,,Esox,,Esocidae | Esox,"lucius Linnaeus, 1758",3BHYH,2346633,3BHYH,2346633
+B1848:1:47,Umbridae,,,,,,family,,B1848:1,accepted,,,,,,,,,Umbridae,,,,,Umbridae,HNV,7663,HNV,7663
+B1848:1:48,Umbra,,,,,,genus,,B1848:1,accepted,,,B1848:1:47,Umbridae,,,,,Umbridae,,Umbra,,Umbridae,Umbra,CCCRM,8290837,CCCRM,2399651
+B1848:1:49,"Umbra pygmaea (De Kay, 1842)","(De Kay, 1842)",Umbra,,pygmaea,,species,,B1848:1,accepted,,,B1848:1:48,Umbra,,,,,Umbridae,,Umbra,,Umbridae | Umbra,"pygmaea (De Kay, 1842)",7DGKY,5203111,7DGKY,5203111
+B1848:1:50,Cyprinidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Cyprinidae,,,,,Cyprinidae,6248Q,7336,6248Q,7336
+B1848:1:51,Abramis,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Abramis,,Cyprinidae,Abramis,C8VRF,2363407,C8VRF,2363407
+B1848:1:52,"Abramis brama (Linnaeus, 1758)","(Linnaeus, 1758)",Abramis,,brama,,species,,B1848:1,accepted,,,B1848:1:51,Abramis,,,,,Cyprinidae,,Abramis,,Cyprinidae | Abramis,"brama (Linnaeus, 1758)",63ZV8,9809222,63ZV8,9809222
+B1848:1:53,"Abramis sapa (Pallas, 1814)","(Pallas, 1814)",Abramis,,sapa,,species,,B1848:1,accepted,,,B1848:1:51,Abramis,,,,,Cyprinidae,,Abramis,,Cyprinidae | Abramis,"sapa (Pallas, 1814)",8LPG,2367031,KHGX,2367024
+B1848:1:54,Alburnoides,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Alburnoides,,Cyprinidae,Alburnoides,C8SL3,2360279,C8SL3,2360279
+B1848:1:55,"Alburnoides bipunctatus (Bloch, 1782)","(Bloch, 1782)",Alburnoides,,bipunctatus,,species,,B1848:1,accepted,,,B1848:1:54,Alburnoides,,,,,Cyprinidae,,Alburnoides,,Cyprinidae | Alburnoides,"bipunctatus (Bloch, 1782)",65W6T,2360305,65W6T,2360305
+B1848:1:56,Alburnus,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Alburnus,,Cyprinidae,Alburnus,C8SLF,2362898,C8SLF,2362898
+B1848:1:57,"Alburnus alburnus (Linnaeus, 1758)","(Linnaeus, 1758)",Alburnus,,alburnus,,species,,B1848:1,accepted,,,B1848:1:56,Alburnus,,,,,Cyprinidae,,Alburnus,,Cyprinidae | Alburnus,"alburnus (Linnaeus, 1758)",66876,2362925,66876,2362925
+B1848:1:58,Aristichthys,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Aristichthys,,Cyprinidae,Aristichthys,,2366234,,2362472
+B1848:1:59,"Aristichthys nobilis (Richardson, 1844)","(Richardson, 1844)",Aristichthys,,nobilis,,species,,B1848:1,accepted,,,B1848:1:58,Aristichthys,,,,,Cyprinidae,,Aristichthys,,Cyprinidae | Aristichthys,"nobilis (Richardson, 1844)",GNQQ,2362489,6N2TM,2362486
+B1848:1:60,Aspius,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Aspius,,Cyprinidae,Aspius,,2360179,,3241445
+B1848:1:61,"Aspius aspius (Linnaeus, 1758)","(Linnaeus, 1758)",Aspius,,aspius,,species,,B1848:1,accepted,,,B1848:1:60,Aspius,,,,,Cyprinidae,,Aspius,,Cyprinidae | Aspius,"aspius (Linnaeus, 1758)",HJNT,2360181,6Q3Q4,5851603
+B1848:1:62,Barbus,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Barbus,,Cyprinidae,Barbus,C92RC,9183743,C92RC,9183743
+B1848:1:63,"Barbus barbus (Linnaeus, 1758)","(Linnaeus, 1758)",Barbus,,barbus,,species,,B1848:1,accepted,,,B1848:1:62,Barbus,,,,,Cyprinidae,,Barbus,,Cyprinidae | Barbus,"barbus (Linnaeus, 1758)",KMZ5,5739539,KMZ5,5739539
+B1848:1:64,Blicca,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Blicca,,Cyprinidae,Blicca,C94LP,2359470,C94LP,2359470
+B1848:1:65,"Blicca bjoerkna (Linnaeus, 1758)","(Linnaeus, 1758)",Blicca,,bjoerkna,,species,,B1848:1,accepted,,,B1848:1:64,Blicca,,,,,Cyprinidae,,Blicca,,Cyprinidae | Blicca,"bjoerkna (Linnaeus, 1758)",68LRL,2359471,68LRL,2359471
+B1848:1:66,Carassius,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Carassius,,Cyprinidae,Carassius,C96XZ,7396773,C96XZ,7396773
+B1848:1:67,"Carassius auratus (Linnaeus, 1758)","(Linnaeus, 1758)",Carassius,,auratus,,species,,B1848:1,accepted,,,B1848:1:66,Carassius,,,,,Cyprinidae,,Carassius,,Cyprinidae | Carassius,"auratus (Linnaeus, 1758)",68ZXN,4286942,68ZXN,4286942
+B1848:1:68,"Carassius auratus subsp. auratus (Linnaeus, 1758)","(Linnaeus, 1758)",Carassius,,auratus,auratus,subspecies,,B1848:1,accepted,,,B1848:1:67,"Carassius auratus (Linnaeus, 1758)",,,,,Cyprinidae,,Carassius,,Cyprinidae | Carassius | Carassius auratus,"auratus ssp. auratus (Linnaeus, 1758)",5G7LM,7193629,68ZXN,4286942
+B1848:1:69,"Carassius gibelio (Bloch, 1782)","(Bloch, 1782)",Carassius,,gibelio,,species,,B1848:1,accepted,,,B1848:1:66,Carassius,,,,,Cyprinidae,,Carassius,,Cyprinidae | Carassius,"gibelio (Bloch, 1782)",R32T,2366634,R32T,2366634
+B1848:1:70,"Carassius carassius (Linnaeus, 1758)","(Linnaeus, 1758)",Carassius,,carassius,,species,,B1848:1,accepted,,,B1848:1:66,Carassius,,,,,Cyprinidae,,Carassius,,Cyprinidae | Carassius,"carassius (Linnaeus, 1758)",R32J,2366645,R32J,2366645
+B1848:1:71,Chondrostoma,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Chondrostoma,,Cyprinidae,Chondrostoma,C98YV,2360535,C98YV,2360535
+B1848:1:72,"Chondrostoma nasus (Linnaeus, 1758)","(Linnaeus, 1758)",Chondrostoma,,nasus,,species,,B1848:1,accepted,,,B1848:1:71,Chondrostoma,,,,,Cyprinidae,,Chondrostoma,,Cyprinidae | Chondrostoma,"nasus (Linnaeus, 1758)",5XZDS,2360551,5XZDS,2360551
+B1848:1:73,Ctenopharyngodon,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Ctenopharyngodon,,Cyprinidae,Ctenopharyngodon,C9GGT,2362029,C9GGT,2362029
+B1848:1:74,"Ctenopharyngodon idella (Valenciennes, 1844)","(Valenciennes, 1844)",Ctenopharyngodon,,idella,,species,,B1848:1,accepted,,,B1848:1:73,Ctenopharyngodon,,,,,Cyprinidae,,Ctenopharyngodon,,Cyprinidae | Ctenopharyngodon,"idella (Valenciennes, 1844)",99H8T,2362030,99H8T,2362030
+B1848:1:75,Cyprinus,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Cyprinus,,Cyprinidae,Cyprinus,C9KLW,2347697,C9KLW,2347697
+B1848:1:76,"Cyprinus carpio Linnaeus, 1758","Linnaeus, 1758",Cyprinus,,carpio,,species,,B1848:1,accepted,,,B1848:1:75,Cyprinus,,,,,Cyprinidae,,Cyprinus,,Cyprinidae | Cyprinus,"carpio Linnaeus, 1758",33HRJ,4286975,33HRJ,4286975
+B1848:1:77,"Cyprinus carpio subsp. carpio Linnaeus, 1758","Linnaeus, 1758",Cyprinus,,carpio,carpio,subspecies,,B1848:1,accepted,,,B1848:1:76,"Cyprinus carpio Linnaeus, 1758",,,,,Cyprinidae,,Cyprinus,,Cyprinidae | Cyprinus | Cyprinus carpio,"carpio ssp. carpio Linnaeus, 1758",7JMZD,7059109,33HRJ,4286975
+B1848:1:78,Gobio,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Gobio,,Cyprinidae,Gobio,C9ZP2,3241110,C9ZP2,3241110
+B1848:1:79,"Gobio gobio (Linnaeus, 1758)","(Linnaeus, 1758)",Gobio,,gobio,,species,,B1848:1,accepted,,,B1848:1:78,Gobio,,,,,Cyprinidae,,Gobio,,Cyprinidae | Gobio,"gobio (Linnaeus, 1758)",3GP8J,4409628,3GP8J,4409628
+B1848:1:80,"Gobio gobio subsp. gobio (Linnaeus, 1758)","(Linnaeus, 1758)",Gobio,,gobio,gobio,subspecies,,B1848:1,accepted,,,B1848:1:79,"Gobio gobio (Linnaeus, 1758)",,,,,Cyprinidae,,Gobio,,Cyprinidae | Gobio | Gobio gobio,"gobio ssp. gobio (Linnaeus, 1758)",5HHTH,6166879,3GP8J,4409628
+B1848:1:81,Hypophthalmichthys,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Hypophthalmichthys,,Cyprinidae,Hypophthalmichthys,CB6X4,2362472,CB6X4,2362472
+B1848:1:82,"Hypophthalmichthys molitrix (Valenciennes, 1844)","(Valenciennes, 1844)",Hypophthalmichthys,,molitrix,,species,,B1848:1,accepted,,,B1848:1:81,Hypophthalmichthys,,,,,Cyprinidae,,Hypophthalmichthys,,Cyprinidae | Hypophthalmichthys,"molitrix (Valenciennes, 1844)",6MR5M,2362473,6MR5M,2362473
+B1848:1:83,Leucaspius,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Leucaspius,,Cyprinidae,Leucaspius,CB52M,2362880,CB52M,2362880
+B1848:1:84,"Leucaspius delineatus (Heckel, 1843)","(Heckel, 1843)",Leucaspius,,delineatus,,species,,B1848:1,accepted,,,B1848:1:83,Leucaspius,,,,,Cyprinidae,,Leucaspius,,Cyprinidae | Leucaspius,"delineatus (Heckel, 1843)",723YJ,2362881,723YJ,2362881
+B1848:1:85,Leuciscus,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Leuciscus,,Cyprinidae,Leuciscus,C9KM3,3241445,C9KM3,3241445
+B1848:1:86,"Leuciscus cephalus (Linnaeus, 1758)","(Linnaeus, 1758)",Leuciscus,,cephalus,,species,,B1848:1,accepted,,,B1848:1:85,Leuciscus,,,,,Cyprinidae,,Leuciscus,,Cyprinidae | Leuciscus,"cephalus (Linnaeus, 1758)",723PB,5207464,6ZDRX,2365685
+B1848:1:87,"Leuciscus idus (Linnaeus, 1758)","(Linnaeus, 1758)",Leuciscus,,idus,,species,,B1848:1,accepted,,,B1848:1:85,Leuciscus,,,,,Cyprinidae,,Leuciscus,,Cyprinidae | Leuciscus,"idus (Linnaeus, 1758)",6Q3R5,4409643,6Q3R5,4409643
+B1848:1:88,"Leuciscus leuciscus (Linnaeus, 1758)","(Linnaeus, 1758)",Leuciscus,,leuciscus,,species,,B1848:1,accepted,,,B1848:1:85,Leuciscus,,,,,Cyprinidae,,Leuciscus,,Cyprinidae | Leuciscus,"leuciscus (Linnaeus, 1758)",6Q433,4409641,6Q433,4409641
+B1848:1:89,Phoxinus,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Phoxinus,,Cyprinidae,Phoxinus,CBN8D,3241387,CBN8D,3241387
+B1848:1:90,"Phoxinus phoxinus (Linnaeus, 1758)","(Linnaeus, 1758)",Phoxinus,,phoxinus,,species,,B1848:1,accepted,,,B1848:1:89,Phoxinus,,,,,Cyprinidae,,Phoxinus,,Cyprinidae | Phoxinus,"phoxinus (Linnaeus, 1758)",4GTGC,4409653,4GTGC,4409653
+B1848:1:91,Pseudorasbora,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Pseudorasbora,,Cyprinidae,Pseudorasbora,CBTJ8,2362864,CBTJ8,2362864
+B1848:1:92,"Pseudorasbora parva (Temminck & Schlegel, 1846)","(Temminck & Schlegel, 1846)",Pseudorasbora,,parva,,species,,B1848:1,accepted,,,B1848:1:91,Pseudorasbora,,,,,Cyprinidae,,Pseudorasbora,,Cyprinidae | Pseudorasbora,"parva (Temminck & Schlegel, 1846)",4P9F3,2362868,4P9F3,2362868
+B1848:1:93,Rhodeus,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Rhodeus,,Cyprinidae,Rhodeus,CBZ95,2360802,CBZ95,2360802
+B1848:1:94,"Rhodeus amarus (Bloch, 1782)","(Bloch, 1782)",Rhodeus,,amarus,,species,,B1848:1,accepted,,,B1848:1:93,Rhodeus,,,,,Cyprinidae,,Rhodeus,,Cyprinidae | Rhodeus,"amarus (Bloch, 1782)",6X6ZT,2360842,6X6ZT,2360842
+B1848:1:95,Romanogobio,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Romanogobio,,Cyprinidae,Romanogobio,C9ZP3,2360736,C9ZP3,2360736
+B1848:1:96,"Romanogobio albipinnatus (Lukasch, 1933)","(Lukasch, 1933)",Romanogobio,,albipinnatus,,species,,B1848:1,accepted,,,B1848:1:95,Romanogobio,,,,,Cyprinidae,,Romanogobio,,Cyprinidae | Romanogobio,"albipinnatus (Lukasch, 1933)",6WWMC,2360766,6WWMC,2360766
+B1848:1:97,Rutilus,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Rutilus,,Cyprinidae,Rutilus,CC2JV,2359646,CC2JV,2359646
+B1848:1:98,"Rutilus rutilus (Linnaeus, 1758)","(Linnaeus, 1758)",Rutilus,,rutilus,,species,,B1848:1,accepted,,,B1848:1:97,Rutilus,,,,,Cyprinidae,,Rutilus,,Cyprinidae | Rutilus,"rutilus (Linnaeus, 1758)",4TTHT,2359706,4TTHT,2359706
+B1848:1:99,Scardinius,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Scardinius,,Cyprinidae,Scardinius,CB5FT,2362632,CB5FT,2362632
+B1848:1:100,"Scardinius erythrophthalmus (Linnaeus, 1758)","(Linnaeus, 1758)",Scardinius,,erythrophthalmus,,species,,B1848:1,accepted,,,B1848:1:99,Scardinius,,,,,Cyprinidae,,Scardinius,,Cyprinidae | Scardinius,"erythrophthalmus (Linnaeus, 1758)",4V2SM,2362635,4V2SM,2362635
+B1848:1:101,Tinca,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Tinca,,Cyprinidae,Tinca,CB5GL,10331598,CB5GL,10331598
+B1848:1:102,"Tinca tinca (Linnaeus, 1758)","(Linnaeus, 1758)",Tinca,,tinca,,species,,B1848:1,accepted,,,B1848:1:101,Tinca,,,,,Cyprinidae,,Tinca,,Cyprinidae | Tinca,"tinca (Linnaeus, 1758)",56ZWM,2362524,56ZWM,2362524
+B1848:1:103,Vimba,,,,,,genus,,B1848:1,accepted,,,B1848:1:50,Cyprinidae,,,,,Cyprinidae,,Vimba,,Cyprinidae,Vimba,CCD8R,2360501,CCD8R,2360501
+B1848:1:104,"Vimba vimba (Linnaeus, 1758)","(Linnaeus, 1758)",Vimba,,vimba,,species,,B1848:1,accepted,,,B1848:1:103,Vimba,,,,,Cyprinidae,,Vimba,,Cyprinidae | Vimba,"vimba (Linnaeus, 1758)",5BFDX,2360504,5BFDX,2360504
+B1848:1:105,Cobitidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Cobitidae,,,,,Cobitidae,8D7,3385,8D7,3385
+B1848:1:106,Cobitis,,,,,,genus,,B1848:1,accepted,,,B1848:1:105,Cobitidae,,,,,Cobitidae,,Cobitis,,Cobitidae,Cobitis,C9G7K,2349691,C9G7K,2349691
+B1848:1:107,Cobitis taenia Linnaeus 1758,Linnaeus 1758,Cobitis,,taenia,,species,,B1848:1,accepted,,,B1848:1:106,Cobitis,,,,,Cobitidae,,Cobitis,,Cobitidae | Cobitis,taenia Linnaeus 1758,WK47,2368185,WK47,2368185
+B1848:1:108,Misgurnus,,,,,,genus,,B1848:1,accepted,,,B1848:1:105,Cobitidae,,,,,Cobitidae,,Misgurnus,,Cobitidae,Misgurnus,CBJW4,2367906,CBJW4,2367906
+B1848:1:109,"Misgurnus fossilis (Linnaeus, 1758)","(Linnaeus, 1758)",Misgurnus,,fossilis,,species,,B1848:1,accepted,,,B1848:1:108,Misgurnus,,,,,Cobitidae,,Misgurnus,,Cobitidae | Misgurnus,"fossilis (Linnaeus, 1758)",43NKC,2367936,43NKC,2367936
+B1848:1:110,Balitoridae,,,,,,family,,B1848:1,accepted,,,,,,,,,Balitoridae,,,,,Balitoridae,72J,3383,72J,3383
+B1848:1:111,Barbatula,,,,,,genus,,B1848:1,accepted,,,B1848:1:110,Balitoridae,,,,,Balitoridae,,Barbatula,,Balitoridae,Barbatula,C92N8,2357544,C92N8,2357544
+B1848:1:112,"Barbatula barbatula (Linnaeus, 1758)","(Linnaeus, 1758)",Barbatula,,barbatula,,species,,B1848:1,accepted,,,B1848:1:111,Barbatula,,,,,Balitoridae,,Barbatula,,Balitoridae | Barbatula,"barbatula (Linnaeus, 1758)",KMC9,5204862,KMC9,5204862
+B1848:1:113,Siluridae,,,,,,family,,B1848:1,accepted,,,,,,,,,Siluridae,,,,,Siluridae,CC2QK,5168,CC2QK,5168
+B1848:1:114,Silurus,,,,,,genus,,B1848:1,accepted,,,B1848:1:113,Siluridae,,,,,Siluridae,,Silurus,,Siluridae,Silurus,CC2QN,2333535,CC2QN,2333535
+B1848:1:115,"Silurus glanis Linnaeus, 1758","Linnaeus, 1758",Silurus,,glanis,,species,,B1848:1,accepted,,,B1848:1:114,Silurus,,,,,Siluridae,,Silurus,,Siluridae | Silurus,"glanis Linnaeus, 1758",6YPTG,2337607,6YPTG,2337607
+B1848:1:116,Ictaluridae,,,,,,family,,B1848:1,accepted,,,,,,,,,Ictaluridae,,,,,Ictaluridae,C9YNY,5153,C9YNY,5153
+B1848:1:117,Ameiurus,,,,,,genus,,B1848:1,accepted,,,B1848:1:116,Ictaluridae,,,,,Ictaluridae,,Ameiurus,,Ictaluridae,Ameiurus,C8TL9,2340965,C8TL9,2340965
+B1848:1:118,"Ameiurus melas (Raffinesque, 1820)","(Raffinesque, 1820)",Ameiurus,,melas,,species,,B1848:1,accepted,,,B1848:1:117,Ameiurus,,,,,Ictaluridae,,Ameiurus,,Ictaluridae | Ameiurus,"melas (Raffinesque, 1820)",CQKD,2340977,CQKD,2340977
+B1848:1:119,"Ameiurus nebulosus (Lesueur, 1819)","(Lesueur, 1819)",Ameiurus,,nebulosus,,species,,B1848:1,accepted,,,B1848:1:117,Ameiurus,,,,,Ictaluridae,,Ameiurus,,Ictaluridae | Ameiurus,"nebulosus (Lesueur, 1819)",CQKG,2340989,CQKG,2340989
+B1848:1:120,Clariidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Clariidae,,,,,Clariidae,C992R,8978,C992R,8978
+B1848:1:121,Clarias,,,,,,genus,,B1848:1,accepted,,,B1848:1:120,Clariidae,,,,,Clariidae,,Clarias,,Clariidae,Clarias,C99MZ,5202658,C99MZ,5202658
+B1848:1:122,"Clarias gariepinus (Burchell, 1822)","(Burchell, 1822)",Clarias,,gariepinus,,species,,B1848:1,accepted,,,B1848:1:121,Clarias,,,,,Clariidae,,Clarias,,Clariidae | Clarias,"gariepinus (Burchell, 1822)",VRBD,5202793,VRBD,5202793
+B1848:1:123,Lotidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Lotidae,,,,,Lotidae,C7N,9639,C7N,9639
+B1848:1:124,Lota,,,,,,genus,,B1848:1,accepted,,,B1848:1:123,Lotidae,,,,,Lotidae,,Lota,,Lotidae,Lota,CB8WN,2415459,CB8WN,2415459
+B1848:1:125,"Lota lota (Linnaeus, 1758)","(Linnaeus, 1758)",Lota,,lota,,species,,B1848:1,accepted,,,B1848:1:124,Lota,,,,,Lotidae,,Lota,,Lotidae | Lota,"lota (Linnaeus, 1758)",3W7KT,2415460,3W7KT,2415460
+B1848:1:126,Poeciliidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Poeciliidae,,,,,Poeciliidae,CBR4K,7659,CBR4K,7659
+B1848:1:127,Poecilia,,,,,,genus,,B1848:1,accepted,,,B1848:1:126,Poeciliidae,,,,,Poeciliidae,,Poecilia,,Poeciliidae,Poecilia,C9527,2347767,C9527,2347767
+B1848:1:128,"Poecilia reticulata Peters, 1859","Peters, 1859",Poecilia,,reticulata,,species,,B1848:1,accepted,,,B1848:1:127,Poecilia,,,,,Poeciliidae,,Poecilia,,Poeciliidae | Poecilia,"reticulata Peters, 1859",9KCT3,2350050,9KCT3,2350050
+B1848:1:129,Gasterosteidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Gasterosteidae,,,,,Gasterosteidae,62479,7666,62479,7666
+B1848:1:130,Gasterosteus,,,,,,genus,,B1848:1,accepted,,,B1848:1:129,Gasterosteidae,,,,,Gasterosteidae,,Gasterosteus,,Gasterosteidae,Gasterosteus,C9YDP,2333602,C9YDP,2333602
+B1848:1:131,"Gasterosteus aculeatus Linnaeus, 1758","Linnaeus, 1758",Gasterosteus,,aculeatus,,species,,B1848:1,accepted,,,B1848:1:130,Gasterosteus,,,,,Gasterosteidae,,Gasterosteus,,Gasterosteidae | Gasterosteus,"aculeatus Linnaeus, 1758",3FCKT,4286327,3FCKT,4286327
+B1848:1:132,"Gasterosteus aculeatus subsp. aculeatus Linnaeus, 1758","Linnaeus, 1758",Gasterosteus,,aculeatus,aculeatus,subspecies,,B1848:1,accepted,,,B1848:1:131,"Gasterosteus aculeatus Linnaeus, 1758",,,,,Gasterosteidae,,Gasterosteus,,Gasterosteidae | Gasterosteus | Gasterosteus aculeatus,"aculeatus ssp. aculeatus Linnaeus, 1758",5HF3F,7193464,3FCKT,4286327
+B1848:1:133,Pungitius,,,,,,genus,,B1848:1,accepted,,,B1848:1:129,Gasterosteidae,,,,,Gasterosteidae,,Pungitius,,Gasterosteidae,Pungitius,CBZWM,5204682,CBZWM,5204682
+B1848:1:134,"Pungitius pungitius (Linnaeus, 1758)","(Linnaeus, 1758)",Pungitius,,pungitius,,species,,B1848:1,accepted,,,B1848:1:133,Pungitius,,,,,Gasterosteidae,,Pungitius,,Gasterosteidae | Pungitius,"pungitius (Linnaeus, 1758)",6WPH5,5739510,6WPH5,5739510
+B1848:1:135,Percidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Percidae,,,,,Percidae,625TX,4481,625TX,4481
+B1848:1:136,Gymnocephalus,,,,,,genus,,B1848:1,accepted,,,B1848:1:135,Percidae,,,,,Percidae,,Gymnocephalus,,Percidae,Gymnocephalus,C9Z64,2382125,C9Z64,2382125
+B1848:1:137,"Gymnocephalus cernuus (Linnaeus, 1758)","(Linnaeus, 1758)",Gymnocephalus,,cernuus,,species,,B1848:1,accepted,,,B1848:1:136,Gymnocephalus,,,,,Percidae,,Gymnocephalus,,Percidae | Gymnocephalus,"cernuus (Linnaeus, 1758)",3HQWQ,2382126,3HQWP,5209574
+B1848:1:138,Perca,,,,,,genus,,B1848:1,accepted,,,B1848:1:135,Percidae,,,,,Percidae,,Perca,,Percidae,Perca,CBNXK,2334781,CBNXK,2334781
+B1848:1:139,"Perca fluviatilis Linnaeus, 1758","Linnaeus, 1758",Perca,,fluviatilis,,species,,B1848:1,accepted,,,B1848:1:138,Perca,,,,,Percidae,,Perca,,Percidae | Perca,"fluviatilis Linnaeus, 1758",6V3PB,8140485,6V3PB,8140485
+B1848:1:140,Sander,,,,,,genus,,B1848:1,accepted,,,B1848:1:135,Percidae,,,,,Percidae,,Sander,,Percidae,Sander,CCHF3,2382151,CCHF3,2382151
+B1848:1:141,"Sander lucioperca (Linnaeus, 1758)","(Linnaeus, 1758)",Sander,,lucioperca,,species,,B1848:1,accepted,,,B1848:1:140,Sander,,,,,Percidae,,Sander,,Percidae | Sander,"lucioperca (Linnaeus, 1758)",6XHMB,2382155,6XHMB,2382155
+B1848:1:142,Centrarchidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Centrarchidae,,,,,Centrarchidae,622LH,8513,622LH,8513
+B1848:1:143,Lepomis,,,,,,genus,,B1848:1,accepted,,,B1848:1:142,Centrarchidae,,,,,Centrarchidae,,Lepomis,,Centrarchidae,Lepomis,CB7KP,2394482,CB7KP,2394482
+B1848:1:144,"Lepomis gibbosus (Linnaeus, 1758)","(Linnaeus, 1758)",Lepomis,,gibbosus,,species,,B1848:1,accepted,,,B1848:1:143,Lepomis,,,,,Centrarchidae,,Lepomis,,Centrarchidae | Lepomis,"gibbosus (Linnaeus, 1758)",3TG2F,2394486,3TG2F,2394486
+B1848:1:145,Cottidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Cottidae,,,,,Cottidae,8MC,8621,8MC,8621
+B1848:1:146,Cottus,,,,,,genus,,B1848:1,accepted,,,B1848:1:145,Cottidae,,,,,Cottidae,,Cottus,,Cottidae,Cottus,C9GST,2334066,C9GST,2334066
+B1848:1:147,"Cottus gobio Linnaeus, 1758","Linnaeus, 1758",Cottus,,gobio,,species,,B1848:1,accepted,,,B1848:1:146,Cottus,,,,,Cottidae,,Cottus,,Cottidae | Cottus,"gobio Linnaeus, 1758",YYGV,7807208,YYGV,7807208
+B1848:1:148,Gobiidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Gobiidae,,,,,Gobiidae,623LH,4274,623LH,4274
+B1848:1:149,Neogobius,,,,,,genus,,B1848:1,accepted,,,B1848:1:148,Gobiidae,,,,,Gobiidae,,Neogobius,,Gobiidae,Neogobius,C9ZR7,2379049,C9ZR7,2379049
+B1848:1:150,"Neogobius melanostomus (Pallas, 1814)","(Pallas, 1814)",Neogobius,,melanostomus,,species,,B1848:1,accepted,,,B1848:1:149,Neogobius,,,,,Gobiidae,,Neogobius,,Gobiidae | Neogobius,"melanostomus (Pallas, 1814)",6RW9X,2379089,6RW9X,2379089
+B1848:1:151,Proterorhinus,,,,,,genus,,B1848:1,accepted,,,B1848:1:148,Gobiidae,,,,,Gobiidae,,Proterorhinus,,Gobiidae,Proterorhinus,C9ZR9,2379231,C9ZR9,2379231
+B1848:1:152,"Proterorhinus marmoratus (Pallas, 1814)","(Pallas, 1814)",Proterorhinus,,marmoratus,,species,,B1848:1,accepted,,,B1848:1:151,Proterorhinus,,,,,Gobiidae,,Proterorhinus,,Gobiidae | Proterorhinus,"marmoratus (Pallas, 1814)",4N3MC,2379235,4N3MC,2379235
+B1848:1:153,Pleuronectidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Pleuronectidae,,,,,Pleuronectidae,62649,8611,62649,8611
+B1848:1:154,Platichthys,,,,,,genus,,B1848:1,accepted,,,B1848:1:153,Pleuronectidae,,,,,Pleuronectidae,,Platichthys,,Pleuronectidae,Platichthys,CBRTV,2409326,CBRTV,2409326
+B1848:1:155,"Platichthys flesus (Linnaeus, 1758)","(Linnaeus, 1758)",Platichthys,,flesus,,species,,B1848:1,accepted,,,B1848:1:154,Platichthys,,,,,Pleuronectidae,,Platichthys,,Pleuronectidae | Platichthys,"flesus (Linnaeus, 1758)",4JNBQ,2409330,4JNBQ,2409330
+B1848:1:156,Mugilidae,,,,,,family,,B1848:1,accepted,,,,,,,,,Mugilidae,,,,,Mugilidae,CYR,8473,CYR,8473
+B1848:1:157,Chelon,,,,,,genus,,B1848:1,accepted,,,B1848:1:156,Mugilidae,,,,,Mugilidae,,Chelon,,Mugilidae,Chelon,C9CBS,2400862,C9CBS,2400862
+B1848:1:158,"Chelon labrosus (Risso, 1827)","(Risso, 1827)",Chelon,,labrosus,,species,,B1848:1,accepted,,,B1848:1:157,Chelon,,,,,Mugilidae,,Chelon,,Mugilidae | Chelon,"labrosus (Risso, 1827)",TVBX,2400863,TVBX,2400863

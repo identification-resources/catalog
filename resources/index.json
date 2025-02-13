@@ -7298,6 +7298,34 @@
     "id": "B948:1",
     "taxonCount": 3
   },
+  "B967:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "30-61",
+      "scope": [
+        "adults"
+      ]
+    },
+    "id": "B967:1",
+    "taxonCount": 55
+  },
+  "B967:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "62-90",
+      "scope": [
+        "nymphs"
+      ]
+    },
+    "id": "B967:2",
+    "taxonCount": 53
+  },
   "B989:1": {
     "levels": [
       "genus",
@@ -8882,6 +8910,17 @@
     "id": "B1679:1",
     "taxonCount": 16
   },
+  "B1680:1": {
+    "levels": [
+      "phylum",
+      "class",
+      "order",
+      "family",
+      "species"
+    ],
+    "id": "B1680:1",
+    "taxonCount": 31
+  },
   "B1681:1": {
     "levels": [
       "species"
@@ -9320,5 +9359,101 @@
     ],
     "id": "B1817:1",
     "taxonCount": 28
+  },
+  "B1826:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B1826:1",
+    "taxonCount": 6
+  },
+  "B1827:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1827:1",
+    "taxonCount": 23
+  },
+  "B1828:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1828:1",
+    "taxonCount": 23
+  },
+  "B1829:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1829:1",
+    "taxonCount": 8
+  },
+  "B1830:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1830:1",
+    "taxonCount": 8
+  },
+  "B1831:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1831:1",
+    "taxonCount": 15
+  },
+  "B1832:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1832:1",
+    "taxonCount": 15
+  },
+  "B1833:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B1833:1",
+    "taxonCount": 17
+  },
+  "B1834:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B1834:1",
+    "taxonCount": 17
+  },
+  "B1848:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B1848:1",
+    "taxonCount": 158
+  },
+  "B1849:1": {
+    "levels": [
+      "class",
+      "order",
+      "family",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B1849:1",
+    "taxonCount": 296
   }
 }
