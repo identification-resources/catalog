@@ -1,60 +1,117 @@
 ---
 levels:
+  - family
+  - subfamily
+  - genus
+  - subgenus
   - species
+  - subspecies
 ---
 
-Andrenosoma atra
-Antipalus varipes
-Asilus crabroniformis
-Choerades fulvus
-Choerades gilvus
-Choerades marginatus
-Cyrtopogon lateralis
-Dasypogon diadema
-Dioctria atricapilla
-Dioctria bicincta
-Dioctria cothurnata
-Dioctria engeli
-Dioctria hyalipennis
-Dioctria lateralis
-Dioctria linearis
-Dioctria longicornis
-Dioctria oelandica
-Dioctria rufipes
-Dioctria sudetica
-Dysmachus (Didysmachus) picipes
-Dysmachus trigonus
-Erax punctipennis
-Eutolmus rufibarbis
-Holopogon nigripennis
-Laphria ephippium
-Laphria flava
-Laphria gibbosa
-  > Laphria gibbosus
-Lasiopogon cinctus
-Leptarthrus brevirostris
-Leptarthrus vitripennis
-Leptogaster cylindrica
-Leptogaster guttiventris
-Leptogaster subtilis
-Machimus arthriticus
-Machimus (Tolmerus) atricapillus
-Machimus (Tolmerus) atricapillus
-Machimus caliginosus
-Machimus (Tolmerus) cingulatus
-Machimus (Tolmerus) cowini
-Machimus gonatistes
-Machimus (Tolmerus) micans
-Machimus rusticus
-Machimus setibarbus
-Machimus (Neoepitriptus) setosulus
-Molobratia teutonus
-Neoitamus cothurnatus
-Neoitamus cyanurus
-Neoitamus socius
-Neomochtherus pallipes
-Pamponerus germanicus
-Paritamus geniculatus
-Philonicus albiceps
-Rhadiurgus variabilis
-Stichopogon elegantulus
+Asilidae
+  Asilinae
+    Antipalus Loew, 1849
+        varipes (Meigen, 1820)
+    Asilus Linnaeus, 1758
+        crabroniformis Linnaeus, 1758
+    Dysmachus Loew, 1860
+      Dysmachus Loew, 1860
+        trigonus (Meigen, 1804)
+      Didysmachus Lehr, 1996
+        picipes (Meigen, 1820)
+          = Didysmachus picipes
+    Erax Scopoli, 1763
+        punctipennis (Meigen, 1820)
+          = Erax punctatus
+          = Erax barbatus
+    Eutolmus Loew, 1848
+        rufibarbis (Meigen, 1804)
+    Machimus Loew, 1849
+      Machimus Loew, 1849
+        arthriticus (Zeller, 1840)
+        caliginosus (Meigen, 1820)
+          = Machimus caliginosis
+        gonatistes (Zeller, 1840)
+        rusticus (Meigen, 1820)
+        setibarbus (Loew, 1849)
+          = Machimus setibarbis
+      Neoepitriptus Lehr, 1992
+        setosulus (Zeller, 1840)
+          = Neoepitriptus setulosus
+      Tolmerus Loew, 1849
+        atricapillus (Fallén, 1814)
+          = Tolmerus atricapillus
+          atricapillus subsp. calceatus (Meigen, 1820)
+        cingulatus (Fabricius, 1781)
+          = Tolmerus cingulatus
+        cowini Hobby, 1946
+          = Tolmerus cowini
+        micans (Meigen 1820)
+    Neoitamus Osten-Sacken, 1878
+        cothurnatus (Meigen, 1820)
+        cyanurus (Loew, 1849)
+        socius (Loew, 1871)
+    Neomochtherus Osten-Sacken, 1878
+        pallipes (Meigen, 1820)
+    Pamponerus Loew, 1849
+        germanicus (Linnaeus, 1758)
+    Paritamus Verral, 1909
+        geniculatus (Meigen, 1820)
+    Philonicus Loew, 1849
+        albiceps (Meigen, 1820)
+    Rhadiurgus Loew, 1849
+        variabilis (Zetterstedt, 1838)
+  Brachyrhopalinae
+    Cyrtopogon Loew, 1847
+        lateralis (Fallén, 1814)
+    Holopogon
+        nigripennis (Meigen, 1820)
+    Leptarthrus Stephens, 1829
+        brevirostris (Meigen, 1804)
+        vitripennis (Meigen, 1820)
+  Dasypogoninae
+    Dasypogon Meigen, 1803
+        diadema (Fabricius, 1794)
+    Molobratia Hull, 1958
+        teutonus (Linnaeus, 1767)
+  Dioctriinae
+    Dioctria Meigen, 1803
+        atricapilla Meigen , 1804
+        bicincta Meigen, 1820
+        cothurnata Meigen, 1820
+          = Dioctria reinhardi Meigen, 1820
+        engeli Noskiewicz, 1953
+        hyalipennis (Fabricius, 1794)
+          = Dioctria baumhaueri Meigen, 1820
+        lateralis Meigen, 1804
+        linearis (Fabricius, 1781)
+        longicornis Meigen, 1820
+        oelandica (Linneaus, 1758)
+        rufipes (De Geer, 1776)
+        sudetica Duda, 1940
+  Laphrinae
+    Andrenosoma Rondani, 1856
+        atrum (Linnaeus, 1758)
+          = Andrenosoma atra
+    Choerades Walker, 1851
+        fulvus (Meigen, 1804)
+         = Choerades fulva
+        gilvus (Linnaeus, 1758)
+         = Choerades gilva
+        marginatus (Linnaeus, 1758)
+         = Choerades marginata
+    Laphria Meigen, 1803
+        ephippium (Fabricius, 1781)
+        flava (Linnaeus, 1761)
+        gibbosa (Linnaeus, 1761)
+  Leptogastrinae
+    Leptogaster Meigen, 1803
+        cylindrica (De Geer, 1776)
+        guttiventris Zetterstedt, 1842
+        subtilis Loew, 1847
+          = L. gallica Janssens, 1957
+  Stichopogoninae
+    Lasiopogon Loew, 1847
+        cinctus (Fabricius, 1781
+    Stichopogon Loew, 1847
+        elegantulus (Wiedeman, 1820)

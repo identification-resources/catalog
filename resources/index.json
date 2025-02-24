@@ -51,10 +51,15 @@
   },
   "B9:1": {
     "levels": [
-      "species"
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
     ],
     "id": "B9:1",
-    "taxonCount": 54
+    "taxonCount": 107
   },
   "B10:1": {
     "levels": [
@@ -2019,7 +2024,7 @@
       "aberration"
     ],
     "id": "B173:1",
-    "taxonCount": 207
+    "taxonCount": 208
   },
   "B177:1": {
     "levels": [
@@ -7455,6 +7460,47 @@
     },
     "id": "B1138:3",
     "taxonCount": 381
+  },
+  "B1139:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "1-104"
+    },
+    "id": "B1139:1",
+    "taxonCount": 164
+  },
+  "B1139:2": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "105-106"
+    },
+    "id": "B1139:2",
+    "taxonCount": 3
+  },
+  "B1139:3": {
+    "levels": [
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "109-440"
+    },
+    "id": "B1139:3",
+    "taxonCount": 491
   },
   "B1169:1": {
     "levels": [
