@@ -6,7 +6,7 @@ levels:
   - species
 ---
 
-SIPHLONURUS KLAPALEK, 1909
+SIPHLONURIDAE KLAPALEK, 1909
   AMELETUS Eaton, 1885
       inopinatus Eaton, 1887
   PARAMELETUS Bengtsson, 1908
@@ -16,8 +16,10 @@ SIPHLONURUS KLAPALEK, 1909
       aestivalis (Eaton, 1903)
       lacustris Eaton, 1870
       alternatus (Say, 1824)
-BAETIDAE KLAPALEK, 1909
-  BAETIS Leach, 1815
+BAËTIDAE KLAPALEK, 1909
+  > BAETIDAE KLAPALEK, 1909
+  BAËTIS Leach, 1815
+    > BAETIS Leach, 1815
       fuscatus (Linnaeus, 1761)
       lapponicus (Bengtsson, 1912)
         > lapponica (Bengtsson, 1912)
@@ -31,7 +33,8 @@ BAETIDAE KLAPALEK, 1909
       vernus Curtis, 1834
   CENTROPTILUM Eaton, 1869
       luteolum (Muller, 1776)
-  CLOEON Leach, 1815
+  CLOËON Leach, 1815
+    > CLOEON Leach, 1815
       dipterum (Linnaeus, 1761)
       inscriptum Bengtsson, 1914
       simile Eaton, 1870

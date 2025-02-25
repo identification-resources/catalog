@@ -1,17 +1,17 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B376:1:1,Aculeata,,,,,,suborder,,B376:1,accepted,,,,,,,,,,,,,,Aculeata,,,,
-B376:1:2,Formicidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Formicidae,,,,Aculeata,Formicidae,623T5,4342,623T5,4342
-B376:1:3,Dolichoderinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Dolichoderinae,,,Aculeata | Formicidae,Dolichoderinae,JGK,,JGK,
+B376:1:2,Formicidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Formicidae,,,,Aculeata,Formicidae,CLRKP,4342,CLRKP,4342
+B376:1:3,Dolichoderinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Dolichoderinae,,,Aculeata | Formicidae,Dolichoderinae,CLNKM,,CLNKM,
 B376:1:4,Dolichoderus,,,,,,genus,,B376:1,accepted,,,B376:1:3,Dolichoderinae,,,,,Formicidae,Dolichoderinae,Dolichoderus,,Aculeata | Formicidae | Dolichoderinae,Dolichoderus,62R6N,1314182,62R6N,1314182
 B376:1:5,Tapinoma,,,,,,genus,,B376:1,accepted,,,B376:1:3,Dolichoderinae,,,,,Formicidae,Dolichoderinae,Tapinoma,,Aculeata | Formicidae | Dolichoderinae,Tapinoma,7SPC,1316784,7SPC,1316784
-B376:1:6,Formicinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Formicinae,,,Aculeata | Formicidae,Formicinae,JKW,,JKW,
+B376:1:6,Formicinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Formicinae,,,Aculeata | Formicidae,Formicinae,CLWPD,,CLWPD,
 B376:1:7,Camponotus,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Camponotus,,Aculeata | Formicidae | Formicinae,Camponotus,3GGD,1312361,3GGD,1312361
 B376:1:8,Formica,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Formica,,Aculeata | Formicidae | Formicinae,Formica,4KS4,12339359,4KS4,12339359
 B376:1:9,Lasius,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Lasius,,Aculeata | Formicidae | Formicinae,Lasius,5B7S,1325751,5B7S,1325751
 B376:1:10,Plagiolepis,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Plagiolepis,,Aculeata | Formicidae | Formicinae,Plagiolepis,6R9D,1320758,6R9D,1320758
 B376:1:11,Polyergus,,,,,,genus,,B376:1,accepted,,,B376:1:6,Formicinae,,,,,Formicidae,Formicinae,Polyergus,,Aculeata | Formicidae | Formicinae,Polyergus,63NDS,1326338,63NDS,1326338
-B376:1:12,Myrmicinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Myrmicinae,,,Aculeata | Formicidae,Myrmicinae,JY2,,JY2,
-B376:1:13,Anergates,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Anergates,,Aculeata | Formicidae | Myrmicinae,Anergates,VZN,1314823,VZN,1314823
+B376:1:12,Myrmicinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Myrmicinae,,,Aculeata | Formicidae,Myrmicinae,CMD7Z,,CMD7Z,
+B376:1:13,Anergates,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Anergates,,Aculeata | Formicidae | Myrmicinae,Anergates,VZN,1314823,63V54,1314823
 B376:1:14,Aphaenogaster,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Aphaenogaster,,Aculeata | Formicidae | Myrmicinae,Aphaenogaster,Y85,1315863,Y85,1315863
 B376:1:15,Crematogaster,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Crematogaster,,Aculeata | Formicidae | Myrmicinae,Crematogaster,3VHN,12343735,3VHN,12343735
 B376:1:16,Formicoxenus,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Formicoxenus,,Aculeata | Formicidae | Myrmicinae,Formicoxenus,4KSR,1317460,4KSR,1317460
@@ -25,7 +25,7 @@ B376:1:23,Solenopsis,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Form
 B376:1:24,Stenamma,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Stenamma,,Aculeata | Formicidae | Myrmicinae,Stenamma,7MDH,9138092,7MDH,9138092
 B376:1:25,Strongylognathus,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Strongylognathus,,Aculeata | Formicidae | Myrmicinae,Strongylognathus,7PFV,1317667,7PFV,1317667
 B376:1:26,Tetramorium,,,,,,genus,,B376:1,accepted,,,B376:1:12,Myrmicinae,,,,,Formicidae,Myrmicinae,Tetramorium,,Aculeata | Formicidae | Myrmicinae,Tetramorium,63V54,1323128,63V54,1323128
-B376:1:27,Ponerinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Ponerinae,,,Aculeata | Formicidae,Ponerinae,K6Z,,K6Z,
+B376:1:27,Ponerinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:2,Formicidae,,,,,Formicidae,Ponerinae,,,Aculeata | Formicidae,Ponerinae,CMJV8,,CMJV8,
 B376:1:28,Ponera,,,,,,genus,,B376:1,accepted,,,B376:1:27,Ponerinae,,,,,Formicidae,Ponerinae,Ponera,,Aculeata | Formicidae | Ponerinae,Ponera,63NZ7,1317227,63NZ7,1317227
 B376:1:29,Mutillidae,,,,,,family,,B376:1,accepted,,,B376:1:1,Aculeata,,,,,Mutillidae,,,,Aculeata,Mutillidae,CZW,7912,CZW,7912
 B376:1:30,Mutillinae,,,,,,subfamily,,B376:1,accepted,,,B376:1:29,Mutillidae,,,,,Mutillidae,Mutillinae,,,Aculeata | Mutillidae,Mutillinae,,,,
@@ -91,7 +91,7 @@ B376:1:89,Alysson,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabro
 B376:1:90,Argogorytes,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Argogorytes,,Aculeata | Apoidea | Crabronidae,Argogorytes,32NH,1346025,32NH,1346025
 B376:1:91,Astata,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Astata,,Aculeata | Apoidea | Crabronidae,Astata,349K,3259003,349K,3259003
 B376:1:92,Bembix,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Bembix,,Aculeata | Apoidea | Crabronidae,Bembix,62GHG,1338924,62GHG,1338924
-B376:1:93,Cerceris,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Cerceris,,Aculeata | Apoidea | Crabronidae,Cerceris,3KYS,1312205,3KYS,1312205
+B376:1:93,Cerceris,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Cerceris,,Aculeata | Apoidea | Crabronidae,Cerceris,3KYR,1312205,3KYR,1312205
 B376:1:94,Crabro,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Crabro,,Aculeata | Apoidea | Crabronidae,Crabro,3V4L,1361459,3V4L,1361459
 B376:1:95,Crossocerus,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Crossocerus,,Aculeata | Apoidea | Crabronidae,Crossocerus,3W6F,1338935,3W6F,1338935
 B376:1:96,Didineis,,,,,,genus,,B376:1,accepted,,,B376:1:88,Crabronidae,,,,,Crabronidae,,Didineis,,Aculeata | Apoidea | Crabronidae,Didineis,456C,4298371,456C,4298371
@@ -153,7 +153,7 @@ B376:1:151,Chrysis,,,,,,genus,,B376:1,accepted,,,B376:1:146,Chrysidini,,,,,Chrys
 B376:1:152,Elampini,,,,,,tribe,,B376:1,accepted,,,B376:1:145,Chrysidinae,,,,,Chrysididae,Chrysidinae,,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae,Elampini,,,,
 B376:1:153,Elampus,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Elampus,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,Elampus,,4405609,,4405609
 B376:1:154,Hedychrum,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Hedychrum,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,Hedychrum,,4494164,,4494164
-B376:1:155,Hedychrydium,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Hedychrydium,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,Hedychrydium,,,,
+B376:1:155,Hedychridium,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Hedychridium,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,Hedychridium,,8934105,,8934105
 B376:1:156,Holopyga,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Holopyga,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,Holopyga,,3258441,,3258441
 B376:1:157,Omalus,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Omalus,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,Omalus,,3258860,,3258860
 B376:1:158,Philoctetes,,,,,,genus,,B376:1,accepted,,,B376:1:152,Elampini,,,,,Chrysididae,Chrysidinae,Philoctetes,,Aculeata | Chrysidoidea | Chrysididae | Chrysidinae | Elampini,Philoctetes,,4494048,,4494048

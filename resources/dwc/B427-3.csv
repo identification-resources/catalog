@@ -1,16 +1,16 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B427:3:1,Vespula,,,,,,family,,B427:3,accepted,,,,,,,,,Vespula,,,,,Vespula,CF9ST,,CF9ST,
-B427:3:2,"Vespa L., 1758","L., 1758",,,,,genus,,B427:3,accepted,,,B427:3:1,Vespula,,,,,Vespula,,Vespa,,Vespula,"Vespa L., 1758",CF9S7,1311334,CF9S7,1311334
-B427:3:3,Vespa crabro L.,L.,Vespa,,crabro,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespula,,Vespa,,Vespula | Vespa,crabro L.,5B9T3,1311527,5B9T3,1311527
-B427:3:4,Vespa media De Geer,De Geer,Vespa,,media,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespula,,Vespa,,Vespula | Vespa,media De Geer,,4504339,,1311838
-B427:3:5,Vespa silvestris Scopoli,Scopoli,Vespa,,silvestris,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespula,,Vespa,,Vespula | Vespa,silvestris Scopoli,,4504328,,1311798
-B427:3:6,Vespa norvegica F.,F.,Vespa,,norvegica,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespula,,Vespa,,Vespula | Vespa,norvegica F.,,4504333,,1311831
-B427:3:7,Vespa rufa L.,L.,Vespa,,rufa,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespula,,Vespa,,Vespula | Vespa,rufa L.,,4504326,,1311676
-B427:3:8,Vespa austriaca Panzer,Panzer,Vespa,,austriaca,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespula,,Vespa,,Vespula | Vespa,austriaca Panzer,,4504325,,1311651
-B427:3:9,Vespa germanica F.,F.,Vespa,,germanica,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespula,,Vespa,,Vespula | Vespa,germanica F.,,4504321,,1311649
-B427:3:10,Vespa vulgaris L.,L.,Vespa,,vulgaris,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespula,,Vespa,,Vespula | Vespa,vulgaris L.,,4504323,,1311671
-B427:3:11,"Polistes Latreille, 1802","Latreille, 1802",,,,,genus,,B427:3,accepted,,,B427:3:1,Vespula,,,,,Vespula,,Polistes,,Vespula,"Polistes Latreille, 1802",CDVRC,1310500,CDVRC,1310500
-B427:3:12,Polistes gallicus L.,L.,Polistes,,gallicus,,species,,B427:3,accepted,,,B427:3:11,"Polistes Latreille, 1802",,,,,Vespula,,Polistes,,Vespula | Polistes,gallicus L.,4KYC4,1310622,4KYC4,1310622
-B427:3:13,Polistes gallicus var. biglumis,,Polistes,,gallicus,biglumis,variety,,B427:3,accepted,,,B427:3:12,Polistes gallicus L.,,,,,Vespula,,Polistes,,Vespula | Polistes | Polistes gallicus,biglumis,,,,
-B427:3:14,Polistes gallicus var. geoffroyi,,Polistes,,gallicus,geoffroyi,variety,,B427:3,accepted,,,B427:3:12,Polistes gallicus L.,,,,,Vespula,,Polistes,,Vespula | Polistes | Polistes gallicus,geoffroyi,,,,
-B427:3:15,Polistes semenowi F. Morawitz,F. Morawitz,Polistes,,semenowi,,species,,B427:3,accepted,,,B427:3:11,"Polistes Latreille, 1802",,,,,Vespula,,Polistes,,Vespula | Polistes,semenowi F. Morawitz,4KYHH,1310593,4KYHH,1310593
+B427:3:1,Vespidae,,,,,,family,,B427:3,accepted,,,,,,,,,Vespidae,,,,,Vespidae,HTJ,4490,HTJ,4490
+B427:3:2,"Vespa L., 1758","L., 1758",,,,,genus,,B427:3,accepted,,,B427:3:1,Vespidae,,,,,Vespidae,,Vespa,,Vespidae,"Vespa L., 1758",CF9S7,1311334,CF9S7,1311334
+B427:3:3,Vespa crabro L.,L.,Vespa,,crabro,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespidae,,Vespa,,Vespidae | Vespa,crabro L.,5B9T3,1311527,5B9T3,1311527
+B427:3:4,Vespa media De Geer,De Geer,Vespa,,media,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespidae,,Vespa,,Vespidae | Vespa,media De Geer,,4504339,,1311838
+B427:3:5,Vespa silvestris Scopoli,Scopoli,Vespa,,silvestris,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespidae,,Vespa,,Vespidae | Vespa,silvestris Scopoli,,4504328,,1311798
+B427:3:6,Vespa norvegica F.,F.,Vespa,,norvegica,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespidae,,Vespa,,Vespidae | Vespa,norvegica F.,,4504333,,1311831
+B427:3:7,Vespa rufa L.,L.,Vespa,,rufa,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespidae,,Vespa,,Vespidae | Vespa,rufa L.,,4504326,,1311676
+B427:3:8,Vespa austriaca Panzer,Panzer,Vespa,,austriaca,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespidae,,Vespa,,Vespidae | Vespa,austriaca Panzer,,4504325,,1311651
+B427:3:9,Vespa germanica F.,F.,Vespa,,germanica,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespidae,,Vespa,,Vespidae | Vespa,germanica F.,,4504321,,1311649
+B427:3:10,Vespa vulgaris L.,L.,Vespa,,vulgaris,,species,,B427:3,accepted,,,B427:3:2,"Vespa L., 1758",,,,,Vespidae,,Vespa,,Vespidae | Vespa,vulgaris L.,,4504323,,1311671
+B427:3:11,"Polistes Latreille, 1802","Latreille, 1802",,,,,genus,,B427:3,accepted,,,B427:3:1,Vespidae,,,,,Vespidae,,Polistes,,Vespidae,"Polistes Latreille, 1802",CDVRC,1310500,CDVRC,1310500
+B427:3:12,Polistes gallicus L.,L.,Polistes,,gallicus,,species,,B427:3,accepted,,,B427:3:11,"Polistes Latreille, 1802",,,,,Vespidae,,Polistes,,Vespidae | Polistes,gallicus L.,4KYC4,1310622,4KYC4,1310622
+B427:3:13,Polistes gallicus var. biglumis L.,L.,Polistes,,gallicus,biglumis,variety,,B427:3,accepted,,,B427:3:12,Polistes gallicus L.,,,,,Vespidae,,Polistes,,Vespidae | Polistes | Polistes gallicus,biglumis L.,,,,
+B427:3:14,Polistes gallicus var. geoffroyi Lepeletier,Lepeletier,Polistes,,gallicus,geoffroyi,variety,,B427:3,accepted,,,B427:3:12,Polistes gallicus L.,,,,,Vespidae,,Polistes,,Vespidae | Polistes | Polistes gallicus,geoffroyi Lepeletier,,,,
+B427:3:15,Polistes semenowi F. Morawitz,F. Morawitz,Polistes,,semenowi,,species,,B427:3,accepted,,,B427:3:11,"Polistes Latreille, 1802",,,,,Vespidae,,Polistes,,Vespidae | Polistes,semenowi F. Morawitz,4KYHH,1310593,4KYHH,1310593

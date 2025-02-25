@@ -2048,7 +2048,7 @@
       "species"
     ],
     "id": "B178:1",
-    "taxonCount": 96
+    "taxonCount": 98
   },
   "B179:1": {
     "levels": [
@@ -2417,7 +2417,7 @@
       "subspecies"
     ],
     "id": "B203:1",
-    "taxonCount": 468
+    "taxonCount": 469
   },
   "B204:1": {
     "levels": [
@@ -2987,7 +2987,7 @@
       "pages": "3-104"
     },
     "id": "B224:2",
-    "taxonCount": 342
+    "taxonCount": 343
   },
   "B226:1": {
     "levels": [
@@ -3713,7 +3713,7 @@
   },
   "B288:1": {
     "levels": [
-      "order",
+      "class",
       "family",
       "species"
     ],
@@ -4335,7 +4335,7 @@
       "subspecies"
     ],
     "id": "B383:1",
-    "taxonCount": 529
+    "taxonCount": 532
   },
   "B384:1": {
     "levels": [
@@ -4347,7 +4347,7 @@
       "subspecies"
     ],
     "id": "B384:1",
-    "taxonCount": 529
+    "taxonCount": 532
   },
   "B385:1": {
     "levels": [
@@ -7032,6 +7032,7 @@
   },
   "B910:1": {
     "levels": [
+      "class",
       "order",
       "suborder",
       "family"
@@ -7470,7 +7471,10 @@
       "subspecies"
     ],
     "catalog": {
-      "pages": "1-104"
+      "pages": "1-104",
+      "scope": [
+        "adults"
+      ]
     },
     "id": "B1139:1",
     "taxonCount": 164
@@ -7482,7 +7486,10 @@
       "species"
     ],
     "catalog": {
-      "pages": "105-106"
+      "pages": "105-106",
+      "scope": [
+        "adults"
+      ]
     },
     "id": "B1139:2",
     "taxonCount": 3
@@ -7497,10 +7504,45 @@
       "subspecies"
     ],
     "catalog": {
-      "pages": "109-440"
+      "pages": "109-440",
+      "scope": [
+        "adults"
+      ]
     },
     "id": "B1139:3",
-    "taxonCount": 491
+    "taxonCount": 499
+  },
+  "B1139:4": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "1-104",
+      "scope": [
+        "nymphs"
+      ]
+    },
+    "id": "B1139:4",
+    "taxonCount": 87
+  },
+  "B1139:5": {
+    "levels": [
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "109-440"
+    },
+    "id": "B1139:5",
+    "taxonCount": 266
   },
   "B1169:1": {
     "levels": [

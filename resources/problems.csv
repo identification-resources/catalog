@@ -1,149 +1,106 @@
 id,checklist_id,problem
-B23,B23:1,"missing genus"
 B36,B36:1,"some missing in GBIF"
-B74,B74:1,"Wrong classification in GBIF"
-B78,B78:1,"not yet in GBIF"
-B141,B141:1,"TODO Gnaphosidae bug in GBIF"
-B144,B144:1,"TODO Diplura bug in GBIF"
+B74,B74:1,"'Actinopterygii' not in GBIF"
+B78,B78:1,"'Polyarista Papp, 2013' and 'Subanarista mahunkai (Papp, 1979)' not in GBIF"
 B160,B160:1,"not found in GBIF"
-B163,B163:1,"Phloeomyzidae not in GBIF"
-B163,B163:8,"Myzocallis species not in GBIF?"
-B163,B163:18,"Kallistaphis sp. not in GBIF?"
-B164,B164:1,"Spondyliaspidae not in GBIF"
-B169,B169:1,"families missing in GBIF; TODO coleoptera wrong"
-B186,B186:1,"old, invalid genus?"
-B187,B187:3,"TODO Tetratoma suddenly not found"
-B187,B187:15,"TODO"
-B188,B188:1,"TODO genera suddenly missing"
-B206,B206:1,"TODO genus suddenly missing"
-B209,B209:1,"TODO Cleptes missing"
-B216,B216:2,"TODO wrong genera suddenly"
-B221,B221:1,"old family"
-B221,B221:6,"old family"
-B226,B226:1,"Old families"
+B163,B163:1,"Phloeomyzidae considered a subfamily, not in GBIF"
+B164,B164:1,"Spondyliaspidae considered a subfamily, not in GBIF"
+B169,B169:1,"Scolytidae considered a subfamily, not in GBIF"
+B186,B186:1,"'Pullus Mulsant', 'Adalia conglomerata var. bothnica (Paykull)' not in GBIF"
+B216,B216:2,"'Bracotritoma Csiki, 1909' not in GBIF"
+B221,B221:6,"'Plutothrix scenicus f. vittiger (Thomson)' not in GBIF"
+B226,B226:1,"'Trichoscelidae' and 'Chiromyiidae' not in GBIF"
 B228,B228:1,"Lot of synonyms missing in GBIF"
-B229,B229:2,"Missing synonyms"
+B229,B229:2,"missing synonyms"
 B229,B229:7,"missing synonyms"
 B229,B229:8,"missing synonyms"
-B237,B237:1,"TODO GBIF/GN"
+B237,B237:1,"missing synonyms"
 B241,B241:2,Tachinidae problems in GBIF
-B242,B242:1,"TODO"
-B245,B245:2,"TODO"
+B242,B242:1,"missing species in GBIF"
+B245,B245:2,"missing species in GBIF"
 B246,B246:1,Tachinidae problems in GBIF
-B246,B246:3,"TODO"
-B253,B253:1,"Diastidae missing, wrong Periscelididae"
-B273,B273:1,"TODO"
-B311,B311:1,"TODO"
-B312,B312:1,GBIF mismatches
-B313,B313:1,TODO
-B314,B314:1,"TODO"
-B318,B318:1,"TODO"
-B319,B319:1,"TODO"
-B376,B376:1,"TODO"
-B380,B380:2,"TODO"
-B383,B383:1,"TODO"
-B384,B384:1,"TODO"
-B419,B419:1,"old family"
-B424,B424:2,"TODO GBIF error"
-B433,B433:1,Cleptes mismatch in GBIF
-B442,B442:1,"TODO"
-B443,B443:1,"TODO"
-B444,B444:1,"TODO"
-B448,B448:1,"Cleptidae missing in GBIF"
-B475,B475:1,"Additional Coccinella in GBIF"
-B476,B476:1,"Additional Coccinella in GBIF"
-B477,B477:1,"Metaxypleona missing from GBIF; Entomobrya incorrect?"
-B478,B478:1,"not in GBIF?"
-B491,B491:1,Aphaenogaster missing in GBIF?
-B501,B501:1,"Not a plant."
-B502,B502:1,"TODO"
-B516,B516:1,"wrong match"
-B516,B516:2,"not in GBIF"
-B749,B749:1,"TODO"
+B246,B246:3,"'Cerajocera' spp. not in GBIF"
+B312,B312:1,"some forms not in GBIF"
+B419,B419:1,"'Methochidae', 'Smicromyrme' spp. not in GBIF"
+B433,B433:1,"many species not in GBIF"
+B442,B442:1,"'Cleptes' spp. not in GBIF"
+B443,B443:1,"'Cleptes' spp. not in GBIF"
+B444,B444:1,"'Cleptes' spp. not in GBIF"
+B448,B448:1,"manu species, Cleptidae not in GBIF"
+B475,B475:1,"forms not in GBIF"
+B477,B477:1,"Metaxypleona missing from GBIF; undescribed species"
+B478,B478:1,"some species not in GBIF; undescribed species"
+B491,B491:1,"'Aphaenogaster angusta Sants.', 'Diplorhoptrum' spp. not in GBIF?"
+B502,B502:1,"subspecies not in GBIF"
+B516,B516:2,"many species not in GBIF"
 B797,B797:1,"Outdated genus 'Necrophlaeophagus' not in GBIF"
 B910,B910:1,"Coleoptera conflicting with Malvaceae"
-B1006,B1006:1,"TODO"
-B1169,B1169:1,"Not in GBIF"
-B43,B43:1,Mismatch in GBIF
-B133,B133:1,Mismatch in GBIF
-B161,B161:2,Mismatch in GBIF
-B489,B489:1,Mismatch in GBIF
+B1006,B1006:1,"'Evylaeus' spp., 'Seladonia semitecta' not in GBIF"
+B1169,B1169:1,"subspecies not in GBIF"
+B133,B133:1,"'Tipula latemarginata subsp. coerulescens Lackschewitz, 1923' only in GBIF as species"
+B161,B161:2,"subspecies not in GBIF"
+B489,B489:1,"varieties not in GBIF"
 B427,B427:6,"TODO, weird taxonomy"
 B1376,B1376:1,Species not in GBIF
 B1376,B1376:2,Species not in GBIF
-B892,B892:1,Wrong Dalmannia found
 B1,B1:1,Species not on GBIF
 B9,B9:1,Synonym not in GBIF
-B16,B16:1,TODO
-B29,B29:1,TODO
-B33,B33:1,TODO
-B35,B35:1,TODO
-B38,B38:1,TODO
-B40,B40:1,TODO
-B47,B47:1,TODO
-B64,B64:1,TODO
-B67,B67:1,TODO
-B87,B87:1,TODO
-B91,B91:1,TODO
-B129,B129:1,TODO
-B145,B145:1,TODO
-B154,B154:1,TODO
-B156,B156:1,TODO
-B159,B159:2,TODO
-B162,B162:1,TODO
-B163,B163:25,TODO
-B171,B171:1,TODO
-B173,B173:1,TODO
-B177,B177:1,TODO
-B178,B178:1,TODO
-B187,B187:9,TODO
-B192,B192:1,TODO
-B201,B201:1,TODO
-B203,B203:1,TODO
-B204,B204:1,TODO
-B205,B205:1,TODO
-B207,B207:1,TODO
-B211,B211:1,TODO
-B212,B212:11,TODO
-B213,B213:1,TODO
-B218,B218:2,TODO
-B218,B218:4,TODO
-B223,B223:2,TODO
-B224,B224:2,TODO
-B229,B229:4,TODO
-B230,B230:1,TODO
-B232,B232:1,TODO
-B233,B233:1,TODO
-B234,B234:2,TODO
-B239,B239:1,TODO
-B240,B240:1,TODO
-B246,B246:7,TODO
-B246,B246:9,TODO
-B249,B249:1,TODO
-B288,B288:1,todo
-B337,B337:1,TODO
-B347,B347:1,TODO
-B348,B348:1,TODO
-B357,B357:1,TODO
-B421,B421:1,TODO
-B427,B427:2,TODO
-B427,B427:3,TODO
-B427,B427:5,TODO
-B427,B427:7,TODO
-B441,B441:1,TODO
-B445,B445:1,TODO
-B449,B449:1,TODO
-B450,B450:1,TODO
-B461,B461:1,TODO
-B461,B461:2,TODO
-B465,B465:1,TODO
-B467,B467:1,TODO
-B468,B468:1,TODO
-B469,B469:1,TODO
-B472,B472:1,TODO
-B514,B514:1,TODO
-B519,B519:1,TODO
-B520,B520:1,TODO
+B16,B16:1,"Tachinidae species not in GBIF"
+B29,B29:1,"several forms not in GBIF"
+B35,B35:1,"'Chilocorus baileyi Blackburn' not in GBIF"
+B47,B47:1,"'Leopoldius capitatum Loew' in different genus, 'Melanosoma pallipes Meigen' not in GBIF"
+B64,B64:1,"varieties not in GBIF"
+B67,B67:1,"'Bombus konradini Reinig, 1965' not in GBIF"
+B87,B87:1,"'Chamaepsila' species not in GBIF"
+B91,B91:1,"'Acantholyda populi (Linnaeus, 1758)' refers to 'Acantholyda serbica Vasič, 1962'"
+B145,B145:1,"'Ectobius panzeri var. nigripes Stephens' not in GBIF"
+B154,B154:1,"'Nesomicromus Perkins' not in GBIF"
+B156,B156:1,"subspecies, synonyms not in GBIF"
+B159,B159:2,"'Oncopsis carpini f. avellanae Edwards' not in GBIF"
+B162,B162:1,"form, synonyms not in GBIF"
+B177,B177:1,"varieties not in GBIF"
+B178,B178:1,"'Bryaxis macropalpus (Aubé)' not in GBIF"
+B187,B187:9,"'Mordellistena parvula var. inaequalis Mulsant' not in GBIF"
+B192,B192:1,"Scolytidae considered a subfamily, not in GBIF; synonym 'Cryphalus buscki Hopkins' not in GBIF"
+B201,B201:1,"subspecies not in GBIF"
+B203,B203:1,"subspecies, synonyms not in GBIF"
+B204,B204:1,"'Pristiphora thalictri subsp. fuscata Benson' and 'Pontania anglica (Cameron)' not in GBIF"
+B205,B205:1,"synonyms not in GBIF"
+B211,B211:1,"undescribed species"
+B212,B212:11,"'Thyraeella collaris (Gravenhorst)' not in GBIF"
+B213,B213:1,"synoynms not in GBIF"
+B218,B218:2,"'Phanacis sonchi (Stefani)' not in GBIF"
+B218,B218:4,"'Phanacis sonchi (Stefani)' not in GBIF"
+B224,B224:2,"synoynms not in GBIF"
+B229,B229:4,"synoynms not in GBIF"
+B230,B230:1,"synoynms not in GBIF"
+B232,B232:1,"synoynms not in GBIF"
+B233,B233:1,"forms of 'Hybomitra bimaculata' not in GBIF"
+B239,B239:1,"synoynms not in GBIF"
+B240,B240:1,"synonym 'Conops flavipes var. melanocephala Meigen' not in GBIF"
+B246,B246:7,"'Cerajocera' spp. not in GBIF"
+B246,B246:9,"'Cerajocera' spp. not in GBIF"
+B249,B249:1,"synoynms not in GBIF"
+B347,B347:1,"'Euura' spp. not in GBIF"
+B348,B348:1,"'Euura' spp. not in GBIF"
+B357,B357:1,"'Agrilus rubensteini Chamorro & Jendek, 2014' not in GBIF"
+B421,B421:1,"'Sapyga' spp. not in GBIF"
+B427,B427:2,"'Odynerus' spp. not in GBIF"
+B427,B427:3,"'Polistes gallicus' vars. not in GBIF"
+B427,B427:5,"'Pseudisobrachium subcyaneum var. septemfasciata Kieffer' not in GBIF"
+B427,B427:7,"'Pedinomma rufescens Westwood' not in GBIF"
+B441,B441:1,"TODO: add synonyms"
+B445,B445:1,"variety and subspecies not in GBIF"
+B449,B449:1,"'Chrysis käufeli' not in GBIF"
+B450,B450:1,"'Chrysis fulgida subsp. immaculata Buysson, 1898' as subspecies not in GBIF"
+B461,B461:1,"recent 'Embolemus' spp. not in GBIF"
+B461,B461:2,"recent 'Embolemus' spp. not in GBIF"
+B465,B465:1,"'Formica mesasiatica Dlussky, 1964' not in GBIF"
+B467,B467:1,"'Myrmica' spp. not in GBIF"
+B468,B468:1,"'Lasius brunneus subsp. himalayanus Forel, 1917' not in GBIF"
+B469,B469:1,"many 'Lasius' spp. not in GBIF"
+B472,B472:1,"many 'Strongylognathus', 'Triglyphothrix' spp. not in GBIF"
+B519,B519:1,"'Leptochilus membranaceus subsp. mimulus Gusenleitner, 1970' not as subspecies in GBIF"
 B522,B522:1,TODO
 B523,B523:1,TODO
 B524,B524:1,TODO
