@@ -10,7 +10,7 @@
 | `url`        | ❌        | ❌               | Info page, from the publisher or an archived copy (or a DOI URL, if available) | [URL](https://url.spec.whatwg.org/) |
 | `fulltext_url` | ❌      | ✔ if neither URL is preferred | Full text, preferably HTML/PDF as opposed to viewer pages | [URL](https://url.spec.whatwg.org/) |
 | `archive_url` | ❌       | ✔               | Link to a copy of the full text page in the [Internet Archive](https://web.archive.org) | [URL](https://url.spec.whatwg.org/) |
-| `entry_type` | ✔        | ❌               | `print` and `cd` take precedence over `online` in the case of archived copies. | One of `print`, `online` and `cd`. |
+| `entry_type` | ✔        | ❌               | `print` and `cd` take precedence over `online` in the case of archived copies. | One of `print`, `online`, `application` and `cd`. |
 | `date`       | ❌        | ❌               | Date of publication. Allows for date ranges | [EDTF](http://www.loc.gov/standards/datetime/) Level 0 and the feature "Open end time interval" of Level 1 |
 | `publisher`  | ❌        | ✔               | Name of publisher(s), as it would be cited | Plain text, no place names |
 | `series`     | ❌        | ❌               | Main series that the entry is in (book series, journal, etc.) | Plain text |
@@ -24,7 +24,7 @@
 | `edition`    | ❌        | ❌               | The edition or version number | Plain text |
 | `language`   | ✔        | ✔               | The language(s) in which a majority of the entry is written, not just the title and/or abstract | [IETF BCP 47 language tag](https://en.wikipedia.org/wiki/IETF_language_tag) |
 | `license`    | ❌        | ✔               | The license or copyright information | An [SPDX license identifier](https://spdx.dev/ids/), `<public domain>`, or a very short comment between angle brackets (e.g. `<CC-BY-NC-SA?>`) |
-| `key_type`   | ✔        | ✔               | The types of resources within the entry | `key`, `matrix`, `reference`, `gallery`, `checklist`, `supplement`, `collection` ([definitions](#adding-resources)) |
+| `key_type`   | ✔        | ✔               | The types of resources within the entry | `key`, `matrix`, `reference`, `gallery`, `checklist`, `supplement`, `collection`, `algorithm` ([definitions](#adding-resources)) |
 | `taxon_scope` | ❌        | ✔               | Any notes limiting the taxonomic scope of the resource | Plain text |
 | `scope`      | ❌        | ✔               | Any notes limiting the kind (life stage, caste, sex) of individuals that the resource can be used with | Plain text |
 | `taxon`      | ✔        | ✔               | The higher-level groups  | Taxon names |

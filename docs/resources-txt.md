@@ -17,6 +17,12 @@ the checklist. The following information is supported:
     - `key_type`, one of the catalog resource types
     - `scope`, one or more scopes restricting the usage of the checklist, e.g.
       only for larvae
+  - `flags`, an optional array specifying potential issues with the checklist.
+    Allowed values include:
+    - `MISSING_TAXA`: not all leaf taxa are listed
+    - `MISSING_PARENT_TAXA`: not all non-leaf taxa are listed
+    - `MISSING_SYNONYMS`: not all synonyms are listed
+    - `MISSING_AUTHORSHIP`: not all scientific names for which the resource specifies an author citation include them
 
 ## Taxa
 
