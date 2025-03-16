@@ -9740,5 +9740,26 @@
     ],
     "id": "B1854:1",
     "taxonCount": 28
+  },
+  "B1859:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1859:1",
+    "taxonCount": 4
+  },
+  "B1860:1": {
+    "levels": [
+      "subfamily",
+      "tribe",
+      "subtribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B1860:1",
+    "taxonCount": 99
   }
 }
