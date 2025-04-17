@@ -1,127 +1,127 @@
-name,qid,display_name
--,Q16502,not applicable
-?,Q59496158,not yet determined
-Africa,Q15,
-"Africa, Algeria",Q262,Algeria
-"Africa, Cape Verde, Santiago",Q108448,"Santiago, Cape Verde"
-"Africa, Egypt, Sinai",Q36755,"Sinai Peninsula, Egypt"
-"Africa, Libya",Q1016,Libya
-"Africa, Madagascar",Q1019,Madagascar
-"Africa, Mauritania",Q1025,Mauritania
-"Africa, Mauritius, Rodrigues",Q208668,"Rodrigues, Mauritius"
-"Africa, Morocco",Q1028,Morocco
-"Africa, North",Q27381,Northern Africa
-"Africa, Portugal, Madeira",Q26253,Madeira
-"Africa, Spain, Canary Islands",Q5813,"Canary Islands, Spain"
-"Africa, Sub-Sahara",Q132959,Sub-Saharan Africa
-"Africa, Tunisia",Q948,Tunisia
-"Africa, Western Sahara",Q6250,Western Sahara
-Asia,Q48,
-"Asia, Empire of Japan",Q188712,Empire of Japan
-"Asia, India",Q668,India
-"Asia, Indonesia, Borneo",Q36117,Borneo
-"Asia, Iraq",Q796,Iraq
-"Asia, Israel",Q801,Israel
-"Asia, Japan",Q17,Japan
-"Asia, Jordan",Q810,Jordan
-"Asia, Lebanon",Q822,Lebanon
-"Asia, Middle East",Q7204,
-"Asia, North Korea",Q423,North Korea
-"Asia, Orient",Q757081,Indomalayan realm
-"Asia, Russia, Far East",Q609176,Russian Far East
-"Asia, South Korea",Q884,South Korea
-"Asia, Southeast",Q11708,Southeast Asia
-"Asia, Sri Lanka",Q854,Sri Lanka
-"Asia, Syria",Q858,Syria
-"Asia, Turkey",Q43,Turkey
-"Asia, UAE",Q878,United Arab Emirates
-"Atlantic, Northeast",,Northeast Atlantic Ocean
-"Australia, Australia",Q408,Australia
-"Australia, Fiji",Q712,Fiji
-"Australia, French Polynesia",Q30971,French Polynesia
-"Australia, Micronesia",Q702,Micronesia
-"Australia, New Zealand",Q664,New Zealand
-"Australia, Papua New Guinea",Q691,Papua New Guinea
-Caucasus,Q18869,
-Europe,Q46,
-"Europe, Adriatic Sea",Q13924,Adriatic Sea
-"Europe, Alps",Q1286,Alps
-"Europe, Armenia",Q399,Armenia
-"Europe, Austria",Q40,Austria
-"Europe, Austria, Linzer Großraum",Q41329,Linzer Großraum
-"Europe, Austria, Vienna",Q1741,"Vienna, Austria"
-"Europe, Azerbaijan",Q227,Azerbaijan
-"Europe, Baltic Sea",Q545,Baltic Sea
-"Europe, Bassin occidental méditerranéen",Q111207474,Bassin occidental méditerranéen
-"Europe, Belarus",Q184,Belarus
-"Europe, Belgium",Q31,Belgium
-"Europe, Belgium, Ardennes",Q151985,"Ardennes, Belgium"
-"Europe, Belgium, Flanders",Q9337,"Flanders, Belgium"
-"Europe, Belgium, Wallonia",Q231,"Wallonia, Belgium"
-"Europe, Central",Q27509,Central Europe
-"Europe, Cyprus",Q229,Cyprus
-"Europe, Czech Republic",Q213,Czech Republic
-"Europe, DDR",Q16957,East Germany
-"Europe, Denmark",Q35,Denmark
-"Europe, Estonia",Q191,Estonia
-"Europe, Finland",Q33,Finland
-"Europe, France",Q142,France
-"Europe, France, Armorican Massif",Q1980627,"Armorican Massif, France"
-"Europe, France, Corsica",Q14112,"Corsica, France"
-"Europe, France, Northern",Q14201393,Northern France
-"Europe, Georgia",Q230,Georgia (Europe)
-"Europe, Germany",Q183,Germany
-"Europe, Germany, Western",Q181576,Western Germany
-"Europe, Greece",Q41,Greece
-"Europe, Greece, Peloponnese",Q78967,"Peloponnese, Greece"
-"Europe, Hungary",Q28,Hungary
-"Europe, Ireland",Q27,Ireland
-"Europe, Italy",Q38,Italy
-"Europe, Italy, Apennines",Q1285,"Apennine Mountains, Italy"
-"Europe, Italy, Padana",Q202207,"Pianura Padana, Italy"
-"Europe, Italy, Sardinia",Q1462,"Sardinia, Italy"
-"Europe, Italy, Sicily",Q1460,"Sicily, Italy"
-"Europe, Latvia",Q211,Latvia
-"Europe, Lithuania",Q37,Lithuania
-"Europe, Luxembourg",Q32,Luxembourg
-"Europe, Moldova",Q217,Moldova
-"Europe, Netherlands",Q55,Netherlands
-"Europe, North Sea",Q1693,North Sea
-"Europe, Northern",Q27479,Northern Europe
-"Europe, Northwestern",Q1414323,Northwestern Europe
-"Europe, Norway",Q20,Norway
-"Europe, Poland",Q36,Poland
-"Europe, Portugal",Q45,Portugal
-"Europe, Romania",Q218,Romania
-"Europe, Russia",Q875134,European Russia
-"Europe, Slovakia",Q214,Slovakia
-"Europe, Slovenia",Q215,Slovenia
-"Europe, Southern",Q27449,Southern Europe
-"Europe, Spain",Q29,Spain
-"Europe, Spain, Castilla-La Mancha",Q5748,"Castilla-La Mancha, Spain"
-"Europe, Sweden",Q34,Sweden
-"Europe, Switzerland",Q39,Switzerland
-"Europe, UK",Q145,United Kingdom
-"Europe, UK, England",Q21,"England, United Kingdom"
-"Europe, Ukraine",Q212,Ukraine
-"Europe, Western",Q27496,Western Europe
-Holarctic,Q847051,Holarctic realm
-Kerguelen Islands,Q46772,Kerguelen Islands
-Nearctic,Q737742,Nearctic realm
-North America,Q49,
-"North America, Canada",Q16,Canada
-"North America, Eastern",,Eastern North America
-"North America, USA",Q30,USA
-"North America, USA, CO",Q1261,"Colorado, USA"
-"North America, USA, FL",Q812,"Florida, US"
-"North America, USA, HI",Q782,"Hawaii, US"
-"North America, USA, KS",Q1558,"Kansas, US"
-"North America, USA, MI",Q1166,"Michigan, US"
-"North America, USA, OR",Q824,"Oregon, US"
-"North America, USA, SC",Q1456,"South Carolina, US"
-Northeastern Nearctic,,Northeastern Nearctic realm
-Palearctic,Q106447,Palearctic realm
-South America,Q18,
-"South America, Brazil, Rio Grande do Sul",Q40030,"Rio Grande do Sul, Brazil"
-"South America, French Guiana",Q3769,French Guiana
-Western Palearctic,Q3200589,Western Palearctic realm
+name,id,qid,display_name,duplicate_of
+-,G1,Q16502,not applicable,
+?,G2,Q59496158,not yet determined,
+Africa,G3,Q15,Africa,
+"Africa, Algeria",G4,Q262,Algeria,
+"Africa, Cape Verde, Santiago",G5,Q108448,"Santiago, Cape Verde",
+"Africa, Egypt, Sinai",G6,Q36755,"Sinai Peninsula, Egypt",
+"Africa, Libya",G7,Q1016,Libya,
+"Africa, Madagascar",G8,Q1019,Madagascar,
+"Africa, Mauritania",G9,Q1025,Mauritania,
+"Africa, Mauritius, Rodrigues",G10,Q208668,"Rodrigues, Mauritius",
+"Africa, Morocco",G11,Q1028,Morocco,
+"Africa, North",G12,Q27381,Northern Africa,
+"Africa, Portugal, Madeira",G13,Q26253,Madeira,
+"Africa, Spain, Canary Islands",G14,Q5813,"Canary Islands, Spain",
+"Africa, Sub-Sahara",G15,Q132959,Sub-Saharan Africa,
+"Africa, Tunisia",G16,Q948,Tunisia,
+"Africa, Western Sahara",G17,Q6250,Western Sahara,
+Asia,G18,Q48,Asia,
+"Asia, Empire of Japan",G19,Q188712,Empire of Japan,
+"Asia, India",G20,Q668,India,
+"Asia, Indonesia, Borneo",G21,Q36117,Borneo,
+"Asia, Iraq",G22,Q796,Iraq,
+"Asia, Israel",G23,Q801,Israel,
+"Asia, Japan",G24,Q17,Japan,
+"Asia, Jordan",G25,Q810,Jordan,
+"Asia, Lebanon",G26,Q822,Lebanon,
+"Asia, Middle East",G27,Q7204,"Asia, Middle East",
+"Asia, North Korea",G28,Q423,North Korea,
+"Asia, Orient",G29,Q757081,Indomalayan realm,
+"Asia, Russia, Far East",G30,Q609176,Russian Far East,
+"Asia, South Korea",G31,Q884,South Korea,
+"Asia, Southeast",G32,Q11708,Southeast Asia,
+"Asia, Sri Lanka",G33,Q854,Sri Lanka,
+"Asia, Syria",G34,Q858,Syria,
+"Asia, Turkey",G35,Q43,Turkey,
+"Asia, UAE",G36,Q878,United Arab Emirates,
+"Atlantic, Northeast",G37,,Northeast Atlantic Ocean,
+"Australia, Australia",G38,Q408,Australia,
+"Australia, Fiji",G39,Q712,Fiji,
+"Australia, French Polynesia",G40,Q30971,French Polynesia,
+"Australia, Micronesia",G41,Q702,Micronesia,
+"Australia, New Zealand",G42,Q664,New Zealand,
+"Australia, Papua New Guinea",G43,Q691,Papua New Guinea,
+Caucasus,G44,Q18869,Caucasus,
+Europe,G45,Q46,Europe,
+"Europe, Adriatic Sea",G46,Q13924,Adriatic Sea,
+"Europe, Alps",G47,Q1286,Alps,
+"Europe, Armenia",G48,Q399,Armenia,
+"Europe, Austria",G49,Q40,Austria,
+"Europe, Austria, Linzer Großraum",G50,Q41329,Linzer Großraum,
+"Europe, Austria, Vienna",G51,Q1741,"Vienna, Austria",
+"Europe, Azerbaijan",G52,Q227,Azerbaijan,
+"Europe, Baltic Sea",G53,Q545,Baltic Sea,
+"Europe, Bassin occidental méditerranéen",G54,Q111207474,Bassin occidental méditerranéen,
+"Europe, Belarus",G55,Q184,Belarus,
+"Europe, Belgium",G56,Q31,Belgium,
+"Europe, Belgium, Ardennes",G57,Q151985,"Ardennes, Belgium",
+"Europe, Belgium, Flanders",G58,Q9337,"Flanders, Belgium",
+"Europe, Belgium, Wallonia",G59,Q231,"Wallonia, Belgium",
+"Europe, Central",G60,Q27509,Central Europe,
+"Europe, Cyprus",G61,Q229,Cyprus,
+"Europe, Czech Republic",G62,Q213,Czech Republic,
+"Europe, DDR",G63,Q16957,East Germany,
+"Europe, Denmark",G64,Q35,Denmark,
+"Europe, Estonia",G65,Q191,Estonia,
+"Europe, Finland",G66,Q33,Finland,
+"Europe, France",G67,Q142,France,
+"Europe, France, Armorican Massif",G68,Q1980627,"Armorican Massif, France",
+"Europe, France, Corsica",G69,Q14112,"Corsica, France",
+"Europe, France, Northern",G70,Q14201393,Northern France,
+"Europe, Georgia",G71,Q230,Georgia (Europe),
+"Europe, Germany",G72,Q183,Germany,
+"Europe, Germany, Western",G73,Q181576,Western Germany,
+"Europe, Greece",G74,Q41,Greece,
+"Europe, Greece, Peloponnese",G75,Q78967,"Peloponnese, Greece",
+"Europe, Hungary",G76,Q28,Hungary,
+"Europe, Ireland",G77,Q27,Ireland,
+"Europe, Italy",G78,Q38,Italy,
+"Europe, Italy, Apennines",G79,Q1285,"Apennine Mountains, Italy",
+"Europe, Italy, Padana",G80,Q202207,"Pianura Padana, Italy",
+"Europe, Italy, Sardinia",G81,Q1462,"Sardinia, Italy",
+"Europe, Italy, Sicily",G82,Q1460,"Sicily, Italy",
+"Europe, Latvia",G83,Q211,Latvia,
+"Europe, Lithuania",G84,Q37,Lithuania,
+"Europe, Luxembourg",G85,Q32,Luxembourg,
+"Europe, Moldova",G86,Q217,Moldova,
+"Europe, Netherlands",G87,Q55,Netherlands,
+"Europe, North Sea",G88,Q1693,North Sea,
+"Europe, Northern",G89,Q27479,Northern Europe,
+"Europe, Northwestern",G90,Q1414323,Northwestern Europe,
+"Europe, Norway",G91,Q20,Norway,
+"Europe, Poland",G92,Q36,Poland,
+"Europe, Portugal",G93,Q45,Portugal,
+"Europe, Romania",G94,Q218,Romania,
+"Europe, Russia",G95,Q875134,European Russia,
+"Europe, Slovakia",G96,Q214,Slovakia,
+"Europe, Slovenia",G97,Q215,Slovenia,
+"Europe, Southern",G98,Q27449,Southern Europe,
+"Europe, Spain",G99,Q29,Spain,
+"Europe, Spain, Castilla-La Mancha",G100,Q5748,"Castilla-La Mancha, Spain",
+"Europe, Sweden",G101,Q34,Sweden,
+"Europe, Switzerland",G102,Q39,Switzerland,
+"Europe, UK",G103,Q145,United Kingdom,
+"Europe, UK, England",G104,Q21,"England, United Kingdom",
+"Europe, Ukraine",G105,Q212,Ukraine,
+"Europe, Western",G106,Q27496,Western Europe,
+Holarctic,G107,Q847051,Holarctic realm,
+Kerguelen Islands,G108,Q46772,Kerguelen Islands,
+Nearctic,G109,Q737742,Nearctic realm,
+North America,G110,Q49,North America,
+"North America, Canada",G111,Q16,Canada,
+"North America, Eastern",G112,,Eastern North America,
+"North America, USA",G113,Q30,USA,
+"North America, USA, CO",G114,Q1261,"Colorado, USA",
+"North America, USA, FL",G115,Q812,"Florida, US",
+"North America, USA, HI",G116,Q782,"Hawaii, US",
+"North America, USA, KS",G117,Q1558,"Kansas, US",
+"North America, USA, MI",G118,Q1166,"Michigan, US",
+"North America, USA, OR",G119,Q824,"Oregon, US",
+"North America, USA, SC",G120,Q1456,"South Carolina, US",
+Northeastern Nearctic,G121,,Northeastern Nearctic realm,
+Palearctic,G122,Q106447,Palearctic realm,
+South America,G123,Q18,South America,
+"South America, Brazil, Rio Grande do Sul",G124,Q40030,"Rio Grande do Sul, Brazil",
+"South America, French Guiana",G125,Q3769,French Guiana,
+Western Palearctic,G126,Q3200589,Western Palearctic realm,

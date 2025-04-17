@@ -34,7 +34,7 @@
 | `listed_of`  | ❌        | ✔               | Entries that this entry is listed in | `B` followed by any number of digits (no leading zero) |
 | `part_of`    | ❌        | ✔               | Entries that this entry is correcting or part of | `B` followed by any number of digits (no leading zero) |
 | `version_of` | ❌        | ✔               | Entries that this entry is a version of | `B` followed by any number of digits (no leading zero) |
-| `duplicate_of` | ❌        | ❌               | Entry that this entry is a duplicate of | `B` followed by any number of digits (no leading zero) |
+| `duplicate_of` | ❌      | ❌               | Entry that this entry is a duplicate of | `B` followed by any number of digits (no leading zero) |
 
 # Authors
 
@@ -42,10 +42,12 @@
 
 | Field        | Required | Multiple values | Description | Format |
 |--------------|:--------:|:---------------:|-------------|--------|
-| `name`       | ✔        | ❌               | The author name | Exactly as in the catalog |
+| `name`       | ✔        | ✔               | The author name(s) | Exactly as in the catalog |
+| `id`         | ✔        | ❌               | Unique ID for this entry | `A` followed by any number of digits (no leading zero) |
 | `qid`        | ❌        | ❌               | [Wikidata ID](https://wikidata.org) of the author | [QID](https://www.wikidata.org/wiki/Wikidata:Glossary#QID) |
-| `main_full_name` | ❌    | ❌               | The preferred name of the author, usually the author name as in the catalog but with initials expanded | Not in reversed order, so "Firstname Lastname" |
+| `display_name` | ✔      | ❌               | The preferred name of the author, usually the author name as in the catalog but with initials expanded | Not in reversed order, so "Firstname Lastname" |
 | `full_names` | ❌        | ✔               | Any other names used by the author | Not in reversed order, so "Firstname Lastname" |
+| `duplicate_of` | ❌      | ❌               | Entry that this entry is a duplicate of | `A` followed by any number of digits (no leading zero) |
 
 # Publishers
 
@@ -53,10 +55,12 @@
 
 | Field        | Required | Multiple values | Description | Format |
 |--------------|:--------:|:---------------:|-------------|--------|
-| `name`       | ✔        | ❌               | The publisher name | Exactly as in the catalog |
+| `name`       | ✔        | ✔               | The publisher name(s) | Exactly as in the catalog |
+| `id`         | ✔        | ❌               | Unique ID for this entry | `P` followed by any number of digits (no leading zero) |
 | `qid`        | ❌        | ❌               | [Wikidata ID](https://wikidata.org) of the publisher | [QID](https://www.wikidata.org/wiki/Wikidata:Glossary#QID) |
-| `full_name`  | ❌        | ❌               | The preferred name of the publisher, as used when citing | |
-| `long_name`  | ❌        | ✔               | Any other names used by the publisher, including the full name | |
+| `display_name` | ✔      | ❌               | The preferred name of the publisher, as used when citing | |
+| `full_names` | ❌        | ✔               | Any other names used by the publisher, including the full name | |
+| `duplicate_of` | ❌      | ❌               | Entry that this entry is a duplicate of | `P` followed by any number of digits (no leading zero) |
 
 # Places
 
@@ -65,5 +69,22 @@
 | Field          | Required | Multiple values | Description | Format |
 |----------------|:--------:|:---------------:|-------------|--------|
 | `name`         | ✔        | ❌               | The place name | Exactly as in the catalog |
+| `id`           | ✔        | ❌               | Unique ID for this entry | `G` followed by any number of digits (no leading zero) |
 | `qid`          | ❌        | ❌               | [Wikidata ID](https://wikidata.org) of the place | [QID](https://www.wikidata.org/wiki/Wikidata:Glossary#QID) |
-| `display_name` | ❌        | ❌               | The display name of the place | `[Region], [Country]`, `[Country]`, `[Continent]`, `[Realm] realm` |
+| `display_name` | ✔        | ❌               | The display name of the place | `[Region], [Country]`, `[Country]`, `[Continent]`, `[Realm] realm` |
+| `duplicate_of` | ❌        | ❌               | Entry that this entry is a duplicate of | `G` followed by any number of digits (no leading zero) |
+
+# Taxa
+
+"Multiple values" are delimited by semicolons (`Value 1; Value 2`).
+
+| Field            | Required | Multiple values | Description | Format |
+|------------------|:--------:|:---------------:|-------------|--------|
+| `name`           | ✔        | ❌               | The taxon name | Exactly as in the catalog |
+| `id`             | ✔        | ❌               | Unique ID for this entry | `T` followed by any number of digits (no leading zero) |
+| `qid`            | ❌        | ❌               | [Wikidata ID](https://wikidata.org) of the taxon, or one that approximates it | [QID](https://www.wikidata.org/wiki/Wikidata:Glossary#QID) |
+| `rank`           | ❌        | ❌               | Taxonomic rank of the taxon |
+| `gbif`           | ❌        | ❌               | [GBIF ID](https://gbif.org) of the taxon | GBIF species ID |
+| `children_gbif`  | ❌        | ✔               | If no active [GBIF ID](https://gbif.org) is available for the taxon, the IDs of its immediate children | GBIF species ID |
+| `ancestors_gbif` | ❌        | ✔               | [GBIF ID](https://gbif.org) of the ancestors of the taxon | GBIF species ID |
+| `duplicate_of`   | ❌        | ❌               | Entry that this entry is a duplicate of | `T` followed by any number of digits (no leading zero) |
