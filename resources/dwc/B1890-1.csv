@@ -1,0 +1,456 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1890:1:1,Syrphidae,,,,,,family,,B1890:1,accepted,,,,,,,,,Syrphidae,,,,,Syrphidae,GVS,6920,GVS,6920
+B1890:1:2,Anasimyia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Anasimyia,,Syrphidae,Anasimyia,BY74V,8831717,BY74V,8831717
+B1890:1:3,Anasimyia contracta,,Anasimyia,,contracta,,species,,B1890:1,accepted,,,B1890:1:2,Anasimyia,,,,,Syrphidae,,Anasimyia,,Syrphidae | Anasimyia,Anasimyia contracta,89YP6,1538450,89YP6,1538450
+B1890:1:4,Anasimyia interpuncta,,Anasimyia,,interpuncta,,species,,B1890:1,accepted,,,B1890:1:2,Anasimyia,,,,,Syrphidae,,Anasimyia,,Syrphidae | Anasimyia,Anasimyia interpuncta,9HH4H,4516796,9HH4H,4516796
+B1890:1:5,Anasimyia lineata,,Anasimyia,,lineata,,species,,B1890:1,accepted,,,B1890:1:2,Anasimyia,,,,,Syrphidae,,Anasimyia,,Syrphidae | Anasimyia,Anasimyia lineata,,4516794,,10366531
+B1890:1:6,Anasimyia lunulata,,Anasimyia,,lunulata,,species,,B1890:1,accepted,,,B1890:1:2,Anasimyia,,,,,Syrphidae,,Anasimyia,,Syrphidae | Anasimyia,Anasimyia lunulata,9HH4J,4516797,9HH4J,4516797
+B1890:1:7,Anasimyia transfuga,,Anasimyia,,transfuga,,species,,B1890:1,accepted,,,B1890:1:2,Anasimyia,,,,,Syrphidae,,Anasimyia,,Syrphidae | Anasimyia,Anasimyia transfuga,9HH4K,4516795,9HH4K,4516795
+B1890:1:8,Arctophila,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Arctophila,,Syrphidae,Arctophila,,9026378,,9026378
+B1890:1:9,Sericomyia,,,,,,subgenus,,B1890:1,accepted,,,B1890:1:8,Arctophila,,,,,Syrphidae,,Arctophila,Sericomyia,Syrphidae | Arctophila,Sericomyia,BYQ5M,,BYQ5M,
+B1890:1:10,Arctophila bombiformis,,Arctophila,Sericomyia,bombiformis,,species,,B1890:1,accepted,,,B1890:1:9,Sericomyia,,,,,Syrphidae,,Arctophila,Sericomyia,Syrphidae | Arctophila | Sericomyia,Arctophila (Sericomyia) bombiformis,,6098372,,1538796
+B1890:1:11,Arctophila superbiens,,Arctophila,Sericomyia,superbiens,,species,,B1890:1,accepted,,,B1890:1:9,Sericomyia,,,,,Syrphidae,,Arctophila,Sericomyia,Syrphidae | Arctophila | Sericomyia,Arctophila (Sericomyia) superbiens,,5766569,,1538824
+B1890:1:12,Baccha,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Baccha,,Syrphidae,Baccha,BY7XW,1536538,BY7XW,1536538
+B1890:1:13,Baccha elongata,,Baccha,,elongata,,species,,B1890:1,accepted,,,B1890:1:12,Baccha,,,,,Syrphidae,,Baccha,,Syrphidae | Baccha,Baccha elongata,K6V8,1536559,K6V8,1536559
+B1890:1:14,Blera,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Blera,,Syrphidae,Blera,BY897,1536144,BY897,1536144
+B1890:1:15,Blera fallax,,Blera,,fallax,,species,,B1890:1,accepted,,,B1890:1:14,Blera,,,,,Syrphidae,,Blera,,Syrphidae | Blera,Blera fallax,M6MW,5071107,M6MW,5071107
+B1890:1:16,Brachyopa,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Brachyopa,,Syrphidae,Brachyopa,BY8GX,1534367,BY8GX,1534367
+B1890:1:17,Brachyopa bicolor,,Brachyopa,,bicolor,,species,,B1890:1,accepted,,,B1890:1:16,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,Brachyopa bicolor,8B8V2,1534412,8B8V2,1534412
+B1890:1:18,Brachyopa dorsata,,Brachyopa,,dorsata,,species,,B1890:1,accepted,,,B1890:1:16,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,Brachyopa dorsata,8B8V8,1534402,8B8V8,1534402
+B1890:1:19,Brachyopa insensilis,,Brachyopa,,insensilis,,species,,B1890:1,accepted,,,B1890:1:16,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,Brachyopa insensilis,8B8VC,1534410,8B8VC,1534410
+B1890:1:20,Brachyopa obscura,,Brachyopa,,obscura,,species,,B1890:1,accepted,,,B1890:1:16,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,Brachyopa obscura,8B8VJ,1534374,8B8VJ,1534374
+B1890:1:21,Brachyopa panzeri,,Brachyopa,,panzeri,,species,,B1890:1,accepted,,,B1890:1:16,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,Brachyopa panzeri,8B8VL,1534418,8B8VL,1534418
+B1890:1:22,Brachyopa pilosa,,Brachyopa,,pilosa,,species,,B1890:1,accepted,,,B1890:1:16,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,Brachyopa pilosa,8B8VN,1534395,8B8VN,1534395
+B1890:1:23,Brachyopa scutellaris,,Brachyopa,,scutellaris,,species,,B1890:1,accepted,,,B1890:1:16,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,Brachyopa scutellaris,8B8VV,1534396,8B8VV,1534396
+B1890:1:24,Brachyopa testacea,,Brachyopa,,testacea,,species,,B1890:1,accepted,,,B1890:1:16,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,Brachyopa testacea,8B8VW,1534372,8B8VW,1534372
+B1890:1:25,Brachyopa vittata,,Brachyopa,,vittata,,species,,B1890:1,accepted,,,B1890:1:16,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,Brachyopa vittata,8B8VY,1534421,8B8VY,1534421
+B1890:1:26,Brachypalpoides,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Brachypalpoides,,Syrphidae,Brachypalpoides,BY8H2,1535698,BY8H2,1535698
+B1890:1:27,Brachypalpoides lentus,,Brachypalpoides,,lentus,,species,,B1890:1,accepted,,,B1890:1:26,Brachypalpoides,,,,,Syrphidae,,Brachypalpoides,,Syrphidae | Brachypalpoides,Brachypalpoides lentus,B97RY,4516805,B97RY,4516805
+B1890:1:28,Brachypalpus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Brachypalpus,,Syrphidae,Brachypalpus,BY8H3,1529391,BY8H3,1529391
+B1890:1:29,Brachypalpus laphriformis,,Brachypalpus,,laphriformis,,species,,B1890:1,accepted,,,B1890:1:28,Brachypalpus,,,,,Syrphidae,,Brachypalpus,,Syrphidae | Brachypalpus,Brachypalpus laphriformis,,6098379,,1536381
+B1890:1:30,Brachypalpus valgus,,Brachypalpus,,valgus,,species,,B1890:1,accepted,,,B1890:1:28,Brachypalpus,,,,,Syrphidae,,Brachypalpus,,Syrphidae | Brachypalpus,Brachypalpus valgus,8B8X5,1536381,8B8X5,1536381
+B1890:1:31,Caliprobola,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Caliprobola,,Syrphidae,Caliprobola,BY8RB,1533002,BY8RB,1533002
+B1890:1:32,Caliprobola speciosa,,Caliprobola,,speciosa,,species,,B1890:1,accepted,,,B1890:1:31,Caliprobola,,,,,Syrphidae,,Caliprobola,,Syrphidae | Caliprobola,Caliprobola speciosa,PKSD,1533005,PKSD,1533005
+B1890:1:33,Callicera,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Callicera,,Syrphidae,Callicera,BY8RG,1533540,BY8RG,1533540
+B1890:1:34,Callicera aenea,,Callicera,,aenea,,species,,B1890:1,accepted,,,B1890:1:33,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,Callicera aenea,68VT2,5070396,68VT2,5070396
+B1890:1:35,Callicera aurata,,Callicera,,aurata,,species,,B1890:1,accepted,,,B1890:1:33,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,Callicera aurata,PMMV,5070404,PMMV,5070404
+B1890:1:36,Callicera fagesii,,Callicera,,fagesii,,species,,B1890:1,accepted,,,B1890:1:33,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,Callicera fagesii,PMN4,5070411,PMN4,5070411
+B1890:1:37,Callicera macquarti,,Callicera,,macquarti,,species,,B1890:1,accepted,,,B1890:1:33,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,Callicera macquarti,884WK,5070393,884WK,5070393
+B1890:1:38,Callicera rufa,,Callicera,,rufa,,species,,B1890:1,accepted,,,B1890:1:33,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,Callicera rufa,PMNH,5070391,PMNH,5070391
+B1890:1:39,Callicera spinolae,,Callicera,,spinolae,,species,,B1890:1,accepted,,,B1890:1:33,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,Callicera spinolae,PMNK,5070407,PMNK,5070407
+B1890:1:40,Ceriana,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Ceriana,,Syrphidae,Ceriana,BXZ5V,1539337,BXZ5V,1539337
+B1890:1:41,Ceriana conopsoides,,Ceriana,,conopsoides,,species,,B1890:1,accepted,,,B1890:1:40,Ceriana,,,,,Syrphidae,,Ceriana,,Syrphidae | Ceriana,Ceriana conopsoides,5XLRM,1539631,5XLRM,1539631
+B1890:1:42,Ceriana vespiformis,,Ceriana,,vespiformis,,species,,B1890:1,accepted,,,B1890:1:40,Ceriana,,,,,Syrphidae,,Ceriana,,Syrphidae | Ceriana,Ceriana vespiformis,SXYM,1539719,SXYM,1539719
+B1890:1:43,Chalcosyrphus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae,Chalcosyrphus,BXZ6S,1533584,BXZ6S,1533584
+B1890:1:44,Chalcosyrphus curvipes,,Chalcosyrphus,,curvipes,,species,,B1890:1,accepted,,,B1890:1:43,Chalcosyrphus,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,Chalcosyrphus curvipes,,6098345,,4516833
+B1890:1:45,Chalcosyrphus eunotus,,Chalcosyrphus,,eunotus,,species,,B1890:1,accepted,,,B1890:1:43,Chalcosyrphus,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,Chalcosyrphus eunotus,8BFM5,1533661,8BFM5,1533661
+B1890:1:46,Chalcosyrphus nemorum,,Chalcosyrphus,,nemorum,,species,,B1890:1,accepted,,,B1890:1:43,Chalcosyrphus,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,Chalcosyrphus nemorum,8BFN2,1533710,8BFN2,1533710
+B1890:1:47,Chalcosyrphus piger,,Chalcosyrphus,,piger,,species,,B1890:1,accepted,,,B1890:1:43,Chalcosyrphus,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,Chalcosyrphus piger,8BFND,1533639,8BFND,1533639
+B1890:1:48,Chalcosyrphus valgus,,Chalcosyrphus,,valgus,,species,,B1890:1,accepted,,,B1890:1:43,Chalcosyrphus,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,Chalcosyrphus valgus,8BFNL,1533796,8BFNL,1533796
+B1890:1:49,Chamaesyrphus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Chamaesyrphus,,Syrphidae,Chamaesyrphus,87DXS,1539243,87DXS,1539243
+B1890:1:50,Chamaesyrphus caledonicus,,Chamaesyrphus,,caledonicus,,species,,B1890:1,accepted,,,B1890:1:49,Chamaesyrphus,,,,,Syrphidae,,Chamaesyrphus,,Syrphidae | Chamaesyrphus,Chamaesyrphus caledonicus,888LT,1537581,888LT,1537581
+B1890:1:51,Chamaesyrphus lusitanicus,,Chamaesyrphus,,lusitanicus,,species,,B1890:1,accepted,,,B1890:1:49,Chamaesyrphus,,,,,Syrphidae,,Chamaesyrphus,,Syrphidae | Chamaesyrphus,Chamaesyrphus lusitanicus,TLFK,1537608,TLFK,12135320
+B1890:1:52,Chamaesyrphus scaevoides,,Chamaesyrphus,,scaevoides,,species,,B1890:1,accepted,,,B1890:1:49,Chamaesyrphus,,,,,Syrphidae,,Chamaesyrphus,,Syrphidae | Chamaesyrphus,Chamaesyrphus scaevoides,8BFQ6,4516740,8BFQ6,4516740
+B1890:1:53,Cheilosia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Cheilosia,,Syrphidae,Cheilosia,BXWYF,1539835,BXWYF,1539835
+B1890:1:54,Cheilosia aerea,,Cheilosia,,aerea,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia aerea,TSGB,1539969,TSGB,1539969
+B1890:1:55,Cheilosia albipila,,Cheilosia,,albipila,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia albipila,TSGK,1540020,TSGK,1540020
+B1890:1:56,Cheilosia albitarsis,,Cheilosia,,albitarsis,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia albitarsis,9HHR6,4516695,9HHR6,4516695
+B1890:1:57,Cheilosia antiqua,,Cheilosia,,antiqua,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia antiqua,TSH7,1540488,TSH7,1540488
+B1890:1:58,Cheilosia barbata,,Cheilosia,,barbata,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia barbata,TSHW,1540549,TSHW,1540549
+B1890:1:59,Cheilosia bergenstammi,,Cheilosia,,bergenstammi,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia bergenstammi,TSJ6,1540517,TSJ6,1540517
+B1890:1:60,Cheilosia caerulescens,,Cheilosia,,caerulescens,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia caerulescens,8BFV2,4516682,8BFV2,4516682
+B1890:1:61,Cheilosia canicularis,,Cheilosia,,canicularis,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia canicularis,8BFV3,4516679,8BFV3,1540362
+B1890:1:62,Cheilosia carbonaria,,Cheilosia,,carbonaria,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia carbonaria,TSJW,1540334,TSJW,1540334
+B1890:1:63,Cheilosia griseiventris,,Cheilosia,,griseiventris,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia griseiventris,TSMS,1539895,TSMS,1539895
+B1890:1:64,Cheilosia chloris,,Cheilosia,,chloris,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia chloris,CCYYH,4516709,CCYYH,1540317
+B1890:1:65,Cheilosia chrysocoma,,Cheilosia,,chrysocoma,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia chrysocoma,9H8GF,1540278,9H8GF,1540278
+B1890:1:66,Cheilosia cynocephala,,Cheilosia,,cynocephala,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia cynocephala,5XRJT,1540189,5XRJT,1540189
+B1890:1:67,Cheilosia fasciata,,Cheilosia,,fasciata,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia fasciata,TSLQ,1540113,TSLQ,1540113
+B1890:1:68,Cheilosia flavipes,,Cheilosia,,flavipes,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia flavipes,TSLZ,1540082,TSLZ,1540082
+B1890:1:69,Cheilosia fraterna,,Cheilosia,,fraterna,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia fraterna,TSM8,1540067,TSM8,1540067
+B1890:1:70,Cheilosia frontalis,,Cheilosia,,frontalis,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia frontalis,TSM9,1540046,TSM9,1540046
+B1890:1:71,Cheilosia grossa,,Cheilosia,,grossa,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia grossa,,4516680,,1539854
+B1890:1:72,Cheilosia himantopus,,Cheilosia,,himantopus,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia himantopus,TSN6,1540362,TSN6,1540362
+B1890:1:73,Cheilosia illustrata,,Cheilosia,,illustrata,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia illustrata,TSNG,1540302,TSNG,1540302
+B1890:1:74,Cheilosia impressa,,Cheilosia,,impressa,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia impressa,TSNJ,1540633,TSNJ,1540633
+B1890:1:75,Cheilosia laticornis,,Cheilosia,,laticornis,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia laticornis,9H8GT,1540509,9H8GT,1540509
+B1890:1:76,Cheilosia latifrons,,Cheilosia,,latifrons,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia latifrons,TSPP,1540561,TSPP,1540561
+B1890:1:77,Cheilosia lasiopa,,Cheilosia,,lasiopa,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia lasiopa,9HHRD,4516701,9HHRD,4516701
+B1890:1:78,Cheilosia lenis,,Cheilosia,,lenis,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia lenis,TSPT,1540480,TSPT,1540480
+B1890:1:79,Cheilosia longula,,Cheilosia,,longula,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia longula,69RJV,1540390,69RJV,1540390
+B1890:1:80,Cheilosia morio,,Cheilosia,,morio,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia morio,5Y3JB,1540231,5Y3JB,1540231
+B1890:1:81,Cheilosia mutabilis,,Cheilosia,,mutabilis,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia mutabilis,TSRF,1540212,TSRF,1540212
+B1890:1:82,Cheilosia nebulosa,,Cheilosia,,nebulosa,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia nebulosa,TSRP,1540167,TSRP,1540167
+B1890:1:83,Cheilosia nigripes,,Cheilosia,,nigripes,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia nigripes,TSRW,1540138,TSRW,1540138
+B1890:1:84,Cheilosia orthotricha,,Cheilosia,,orthotricha,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia orthotricha,TST2,1540235,TST2,1540235
+B1890:1:85,Cheilosia pagana,,Cheilosia,,pagana,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia pagana,TST4,1539941,TST4,1539941
+B1890:1:86,Cheilosia proxima,,Cheilosia,,proxima,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia proxima,5Y3KQ,1540608,5Y3KQ,1540608
+B1890:1:87,Cheilosia psilophthalma,,Cheilosia,,psilophthalma,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia psilophthalma,69RL2,1540597,69RL2,1540597
+B1890:1:88,Cheilosia pubera,,Cheilosia,,pubera,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia pubera,5XRKR,1540581,5XRKR,1540581
+B1890:1:89,Cheilosia ranunculi,,Cheilosia,,ranunculi,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia ranunculi,CNLDW,1540590,CNLDW,1540590
+B1890:1:90,Cheilosia rufimana,,Cheilosia,,rufimana,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia rufimana,TSVD,1540471,TSVD,1540471
+B1890:1:91,Cheilosia scutellata,,Cheilosia,,scutellata,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia scutellata,BZ4QH,4516681,BZ4QH,4516681
+B1890:1:92,Cheilosia semifasciata,,Cheilosia,,semifasciata,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia semifasciata,TSVV,1540296,TSVV,1540296
+B1890:1:93,Cheilosia soror,,Cheilosia,,soror,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia soror,TSWL,4516703,TSWL,1540146
+B1890:1:94,Cheilosia urbana,,Cheilosia,,urbana,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia urbana,CCYYN,4516690,CCYYN,1540446
+B1890:1:95,Cheilosia uviformis,,Cheilosia,,uviformis,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia uviformis,TSY7,1540101,TSY7,1540101
+B1890:1:96,Cheilosia variabilis,,Cheilosia,,variabilis,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia variabilis,TSY8,1540086,TSY8,1540086
+B1890:1:97,Cheilosia velutina,,Cheilosia,,velutina,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia velutina,TSYD,1540047,TSYD,1540047
+B1890:1:98,Cheilosia vernalis,,Cheilosia,,vernalis,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia vernalis,TSYG,1539991,TSYG,1539991
+B1890:1:99,Cheilosia vicina,,Cheilosia,,vicina,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia vicina,TSYK,1539931,TSYK,1539931
+B1890:1:100,Cheilosia vulpina,,Cheilosia,,vulpina,,species,,B1890:1,accepted,,,B1890:1:53,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,Cheilosia vulpina,TSYS,1539896,TSYS,1539896
+B1890:1:101,Chrysogaster,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Chrysogaster,,Syrphidae,Chrysogaster,BY9LJ,1536707,BY9LJ,1536707
+B1890:1:102,Chrysogaster basalis,,Chrysogaster,,basalis,,species,,B1890:1,accepted,,,B1890:1:101,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,Chrysogaster basalis,5YP3Q,1536708,5YP3Q,1536708
+B1890:1:103,Chrysogaster cemiteriorum,,Chrysogaster,,cemiteriorum,,species,,B1890:1,accepted,,,B1890:1:101,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,Chrysogaster cemiteriorum,5YP59,1536758,5YP59,1536758
+B1890:1:104,Chrysogaster rondanii,,Chrysogaster,,rondanii,,species,,B1890:1,accepted,,,B1890:1:101,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,Chrysogaster rondanii,9H8LQ,1536752,9H8LQ,1536752
+B1890:1:105,Chrysogaster solstitialis,,Chrysogaster,,solstitialis,,species,,B1890:1,accepted,,,B1890:1:101,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,Chrysogaster solstitialis,5YP63,1536716,5YP63,1536716
+B1890:1:106,Chrysogaster virescens,,Chrysogaster,,virescens,,species,,B1890:1,accepted,,,B1890:1:101,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,Chrysogaster virescens,5YP7C,1536725,5YP7C,1536725
+B1890:1:107,Chrysotoxum,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Chrysotoxum,,Syrphidae,Chrysotoxum,BY9LZ,1535870,BY9LZ,1535870
+B1890:1:108,Chrysotoxum arcuatum,,Chrysotoxum,,arcuatum,,species,,B1890:1,accepted,,,B1890:1:107,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,Chrysotoxum arcuatum,V2GC,10992980,V2GC,10992980
+B1890:1:109,Chrysotoxum bicinctum,,Chrysotoxum,,bicinctum,,species,,B1890:1,accepted,,,B1890:1:107,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,Chrysotoxum bicinctum,8V5JF,1536009,8V5JF,1536009
+B1890:1:110,Chrysotoxum cautum,,Chrysotoxum,,cautum,,species,,B1890:1,accepted,,,B1890:1:107,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,Chrysotoxum cautum,5YTCL,1535990,5YTCL,1535990
+B1890:1:111,Chrysotoxum elegans,,Chrysotoxum,,elegans,,species,,B1890:1,accepted,,,B1890:1:107,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,Chrysotoxum elegans,V2HG,1535931,V2HG,1535931
+B1890:1:112,Chrysotoxum fasciolatum,,Chrysotoxum,,fasciolatum,,species,,B1890:1,accepted,,,B1890:1:107,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,Chrysotoxum fasciolatum,V2HK,1535954,V2HK,1535954
+B1890:1:113,Chrysotoxum festivum,,Chrysotoxum,,festivum,,species,,B1890:1,accepted,,,B1890:1:107,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,Chrysotoxum festivum,9HHRZ,4516839,9HHRZ,4516839
+B1890:1:114,Chrysotoxum intermedium,,Chrysotoxum,,intermedium,,species,,B1890:1,accepted,,,B1890:1:107,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,Chrysotoxum intermedium,CNLJH,1536030,CNLJH,1536030
+B1890:1:115,Chrysotoxum octomaculatum,,Chrysotoxum,,octomaculatum,,species,,B1890:1,accepted,,,B1890:1:107,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,Chrysotoxum octomaculatum,V2KB,1535899,V2KB,1535899
+B1890:1:116,Chrysotoxum vernale,,Chrysotoxum,,vernale,,species,,B1890:1,accepted,,,B1890:1:107,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,Chrysotoxum vernale,V2LR,1536015,V2LR,1536015
+B1890:1:117,Chrysotoxum verralli,,Chrysotoxum,,verralli,,species,,B1890:1,accepted,,,B1890:1:107,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,Chrysotoxum verralli,V2LT,1535909,V2LT,1535909
+B1890:1:118,Criorhina,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Criorhina,,Syrphidae,Criorhina,BYB74,5070963,BYB74,5070963
+B1890:1:119,Criorhina asilica,,Criorhina,,asilica,,species,,B1890:1,accepted,,,B1890:1:118,Criorhina,,,,,Syrphidae,,Criorhina,,Syrphidae | Criorhina,Criorhina asilica,ZHHY,5071001,ZHHY,5071001
+B1890:1:120,Criorhina berberina,,Criorhina,,berberina,,species,,B1890:1,accepted,,,B1890:1:118,Criorhina,,,,,Syrphidae,,Criorhina,,Syrphidae | Criorhina,Criorhina berberina,,5070993,,5070993
+B1890:1:121,Criorhina floccosa,,Criorhina,,floccosa,,species,,B1890:1,accepted,,,B1890:1:118,Criorhina,,,,,Syrphidae,,Criorhina,,Syrphidae | Criorhina,Criorhina floccosa,ZHJF,5071031,ZHJF,5071031
+B1890:1:122,Criorhina pachymera,,Criorhina,,pachymera,,species,,B1890:1,accepted,,,B1890:1:118,Criorhina,,,,,Syrphidae,,Criorhina,,Syrphidae | Criorhina,Criorhina pachymera,ZHK3,5070983,ZHK3,5070983
+B1890:1:123,Criorhina ranunculi,,Criorhina,,ranunculi,,species,,B1890:1,accepted,,,B1890:1:118,Criorhina,,,,,Syrphidae,,Criorhina,,Syrphidae | Criorhina,Criorhina ranunculi,ZHK9,5071002,ZHK9,5071002
+B1890:1:124,Dasysyrphus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Dasysyrphus,,Syrphidae,Dasysyrphus,BYBJN,1542043,BYBJN,1542043
+B1890:1:125,Dasysyrphus albostriatus,,Dasysyrphus,,albostriatus,,species,,B1890:1,accepted,,,B1890:1:124,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,Dasysyrphus albostriatus,6CF43,1542111,6CF43,1542111
+B1890:1:126,Dasysyrphus friuliensis,,Dasysyrphus,,friuliensis,,species,,B1890:1,accepted,,,B1890:1:124,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,Dasysyrphus friuliensis,,4516904,,1542118
+B1890:1:127,Dasysyrphus hilaris,,Dasysyrphus,,hilaris,,species,,B1890:1,accepted,,,B1890:1:124,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,Dasysyrphus hilaris,,4516901,,1542093
+B1890:1:128,Dasysyrphus lenensis,,Dasysyrphus,,lenensis,,species,,B1890:1,accepted,,,B1890:1:124,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,Dasysyrphus lenensis,6CF3Q,1542044,6CF3F,1542044
+B1890:1:129,Dasysyrphus pauxillus,,Dasysyrphus,,pauxillus,,species,,B1890:1,accepted,,,B1890:1:124,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,Dasysyrphus pauxillus,6CF54,1542087,6CF54,1542087
+B1890:1:130,Dasysyrphus pinastri,,Dasysyrphus,,pinastri,,species,,B1890:1,accepted,,,B1890:1:124,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,Dasysyrphus pinastri,6CF4T,1542077,6CF4T,1542077
+B1890:1:131,Dasysyrphus tricinctus,,Dasysyrphus,,tricinctus,,species,,B1890:1,accepted,,,B1890:1:124,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,Dasysyrphus tricinctus,6CF59,1542069,6CF59,1542069
+B1890:1:132,Dasysyrphus venustus,,Dasysyrphus,,venustus,,species,,B1890:1,accepted,,,B1890:1:124,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,Dasysyrphus venustus,6CF4Z,1542093,6CF4Z,1542093
+B1890:1:133,Didea,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Didea,,Syrphidae,Didea,BYBSJ,1542022,BYBSJ,1542022
+B1890:1:134,Didea alneti,,Didea,,alneti,,species,,B1890:1,accepted,,,B1890:1:133,Didea,,,,,Syrphidae,,Didea,,Syrphidae | Didea,Didea alneti,35WJC,1542030,35WJC,1542030
+B1890:1:135,Didea fasciata,,Didea,,fasciata,,species,,B1890:1,accepted,,,B1890:1:133,Didea,,,,,Syrphidae,,Didea,,Syrphidae | Didea,Didea fasciata,35WJG,1542027,35WJG,1542027
+B1890:1:136,Didea intermedia,,Didea,,intermedia,,species,,B1890:1,accepted,,,B1890:1:133,Didea,,,,,Syrphidae,,Didea,,Syrphidae | Didea,Didea intermedia,35WJK,1542026,35WJK,1542026
+B1890:1:137,Doros,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Doros,,Syrphidae,Doros,BYC2D,1544508,BYC2D,1544508
+B1890:1:138,Doros profuges,,Doros,,profuges,,species,,B1890:1,accepted,,,B1890:1:137,Doros,,,,,Syrphidae,,Doros,,Syrphidae | Doros,Doros profuges,6DGD3,1544513,6DGD3,1544513
+B1890:1:139,Epistrophe,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Epistrophe,,Syrphidae,Epistrophe,BYCMV,5071050,BYCMV,5071050
+B1890:1:140,Epistrophe cryptica,,Epistrophe,,cryptica,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe cryptica,8C2P5,5766585,8C2P5,5766585
+B1890:1:141,Epistrophe diaphana,,Epistrophe,,diaphana,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe diaphana,8C2P6,5766581,8C2P6,5766581
+B1890:1:142,Epistrophe eligans,,Epistrophe,,eligans,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe eligans,8C2P7,5766577,8C2P7,5766577
+B1890:1:143,Epistrophe flava,,Epistrophe,,flava,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe flava,8C2P9,5766584,8C2P9,5766584
+B1890:1:144,Epistrophe grossulariae,,Epistrophe,,grossulariae,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe grossulariae,8C2PD,5071071,8C2PD,5071071
+B1890:1:145,Epistrophe leiophthalma,,Epistrophe,,leiophthalma,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe leiophthalma,8C2PH,5766576,8C2PH,5766576
+B1890:1:146,Epistrophe melanostoma,,Epistrophe,,melanostoma,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe melanostoma,8C2PJ,5766583,8C2PJ,5766583
+B1890:1:147,Epistrophe nitidicollis,,Epistrophe,,nitidicollis,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe nitidicollis,8C2PL,5766579,8C2PL,5766579
+B1890:1:148,Epistrophe obscuripes,,Epistrophe,,obscuripes,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe obscuripes,9HJ3N,5766586,9HJ3N,5766586
+B1890:1:149,Epistrophe ochrostoma,,Epistrophe,,ochrostoma,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe ochrostoma,8C2PM,5071051,8C2PM,5071051
+B1890:1:150,Epistrophe olgae,,Epistrophe,,olgae,,species,,B1890:1,accepted,,,B1890:1:139,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,Epistrophe olgae,6G876,5071090,6G876,5071090
+B1890:1:151,Epistrophella,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Epistrophella,,Syrphidae,Epistrophella,BYCMY,4404411,BYCMY,4404411
+B1890:1:152,Epistrophella euchroma,,Epistrophella,,euchroma,,species,,B1890:1,accepted,,,B1890:1:151,Epistrophella,,,,,Syrphidae,,Epistrophella,,Syrphidae | Epistrophella,Epistrophella euchroma,9HJ3P,4516848,9HJ3P,4516848
+B1890:1:153,Episyrphus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Episyrphus,,Syrphidae,Episyrphus,BXZTD,1536427,BXZTD,1536427
+B1890:1:154,Episyrphus balteatus,,Episyrphus,,balteatus,,species,,B1890:1,accepted,,,B1890:1:153,Episyrphus,,,,,Syrphidae,,Episyrphus,,Syrphidae | Episyrphus,Episyrphus balteatus,8C2QW,1536449,8C2QW,1536449
+B1890:1:155,Eriozona,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Eriozona,,Syrphidae,Eriozona,BYCPX,1543325,BYCPX,1543325
+B1890:1:156,Eriozona syrphoides,,Eriozona,,syrphoides,,species,,B1890:1,accepted,,,B1890:1:155,Eriozona,,,,,Syrphidae,,Eriozona,,Syrphidae | Eriozona,Eriozona syrphoides,8C3CJ,1543332,8C3CJ,1543332
+B1890:1:157,Eristalinus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Eristalinus,,Syrphidae,Eristalinus,BXZTX,1542672,BXZTX,1542672
+B1890:1:158,Eristalinus aeneus,,Eristalinus,,aeneus,,species,,B1890:1,accepted,,,B1890:1:157,Eristalinus,,,,,Syrphidae,,Eristalinus,,Syrphidae | Eristalinus,Eristalinus aeneus,8C3D2,1542830,8C3D2,1542830
+B1890:1:159,Eristalinus sepulchralis,,Eristalinus,,sepulchralis,,species,,B1890:1,accepted,,,B1890:1:157,Eristalinus,,,,,Syrphidae,,Eristalinus,,Syrphidae | Eristalinus,Eristalinus sepulchralis,8C3FW,1542852,8C3FW,1542852
+B1890:1:160,Eristalis,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Eristalis,,Syrphidae,Eristalis,BXZTZ,1491190,BXZTZ,1491190
+B1890:1:161,Eristalis abusiva,,Eristalis,,abusiva,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis abusiva,9H9RJ,1541164,9H9RJ,1541164
+B1890:1:162,Eristalis alpina,,Eristalis,,alpina,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis alpina,9H9RN,1540351,9H9RN,1540351
+B1890:1:163,Eristalis anthophorina,,Eristalis,,anthophorina,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis anthophorina,9HDXQ,1541192,9HDXQ,1541192
+B1890:1:164,Eristalis arbustorum,,Eristalis,,arbustorum,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis arbustorum,9HDL4,1541146,9HDL4,1541146
+B1890:1:165,Eristalis cryptarum,,Eristalis,,cryptarum,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis cryptarum,9H9S8,1541325,9H9S8,1541325
+B1890:1:166,Eristalis horticola,,Eristalis,,horticola,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis horticola,CQCZW,6098381,CQCZW,1540231
+B1890:1:167,Eristalis intricaria,,Eristalis,,intricaria,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis intricaria,9HDXS,1541262,9HDXS,1541262
+B1890:1:168,Eristalis jugorum,,Eristalis,,jugorum,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis jugorum,9H9SQ,1541245,9H9SQ,1541245
+B1890:1:169,Eristalis nemorum,,Eristalis,,nemorum,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis nemorum,,6098383,,6098383
+B1890:1:170,Eristalis pertinax,,Eristalis,,pertinax,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis pertinax,9HDXX,1541116,9HDXX,1541116
+B1890:1:171,Eristalis picea,,Eristalis,,picea,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis picea,,4516879,,1541339
+B1890:1:172,Eristalis pseudorupium,,Eristalis,,pseudorupium,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis pseudorupium,,1541291,,1541171
+B1890:1:173,Eristalis rupium,,Eristalis,,rupium,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis rupium,9H9T6,1541339,9H9T6,1541339
+B1890:1:174,Eristalis similis,,Eristalis,,similis,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis similis,8C3NK,4516874,8C3NK,1541116
+B1890:1:175,Eristalis pratorum,,Eristalis,,pratorum,,species,,B1890:1,synonym,B1890:1:174,Eristalis similis,,,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,pratorum,CNQZH,1541321,8C3NK,1541321
+B1890:1:176,Eristalis tenax,,Eristalis,,tenax,,species,,B1890:1,accepted,,,B1890:1:160,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,Eristalis tenax,8C3H9,1541217,8C3H9,1541217
+B1890:1:177,Eumerus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Eumerus,,Syrphidae,Eumerus,BXZVW,1534472,BXZVW,1534472
+B1890:1:178,Eumerus flavitarsis,,Eumerus,,flavitarsis,,species,,B1890:1,accepted,,,B1890:1:177,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,Eumerus flavitarsis,3CDVQ,1534603,3CDVQ,1534603
+B1890:1:179,Eumerus funeralis,,Eumerus,,funeralis,,species,,B1890:1,accepted,,,B1890:1:177,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,Eumerus funeralis,3CDVX,7198254,3CDVX,7198254
+B1890:1:180,Eumerus ornatus,,Eumerus,,ornatus,,species,,B1890:1,accepted,,,B1890:1:177,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,Eumerus ornatus,CNR45,1534751,CNR45,1534751
+B1890:1:181,Eumerus sabulonum,,Eumerus,,sabulonum,,species,,B1890:1,accepted,,,B1890:1:177,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,Eumerus sabulonum,6H8QX,1534643,6H8QX,1534643
+B1890:1:182,Eumerus sogdianus,,Eumerus,,sogdianus,,species,,B1890:1,accepted,,,B1890:1:177,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,Eumerus sogdianus,6GX32,1534545,6GX32,1534545
+B1890:1:183,Eumerus strigatus,,Eumerus,,strigatus,,species,,B1890:1,accepted,,,B1890:1:177,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,Eumerus strigatus,6GX2R,1534515,6GX2R,1534515
+B1890:1:184,Eumerus tarsalis,,Eumerus,,tarsalis,,species,,B1890:1,accepted,,,B1890:1:177,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,Eumerus tarsalis,6H8QP,1534533,6H8QP,1534533
+B1890:1:185,Eumerus tricolor,,Eumerus,,tricolor,,species,,B1890:1,accepted,,,B1890:1:177,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,Eumerus tricolor,6GWSF,1534613,6GWSF,1534613
+B1890:1:186,Eupeodes,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Eupeodes,,Syrphidae,Eupeodes,BXZW5,1540675,BXZW5,1540675
+B1890:1:187,Eupeodes bucculatus,,Eupeodes,,bucculatus,,species,,B1890:1,accepted,,,B1890:1:186,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,Eupeodes bucculatus,8C48F,1540818,8C48F,1540818
+B1890:1:188,Eupeodes corollae,,Eupeodes,,corollae,,species,,B1890:1,accepted,,,B1890:1:186,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,Eupeodes corollae,8C48K,1540742,8C48K,1540742
+B1890:1:189,Eupeodes goeldlini,,Eupeodes,,goeldlini,,species,,B1890:1,accepted,,,B1890:1:186,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,Eupeodes goeldlini,6GZHQ,1540896,6GZHQ,1540896
+B1890:1:190,Eupeodes lapponicus,,Eupeodes,,lapponicus,,species,,B1890:1,accepted,,,B1890:1:186,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,Eupeodes lapponicus,,1540858,,8183385
+B1890:1:191,Lapposyrphus lapponicus,,Lapposyrphus,,lapponicus,,species,,B1890:1,synonym,B1890:1:190,Eupeodes lapponicus,,,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,Lapposyrphus lapponicus,9HJDB,8183385,9HJDB,8183385
+B1890:1:192,Eupeodes latifasciatus,,Eupeodes,,latifasciatus,,species,,B1890:1,accepted,,,B1890:1:186,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,Eupeodes latifasciatus,8C494,1540691,8C494,1540691
+B1890:1:193,Eupeodes lundbeckii,,Eupeodes,,lundbeckii,,species,,B1890:1,accepted,,,B1890:1:186,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,Eupeodes lundbeckii,8C498,1540706,8C498,1540706
+B1890:1:194,Eupeodes luniger,,Eupeodes,,luniger,,species,,B1890:1,accepted,,,B1890:1:186,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,Eupeodes luniger,8C499,1540875,8C499,1540875
+B1890:1:195,Eupeodes nielseni,,Eupeodes,,nielseni,,species,,B1890:1,accepted,,,B1890:1:186,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,Eupeodes nielseni,8C49G,1540740,8C49G,1540740
+B1890:1:196,Eupeodes nitens,,Eupeodes,,nitens,,species,,B1890:1,accepted,,,B1890:1:186,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,Eupeodes nitens,8C49J,1540726,8C49J,1540726
+B1890:1:197,Ferdinandea,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Ferdinandea,,Syrphidae,Ferdinandea,BYD9W,1542953,BYD9W,1542953
+B1890:1:198,Ferdinandea cuprea,,Ferdinandea,,cuprea,,species,,B1890:1,accepted,,,B1890:1:197,Ferdinandea,,,,,Syrphidae,,Ferdinandea,,Syrphidae | Ferdinandea,Ferdinandea cuprea,6HR7J,1542979,6HR7J,1542979
+B1890:1:199,Ferdinandea ruficornis,,Ferdinandea,,ruficornis,,species,,B1890:1,accepted,,,B1890:1:197,Ferdinandea,,,,,Syrphidae,,Ferdinandea,,Syrphidae | Ferdinandea,Ferdinandea ruficornis,3DYGV,1542961,3DYGV,1542961
+B1890:1:200,Helophilus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Helophilus,,Syrphidae,Helophilus,BY26R,6007034,BY26R,6007034
+B1890:1:201,Helophilus affinis,,Helophilus,,affinis,,species,,B1890:1,accepted,,,B1890:1:200,Helophilus,,,,,Syrphidae,,Helophilus,,Syrphidae | Helophilus,Helophilus affinis,8C9WD,5071373,8C9WD,5071373
+B1890:1:202,Helophilus hybridus,,Helophilus,,hybridus,,species,,B1890:1,accepted,,,B1890:1:200,Helophilus,,,,,Syrphidae,,Helophilus,,Syrphidae | Helophilus,Helophilus hybridus,8C9WN,5071368,8C9WN,5071368
+B1890:1:203,Helophilus pendulus,,Helophilus,,pendulus,,species,,B1890:1,accepted,,,B1890:1:200,Helophilus,,,,,Syrphidae,,Helophilus,,Syrphidae | Helophilus,Helophilus pendulus,8C9WX,5071352,8C9WX,5071352
+B1890:1:204,Helophilus trivittatus,,Helophilus,,trivittatus,,species,,B1890:1,accepted,,,B1890:1:200,Helophilus,,,,,Syrphidae,,Helophilus,,Syrphidae | Helophilus,Helophilus trivittatus,8C9WZ,5071382,8C9WZ,5071382
+B1890:1:205,Heringia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Heringia,,Syrphidae,Heringia,BYFB2,1535116,BYFB2,1535116
+B1890:1:206,Heringia brevidens,,Heringia,,brevidens,,species,,B1890:1,accepted,,,B1890:1:205,Heringia,,,,,Syrphidae,,Heringia,,Syrphidae | Heringia,Heringia brevidens,,1535194,,8107056
+B1890:1:207,Heringia heringi,,Heringia,,heringi,,species,,B1890:1,accepted,,,B1890:1:205,Heringia,,,,,Syrphidae,,Heringia,,Syrphidae | Heringia,Heringia heringi,3KZ2X,1535185,3KZ2X,1535185
+B1890:1:208,Heringia latitarsis,,Heringia,,latitarsis,,species,,B1890:1,accepted,,,B1890:1:205,Heringia,,,,,Syrphidae,,Heringia,,Syrphidae | Heringia,Heringia latitarsis,,1535183,,7789394
+B1890:1:209,Heringia pubescens,,Heringia,,pubescens,,species,,B1890:1,accepted,,,B1890:1:205,Heringia,,,,,Syrphidae,,Heringia,,Syrphidae | Heringia,Heringia pubescens,,1535128,,8147305
+B1890:1:210,Heringia senilis,,Heringia,,senilis,,species,,B1890:1,accepted,,,B1890:1:205,Heringia,,,,,Syrphidae,,Heringia,,Syrphidae | Heringia,Heringia senilis,3KZ3H,1535132,3KZ3H,1535132
+B1890:1:211,Heringia verrucula,,Heringia,,verrucula,,species,,B1890:1,accepted,,,B1890:1:205,Heringia,,,,,Syrphidae,,Heringia,,Syrphidae | Heringia,Heringia verrucula,,1535171,,9759352
+B1890:1:212,Heringia vitripennis,,Heringia,,vitripennis,,species,,B1890:1,accepted,,,B1890:1:205,Heringia,,,,,Syrphidae,,Heringia,,Syrphidae | Heringia,Heringia vitripennis,,1535152,,8223744
+B1890:1:213,Lejogaster,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Lejogaster,,Syrphidae,Lejogaster,BYGPS,1537377,BYGPS,1537377
+B1890:1:214,Lejogaster metallina,,Lejogaster,,metallina,,species,,B1890:1,accepted,,,B1890:1:213,Lejogaster,,,,,Syrphidae,,Lejogaster,,Syrphidae | Lejogaster,Lejogaster metallina,3T3TX,1537380,3T3TX,1537380
+B1890:1:215,Lejogaster tarsata,,Lejogaster,,tarsata,,species,,B1890:1,accepted,,,B1890:1:213,Lejogaster,,,,,Syrphidae,,Lejogaster,,Syrphidae | Lejogaster,Lejogaster tarsata,3T3TZ,1537389,3T3TZ,1537389
+B1890:1:216,Lejops,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Lejops,,Syrphidae,Lejops,BYGPT,1538399,BYGPT,1538399
+B1890:1:217,Lejops vittata,,Lejops,,vittata,,species,,B1890:1,accepted,,,B1890:1:216,Lejops,,,,,Syrphidae,,Lejops,,Syrphidae | Lejops,Lejops vittata,8CH64,1538420,8CH64,1538420
+B1890:1:218,Leucozona,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Leucozona,,Syrphidae,Leucozona,BYGVJ,1536498,BYGVJ,1536498
+B1890:1:219,Leucozona glaucia,,Leucozona,,glaucia,,species,,B1890:1,accepted,,,B1890:1:218,Leucozona,,,,,Syrphidae,,Leucozona,,Syrphidae | Leucozona,Leucozona glaucia,8CJS7,5071167,8CJS7,5071167
+B1890:1:220,Leucozona inopinata,,Leucozona,,inopinata,,species,,B1890:1,accepted,,,B1890:1:218,Leucozona,,,,,Syrphidae,,Leucozona,,Syrphidae | Leucozona,Leucozona inopinata,8CJSH,5071161,8CJSH,5071161
+B1890:1:221,Leucozona laternaria,,Leucozona,,laternaria,,species,,B1890:1,accepted,,,B1890:1:218,Leucozona,,,,,Syrphidae,,Leucozona,,Syrphidae | Leucozona,Leucozona laternaria,72834,10966087,72834,10966087
+B1890:1:222,Leucozona lucorum,,Leucozona,,lucorum,,species,,B1890:1,accepted,,,B1890:1:218,Leucozona,,,,,Syrphidae,,Leucozona,,Syrphidae | Leucozona,Leucozona lucorum,8CJSK,5071172,8CJSK,5071172
+B1890:1:223,Mallota,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Mallota,,Syrphidae,Mallota,BYHGW,1541361,BYHGW,1541361
+B1890:1:224,Mallota cimbiciformis,,Mallota,,cimbiciformis,,species,,B1890:1,accepted,,,B1890:1:223,Mallota,,,,,Syrphidae,,Mallota,,Syrphidae | Mallota,Mallota cimbiciformis,3XPQT,1541364,3XPQT,1541364
+B1890:1:225,Mallota fuciformis,,Mallota,,fuciformis,,species,,B1890:1,accepted,,,B1890:1:223,Mallota,,,,,Syrphidae,,Mallota,,Syrphidae | Mallota,Mallota fuciformis,3XPRH,1541412,3XPRH,1541412
+B1890:1:226,Megasyrphus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Megasyrphus,,Syrphidae,Megasyrphus,CD965,1539313,CD965,1539313
+B1890:1:227,Megasyrphus erraticus,,Megasyrphus,,erraticus,,species,,B1890:1,accepted,,,B1890:1:226,Megasyrphus,,,,,Syrphidae,,Megasyrphus,,Syrphidae | Megasyrphus,Megasyrphus erraticus,9HJHD,6098357,9HJHD,6098357
+B1890:1:228,Eriozona erratica,,Eriozona,,erratica,,species,,B1890:1,synonym,B1890:1:227,Megasyrphus erraticus,,,,,,,Syrphidae,,Megasyrphus,,Syrphidae | Megasyrphus,Eriozona erratica,,1543344,,6098357
+B1890:1:229,Megasyrphus annulipes,,Megasyrphus,,annulipes,,species,,B1890:1,synonym,B1890:1:227,Megasyrphus erraticus,,,,,,,Syrphidae,,Megasyrphus,,Syrphidae | Megasyrphus,Megasyrphus annulipes,C2DYW,6098356,C2DYW,6098357
+B1890:1:230,Didea annulipes,,Didea,,annulipes,,species,,B1890:1,synonym,B1890:1:227,Megasyrphus erraticus,,,,,,,Syrphidae,,Megasyrphus,,Syrphidae | Megasyrphus,Didea annulipes,,11286101,,6098357
+B1890:1:231,Melangyna,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Melangyna,,Syrphidae,Melangyna,BY2WJ,1536595,BY2WJ,1536595
+B1890:1:232,Melangyna barbifrons,,Melangyna,,barbifrons,,species,,B1890:1,accepted,,,B1890:1:231,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,Melangyna barbifrons,8CSNG,11245573,8CSNG,11245573
+B1890:1:233,Melangyna cincta,,Melangyna,,cincta,,species,,B1890:1,accepted,,,B1890:1:231,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,Melangyna cincta,,1536627,,8168242
+B1890:1:234,Fagysyrphus cinctus,,Fagysyrphus,,cinctus,,species,,B1890:1,synonym,B1890:1:233,Melangyna cincta,,,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,Fagysyrphus cinctus,9HJ62,8168242,9HJ62,8168242
+B1890:1:235,Melangyna compositarum,,Melangyna,,compositarum,,species,,B1890:1,accepted,,,B1890:1:231,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,Melangyna compositarum,CQQQG,4516896,CQQQG,1536643
+B1890:1:236,Melangyna labiatarum,,Melangyna,,labiatarum,,species,,B1890:1,accepted,,,B1890:1:231,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,Melangyna labiatarum,8CSNM,1536607,8CSNM,1536607
+B1890:1:237,Melangyna lasiophthalma,,Melangyna,,lasiophthalma,,species,,B1890:1,accepted,,,B1890:1:231,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,Melangyna lasiophthalma,8CSNN,1536675,8CSNN,1536675
+B1890:1:238,Melangyna lucifera,,Melangyna,,lucifera,,species,,B1890:1,accepted,,,B1890:1:231,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,Melangyna lucifera,8CSNP,1536697,8CSNP,1536697
+B1890:1:239,Melangyna pavlovskyi,,Melangyna,,pavlovskyi,,species,,B1890:1,accepted,,,B1890:1:231,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,Melangyna pavlovskyi,8CSNT,1536623,8CSNT,1536623
+B1890:1:240,Melangyna quadrimaculata,,Melangyna,,quadrimaculata,,species,,B1890:1,accepted,,,B1890:1:231,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,Melangyna quadrimaculata,8CSNV,1536689,8CSNV,1536689
+B1890:1:241,Melangyna umbellatarum,,Melangyna,,umbellatarum,,species,,B1890:1,accepted,,,B1890:1:231,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,Melangyna umbellatarum,8CSP3,1536635,8CSP3,1536635
+B1890:1:242,Melanogaster,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Melanogaster,,Syrphidae,Melanogaster,CQ6V7,3264906,CQ6V7,3264906
+B1890:1:243,Melanogaster aerosa,,Melanogaster,,aerosa,,species,,B1890:1,accepted,,,B1890:1:242,Melanogaster,,,,,Syrphidae,,Melanogaster,,Syrphidae | Melanogaster,Melanogaster aerosa,,6098390,,1536728
+B1890:1:244,Melanogaster hirtella,,Melanogaster,,hirtella,,species,,B1890:1,accepted,,,B1890:1:242,Melanogaster,,,,,Syrphidae,,Melanogaster,,Syrphidae | Melanogaster,Melanogaster hirtella,,6098389,,1536711
+B1890:1:245,Melanogaster nuda,,Melanogaster,,nuda,,species,,B1890:1,accepted,,,B1890:1:242,Melanogaster,,,,,Syrphidae,,Melanogaster,,Syrphidae | Melanogaster,Melanogaster nuda,,6098387,,1536740
+B1890:1:246,Melanogaster parumplicata,,Melanogaster,,parumplicata,,species,,B1890:1,accepted,,,B1890:1:242,Melanogaster,,,,,Syrphidae,,Melanogaster,,Syrphidae | Melanogaster,Melanogaster parumplicata,,7814919,,1536750
+B1890:1:247,Melanostoma,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Melanostoma,,Syrphidae,Melanostoma,BY2WS,1533169,BY2WS,1533169
+B1890:1:248,Melanostoma mellinum,,Melanostoma,,mellinum,,species,,B1890:1,accepted,,,B1890:1:247,Melanostoma,,,,,Syrphidae,,Melanostoma,,Syrphidae | Melanostoma,Melanostoma mellinum,8TMRX,5766554,8TMRX,5766554
+B1890:1:249,Melanostoma scalare,,Melanostoma,,scalare,,species,,B1890:1,accepted,,,B1890:1:247,Melanostoma,,,,,Syrphidae,,Melanostoma,,Syrphidae | Melanostoma,Melanostoma scalare,3ZBJB,5766556,3ZBJB,5766556
+B1890:1:250,Meligramma,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Meligramma,,Syrphidae,Meligramma,BYW5P,9140781,BYW5P,9140781
+B1890:1:251,Meligramma cingulata,,Meligramma,,cingulata,,species,,B1890:1,accepted,,,B1890:1:250,Meligramma,,,,,Syrphidae,,Meligramma,,Syrphidae | Meligramma,Meligramma cingulata,9HKRZ,4516814,9HKRZ,4516814
+B1890:1:252,Meligramma guttata,,Meligramma,,guttata,,species,,B1890:1,accepted,,,B1890:1:250,Meligramma,,,,,Syrphidae,,Meligramma,,Syrphidae | Meligramma,Meligramma guttata,9HJHN,4516813,9HJHN,4516813
+B1890:1:253,Meligramma triangulifera,,Meligramma,,triangulifera,,species,,B1890:1,accepted,,,B1890:1:250,Meligramma,,,,,Syrphidae,,Meligramma,,Syrphidae | Meligramma,Meligramma triangulifera,9HJHP,4516815,9HJHP,4516815
+B1890:1:254,Meliscaeva,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Meliscaeva,,Syrphidae,Meliscaeva,BYHTD,1535495,BYHTD,1535495
+B1890:1:255,Meliscaeva auricollis,,Meliscaeva,,auricollis,,species,,B1890:1,accepted,,,B1890:1:254,Meliscaeva,,,,,Syrphidae,,Meliscaeva,,Syrphidae | Meliscaeva,Meliscaeva auricollis,3ZJDN,1535529,3ZJDN,1535529
+B1890:1:256,Meliscaeva cinctella,,Meliscaeva,,cinctella,,species,,B1890:1,accepted,,,B1890:1:254,Meliscaeva,,,,,Syrphidae,,Meliscaeva,,Syrphidae | Meliscaeva,Meliscaeva cinctella,3ZJDQ,1535521,3ZJDQ,1535521
+B1890:1:257,Merodon,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Merodon,,Syrphidae,Merodon,BXX57,1544143,BXX57,1544143
+B1890:1:258,Merodon aeneus,,Merodon,,aeneus,,species,,B1890:1,accepted,,,B1890:1:257,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,Merodon aeneus,CP46S,1544274,8CSXW,1544274
+B1890:1:259,Merodon avidus,,Merodon,,avidus,,species,,B1890:1,accepted,,,B1890:1:257,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,Merodon avidus,8CSXZ,1544230,8CSXZ,1544230
+B1890:1:260,Merodon moenium,,Merodon,,moenium,,species,,B1890:1,synonym,B1890:1:259,Merodon avidus,,,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,Merodon moenium,89F42,12322862,8CSXZ,1544230
+B1890:1:261,Merodon equestris,,Merodon,,equestris,,species,,B1890:1,accepted,,,B1890:1:257,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,Merodon equestris,8CSYW,1544340,8CSYW,1544340
+B1890:1:262,Merodon ruficornis,,Merodon,,ruficornis,,species,,B1890:1,accepted,,,B1890:1:257,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,Merodon ruficornis,8CT2B,1544283,8CT2B,1544283
+B1890:1:263,Merodon rufus,,Merodon,,rufus,,species,,B1890:1,accepted,,,B1890:1:257,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,Merodon rufus,3ZVKJ,7986894,3ZVKJ,7986894
+B1890:1:264,Microdon,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Microdon,,Syrphidae,Microdon,BXXN2,1542207,BXXN2,1542207
+B1890:1:265,Microdon analis,,Microdon,,analis,,species,,B1890:1,accepted,,,B1890:1:264,Microdon,,,,,Syrphidae,,Microdon,,Syrphidae | Microdon,Microdon analis,8CV3S,9153200,8CV3S,9153200
+B1890:1:266,Microdon major,,Microdon,,major,,species,,B1890:1,accepted,,,B1890:1:264,Microdon,,,,,Syrphidae,,Microdon,,Syrphidae | Microdon,Microdon major,8GPCY,9412801,8GPCY,9412801
+B1890:1:267,Microdon devius,,Microdon,,devius,,species,,B1890:1,accepted,,,B1890:1:264,Microdon,,,,,Syrphidae,,Microdon,,Syrphidae | Microdon,Microdon devius,8CV4C,1542409,8CV4C,1542409
+B1890:1:268,Microdon mutabilis,,Microdon,,mutabilis,,species,,B1890:1,accepted,,,B1890:1:264,Microdon,,,,,Syrphidae,,Microdon,,Syrphidae | Microdon,Microdon mutabilis,8CV59,1542226,8CV59,1542226
+B1890:1:269,Microdon myrmicae,,Microdon,,myrmicae,,species,,B1890:1,accepted,,,B1890:1:264,Microdon,,,,,Syrphidae,,Microdon,,Syrphidae | Microdon,Microdon myrmicae,8CV5C,1542591,8CV5C,1542591
+B1890:1:270,Myathropa,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Myathropa,,Syrphidae,Myathropa,BYJJ6,8921782,BYJJ6,8921782
+B1890:1:271,Myathropa florea,,Myathropa,,florea,,species,,B1890:1,accepted,,,B1890:1:270,Myathropa,,,,,Syrphidae,,Myathropa,,Syrphidae | Myathropa,Myathropa florea,8CX8H,4516754,8CX8H,4516754
+B1890:1:272,Myolepta,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Myolepta,,Syrphidae,Myolepta,BYJKZ,1533883,BYJKZ,1533883
+B1890:1:273,Myolepta dubia,,Myolepta,,dubia,,species,,B1890:1,accepted,,,B1890:1:272,Myolepta,,,,,Syrphidae,,Myolepta,,Syrphidae | Myolepta,Myolepta dubia,8CY5Z,1533889,8CY5Z,1533889
+B1890:1:274,Myolepta vara,,Myolepta,,vara,,species,,B1890:1,accepted,,,B1890:1:272,Myolepta,,,,,Syrphidae,,Myolepta,,Syrphidae | Myolepta,Myolepta vara,8CY6N,4516779,8CY6N,4516779
+B1890:1:275,Neoascia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Neoascia,,Syrphidae,Neoascia,BYJSD,1536777,BYJSD,1536777
+B1890:1:276,Neoascia annexa,,Neoascia,,annexa,,species,,B1890:1,accepted,,,B1890:1:275,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,Neoascia annexa,8CYWQ,1536829,8CYWQ,1536829
+B1890:1:277,Neoascia geniculata,,Neoascia,,geniculata,,species,,B1890:1,accepted,,,B1890:1:275,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,Neoascia geniculata,8CYX9,1536812,8CYX9,1536812
+B1890:1:278,Neoascia interrupta,,Neoascia,,interrupta,,species,,B1890:1,accepted,,,B1890:1:275,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,Neoascia interrupta,8CYXB,1536827,8CYXB,1536827
+B1890:1:279,Neoascia meticulosa,,Neoascia,,meticulosa,,species,,B1890:1,accepted,,,B1890:1:275,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,Neoascia meticulosa,8CYXC,1536817,8CYXC,1536817
+B1890:1:280,Neoascia obliqua,,Neoascia,,obliqua,,species,,B1890:1,accepted,,,B1890:1:275,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,Neoascia obliqua,8CYXD,1536794,8CYXD,1536794
+B1890:1:281,Neoascia podagrica,,Neoascia,,podagrica,,species,,B1890:1,accepted,,,B1890:1:275,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,Neoascia podagrica,8CYX2,1536796,8CYX2,1536796
+B1890:1:282,Neoascia tenur,,Neoascia,,tenur,,species,,B1890:1,accepted,,,B1890:1:275,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,Neoascia tenur,8CYX3,1536804,8CYX3,1536804
+B1890:1:283,Neoascia unifasciata,,Neoascia,,unifasciata,,species,,B1890:1,accepted,,,B1890:1:275,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,Neoascia unifasciata,8CYXH,1536785,8CYXH,1536785
+B1890:1:284,Orthonevra,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Orthonevra,,Syrphidae,Orthonevra,63H6W,1537455,63H6W,1537455
+B1890:1:285,Orthonevra brevicornis,,Orthonevra,,brevicornis,,species,,B1890:1,accepted,,,B1890:1:284,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,Orthonevra brevicornis,74X2S,1537538,74X2S,1537538
+B1890:1:286,Orthonevra elegans,,Orthonevra,,elegans,,species,,B1890:1,accepted,,,B1890:1:284,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,Orthonevra elegans,BZCBX,1537514,BZCBX,1537514
+B1890:1:287,Orthonevra geniculata,,Orthonevra,,geniculata,,species,,B1890:1,accepted,,,B1890:1:284,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,Orthonevra geniculata,6T8QT,1537547,6T8QT,1537547
+B1890:1:288,Orthonevra intermedia,,Orthonevra,,intermedia,,species,,B1890:1,accepted,,,B1890:1:284,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,Orthonevra intermedia,74X35,1537501,74X35,1537501
+B1890:1:289,Orthonevra nobilis,,Orthonevra,,nobilis,,species,,B1890:1,accepted,,,B1890:1:284,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,Orthonevra nobilis,6SWQV,1537521,6SWQV,1537521
+B1890:1:290,Orthonevra stackelbergi,,Orthonevra,,stackelbergi,,species,,B1890:1,accepted,,,B1890:1:284,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,Orthonevra stackelbergi,74WP6,1537490,74WP6,1537490
+B1890:1:291,Paragus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Paragus,,Syrphidae,Paragus,BY3JN,1535699,BY3JN,1535699
+B1890:1:292,Paragus albifrons,,Paragus,,albifrons,,species,,B1890:1,accepted,,,B1890:1:291,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,Paragus albifrons,8D6M5,1535745,8D6M5,1535745
+B1890:1:293,Paragus bicolor,,Paragus,,bicolor,,species,,B1890:1,accepted,,,B1890:1:291,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,Paragus bicolor,8D6MK,1535710,8D6MK,1535710
+B1890:1:294,Paragus finitimus,,Paragus,,finitimus,,species,,B1890:1,accepted,,,B1890:1:291,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,Paragus finitimus,8D6N3,1535828,8D6N3,1535828
+B1890:1:295,Paragus flammeus,,Paragus,,flammeus,,species,,B1890:1,accepted,,,B1890:1:291,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,Paragus flammeus,8D6N4,1535764,8D6N4,1535764
+B1890:1:296,Paragus haemorrhous,,Paragus,,haemorrhous,,species,,B1890:1,accepted,,,B1890:1:291,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,Paragus haemorrhous,8D6LJ,1535781,8D6LJ,1535781
+B1890:1:297,Paragus pecchiolii,,Paragus,,pecchiolii,,species,,B1890:1,accepted,,,B1890:1:291,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,Paragus pecchiolii,8D6NV,1535728,8D6NV,1535728
+B1890:1:298,Paragus quadrifasciatus,,Paragus,,quadrifasciatus,,species,,B1890:1,accepted,,,B1890:1:291,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,Paragus quadrifasciatus,8D6NX,1535807,8D6NX,1535807
+B1890:1:299,Paragus tibialis,,Paragus,,tibialis,,species,,B1890:1,accepted,,,B1890:1:291,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,Paragus tibialis,8D6LY,1535751,8D6LY,1535751
+B1890:1:300,Parasyrphus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Parasyrphus,,Syrphidae,Parasyrphus,BYLQ7,1533012,BYLQ7,1533012
+B1890:1:301,Parasyrphus annulatus,,Parasyrphus,,annulatus,,species,,B1890:1,accepted,,,B1890:1:300,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,Parasyrphus annulatus,6TQB3,1533046,6TQB3,1533046
+B1890:1:302,Parasyrphus lineolus,,Parasyrphus,,lineolus,,species,,B1890:1,accepted,,,B1890:1:300,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,Parasyrphus lineolus,8V6NG,1533081,8V6NG,1533081
+B1890:1:303,Parasyrphus macularis,,Parasyrphus,,macularis,,species,,B1890:1,accepted,,,B1890:1:300,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,Parasyrphus macularis,6TQB6,1533062,6TQB6,1533062
+B1890:1:304,Parasyrphus malinellus,,Parasyrphus,,malinellus,,species,,B1890:1,accepted,,,B1890:1:300,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,Parasyrphus malinellus,6TQB7,1533073,6TQB7,1533073
+B1890:1:305,Parasyrphus nigritarsis,,Parasyrphus,,nigritarsis,,species,,B1890:1,accepted,,,B1890:1:300,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,Parasyrphus nigritarsis,75QB8,1533068,75QB8,1533068
+B1890:1:306,Parasyrphus punctulatus,,Parasyrphus,,punctulatus,,species,,B1890:1,accepted,,,B1890:1:300,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,Parasyrphus punctulatus,6TQB9,1533040,6TQB9,1533040
+B1890:1:307,Parasyrphus vittiger,,Parasyrphus,,vittiger,,species,,B1890:1,accepted,,,B1890:1:300,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,Parasyrphus vittiger,,4516588,,4516588
+B1890:1:308,Parhelophilus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Parhelophilus,,Syrphidae,Parhelophilus,BYLSW,1539263,BYLSW,1539263
+B1890:1:309,Parhelophilus consimilis,,Parhelophilus,,consimilis,,species,,B1890:1,accepted,,,B1890:1:308,Parhelophilus,,,,,Syrphidae,,Parhelophilus,,Syrphidae | Parhelophilus,Parhelophilus consimilis,763HT,1539281,763HT,1539281
+B1890:1:310,Parhelophilus frutetorum,,Parhelophilus,,frutetorum,,species,,B1890:1,accepted,,,B1890:1:308,Parhelophilus,,,,,Syrphidae,,Parhelophilus,,Syrphidae | Parhelophilus,Parhelophilus frutetorum,4DLVF,1539293,4DLVF,1539293
+B1890:1:311,Parhelophilus versicolor,,Parhelophilus,,versicolor,,species,,B1890:1,accepted,,,B1890:1:308,Parhelophilus,,,,,Syrphidae,,Parhelophilus,,Syrphidae | Parhelophilus,Parhelophilus versicolor,4DLVR,1539269,4DLVR,1539269
+B1890:1:312,Pelecocera,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Pelecocera,,Syrphidae,Pelecocera,BYLZC,1537579,BYLZC,1537579
+B1890:1:313,Pelecocera tricincta,,Pelecocera,,tricincta,,species,,B1890:1,accepted,,,B1890:1:312,Pelecocera,,,,,Syrphidae,,Pelecocera,,Syrphidae | Pelecocera,Pelecocera tricincta,CPBGG,1537582,CPBGG,1537582
+B1890:1:314,Pipiza,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Pipiza,,Syrphidae,Pipiza,BYMM3,1536264,BYMM3,1536264
+B1890:1:315,Pipiza accola,,Pipiza,,accola,,species,,B1890:1,accepted,,,B1890:1:314,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,Pipiza accola,4J6M6,1536304,4J6M6,1536304
+B1890:1:316,Pipiza austriaca,,Pipiza,,austriaca,,species,,B1890:1,accepted,,,B1890:1:314,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,Pipiza austriaca,CPB3R,1536326,4J6NH,1536318
+B1890:1:317,Pipiza fasciata,,Pipiza,,fasciata,,species,,B1890:1,accepted,,,B1890:1:314,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,Pipiza fasciata,CPB3S,1536270,CPB3S,1536270
+B1890:1:318,Pipiza fenestrata,,Pipiza,,fenestrata,,species,,B1890:1,synonym,B1890:1:317,Pipiza fasciata,,,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,fenestrata,4J6NG,1536367,4J6NG,1536367
+B1890:1:319,Pipiza festiva,,Pipiza,,festiva,,species,,B1890:1,accepted,,,B1890:1:314,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,Pipiza festiva,4J6NH,1536318,4J6NH,1536318
+B1890:1:320,Pipiza lugubris,,Pipiza,,lugubris,,species,,B1890:1,accepted,,,B1890:1:314,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,Pipiza lugubris,6VKNZ,1536370,6VKNZ,1536370
+B1890:1:321,Pipiza luteitarsis,,Pipiza,,luteitarsis,,species,,B1890:1,accepted,,,B1890:1:314,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,Pipiza luteitarsis,4J6PD,1536360,4J6PD,1536360
+B1890:1:322,Pipiza noctiluca,,Pipiza,,noctiluca,,species,,B1890:1,accepted,,,B1890:1:314,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,Pipiza noctiluca,4J6PX,1536342,4J6PX,1536342
+B1890:1:323,Pipiza notata,,Pipiza,,notata,,species,,B1890:1,accepted,,,B1890:1:314,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,Pipiza notata,CPB3T,1536300,CPB3T,1536300
+B1890:1:324,Pipiza bimaculata,,Pipiza,,bimaculata,,species,,B1890:1,synonym,B1890:1:323,Pipiza notata,,,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,bimaculata,4J6MQ,1536283,4J6MQ,1536283
+B1890:1:325,Pipiza signata,,Pipiza,,signata,,species,,B1890:1,synonym,B1890:1:323,Pipiza notata,,,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,signata,4J6QT,1536313,4J6QT,1536313
+B1890:1:326,Pipiza quadrimaculata,,Pipiza,,quadrimaculata,,species,,B1890:1,accepted,,,B1890:1:314,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,Pipiza quadrimaculata,4J6QG,1536289,4J6QG,1536289
+B1890:1:327,Pipizella,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Pipizella,,Syrphidae,Pipizella,BYMM4,1532919,BYMM4,1532919
+B1890:1:328,Pipizella annulata,,Pipizella,,annulata,,species,,B1890:1,accepted,,,B1890:1:327,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,Pipizella annulata,4J6RH,1532931,4J6RH,1532931
+B1890:1:329,Pipizella divicoi,,Pipizella,,divicoi,,species,,B1890:1,accepted,,,B1890:1:327,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,Pipizella divicoi,4J6RY,1532959,4J6RY,1532959
+B1890:1:330,Pipizella maculipennis,,Pipizella,,maculipennis,,species,,B1890:1,accepted,,,B1890:1:327,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,Pipizella maculipennis,4J6S8,1532927,4J6S8,1532927
+B1890:1:331,Pipizella pennina,,Pipizella,,pennina,,species,,B1890:1,accepted,,,B1890:1:327,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,Pipizella pennina,4J6SM,1532956,4J6SM,1532956
+B1890:1:332,Pipizella viduata,,Pipizella,,viduata,,species,,B1890:1,accepted,,,B1890:1:327,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,Pipizella viduata,4J6SZ,1532982,4J6SZ,1532982
+B1890:1:333,Pipizella virens,,Pipizella,,virens,,species,,B1890:1,accepted,,,B1890:1:327,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,Pipizella virens,4J6T2,1532941,4J6T2,1532941
+B1890:1:334,Pipizella zeneggenensis,,Pipizella,,zeneggenensis,,species,,B1890:1,accepted,,,B1890:1:327,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,Pipizella zeneggenensis,4J6T3,1532976,4J6T3,1532976
+B1890:1:335,Platycheirus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Platycheirus,,Syrphidae,Platycheirus,BY3W3,1542996,BY3W3,1542996
+B1890:1:336,Platycheirus albimanus,,Platycheirus,,albimanus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus albimanus,9HCJ3,4516769,9HCJ3,4516769
+B1890:1:337,Platycheirus ambiguus,,Platycheirus,,ambiguus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus ambiguus,8DDZ6,4516766,8DDZ6,4516766
+B1890:1:338,Platycheirus amplus,,Platycheirus,,amplus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus amplus,92WDL,1543250,92WDL,1543250
+B1890:1:339,Platycheirus angustatus,,Platycheirus,,angustatus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus angustatus,6VQ25,1543227,6VQ25,1543227
+B1890:1:340,Platycheirus aurolateralis,,Platycheirus,,aurolateralis,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus aurolateralis,77PPW,1543207,77PPW,1543207
+B1890:1:341,Platycheirus clypeatus,,Platycheirus,,clypeatus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus clypeatus,4JPF9,1543183,4JPF9,1543183
+B1890:1:342,Platycheirus discimanus,,Platycheirus,,discimanus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus discimanus,92WF7,1543134,92WF7,1543134
+B1890:1:343,Platycheirus europaeus,,Platycheirus,,europaeus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus europaeus,8DDZB,4516756,8DDZB,4516756
+B1890:1:344,Platycheirus fulviventris,,Platycheirus,,fulviventris,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus fulviventris,4JPG3,1543011,4JPG3,1543011
+B1890:1:345,Platycheirus immarginatus,,Platycheirus,,immarginatus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus immarginatus,92WFQ,1543300,92WFQ,1543300
+B1890:1:346,Platycheirus manicatus,,Platycheirus,,manicatus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus manicatus,6VPP3,1543197,6VPP3,1543197
+B1890:1:347,Platycheirus occultus,,Platycheirus,,occultus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus occultus,4JPJ6,1543075,4JPJ6,1543075
+B1890:1:348,Platycheirus parmatus,,Platycheirus,,parmatus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus parmatus,4JPJG,1543031,4JPJG,1543031
+B1890:1:349,Platycheirus peltatus,,Platycheirus,,peltatus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus peltatus,4JPJL,1543292,4JPJL,1543292
+B1890:1:350,Platycheirus perpallidus,,Platycheirus,,perpallidus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus perpallidus,4JPJN,1543239,4JPJN,1543239
+B1890:1:351,Platycheirus scambus,,Platycheirus,,scambus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus scambus,4JPKD,1543125,4JPKD,1543125
+B1890:1:352,Platycheirus scutatus,,Platycheirus,,scutatus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus scutatus,6VPP4,1543099,6VPP4,1543099
+B1890:1:353,Platycheirus splendidus,,Platycheirus,,splendidus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus splendidus,4JPKR,1543096,4JPKR,1543096
+B1890:1:354,Platycheirus sticticus,,Platycheirus,,sticticus,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus sticticus,4JPKV,1543080,4JPKV,1543080
+B1890:1:355,Platycheirus tarsalis,,Platycheirus,,tarsalis,,species,,B1890:1,accepted,,,B1890:1:335,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,Platycheirus tarsalis,,4516771,,1543211
+B1890:1:356,Pocota,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Pocota,,Syrphidae,Pocota,BYMVD,1533099,BYMVD,1533099
+B1890:1:357,Pocota personata,,Pocota,,personata,,species,,B1890:1,accepted,,,B1890:1:356,Pocota,,,,,Syrphidae,,Pocota,,Syrphidae | Pocota,Pocota personata,4KNKL,1533100,4KNKL,1533100
+B1890:1:358,Portevinia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Portevinia,,Syrphidae,Portevinia,BYN26,1536586,BYN26,1536586
+B1890:1:359,Portevinia maculata,,Portevinia,,maculata,,species,,B1890:1,accepted,,,B1890:1:358,Portevinia,,,,,Syrphidae,,Portevinia,,Syrphidae | Portevinia,Portevinia maculata,4LZZD,1536592,4LZZD,1536592
+B1890:1:360,Psarus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Psarus,,Syrphidae,Psarus,BYNGQ,1537620,BYNGQ,1537620
+B1890:1:361,Psarus abdominalis,,Psarus,,abdominalis,,species,,B1890:1,accepted,,,B1890:1:360,Psarus,,,,,Syrphidae,,Psarus,,Syrphidae | Psarus,Psarus abdominalis,4NDNC,5071240,4NDNC,5071240
+B1890:1:362,Psilota,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Psilota,,Syrphidae,Psilota,BY42J,1534962,BY42J,1534962
+B1890:1:363,Psilota anthracina,,Psilota,,anthracina,,species,,B1890:1,accepted,,,B1890:1:362,Psilota,,,,,Syrphidae,,Psilota,,Syrphidae | Psilota,Psilota anthracina,4PJPF,1534984,4PJPF,1534984
+B1890:1:364,Psilota,,,,,,genus,atra,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Psilota,,Syrphidae,Psilota atra,BY42J,1534962,BY42J,1534962
+B1890:1:365,Psilota exilistyla,,Psilota,,exilistyla,,species,,B1890:1,accepted,,,B1890:1:364,Psilota,,,,,Syrphidae,,Psilota,,Syrphidae | Psilota,Psilota exilistyla,8DJY8,9521407,8DJY8,9521407
+B1890:1:366,Pyrophaena,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Pyrophaena,,Syrphidae,Pyrophaena,BYX5N,1544498,BYX5N,1544498
+B1890:1:367,Pyrophaena granditarsa,,Pyrophaena,,granditarsa,,species,,B1890:1,accepted,,,B1890:1:366,Pyrophaena,,,,,Syrphidae,,Pyrophaena,,Syrphidae | Pyrophaena,Pyrophaena granditarsa,9HK7N,5886305,9HK7N,5886305
+B1890:1:368,Platycheirus granditarsa,,Platycheirus,,granditarsa,,species,,B1890:1,synonym,B1890:1:367,Pyrophaena granditarsa,,,,,,,Syrphidae,,Pyrophaena,,Syrphidae | Pyrophaena,Platycheirus granditarsa,,1543002,,1543002
+B1890:1:369,Pyrophaena rosarum,,Pyrophaena,,rosarum,,species,,B1890:1,accepted,,,B1890:1:366,Pyrophaena,,,,,Syrphidae,,Pyrophaena,,Syrphidae | Pyrophaena,Pyrophaena rosarum,9HK7P,4294542,9HK7P,4294542
+B1890:1:370,Platycheirus rosarum,,Platycheirus,,rosarum,,species,,B1890:1,synonym,B1890:1:369,Pyrophaena rosarum,,,,,,,Syrphidae,,Pyrophaena,,Syrphidae | Pyrophaena,Platycheirus rosarum,,1543305,,4294542
+B1890:1:371,Rhingia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Rhingia,,Syrphidae,Rhingia,BYPBL,1537399,BYPBL,1537399
+B1890:1:372,Rhingia borealis,,Rhingia,,borealis,,species,,B1890:1,accepted,,,B1890:1:371,Rhingia,,,,,Syrphidae,,Rhingia,,Syrphidae | Rhingia,Rhingia borealis,8DMTC,1537437,8DMRX,1537436
+B1890:1:373,Rhingia campestris,,Rhingia,,campestris,,species,,B1890:1,accepted,,,B1890:1:371,Rhingia,,,,,Syrphidae,,Rhingia,,Syrphidae | Rhingia,Rhingia campestris,8DMS3,1537412,8DMS3,1537412
+B1890:1:374,Rhingia rostrata,,Rhingia,,rostrata,,species,,B1890:1,accepted,,,B1890:1:371,Rhingia,,,,,Syrphidae,,Rhingia,,Syrphidae | Rhingia,Rhingia rostrata,8DMST,8170685,8DMST,8170685
+B1890:1:375,Riponnensia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Riponnensia,,Syrphidae,Riponnensia,BYZPD,1543421,BYZPD,1543421
+B1890:1:376,Riponnensia splendens,,Riponnensia,,splendens,,species,,B1890:1,accepted,,,B1890:1:375,Riponnensia,,,,,Syrphidae,,Riponnensia,,Syrphidae | Riponnensia,Riponnensia splendens,,4516885,,1537535
+B1890:1:377,Scaeva,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Scaeva,,Syrphidae,Scaeva,BYPVS,1537685,BYPVS,1537685
+B1890:1:378,Scaeva dignota,,Scaeva,,dignota,,species,,B1890:1,accepted,,,B1890:1:377,Scaeva,,,,,Syrphidae,,Scaeva,,Syrphidae | Scaeva,Scaeva dignota,6Y4H9,1537709,6Y4H9,1537709
+B1890:1:379,Scaeva pyrastri,,Scaeva,,pyrastri,,species,,B1890:1,accepted,,,B1890:1:377,Scaeva,,,,,Syrphidae,,Scaeva,,Syrphidae | Scaeva,Scaeva pyrastri,79SHC,1537719,79SHC,1537719
+B1890:1:380,Scaeva selenitica,,Scaeva,,selenitica,,species,,B1890:1,accepted,,,B1890:1:377,Scaeva,,,,,Syrphidae,,Scaeva,,Syrphidae | Scaeva,Scaeva selenitica,6Y4HJ,1537717,6Y4HJ,1537717
+B1890:1:381,Sericomyia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Sericomyia,,Syrphidae,Sericomyia,BYQ5M,1538780,BYQ5M,1538780
+B1890:1:382,Sericomyia lappona,,Sericomyia,,lappona,,species,,B1890:1,accepted,,,B1890:1:381,Sericomyia,,,,,Syrphidae,,Sericomyia,,Syrphidae | Sericomyia,Sericomyia lappona,8DWM6,1538831,8DWM6,1538831
+B1890:1:383,Sericomyia silentis,,Sericomyia,,silentis,,species,,B1890:1,accepted,,,B1890:1:381,Sericomyia,,,,,Syrphidae,,Sericomyia,,Syrphidae | Sericomyia,Sericomyia silentis,8DWMD,1538798,8DWMD,1538798
+B1890:1:384,Sphaerophoria,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Sphaerophoria,,Syrphidae,Sphaerophoria,BY4GV,1539106,BY4GV,1539106
+B1890:1:385,Sphaerophoria bankowskae,,Sphaerophoria,,bankowskae,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria bankowskae,8F3RP,1539218,8F3RP,1539218
+B1890:1:386,Sphaerophoria batava,,Sphaerophoria,,batava,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria batava,8F3RQ,1539189,8F3RQ,1539189
+B1890:1:387,Sphaerophoria chongjini,,Sphaerophoria,,chongjini,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria chongjini,8F3RW,1539215,8F3RW,1539215
+B1890:1:388,Sphaerophoria fatarum,,Sphaerophoria,,fatarum,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria fatarum,8F3S4,1539165,8F3S4,1539165
+B1890:1:389,Sphaerophoria interrupta,,Sphaerophoria,,interrupta,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria interrupta,8F3S7,1536614,8F3S7,1536614
+B1890:1:390,Sphaerophoria loewi,,Sphaerophoria,,loewi,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria loewi,9HCYZ,1539169,9HCYZ,1539169
+B1890:1:391,Sphaerophoria philanthus,,Sphaerophoria,,philanthus,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria philanthus,8TN7C,4516743,8TN7C,4516743
+B1890:1:392,Sphaerophoria potentillae,,Sphaerophoria,,potentillae,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria potentillae,8F3SL,1539234,8F3SL,1539234
+B1890:1:393,Sphaerophoria rueppelli,,Sphaerophoria,,rueppelli,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria rueppelli,8F3SN,4516745,8F3SN,4516745
+B1890:1:394,Sphaerophoria scripta,,Sphaerophoria,,scripta,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria scripta,8F3SP,1539177,8F3SP,1539177
+B1890:1:395,Sphaerophoria shirchan,,Sphaerophoria,,shirchan,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria shirchan,9HCYW,1539159,9HCYW,1539159
+B1890:1:396,Sphaerophoria taeniata,,Sphaerophoria,,taeniata,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria taeniata,8F3SR,1539123,8F3SR,1539123
+B1890:1:397,Sphaerophoria virgata,,Sphaerophoria,,virgata,,species,,B1890:1,accepted,,,B1890:1:384,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,Sphaerophoria virgata,8F3SS,1539192,8F3SS,1539192
+B1890:1:398,Sphegina,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Sphegina,,Syrphidae,Sphegina,BYQMG,1535557,BYQMG,1535557
+B1890:1:399,Sphegina clunipes,,Sphegina,,clunipes,,species,,B1890:1,accepted,,,B1890:1:398,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,Sphegina clunipes,8F42S,1535561,8F42S,1535561
+B1890:1:400,Sphegina elegans,,Sphegina,,elegans,,species,,B1890:1,accepted,,,B1890:1:398,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,Sphegina elegans,8F42W,12092573,8F42W,12092573
+B1890:1:401,Sphegina nigra,,Sphegina,,nigra,,species,,B1890:1,accepted,,,B1890:1:398,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,Sphegina nigra,8F43H,1535642,8F43H,1535642
+B1890:1:402,Sphegina clavata,,Sphegina,,clavata,,species,,B1890:1,synonym,B1890:1:401,Sphegina nigra,,,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,clavata,8F42Q,1535610,8F42Q,1535610
+B1890:1:403,Sphegina sibirica,,Sphegina,,sibirica,,species,,B1890:1,accepted,,,B1890:1:398,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,Sphegina sibirica,8F3ZK,1535634,8F3ZK,1535634
+B1890:1:404,Sphegina verecunda,,Sphegina,,verecunda,,species,,B1890:1,accepted,,,B1890:1:398,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,Sphegina verecunda,8F444,1535651,8F444,1535651
+B1890:1:405,Sphiximorpha,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Sphiximorpha,,Syrphidae,Sphiximorpha,BY5CC,1544135,BY5CC,1544135
+B1890:1:406,Sphiximorpha subsessilis,,Sphiximorpha,,subsessilis,,species,,B1890:1,accepted,,,B1890:1:405,Sphiximorpha,,,,,Syrphidae,,Sphiximorpha,,Syrphidae | Sphiximorpha,Sphiximorpha subsessilis,8F4BF,4516732,8F4BF,4516732
+B1890:1:407,Spilomyia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Spilomyia,,Syrphidae,Spilomyia,7KZR,1538723,7KZR,1538723
+B1890:1:408,Spilomyia manicata,,Spilomyia,,manicata,,species,,B1890:1,accepted,,,B1890:1:407,Spilomyia,,,,,Syrphidae,,Spilomyia,,Syrphidae | Spilomyia,Spilomyia manicata,4Z47X,1538734,4Z47X,1538734
+B1890:1:409,Spilomyia saltuum,,Spilomyia,,saltuum,,species,,B1890:1,accepted,,,B1890:1:407,Spilomyia,,,,,Syrphidae,,Spilomyia,,Syrphidae | Spilomyia,Spilomyia saltuum,4Z489,1538756,4Z489,1538756
+B1890:1:410,Syritta,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Syritta,,Syrphidae,Syritta,BY4LS,1544405,BY4LS,1544405
+B1890:1:411,Syritta pipiens,,Syritta,,pipiens,,species,,B1890:1,accepted,,,B1890:1:410,Syritta,,,,,Syrphidae,,Syritta,,Syrphidae | Syritta,Syritta pipiens,542RH,1544431,542RH,1544431
+B1890:1:412,Syrphus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Syrphus,,Syrphidae,Syrphus,BYR92,1444606,BYR92,1444606
+B1890:1:413,Syrphus nitidifrons,,Syrphus,,nitidifrons,,species,,B1890:1,accepted,,,B1890:1:412,Syrphus,,,,,Syrphidae,,Syrphus,,Syrphidae | Syrphus,Syrphus nitidifrons,8F7SD,1537300,8F7SD,1537300
+B1890:1:414,Syrphus ribesii,,Syrphus,,ribesii,,species,,B1890:1,accepted,,,B1890:1:412,Syrphus,,,,,Syrphidae,,Syrphus,,Syrphidae | Syrphus,Syrphus ribesii,8F7SN,1537266,8F7SN,1537266
+B1890:1:415,Syrphus torvus,,Syrphus,,torvus,,species,,B1890:1,accepted,,,B1890:1:412,Syrphus,,,,,Syrphidae,,Syrphus,,Syrphidae | Syrphus,Syrphus torvus,8F7SS,1537245,8F7SS,1537245
+B1890:1:416,Syrphus vitripennis,,Syrphus,,vitripennis,,species,,B1890:1,accepted,,,B1890:1:412,Syrphus,,,,,Syrphidae,,Syrphus,,Syrphidae | Syrphus,Syrphus vitripennis,8F7ST,1537212,8F7ST,1537212
+B1890:1:417,Temnostoma,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Temnostoma,,Syrphidae,Temnostoma,BYRJH,1538859,BYRJH,1538859
+B1890:1:418,Temnostoma apiforme,,Temnostoma,,apiforme,,species,,B1890:1,accepted,,,B1890:1:417,Temnostoma,,,,,Syrphidae,,Temnostoma,,Syrphidae | Temnostoma,Temnostoma apiforme,8FDGW,1538880,8FDGW,1538880
+B1890:1:419,Temnostoma bombylans,,Temnostoma,,bombylans,,species,,B1890:1,accepted,,,B1890:1:417,Temnostoma,,,,,Syrphidae,,Temnostoma,,Syrphidae | Temnostoma,Temnostoma bombylans,7BP9M,1538889,7BP9M,1538889
+B1890:1:420,Temnostoma meridionale,,Temnostoma,,meridionale,,species,,B1890:1,accepted,,,B1890:1:417,Temnostoma,,,,,Syrphidae,,Temnostoma,,Syrphidae | Temnostoma,Temnostoma meridionale,7BP85,1538873,7BP85,1538873
+B1890:1:421,Temnostoma vespiforme,,Temnostoma,,vespiforme,,species,,B1890:1,accepted,,,B1890:1:417,Temnostoma,,,,,Syrphidae,,Temnostoma,,Syrphidae | Temnostoma,Temnostoma vespiforme,8V6ZY,1538870,8V6ZY,1538870
+B1890:1:422,Trichopsomyia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Trichopsomyia,,Syrphidae,Trichopsomyia,BY4VK,1538645,BY4VK,1538645
+B1890:1:423,Trichopsomyia flavitarsis,,Trichopsomyia,,flavitarsis,,species,,B1890:1,accepted,,,B1890:1:422,Trichopsomyia,,,,,Syrphidae,,Trichopsomyia,,Syrphidae | Trichopsomyia,Trichopsomyia flavitarsis,92XNC,1538647,92XNC,1538647
+B1890:1:424,Trichopsomyia joratensis,,Trichopsomyia,,joratensis,,species,,B1890:1,accepted,,,B1890:1:422,Trichopsomyia,,,,,Syrphidae,,Trichopsomyia,,Syrphidae | Trichopsomyia,Trichopsomyia joratensis,58HV5,1538678,58HV5,1538678
+B1890:1:425,Trichopsomyia lucida,,Trichopsomyia,,lucida,,species,,B1890:1,accepted,,,B1890:1:422,Trichopsomyia,,,,,Syrphidae,,Trichopsomyia,,Syrphidae | Trichopsomyia,Trichopsomyia lucida,58HV8,1538667,58HV8,1538667
+B1890:1:426,Triglyphus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Triglyphus,,Syrphidae,Triglyphus,BY4W7,1544500,BY4W7,1544500
+B1890:1:427,Triglyphus primus,,Triglyphus,,primus,,species,,B1890:1,accepted,,,B1890:1:426,Triglyphus,,,,,Syrphidae,,Triglyphus,,Syrphidae | Triglyphus,Triglyphus primus,58QPN,5072223,58QPN,5072223
+B1890:1:428,Tropidia,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Tropidia,,Syrphidae,Tropidia,BXXWN,1542171,BXXWN,1542171
+B1890:1:429,Tropidia fasciata,,Tropidia,,fasciata,,species,,B1890:1,accepted,,,B1890:1:428,Tropidia,,,,,Syrphidae,,Tropidia,,Syrphidae | Tropidia,Tropidia fasciata,8FJRQ,1542199,8FJRQ,1542199
+B1890:1:430,Tropidia scita,,Tropidia,,scita,,species,,B1890:1,accepted,,,B1890:1:428,Tropidia,,,,,Syrphidae,,Tropidia,,Syrphidae | Tropidia,Tropidia scita,8FJS8,1542175,8FJS8,1542175
+B1890:1:431,Volucella,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Volucella,,Syrphidae,Volucella,BYST4,1483491,BYST4,1483491
+B1890:1:432,Volucella bombylans,,Volucella,,bombylans,,species,,B1890:1,accepted,,,B1890:1:431,Volucella,,,,,Syrphidae,,Volucella,,Syrphidae | Volucella,Volucella bombylans,7FT9W,1541763,7FT9W,1541763
+B1890:1:433,Volucella inanis,,Volucella,,inanis,,species,,B1890:1,accepted,,,B1890:1:431,Volucella,,,,,Syrphidae,,Volucella,,Syrphidae | Volucella,Volucella inanis,5BPFW,1541740,5BPFW,1541740
+B1890:1:434,Volucella inflata,,Volucella,,inflata,,species,,B1890:1,accepted,,,B1890:1:431,Volucella,,,,,Syrphidae,,Volucella,,Syrphidae | Volucella,Volucella inflata,5BPG2,1541819,5BPG2,1541819
+B1890:1:435,Volucella pellucens,,Volucella,,pellucens,,species,,B1890:1,accepted,,,B1890:1:431,Volucella,,,,,Syrphidae,,Volucella,,Syrphidae | Volucella,Volucella pellucens,5BPH6,1541799,5BPH6,1541799
+B1890:1:436,Volucella zonaria,,Volucella,,zonaria,,species,,B1890:1,accepted,,,B1890:1:431,Volucella,,,,,Syrphidae,,Volucella,,Syrphidae | Volucella,Volucella zonaria,5BPK3,1541832,5BPK3,1541832
+B1890:1:437,Xanthandrus,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Xanthandrus,,Syrphidae,Xanthandrus,BY526,1538937,BY526,1538937
+B1890:1:438,Xanthandrus comtus,,Xanthandrus,,comtus,,species,,B1890:1,accepted,,,B1890:1:437,Xanthandrus,,,,,Syrphidae,,Xanthandrus,,Syrphidae | Xanthandrus,Xanthandrus comtus,8FMX5,1538946,8FMX5,1538946
+B1890:1:439,Xanthogramma,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Xanthogramma,,Syrphidae,Xanthogramma,BYYRW,1538494,BYMBX,1538494
+B1890:1:440,Xanthogramma citrofasciatum,,Xanthogramma,,citrofasciatum,,species,,B1890:1,accepted,,,B1890:1:439,Xanthogramma,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,Xanthogramma citrofasciatum,,5766549,,12008023
+B1890:1:441,Xanthogramma dives,,Xanthogramma,,dives,,species,,B1890:1,accepted,,,B1890:1:439,Xanthogramma,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,Xanthogramma dives,,5766548,,11120721
+B1890:1:442,Xanthogramma laetum,,Xanthogramma,,laetum,,species,,B1890:1,accepted,,,B1890:1:439,Xanthogramma,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,Xanthogramma laetum,,5071291,,11221304
+B1890:1:443,Olbiosyrphus laetus,,Olbiosyrphus,,laetus,,species,,B1890:1,synonym,B1890:1:442,Xanthogramma laetum,,,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,Olbiosyrphus laetus,,6098362,,11221304
+B1890:1:444,Xanthogramma pedissequum,,Xanthogramma,,pedissequum,,species,,B1890:1,accepted,,,B1890:1:439,Xanthogramma,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,Xanthogramma pedissequum,,5071297,,11202067
+B1890:1:445,Xanthogramma stackelbergi,,Xanthogramma,,stackelbergi,,species,,B1890:1,accepted,,,B1890:1:439,Xanthogramma,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,Xanthogramma stackelbergi,8FMZP,5071313,8GSTQ,11184283
+B1890:1:446,Xylota,,,,,,genus,,B1890:1,accepted,,,B1890:1:1,Syrphidae,,,,,Syrphidae,,Xylota,,Syrphidae,Xylota,89LD,1541512,89LD,1541512
+B1890:1:447,Xylota abiens,,Xylota,,abiens,,species,,B1890:1,accepted,,,B1890:1:446,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,Xylota abiens,BZFYN,10878032,BZFYN,10878032
+B1890:1:448,Xylota florum,,Xylota,,florum,,species,,B1890:1,accepted,,,B1890:1:446,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,Xylota florum,8FNHJ,1541616,8FNHJ,1541616
+B1890:1:449,Xylota ignava,,Xylota,,ignava,,species,,B1890:1,accepted,,,B1890:1:446,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,Xylota ignava,8FNHQ,1541629,8FNHQ,1541629
+B1890:1:450,Xylota jakutorum,,Xylota,,jakutorum,,species,,B1890:1,accepted,,,B1890:1:446,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,Xylota jakutorum,8FNHT,4516845,8FNHT,4516845
+B1890:1:451,Xylota meigeniana,,Xylota,,meigeniana,,species,,B1890:1,accepted,,,B1890:1:446,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,Xylota meigeniana,8FNHW,1541625,8FNHW,1541625
+B1890:1:452,Xylota segnis,,Xylota,,segnis,,species,,B1890:1,accepted,,,B1890:1:446,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,Xylota segnis,8FNJF,1541562,8FNJF,1541562
+B1890:1:453,Xylota sylvarum,,Xylota,,sylvarum,,species,,B1890:1,accepted,,,B1890:1:446,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,Xylota sylvarum,8FNJP,1541654,8FNJP,1541654
+B1890:1:454,Xylota tarda,,Xylota,,tarda,,species,,B1890:1,accepted,,,B1890:1:446,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,Xylota tarda,8FNJY,1541612,8FNJY,1541612
+B1890:1:455,Xylota xanthocnema,,Xylota,,xanthocnema,,species,,B1890:1,accepted,,,B1890:1:446,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,Xylota xanthocnema,8FNJW,1541545,8FNJW,1541545
