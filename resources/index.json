@@ -812,6 +812,16 @@
     "id": "B101:1",
     "taxonCount": 49
   },
+  "B123:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "id": "B123:1",
+    "taxonCount": 118
+  },
   "B124:1": {
     "levels": [
       "order",
@@ -9472,8 +9482,27 @@
       "subgenus",
       "species"
     ],
+    "catalog": {
+      "key_type": [
+        "checklist"
+      ],
+      "taxon": [
+        "Stratiomyidae"
+      ],
+      "region": [
+        "Europe, Italy"
+      ]
+    },
     "id": "B1734:1",
     "taxonCount": 115
+  },
+  "B1734:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B1734:2",
+    "taxonCount": 6
   },
   "B1735:1": {
     "levels": [

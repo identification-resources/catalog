@@ -1,0 +1,119 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B123:1:1,Elateridae,,,,,,family,,B123:1,accepted,,,,,,,,,Elateridae,,,,,ELATERIDAE,C9LMN,7825,C9LMN,7825
+B123:1:2,Agrypninae,,,,,,subfamily,,B123:1,accepted,,,B123:1:1,Elateridae,,,,,Elateridae,Agrypninae,,,Elateridae,Agrypninae,,,,
+B123:1:3,Agrypnus,,,,,,genus,,B123:1,accepted,,,B123:1:2,Agrypninae,,,,,Elateridae,Agrypninae,Agrypnus,,Elateridae | Agrypninae,Agrypnus,,4404338,,4404338
+B123:1:4,Agrypnus murina,,Agrypnus,,murina,,species,,B123:1,accepted,,,B123:1:3,Agrypnus,,,,,Elateridae,Agrypninae,Agrypnus,,Elateridae | Agrypninae | Agrypnus,murina,,4428942,,4428942
+B123:1:5,Elaterinae,,,,,,subfamily,,B123:1,accepted,,,B123:1:1,Elateridae,,,,,Elateridae,Elaterinae,,,Elateridae,Elaterinae,,,,
+B123:1:6,Procraerus,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Procraerus,,Elateridae | Elaterinae,Procraerus,,8885039,,8885039
+B123:1:7,Procraerus tibialis,,Procraerus,,tibialis,,species,,B123:1,accepted,,,B123:1:6,Procraerus,,,,,Elateridae,Elaterinae,Procraerus,,Elateridae | Elaterinae | Procraerus,tibialis,,4428961,,4428961
+B123:1:8,Ampedus,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae,Ampedus,,4408181,,4408181
+B123:1:9,Ampedus balteatus,,Ampedus,,balteatus,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,balteatus,,4429424,,4429424
+B123:1:10,Ampedus praestus,,Ampedus,,praestus,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,praestus,,4429442,,4429442
+B123:1:11,Ampedus nigerrimus,,Ampedus,,nigerrimus,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,nigerrimus,,4429467,,4429467
+B123:1:12,Ampedus sanguineus,,Ampedus,,sanguineus,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,sanguineus,,4429432,,4429432
+B123:1:13,Ampedus cinnabarinus,,Ampedus,,cinnabarinus,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,cinnabarinus,,4429415,,4429415
+B123:1:14,Ampedus pomonae,,Ampedus,,pomonae,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,pomonae,,4429494,,4429494
+B123:1:15,Ampedus sanguinolentus,,Ampedus,,sanguinolentus,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,sanguinolentus,,4429507,,4429507
+B123:1:16,Ampedus pomorum,,Ampedus,,pomorum,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,pomorum,,4429476,,4429476
+B123:1:17,Ampedus nigroflavus,,Ampedus,,nigroflavus,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,nigroflavus,,4429436,,4429436
+B123:1:18,Ampedus elongatulus,,Ampedus,,elongatulus,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,elongatulus,,4429475,,4429475
+B123:1:19,Ampedus nigrinus,,Ampedus,,nigrinus,,species,,B123:1,accepted,,,B123:1:8,Ampedus,,,,,Elateridae,Elaterinae,Ampedus,,Elateridae | Elaterinae | Ampedus,nigrinus,,4429450,,4429450
+B123:1:20,Elater,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Elater,,Elateridae | Elaterinae,Elater,,4405564,,4405564
+B123:1:21,Elater ferrugineus,,Elater,,ferrugineus,,species,,B123:1,accepted,,,B123:1:20,Elater,,,,,Elateridae,Elaterinae,Elater,,Elateridae | Elaterinae | Elater,ferrugineus,,4429270,,4429270
+B123:1:22,Sericus,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Sericus,,Elateridae | Elaterinae,Sericus,,4428446,,4428446
+B123:1:23,Sericus brunneus,,Sericus,,brunneus,,species,,B123:1,accepted,,,B123:1:22,Sericus,,,,,Elateridae,Elaterinae,Sericus,,Elateridae | Elaterinae | Sericus,brunneus,,4428448,,4428448
+B123:1:24,Melanotus,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Melanotus,,Elateridae | Elaterinae,Melanotus,CQ8SG,1162063,CQ8SG,1162063
+B123:1:25,Melanotus villosus,,Melanotus,,villosus,,species,,B123:1,accepted,,,B123:1:24,Melanotus,,,,,Elateridae,Elaterinae,Melanotus,,Elateridae | Elaterinae | Melanotus,villosus,,5878832,,5878832
+B123:1:26,Melanotus punctolineatus,,Melanotus,,punctolineatus,,species,,B123:1,accepted,,,B123:1:24,Melanotus,,,,,Elateridae,Elaterinae,Melanotus,,Elateridae | Elaterinae | Melanotus,punctolineatus,,6097350,,6097350
+B123:1:27,Agriotes,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Agriotes,,Elateridae | Elaterinae,Agriotes,QYV,1162125,QYV,1162125
+B123:1:28,Agriotes pallidulus,,Agriotes,,pallidulus,,species,,B123:1,accepted,,,B123:1:27,Agriotes,,,,,Elateridae,Elaterinae,Agriotes,,Elateridae | Elaterinae | Agriotes,pallidulus,,5878782,,5878782
+B123:1:29,Agriotes acuminatus,,Agriotes,,acuminatus,,species,,B123:1,accepted,,,B123:1:27,Agriotes,,,,,Elateridae,Elaterinae,Agriotes,,Elateridae | Elaterinae | Agriotes,acuminatus,,5878779,,5878779
+B123:1:30,Agriotes gallicus,,Agriotes,,gallicus,,species,,B123:1,accepted,,,B123:1:27,Agriotes,,,,,Elateridae,Elaterinae,Agriotes,,Elateridae | Elaterinae | Agriotes,gallicus,,5878768,,5878768
+B123:1:31,Agriotes ustulatus,,Agriotes,,ustulatus,,species,,B123:1,accepted,,,B123:1:27,Agriotes,,,,,Elateridae,Elaterinae,Agriotes,,Elateridae | Elaterinae | Agriotes,ustulatus,,5878775,,5878775
+B123:1:32,Agriotes pilosellus,,Agriotes,,pilosellus,,species,,B123:1,accepted,,,B123:1:27,Agriotes,,,,,Elateridae,Elaterinae,Agriotes,,Elateridae | Elaterinae | Agriotes,pilosellus,,5878776,,5878776
+B123:1:33,Agriotes lineatus,,Agriotes,,lineatus,,species,,B123:1,accepted,,,B123:1:27,Agriotes,,,,,Elateridae,Elaterinae,Agriotes,,Elateridae | Elaterinae | Agriotes,lineatus,,1162127,,1162127
+B123:1:34,Agriotes obscurus,,Agriotes,,obscurus,,species,,B123:1,accepted,,,B123:1:27,Agriotes,,,,,Elateridae,Elaterinae,Agriotes,,Elateridae | Elaterinae | Agriotes,obscurus,,5878773,,5878773
+B123:1:35,Agriotes sordidus,,Agriotes,,sordidus,,species,,B123:1,accepted,,,B123:1:27,Agriotes,,,,,Elateridae,Elaterinae,Agriotes,,Elateridae | Elaterinae | Agriotes,sordidus,,4308843,,4308843
+B123:1:36,Agriotes sputator,,Agriotes,,sputator,,species,,B123:1,accepted,,,B123:1:27,Agriotes,,,,,Elateridae,Elaterinae,Agriotes,,Elateridae | Elaterinae | Agriotes,sputator,,5878766,,5878766
+B123:1:37,Ectinus,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Ectinus,,Elateridae | Elaterinae,Ectinus,,4405854,,4405854
+B123:1:38,Ectinus aterrimus,,Ectinus,,aterrimus,,species,,B123:1,accepted,,,B123:1:37,Ectinus,,,,,Elateridae,Elaterinae,Ectinus,,Elateridae | Elaterinae | Ectinus,aterrimus,,4429275,,4429275
+B123:1:39,Dalopius,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Dalopius,,Elateridae | Elaterinae,Dalopius,,4428375,,4428375
+B123:1:40,Dalopius marginatus,,Dalopius,,marginatus,,species,,B123:1,accepted,,,B123:1:39,Dalopius,,,,,Elateridae,Elaterinae,Dalopius,,Elateridae | Elaterinae | Dalopius,marginatus,,4428376,,4428376
+B123:1:41,Idolus,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Idolus,,Elateridae | Elaterinae,Idolus,,9204160,,9204160
+B123:1:42,Idolus picipennis,,Idolus,,picipennis,,species,,B123:1,accepted,,,B123:1:41,Idolus,,,,,Elateridae,Elaterinae,Idolus,,Elateridae | Elaterinae | Idolus,picipennis,,4428676,,4428676
+B123:1:43,Adrastus,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Adrastus,,Elateridae | Elaterinae,Adrastus,,4405003,,4405003
+B123:1:44,Adrastus limbatus,,Adrastus,,limbatus,,species,,B123:1,accepted,,,B123:1:43,Adrastus,,,,,Elateridae,Elaterinae,Adrastus,,Elateridae | Elaterinae | Adrastus,limbatus,,4428908,,4428908
+B123:1:45,Adrastus pallens,,Adrastus,,pallens,,species,,B123:1,accepted,,,B123:1:43,Adrastus,,,,,Elateridae,Elaterinae,Adrastus,,Elateridae | Elaterinae | Adrastus,pallens,,4428922,,4428922
+B123:1:46,Adrastus rachifer,,Adrastus,,rachifer,,species,,B123:1,accepted,,,B123:1:43,Adrastus,,,,,Elateridae,Elaterinae,Adrastus,,Elateridae | Elaterinae | Adrastus,rachifer,,10966874,,10966874
+B123:1:47,Synaptus,,,,,,genus,,B123:1,accepted,,,B123:1:5,Elaterinae,,,,,Elateridae,Elaterinae,Synaptus,,Elateridae | Elaterinae,Synaptus,,4405899,,4405899
+B123:1:48,Synaptus filiformis,,Synaptus,,filiformis,,species,,B123:1,accepted,,,B123:1:47,Synaptus,,,,,Elateridae,Elaterinae,Synaptus,,Elateridae | Elaterinae | Synaptus,filiformis,,4428475,,4428475
+B123:1:49,Cardiophorinae,,,,,,subfamily,,B123:1,accepted,,,B123:1:1,Elateridae,,,,,Elateridae,Cardiophorinae,,,Elateridae,Cardiophorinae,,,,
+B123:1:50,Cardiophorus,,,,,,genus,,B123:1,accepted,,,B123:1:49,Cardiophorinae,,,,,Elateridae,Cardiophorinae,Cardiophorus,,Elateridae | Cardiophorinae,Cardiophorus,3HF9,1162059,3HF9,1162059
+B123:1:51,Cardiophorus nigerrimus,,Cardiophorus,,nigerrimus,,species,,B123:1,accepted,,,B123:1:50,Cardiophorus,,,,,Elateridae,Cardiophorinae,Cardiophorus,,Elateridae | Cardiophorinae | Cardiophorus,nigerrimus,,4429186,,4429186
+B123:1:52,Cardiophorus gramineus,,Cardiophorus,,gramineus,,species,,B123:1,accepted,,,B123:1:50,Cardiophorus,,,,,Elateridae,Cardiophorinae,Cardiophorus,,Elateridae | Cardiophorinae | Cardiophorus,gramineus,,4429138,,4429138
+B123:1:53,Cardiophorus ruficollis,,Cardiophorus,,ruficollis,,species,,B123:1,accepted,,,B123:1:50,Cardiophorus,,,,,Elateridae,Cardiophorinae,Cardiophorus,,Elateridae | Cardiophorinae | Cardiophorus,ruficollis,,4429144,,4429144
+B123:1:54,Cardiophorus asellus,,Cardiophorus,,asellus,,species,,B123:1,accepted,,,B123:1:50,Cardiophorus,,,,,Elateridae,Cardiophorinae,Cardiophorus,,Elateridae | Cardiophorinae | Cardiophorus,asellus,,4429149,,4429149
+B123:1:55,Dicronychus,,,,,,genus,,B123:1,accepted,,,B123:1:49,Cardiophorinae,,,,,Elateridae,Cardiophorinae,Dicronychus,,Elateridae | Cardiophorinae,Dicronychus,,10989572,,10989572
+B123:1:56,Dicronychus cinereus,,Dicronychus,,cinereus,,species,,B123:1,accepted,,,B123:1:55,Dicronychus,,,,,Elateridae,Cardiophorinae,Dicronychus,,Elateridae | Cardiophorinae | Dicronychus,cinereus,,4429386,,4429386
+B123:1:57,Dicronychus equisetioides,,Dicronychus,,equisetioides,,species,,B123:1,accepted,,,B123:1:55,Dicronychus,,,,,Elateridae,Cardiophorinae,Dicronychus,,Elateridae | Cardiophorinae | Dicronychus,equisetioides,,6985986,,6985986
+B123:1:58,Dicronychus equiseti,,Dicronychus,,equiseti,,species,,B123:1,accepted,,,B123:1:55,Dicronychus,,,,,Elateridae,Cardiophorinae,Dicronychus,,Elateridae | Cardiophorinae | Dicronychus,equiseti,,4429401,,4429401
+B123:1:59,Denticollinae,,,,,,subfamily,,B123:1,accepted,,,B123:1:1,Elateridae,,,,,Elateridae,Denticollinae,,,Elateridae,Denticollinae,,,,
+B123:1:60,Hemicrepidius,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Hemicrepidius,,Elateridae | Denticollinae,Hemicrepidius,,4429351,,4429351
+B123:1:61,Hemicrepidius niger,,Hemicrepidius,,niger,,species,,B123:1,accepted,,,B123:1:60,Hemicrepidius,,,,,Elateridae,Denticollinae,Hemicrepidius,,Elateridae | Denticollinae | Hemicrepidius,niger,,4429352,,4429352
+B123:1:62,Hemicrepidius hirtus,,Hemicrepidius,,hirtus,,species,,B123:1,accepted,,,B123:1:60,Hemicrepidius,,,,,Elateridae,Denticollinae,Hemicrepidius,,Elateridae | Denticollinae | Hemicrepidius,hirtus,,4429353,,4429353
+B123:1:63,Athous,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Athous,,Elateridae | Denticollinae,Athous,,3261301,,3261301
+B123:1:64,Athous haemorrhoidalis,,Athous,,haemorrhoidalis,,species,,B123:1,accepted,,,B123:1:63,Athous,,,,,Elateridae,Denticollinae,Athous,,Elateridae | Denticollinae | Athous,haemorrhoidalis,,4428495,,4428495
+B123:1:65,Athous vittatus,,Athous,,vittatus,,species,,B123:1,accepted,,,B123:1:63,Athous,,,,,Elateridae,Denticollinae,Athous,,Elateridae | Denticollinae | Athous,vittatus,,4428491,,4428491
+B123:1:66,Athous subfuscus,,Athous,,subfuscus,,species,,B123:1,accepted,,,B123:1:63,Athous,,,,,Elateridae,Denticollinae,Athous,,Elateridae | Denticollinae | Athous,subfuscus,,4428521,,4428521
+B123:1:67,Athous bicolor,,Athous,,bicolor,,species,,B123:1,accepted,,,B123:1:63,Athous,,,,,Elateridae,Denticollinae,Athous,,Elateridae | Denticollinae | Athous,bicolor,,4428652,,4428652
+B123:1:68,Athous campyloides,,Athous,,campyloides,,species,,B123:1,accepted,,,B123:1:63,Athous,,,,,Elateridae,Denticollinae,Athous,,Elateridae | Denticollinae | Athous,campyloides,,4428657,,4428657
+B123:1:69,Pheletes,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Pheletes,,Elateridae | Denticollinae,Pheletes,,4429315,,4429315
+B123:1:70,Pheletes aeneoniger,,Pheletes,,aeneoniger,,species,,B123:1,accepted,,,B123:1:69,Pheletes,,,,,Elateridae,Denticollinae,Pheletes,,Elateridae | Denticollinae | Pheletes,aeneoniger,,4429316,,4429316
+B123:1:71,Stenagostus,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Stenagostus,,Elateridae | Denticollinae,Stenagostus,,4407321,,4407321
+B123:1:72,Stenagostus rhombeus,,Stenagostus,,rhombeus,,species,,B123:1,accepted,,,B123:1:71,Stenagostus,,,,,Elateridae,Denticollinae,Stenagostus,,Elateridae | Denticollinae | Stenagostus,rhombeus,,4428693,,4428693
+B123:1:73,Denticollis,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Denticollis,,Elateridae | Denticollinae,Denticollis,,4428874,,4428874
+B123:1:74,Denticollis linearis,,Denticollis,,linearis,,species,,B123:1,accepted,,,B123:1:73,Denticollis,,,,,Elateridae,Denticollinae,Denticollis,,Elateridae | Denticollinae | Denticollis,linearis,,4428881,,4428881
+B123:1:75,Cidnopus,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Cidnopus,,Elateridae | Denticollinae,Cidnopus,,4407696,,4407696
+B123:1:76,Cidnopus pilosus,,Cidnopus,,pilosus,,species,,B123:1,accepted,,,B123:1:75,Cidnopus,,,,,Elateridae,Denticollinae,Cidnopus,,Elateridae | Denticollinae | Cidnopus,pilosus,,4429033,,4429033
+B123:1:77,Cidnopus aeruginosus,,Cidnopus,,aeruginosus,,species,,B123:1,accepted,,,B123:1:75,Cidnopus,,,,,Elateridae,Denticollinae,Cidnopus,,Elateridae | Denticollinae | Cidnopus,aeruginosus,,4429035,,4429035
+B123:1:78,Limonius,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Limonius,,Elateridae | Denticollinae,Limonius,62YMS,1162132,62YMS,1162132
+B123:1:79,Limonius minutus,,Limonius,,minutus,,species,,B123:1,accepted,,,B123:1:78,Limonius,,,,,Elateridae,Denticollinae,Limonius,,Elateridae | Denticollinae | Limonius,minutus,,4429521,,4429521
+B123:1:80,Nothodes,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Nothodes,,Elateridae | Denticollinae,Nothodes,,4405028,,4405028
+B123:1:81,Nothodes parvulus,,Nothodes,,parvulus,,species,,B123:1,accepted,,,B123:1:80,Nothodes,,,,,Elateridae,Denticollinae,Nothodes,,Elateridae | Denticollinae | Nothodes,parvulus,,4429375,,4429375
+B123:1:82,Hypnoidus,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Hypnoidus,,Elateridae | Denticollinae,Hypnoidus,,4406839,,4406839
+B123:1:83,Hypnoidus riparius,,Hypnoidus,,riparius,,species,,B123:1,accepted,,,B123:1:82,Hypnoidus,,,,,Elateridae,Denticollinae,Hypnoidus,,Elateridae | Denticollinae | Hypnoidus,riparius,,4428867,,4428867
+B123:1:84,Ctenicera,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Ctenicera,,Elateridae | Denticollinae,Ctenicera,3WX7,1162115,3WX7,1162115
+B123:1:85,Ctenicera pectinicornis,,Ctenicera,,pectinicornis,,species,,B123:1,accepted,,,B123:1:84,Ctenicera,,,,,Elateridae,Denticollinae,Ctenicera,,Elateridae | Denticollinae | Ctenicera,pectinicornis,,4429298,,4429298
+B123:1:86,Ctenicera cuprea,,Ctenicera,,cuprea,,species,,B123:1,accepted,,,B123:1:84,Ctenicera,,,,,Elateridae,Denticollinae,Ctenicera,,Elateridae | Denticollinae | Ctenicera,cuprea,,4429289,,4429289
+B123:1:87,Actenicerus,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Actenicerus,,Elateridae | Denticollinae,Actenicerus,,4405351,,4405351
+B123:1:88,Actenicerus sjaelandicus,,Actenicerus,,sjaelandicus,,species,,B123:1,accepted,,,B123:1:87,Actenicerus,,,,,Elateridae,Denticollinae,Actenicerus,,Elateridae | Denticollinae | Actenicerus,sjaelandicus,,4429370,,4429370
+B123:1:89,Prosternon,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Prosternon,,Elateridae | Denticollinae,Prosternon,,4404978,,4404978
+B123:1:90,Prosternon tesselatum,,Prosternon,,tesselatum,,species,,B123:1,accepted,,,B123:1:89,Prosternon,,,,,Elateridae,Denticollinae,Prosternon,,Elateridae | Denticollinae | Prosternon,tesselatum,,4428461,,4428461
+B123:1:91,Anostirus,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Anostirus,,Elateridae | Denticollinae,Anostirus,,4407285,,4407285
+B123:1:92,Anostirus purpureus,,Anostirus,,purpureus,,species,,B123:1,accepted,,,B123:1:91,Anostirus,,,,,Elateridae,Denticollinae,Anostirus,,Elateridae | Denticollinae | Anostirus,purpureus,,4428407,,4428407
+B123:1:93,Anostirus castaneus,,Anostirus,,castaneus,,species,,B123:1,accepted,,,B123:1:91,Anostirus,,,,,Elateridae,Denticollinae,Anostirus,,Elateridae | Denticollinae | Anostirus,castaneus,,4428398,,4428398
+B123:1:94,Aplotarsus,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Aplotarsus,,Elateridae | Denticollinae,Aplotarsus,,4406566,,4406566
+B123:1:95,Aplotarsus incanus,,Aplotarsus,,incanus,,species,,B123:1,accepted,,,B123:1:94,Aplotarsus,,,,,Elateridae,Denticollinae,Aplotarsus,,Elateridae | Denticollinae | Aplotarsus,incanus,,4428862,,4428862
+B123:1:96,Paraphotistus,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Paraphotistus,,Elateridae | Denticollinae,Paraphotistus,,4405665,,4405665
+B123:1:97,Paraphotistus nigricornis,,Paraphotistus,,nigricornis,,species,,B123:1,accepted,,,B123:1:96,Paraphotistus,,,,,Elateridae,Denticollinae,Paraphotistus,,Elateridae | Denticollinae | Paraphotistus,nigricornis,,4428987,,4428987
+B123:1:98,Paraphotistus impressus,,Paraphotistus,,impressus,,species,,B123:1,accepted,,,B123:1:96,Paraphotistus,,,,,Elateridae,Denticollinae,Paraphotistus,,Elateridae | Denticollinae | Paraphotistus,impressus,,4428983,,4428983
+B123:1:99,Selatosomus,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Selatosomus,,Elateridae | Denticollinae,Selatosomus,,4404324,,4404324
+B123:1:100,Selatosomus aeneus,,Selatosomus,,aeneus,,species,,B123:1,accepted,,,B123:1:99,Selatosomus,,,,,Elateridae,Denticollinae,Selatosomus,,Elateridae | Denticollinae | Selatosomus,aeneus,,4429000,,4429000
+B123:1:101,Selatosomus latus,,Selatosomus,,latus,,species,,B123:1,accepted,,,B123:1:99,Selatosomus,,,,,Elateridae,Denticollinae,Selatosomus,,Elateridae | Denticollinae | Selatosomus,latus,,5878911,,5878911
+B123:1:102,Selatosomus cruciatus,,Selatosomus,,cruciatus,,species,,B123:1,accepted,,,B123:1:99,Selatosomus,,,,,Elateridae,Denticollinae,Selatosomus,,Elateridae | Denticollinae | Selatosomus,cruciatus,,4429018,,4429018
+B123:1:103,Hypoganus,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Hypoganus,,Elateridae | Denticollinae,Hypoganus,,4406744,,4406744
+B123:1:104,Hypoganus inunctus,,Hypoganus,,inunctus,,species,,B123:1,accepted,,,B123:1:103,Hypoganus,,,,,Elateridae,Denticollinae,Hypoganus,,Elateridae | Denticollinae | Hypoganus,inunctus,,4428855,,4428855
+B123:1:105,Calambus,,,,,,genus,,B123:1,accepted,,,B123:1:59,Denticollinae,,,,,Elateridae,Denticollinae,Calambus,,Elateridae | Denticollinae,Calambus,,4406682,,4406682
+B123:1:106,Calambus bipustulatus,,Calambus,,bipustulatus,,species,,B123:1,accepted,,,B123:1:105,Calambus,,,,,Elateridae,Denticollinae,Calambus,,Elateridae | Denticollinae | Calambus,bipustulatus,,4429349,,4429349
+B123:1:107,Negastriinae,,,,,,subfamily,,B123:1,accepted,,,B123:1:1,Elateridae,,,,,Elateridae,Negastriinae,,,Elateridae,Negastriinae,,,,
+B123:1:108,Negastrius,,,,,,genus,,B123:1,accepted,,,B123:1:107,Negastriinae,,,,,Elateridae,Negastriinae,Negastrius,,Elateridae | Negastriinae,Negastrius,,4406618,,4406618
+B123:1:109,Negastrius sabulicola,,Negastrius,,sabulicola,,species,,B123:1,accepted,,,B123:1:108,Negastrius,,,,,Elateridae,Negastriinae,Negastrius,,Elateridae | Negastriinae | Negastrius,sabulicola,,4428420,,4428420
+B123:1:110,Negastrius pulchellus,,Negastrius,,pulchellus,,species,,B123:1,accepted,,,B123:1:108,Negastrius,,,,,Elateridae,Negastriinae,Negastrius,,Elateridae | Negastriinae | Negastrius,pulchellus,,4428416,,4428416
+B123:1:111,Zorochros,,,,,,genus,,B123:1,accepted,,,B123:1:107,Negastriinae,,,,,Elateridae,Negastriinae,Zorochros,,Elateridae | Negastriinae,Zorochros,,4404341,,4404341
+B123:1:112,Zorochros dermestoides,,Zorochros,,dermestoides,,species,,B123:1,accepted,,,B123:1:111,Zorochros,,,,,Elateridae,Negastriinae,Zorochros,,Elateridae | Negastriinae | Zorochros,dermestoides,,4428710,,4428710
+B123:1:113,Zorochros dufouri,,Zorochros,,dufouri,,species,,B123:1,accepted,,,B123:1:111,Zorochros,,,,,Elateridae,Negastriinae,Zorochros,,Elateridae | Negastriinae | Zorochros,dufouri,,4428719,,4428719
+B123:1:114,Zorochros meridionalis,,Zorochros,,meridionalis,,species,,B123:1,accepted,,,B123:1:111,Zorochros,,,,,Elateridae,Negastriinae,Zorochros,,Elateridae | Negastriinae | Zorochros,meridionalis,,4428732,,4428732
+B123:1:115,Quasimus,,,,,,genus,,B123:1,accepted,,,B123:1:107,Negastriinae,,,,,Elateridae,Negastriinae,Quasimus,,Elateridae | Negastriinae,Quasimus,,9477260,,9477260
+B123:1:116,Quasimus minutissimus,,Quasimus,,minutissimus,,species,,B123:1,accepted,,,B123:1:115,Quasimus,,,,,Elateridae,Negastriinae,Quasimus,,Elateridae | Negastriinae | Quasimus,minutissimus,,4428957,,4428957
+B123:1:117,Oedostethus,,,,,,genus,,B123:1,accepted,,,B123:1:107,Negastriinae,,,,,Elateridae,Negastriinae,Oedostethus,,Elateridae | Negastriinae,Oedostethus,,4429328,,4429328
+B123:1:118,Oedostethus quadripustulatus,,Oedostethus,,quadripustulatus,,species,,B123:1,accepted,,,B123:1:117,Oedostethus,,,,,Elateridae,Negastriinae,Oedostethus,,Elateridae | Negastriinae | Oedostethus,quadripustulatus,,4429333,,4429333

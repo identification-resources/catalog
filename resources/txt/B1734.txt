@@ -4,6 +4,10 @@ levels:
   - genus
   - subgenus
   - species
+catalog:
+  key_type: checklist
+  taxon: Stratiomyidae
+  region: Europe, Italy
 ---
 
 Stratiomyidae
@@ -121,3 +125,18 @@ Stratiomyidae
   Zabrachia
       minutissima (Zetterstedt, 1838)
       tenella (Jaennicke, 1866)
+
+===
+
+---
+levels:
+  - genus
+  - species
+---
+
+Chorisops
+  caroli Troiano, 1995
+  masoni Troiano & Toscano, 1995
+  nagatomii Rozkošný, 1979
+  tibialis (Meigen, 1820)
+  tunisiae (Becker, 1915)
