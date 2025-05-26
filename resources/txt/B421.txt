@@ -6,20 +6,20 @@ levels:
   - species
   - subspecies
 catalog:
-  pages: 593-
+  pages: 593-598
 ---
 
 Sapyginae
   Asmisapyga nov. gen.
       warnckei nov. sp.
-  Monosapyga Pic, 1920
+  Monosapyga PIC, 1920
       clavicornis Linnaeus, 1758
         = Apis clavicornis Linnaeus, 1758
         = Scolia prisma Fabricius, 1787
-        = Sapyga prisma var. ininterrupta Pic, 1920
-        = Sapyga prisma var. triinterrupta Pic, 1920
-      theresae Pic, 1920: West Europe.
-        = Sapyga theresae Pic, 1920
+        = Sapyga prisma var. ininterrupta PIC, 1920
+        = Sapyga prisma var. triinterrupta PIC, 1920
+      theresae PIC, 1920: West Europe.
+        = Sapyga theresae PIC, 1920
   Polochridium Gussakovskij, 1933
       eoum Gussakovskij, 1933
         = Polochrum koreanum Sugihara & Kim, 1936
@@ -31,23 +31,23 @@ Sapyginae
         = Aclastocera frivaldskii Foerster, 1855
   Sapyga Latreille, 1796
     = Hellus Fabricius, 1804
-    Arthrosapyga Pic, 1920
-      sancta Pic, 1920
+    Arthrosapyga PIC, 1920
+      sancta PIC, 1920
     Polosapyga nov. subgen.
       singla nov. sp.
     Rectosapyga Kurzenko, 1986
       hissarica Kurzenko, 1986
     Sapyga Latreille, 1796
-      buyssoni Pic, 1928
+      buyssoni PIC, 1928
       caucasica Radoszkowski, 1880
         caucasica caucasica Radoszkowski, 1880
         caucasica schevyrevi Morawitz, 1889
       coma Yasumatsu & Sugihara 1938
-      diversiventris Pic, 1920
+      diversiventris PIC, 1920
       glasunovi Morawitz, 1893
       gussakovskii Kurzenko, 1986
-      luteomaculata Pic, 1920
-      multinotata Pic, 1920
+      luteomaculata PIC, 1920
+      multinotata PIC, 1920
       mutica nov. sp.
       pulcherrima Morawitz, 1894
       quinquepunctata
@@ -63,7 +63,7 @@ Sapyginae
           = Sapyga punctum Lamarck, 1817
           = Sapyga varia Lepeletier, 1825
           = Sapyga decipiens Lepeletier, 1825
-          = Sapyga quinquepunctata var. arvenica Pic, 1925
+          = Sapyga quinquepunctata var. arvenica PIC, 1925
       raddi Kurzenko, 1986
       similis (Fabricius, 1793)
         = Sirex similis Fabricius, 1793
@@ -81,3 +81,110 @@ Sapyginae
         = Sapygina nigra Tournier, 1889
       maloasiatica nov. sp.
       schwarzi nov. sp.
+
+===
+
+---
+levels:
+  - family
+  - subfamily
+  - genus
+  - subgenus
+  - species
+  - subspecies
+catalog:
+  title: Checklist of palaearctic genera and species of Sapygidae
+  pages: 599-604
+  taxon: Sapygidae
+  region: Palearctic
+---
+
+Sapygidae
+  Fedtschenkiinae
+    Fedtschenkia SAUSSURE, 1880
+      = Cosila
+        grossa SAUSSURE, 1880
+        indigotea RADOSZKOWSKI, 1886
+        libanoi GUIGLIA, 1966
+        palaestinensis GUIGLIA, 1963
+  Sapyginae
+    Asmisapyga gen. nov.
+        warnckei sp. nov.
+    Monosapyga PIC, 1920
+        clavicornis LINNAEUS, 1758
+          = Apis clavicornis LINNAEUS, 1758
+          = Scolia prisma FABRICIUS, 1787
+          = Sapyga prisma var. ininterrupta PIC, 1920
+          = Sapyga prisma var. triinterrupta PIC, 1920
+        theresae PIC, 1920
+          = Sapyga theresae PIC, 1920
+            > Sapyga theresae PIC, 1920
+    Polochridium GUSSAKOVSKIJ, 1933
+        eoum GUSSAKOVSKIJ, 1933
+          = Polochrum koreanum SUGIHARA & KIM, 1936
+    Polochrum SPINOLA, 1805
+        = Dimorpha PANZER, 1806
+        = Aclastocera FOERSTER, 1855
+        pamirepandum KURZENKO, 1986
+        repandum SPINOLA, 1805
+          = Aclastocera frivaldskii FOERSTER, 1855
+    Sapyga LATREILLE, 1796
+      = Hellus FABRICIUS, 1804
+      Arthrosapyga PIC, 1920
+        sancta PIC, 1920
+      Polosapyga subgen. nov.
+        singla sp. nov.
+      Rectosapyga KURZENKO, 1986
+        hissarica KURZENKO, 1986
+      Sapyga LATREILLE, 1796
+        buyssoni PIC, 1928
+        caucasica RADOSZKOWSKI, 1880
+          caucasica caucasica RADOSZKOWSKI, 1880
+          caucasica schevyrevi MORAWITZ, 1889
+        coma YASUMATSU & SUGIHARA, 1938
+        diversiventris PIC, 1920
+        glasunovi MORAWITZ, 1893
+        gussakovskii KURZENKO, 1986
+        luteomaculata PIC, 1920
+        multinotata PIC, 1920
+        mutica sp. nov.
+        pulcherrima MORAWITZ, 1894
+        quinquepunctata (FABRICIUS, 1781)
+          quinquepunctata quinquepunctata (FABRICIUS, 1781)
+            = Scolia quinquepunctata FABRICIUS, 1781
+              > Scolia quinquepunctata FABRICIUS, 1781
+            = Scolia quadriguttata FABRICIUS, 1781
+            = Sphex tricolor SCHRANK, 1781
+            = Sirex pacca FABRICIUS, 1787
+            = Scolia sexguttata FABRICIUS, 1793
+            = Sapyga punctata KLUG, 1803
+            = Hellus sexpunctata FABRICIUS, 1804
+            = Hellus quadripunctatus FABRICIUS, 1804
+            = Sapyga punctum LAMARCK, 1817
+            = Sapyga varia LEPELETER, 1825
+            = Sapyga decipiens LEPELETIER, 1825
+            = Sapyga quinquepunctata var. arvenica PIC, 1925
+        raddi KURZENKO, 1986
+        similis (FABRICIUS, 1793)
+          = Sirex similis FABRICIUS, 1793
+          = Sapyga variegata DAHLBOM, 1844
+          = Sapyga exomata GERSTAECKER, 1861
+          = Sapyga pedestris GERSTAECKER, 1861
+          = Sapyga rufipes A. COSTA, 1864
+        gusenleitneri sp. nov.
+        biguttata (FABRICIUS, 1787)
+          = Scolia biguttata FABRICIUS, 1787
+          = Scolia octoguttata FABRICIUS, 1793 error
+        octoguttata DUFOUR, 1849
+          = Sapyga fiducaria DUFOUR, 1849
+    Sapygina A. COSTA, 1887
+        decemguttata (JURINE, 1807)
+          = Sapyga decemguttata JURINE, 1807
+          = Meria millefolii LEPELETER, 1825
+          = Sapyga chelostomae ROBINEAU, 1836
+          = Myzine panzeri GUERIN, 1837
+            > Myzine panzeri GUERIN, 1837
+          = Polochrum cylindricum SCHENK, 1857
+          = Sapygina nigra TOURNIER, 1889
+        maloasiatica sp. nov.
+        schwarzi sp. nov.
