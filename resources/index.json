@@ -10054,5 +10054,135 @@
     ],
     "id": "B1890:1",
     "taxonCount": 455
+  },
+  "B2019:1": {
+    "levels": [
+      "family"
+    ],
+    "catalog": {
+      "title": [
+        "Key to families"
+      ],
+      "pages": "30-40",
+      "key_type": [
+        "key"
+      ],
+      "target_taxa": [
+        "family"
+      ]
+    },
+    "id": "B2019:1",
+    "taxonCount": 43
+  },
+  "B2019:2": {
+    "levels": [
+      "family",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "46-386",
+      "key_type": [
+        "reference"
+      ]
+    },
+    "id": "B2019:2",
+    "taxonCount": 1499
+  },
+  "B2019:3": {
+    "levels": [
+      "family",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "A Checklist of the micro-moths of Britain and Ireland"
+      ],
+      "pages": "394-406",
+      "key_type": [
+        "checklist"
+      ]
+    },
+    "id": "B2019:3",
+    "taxonCount": 2230
+  },
+  "B2020:1": {
+    "levels": [
+      "family"
+    ],
+    "catalog": {
+      "title": [
+        "Key to families"
+      ],
+      "pages": "30-40",
+      "key_type": [
+        "key"
+      ],
+      "target_taxa": [
+        "family"
+      ]
+    },
+    "id": "B2020:1",
+    "taxonCount": 43
+  },
+  "B2020:2": {
+    "levels": [
+      "family",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "46-386",
+      "key_type": [
+        "reference"
+      ]
+    },
+    "id": "B2020:2",
+    "taxonCount": 1499
+  },
+  "B2020:3": {
+    "levels": [
+      "family",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "A Checklist of the micro-moths of Britain and Ireland"
+      ],
+      "pages": "394-406",
+      "key_type": [
+        "checklist"
+      ]
+    },
+    "id": "B2020:3",
+    "taxonCount": 2230
+  },
+  "B2038:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "id": "B2038:1",
+    "taxonCount": 210
+  },
+  "B2039:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "id": "B2039:1",
+    "taxonCount": 210
   }
 }
