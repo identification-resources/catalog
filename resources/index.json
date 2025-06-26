@@ -10088,7 +10088,7 @@
       ]
     },
     "id": "B2019:2",
-    "taxonCount": 1500
+    "taxonCount": 1498
   },
   "B2019:3": {
     "levels": [
@@ -10142,7 +10142,7 @@
       ]
     },
     "id": "B2020:2",
-    "taxonCount": 1500
+    "taxonCount": 1498
   },
   "B2020:3": {
     "levels": [
@@ -10184,5 +10184,20 @@
     ],
     "id": "B2039:1",
     "taxonCount": 210
+  },
+  "B2040:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B2040:1",
+    "taxonCount": 3
+  },
+  "B2041:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2041:1",
+    "taxonCount": 25
   }
 }
