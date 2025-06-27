@@ -3,6 +3,10 @@ levels:
   - species
   - subspecies
   - variety
+flags:
+  - MISSING_PARENT_TAXA
+  - MISSING_SYNONYMS
+  - MISSING_AUTHORSHIP
 ---
 
 Abies alba Mill.

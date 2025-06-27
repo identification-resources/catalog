@@ -9607,8 +9607,28 @@
       "subspecies",
       "variety"
     ],
+    "flags": [
+      "MISSING_PARENT_TAXA",
+      "MISSING_SYNONYMS",
+      "MISSING_AUTHORSHIP"
+    ],
     "id": "B1764:1",
     "taxonCount": 2182
+  },
+  "B1765:1": {
+    "levels": [
+      "species",
+      "subspecies",
+      "variety",
+      "form"
+    ],
+    "flags": [
+      "MISSING_PARENT_TAXA",
+      "MISSING_SYNONYMS",
+      "MISSING_AUTHORSHIP"
+    ],
+    "id": "B1765:1",
+    "taxonCount": 2853
   },
   "B1769:1": {
     "levels": [
