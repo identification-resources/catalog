@@ -1,0 +1,36 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2064:1:1,Tingidae,,,,,,family,,B2064:1,accepted,,,,,,,,,Tingidae,,,,,Tingidae,H9W,7899,H9W,7899
+B2064:1:2,Serenthia,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Serenthia,,Tingidae,Serenthia,,,,
+B2064:1:3,Serenthia ruficornis Germ.,Germ.,Serenthia,,ruficornis,,species,,B2064:1,accepted,,,B2064:1:2,Serenthia,,,,,Tingidae,,Serenthia,,Tingidae | Serenthia,ruficornis Germ.,,,,
+B2064:1:4,Campylosteira,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Campylosteira,,Tingidae,Campylosteira,C94VY,4405993,C94VY,4405993
+B2064:1:5,Campylosteira verna Fall.,Fall.,Campylosteira,,verna,,species,,B2064:1,accepted,,,B2064:1:4,Campylosteira,,,,,Tingidae,,Campylosteira,,Tingidae | Campylosteira,verna Fall.,QHX2,4489041,QHX2,4489041
+B2064:1:6,Acalypta,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Acalypta,,Tingidae,Acalypta,C8WLJ,2020735,C8WLJ,2020735
+B2064:1:7,Acalypta musci Schrk.,Schrk.,Acalypta,,musci,,species,,B2064:1,accepted,,,B2064:1:6,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,musci Schrk.,64BC6,4488988,64BC6,4488988
+B2064:1:8,Acalypta musci f. dilata Put.,Put.,Acalypta,,musci,dilata,form,,B2064:1,accepted,,,B2064:1:7,Acalypta musci Schrk.,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta | Acalypta musci,musci f. dilata Put.,CJVQT,,CJVQT,
+B2064:1:9,Acalypta carinata Pnz.,Pnz.,Acalypta,,carinata,,species,,B2064:1,accepted,,,B2064:1:6,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,carinata Pnz.,8SJR,2020737,8SJR,2020737
+B2064:1:10,Acalypta nigrina Fall.,Fall.,Acalypta,,nigrina,,species,,B2064:1,accepted,,,B2064:1:6,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,nigrina Fall.,8SKF,4488999,8SKF,4488999
+B2064:1:11,Acalypta marginata Wlff.,Wlff.,Acalypta,,marginata,,species,,B2064:1,accepted,,,B2064:1:6,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,marginata Wlff.,64BC3,4489008,64BC3,4489008
+B2064:1:12,Dictyonota,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Dictyonota,,Tingidae,Dictyonota,C9KJL,2020731,C9KJL,2020731
+B2064:1:13,Dictyonota tricornis Schrk.,Schrk.,Dictyonota,,tricornis,,species,,B2064:1,accepted,,,B2064:1:12,Dictyonota,,,,,Tingidae,,Dictyonota,,Tingidae | Dictyonota,tricornis Schrk.,6D55T,2020732,6D55T,2020732
+B2064:1:14,Lasiacantha,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Lasiacantha,,Tingidae,Lasiacantha,CB7CB,4488861,CB7CB,4488861
+B2064:1:15,Lasiacantha capucina Germ.,Germ.,Lasiacantha,,capucina,,species,,B2064:1,accepted,,,B2064:1:14,Lasiacantha,,,,,Tingidae,,Lasiacantha,,Tingidae | Lasiacantha,capucina Germ.,6NYSX,4488865,6NYSX,4488865
+B2064:1:16,Copium,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Copium,,Tingidae,Copium,3TQD,7852310,3TQD,7852310
+B2064:1:17,Copium cornutum Thbg.,Thbg.,Copium,,cornutum,,species,,B2064:1,accepted,,,B2064:1:16,Copium,,,,,Tingidae,,Copium,,Tingidae | Copium,cornutum Thbg.,,6096817,,4488968
+B2064:1:18,Copium teucrii Host.,Host.,Copium,,teucrii,,species,,B2064:1,accepted,,,B2064:1:16,Copium,,,,,Tingidae,,Copium,,Tingidae | Copium,teucrii Host.,Y4XW,4488963,Y4XW,4488963
+B2064:1:19,Tingis,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Tingis,,Tingidae,Tingis,CCCXY,2008274,CCCXY,2008274
+B2064:1:20,Tingis reticulata H. S.,H. S.,Tingis,,reticulata,,species,,B2064:1,accepted,,,B2064:1:19,Tingis,,,,,Tingidae,,Tingis,,Tingidae | Tingis,reticulata H. S.,572ZN,4489108,572ZN,4489108
+B2064:1:21,Tingis pilosa Humm.,Humm.,Tingis,,pilosa,,species,,B2064:1,accepted,,,B2064:1:19,Tingis,,,,,Tingidae,,Tingis,,Tingidae | Tingis,pilosa Humm.,572ZW,4489096,572ZW,4489096
+B2064:1:22,Tingis cardui L.,L.,Tingis,,cardui,,species,,B2064:1,accepted,,,B2064:1:19,Tingis,,,,,Tingidae,,Tingis,,Tingidae | Tingis,cardui L.,7CCSK,2020591,7CCSK,2020591
+B2064:1:23,Tingis ampliata H. S.,H. S.,Tingis,,ampliata,,species,,B2064:1,accepted,,,B2064:1:19,Tingis,,,,,Tingidae,,Tingis,,Tingidae | Tingis,ampliata H. S.,57322,4489081,57322,4489081
+B2064:1:24,Catoplatus,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Catoplatus,,Tingidae,Catoplatus,C96BH,9690119,C96BH,9690119
+B2064:1:25,Catoplatus fabricii Stal,Stal,Catoplatus,,fabricii,,species,,B2064:1,accepted,,,B2064:1:24,Catoplatus,,,,,Tingidae,,Catoplatus,,Tingidae | Catoplatus,fabricii Stal,RV8W,4488886,RV8W,4488886
+B2064:1:26,Physatocheila,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Physatocheila,,Tingidae,Physatocheila,CBRFG,2020696,CBRFG,2020696
+B2064:1:27,Physatocheila quadrimaculata Wlff.,Wlff.,Physatocheila,,quadrimaculata,,species,,B2064:1,accepted,,,B2064:1:26,Physatocheila,,,,,Tingidae,,Physatocheila,,Tingidae | Physatocheila,quadrimaculata Wlff.,,2020700,,4488890
+B2064:1:28,Oncochila,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Oncochila,,Tingidae,Oncochila,,4488974,,4488974
+B2064:1:29,Oncochila simplex H. S.,H. S.,Oncochila,,simplex,,species,,B2064:1,accepted,,,B2064:1:28,Oncochila,,,,,Tingidae,,Oncochila,,Tingidae | Oncochila,simplex H. S.,,4488975,,8159124
+B2064:1:30,Monanthia,,,,,,genus,,B2064:1,accepted,,,B2064:1:1,Tingidae,,,,,Tingidae,,Monanthia,,Tingidae,Monanthia,,2020599,,2020599
+B2064:1:31,Monanthia echii Schrk,Schrk,Monanthia,,echii,,species,,B2064:1,accepted,,,B2064:1:30,Monanthia,,,,,Tingidae,,Monanthia,,Tingidae | Monanthia,echii Schrk,,9582065,,2020607
+B2064:1:32,Monanthia symphyti Vall.,Vall.,Monanthia,,symphyti,,species,,B2064:1,accepted,,,B2064:1:30,Monanthia,,,,,Tingidae,,Monanthia,,Tingidae | Monanthia,symphyti Vall.,,,,
+B2064:1:33,Monanthia humuli F.,F.,Monanthia,,humuli,,species,,B2064:1,accepted,,,B2064:1:30,Monanthia,,,,,Tingidae,,Monanthia,,Tingidae | Monanthia,humuli F.,,10432550,,4488939
+B2064:1:34,Monanthia lupuli H. S.,H. S.,Monanthia,,lupuli,,species,,B2064:1,accepted,,,B2064:1:30,Monanthia,,,,,Tingidae,,Monanthia,,Tingidae | Monanthia,lupuli H. S.,,4488942,,4488941
+B2064:1:35,Monanthia nassata Put.,Put.,Monanthia,,nassata,,species,,B2064:1,accepted,,,B2064:1:30,Monanthia,,,,,Tingidae,,Monanthia,,Tingidae | Monanthia,nassata Put.,,4488958,,4488957

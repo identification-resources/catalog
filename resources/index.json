@@ -10219,5 +10219,127 @@
     ],
     "id": "B2041:1",
     "taxonCount": 25
+  },
+  "B2062:1": {
+    "levels": [
+      "family",
+      "subfamily"
+    ],
+    "id": "B2062:1",
+    "taxonCount": 4
+  },
+  "B2063:1": {
+    "levels": [
+      "subfamily",
+      "tribe"
+    ],
+    "id": "B2063:1",
+    "taxonCount": 4
+  },
+  "B2064:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species",
+      "form"
+    ],
+    "id": "B2064:1",
+    "taxonCount": 35
+  },
+  "B2065:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "genus",
+      "species",
+      "aberration"
+    ],
+    "id": "B2065:1",
+    "taxonCount": 107
+  },
+  "B2066:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2066:1",
+    "taxonCount": 4
+  },
+  "B2067:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2067:1",
+    "taxonCount": 8
+  },
+  "B2068:1": {
+    "levels": [
+      "subfamily",
+      "genus"
+    ],
+    "id": "B2068:1",
+    "taxonCount": 14
+  },
+  "B2069:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus"
+    ],
+    "catalog": {
+      "title": [
+        "Dispositio Generum Familiae Phymatidarum"
+      ],
+      "pages": "222-224"
+    },
+    "id": "B2069:1",
+    "taxonCount": 16
+  },
+  "B2069:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Conspectus Specierum Hucusque Notarum"
+      ],
+      "pages": "231-231",
+      "taxon": [
+        "Cnizocoris"
+      ],
+      "target_taxa": [
+        "species"
+      ]
+    },
+    "id": "B2069:2",
+    "taxonCount": 4
+  },
+  "B2071:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2071:1",
+    "taxonCount": 13
+  },
+  "B2072:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2072:1",
+    "taxonCount": 10
+  },
+  "B2073:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2073:1",
+    "taxonCount": 10
   }
 }
