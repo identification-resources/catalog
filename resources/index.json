@@ -812,6 +812,29 @@
     "id": "B101:1",
     "taxonCount": 49
   },
+  "B102:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B102:1",
+    "taxonCount": 99
+  },
+  "B112:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B112:1",
+    "taxonCount": 243
+  },
   "B123:1": {
     "levels": [
       "family",
@@ -10341,5 +10364,36 @@
     ],
     "id": "B2073:1",
     "taxonCount": 10
+  },
+  "B2075:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus"
+    ],
+    "catalog": {
+      "pages": "307-307",
+      "taxon": [
+        "Notonectidae"
+      ],
+      "target_taxa": [
+        "genus"
+      ]
+    },
+    "id": "B2075:1",
+    "taxonCount": 13
+  },
+  "B2075:2": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "313-318"
+    },
+    "id": "B2075:2",
+    "taxonCount": 98
   }
 }
