@@ -31,6 +31,7 @@
 | `region`     | ✔        | ✔               | The area for which the resource is intended to be used, or a smaller area if the resource is only complete for a part of that area | For [realms](https://en.wikipedia.org/wiki/Biogeographic_realm) just the name, for the entire world a hyphen (`-`), when unknown a question mark (`?`), otherwise `Continent, Country, Region`, `Continent, Country`, or `Continent`, whichever level of precision is applicable |
 | `complete`   | ❌        | ❌               | Whether the resources where thought to be complete at the time | `TRUE` or `FALSE` |
 | `target_taxa` | ❌       | ✔               | To what level the key distinguishes, for example. Leave empty for `collection`s etc. | Taxon ranks |
+| `key_characteristics` | ❌ | ✔             | Characteristics of the key, such as whether it is artificial or systematic, and whether it requires the use of a microscope, when applicable | Plain text |
 | `listed_of`  | ❌        | ✔               | Entries that this entry is listed in | `B` followed by any number of digits (no leading zero) |
 | `part_of`    | ❌        | ✔               | Entries that this entry is correcting or part of | `B` followed by any number of digits (no leading zero) |
 | `version_of` | ❌        | ✔               | Entries that this entry is a version of | `B` followed by any number of digits (no leading zero) |
