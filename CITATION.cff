@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: Please cite the following works when using this software.
+type: dataset
+authors:
+  - family-names: Willighagen
+    given-names: Lars
+    orcid: https://orcid.org/0000-0002-4751-4637
+doi: 10.5281/ZENODO.15552611
+title: Library of Identification Resources Catalog
+url: https://zenodo.org/doi/10.5281/zenodo.15552611
+version: '2025-08-04'
+preferred-citation:
+  authors:
+    - family-names: Willighagen
+      given-names: Lars
+      orcid: https://orcid.org/0000-0002-4751-4637
+    - family-names: Jongejans
+      given-names: Eelke
+      orcid: https://orcid.org/0000-0003-1148-7419
+  doi: 10.3897/bdj.13.e161726
+  title: 'Library of Identification Resources: a FAIR overview of taxonomic keys'
+  url: http://dx.doi.org/10.3897/BDJ.13.e161726
+  date-published: 2025-08-26
+  issn: 1314-2828
+  journal: Biodiversity Data Journal
+  publisher:
+    name: Pensoft Publishers
+  type: article
+  volume: '13'
