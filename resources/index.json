@@ -6933,6 +6933,188 @@
     "id": "B855:7",
     "taxonCount": 6
   },
+  "B877:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "key_type": [
+        "reference"
+      ]
+    },
+    "id": "B877:1",
+    "taxonCount": 202
+  },
+  "B877:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "males"
+      ]
+    },
+    "id": "B877:2",
+    "taxonCount": 178
+  },
+  "B877:3": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "queens"
+      ]
+    },
+    "id": "B877:3",
+    "taxonCount": 197
+  },
+  "B877:4": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "workers"
+      ]
+    },
+    "id": "B877:4",
+    "taxonCount": 193
+  },
+  "B877:5": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "key_type": [
+        "checklist"
+      ],
+      "region": [
+        "Europe, Netherlands",
+        "Europe, Belgium",
+        "Europe, Luxembourg",
+        "Europe, UK"
+      ]
+    },
+    "id": "B877:5",
+    "taxonCount": 293
+  },
+  "B879:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "key_type": [
+        "reference"
+      ]
+    },
+    "id": "B879:1",
+    "taxonCount": 207
+  },
+  "B879:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "males"
+      ]
+    },
+    "id": "B879:2",
+    "taxonCount": 179
+  },
+  "B879:3": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "queens"
+      ]
+    },
+    "id": "B879:3",
+    "taxonCount": 203
+  },
+  "B879:4": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "workers"
+      ]
+    },
+    "id": "B879:4",
+    "taxonCount": 194
+  },
+  "B879:5": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "key_type": [
+        "checklist"
+      ],
+      "region": [
+        "Europe, Netherlands",
+        "Europe, Belgium",
+        "Europe, Luxembourg",
+        "Europe, UK"
+      ]
+    },
+    "id": "B879:5",
+    "taxonCount": 229
+  },
   "B881:1": {
     "levels": [
       "species"
@@ -10472,5 +10654,72 @@
     ],
     "id": "B2162:1",
     "taxonCount": 11
+  },
+  "B2188:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2188:1",
+    "taxonCount": 15
+  },
+  "B2189:1": {
+    "levels": [
+      "genus"
+    ],
+    "id": "B2189:1",
+    "taxonCount": 5
+  },
+  "B2190:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2190:1",
+    "taxonCount": 6
+  },
+  "B2191:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "variety"
+    ],
+    "id": "B2191:1",
+    "taxonCount": 32
+  },
+  "B2192:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2192:1",
+    "taxonCount": 13
+  },
+  "B2193:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2193:1",
+    "taxonCount": 4
+  },
+  "B2194:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2194:1",
+    "taxonCount": 6
+  },
+  "B2195:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2195:1",
+    "taxonCount": 30
   }
 }
