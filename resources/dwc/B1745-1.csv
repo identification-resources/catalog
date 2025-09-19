@@ -282,7 +282,9 @@ B1745:1:280,Tigridia pavonia Juss.,Juss.,Tigridia,,pavonia,,species,,B1745:1,acc
 B1745:1:281,Iris L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:265,Iridaceae,,,,,Iridaceae,,Iris,,Iridaceae,Iris L.,8VS52,2748017,8VS52,2748017
 B1745:1:282,Iris pseudoacorus L.,L.,Iris,,pseudoacorus,,species,,B1745:1,accepted,,,B1745:1:281,Iris L.,,,,,Iridaceae,,Iris,,Iridaceae | Iris,pseudoacorus L.,3PZZR,5298231,3PZZR,5298231
 B1745:1:283,Iris xiphioides Ehrh.,Ehrh.,Iris,,xiphioides,,species,,B1745:1,accepted,,,B1745:1:281,Iris L.,,,,,Iridaceae,,Iris,,Iridaceae | Iris,xiphioides Ehrh.,8WVQ2,5297965,3PZTY,9488226
+B1745:1:3857,Iris anglica Hort.,Hort.,Iris,,anglica,,species,,B1745:1,synonym,B1745:1:283,Iris xiphioides Ehrh.,,,,,,,Iridaceae,,Iris,,Iridaceae | Iris,anglica Hort.,3PZH4,9425034,3PZTY,9488226
 B1745:1:284,Iris xiphium L.,L.,Iris,,xiphium,,species,,B1745:1,accepted,,,B1745:1:281,Iris L.,,,,,Iridaceae,,Iris,,Iridaceae | Iris,xiphium L.,6MXYP,5297966,6MXYP,5297966
+B1745:1:3858,Iris hispanica Hort.,Hort.,Iris,,hispanica,,species,,B1745:1,synonym,B1745:1:284,Iris xiphium L.,,,,,,,Iridaceae,,Iris,,Iridaceae | Iris,hispanica Hort.,3PZRP,5297974,6MXYP,5297966
 B1745:1:285,Iris pumila L.,L.,Iris,,pumila,,species,,B1745:1,accepted,,,B1745:1:281,Iris L.,,,,,Iridaceae,,Iris,,Iridaceae | Iris,pumila L.,3Q225,5298675,3Q225,5298675
 B1745:1:286,Iris florentina L.,L.,Iris,,florentina,,species,,B1745:1,accepted,,,B1745:1:281,Iris L.,,,,,Iridaceae,,Iris,,Iridaceae | Iris,florentina L.,3PZP9,5298079,3PZP9,5298079
 B1745:1:287,Iris pallida Lmk.,Lmk.,Iris,,pallida,,species,,B1745:1,accepted,,,B1745:1:281,Iris L.,,,,,Iridaceae,,Iris,,Iridaceae | Iris,pallida Lmk.,3PZY6,5298086,3PZY6,5298086
@@ -378,7 +380,7 @@ B1745:1:376,Carex stricta Good.,Good.,Carex,,stricta,,species,,B1745:1,accepted,
 B1745:1:377,Carex trinervis Degl.,Degl.,Carex,,trinervis,,species,,B1745:1,accepted,,,B1745:1:354,Carex Mich.,,,,,Cyperaceae,,Carex,,Cyperaceae | Carex,trinervis Degl.,RCCN,2710421,RCCN,2710421
 B1745:1:378,Carex acuta L.,L.,Carex,,acuta,,species,,B1745:1,accepted,,,B1745:1:354,Carex Mich.,,,,,Cyperaceae,,Carex,,Cyperaceae | Carex,acuta L.,R7WG,2722833,R7WG,2722833
 B1745:1:379,Carex vulgaris Fr.,Fr.,Carex,,vulgaris,,species,,B1745:1,accepted,,,B1745:1:354,Carex Mich.,,,,,Cyperaceae,,Carex,,Cyperaceae | Carex,vulgaris Fr.,8W8BR,2729584,5XCKN,2724925
-B1745:1:380,Carex goudenoughii Gay,Gay,Carex,,goudenoughii,,species,,B1745:1,synonym,B1745:1:379,Carex vulgaris Fr.,,,,,,,Cyperaceae,,Carex,,Cyperaceae | Carex,goudenoughii Gay,8W874,8054508,5G8GK,7227152
+B1745:1:380,Carex goodenoughii Gay,Gay,Carex,,goodenoughii,,species,,B1745:1,synonym,B1745:1:379,Carex vulgaris Fr.,,,,,,,Cyperaceae,,Carex,,Cyperaceae | Carex,goodenoughii Gay,8W874,8054508,5G8GK,7227152
 B1745:1:381,Carex vulgaris f. turfosa Fries,Fries,Carex,,vulgaris,turfosa,form,,B1745:1,accepted,,,B1745:1:379,Carex vulgaris Fr.,,,,,Cyperaceae,,Carex,,Cyperaceae | Carex | Carex vulgaris,vulgaris f. turfosa Fries,5MWNN,,5XCF2,
 B1745:1:382,Carex buxbaumii Wahlnb.,Wahlnb.,Carex,,buxbaumii,,species,,B1745:1,accepted,,,B1745:1:354,Carex Mich.,,,,,Cyperaceae,,Carex,,Cyperaceae | Carex,buxbaumii Wahlnb.,R8GK,2724284,R8GK,2724284
 B1745:1:383,Carex limosa L.,L.,Carex,,limosa,,species,,B1745:1,accepted,,,B1745:1:354,Carex Mich.,,,,,Cyperaceae,,Carex,,Cyperaceae | Carex,limosa L.,69B7L,2725881,69B7L,2725881
@@ -434,8 +436,8 @@ B1745:1:432,Scirpus triqueter L.,L.,Scirpus,,triqueter,,species,,B1745:1,accepte
 B1745:1:433,Scirpus duvalii Hoppe,Hoppe,Scirpus,,duvalii,,species,,B1745:1,accepted,,,B1745:1:422,Scirpus Trn.,,,,,Cyperaceae,,Scirpus,,Cyperaceae | Scirpus,duvalii Hoppe,8X5RX,2711152,9RK2N,7312988
 B1745:1:434,Scirpus maritimus L.,L.,Scirpus,,maritimus,,species,,B1745:1,accepted,,,B1745:1:422,Scirpus Trn.,,,,,Cyperaceae,,Scirpus,,Cyperaceae | Scirpus,maritimus L.,79XP2,2718334,MBPL,2718307
 B1745:1:435,Scirpus silvaticus L.,L.,Scirpus,,silvaticus,,species,,B1745:1,accepted,,,B1745:1:422,Scirpus Trn.,,,,,Cyperaceae,,Scirpus,,Cyperaceae | Scirpus,silvaticus L.,4VMQS,2720080,4VMQS,2720080
-B1745:1:436,Scirpus compresus Pers.,Pers.,Scirpus,,compresus,,species,,B1745:1,accepted,,,B1745:1:422,Scirpus Trn.,,,,,Cyperaceae,,Scirpus,,Cyperaceae | Scirpus,compresus Pers.,4VLVC,7904333,M7QZ,2710650
-B1745:1:437,Blysmus compressus Panz.,Panz.,Blysmus,,compressus,,species,,B1745:1,synonym,B1745:1:436,Scirpus compresus Pers.,,,,,,,Cyperaceae,,Scirpus,,Cyperaceae | Scirpus,Blysmus compressus Panz.,M7QZ,2710650,M7QZ,2710650
+B1745:1:436,Scirpus compressus Pers.,Pers.,Scirpus,,compressus,,species,,B1745:1,accepted,,,B1745:1:422,Scirpus Trn.,,,,,Cyperaceae,,Scirpus,,Cyperaceae | Scirpus,compressus Pers.,4VLVC,7904333,M7QZ,2710650
+B1745:1:437,Blysmus compressus Panz.,Panz.,Blysmus,,compressus,,species,,B1745:1,synonym,B1745:1:436,Scirpus compressus Pers.,,,,,,,Cyperaceae,,Scirpus,,Cyperaceae | Scirpus,Blysmus compressus Panz.,M7QZ,2710650,M7QZ,2710650
 B1745:1:438,Scirpus rufus Schrad.,Schrad.,Scirpus,,rufus,,species,,B1745:1,accepted,,,B1745:1:422,Scirpus Trn.,,,,,Cyperaceae,,Scirpus,,Cyperaceae | Scirpus,rufus Schrad.,4VMLX,2710636,M7R5,2710633
 B1745:1:439,Blysmus rufus Huds.,Huds.,Blysmus,,rufus,,species,,B1745:1,synonym,B1745:1:438,Scirpus rufus Schrad.,,,,,,,Cyperaceae,,Scirpus,,Cyperaceae | Scirpus,Blysmus rufus Huds.,M7R5,2710633,M7R5,2710633
 B1745:1:440,Heleocharis R. Br.,R. Br.,,,,,genus,,B1745:1,accepted,,,B1745:1:353,Cyperaceae,,,,,Cyperaceae,,Heleocharis,,Cyperaceae,Heleocharis R. Br.,8WG9K,3584759,8VX8V,2716791
@@ -811,8 +813,8 @@ B1745:1:809,Butomus Trn.,Trn.,,,,,genus,,B1745:1,accepted,,,B1745:1:802,Alismata
 B1745:1:810,Butomus umbellatus L.,L.,Butomus,,umbellatus,,species,,B1745:1,accepted,,,B1745:1:809,Butomus Trn.,,,,,Alismataceae,,Butomus,,Alismataceae | Butomus,umbellatus L.,NZ5R,2864467,NZ5R,2864467
 B1745:1:811,Hydrocharitaceae,,,,,,family,,B1745:1,accepted,,,,,,,,,Hydrocharitaceae,,,,,Hydrocharitaceeën,B8D,3721,B8D,3721
 B1745:1:812,Elodea Rich.,Rich.,,,,,genus,,B1745:1,accepted,,,B1745:1:811,Hydrocharitaceae,,,,,Hydrocharitaceae,,Elodea,,Hydrocharitaceae,Elodea Rich.,8VX9D,7454696,8VX9D,7454696
-B1745:1:813,Elodea canadensis Caps.,Caps.,Elodea,,canadensis,,species,,B1745:1,accepted,,,B1745:1:812,Elodea Rich.,,,,,Hydrocharitaceae,,Elodea,,Hydrocharitaceae | Elodea,canadensis Caps.,39C7P,2865448,39C7P,2865448
-B1745:1:814,Anacharis alsinastrum Babingt.,Babingt.,Anacharis,,alsinastrum,,species,,B1745:1,synonym,B1745:1:813,Elodea canadensis Caps.,,,,,,,Hydrocharitaceae,,Elodea,,Hydrocharitaceae | Elodea,Anacharis alsinastrum Babingt.,DBBC,8628925,39C7P,2865448
+B1745:1:813,Elodea canadensis Casp.,Casp.,Elodea,,canadensis,,species,,B1745:1,accepted,,,B1745:1:812,Elodea Rich.,,,,,Hydrocharitaceae,,Elodea,,Hydrocharitaceae | Elodea,canadensis Casp.,39C7P,2865448,39C7P,2865448
+B1745:1:814,Anacharis alsinastrum Babingt.,Babingt.,Anacharis,,alsinastrum,,species,,B1745:1,synonym,B1745:1:813,Elodea canadensis Casp.,,,,,,,Hydrocharitaceae,,Elodea,,Hydrocharitaceae | Elodea,Anacharis alsinastrum Babingt.,DBBC,8628925,39C7P,2865448
 B1745:1:815,Stratiotes,,,,,,genus,,B1745:1,accepted,,,B1745:1:811,Hydrocharitaceae,,,,,Hydrocharitaceae,,Stratiotes,,Hydrocharitaceae,Stratiotes,8W3V6,2864769,8W3V6,2864769
 B1745:1:816,Stratiotes aloides L.,L.,Stratiotes,,aloides,,species,,B1745:1,accepted,,,B1745:1:815,Stratiotes,,,,,Hydrocharitaceae,,Stratiotes,,Hydrocharitaceae | Stratiotes,aloides L.,52WLH,5329192,52WLH,5329192
 B1745:1:817,Hydrocharis L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:811,Hydrocharitaceae,,,,,Hydrocharitaceae,,Hydrocharis,,Hydrocharitaceae,Hydrocharis L.,8VYDY,2865596,8VYDY,2865596
@@ -1959,7 +1961,7 @@ B1745:1:1957,Umbelliferae,,,,,,family,,B1745:1,accepted,,,,,,,,,Umbelliferae,,,,
 B1745:1:1958,Hydrocotyle Trn.,Trn.,,,,,genus,,B1745:1,accepted,,,B1745:1:1957,Umbelliferae,,,,,Umbelliferae,,Hydrocotyle,,Umbelliferae,Hydrocotyle Trn.,4ZRT,3034601,4ZRT,3034601
 B1745:1:1959,Hydrocotyle vulgaris L.,L.,Hydrocotyle,,vulgaris,,species,,B1745:1,accepted,,,B1745:1:1958,Hydrocotyle Trn.,,,,,Umbelliferae,,Hydrocotyle,,Umbelliferae | Hydrocotyle,vulgaris L.,3N6T5,3034606,3N6T5,3034606
 B1745:1:1960,Sanicula Trn.,Trn.,,,,,genus,,B1745:1,accepted,,,B1745:1:1957,Umbelliferae,,,,,Umbelliferae,,Sanicula,,Umbelliferae,Sanicula Trn.,7C7R,3034831,7C7R,3034831
-B1745:1:1961,Sanicula europeea L.,L.,Sanicula,,europeea,,species,,B1745:1,accepted,,,B1745:1:1960,Sanicula Trn.,,,,,Umbelliferae,,Sanicula,,Umbelliferae | Sanicula,europeea L.,6XJ3Q,6027128,6XJ3Q,6027128
+B1745:1:1961,Sanicula europaea L.,L.,Sanicula,,europaea,,species,,B1745:1,accepted,,,B1745:1:1960,Sanicula Trn.,,,,,Umbelliferae,,Sanicula,,Umbelliferae | Sanicula,europaea L.,6XJ3Q,6027128,6XJ3Q,6027128
 B1745:1:1962,Eryngium Trn.,Trn.,,,,,genus,,B1745:1,accepted,,,B1745:1:1957,Umbelliferae,,,,,Umbelliferae,,Eryngium,,Umbelliferae,Eryngium Trn.,62RRS,3034387,62RRS,3034387
 B1745:1:1963,Eryngium campestre L.,L.,Eryngium,,campestre,,species,,B1745:1,accepted,,,B1745:1:1962,Eryngium Trn.,,,,,Umbelliferae,,Eryngium,,Umbelliferae | Eryngium,campestre L.,6H4BC,3034426,6H4BC,3034426
 B1745:1:1964,Eryngium amethystinum L.,L.,Eryngium,,amethystinum,,species,,B1745:1,accepted,,,B1745:1:1962,Eryngium Trn.,,,,,Umbelliferae,,Eryngium,,Umbelliferae | Eryngium,amethystinum L.,6GSB6,3034402,6GSB6,3034402
@@ -2081,6 +2083,7 @@ B1745:1:2079,Bifora radians M. B.,M. B.,Bifora,,radians,,species,,B1745:1,accept
 B1745:1:2080,Araliaceae,,,,,,family,,B1745:1,accepted,,,,,,,,,Araliaceae,,,,,Araliaceeën,B7VYB,8800,B7VYB,8800
 B1745:1:2081,Hedera L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:2080,Araliaceae,,,,,Araliaceae,,Hedera,,Araliaceae,Hedera L.,8VY4V,3036021,8VY4V,3036021
 B1745:1:2082,Hedera helix L.,L.,Hedera,,helix,,species,,B1745:1,accepted,,,B1745:1:2081,Hedera L.,,,,,Araliaceae,,Hedera,,Araliaceae | Hedera,helix L.,6LH6Y,8351737,6LH6Y,8351737
+B1745:1:3859,Hedera helix subsp. arborea Hort.,Hort.,Hedera,,helix,arborea,subspecies,,B1745:1,accepted,,,B1745:1:2082,Hedera helix L.,,,,,Araliaceae,,Hedera,,Araliaceae | Hedera | Hedera helix,helix arborea Hort.,5P9JD,3036138,BPFW7,7224343
 B1745:1:2083,Acanthopanax Dcs. & Planch.,Dcs. & Planch.,,,,,genus,,B1745:1,accepted,,,B1745:1:2080,Araliaceae,,,,,Araliaceae,,Acanthopanax,,Araliaceae,Acanthopanax Dcs. & Planch.,CQ2RY,6419067,8VX93,6419067
 B1745:1:2084,Acanthopanax spinosum Dcs. & Planch.,Dcs. & Planch.,Acanthopanax,,spinosum,,species,,B1745:1,accepted,,,B1745:1:2083,Acanthopanax Dcs. & Planch.,,,,,Araliaceae,,Acanthopanax,,Araliaceae | Acanthopanax,spinosum Dcs. & Planch.,8YYS,3035362,398Y2,3035358
 B1745:1:2085,Aralia L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:2080,Araliaceae,,,,,Araliaceae,,Aralia,,Araliaceae,Aralia L.,8VV5X,3036858,8VV5X,3036858
@@ -2163,7 +2166,7 @@ B1745:1:2161,Ribes sanguineum Pursh.,Pursh.,Ribes,,sanguineum,,species,,B1745:1,
 B1745:1:2162,Ribes aureum Pursh.,Pursh.,Ribes,,aureum,,species,,B1745:1,accepted,,,B1745:1:2156,Ribes L.,,,,,Saxifragaceae,,Ribes,,Saxifragaceae | Ribes,aureum Pursh.,4SY7V,2986111,4SY7V,2986111
 B1745:1:2163,Hamamelidaceae,,,,,,family,,B1745:1,accepted,,,,,,,,,Hamamelidaceae,,,,,Hamamelidaceeën,624Z2,2500,624Z2,2500
 B1745:1:2164,Liquidambar L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:2163,Hamamelidaceae,,,,,Hamamelidaceae,,Liquidambar,,Hamamelidaceae,Liquidambar L.,5FBY,3152823,5FBY,3152823
-B1745:1:2165,Liquidambar stryriciflua L.,L.,Liquidambar,,stryriciflua,,species,,B1745:1,accepted,,,B1745:1:2164,Liquidambar L.,,,,,Hamamelidaceae,,Liquidambar,,Hamamelidaceae | Liquidambar,stryriciflua L.,,,,
+B1745:1:2165,Liquidambar styraciflua L.,L.,Liquidambar,,styraciflua,,species,,B1745:1,accepted,,,B1745:1:2164,Liquidambar L.,,,,,Hamamelidaceae,,Liquidambar,,Hamamelidaceae | Liquidambar,stryriciflua L.,6QJRL,3152824,6QJRL,3152824
 B1745:1:2166,Hamamelis L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:2163,Hamamelidaceae,,,,,Hamamelidaceae,,Hamamelis,,Hamamelidaceae,Hamamelis L.,635R7,3152826,635R7,3152826
 B1745:1:2167,Hamamelis arborea Ottelander,Ottelander,Hamamelis,,arborea,,species,,B1745:1,accepted,,,B1745:1:2166,Hamamelis L.,,,,,Hamamelidaceae,,Hamamelis,,Hamamelidaceae | Hamamelis,arborea Ottelander,3JH42,3702620,6LB65,7329039
 B1745:1:2168,Platanaceae,,,,,,family,,B1745:1,accepted,,,,,,,,,Platanaceae,,,,,Plataneeën,6262P,6693,6262P,6693
@@ -2209,7 +2212,7 @@ B1745:1:2207,Circaea Trn.,Trn.,,,,,genus,,B1745:1,accepted,,,B1745:1:2175,Onagra
 B1745:1:2208,Circaea intermedia Ehrh.,Ehrh.,Circaea,,intermedia,,species,,B1745:1,accepted,,,B1745:1:2207,Circaea Trn.,,,,,Onagraceae,,Circaea,,Onagraceae | Circaea,intermedia Ehrh.,7NFLR,8186928,7NFLR,8186928
 B1745:1:2209,Circaea lutetiana L.,L.,Circaea,,lutetiana,,species,,B1745:1,accepted,,,B1745:1:2207,Circaea Trn.,,,,,Onagraceae,,Circaea,,Onagraceae | Circaea,lutetiana L.,VFR9,3188794,VFR9,3188794
 B1745:1:2210,Gaura L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:2175,Onagraceae,,,,,Onagraceae,,Gaura,,Onagraceae,Gaura L.,CQFW8,8613756,63FVB,3188799
-B1745:1:2211,Gaura lindhemeri Englm.,Englm.,Gaura,,lindhemeri,,species,,B1745:1,accepted,,,B1745:1:2210,Gaura L.,,,,,Onagraceae,,Gaura,,Onagraceae | Gaura,lindhemeri Englm.,3FF5V,3189268,48XYK,3664589
+B1745:1:2211,Gaura lindheimeri Englm.,Englm.,Gaura,,lindheimeri,,species,,B1745:1,accepted,,,B1745:1:2210,Gaura L.,,,,,Onagraceae,,Gaura,,Onagraceae | Gaura,lindheimeri Englm.,3FF5V,3189268,48XYK,3664589
 B1745:1:2212,Trapa L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:2175,Onagraceae,,,,,Onagraceae,,Trapa,,Onagraceae,Trapa L.,63W2K,3188756,63W2K,3188756
 B1745:1:2213,Trapa natans L.,L.,Trapa,,natans,,species,,B1745:1,accepted,,,B1745:1:2212,Trapa L.,,,,,Onagraceae,,Trapa,,Onagraceae | Trapa,natans L.,7CMPW,3188757,7CMPW,3188757
 B1745:1:2214,Halorrhagidaceae,,,,,,family,,B1745:1,accepted,,,,,,,,,Halorrhagidaceae,,,,,Halorrhagidaceeën,,4271551,,6694
@@ -2234,11 +2237,12 @@ B1745:1:2232,Thymelaeaceae,,,,,,family,,B1745:1,accepted,,,,,,,,,Thymelaeaceae,,
 B1745:1:2233,Daphne L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:2232,Thymelaeaceae,,,,,Thymelaeaceae,,Daphne,,Thymelaeaceae,Daphne L.,3ZT2,3188453,3ZT2,3188453
 B1745:1:2234,Daphne mezereum L.,L.,Daphne,,mezereum,,species,,B1745:1,accepted,,,B1745:1:2233,Daphne L.,,,,,Thymelaeaceae,,Daphne,,Thymelaeaceae | Daphne,mezereum L.,344W3,5420852,344W3,5420852
 B1745:1:2235,Elaeagnaceae,,,,,,family,,B1745:1,accepted,,,,,,,,,Elaeagnaceae,,,,,Elaeagneeën,9LF,2408,9LF,2408
-B1745:1:2236,Hippophae L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:2235,Elaeagnaceae,,,,,Elaeagnaceae,,Hippophae,,Elaeagnaceae,Hippophae L.,4XFW,3039284,4XFW,3039284
-B1745:1:2237,Hippophae rhamnoides L.,L.,Hippophae,,rhamnoides,,species,,B1745:1,accepted,,,B1745:1:2236,Hippophae L.,,,,,Elaeagnaceae,,Hippophae,,Elaeagnaceae | Hippophae,rhamnoides L.,3M2F8,3039285,3M2F8,3039285
+B1745:1:2236,Hippophaes L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:2235,Elaeagnaceae,,,,,Elaeagnaceae,,Hippophaes,,Elaeagnaceae,Hippophaes L.,,7847158,,7847158
+B1745:1:2237,Hippophaes rhamnoides L.,L.,Hippophaes,,rhamnoides,,species,,B1745:1,accepted,,,B1745:1:2236,Hippophaes L.,,,,,Elaeagnaceae,,Hippophaes,,Elaeagnaceae | Hippophaes,rhamnoides L.,3M2F8,3039285,3M2F8,3039285
 B1745:1:2238,Elaeagnus Trn.,Trn.,,,,,genus,,B1745:1,accepted,,,B1745:1:2235,Elaeagnaceae,,,,,Elaeagnaceae,,Elaeagnus,,Elaeagnaceae,Elaeagnus Trn.,62QQB,3039266,62QQB,3039266
 B1745:1:2239,Elaeagnus argentea Pursh.,Pursh.,Elaeagnus,,argentea,,species,,B1745:1,accepted,,,B1745:1:2238,Elaeagnus Trn.,,,,,Elaeagnaceae,,Elaeagnus,,Elaeagnaceae | Elaeagnus,argentea Pursh.,38X9W,7627200,6DZT4,3039274
 B1745:1:2240,Elaeagnus longipes Gray,Gray,Elaeagnus,,longipes,,species,,B1745:1,accepted,,,B1745:1:2238,Elaeagnus Trn.,,,,,Elaeagnaceae,,Elaeagnus,,Elaeagnaceae | Elaeagnus,longipes Gray,8VBP2,4048147,8V7ZQ,3039272
+B1745:1:3860,Elaeagnus edulis Hort.,Hort.,Elaeagnus,,edulis,,species,,B1745:1,synonym,B1745:1:2240,Elaeagnus longipes Gray,,,,,,,Elaeagnaceae,,Elaeagnus,,Elaeagnaceae | Elaeagnus,edulis Hort.,8VBNR,4048058,8V7ZQ,3039272
 B1745:1:2241,Elaeagnus angustifolia L.,L.,Elaeagnus,,angustifolia,,species,,B1745:1,accepted,,,B1745:1:2238,Elaeagnus Trn.,,,,,Elaeagnaceae,,Elaeagnus,,Elaeagnaceae | Elaeagnus,angustifolia L.,38X9R,3039269,38X9R,3039269
 B1745:1:2242,Rosaceae,,,,,,family,,B1745:1,accepted,,,,,,,,,Rosaceae,,,,,Rosaceeën,FTK,5015,FTK,5015
 B1745:1:2243,Crataegus L.,L.,,,,,genus,,B1745:1,accepted,,,B1745:1:2242,Rosaceae,,,,,Rosaceae,,Crataegus,,Rosaceae,Crataegus L.,3VBV,3013395,3VBV,3013395
@@ -2421,6 +2425,7 @@ B1745:1:2419,Prunus spinosa L.,L.,Prunus,,spinosa,,species,,B1745:1,accepted,,,B
 B1745:1:2420,Prunus insititia L.,L.,Prunus,,insititia,,species,,B1745:1,accepted,,,B1745:1:2406,Prunus L.,,,,,Rosaceae,,Prunus,,Rosaceae | Prunus,insititia L.,4N8WH,3022289,BNXGP,7409013
 B1745:1:2421,Prunus fruticans Weihe,Weihe,Prunus,,fruticans,,species,,B1745:1,accepted,,,B1745:1:2406,Prunus L.,,,,,Rosaceae,,Prunus,,Rosaceae | Prunus,fruticans Weihe,4N9C7,3022203,4N9C7,3022203
 B1745:1:2422,Prunus cerasifera Ehrh.,Ehrh.,Prunus,,cerasifera,,species,,B1745:1,accepted,,,B1745:1:2406,Prunus L.,,,,,Rosaceae,,Prunus,,Rosaceae | Prunus,cerasifera Ehrh.,4N8QW,3021730,4N8QW,3021730
+B1745:1:3861,Prunus pissardi Carr.,Carr.,Prunus,,pissardi,,species,,B1745:1,synonym,B1745:1:2422,Prunus cerasifera Ehrh.,,,,,,,Rosaceae,,Prunus,,Rosaceae | Prunus,pissardi Carr.,4N94R,3021601,4N8QW,3021730
 B1745:1:2423,Prunus italica Borkh.,Borkh.,Prunus,,italica,,species,,B1745:1,accepted,,,B1745:1:2406,Prunus L.,,,,,Rosaceae,,Prunus,,Rosaceae | Prunus,italica Borkh.,9YCLP,8307663,BNXGP,7409013
 B1745:1:2424,Prunus domestica L.,L.,Prunus,,domestica,,species,,B1745:1,accepted,,,B1745:1:2406,Prunus L.,,,,,Rosaceae,,Prunus,,Rosaceae | Prunus,domestica L.,4N8SY,7931731,4N8SY,7931731
 B1745:1:2425,Prunus armeniaca L.,L.,Prunus,,armeniaca,,species,,B1745:1,accepted,,,B1745:1:2406,Prunus L.,,,,,Rosaceae,,Prunus,,Rosaceae | Prunus,armeniaca L.,4N8NW,7818643,4N8NW,7818643
@@ -3520,6 +3525,7 @@ B1745:1:3518,Erigeron annuus Pers.,Pers.,Erigeron,,annuus,,species,,B1745:1,acce
 B1745:1:3519,Stenactis annua Nees.,Nees.,Stenactis,,annua,,species,,B1745:1,synonym,B1745:1:3518,Erigeron annuus Pers.,,,,,,,Compositae,,Erigeron,,Compositae | Erigeron,Stenactis annua Nees.,99QM9,3098296,6GNJG,3117449
 B1745:1:3520,Erigeron canadensis L.,L.,Erigeron,,canadensis,,species,,B1745:1,accepted,,,B1745:1:3516,Erigeron L.,,,,,Compositae,,Erigeron,,Compositae | Erigeron,canadensis L.,6GNBD,3146791,6GNBD,3146791
 B1745:1:3521,Erigeron acer L.,L.,Erigeron,,acer,,species,,B1745:1,accepted,,,B1745:1:3516,Erigeron L.,,,,,Compositae,,Erigeron,,Compositae | Erigeron,acer L.,,3147223,,3147223
+B1745:1:3862,Erigeron acer subsp. serotinus Weihe,Weihe,Erigeron,,acer,serotinus,subspecies,,B1745:1,accepted,,,B1745:1:3521,Erigeron acer L.,,,,,Compositae,,Erigeron,,Compositae | Erigeron | Erigeron acer,acer serotinus Weihe,,6298026,,4214692
 B1745:1:3522,Erigeron linifolius Willd.,Willd.,Erigeron,,linifolius,,species,,B1745:1,accepted,,,B1745:1:3516,Erigeron L.,,,,,Compositae,,Erigeron,,Compositae | Erigeron,linifolius Willd.,6H2C8,3094248,6GNBD,3146791
 B1745:1:3523,Erigeron speciosus D. C.,D. C.,Erigeron,,speciosus,,species,,B1745:1,accepted,,,B1745:1:3516,Erigeron L.,,,,,Compositae,,Erigeron,,Compositae | Erigeron,speciosus D. C.,6GPVP,3147146,6GPVP,3147146
 B1745:1:3524,Erigeron pulchellus Michx.,Michx.,Erigeron,,pulchellus,,species,,B1745:1,accepted,,,B1745:1:3516,Erigeron L.,,,,,Compositae,,Erigeron,,Compositae | Erigeron,pulchellus Michx.,6GPTF,7820446,6GPTF,7820446
