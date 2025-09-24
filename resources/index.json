@@ -4742,6 +4742,18 @@
     "id": "B461:2",
     "taxonCount": 2
   },
+  "B464:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "group",
+      "species"
+    ],
+    "id": "B464:1",
+    "taxonCount": 123
+  },
   "B465:1": {
     "levels": [
       "genus",
@@ -4886,6 +4898,70 @@
     ],
     "id": "B481:1",
     "taxonCount": 170
+  },
+  "B487:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "40-46",
+      "scope": [
+        "workers"
+      ]
+    },
+    "id": "B487:1",
+    "taxonCount": 76
+  },
+  "B487:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "47-52",
+      "scope": [
+        "queens"
+      ]
+    },
+    "id": "B487:2",
+    "taxonCount": 64
+  },
+  "B487:3": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "53-57",
+      "scope": [
+        "males"
+      ]
+    },
+    "id": "B487:3",
+    "taxonCount": 63
+  },
+  "B487:4": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Quick-check field key to common British ants"
+      ],
+      "pages": "58-59",
+      "complete": "FALSE"
+    },
+    "id": "B487:4",
+    "taxonCount": 21
   },
   "B489:1": {
     "levels": [
