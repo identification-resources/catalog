@@ -31,8 +31,8 @@ Lycopodiaceeën
       clavatum L.
       annotinum L.
       complanatum L.
-            complanatum f. anceps Wallr.
-            complanatum f. chamaecyparissus A. Br.
+        complanatum anceps Wallr.
+        complanatum chamaecyparissus A. Br.
 Selaginellaceeën
   > Selaginellaceae
   Selaginella P. B.
@@ -59,16 +59,17 @@ Polypodiaceeën
         = Polypodium robertianum Hoffm.
   Polystichum Rth.
       aculeatum Prsl.
-          aculeatum var. lobatum Sw.
-            = Aspidium aculeatum Döll.
+        = Aspidium aculeatum Döll.
+        aculeatum lobatum Sw.
+        aculeatum angulare Kit.
       thelypteris Sw.
       oreopteris D. C.
       filix_mas Rth.
         > filix-mas Rth.
       cristatum Rth.
       spinulosum D. C.
-            spinulosum f. eu-spinulosum Aschrs. & Gr.
-            spinulosum f. dilatatum Sm.
+        spinulosum eu-spinulosum Aschrs. & Gr.
+        spinulosum dilatatum Sm.
   Cystopteris Bernh.
       fragilis Berkh.
           fragilis var. eu-fragilis Aschrs. & Gr.
@@ -126,8 +127,7 @@ Salviniaceeën
       caroliniana Willd.
 Coniferen
   > Pinaceae
-  Gingko L.
-    > Ginkgo L.
+  Ginkgo L.
       biloba L.
   Taxus Trn.
       baccata L.
@@ -135,20 +135,18 @@ Coniferen
       fortunei Hook.
   Juniperus Trn.
       communis L.
-  Sabina
-      officinalis Grcke.
-        = Juniperus sabina L.
-      virginiana Aschrs.
-        = Juniperus virginiana L.
+      sabina L.
+        = Sabina officinalis Grcke.
+      virginiana L.
+        = Sabina virginiana Aschrs.
   Thuja Trn.
       orientalis L.
         = Biota orientalis Endl.
       occidentalis L.
   Thujopsis Sieb. & Zucc.
       dolabrata Sieb. & Zucc.
-  Chamaecyparis Spach.
-      pisifera Sieb. & Zucc.
   Cupressus Trn.
+      pisifera Sieb. & Zucc.
       lawsoniana Murr.
   Taxodium Rich.
       distichum Rich.
@@ -163,16 +161,23 @@ Coniferen
   Pinus Trn.
       strobus L.
       cembra L.
+      rigida Mill.
       nigra Arnold.
         = laricio Poir.
+            nigra f. austriaca Höss.
+            nigra f. poiretiana Poir.
       pinaster Ait.
       silvestris L.
       montana Mill.
             montana f. pumilio Haenke
+  Tsuga Endl.
+      canadensis Carr.
+        = Abies canadensis Poir.
+  Pseudotsuga Carr.
+      taxifolia Brit.
+        = Abies douglasii Lindl.
   Abies Trn.
-      canadensis Poir.
-        = Tsuga canadensis Carr.
-      douglasii Lindl.
+      pinsapo Boiss.
       nobilis Lindl.
       nordmanniana Lk.
       alba Mill.
@@ -267,8 +272,8 @@ Liliaceeën
   Narthecium Moehr.
       ossifragum Huds.
   Phalangium Trn.
-      liliago Scherb.
-        = Anthericum liliago Schreb.
+      liliago Schreb.
+        = Anthericum liliago L.
   Hemerocallis L.
       fulva L.
       flava L.
@@ -293,6 +298,8 @@ Liliaceeën
   Aspidistra Ker. Gawl.
       elatior Blume.
   Polygonatum Trn.
+      verticillatum All.
+        = Convallaria verticillata L.
       officinale Mnch.
         = Convallaria polygonatum L.
         = anceps Mnch.
@@ -300,6 +307,9 @@ Liliaceeën
         = Convallaria multiflora L.
   Convallaria L.
       majalis L.
+  Smilacina Desf.
+      stellata Desf.
+      racemosa Desf.
   Majanthemum Web.
       bifolium Schmidt
 Amaryllidaceeën
@@ -325,12 +335,10 @@ Juncaceeën
   > Juncaceae
   Juncus Trn.
       glaucus Ehrh.
-          glaucus var. longicornis Aschrs. & Gr.
       diffusus L.
         = glaucus x effusus
       conglomeratus L.
       effusus L.
-          effusus var. compactus Lej. & Court.
       filiformis L.
       balticus Willd.
       squarrosus L.
@@ -346,13 +354,11 @@ Juncaceeën
           supinus var. uliginosus Rth.
           supinus var. fluitans Lmk.
       lamprocarpus Ehrh.
-          lamprocarpus var. fluitans Koch.
-          lamprocarpus var. stolonifer Aschrs. & Gr.
       silvaticus Reichard
       obtusiflorus Ehrh.
-      alpinus Vill.
       anceps Laharpe.
           anceps var. atricapillus Buch.
+      alpinus Vill.
   Luzula Desv.
       pilosa Willd.
       albida D. C.
@@ -362,8 +368,6 @@ Juncaceeën
       campestris D. C.
       multiflora Lej.
         = erecta Desv.
-          multiflora var. pallens Aschrs. & Gr.
-          multiflora var. congesta Koch.
 Iridaceeën
   > Iridaceae
   Crocus Trn.
@@ -406,13 +410,14 @@ Typhaceeën
       latifolia L.
       angustifolia L.
   Sparganium Trn.
-      minimum Fr.
       ramosum Huds.
-      simplex Huds.
-          simplex var. fluitans A. Br.
+        ramosum polyedrum Aschrs. & Gr.
+        ramosum neglectum Beeby.
+      minimum Fr.
       affine Schnitzl.
-      diversifolium Gr.
-          diversifolium var. wirtgeniorum Aschrs. & Gr.
+      simplex Huds.
+      simplex x minimum
+        + diversifolium wirtgeniorum Gr.
 Araceeën
   > Araceae
   Arum L.
@@ -437,7 +442,6 @@ Najadaceeën
   > Najadaceae
   Zostera L.
       marina L.
-          marina var. stenophylla Aschrs. & Gr.
       nana Roth
   Najas L.
       major Roth
@@ -453,26 +457,19 @@ Najadaceeën
   Potamogeton Trn.
       densus L.
       pectinatus L.
-          pectinatus var. vulgaris Cham. & Schldl.
-          pectinatus var. scoparius Wallr.
-          pectinatus var. flabellatus Bab.
       compressus L.
       acutifolius Lk.
       mucronatus Schrad.
       obtusifolius M. & K.
       pusillus L.
-          pusillus var. tenuissimus M. & K.
       trichoides Cham. & Schld.
       crispus L.
-          crispus var. serrulatus Rchb.
       perfoliatus L.
       praelongus Wulf.
       lucens L.
       zizii M. & K.
       rufescens Schrad.
       gramineus L.
-            gramineus f. graminifolius Fr.
-            gramineus f. heterophyllus Fr.
       plantagineus Du Croz.
         = hornemanni Koch.
       fluitans Rth.
@@ -483,14 +480,12 @@ Cyperaceeën
   Carex Mich.
       pulicaris L.
       dioica L.
-          dioica var. metteniana Aschrs. & Gr.
       davalliana Sm.
       disticha Huds.
       arenaria L.
       vulpina L.
-          vulpina var. nemorosa Koch.
       muricata L.
-        muricata pairaei F. Schultz
+        muricata leersii Schultz.
       divulsa Good.
       teretiuscula Good.
       paniculata L.
@@ -505,24 +500,26 @@ Cyperaceeën
         = canescens x remota
       axillaris Koch.
         = muricata x remota
+      axillaris Good.
+        = vulpina x remota
       echinata Murr.
         = stellulata Good.
       leporina L.
-          leporina var. argyroglochin Koch.
       elongata L.
       canescens L.
       caespitosa L.
       stricta Good.
-      trinervis Degl.
       acuta L.
-            acuta f. tricostata Aschrs.
+        = gracilis Curt.
       vulgaris Fr.
         = goodenoughii Gay
-            vulgaris f. turfosa Fries
+      elytroides Fr.
+        = acuta x vulgaris
       buxbaumii Wahlnb.
       limosa L.
       glauca Scop.
         = flacca Schreb.
+        glauca trinervis Degl.
       pallescens L.
       panicea L.
       strigosa Huds.
@@ -535,16 +532,16 @@ Cyperaceeën
       digitata L.
       ornithopoda Willd.
       flava L.
-            flava f. eu-flava Aschrs. & Gr.
-            flava f. oederi Ehrh.
+        flava eu-flava Aschrs. & Gr.
+          flava var. vulgaris Döll.
+          flava var. lepidocarpa Godr.
+        flava oederi Ehrh.
       extensa Good.
       rostrata With.
         = ampullacea Good.
-          rostrata var. elatior Benn.
       silvatica Huds.
       distans L.
       hornschuchiana Hoppe
-            hornschuchiana f. cladostachya
       [_] fulva Hoppe
         = hornschuchiana x flava
       sub-oederi Aschrs. & Gr.
@@ -552,24 +549,16 @@ Cyperaceeën
       pseudocyperus L.
       vesicaria L.
       riparia Curt.
-      [_] csomadensis Sim.
-        = vesicaria x riparia
-            csomadensis f. longibracteata Aschrs.
       acutiformis Ehrh.
         = paludosa Good.
-            acutiformis f. cladostachya
-          acutiformis var. spadicea Aschrs. & Gr.
       filiformis L.
       hirta L.
-            hirta f. cladostachya
-          hirta var. hirtaeformis Pers.
-            hirta f. cladostachya
   Cyperus Trn.
       flavescens L.
-      fuscus L.
-          fuscus var. virescens Koch
       alternifolius L.
-  Schoenus
+      fuscus L.
+      vegetus Willd.
+  Schoenus L.
       nigricans L.
   Rhynchospora Vahl.
       alba Vahl.
@@ -583,7 +572,6 @@ Cyperaceeën
       multicaulis Sm.
         = Heleocharis multicaulis Sm.
             multicaulis f. vivipara
-          multicaulis var. digyna Gr. & Godr.
       paluster L.
         = Heleocharis palustris R. Br.
       uniglumis Lk.
@@ -602,12 +590,9 @@ Cyperaceeën
       duvalii Hoppe
         = lacustris x triqueter
       maritimus L.
-          maritimus var. compactus Koch.
-          maritimus var. macrostachys Koch.
       silvaticus L.
       compressus Pers.
         = Blysmus compressus Panz.
-          compressus var. conglomeratus P. Nielsen
       rufus Schrad.
         = Blysmus rufus Huds.
   Eriophorum L.
@@ -628,6 +613,8 @@ Gramineeën
       argenteum M. B.
   Eulalia Kth.
       japonica Trin.
+  Andropogon
+      halepensis Brot.
   Panicum L.
       capillare L.
       miliaceum L.
@@ -636,8 +623,6 @@ Gramineeën
         > crus-galli L.
         = Echinochloa crus_galli P. B.
           > Echinochloa crus-galli P. B.
-          longisetum Döll.
-          brevisetum Döll.
     Digitaria P. B.
       sanguinale L.
         = Digitaria sanguinalis Scop.
@@ -646,112 +631,92 @@ Gramineeën
         = glabrum Gaud.
   Setaria P. B.
       glauca P. B.
-          glauca var. pumilum Aschr. & Gr.
       verticillata P. B.
       viridis P. B.
         viridis eu-viridis Aschrs. & Gr.
-          viridis var. pygmaeum Aschrs. & Gr.
-          viridis var. weinmanni R. & Sch.
-          viridis var. compositum
-          viridis var. vivipara
         viridis italica L.
-          viridis var. maritimum Aschrs.
   Pennisetum Pers.
       longistylum Hochst.
   Phalaris L.
       arundinacea L.
         = Phalaris picta L.
-      bulbosa L.
       paradoxa L.
-      canariensis L.
-          canariensis var. brachystachys Lk.
       minor L.
+      intermedia Bosc.
+          intermedia var. angusta
+            = angusta Nees.
+      canariensis L.
+      brachystachys Lk.
+      coerulescens Desf.
+      bulbosa L.
   Hierochloa Gmel.
       odorata Whlnbg.
         = borealis R. & Sch.
   Anthoxanthum L.
       odoratum L.
-            odoratum f. compositum Jansen & Wachter
       puelli Lecoq & Lamotte
-          puelli var. villosum Aschrs. & Gr.
   Alopecurus L.
       pratensis L.
-            pratensis f. compositum
-          pratensis var. obscurus Led.
       agrestis L.
-          agrestis var. versicolor Bias.
       bulbosus L.
       utriculatus Pers.
       geniculatus L.
-          geniculatus var. bulbosus Sonder
-          geniculatus var. radicans
-          geniculatus var. spica_lobata
       fulvus L.
   Phleum L.
+      subulatum Aschrs. & Gr.
       pratense L.
-          pratense var. nodosum L.
-            pratense f. warnstorfii Aschrs. & Gr.
       echinatum Host.
       asperum Jacq.
       arenarium L.
       boehmeri Wib.
       graecum Boiss. & Kit.
   Polypogon Desf.
+      interruptus H. B. K.
       monspeliensis Desf.
+      maritimus Willd.
   Chamagrostis Borkh.
       minima Borkh.
         = Mibora minima Desv.
   Cynodon Rich.
       dactylon Pers.
+  Sesleria Scop.
+      coerulea Ard.
   Beckmannia Host.
       erucaeformis Host.
         > eruciformis Host.
+  Eleusine Gaertn.
+      tristachya Kunth.
   Spartina Schreb.
-      stricta Roth.
+      stricta Rth.
   Leersia Sw.
       oryzoides Sw.
+  Sporobolus R. Br.
+      indicus R. Br.
   Agrostis L.
+      nebulosa Boiss.
       canina L.
-            canina f. stolonifera Blytt Norges
-            canina f. mutica Gaud.
-            canina f. pusilla Aschrs. & Gr.
-            canina f. genuina Godr. & Gr.
-            canina f. varians Aschrs. & Gr.
-            canina f. vivipara
       vulgaris With.
-            canina f. stolonifera Koch
-            canina f. genuina Schur
-            canina f. humilis Aschrs. & Gr.
-            canina f. umbrosa Schur.
-            canina f. tenella Beck.
-            canina f. vivipara
       alba L.
         = stoloniferia Koch.
-            alba f. gigantea G. Mey.
-            alba f. genuina Schur.
-            alba f. flavida Aschrs. & Gr.
-            alba f. diffusa Host
-            alba f. proprepens Aschrs.
-            alba f. maritima G. Mey.
-            alba f. vivipara
-  Apera Adans.
-      spica_venti P. B.
-        > spica-venti P. B.
-        = Agrostis spica_venti L.
-          > Agrostis spica-venti L.
-      interrupta P. B.
-        = Agrostis interrupta L.
+      verticillata Vill.
+      spica_venti L.
+        > spica-venti L.
+        = Apera spica_venti P. B.
+          > Apera spica-venti P. B.
+      interrupta L.
+        = Apera interrupta P. B.
+      retrofracta Willd.
   Lagurus L.
       ovatus L.
   Calamagrostis Adans.
       neglecta Fr.
         = stricta Spr.
       epigeios Rth.
-          epigeios var. glauca Rchb.
       littorea D. C.
+        = pseudophragmites Baumg.
       lanceolata Rth.
       halleriana D. C.
-  Ammophila Host
+  Ammophila Host.
       arenaria Lk.
         = Psamma arenaria R. & Sch.
       baltica Lk.
@@ -764,27 +729,28 @@ Gramineeën
   Milium L.
       effusum L.
       scabrum Merlet
+  Oryzopsis Mchx.
+      miliacea Aschrs. & Schweinf.
+  Stipa L.
+      neesiana Trin. & Rupr.
   Phragmites Trin.
       communis Trin.
         = Arundo phragmites L.
-          communis var. flavescens Aschrs.
   Arundo L.
       donax L.
   Koeleria Pers.
       phleoides Pers.
       albescens D. C.
-      cristata Pers.
+      pyramidata Domin.
+      gracilis Domin
+            gracilis f. typica Domin
   Aira L.
       caryophyllea L.
         = Avena caryophyllea Web.
-          caryophyllea var. multiculmis Dum.
       praecox L.
         = Avena praecox P. B.
       caespitosa L.
-          caespitosa var. pallida Koch
-          caespitosa var. setifolia Koch
       flexuosa L.
-          flexuosa var. montana Perl.
       discolor Thuill.
         = uliginosa Whe.
   Corynephorus P. B.
@@ -797,36 +763,37 @@ Gramineeën
   Arrhenatherum P. B.
       elatius M. & K.
         = Avena elatior L.
-          elatius var. bulbosum Koch
-          elatius var. biaristata Aschrs.
   Avena L.
       sativa L.
         sativa diffusa Aschrs. & Gr.
         sativa orientalis Schreb.
         sativa strigosa Schreb.
+        sativa nuda L.
       fatua L.
-          fatua var. glabrata Pterm.
+      sterilis L.
       flavescens L.
-          flavescens var. variegata M. & K.
       pubescens L.
       pratensis L.
   Gaudinia P. B.
       fragilis P. B.
+  Ammochloa Boiss.
+      pungens Boiss.
   Triodia Bernh.
       decumbens Bernh.
         = Sieglingia decumbens Bernh.
   Melica L.
       ciliata L.
       uniflora Retz.
-      nutans L.
       altissimus L.
+      nutans L.
   Briza L.
-      media L.
-          media var. serotina V. H.
       maxima L.
+      media L.
+      minor L.
   Eragrostis Host
       minor Host
       major Host
+      pilosa P. B.
       abyssinica Link
       aegyptica Lk.
   Sclerochloa P. B.
@@ -834,151 +801,89 @@ Gramineeën
         = Glyceria procumbens Sm.
   Poa L.
       annua L.
-            annua f. vivipara
       bulbosa L.
-          bulbosa var. vivipara
+            bulbosa f. vivipara
       compressa L.
-          compressa var. muralis Wib.
       nemoralis L.
-            nemoralis f. agrostoides Aschrs. & Gr.
-            nemoralis f. uniflora M. & K.
-            nemoralis f. vulgaris Gaud.
-            nemoralis f. tenella Rchb.
-            nemoralis f. firmula Gaud.
-            nemoralis f. reichenbachii Aschrs. & Gr.
       serotina Ehrh.
         = palustris Roth.
         = fertilis Host
-            serotina f. glabra Döll.
-            serotina f. effusa Rchb.
-            serotina f. fertilis Rchb.
       pratensis L.
-            pratensis f. costata Hartm.
-            pratensis f. eragrostiformis Aschrs. & Gr.
-            pratensis f. anceps Gaud.
-            pratensis f. angustifolia Sm.
-            pratensis f. setacea Dill.
-            pratensis f. latifolia Whe.
-            pratensis f. subcoerulea Aschrs. & Gr.
       sudetica Haenke
         = chaixi Vill.
       trivialis L.
-            trivialis f. stricta Döll.
-            trivialis f. vulgaris Rchb.
-            trivialis f. effusa Aschrs. & Gr.
   Glyceria R. Br.
-      fluitans R. Br.
-            fluitans f. pumila W. & G.
-        fluitans loliacea Huds.
       aquatica Whlnbg.
         = spectabilis M. & K.
-            aquatica f. vivipara
+      fluitans R. Br.
+      plicata Fr.
   Catabrosa P. B.
       aquatica P. B.
-          aquatica var. uniflora Gray
         = Glyceria aquatica Presl.
   Molinia Mnch.
       coerulea Mnch.
-            coerulea f. littoralis Aschrs. & Gr.
-          coerulea var. viridiflor Lez.
+  Diplachne P. B.
+      fusca P. B.
   Dactylis L.
       glomerata L.
-            glomerata f. vivipara
-          glomerata var. abbreviata Drejer
       aschersoniana Graebn.
   Cynosurus L.
       cristatus L.
-            cristata f. vivipara
       echinatus L.
   Festuca L.
-      distans Kth.
-        = Glyceria distans Whlnbg.
-          distans var. coarctata
-      borreri Bab.
-        = Sclerochloa borreri Bab.
       thalassica Kth.
         = Glyceria maritima M. & K.
-      angustata Aschrs. & Gr.
+      distans Kth.
+        = Glyceria distans Whlnbg.
+      borreri Bab.
+        = Sclerochloa borreri Bab.
       rigida Lk.
         = Sclerochloa rigida Rchb.
       ligustica Bert.
       myuros Ehrh.
-      sciuroides Rth.
+      [1] sciuroides Rth.
         = bromoides Sm.
+      [1] macrostachys Nutt.
       ovina L.
-            ovina f. capillata Hackel
-            ovina f. vulgaris Koch.
-            ovina f. duriuscula Koch.
-              = duriuscula L.
       rubra L.
-          rubra var. dumetorum Gaud.
-          rubra var. arenaria Fr.
       gigantea Vill.
       arundinacea Schreb.
-            arundinacea f. pseudololiacea Grantzow
-            arundinacea f. aspera Aschrs. & Gr.
-            arundinacea f. vivipara
       elatior L.
         = pratensis Huds.
-          elatior var. subspicata Aschrs. & Gr.
   Brachypodium P. B.
       pinnatum P. B.
       distachyon P. B.
       silvaticum P. B.
   Bromus L.
       unioloides H. B. K.
-          unioloides var. oligostachys Wachter & Jansen
       arduennensis Dum..
       secalinus L.
-            secalinus f. vulgaris Koch
-            secalinus f. multiflorus Aschrs.
-            secalinus f. typicus Aschrs. & Gr.
-            secalinus f. elongatus Aschrs. & Gr.
-            secalinus f. grossus Koch.
-            secalinus f. velutinus Koch.
-          secalinus var. hirtus Schulz.
-          secalinus var. oligostachys Wachter & Jansen
-          secalinus var. polyanthus beck.
-          secalinus var. submuticus Rchb.
-          secalinus var. hirtus Aschrs. & Gr.
+        secalinus vulgaris Koch
+        secalinus multiflorus Aschrs.
       arvensis L.
-          arvensis var. oliganthus Hartm.
+        arvensis eu-arvensis Aschrs. & Gr.
+        arvensis oliganthus Hartm.
+        arvensis hyalinus Aschrs. & Gr.
       racemosus L.
+      adoensis Hochst.
       hordeaceus L.
         = mollis L.
-            hordeaceus f. mollis L.
-            hordeaceus f. typicus Beck.
-            hordeaceus f. simplicissimus Ces.
-            hordeaceus f. nanus Weig.
-            hordeaceus f. leptostachys Beck.
-            hordeaceus f. thominii Aschrs. & Gr.
       commutatus Schrad.
-          commutatus var. depauperatus Uechtritz.
-          commutatus var. velutinus V. D. Bosch
-          commutatus var. multiflorus
       briziformis Fisch. & Mey.
       squarrosus L.
-          squarrosus var. depauperatus Aschrs. & Gr.
-          squarrosus var. villosus Aschrs. & Gr.
       japonicus Thunb.
+      macrostachys Desf.
+        macrostachys lanuginosus Boiss.
+      molliformis Lloyd.
       ramosus Huds.
         = asper Murr.
-            ramosus f. eu-ramosus Aschrs. & Gr.
-            ramosus f. benekeni Aschrs. & Gr.
-              = asper Ben.
       erectus Huds.
-          erectus var. villosa Koch.
-          erectus var. uberrimus Koch.
       inermis Leyss.
-          inermis var. longiflorus Wachter & Jansen
-          inermis var. pauciflorus Rohlena
-          inermis var. divaricatus Rohlena
-      villosus Forsk.
-          villosus var. maximus Aschrs. & Gr.
       sterilis L.
-          sterilis var. oligostachys Aschrs. & Gr.
       tectorum L.
-          tectorum var. longipilus Borbas
+      rubens L.
+      villosus Forsk.
+      madritensis L.
   Triticum Trn.
       villosum P. B.
       spelta L.
@@ -987,7 +892,7 @@ Gramineeën
         vulgare hibernum L.
         vulgare aestivum L.
       turgidum L.
-          turgidum var. compositum L.
+        turgidum compositum L.
       durum Desf.
       dicoccum Schrk.
       monococcum L.
@@ -998,30 +903,17 @@ Gramineeën
         = Agopyrum caninum Gaertn.
       repens L.
         = Agopyrum repens P. B.
-            repens f. vulgare Döll.
-            repens f. arvensis Rchb.
-            repens f. distans Lange
-            repens f. aristatum Döll.
-            repens f. subulatum Schreb.
-            repens f. dumetorum Döll.
-            repens f. leersianum Rchb.
-            repens f. sepium Döll.
-            repens f. majus Döll.
-            repens f. glaucum Döll.
-            repens f. maritimum Koch.
-            repens f. littoreum Aschrs. & Gr.
-            repens f. aristatum Martens
       junceum L.
         = Agopyrum junceum P. B.
       pungens P.
         = Agopyrum pungens P. B.
-            pungens f. normale Aschrs. & Gr.
-            pungens f. acutum D. C.
+        pungens normale Aschrs. & Gr.
+        pungens acutum D. C.
   Secale
       cereale L.
-          cereale var. triflorum Aschrs.
   Elymus L.
       arenarius L.
+      [_] Triticum_junceum x Elymus_arenarius
   Hordeum L.
       silvaticum Huds.
         = Elymus europaeus L.
@@ -1029,13 +921,14 @@ Gramineeën
         > caput-medusae Coss.
           caput_medusae var. asperum Degen.
             > caput-medusae var. asperum Degen.
+      chilense Brongniart.
       jubatum L.
-      murinum L.
-            murinum f. viviparum
-          murinum var. pusillum Goiran
       secalinum Schreb.
+      murinum L.
+      leporinum Link.
       maritimum With.
-      [_] Triticum_junceum x Elymus_arenarius
+      gusseonanum Parl.
+        > gussoneanum Parl.
       hexastichon L.
       vulgare L.
       distichum L.
@@ -1044,43 +937,24 @@ Gramineeën
   Lolium L.
       multiflorum Lmk.
         = italicum A. Br.
-              multiflorum f. gaudini Aschrs. & Gr.
-              multiflorum f. longiaristatum Aschrs. & Gr.
-              multiflorum f. submuticum Mutel
-              multiflorum f. cristatum Murr.
-        multiflorum ramosum Guss.
       [_] perenne x multiflorum
       perenne L.
-            perenne f. compositum
-            perenne f. glomeratum Prodr.
-            perenne f. furcatum Billot
-            perenne f. sphaerostachyum Maxwell
-            perenne f. vivipara
-          perenne var. orgyiale Döll.
-            perenne f. polyanthum Beck
-          perenne var. cristatum Döll.
-          perenne var. pauciflorum Aschrs. & Gr.
-          perenne var. tenue Prodr.
       Festuca_elatior x Lolium_perenne
         = Festuca loliacea Koch
         = Lolium festucaceum Lk.
-      strictum Presl.
+      rigidum Gaud.
+        = strictum Presl.
       temulentum L.
-            temulentum f. macrochaeton A. Br.
-            temulentum f. arvense Bab.
-            temulentum f. robustum Koch
-            temulentum f. speciosum Koch
-          temulentum var. oliganthum Gr. & Godr.
-          temulentum var. muticum Wachter & Jansen
       linicolum Sond.
+        = remotum Schrk.
   Lepturus Trin.
       incurvatus Trin.
             incurvatus f. vulgatus Aschrs. & Gr.
-            incurvatus f. subcurvatus Aschrs. & Gr.
-            incurvatus f. strictus Buch.
-              = filiformis Trin.
   Aegilops L.
-      cylindrica Host
+      caudata L.
+        caudata caudata s. s.
+            caudata f. polyathera Bois
+        caudata cylindrica Host.
       triuncialis L.
       ovata L.
   Nardus L.
@@ -1096,9 +970,9 @@ Orchidaceeën
   Orchis L.
       coriophora L.
       morio L.
-      picta Loisl.
+        morio picta Loisl.
       ustulata L.
-      simiae Lmk.
+      simia Lmk.
       fusca Jacq.
         = purpurea Huds.
       militaris L.
@@ -1108,9 +982,9 @@ Orchidaceeën
       maculata L.
       maculata x morio
       latifolia L.
-          latifolia var. gracilis Warnstorf
       incarnata L.
       [_] latifolia x incarnata
+      traunsteineri Saut.
   Gymnadenia R. Br.
       albida Rich.
       conopea R. Br.
@@ -1177,14 +1051,10 @@ Alismaceeeën
   > Alismataceae
   Alisma L.
       natans L.
-            natans f. linearifolium
       ranunculoides L.
-          ranunculoides var. repens Aschrs.
-          ranunculoides var. zosterifolius Fr.
       plantago L.
-            plantago f. michaletti Aschrs. & Gr.
-            plantago f. arcuatum Mich.
-          plantago var. angustissimum D. C.
+        plantago michaletti Aschrs. & Gr.
+        plantago arcuatum Mich.
   Sagittaria L.
       sagittifolia L.
   Butomus Trn.
@@ -1254,42 +1124,36 @@ Salicaceeën
   > Salicaceae
   Salix Trn.
       repens L.
-            repens f. vulgaris Koch.
-            repens f. fusca Sm.
-            repens f. argentea Sm.
-            repens f. rosmarinifolia Koch.
       purpurea L.
-          purpurea var. sericea Koch.
       incana Schrk.
       viminalis L.
       daphnoides Vill.
         daphnoides acutifolia Willd.
+      dasyclados Wimm.
       cinerea L.
       caprea L.
       aurita L.
       alba L.
-            alva f. coerulea Koch.
-            alva f. vitellina Koch.
       pentandra L.
       fragilis L.
-            fragilis f. decipieus Hoffm.
       amygdalina L.
-            amygdalina f. discolor W. & Grab.
-            amygdalina f. concolor W. & Grab.
+      [_] amygdalina x fragilis
       babylonica L.
       viminalis x purpurea
         = rubra Huds.
+      purpurea x repens
+        = doniana Sm.
       cinerea x purpurea
         = pontederana Koch
-      arutia x purpurea
-        = kochiana Hartig
-      stipularis Sm.
-        = longifolia Host
-        = dasyclados Wimm.
-      viminalis x cinerea ?
+      caprea x purpurea
+        = discolor Host.
+      viminalis x cinerea
         = acuminata Sm.
+            stipularis Sm.
       caprea x viminalis
         = smithiana Willd.
+      aurita x viminalis
+        = fruticosa Döll.
       aurita x repens
         = ambigua Ehrh.
       caprea x cinerea
@@ -1306,9 +1170,6 @@ Salicaceeën
         = undulata Ehrh.
       viminalis x amygdalina
         = trevirani Spr.
-      [_] caprea x purpurea
-        = discolor Host.
-      [_] aurita x fragilis
   Populus Trn.
       alba L.
       tremula L.
@@ -1364,57 +1225,60 @@ Ceratophyllaceeën
       demersum L.
 Polygoneeën
   > Polygonaceae
+  Emex Neck.
+      spinosa Campd.
   Rumex L.
       maritimus L.
           maritimus var. limosus Thunbg.
-            = paluster Sm.
-      steinii Beck
-        = paluster x obtusifolius
-          > maritimus x obtusifolius
+            = palustris Sm.
+            = ? conglomeratus x maritimus
+      maritimus x obtusifolius
+        = steinii Beck
+      odontocarpus x maritimus
+        = stenophylloides Simonk.
+      [_] maritimus x sanguineus
+      pulcher L.
+      dentatus L.
       obtusifolius L.
-          obtusifolius var. discolor Wallr.
+      conglomeratus x obtusifolius
+        = abortivus Ruhmer
+      obtusifolius x sanguineus
+        = dufftii Hausskn.
+      odontocarpus Sandor.
+      obtusifolius x crispus
+        = acutus L.
       conglomeratus Murr.
       sanguineus L.
-            sanguineus f. viridis Sm.
-            sanguineus f. genuinus Koch
-      abortivus Ruhmer
-        = conglomeratus x obtusifolius
-      obtusifolius x sanguineus
-      patientia L.
-      crispus L.
-          crispus var. unigranis Petif.
-      hydrolapathum Huds.
       salicifolius Weinm.
-      acutus L.
-        = pratensis W. & K.
-        = crispus x obtusifolius
-      maximus Schreb.
-        = hydrolapathum x aquaticus
-            maximus f. sub-aquaticus Schatz.
-            maximus f. intermedius Schatz.
-      domesticus Hartm.
+      crispus L.
+      crispus x sanguineus
+        = sagorskii Hausskn.
+      conglomeratus x crispus
+        = schulzei Hausskn.
+      crispus_x_obtusifolius_x_sanguineus
+        = wippraensis K. Wein.
+      hydrolapathum Huds.
       aquaticus L.
         = hippolapathum Fr.
-      conspersus Hartm.
-        = obtusifolius x domesticus
+      domesticus Hartm.
+      patientia L.
+      orientalis Bernh.
+      maximus Schreb.
+        = aquaticus x hydrolapathum
+      aquaticus x obtusifolius
+        = platyphyllos Aresch.
+      acetosella L.
       acetosa L.
       scutatus L.
           scutatus var. hastifolius Koch.
-      acetosella L.
   Rheum L.
       rhaponticum L.
       palmatum L.
       officinale Baillon.
   Polygonum L.
-      cuspidatum Sieb. & Zucc.
-      sachalinense F. Schmidt.
       aviculare L.
-          aviculare var. erectum Rth.
-          aviculare var. neglectum Bess.
-          aviculare var. littorale M. & K.
-          aviculare var. polycnemum Rchb.
-          aviculare var. mospeliense Thiebaud
-      bellardii All.
+      patulum M. B.
+      pulchellum Loisl.
       bistorta L.
       amphibium L.
             amphibium f. natans Mnch.
@@ -1422,38 +1286,26 @@ Polygoneeën
       orientale L.
       tomentosum Schrk.
         = pallidum With.
-        = lapathifolium L.
-            tomentosum f. vulgatum De Br.
-            tomentosum f. somphoricarpum De Br.
-            tomentosum f. glabrum
-            tomentosum f. incanum Koch
+        = lapathifolium L. t. d.
       nodosum Pers.
-          nodosum var. bracteatum De Br.
-          nodosum var. cucullatum De Br.
       speciosissimus Fr.
         = tomentosum x nodosum
       persicaria L.
-            persicaria f. agreste Fr.
-            persicaria f. biforme Whlnb.
       minus Huds.
-          minus var. albidum De Br.
-          minus var. latifolium De Br.
       minore-persicaria Braun
         = persicaria x minus
       mite Schrnk.
         = laxiflorum Weihe
-            mite f. longifolium Fr.
-            mite f. laxiflorum Whe.
       bitense F. Schultz
         = mite x persicaria
       hydropiper L.
-          hydropiper var. angustifolium Braun
       laxum Rchb.
         = hydropiper x nodosum
       convolvulus L.
       dumetorum L.
+      cuspidatum Sieb. & Zucc.
+      sachalinense F. Schmidt.
   Fagopyrum Trn.
-    > Fagopyrum Trn.
       esculentum Mnch.
         = Polygonum fagopyrum L.
       tataricum Gaertn.
@@ -1471,10 +1323,6 @@ Chenopodiaceeën
           kali var. tenuifolia
   Salicornia Trn.
       herbacea L.
-            herbacea f. patula Duval Joure
-            herbacea f. procumbens Sm.
-            herbacea f. stricta Dum.
-      radicans Sm.
   Corispermum L.
       marshallii Stev.
       hyssopifolium L.
@@ -1485,6 +1333,7 @@ Chenopodiaceeën
       hirsutus Moq. Tand.
         = Kochia hirsuta Nolte
   Chenopodium Trn.
+      multifidum L.
       ambrosioides L.
       botrys L.
       bonus_henricus L.
@@ -1492,24 +1341,16 @@ Chenopodiaceeën
         = Blitum bonus_henricus C. A. M.
           > Blitum bonus-henricus C. A. M.
       polyspermum L.
-            polyspermum f. cymosum Chev.
-            polyspermum f. acutifolium Kit.
       vulvaria L.
+      leptophyllum Nutt.
       hybridum L.
       murale L.
       rubrum L.
         = Blitum rubrum Rchb.
-          rubrum var. blitoides Lej.
-          rubrum var. botryoides Sm.
       urbicum L.
-          urbicum var. intermedium Koch.
       glaucum L.
         = Blitum glaucum Prod.
       album L.
-            album f. microphyllum Coss. & Germ.
-            album f. spicatum Koch.
-            album f. cymigerum Koch.
-            album f. lanceolatum Mühlenb.
       ficifolium Sm.
       opulifolium Schrad.
     Blitum L.
@@ -1526,6 +1367,8 @@ Chenopodiaceeën
       oleracea L.
             oleracea f. spinosa Mnch.
             oleracea f. glabra Mill.
+  Axyris L.
+      amarantoides L.
   Obione Gaertn.
       pedunculata Moq. Tand.
         = Halimus pedunculatus Wallr.
@@ -1539,38 +1382,39 @@ Chenopodiaceeën
       babingtonii Woods.
       roseum L.
       littorale L.
-          littorale var. marinum Detharding
+      calotheca Fr.
       hastatum L.
-        = latifolium Whlb.
-            hastatum f. genuinum Aschrs.
-            hastatum f. macrotheca Schum.
-            hastatum f. microspermum W. & K.
-            hastatum f. deltoideum
-            hastatum f. triangulare Willd.
-            hastatum f. oppositifolium
-            hastatum f. prostratum
+        = latifolium Wahlb.
       patulum L.
-          patulum var. microcarpum Koch.
 Amarantaceeën
   > Amaranthaceae
   Amarantus Trn.
     > Amaranthus Trn.
+      spinosus L.
+      caudatus L.
+      hybridus L.
+        hybridus hypochondriacus Thellung.
+            hybridus f. erythrostachys Th.
+        hybridus cruentus Thellung.
+            hybridus f. paniculatus Th.
       retroflexus L.
-      paniculatus L.
-            paniculatus f. caudatus L.
+      quitensis H. B. K.
+      tricolor L.
+            tricolor f. melancholicus Th.
       albus L.
-      silvester Desf.
-        > sylvestris Desf.
-      melancholicus L.
-  Albersia Kth.
+      vulgatissimus Spegazz.
       gracilis Desf.
-      blitum Kth.
-        = Amarantus blitum L.
-            blitum f. ascendens Fourr.
-      deflexus Gren.
-        = Amarantus deflexus L.
-  Celosia
-      cristata L.
+      lividus L.
+        lividus ascendens Thellung
+          = Albersia blitum Kth.
+      deflexus L.
+      deflexus x vulgatissimus
+        = jansen-wactherianus Thellung
+      blitoides Watson.
+      angustifolius Lmk.
+            angustifolius f. silvester Thellung
+              = silvester Desf.
+                > sylvestris Desf.
   Polycnemum L.
       arvense L.
       majus A. Br.
@@ -1590,9 +1434,9 @@ Caryophyllaceeën
   Corrigiola L.
       littoralis L.
   Herniaria Trn.
+      hirsuta L.
       glabra L.
       ciliata Bab.
-      hirsuta L.
   Illecebrum Trn.
       verticillatum L.
   Scleranthus L.
@@ -1600,24 +1444,14 @@ Caryophyllaceeën
       perennis L.
   Sagina L.
       procumbens L.
-            procumbens f. nodosa Nolte
-            procumbens f. gracilis Nolte
-            procumbens f. crassifolia Nolte
       stricta Fr.
         = maritima Don.
       apetala L.
-            apetala f. genuina Prod.
-            apetala f. ciliata Fr.
       subulata Wimm. & Gray
-      nodosa Meyer
-            nodosa f. genuina Prod.
-            nodosa f. glandulosa Bess.
-            nodosa f. moniliformis Lange
+      nodosa Fenzl.
   Spergula L.
       arvensis L.
-            arvensis f. vulgaris Boenngh.
             arvensis f. sativa Boenngh.
-            arvensis f. maxima Weihe
       morisonii Boreau
   Spergularia Prsl.
       segetalis Fenzl.
@@ -1641,6 +1475,7 @@ Caryophyllaceeën
       umbellatum L.
   Stellaria L.
       uliginosa Murr.
+      viscida M. B.
       nemorum L.
       media Dill.
       holostea L.
@@ -1655,12 +1490,10 @@ Caryophyllaceeën
   Cerastium L.
       arvense L.
       glomeratum Thuill.
+      brachypetalum Desp.
       triviale Lk.
         = caespitosum Gil.
       semidecandrum L.
-            semidecandrum f. glandulosum Prod.
-            semidecandrum f. glutinosum Fr.
-            semidecandrum f. tetrandrum Prod.
       tomentosum L.
   Gypsophila L.
       muralis L.
@@ -1698,8 +1531,8 @@ Caryophyllaceeën
       nutans L.
       dichotoma Ehrh.
       gallica L.
-          gallica var. quinquevulnera L.
       armeria L.
+      linicola Gmel.
   Coronaria L.
       flos_cuculi A. Br.
         > flos-cuculi A. Br.
@@ -1719,7 +1552,6 @@ Caryophyllaceeën
         = album x rubrum
   Agrostemma L.
       githago L.
-          githago var. microcalyx Rupr.
 Aizoaceeën
   > Aizoaceae
   Mesembryanthemum L.
@@ -1777,15 +1609,10 @@ Ranunculaceeën
       jackmanni Host.
       virginiana L.
       vitalba L.
-          vitalba var. crenata Jord.
-          vitalba var. basiovatis Koch
       flammula L.
   Thalictrum L.
       aquilegifolium L.
       minus L.
-            minus f. dunense
-            minus f. flexuosum Bernh.
-            minus f. silvaticum Koch
       flavum L.
   Hepatica Dill.
       triloba Gil.
@@ -1806,62 +1633,40 @@ Ranunculaceeën
       aestivalis L.
   Myosurus Dill.
       minimus L.
+  Ceratocephalus Mnch.
+      falcatus L.
+        = Ranunculus falcatus L.
   Batrachium Wimm.
       hederaceum L.
       divaricatum Schrk.
       fluitans Wimm.
-          fluitans var. natans Prod.
       hololeucum V. D. Bosch
-            hololeucum f. terrestre
       tripartitum D. C.
       salinum Sur.
         salinum baudotii Godr.
           = baudotii V. D. Bosch
-            salinum f. submersum Gren. & Godr.
-            salinum f. terrestre Gren. & Godr.
         salinum confusum Prod.
           = confusum Godr.
           = petiveri Koch
-            salinum f. submersum Sur.
-            salinum f. terrestre Sur.
       aquatile Dum.
         aquatile heterophyllum Wigg.
-            aquatile f. submersum Gren. & Godr.
-            aquatile f. terrestre Gren. & Godr.
         aquatile trichophyllum Chaix.
-            aquatile f. natans Sur.
-            aquatile f. submersum Gren. & Godr.
-            aquatile f. terrestre Gren. & Godr.
   Ranunculus L.
       flammula L.
-          flammula var. serrata D. C.
-          flammula var. angustifolia Wallr.
-          flammula var. arenaria D. C.
-          flammula var. ovata Pers.
-          flammula var. tenuifolia Wallr.
-          flammula var. reptans L.
-            = reptans L.
       lingua L.
       sceleratus L.
       bulbosus L.
       sardous Crntz.
         = philonotis Ehrh.
-          sardous var. intermedius Poir.
-          sardous var. verrucosus Rchb.
-          sardous var. parvulus Lej. & Court.
       arvensis L.
-          arvensis var. tuberculatus D. C.
       muricatus L.
       auricomus L.
       acer L.
       repens L.
-          repens var. erectus D. C.
-          repens var. prostratus D. C.
       polyanthemos L.
       nemorosus D. C.
-      aureus Rchb.
-        = ? repens x nemorosus
       asiaticus L.
+      [_] aconitifolius L.
   Ficaria Dill.
       verna Huds.
         = Ranunculus ficaria L.
@@ -1878,8 +1683,9 @@ Ranunculaceeën
       viridis L.
       foetidus L.
   Nigella Trn.
-      arvensis L.
       damascena L.
+      arvensis L.
+      sativa L.
   Aquilegia Trn.
       vulgaris L.
       chrysantha A. Gr.
@@ -1890,7 +1696,7 @@ Ranunculaceeën
       orientale I. Gay.
       nudicaule Terr. & Gray.
       grandiflorum L.
-      sulphureum Boiss. & Hausskn.
+      hybridum Willd.
   Aconitum Trn.
       napellus L.
       lycoctonum L.
@@ -1899,14 +1705,14 @@ Ranunculaceeën
       racemosa L.
   Xanthorrhiza L'Hérit
     > Xanthorhiza L'Hérit
-      apiifolia L'Hérit
+      apiifolia L'Herit
+        > apiifolia L'Hérit
   Paeonia Trn.
       arborea Donn.
-        = moutan Sims
+        = moutan Sims.
       chinensis Horf.
       officinalis L.
       tenuifolia L.
-      officinalis L.
 Nymphaeaceeën
   > Nymphaeaceae
   Nymphaea Sm.
@@ -1929,18 +1735,13 @@ Papaveraceeën
       hybridum L.
       orientale L.
       rhoeas L.
-            rhoeas f. genuinum Prod.
-            rhoeas f. strigosum Boenngh.
       dubium L.
   Glaucium Trn.
       flavum Crntz.
         = luteum Scop.
       corniculatum Curt.
-          corniculatum var. tricolor Bernh.
-          corniculatum var. phoeniceum Crntz.
   Chelidonium Trn.
       majus L.
-          majus var. laciniatum Mill.
   Eschscholzia Cham. & Schld.
       californica Cham.
 Fumariaceeën
@@ -1954,8 +1755,6 @@ Fumariaceeën
         = bulbosa Pers.
       solida Sm.
         = digitata Pers.
-          solida var. integrata F. Schultz.
-            = intermedia Loisl
       lutea D. C.
       claviculata Pers.
       ochroleuca Koch
@@ -1963,9 +1762,6 @@ Fumariaceeën
   Fumaria Trn.
       densiflora D. C.
       officinalis L.
-          officinalis var. media Coutinho
-            = media Lois.
-          officinalis var. wirtgeni Hausskn
       parviflora Lmk.
       capreolata L.
       muralis Sonder
@@ -1978,25 +1774,13 @@ Cruciferen
       cheiri L.
   Nasturtium R. Br.
       officinale R. Br.
-            officinale f. genuinum Gren. & Godr.
-            officinale f. asarifolium Kralik.
-            officinale f. intermedium Gren.
-            officinale f. siifolium Stend.
-            officinale f. parvifolium Peterm.
       palustre D. C.
       amphibium R. Br.
-            amphibium f. indivisum
-            amphibium f. variifolium D. C.
-            amphibium f. auriculatum
       silvestre R. Br.
-            silvestre f. dentato-incisum
-            silvestre f. rivulare
       brachystylum Wallr.
       brachycarpum
   Barbarea R. Br.
       vulgaris R. Br.
-          vulgaris var. arcuata Rchb.
-          vulgaris var. stricta Andrzj.
       praecox R. Br.
       intermedia Bor.
   Turritis Dill.
@@ -2005,20 +1789,14 @@ Cruciferen
       arenosa Scop.
       alpina L.
       hirsuta Scop.
-            hirsuta f. hirsuta S. S.
-            hirsuta f. sagittata D. C.
-            hirsuta f. gerardi Bess.
   Cardamine L.
       hirsuta L.
         hirsuta multicaulis Hoppe
-          = hirsuta hirsuta S. S.
+          = hirsuta hirsuta s. s.
         hirsuta silvatica Lk.
-            genuina Gren. & Godr.
-            latifolia Prod.
-            umbrosa Gren. & Godr.
       pratensis L.
       amara L.
-      amara x pratensis
+      [_] amara x pratensis
         = palustris Peterm.
   Hesperis L.
       matronalis L.
@@ -2029,30 +1807,27 @@ Cruciferen
   Sisymbrium L.
       sophia L.
       officinale Scop.
-          officinale var. leiocarpa D. C.
       altissimum L.
         = pannonicum Jacq.
       orientale L.
         = columnae L.
-      loeselii L.
       irio L.
+      loeselii L.
+      austriacum Jacq.
       wolgense Bieb.
   Stenophragma Celak
-      thalianum Celak
+      thalianum Celak.
         = Sisymbrium thalianum Gay & Monn.
   Alliaria Adans.
       officinalis Andrzj.
         = Sisymbrium alliaria Scop.
   Braya Sternb. & Hoppe
-      supina Koch
+      supina Koch.
   Erysimum L.
       orientale R. Br.
-          orientale var. apetala
       austriacum D. C.
       cheiranthoides L.
       hieraciifolium L.
-            hieraciifolium f. strictum Prod.
-            hieraciifolium f. virgatum Prod.
       suffruticosum Spreng.
       canescens Roth
       repandum L.
@@ -2070,28 +1845,25 @@ Cruciferen
           elongata var. armoracioides Czern.
   Sinapis Trn.
       cheiranthus Koch.
-          cheiranthus var. propera R. & F.
       pubescens L.
       arvensis L.
-          arvensis var. orientalis Koch.
       alba L.
       dissecta Lag.
   Erucastrum Presl.
       pollichii Sch. & Sp.
   Diplotaxis D. C.
       tenuifolia D. C.
-          tenuifolia var. integrifolia Koch.
       muralis D. C.
       viminea D. C.
-  Eruca D. C.
+  Eruca Lmk.
       sativa Lmk.
-          sativa var. glabrescens Jord.
   Alyssum Trn.
       maritimum Lk.
         = Lobularia maritima Desv.
       saxatile L.
       montanum L.
       calycinum L.
+      minimum Willd.
       campestre L.
       hirsutum M. B.
   Berteroa D. C.
@@ -2105,9 +1877,6 @@ Cruciferen
   Erophila D. C.
       verna L.
         = Draba verna L.
-            verna f. vulgaris Prod.
-            verna f. macrocarpa Prod.
-            verna f. praecox Stev.
   Cochlearia L.
       armoracia L.
         = Armoracia rusticana Fl. Wett.
@@ -2116,17 +1885,14 @@ Cruciferen
       anglica L.
   Camelina Crntz.
       sativa Fr.
-            sativa f. pilosa Koch
-            sativa f. subglabra Koch
-            sativa f. microcarpa Andrzj.
       dentata Pers.
   Subularia L.
       aquatica L.
   Thlaspi L.
       alpestre L.
           alpestre var. calaminare Lej.
+      praecox Wulf.
       arvense L.
-          arvense var. hirsutum
       perfoliatum L.
   Teesdalia R. Br.
       nudicaulis R. Br.
@@ -2149,7 +1915,6 @@ Cruciferen
   Capsella Vent.
       bursa_pastoris Mnch.
         > bursa-pastoris Mnch.
-          integrifolia
   Coronopus Hall.
       ruellii All.
         = Senebiera coronopus Poir.
@@ -2175,7 +1940,6 @@ Cruciferen
   Rapistrum Boerh.
       perenne All.
       rugosum Berger
-            rugosum f. scabrum Host.
   Raphanistrum Trn.
       lampsana Gaertn.
         = Raphanus raphanistrum L.
@@ -2189,7 +1953,6 @@ Resedaceeën
       luteola L.
       alba L.
       lutea L.
-          lutea var. cripsa J. Müll.
       odorata L.
 Violaceeën
   > Violaceae
@@ -2199,23 +1962,15 @@ Violaceeën
       odorata L.
       mirabilis L.
       silvatica Fr.
-            silvatica f. micrantha Döll.
-            silvatica f. riviniana Prod.
+        silvatica micrantha Döll.
+        silvatica riviniana Prod.
       canina L.
-            canina f. ericetorum Schrad.
-            canina f. lucorum Rchb.
-            canina f. flavicornis Sm.
-            canina f. montana L.
-            canina f. lancifolia Thore
-              = lactea Sm.
       persicifolia Schk.
-            persicifolia f. pumila Chaix.
-              = stagnina Kit.
+        persicifolia pumila Chaix.
+          = stagnina Kit.
       tricolor L.
             tricolor f. vulgaris Koch.
-            tricolor f. chrysantha Koch
             tricolor f. arvensis Murr.
-            tricolor f. maritima Schw.
       lutea Sm.
           lutea var. multicaulis Koch
             = calaminare Lej.
@@ -2228,6 +1983,8 @@ Droseraceeën
       rotundifolia L.
       anglica Huds.
         = longifolia Rchb.
+      rotundifolia x anglica
+        = obovata M. & K.
 Cistaceeën
   > Cistaceae
   Helianthemum Trn.
@@ -2277,7 +2034,7 @@ Tiliaceeën
         = cordata Mill.
       intermedia D. C.
         = vulgaris Hayne
-        = grandifolia x parvifolia
+        = platyphyllus x ulmifolia
       euchlora Koch.
         = dasystyla Loud.
       americana L.
@@ -2294,15 +2051,10 @@ Malvaceeën
   Malva L.
       althaeoides Cav.
       alcea L.
-          alvea var. fastiagata Cav.
       moschata L.
-          moschata var. intermedia Gr. & Godr.
-            moschata f. fl_albis
-              > moschata f. floribus_albis
       crispa L.
+      verticillata L.
       silvestris L.
-          silvestris var. triloba Deth.
-          silvestris var. atroviolaceis Weurt.
       neglecta Wallr.
         = vulgaris Fr.
       borealis Wallmann
@@ -2312,9 +2064,15 @@ Malvaceeën
   Althaea L.
       officinalis L.
       hirsuta L.
+      pallida W. & K.
       rosea Cav.
   Lavatera L.
       trimestris L.
+      thuringiaca L.
+  Abutilon Gaertn.
+      avicennae Gaertn.
+  Modiola Mnch.
+      caroliniana Don.
   Malope L.
       trifida L.
         = grandiflora Hort.
@@ -2330,6 +2088,7 @@ Geraniaceeën
       sanguineum L.
       pyrenaicum L.
       platypetalum Fisch. & Mey.
+      nodosum L.
       phaeum L.
       pratense L.
       silvaticum L.
@@ -2337,14 +2096,15 @@ Geraniaceeën
       divaricatum Ehrh.
       pusillum L.
       molle L.
-      dissectum L.
       columbinum L.
+      dissectum L.
+      carolinianum L.
       lucidum L.
       robertianum L.
   Erodium L'Hérit
       malacoides Willd.
+      ciconium Willd.
       cicutarium L'Hérit
-          cicutarium var. pimpinellifolium Willd.
       moschatum L'Hérit
 Tropaeolaceeën
   > Tropaeolaceae
@@ -2439,8 +2199,6 @@ Polygalaceeën
   Polygala L.
       comosa Schk.
       vulgaris L.
-          vulgaris var. oxyptera Rchb.
-          vulgaris var. dunensis Dum.
       serpyllacea Whe.
         = depressa Wenderoth
 Celastraceeën
@@ -2456,7 +2214,6 @@ Aquifoliaceeën
   > Aquifoliaceae
   Ilex L.
       aquifolium L.
-          aquifolium var. senescens Gaud.
   Prinos L.
       glaber Ait.
 Vitaceeën
@@ -2466,7 +2223,7 @@ Vitaceeën
   Ampelopsis Michx.
       quinquefolia R. & Sch.
         = hederacea Mchs.
-      veitschii Hort.
+      veitchii Hort.
 Rhamnaceeën
   > Rhamnaceae
   Rhamnus Trn.
@@ -2492,8 +2249,6 @@ Euphorbiaceeën
       virgata W. & K.
       cyparissias Scop.
       esula L.
-          esula var. pinifolia Lmk.
-            = cyparissias var. esuloides D. C.
       peplus L.
       exigua L.
       segetalis L.
@@ -2509,7 +2264,6 @@ Callitrichaceeën
       obtusangula Le Gall.
       hamulata Kütz.
       stagnalis Scop.
-        stagnalis platycarpa Kütz.
       verna L.
 Buxaceeën
   > Buxaceae
@@ -2534,13 +2288,13 @@ Umbelliferen
       alpinum L.
   Cicuta L.
       virosa L.
-          virosa var. tenuifolia Fröl.
   Apium Trn.
       graveolens L.
   Petroselinum Hoffm.
       sativum Hoffm.
   Helosciadium Koch.
       inundatum Koch.
+      leptophyllum D. C.
       repens Koch.
       nodiflorum Koch.
   Falcaria Riv.
@@ -2548,6 +2302,7 @@ Umbelliferen
         = sioides Aschs.
   Ammi Trn.
       majus L.
+      visnaga Lmk.
   Aegopodium L.
       podagraria L.
   Carum Koch.
@@ -2558,10 +2313,7 @@ Umbelliferen
   Pimpinella L.
       anisum Adans.
       magna L.
-          magna var. laciniata Wallr.
-          magna var. dissecta Wallr.
       saxifraga L.
-          saxifraga var. nigra Willd.
   Berula Koch
       angustifolia Koch
   Sium Trn.
@@ -2569,19 +2321,18 @@ Umbelliferen
   Bupleurum Trn.
       odontites L.
       tenuissimum L.
+      gerardi Jacq.
       protractum Lk. & Hoffmgg.
       rotundifolium L.
   Oenanthe L.
       aquatica Lmk.
         = phellandrium Lmk.
       fistulosa L.
-          fistulosa var. tabernaemontani Gmel.
       peucedanifolia Poll.
       pimpinelloides L.
       lachenalii Gmel.
   Aethusa L.
       cynapium L.
-          cynapium var. elata Friedl.
   Foeniculum Adans.
       capillaceum Gil.
         = officinale All.
@@ -2618,6 +2369,7 @@ Umbelliferen
   Daucus Trn.
       carota L.
       littoralis Sibth.
+      aureus Desf.
   Orlaya Hoffm.
       grandiflora Hoffm.
   Caucalis L.
@@ -2746,8 +2498,7 @@ Saxifragaceeën
 Hamamelidaceeën
   > Hamamelidaceae
   Liquidambar L.
-      styriciflua L.
-        > styraciflua L.
+      styraciflua L.
   Hamamelis L.
       virginica L.
       japonica Sieb. & Zucc.
@@ -2775,19 +2526,13 @@ Onagraceeën
   > Onagraceae
   Epilobium L.
       angustifolium L.
-          angustifolium var. minor
       dodonaei Vill.
       montanum L.
-          montanum var. verticillatum V. D. Bosch
-          montanum var. gracile V. D. Bosch
       hirsutum L.
       parviflorum Schreb.
-          parviflorum var. verticillatum V. D. Bosch
       palustre L.
-          palustre var. schmidtianum Koch
-            = ? palustre x virgatum
-          palustre var. hyssopifolium
       roseum Schreb.
+      [_] roseum x parviflorum
       tetragonum L.
       virgatum Fr.
         = chordorrhizum Fr.
@@ -2799,8 +2544,6 @@ Onagraceeën
       speciosa Nutt.
       lamarckiana Ser.
       biennis L.
-          biennis var. grandiflora Torr. & Gray
-          biennis var. parviflora Abrom.
       muricata L.
       fruticosa L.
       glauca Mchx.
@@ -2829,7 +2572,6 @@ Halorrhagidaceeën
       alterniflorum D. C.
   Hippuris L.
       vulgaris L.
-          vulgaris var. fluviatilis
   Gunnera L.
       scabra R. & Pav.
 Lythrarieeën
@@ -2862,8 +2604,6 @@ Rosaceeën
       coccinea L.
       oxyacantha L.
         = Mespilus oxyacantha Gaertn.
-          oxyacantha var. fol_biserratis
-            > oxyacantha var. foliis_biserratis
       monogyna Jacq.
         = Mespilus monogyna Willd.
       crus_galli L.
@@ -2918,17 +2658,10 @@ Rosaceeën
       pomifera Herm.
       mollis Sm.
       rubiginosa L.
-          rubiginosa var. echinocarpa
       agrestis Savi.
         = sepium Thuill.
       canina L.
-            canina f. vulgaris Koch.
-            canina f. andegavensis
-            canina f. dumalis Bechst.
-            canina f. insignis Gren.
-            canina f. ramosissima Rau.
       dumatorum Thuill.
-          dumatorum var. urbica Leman.
       canina Jacq.
         = gallica x dumetorum
       pimpinellifolia L.
@@ -2936,7 +2669,6 @@ Rosaceeën
       pimpinellifolia x pomifera
       lutea Mill.
       cinnamomea L.
-          cinnamomea var. foecundissima Münchh.
       rugosa Thunb.
       chinensis Jacq.
           chinensis f. indica Koehne
@@ -2981,16 +2713,16 @@ Rosaceeën
         = rhamnifolius Wh. & N.
       villicaulis Köhl.
       vulgaris Wh. & N.
-            vulgaris f. eu-vulgaris Focke.
-            vulgaris f. commutatus G. Braun.
-            vulgaris f. lindleyanus Focke.
       argenteus Wh. & N.
       thyrsoideus Wimm.
+        thyrsoideus candicans Whe.
         thyrsoideus fragrans Focke
       pubescens Focke
         pubescens eu-pubescens Focke
       ulmifolius Schott. f.
         ulmifolius rusticanus E. Mercier
+      pseudagrestis Focke.
+        = ulmifolius x caesius
       hedycarpus Focke.
         hedycarpus macrostemon Focke
           = discolor Wh. & N.
@@ -3001,15 +2733,12 @@ Rosaceeën
       geniculatus Lmk.
       villicaulis Köhl.
             villicaulis f. incarnatus Focke
-          villicaulis var. glandulosa
       rhombifolius Whe.
       gratus Focke.
       silvaticus Wh. & N.
-          silvaticus var. glandulosa
       leucandrus Focke.
       macrophyllus Wh. & N.
         macrophyllus eu-macrophyllus Focke
-          macrophyllus var. piletostachys Gren. & Godr.
         macrophyllus schlechtendalii Whe.
       chlorothyrsos Focke.
       sprengelii Whe.
@@ -3022,18 +2751,11 @@ Rosaceeën
       lasioclados Focke
       obscurus Kaltenb.
             obscurus f. inseraticus P. J. Müller
-              obscurus r. rubicundus P. J. Müller
-              obscurus r. decorus P. J. Müller
-                = cruentatus P. J. Müller
             obscurus f. fusco-ater Focke
       menkei Wh. & N.
-              menkei r. teretiusculus Focke
-                = teretiusculus Kaltenb.
       rudis Wh. & N.
       radula Whe.
       pallidus Wh. & N.
-              pallidus r. fuscus Focke
-                = fuscus Wh. & N.
       thyrsiflorus Wh. & N.
       foliosus Wh. & N.
               foliosus r. saltuum Focke
@@ -3047,22 +2769,18 @@ Rosaceeën
       horridus Hartm.
         = koehleri subsp. balticus
       hystrix Wh. & N.
-              hystrix r. adornatus Focke
       koehleri Wh. & N.
       bellardii Wh. & N.
       schleicheri Whe.
       viridis Kaltenb.
             viridis f. eu-viridis Focke
       caesius L.
-          caesius var. aquaticus Wh. & N.
-          caesius var. dunense Noeldeke
-          caesius var. arvalis Rchb.
-          caesius var. innoxius
-            = innoxius Forst.
-      [_] prunosus Arrhen
-      [_] nemorosus Hayne
-      [_] wahlbergii Arrhen.
-      [_] corylifolius Sm.
+      prunosus Arrhen
+      diversifolius Lindl.
+      nemorosus Hayne
+        nemorosus divergens Neumann
+      [1] wahlbergii Arrhen.
+      [1] corylifolius Sm.
   Fragaria Trn.
       collina Ehrh.
       elatior Ehrh.
@@ -3090,16 +2808,16 @@ Rosaceeën
         = Tormentilla reptans L.
       mixta Nolte
         = procumbenti-reptans G. Meij
+      reptans x tormentilla
+            per-tormentilla
       verna L.
-          verna var. crocea
-          verna var. multipetala Wachter & Jansen
         verna tabernaemontani Aschrs.
       argentea L.
-          argentea var. virescens Whlnbg.
-          argentea var. tomentosus Döll.
       recta L.
-        recta pilosa
-          = pilosa Willd.
+        recta acutifolia Gil.
+        recta fallacina Blocki.
+        recta corymbosa Mnch.
+        recta pilosa Lehm.
       intermedia Vill.
         = inclinata var. virescens Boiss.
   Alchemilla L.
@@ -3110,7 +2828,6 @@ Rosaceeën
         = Sanguisorba officinalis L.
       sanguisorba L.
         = Sanguisorba minor Scop.
-          sanguisorba var. dictyocarpon Spach.
   Agrimonia Trn.
       eupatoria L.
       odorata Mill.
@@ -3123,7 +2840,9 @@ Rosaceeën
       tomentosa L.
       douglasii Hook.
       callosa Thunbg.
+        = japonica L. fil.
       chamaedrifolia L.
+      hypericifolia L.
       prunifolia Sieb. & Zucc.
   Physocarpus Chambess.
       opulifolia Maximw.
@@ -3136,8 +2855,6 @@ Rosaceeën
         = Spiraea palmata Thnbg.
       palustris Moench.
         = Spiraea ulmaria L.
-            palustris f. discolor
-            palustris f. denudata Hayne
       filipendula I. Hill.
         = Spiraea filipendula L.
   Gillenia Mnch.
@@ -3208,7 +2925,6 @@ Papilionaceeën
       angustifolius L.
   Ononis L.
       spinosa L.
-          spinosa var. mitis L.
       repens L.
           repens var. mitis Gmel.
   Anthyllis L.
@@ -3221,26 +2937,34 @@ Papilionaceeën
       media Pers.
         = sativa x falcata
       falcata L.
-          falcata var. angustifoliata Vuyck
       orbicularis L.
+      scutellata All.
       intertexta Gaertn.
           intertexta var. echinus Arc.
             = echinus D. C.
-      sphaerocarpa Bertol.
+      cillaris Willd.
       minima L.
+      laciniata All.
       arabica All.
         = maculata Willd.
       hispida Gaertn.
-            hispida f. apiculata Willd.
-            hispida f. denticulata Willd.
+      truncatula Gaertn.
+          truncatula var. tribuloides Burnat.
+      murex Willd.
+            murex f. sphaerocarpa Bertol.
   Trigonella L.
+      corniculata L.
       coerulea Ser.
         = Melilotus coeruleus Desr.
-      ornithopodioides D. C.
-      gladiata Stev.
+      foenum_graecum L.
+        > foenum-graecum L.
+            foenum_graecum f. gladiata Stev.
+            > foenum-graecum f. gladiata Stev.
+      polycerata L.
       orthoceras Karilin & Kiriloff
   Melilotus L.
       sulcatus Desf.
+      infestus Guss.
       macrocarpa Dur.
       indicus All.
         = parviflora Desf.
@@ -3253,54 +2977,49 @@ Papilionaceeën
       officinalis Desr.
         = arvensis Wallr.
   Trifolium L.
-      glomeratum L.
+      vesiculosum Savi
+      parviflorum Ehrh.
       hybridum L.
-          hybridum var. elegans Savi.
-            = elegans Savi.
+        hybridum elegans Savi.
+          = elegans Savi.
       repens L.
-          repens var. rubente D. C.
-      vesiculosum Savi.
+      ornithopodioides Sm.
+        = Trigonella ornithopodioides D. C.
+      glomeratum L.
       fragiferum L.
       resupinatum L.
       tomentosum L.
       subterraneum L.
-      ochroleucum L.
-      medium L.
-      diffusum Ehrh.
+      striatum L.
+      lappaceum L.
+      arvense L.
+      scabrum L.
+      incarnatum L.
+      stellatum L.
       pratense L.
           pratense var. expansum Hausskn.
             = pratense var. americana Harz.
-          pratense var. villosum Wahlb.
-      lappaceum L.
+      diffusum Ehrh.
+      medium L.
+      angustifolium L.
+      ochroleucum L.
       alexandrinum L.
       maritimum Huds.
       supinum Savi.
-      incarnatum L.
-      stellatum L.
-      angustifolium L.
-      scabrum L.
-      arvense L.
-          arvense var. tenuis
-      striatum L.
-          striatum var. tenuiflorum Ten.
       minus Relhan.
         = filiforme Koch.
-          minus var. minimum Gaud.
-      agrarium L.
-        = aureum Poll.
       procumbens L.
         = agrarium Poll.
-            procumbens f. campestre Schreb.
-              = procumbens f. majus Koch
-            procumbens f. minus Koch
-              = procumbens Schreb.
+        procumbens campestre Schreb.
+          procumbens var. majus Koch.
+        procumbens minus Koch.
+          = procumbens Schreb.
+      agrarium L.
+        = aureum Poll.
   Lotus L.
       angustissimus L.
       uliginosus L.
       corniculatus L.
-          corniculatus var. ciliatus Koch.
-          corniculatus var. hirsutus Koch.
-          corniculatus var. crassifolius Pers.
       tenuifolius L.
         = tenuis Kit.
   Lespedezia Mich.
@@ -3343,7 +3062,6 @@ Papilionaceeën
   Ornithopus L.
       sativus Brot.
       perpusillus L.
-      compressus L.
   Onobrychis Trn.
       viciaefolia Scop.
         = sativa Lam.
@@ -3357,11 +3075,10 @@ Papilionaceeën
         = villosa var. glabrescens Koch.
       tenuifolia Rth.
       cracca L.
-          cracca var. incana Thuill.
+      picta Fisch. & Mey.
       sepium L.
       melanops Sibth. & Sm.
       pannonica Jacq.
-          pannonica var. striata M. B.
       peregrina L.
       hybrida L.
       lutea L.
@@ -3372,7 +3089,6 @@ Papilionaceeën
       faba L.
         = Faba vulgaris Mnch.
       narbonensis L.
-          narbonensis var. serratifolia Jacq.
     Ervum Trn.
       ervilia Willd.
         = Ervum ervilia L.
@@ -3389,14 +3105,16 @@ Papilionaceeën
       sativum L.
       arvense L.
   Lathyrus L.
+      ochrus D. C.
       aphaca L.
       nissolia L.
       tuberosus L.
       pratensis L.
       odoratus L.
       annuus L.
-      sativus L.
       hirsutus L.
+      cicera L.
+      sativus L.
       paluster L.
       silvester L.
       heterophyllus L.
@@ -3405,7 +3123,8 @@ Papilionaceeën
     Orobus L.
       montanus Bernh.
         = Orobus tuberosus L.
-          montanus var. tenuifolius Rth.
+      niger Bernh.
+        = Orobus niger L.
       vernus Bernh.
         = Orobus vernus L.
   Erythrina L.
@@ -3436,6 +3155,7 @@ Santalaceeën
   > Santalaceae
   Thesium L.
       humifusum D. C.
+      pratense Ehrh.
 Loranthaceeën
   > Loranthaceae
   Viscum L.
@@ -3469,6 +3189,8 @@ Ericaceeën
   Azalea L.
       pontica L.
       mollis Blume.
+  Kalmia L.
+      latifolia l.
   Rhododendron L.
       ponticum L.
       hirsutum L.
@@ -3505,7 +3227,6 @@ Primulaceeën
         = Naumburgia thyrsiflora Rchb.
   Anagallis Trn.
       arvensis L.
-          arvensis var. coerulea Schreb.
       tenella L.
   Centunculus Dill.
       minimus L.
@@ -3519,8 +3240,7 @@ Primulaceeën
       elatior Jacq.
         = veris elatior L.
       acaulis Jacq.
-        = veris auriculis L.
-          acaulis var. caulescens
+        = veris acaulis  L.
   Dodecatheon L.
       meadea L.
   Cyclamen L.
@@ -3556,7 +3276,6 @@ Oleaceeën
       chinensis Willd.
         = rothomagensis Renault
       persica L.
-        persica laciniata
       josikaa Jacq.
       emodi Wall.
   Forsythia Vahl.
@@ -3590,7 +3309,7 @@ Gentianaceeën
       trifoliata L.
   Chlora L.
       perfoliata L.
-      serotina Koch
+      serotina Koch.
   Gentiana Trn.
       acaulis L.
       cruciata L.
@@ -3632,19 +3351,17 @@ Convolvulaceeën
       soldanella L.
       pubescens Lindl.
         = Calystegia pubescens Lindl.
-      arvensis L.
-          arvensis var. obtusifolia V. Hall.
-            = arvensis var. cordifolius Lasch
+      arvense L.
       tricolor L.
   Quamoclit Trn.
       coccinea Mnch.
   Pharbitis Choisy
-      purpurea Aschs.
+      purpurea Aschrs.
         = Convolvulus purpureus L.
         = Ipomoea purpurea Lmk.
   Cuscuta Trn.
+      gronovii Willd.
       epithymum L.
-          epithymum var. trifolii Bab.
       europaea L.
       epilinum Whe.
 Polemoniaceeën
@@ -3689,8 +3406,6 @@ Asperifoliën
   Lappula Rupp.
       myosotis Mnch.
         = Echinospermum lappula Lehm.
-      deflexa Grcke.
-        = Echinospermum deflexum Lehm.
       patula Aschrs.
   Cynoglossum Trn.
       officinale L.
@@ -3713,6 +3428,8 @@ Asperifoliën
       ochroleuca M. & K.
         = officinalis var. ochroleuca
       italica  Retz.
+  Nonnea Med.
+      pulla D. C.
   Symphytum Trn.
       officinale L.
   Echium Trn.
@@ -3732,33 +3449,15 @@ Asperifoliën
   Alkanna Tausch.
       tinctoria Tausch.
   Myosotis Dill.
-      caespitosa Schultz
-          caespitosa var. gracilis Cop.
-          caespitosa var. laxa Cop.
-          caespitosa var. humilis Cop.
-          caespitosa var. gigantea Vuyck
       palustris L.
-            palustris f. vulgaris Cop.
-              = palustris f. genuina Aschrs.
-            palustris f. aquatica Cop.
-            palustris f. strigulosa Rchb.
-            palustris f. laxiflora Rchb.
+      caespitosa Schultz
       silvatica Hoffm.
         = alpestris Hort.
       arenaria Schrad.
         = stricta Lk.
-          arenaria var. basiantha Rchb.
       versicolor Sm.
-          versicolor var. gracilis Cop.
-          versicolor var. multicaulis Cop.
-          versicolor var. laxa Cop.
       intermedia Lk.
-          intermedia var. silvestris Schldl.
-          intermedia var. gracilis Cop.
-          intermedia var. stricta Cop.
       hispida Schldl.
-            hispida f. forma_umbrosa Cop.
-            hispida f. forma_procumbens Cop.
 Solanaceeën
   > Solanaceae
   Lycium L.
@@ -3767,17 +3466,18 @@ Solanaceeën
   Solanum L.
       lycopersicum Trn.
       rostratum Duval.
+      sisymbriifolium Lk.
       heterodoxum Dun.
         = citrullifolium A. Br.
       tuberosum L.
       dulcamara L.
-      nigrum L.
-          nigrum var. memphiticum Martius
-          nigrum var. chlorocarpum Spiller
-          nigrum var. humile Bernh.
-          nigrum var. rubrum Mill.
+      triflorum Nutt.
       villosum Lmk.
-  Capsicum
+      nigrum L.
+            nigrum f. melanocerasum
+            nigrum f. atriplicifolium
+      alatum Mnch.
+  Capsicum L.
       annuum L.
   Physalis L.
       alkekengi L.
@@ -3786,19 +3486,17 @@ Solanaceeën
       physaloides Gaertn.
   Scopolia Jacq.
       carniolaca Jacq.
-          carniolaca var. hladnikiana Freijer
   Atropa L.
       belladonna L.
   Hyoscyamus Trn.
       niger L.
-          niger var. agrestis Kit.
-          niger var. pallidus Kit.
   Nicotiana Trn.
       tabacum L.
       rustica L.
       alata Lk. & Otto
       silvestris Spegg. & Comes.
       affinis Moore.
+      longiflora Cav.
   Salpichroa Miers.
       rhomboidea Miers.
   Datura L.
@@ -3818,22 +3516,15 @@ Scrophulariaceeën
   Verbascum L.
       phoeniceum L.
       blattaria L.
+      blattarioides Lmk.
       thapsus L.
         = schraderi G. Mey.
-          thapsus var. elongatum
-            = elongatum
       thapsiforme Schrad.
-          thapsiforme var. cuspidatum
-            = cuspidatum Schrad.
       phlomoides L.
-          phlomoides var. nemorosum Schrad.
       lychnitis L.
-          lychnitis var. album Mill.
       sinuatum L.
       orientale M. B.
-        = chaixi Vill.
       nigrum L.
-          nigrum var. thyrsoideum Prod.
       [1] lychnitis x nigrum
         = schiedeanum Koch.
       [1] nigrum x phlomoides
@@ -3861,28 +3552,31 @@ Scrophulariaceeën
       vernalis L.
       nodosa L.
       alata Gil.
-            alata f. ehrharti Stev.
-            alata f. neesii
-              = neesii Wirtg.
-            alata f. balbisii
-              = balbisii Hornem
-              = aquatica L.
+        alata ehrharti Stev.
+        alata neesii
+          = neesii Wirtg.
+        alata balbisii
+          = balbisii Hornem
+          = aquatica L.
   Antirrhinum L.
       orontium L.
       majus L.
-          majus var. latifolia D. C.
   Collinsia Nutt.
       bicolor Benth.
   Linaria Trn.
-      cymbalaria L.
+      cymbalaria Mill.
       elatine Mill.
       spuria Mill.
       minor L.
       vulgaris Mill.
+      odora Chav.
+      genistifolia Mill.
+      bipartita Willd.
+      chalepensis Mill.
       purpurea Mill.
       striata D. C.
       arvensis L.
-      chalepensis Mill.
+      pellisseriana Mill.
   Nemesia Vent.
       strumosa Benth.
   Gratiola L.
@@ -3898,7 +3592,7 @@ Scrophulariaceeën
   Mimulus L.
       luteus L.
       cardinalis Dougl.
-      moschata Dougl.
+      moschatus Dougl.
   Limosella Lindl.
       aquatica L.
   Digitalis Trn.
@@ -3907,44 +3601,27 @@ Scrophulariaceeën
   Veronica Trn.
       virginica L.
       longifolia L.
-            longifolia f. vulgaris Koch
-            longifolia f. maritima L.
-            longifolia f. media Schrad.
-            longifolia f. glabra Schrad.
       spicata L.
       gentianoides Vahl.
       incana L.
       scutellata L.
-          scutellata var. pilosa Valh.
-          scutellata var. latifolia
       anagallis L.
-          anagallis var. aquatica Bernh.
-          anagallis var. latifolia V. Hall.
-          anagallis var. minor R. S.
       beccabunga L.
-          beccabunga var. limosa Cop.
-          beccabunga var. repens Cop.
-          beccabunga var. minor Schldl.
       chamaedrys L.
-          chamaedrys var. lamiifolia Hayne
-          chamaedrys var. pilosa Willd.
       montana L.
       officinalis L.
       prostrata L.
       teucrium L.
-          teucrium var. minor Schrad.
-            = latifolia Aut.
+        = latifolia Aut.
       austriaca L.
       serpyllifolia L.
-            serpyllifolia f. fl_albis
-              > serpyllifolia f. floribus_albis
-          serpyllifolia var. calycantha
       praecox All.
       triphyllos L.
       verna L.
       arvensis L.
       peregrina L.
-      hederifolia L.
+      hederaefolia L.
+        > hederifolia L.
       tournefortii Gmle.
         = persica Poir.
         = buxbaumii Ten.
@@ -3971,27 +3648,21 @@ Scrophulariaceeën
   Euphrasia Trn.
       lutea L.
       odontites L.
-            odontites f. paludosa Cop.
-          odontites var. serotina Link
       verna Bellardi
         = littoralis Fr.
       nemorosa Pers.
         nemorosa stricta Host.
         nemorosa curta Wettstein
-            nemorosa f. glabrescens Wettstein
-            nemorosa f. imbricata Cop.
-            nemorosa f. coerulea Tausch.
         nemorosa nitidula Reuter
-          nemorosa var. imbricata
         nemorosa gracilis Fr.
       rostkoviana Hayne
         rostkoviana pratensis Fr.
   Parentucellia Viv.
-      viscusa L.
+      viscosa L.
         = Euphragia viscosa Benth.
   Lathraea L.
       squamaria L.
-  Paulownia S. & Z.
+  Paulownia Sieb. & Zucc.
       tomentosa Thunbg.
         = imperialis S. & Z.
 Labiaten
@@ -4005,25 +3676,17 @@ Labiaten
       patrini Grcke.
   Mentha Trn.
       rotundifolia L.
-          rotundifolia var. umbrosa Cop.
       silvestris L.
-            silvestris f. vulgaris Koch
+        silvestris vulgaris Koch
             silvestris f. nemorosa
               = nemorosa Willd.
             silvestris f. velutina Lej.
-            silvestris f. viridis Koch
-              = viridis L.
+        silvestris viridis Koch
+          = viridis L.
       aquatica L.
-          aquatica var. hirsuta L.
       arvensis L.
       aquatica x arvensis
         = verticillata L.
-            latifolia Malinv.
-            subspicata Whe.
-            sativa L.
-              = sativa L.
-            acutifolia Sm.
-              = pyramidalis Lloyd
       aquatica x silvestris
         = dumetorum Schult.
       viridis x aquatica
@@ -4042,8 +3705,6 @@ Labiaten
       verbenaca L.
       pratensis L.
       silvestris L.
-          silvestris var. nemorosa
-            = nemorosa L.
       aethiopis L.
       sclarea L.
       argentea L.
@@ -4057,10 +3718,9 @@ Labiaten
   Thymus Trn.
       vulgaris L.
       serpyllum L.
-            serpyllum f. chamaedrys Fr.
-            serpyllum f. angustifolius Pers.
-          serpyllum var. citriodorus Schreb.
-  Satureja Riv.
+        serpyllum chamaedrys Fr.
+        serpyllum angustifolius Pers.
+  Satureja Trn.
       hortensis L.
   Calamintha Mnch.
       acinos Clairv.
@@ -4076,7 +3736,6 @@ Labiaten
   Nepeta L.
       ucranica L.
       cataria L.
-          cataria var. citriodora Beck
       nepetella L.
   Glechoma L.
       hederacea L.
@@ -4088,7 +3747,6 @@ Labiaten
       parviflorus Nutt.
   Lamium Trn.
       amplexicaule L.
-          amplexicaule var. fallax Junger
       purpureum L.
       amplexicaule x purpureum
             intermedium
@@ -4096,7 +3754,6 @@ Labiaten
             dissectum With.
               = dissectum With.
               = incisum Willd.
-          decipiens
       maculatum L.
       album L.
   Galeobdolon Huds.
@@ -4104,16 +3761,12 @@ Labiaten
         = Lamium galeobdolon Crntz.
   Galeopsis L.
       ladanum L.
-            ladanum f. latifolia
-              = latifolia Hoffm.
-            ladanum f. angustifolia Ehrh.
-            ladanum f. genuina
-            ladanum f. parviflora Koch
+        ladanum latifolia
+          = latifolia Hoffm.
+        ladanum angustifolia Ehrh.
       ochroleuca Lmk.
       pubescens Bess.
       tetrahit L.
-          tetrahit var. bifida
-            = bifida Boenngh.
       speciosa Mill.
         = versicolor Curt.
   Stachys Trn.
@@ -4124,10 +3777,9 @@ Labiaten
       arvensis L.
       silvaticus L.
       paluster L.
-          paluster var. petiolata Cop.
       [_] tubifera Naudin
       silvaticus x paluster
-        = ambigua Sm.
+        = ambiguus Sm.
   Betonica L.
       officinalis L.
         = Stachys betonica Peuth.
@@ -4144,8 +3796,6 @@ Labiaten
         = foetida Lmk.
   Leonurus L.
       cardiaca L.
-          cardiaca var. glaber Abrom. & Scholz
-          cardiaca var. villosus Desf.
   Scutellaria L.
       columnae All.
           columnae var. gussoni Ten.
@@ -4154,8 +3804,6 @@ Labiaten
       minor L.
   Brunella Trn.
       vulgaris L.
-          vulgaris var. pinnatifida Pers.
-            = laciniata L.
       alba Pall.
   Physostegia Benth.
       virginica Benth.
@@ -4195,9 +3843,7 @@ Orobanchaceeën
         > rapum-genistae Thuill.
       purpurea Jacq.
         = coerulea Vill.
-          purpurea var. rhenana Fl. Bat.
       ramosa L.
-          ramosa var. coerulea
 Bignoniaceeën
   > Bignoniaceae
   Eccremocarpus R. & Pav.
@@ -4230,26 +3876,17 @@ Plantaginaceeën
       juncea Berg.
         = lacustris L.
   Plantago L.
+      psyllium L.
       arenaria W. & K.
       cynops L.
       lanceolata L.
-            lanceolata f. vulgaris Cop.
-            lanceolata f. angustifolia Cop.
-            lanceolata f. capillata Koch
-            lanceolata f. dubia Liljeblad
-            lanceolata f. silvatica Cop.
-            lanceolata f. elliptica Cop.
       lagopus L.
       major L.
-          major var. minor Cop.
-          major var. winteri Wirtg.
+      [_] major x lanceolata
       media L.
-          media var. longifolia G. Mey.
       maritima L.
-            maritima f. genuina Koch
-            maritima f. dentata Rth.
-            maritima f. subulata Rth.
       coronopus L.
+      serraria L.
       aristata Mchx.
 Campanulaceeën
   > Campanulaceae
@@ -4257,13 +3894,10 @@ Campanulaceeën
       montana L.
   Phyteuma L.
       spicatum L.
-          spicatum var. rapunculus Pers.
-            = nigrum Schmidt
       orbiculare L.
   Campanula Trn.
       medium L.
       glomerata L.
-          glomerata farinosa Andrzj.
       rapunculoides L.
       carpatica Jacq.
       pyramidalis L.
@@ -4273,8 +3907,8 @@ Campanulaceeën
       rotundifolia L.
       patula L.
       rapunculus L.
-  Platycodon D. C. fils.
-      grandiflorum D. C. fils.
+  Platycodon D. C. fil.
+      grandiflorum D. C. fil.
   Specularia Heist.
       speculum D. C. fil.
       hybrida D. C. fil.
@@ -4306,7 +3940,6 @@ Rubiaceeën
   > Rubiaceae
   Sherardia Dill.
       arvensis L.
-          arvensis var. maritima Griseb.
   Cephalanthus L.
       occidentalis L.
   Aperula L.
@@ -4321,29 +3954,22 @@ Rubiaceeën
       tinctorum L.
   Crucianella L.
       stylosa Trin.
+      angustifolia L.
   Galium L.
       cruciata L.
       boreale L.
       parisiense L.
-          parisiense var. trichocarpum Tausch.
-            = parisiense L.
-          parisiense var. leiocarpum Tausch.
-            = anglicum Huds.
       tricorne With.
       aparine L.
-          aparine var. vaillantii D. C.
-          aparine var. spurium Rchb.
       uliginosum L.
       palustre L.
-          palustre var. elongatum Presl.
-            = elongatum Presl.
       verum L.
       silvaticum L.
       mollugo L.
-            mollugo f. elatum Thuill.
-            mollugo f. erectum Huds.
+        mollugo elatum Thuill.
+        mollugo erectum Huds.
       ochroleucum Wolf.
-      harcynicum Weig.
+      hercynicum Weig.
         = saxatile L.
       silvestre Poll.
             silvestre f. hirtum M. & K.
@@ -4354,9 +3980,6 @@ Caprifoliaceeën
       racemosa L.
       nigra L.
           nigra var. laciniata L.
-          nigra var. leucocarpa Koch.
-          nigra var. foliis_bipinnatis
-          nigra var. foliis_variegatis
       canadensis L.
     Ebulum Pont.
       ebulus L.
@@ -4403,7 +4026,6 @@ Valerianaceeën
       macrosiphon Boiss.
   Valeriana Trn.
       officinalis L.
-          officinalis var. angustifolia Tausch.
       excelsa Poir.
         = sambucifolia Mik.
       dioica L.
@@ -4411,19 +4033,14 @@ Valerianaceeën
   Valerianella Trn.
       olitoria Poll.
             olitoria f. leiocarpa Krok.
-            olitoria f. oleracea Schldl.
+            [_] olitoria f. oleracea Schldl.
       carinata Loisl.
       coronata D. C.
       eriocarpa Desv.
-          eriocarpa var. leiocarpa Koch.
       morisonii D. C.
         = dentata Poll.
-            morisonii f. leiocarpa D. C.
-            morisonii f. lasiocarpa Koch.
       rimosa Bast.
         = auricula D. C.
-            rimosa f. leiocarpa Koch.
-            rimosa f. lasiocarpa Krok.
 Dipsacaceeën
   > Dipsacaceae
   Morina L.
@@ -4431,17 +4048,17 @@ Dipsacaceeën
         = elegans Fisch. & Lallem.
   Dipsacus Trn.
       pilosus L.
-      silvester Mill.
       fullonum L.
-  Knautia L.
+      silvester Mill.
+      laciniatus L.
+  Knautia Coulter
       arvensis L.
         = Scabiosa arvensis L.
-          arvensis var. integrifolia W. & Grab.
-          arvensis var. glandulifera Koch
+  Cephalaria Schrad.
+      syriaca Schrad.
   Succisa Vaill.
       pratensis Mnch.
         = Scabiosa succisa L.
-          pratensis var. pinnatifida Hsm.
   Scabiosa Trn.
       columbaria L.
       caucasica M. B.
@@ -4472,13 +4089,14 @@ Compositen
         = salignus Willd.
       novi_belgii L.
         > novi-belgii L.
+          laevigatus A. Gray
+            = brumalis Nees.
       laevis L.
       leucanthemus Desf.
       parviflorus N. von E.
     Tripolium
       tripolium L.
         = Tripolium vulgare N. von E.
-            tripolium f. floribus_albis
           tripolium var. discoideus
   Callistephus Cass.
       chinensis N. von E.
@@ -4493,6 +4111,8 @@ Compositen
       acer L.
         acer serotinus Weihe
       linifolius Willd.
+        = Conyza ambigua D. C.
+        = crispus Pourr.
       speciosus D. C.
       pulchellus Mchx.
   Solidago L.
@@ -4511,6 +4131,7 @@ Compositen
       glandulosa Willd.
       helenium L.
       britannica L.
+      salicina L.
   Pulicaria Gaertn.
       vulgaris Gaertn.
         = Inula pulicaria L.
@@ -4525,9 +4146,12 @@ Compositen
       spinosum L.
       strumarium L.
       macrocarpum D. C.
+      italicum Moretti
   Ambrosia Trn.
       artemisiaefolia L.
       trifida L.
+  Siegesbeckia L.
+      orientalis L.
   Galinsoga R. & Pav.
       parviflora Cav.
   Madia Mol.
@@ -4538,12 +4162,10 @@ Compositen
       patula L.
       erecta L.
   Bidens Trn.
+      bipinnatus L.
       tripartitus L.
-            tripartitus f. pumila Rth.
-          tripartitus var. integer Koch
       cernuus L.
-          cernuus var. radians G. Beck
-          cernuus var. minimus D. C.
+      connatus Mühlenb.
   Cosmos Cav.
       bipinnatus Cav.
       atrosanguineus Ortgies.
@@ -4554,6 +4176,7 @@ Compositen
       tuberosus L.
       annuus L.
       cucumerifolius Hort.
+      debilis Nutt.
   Rudbeckia L.
       laciniata L.
       triloba L.
@@ -4561,7 +4184,10 @@ Compositen
   Calliopsis Rchb.
       tinctoria Lk.
         = bicolor Rchb.
+        = Coreopsis tinctoria Nutt.
       drummondii Don.
+  Grindelia Willd.
+      squarrosa Dun.
   Zinnia L.
       elegans Jq.
       haageana Regel.
@@ -4569,10 +4195,6 @@ Compositen
       purpurea Mnch.
   Filago Trn.
       germanica L.
-            germanica f. lutescens Jord.
-              = apiculata Sm.
-            germanica f. virescens Wirtg.
-            germanica f. canescens Jord.
       spathulata Presl.
       arvensis L.
       minima Fr.
@@ -4603,14 +4225,9 @@ Compositen
       absinthium L.
       dracunculus L.
       maritima L.
-            maritima f. typica Buch.
-            maritima f. gallica Willd.
-            maritima f. salina Koch.
       abrotanum L.
       campestris L.
       vulgaris L.
-          vulgaris var. coarctata Forsk.
-          vulgaris var. pallidum Fl. Bat.
       tournefortiana Rchb.
       annnua L.
   Ammobium R. Br.
@@ -4627,21 +4244,19 @@ Compositen
       ptarmica L.
       macrophylla L.
       millefolium L.
-          millefolium var. collina Bekker
-            millefolium f. pannonica Scheele
       nobilis L.
   Anthemis L.
       nobilis L.
       mixta L.
       tinctoria L.
-          tinctoria var. pallida D. C.
-          tinctoria var. discoidea Vahl.
       austriaca Jacq.
-          austriaca var. triumfetti D. C.
-            = triumfetti All.
+      altissima L.
+        = cota L.
       cotula L.
       arvensis L.
       ruthenica M. B.
+  Anacyclus L.
+      clavatus Pers.
   Matricaria L.
       inodora L.
         = Chrysanthemum inodorum L.
@@ -4652,19 +4267,20 @@ Compositen
       discoidea D. C.
   Dimorphotheca Vaill.
       aurantiaca D. C.
+  Schkuhria Rth.
+      advena Thellung.
+      pinnnata O. Kuntze
   Chrysanthemum Trn.
       parthenium Bernh.
         = Pyrethrum parthenium Sm.
-          parthenium discoideum C. H. Schultz
       majus Aschs.
         = Tanacetum balsamita L.
       vulgare Bernh.
         = Tanacetum vulgare L.
+      achilleifolium D. C.
       corymbosum L.
           corymbosum var. discoideum
       leucanthemum L.
-          leucanthemum var. discoideum Koch
-          leucanthemum var. maritimum
       maximum D. C.
       indicum Cass.
       roseum Web. & Mohr.
@@ -4686,10 +4302,8 @@ Compositen
       vulgaris L.
       viscosus L.
       silvaticus L.
-          silvaticus var. denticulatus Wallr.
       erucifolius L.
       jacobaea L.
-          jacobaea var. flosculosus D. C.
       erraticus Bertol.
       aquaticus Huds.
       paludosus L.
@@ -4704,13 +4318,10 @@ Compositen
       sphaerocephalus L.
   Cirsium Adans.
       arvense Scop.
-          arvense var. setosum G. Beck
-            = arvense var. integrifolium W. & Gr.
       lanceolatum Scop.
       eriophorum Scop.
       oleraceum Scop.
       acaule All.
-          [_] acaule var. caulescens D. C.
       anglicum D. C.
       palustre Scop.
   Cynara Vaill.
@@ -4721,9 +4332,11 @@ Compositen
   Carduus L.
       tenuiflorus Curt.
       nutans L.
-          nutans var. minor_uniflorus
+      collinus W. & K.
       hamulosus Ehrh.
       acanthoides L.
+      orthocephalus Wallr.
+        = acanthoides x nutans
       crispus L.
   Onopordon Vaill.
     > Onopordum Vaill.
@@ -4738,7 +4351,6 @@ Compositen
   Carlina Trn.
       vulgaris L.
       acaulis L.
-          acaulis var. caulescens Lmk.
   Serratula L.
       tinctoria L.
   Crupina D. C.
@@ -4748,7 +4360,9 @@ Compositen
       solstitialis L.
       melitensis L.
       calcitrapa L.
-      diffusa Lam.
+      iberica Trev.
+        = calcitrapoides Borbas
+      diffusa Lmk.
       montana L.
       cyanus L.
       scabiosa L.
@@ -4756,13 +4370,7 @@ Compositen
         = maculosa Koch
         = paniculata Lehm.
       jacea L.
-            jacea f. genuina Koch
-            jacea f. commutata Koch
-            jacea f. pratensis Koch
-            jacea f. vulgaris Koch
-            jacea f. lacera Koch
-              = decipiens Rchb.
-              = decipiens Thuill.
+      amara L.
       nigra L.
       pseudophrygia C. A. B.
           pseudophrygia var. capitata
@@ -4789,28 +4397,19 @@ Compositen
       hirta Rth.
   Leontodon L.
       autumnalis L.
-          autumnalis var. pratensis Koch
-          autumnalis var. uniflora V. D. Bosch
       hastilis L.
         = hispidus L.
             hastilis f. hispidus L.
+            hastilis f. hastilis L.
   Picris L.
       hieracioides L.
-          hieracioides var. crepoides Sauter
   Helminthia Juss.
       echioides Gaertn.
   Tragopogon Trn.
       porrifolius L.
       pratensis L.
-          pratensis var. minor Fr.
-            = minor Fr.
-          pratensis var. orientalis L.
-            = orientalis L.
   Scorzonera Trn.
       hispanica L.
-            hispanica f. denticulata Lmk.
-            hispanica f. glastifolia Willd.
-            hispanica f. asphodeloides Wallr.
   Hypochoeris L.
       maculata L.
       glabra L.
@@ -4818,75 +4417,53 @@ Compositen
   Taraxacum Juss.
       officinale Wigg.
         = Leontodon taraxacum L.
-            officinale f. genuinum Koch
-            officinale f. glaucescens Rchb.
-            officinale f. corniculatum D. C.
-            officinale f. laevigatum D. C.
-            officinale f. paludosum Crép.
-            officinale f. palustre D. C.
-            officinale f. erectum Koch
-            officinale f. salinum Koch
   Chondrilla Trn.
       juncea L.
   Lactuca Trn.
+      perennis L.
       muralis Lessing
         = Phoenixopus muralis Koch
       saligna L.
       sativa L.
       virosa L.
       scariola L.
-          scariola var. integrata G. & G.
   Mulgedium Cass.
       macrophyllum D. C.
   Sonchus Trn.
       oleraceus L.
-            oleraceus f. integrifolius Wallr.
-            oleraceus f. runcinatus Koch.
-              = oleraceus var. triangularis Wallr.
-            oleraceus f. lacerus Wallr.
       asper All.
       arvensis L.
-            arvensis f. leptophylla
-          arvensis var. uliginosus Aschrs.
-          arvensis var. hieracioides Grantzow
       paluster L.
   Crepis L.
       paludosa Mnch.
-      virens Vill.
-          virens var. agrestis Koch
-          virens var. diffusa D. C.
       biennis L.
-          biennis var. lodomiriensis Bess.
       tectorum L.
+      nicaeensis Balbis.
+      virens Vill.
+      pulcher L.
     Barkhausia Mnch.
       rubra L.
       foetida L.
         = Barkhausia foetida D. C.
       setosa Hall. f.
-        = Barkhausia setosa D. C.
       taraxicifolia Thuill.
         = Barkhausia taraxicifolia D. C.
   Prenanthes Vaill.
       purpurea L.
   Hieracium Trn.
       pilosella L.
-          pilosella var. robustum Koch
       auricula L.
       pratense Tausch.
       aurantiacum L.
       silvestre Tausch.
         = boreale Fr.
       umbellatum L.
-          umbellatum var. uniflorum
       laevigatum Willd.
         = rigidum Hartm.
-          laevigatum var. tridentatum Fr.
-            = tridentatum Fr.
-          laevigatum var. virescens Sond.
-            = virescens Sond.
       amplexicaule L.
       cerinthoides Fr.
       vulgatum Fr.
         = silvaticum Lmk.
-      murorum L.
       caesium Fr.
+      murorum L.
+      bifidum Kit.
