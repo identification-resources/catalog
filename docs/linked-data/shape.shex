@@ -1,0 +1,164 @@
+PREFIX ac: <http://rs.tdwg.org/ac/terms/>
+PREFIX bibo: <http://purl.org/ontology/bibo/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+PREFIX dwciri: <http://rs.tdwg.org/dwc/iri/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX gbif: <https://gbif.org/species/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <https://schema.org/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+prefix author: <https://purl.org/identification-resources/author/>
+prefix publisher: <https://purl.org/identification-resources/publisher/>
+prefix resource: <https://purl.org/identification-resources/resource/>
+prefix work: <https://purl.org/identification-resources/catalog/>
+
+start=@<work>
+
+<work> IRI CLOSED {
+  a [bibo:BookSection bibo:AcademicArticle bibo:Website bibo:Book];
+  dcterms:title rdf:langString+;
+  dcterms:language [<http://id.loc.gov/vocabulary/iso639-1/>~]+;
+  dcterms:hasPart [work:~]*;
+  dcterms:isPartOf [work:~]*;
+  dcterms:references [work:~]*;
+  dcterms:isReferencedBy [work:~]*;
+  dcterms:isVersionOf [work:~]*;
+  dcterms:hasPart @<resource>*;
+  bibo:annotates [work:~]*;
+  bibo:cites [work:~]*;
+  bibo:citedBy [work:~]*;
+  bibo:translationOf [work:~]*;
+
+  $<metadata> (
+    dcterms:creator @<author>*;
+    dcterms:issued xsd:date OR xsd:gYearMonth OR xsd:gYear OR LITERAL?;
+    dcterms:publisher @<publisher>*;
+    dcterms:rights LITERAL*;
+    dcterms:rights [<https://spdx.org/licenses/>~]*;
+
+    schema:url IRI*;
+    schema:encoding @<file>*;
+    schema:archivedAt IRI*;
+
+    bibo:authorList @<authors>?;
+    bibo:handle IRI?;
+    bibo:issn LITERAL?;
+    bibo:isbn LITERAL*;
+    bibo:isbn10 LITERAL*;
+    bibo:isbn13 LITERAL*;
+    bibo:uri [wd:~]?;
+    bibo:doi LITERAL?;
+    bibo:volume LITERAL?;
+    bibo:issue LITERAL?;
+    bibo:pages LITERAL?;
+    bibo:pageStart LITERAL?;
+    bibo:pageEnd LITERAL?;
+    bibo:numPages xsd:integer?;
+    bibo:edition LITERAL?
+  )
+}
+
+<authors> BNODE CLOSED {
+  rdf:first @<author>;
+  rdf:rest [rdf:nil] OR @<authors>
+}
+
+<author> IRI CLOSED {
+  a [foaf:Person];
+  foaf:name LITERAL;
+  owl:sameAs [wd:~]?
+}
+
+<publisher> IRI CLOSED {
+  a [foaf:Organization];
+  foaf:name LITERAL;
+  owl:sameAs [wd:~]?
+}
+
+<file> BNODE CLOSED {
+  a [schema:MediaObject];
+  schema:contentUrl IRI
+}
+
+<resource> IRI CLOSED {
+  a [bibo:DocumentPart];
+  dcterms:isPartOf [work:~];
+  dcterms:type [
+    <http://purl.org/dc/dcmitype/Software>
+    <http://purl.org/dc/dcmitype/Text>
+    <http://purl.org/dc/dcmitype/Collection>
+    <http://purl.org/dc/dcmitype/Dataset>
+  ];
+  dcterms:spatial @<place>*;
+  dcterms:subject @<scientificName>*;
+
+  ac:subtype [<http://rs.tdwg.org/acsubtype/values/IdentificationKey>]?;
+  ( ac:taxonCoverage @<taxon> | ac:taxonCoverage [gbif:~]? );
+  ac:tag LITERAL*;
+  ac:taxonCount xsd:integer?;
+  ac:subjectPart [<http://rs.tdwg.org/acpart/values/>~]*;
+  ac:subjectPartLiteral LITERAL*;
+
+  dwc:taxonID @<taxon>*;
+  dwciri:lifeStage [<http://rs.gbif.org/vocabulary/gbif/life_stage/>~]*;
+  dwciri:sex [<http://rs.gbif.org/vocabulary/gbif/sex/>~]*;
+  dwc:caste LITERAL*;
+
+  dcterms:title rdf:langString*;
+  dcterms:language [<http://id.loc.gov/vocabulary/iso639-1/>~]*;
+  dcterms:hasPart [resource:~]*;
+  dcterms:isPartOf [resource:~]*;
+  dcterms:references [resource:~]*;
+  dcterms:isReferencedBy [resource:~]*;
+  dcterms:isVersionOf [resource:~]*;
+  dcterms:hasPart [resource:~]*;
+  bibo:annotates [resource:~]*;
+  bibo:cites [resource:~]*;
+  bibo:citedBy [resource:~]*;
+  bibo:translationOf [resource:~]*;
+
+  &<metadata>
+}
+
+<taxon> IRI /^https:\/\/purl\.org\/identification-resources\/taxon\/T[1-9][0-9]*$/ CLOSED {
+  a [dwc:Taxon];
+  dwc:scientificName LITERAL?;
+  ( dwc:taxonRank [<http://rs.gbif.org/vocabulary/gbif/rank/>~] | dwc:taxonRank LITERAL? );
+  ( dwc:parentNameUsageID @<taxon> | dwc:parentNameUsageID [gbif:~]? );
+  owl:sameAs [wd:~]?;
+  owl:sameAs [gbif:~]?
+}
+
+<place> IRI /^https:\/\/purl\.org\/identification-resources\/place\/G[1-9][0-9]*$/ CLOSED {
+  a [dcterms:Location];
+  dcterms:title LITERAL;
+  owl:sameAs [wd:~]?
+}
+
+<scientificName> IRI /^https:\/\/purl\.org\/identification-resources\/resource\/B[1-9][0-9]*:[1-9][0-9]*#B[1-9][0-9]*:[1-9][0-9]*:[1-9][0-9]*$/ CLOSED {
+  a [dwc:Taxon];
+  dwc:scientificName LITERAL;
+  dwc:scientificNameAuthorship LITERAL?;
+  dwc:genericName LITERAL?;
+  dwc:infragenericEpithet LITERAL?;
+  dwc:specificEpithet LITERAL?;
+  dwc:infraspecificEpithet LITERAL?;
+  dwc:taxonRemarks LITERAL?;
+  dwc:verbatimIdentification LITERAL;
+  (
+    dwc:taxonRank [<http://rs.gbif.org/vocabulary/gbif/rank/>~]
+    |
+    dwc:taxonRank LITERAL
+  );
+  dwc:taxonomicStatus [<http://rs.gbif.org/vocabulary/gbif/taxonomicStatus/>~];
+  dwc:acceptedNameUsageID @<scientificName>?;
+  dwc:parentNameUsageID @<scientificName>?;
+
+  dwc:taxonID [gbif:~]?;
+  dwc:taxonID [<https://www.checklistbank.org/dataset/309120/taxon/>~]?
+}
