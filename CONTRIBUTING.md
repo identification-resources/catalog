@@ -56,3 +56,9 @@ To do this, follow the following steps:
   1. Create a text+YAML file specifying the resources [according to this document](docs/resources-txt.md).
   2. Generate the [DwC file](docs/resources-dwc.md) by running `npx -p @larsgw/formica loir-resources-process ./resources` [following these instructions](docs/tools-resources.md#running).
   3. Update the indices by running `npx -p @larsgw/formica loir-resources-index ./resources`.
+
+## Generating Linked Data
+
+```
+npx -p @larsgw/formica loir-generate-linked-data . -f 'turtle' > data.ttl
+```
