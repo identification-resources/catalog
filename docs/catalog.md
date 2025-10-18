@@ -7,7 +7,7 @@
 | `id`         | ✔        | ❌               | Unique ID for this entry | `B` followed by any number of digits (no leading zero) |
 | `title`      | ✔        | ✔ if the entry is multilingual | Full title of the work | Plain text, no HTML/RTF/Markdown. Subtitles delimited with full stops (`.`), or a colon (`:`) if appropriate |
 | `author`     | ❌        | ✔               | Any author(s) that would be cited | Not in reversed order, so "Firstname Lastname" |
-| `url`        | ❌        | ❌               | Info page, from the publisher or an archived copy (or a DOI URL, if available) | [URL](https://url.spec.whatwg.org/) |
+| `url`        | ❌        | ✔ if the entry is multilingual | Info page, from the publisher or an archived copy (or a DOI URL, if available) | [URL](https://url.spec.whatwg.org/) |
 | `fulltext_url` | ❌      | ✔ if neither URL is preferred | Full text, preferably HTML/PDF as opposed to viewer pages | [URL](https://url.spec.whatwg.org/) |
 | `archive_url` | ❌       | ✔               | Link to a copy of the full text page in the [Internet Archive](https://web.archive.org) | [URL](https://url.spec.whatwg.org/) |
 | `entry_type` | ✔        | ❌               | `print` and `cd` take precedence over `online` in the case of archived copies. | One of `print`, `online`, `application` and `cd`. |
