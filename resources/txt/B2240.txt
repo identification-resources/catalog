@@ -1,0 +1,169 @@
+---
+levels:
+  - family
+  - subfamily
+  - genus
+  - species
+  - variety
+catalog:
+  key_type: checklist
+---
+
+Formicidae
+  Camponotidae
+    Camponotus
+      ligniperdus Latr.
+    Polyergus
+      rufescens Latr.
+    Formica
+      sanguinea Latr.
+      rufa L.
+      pratensis De G.
+        = congerens Nyl.
+        pratensis var. rufo-pratensis For.
+      truncicola Nyl.
+        truncicola var. rufo-truncicola For.
+      exsecta Nyl.
+      fusca L.
+        fusca var. fusco-rufibarbis For.
+      rufibarbis F.
+        = cunicularia Latr.
+        rufibarbis var. cinereo-rufibarbis For.
+      cinerea Mayr
+        cinerea var. cinereo-fusca For.
+      gagates Nyl.
+    Lasius
+      fuliginosus Latr.
+      niger L.
+      alienus Först.
+        alienus var. nigro-alienus For.
+      brunneus Latr.
+        = Formica cunicularia auct.
+      emarginatus Ol.
+      umbratus Nyl.
+      mixtus Nyl.
+      flavus De G.
+      bicornis Först.
+    Prenolepis
+      vividula Nyl.
+  Dolichoderidae
+    Tapinoma
+      erraticum Latr.
+    Dolichoderus
+      quandripunctatus L.
+  Poneridae
+    Ponera
+      contracta Latr.
+  Myrmicidae
+    Anergates
+      atratulus Schenck.
+    Myrmecina
+      latreillei Curt.
+    Formicoxenus
+      nitidulus Nyl.
+    Strongylognathus
+      testaceus Schenck.
+    Stenamma
+      westwoodi Westw.
+        = Asemorphotrum lippulum Mayr
+    Leptothorax
+      acervorum F.
+      muscorum Nyl.
+      tuberum F.
+    Tetramorium
+      caespitum L.
+    Myrmica
+      laevinodis Nyl.
+        laevinodis var. laevinodi-ruginodis For.
+      ruginodis Nyl.
+      rugulosa Nyl.
+        rugulosa var. scabrinodi-rugulosa For.
+      scabrinodis Nyl.
+        scabrinodis var. scabrinodi-lobicornis For.
+      lobicornis Nyl.
+    Solenopsis
+      fugax Latr.
+    Monomorium
+      pharaonis L.
+
+===
+
+---
+levels:
+  - family
+  - subfamily
+  - genus
+  - species
+  - variety
+catalog:
+  key_type: key
+  scope: workers
+---
+
+Formicidae
+  Camponotidae
+    Camponotus
+      ligniperdus Latr.
+    Polyergus
+      rufescens Latr.
+    Formica
+      exsecta Nyl.
+      sanguinea Latr.
+      [1] fusca L.
+      [1] rufibarbis F.
+        = cunicularia Latr.
+      [1] cinerea Mayr
+      [2] rufa L.
+      [2] pratensis De G.
+        = congerens Nyl.
+      [2] truncicola Nyl.
+      gagates Nyl.
+    Lasius
+      fuliginosus Latr.
+      [1] niger L.
+      [1] alienus Först.
+      [2] brunneus Latr.
+        = Formica cunicularia auct.
+      [2] emarginatus Ol.
+      flavus De G.
+      bicornis Först.
+      [3] umbratus Nyl.
+      [3] mixtus Nyl.
+    Prenolepis
+      vividula Nyl.
+  Dolichoderidae
+    Tapinoma
+      erraticum Latr.
+    Dolichoderus
+      quandripunctatus L.
+  Poneridae
+    Ponera
+      contracta Latr.
+  Myrmicidae
+    Anergates
+      atratulus Schenck.
+    Myrmecina
+      latreillei Curt.
+    Formicoxenus
+      nitidulus Nyl.
+    Strongylognathus
+      testaceus Schenck.
+    Stenamma
+      westwoodi Westw.
+        = Asemorphotrum lippulum Mayr
+    Leptothorax
+      [_] acervorum F.
+      [_] muscorum Nyl.
+      [_] tuberum F.
+    Tetramorium
+      caespitum L.
+    Myrmica
+      laevinodis Nyl.
+      ruginodis Nyl.
+      rugulosa Nyl.
+      scabrinodis Nyl.
+      lobicornis Nyl.
+    Solenopsis
+      fugax Latr.
+    Monomorium
+      pharaonis L.

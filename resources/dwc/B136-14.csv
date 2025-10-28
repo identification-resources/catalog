@@ -1,6 +1,6 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B136:14:1,Atomaria,,,,,,genus,,B136:14,accepted,,,,,,,,,,,Atomaria,,,Atomaria,356C,3260984,63FT6,3260984
-B136:14:2,Anchicera,,,,,,subgenus,,B136:14,accepted,,,B136:14:1,Atomaria,,,,,,,Atomaria,Anchicera,Atomaria,Anchicera,,,,
+B136:14:2,Anchicera,,Atomaria,,,,subgenus,,B136:14,accepted,,,B136:14:1,Atomaria,,,,,,,Atomaria,Anchicera,Atomaria,Anchicera,,,,
 B136:14:3,Atomaria munda Er.,Er.,Atomaria,Anchicera,munda,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,munda Er.,,5749265,,5749265
 B136:14:4,Atomaria impressa Er.,Er.,Atomaria,Anchicera,impressa,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,impressa Er.,,5749132,,5749132
 B136:14:5,Atomaria pusilla Schønh.,Schønh.,Atomaria,Anchicera,pusilla,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,pusilla Schønh.,,5749280,,5749280
@@ -15,7 +15,7 @@ B136:14:13,Atomaria nitidula (Mrsh.),(Mrsh.),Atomaria,Anchicera,nitidula,,specie
 B136:14:14,Atomaria borealis Sjøb.,Sjøb.,Atomaria,Anchicera,borealis,,species,,B136:14,synonym,B136:14:13,Atomaria nitidula (Mrsh.),,,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,borealis Sjøb.,,6943226,,6943225
 B136:14:15,Atomaria ruficornis Mrsh.,Mrsh.,Atomaria,Anchicera,ruficornis,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,ruficornis Mrsh.,,6943390,,5749203
 B136:14:16,Atomaria hislopi Woll.,Woll.,Atomaria,Anchicera,hislopi,,species,,B136:14,accepted,,,B136:14:2,Anchicera,,,,,,,Atomaria,Anchicera,Atomaria | Anchicera,hislopi Woll.,,6943324,,6943324
-B136:14:17,Atomaria,,,,,,subgenus,s.str.,B136:14,accepted,,,B136:14:1,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria,Atomaria s.str.,356C,,63FT6,
+B136:14:17,Atomaria,,Atomaria,,,,subgenus,s.str.,B136:14,accepted,,,B136:14:1,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria,Atomaria s.str.,356C,,63FT6,
 B136:14:18,Atomaria prolixa Er.,Er.,Atomaria,Atomaria,prolixa,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,prolixa Er.,,6943311,,6943247
 B136:14:19,Atomaria procerula Er.,Er.,Atomaria,Atomaria,procerula,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,procerula Er.,,5749184,,6943202
 B136:14:20,Atomaria atrata Rtt.,Rtt.,Atomaria,Atomaria,atrata,,species,,B136:14,accepted,,,B136:14:17,Atomaria,,,,,,,Atomaria,Atomaria,Atomaria | Atomaria,atrata Rtt.,,6943310,,6943310

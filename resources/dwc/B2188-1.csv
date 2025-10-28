@@ -1,14 +1,14 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B2188:1:1,"Podops Laporte, 1832","Laporte, 1832",,,,,genus,,B2188:1,accepted,,,,,,,,,,,Podops,,,"Podops Laporte, 1832",,8882580,,8882580
-B2188:1:2,"Podops Laporte, 1832","Laporte, 1832",,,,,subgenus,,B2188:1,accepted,,,B2188:1:1,"Podops Laporte, 1832",,,,,,,Podops,Podops,Podops,"Podops Laporte, 1832",,,,
+B2188:1:2,"Podops Laporte, 1832","Laporte, 1832",Podops,,,,subgenus,,B2188:1,accepted,,,B2188:1:1,"Podops Laporte, 1832",,,,,,,Podops,Podops,Podops,"Podops Laporte, 1832",,,,
 B2188:1:3,"Podops inuncta (Fabr., 1775)","(Fabr., 1775)",Podops,Podops,inuncta,,species,,B2188:1,accepted,,,B2188:1:2,"Podops Laporte, 1832",,,,,,,Podops,Podops,Podops | Podops,"inuncta (Fabr., 1775)",,4485704,,4485704
 B2188:1:4,"Cimex inunctus Fabr., 1775","Fabr., 1775",Cimex,,inunctus,,species,,B2188:1,synonym,B2188:1:3,"Podops inuncta (Fabr., 1775)",,,,,,,,,Podops,Podops,Podops | Podops,"Cimex inunctus Fabr., 1775",,4485705,,4485704
 B2188:1:5,"Tetyra tangira Fabr., 1803","Fabr., 1803",Tetyra,,tangira,,species,,B2188:1,synonym,B2188:1:3,"Podops inuncta (Fabr., 1775)",,,,,,,,,Podops,Podops,Podops | Podops,"Tetyra tangira Fabr., 1803",,,,
 B2188:1:6,Podops retowskii,,Podops,Podops,retowskii,,species,sp. n.,B2188:1,accepted,,,B2188:1:2,"Podops Laporte, 1832",,,,,,,Podops,Podops,Podops | Podops,retowskii sp. n.,,,,
-B2188:1:7,Petalodera,,,,,,subgenus,,B2188:1,accepted,,,B2188:1:1,"Podops Laporte, 1832",,,,,,,Podops,Petalodera,Podops,Petalodera,,,,
+B2188:1:7,Petalodera,,Podops,,,,subgenus,,B2188:1,accepted,,,B2188:1:1,"Podops Laporte, 1832",,,,,,,Podops,Petalodera,Podops,Petalodera,,,,
 B2188:1:8,Podops buccata,,Podops,Petalodera,buccata,,species,sp. n.,B2188:1,accepted,,,B2188:1:7,Petalodera,,,,,,,Podops,Petalodera,Podops | Petalodera,buccata sp. n.,,,,
 B2188:1:9,Podops dilatata Put.,Put.,Podops,Petalodera,dilatata,,species,,B2188:1,accepted,,,B2188:1:7,Petalodera,,,,,,,Podops,Petalodera,Podops | Petalodera,dilatata Put.,,4485707,,4485707
-B2188:1:10,Opocrates,,,,,,subgenus,,B2188:1,accepted,,,B2188:1:1,"Podops Laporte, 1832",,,,,,,Podops,Opocrates,Podops,Opocrates,,,,
+B2188:1:10,Opocrates,,Podops,,,,subgenus,,B2188:1,accepted,,,B2188:1:1,"Podops Laporte, 1832",,,,,,,Podops,Opocrates,Podops,Opocrates,,,,
 B2188:1:11,Podops dalmatina,,Podops,Opocrates,dalmatina,,species,sp. n.,B2188:1,accepted,,,B2188:1:10,Opocrates,,,,,,,Podops,Opocrates,Podops | Opocrates,dalmatina sp. n.,,,,
 B2188:1:12,Podops curvidens Costa,Costa,Podops,Opocrates,curvidens,,species,,B2188:1,accepted,,,B2188:1:10,Opocrates,,,,,,,Podops,Opocrates,Podops | Opocrates,curvidens Costa,,4485710,,4485710
 B2188:1:13,Podops incerta,,Podops,Opocrates,incerta,,species,sp. n.,B2188:1,accepted,,,B2188:1:10,Opocrates,,,,,,,Podops,Opocrates,Podops | Opocrates,incerta sp. n.,,,,

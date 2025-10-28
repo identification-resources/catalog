@@ -1,8 +1,8 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B136:12:1,Cryptophagus,,,,,,genus,,B136:12,accepted,,,,,,,,,,,Cryptophagus,,,Cryptophagus,3WQ4,8249778,7796,8249778
-B136:12:2,Micrambe,,,,,,subgenus,,B136:12,accepted,,,B136:12:1,Cryptophagus,,,,,,,Cryptophagus,Micrambe,Cryptophagus,Micrambe,,,,
+B136:12:2,Micrambe,,Cryptophagus,,,,subgenus,,B136:12,accepted,,,B136:12:1,Cryptophagus,,,,,,,Cryptophagus,Micrambe,Cryptophagus,Micrambe,,,,
 B136:12:3,Cryptophagus longitarsis Sahlb.,Sahlb.,Cryptophagus,Micrambe,longitarsis,,species,,B136:12,accepted,,,B136:12:2,Micrambe,,,,,,,Cryptophagus,Micrambe,Cryptophagus | Micrambe,longitarsis Sahlb.,,8464154,,4451560
-B136:12:4,Cryptophagus,,,,,,subgenus,,B136:12,accepted,,,B136:12:1,Cryptophagus,,,,,,,Cryptophagus,Cryptophagus,Cryptophagus,Cryptophagus,3WQ4,,7796,
+B136:12:4,Cryptophagus,,Cryptophagus,,,,subgenus,,B136:12,accepted,,,B136:12:1,Cryptophagus,,,,,,,Cryptophagus,Cryptophagus,Cryptophagus,Cryptophagus,3WQ4,,7796,
 B136:12:5,Cryptophagus populi Payk.,Payk.,Cryptophagus,Cryptophagus,populi,,species,,B136:12,accepted,,,B136:12:4,Cryptophagus,,,,,,,Cryptophagus,Cryptophagus,Cryptophagus | Cryptophagus,populi Payk.,,5749054,,5749054
 B136:12:6,Cryptophagus acutangulus Gyll.,Gyll.,Cryptophagus,Cryptophagus,acutangulus,,species,,B136:12,accepted,,,B136:12:4,Cryptophagus,,,,,,,Cryptophagus,Cryptophagus,Cryptophagus | Cryptophagus,acutangulus Gyll.,,4989868,,4989868
 B136:12:7,Cryptophagus plagiatus Popp.,Popp.,Cryptophagus,Cryptophagus,plagiatus,,species,,B136:12,accepted,,,B136:12:4,Cryptophagus,,,,,,,Cryptophagus,Cryptophagus,Cryptophagus | Cryptophagus,plagiatus Popp.,,6943571,,6943570

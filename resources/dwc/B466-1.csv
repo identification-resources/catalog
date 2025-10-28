@@ -1,6 +1,6 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B466:1:1,Lasius,,,,,,genus,,B466:1,accepted,,,,,,,,,,,Lasius,,,Lasius,5B7S,1325751,5B7S,1325751
-B466:1:2,Chthonolasius,,,,,,subgenus,,B466:1,accepted,,,B466:1:1,Lasius,,,,,,,Lasius,Chthonolasius,Lasius,Chthonolasius,CL9S9,,5B7S,
+B466:1:2,Chthonolasius,,Lasius,,,,subgenus,,B466:1,accepted,,,B466:1:1,Lasius,,,,,,,Lasius,Chthonolasius,Lasius,Chthonolasius,CL9S9,,5B7S,
 B466:1:3,"Lasius mixtus (Nylander, 1846)","(Nylander, 1846)",Lasius,Chthonolasius,mixtus,,species,,B466:1,accepted,,,B466:1:2,Chthonolasius,,,,,,,Lasius,Chthonolasius,Lasius | Chthonolasius,"mixtus (Nylander, 1846)",3SGXM,5035862,3SGXM,5035862
 B466:1:4,"Formica mixta Nylander, 1846","Nylander, 1846",Formica,,mixta,,species,,B466:1,synonym,B466:1:3,"Lasius mixtus (Nylander, 1846)",,,,,,,,,Lasius,Chthonolasius,Lasius | Chthonolasius,"Formica mixta Nylander, 1846",CLW74,7797475,3SGXM,5035862
 B466:1:5,"Lasius sabularum (Bondroit, 1918)","(Bondroit, 1918)",Lasius,Chthonolasius,sabularum,,species,,B466:1,accepted,,,B466:1:2,Chthonolasius,,,,,,,Lasius,Chthonolasius,Lasius | Chthonolasius,"sabularum (Bondroit, 1918)",3SGYL,5035806,3SGYL,5035806

@@ -2450,7 +2450,7 @@
       "subspecies"
     ],
     "id": "B203:1",
-    "taxonCount": 469
+    "taxonCount": 470
   },
   "B204:1": {
     "levels": [
@@ -5943,7 +5943,7 @@
       "species"
     ],
     "id": "B548:1",
-    "taxonCount": 127
+    "taxonCount": 128
   },
   "B549:1": {
     "levels": [
@@ -11154,5 +11154,72 @@
     ],
     "id": "B2236:1",
     "taxonCount": 218
+  },
+  "B2240:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species",
+      "variety"
+    ],
+    "catalog": {
+      "key_type": [
+        "checklist"
+      ]
+    },
+    "id": "B2240:1",
+    "taxonCount": 76
+  },
+  "B2240:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species",
+      "variety"
+    ],
+    "catalog": {
+      "key_type": [
+        "key"
+      ],
+      "scope": [
+        "workers"
+      ]
+    },
+    "id": "B2240:2",
+    "taxonCount": 67
+  },
+  "B2241:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "id": "B2241:1",
+    "taxonCount": 211
+  },
+  "B2241:2": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "catalog": {
+      "key_type": [
+        "checklist"
+      ],
+      "region": [
+        "Europe, Northwestern"
+      ]
+    },
+    "id": "B2241:2",
+    "taxonCount": 259
   }
 }

@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B1566:1:1,Rumex,,,,,,genus,,B1566:1,accepted,,,,,,,,,,,Rumex,,,Rumex,7B4R,2888942,7B4R,2888942
 B1566:1:2,Rumex bucephalophorus L.,L.,Rumex,,bucephalophorus,,species,,B1566:1,accepted,,,B1566:1:1,Rumex,,,,,,,Rumex,,Rumex,bucephalophorus L.,4TPKF,2888993,4TPKF,2888993
-B1566:1:3,Lapathum Tourn.,Tourn.,,,,,subgenus,,B1566:1,accepted,,,B1566:1:1,Rumex,,,,,,,Rumex,Lapathum,Rumex,Lapathum Tourn.,5TBQT,,7B4R,
+B1566:1:3,Lapathum Tourn.,Tourn.,Rumex,,,,subgenus,,B1566:1,accepted,,,B1566:1:1,Rumex,,,,,,,Rumex,Lapathum,Rumex,Lapathum Tourn.,5TBQT,,7B4R,
 B1566:1:4,Rumex maritimus L.,L.,Rumex,Lapathum,maritimus,,species,,B1566:1,accepted,,,B1566:1:3,Lapathum Tourn.,,,,,,,Rumex,Lapathum,Rumex | Lapathum,maritimus L.,4TPS9,2888980,4TPS9,2888980
 B1566:1:5,Rumex conglomeratus×maritimus,,Rumex,Lapathum,conglomeratus×maritimus,,species,,B1566:1,accepted,,,B1566:1:3,Lapathum Tourn.,,,,,,,Rumex,Lapathum,Rumex | Lapathum,conglomeratus × maritimus,7B4R,,7B4R,
 B1566:1:6,R. maritimus var. limosus Thuill,Thuill,R.,,maritimus,limosus,variety,,B1566:1,synonym,B1566:1:5,Rumex conglomeratus×maritimus,,,,,,,,,Rumex,Lapathum,Rumex | Lapathum,R. maritimus var. limosus Thuill,,,,
@@ -22,9 +22,9 @@ B1566:1:20,Rumex domesticus Hartm.,Hartm.,Rumex,Lapathum,domesticus,,species,,B1
 B1566:1:21,Rumex aquaticus L.,L.,Rumex,Lapathum,aquaticus,,species,,B1566:1,accepted,,,B1566:1:3,Lapathum Tourn.,,,,,,,Rumex,Lapathum,Rumex | Lapathum,aquaticus L.,4TPJ4,2888992,4TPJ4,2888992
 B1566:1:22,Rumex patienta L.,L.,Rumex,Lapathum,patienta,,species,,B1566:1,accepted,,,B1566:1:3,Lapathum Tourn.,,,,,,,Rumex,Lapathum,Rumex | Lapathum,patienta L.,6WXCN,2889019,6WXCN,2889019
 B1566:1:23,Rumex aquaticus×hydrolapathum,,Rumex,Lapathum,aquaticus×hydrolapathum,,species,,B1566:1,accepted,,,B1566:1:3,Lapathum Tourn.,,,,,,,Rumex,Lapathum,Rumex | Lapathum,aquaticus × hydrolapathum,7B4R,,7B4R,
-B1566:1:24,Acetosella Meissn.,Meissn.,,,,,subgenus,,B1566:1,accepted,,,B1566:1:1,Rumex,,,,,,,Rumex,Acetosella,Rumex,Acetosella Meissn.,5T55M,,7B4R,
+B1566:1:24,Acetosella Meissn.,Meissn.,Rumex,,,,subgenus,,B1566:1,accepted,,,B1566:1:1,Rumex,,,,,,,Rumex,Acetosella,Rumex,Acetosella Meissn.,5T55M,,7B4R,
 B1566:1:25,Rumex acetosella L.,L.,Rumex,Acetosella,acetosella,,species,,B1566:1,accepted,,,B1566:1:24,Acetosella Meissn.,,,,,,,Rumex,Acetosella,Rumex | Acetosella,acetosella L.,4TPGK,2888995,4TPGK,2888995
-B1566:1:26,Acetosa Meissn.,Meissn.,,,,,subgenus,,B1566:1,accepted,,,B1566:1:1,Rumex,,,,,,,Rumex,Acetosa,Rumex,Acetosa Meissn.,BRWV7,,7B4R,
+B1566:1:26,Acetosa Meissn.,Meissn.,Rumex,,,,subgenus,,B1566:1,accepted,,,B1566:1:1,Rumex,,,,,,,Rumex,Acetosa,Rumex,Acetosa Meissn.,BRWV7,,7B4R,
 B1566:1:27,Rumex scutatus L.,L.,Rumex,Acetosa,scutatus,,species,,B1566:1,accepted,,,B1566:1:26,Acetosa Meissn.,,,,,,,Rumex,Acetosa,Rumex | Acetosa,scutatus L.,4TPWY,2888961,4TPWY,2888961
 B1566:1:28,Rumex acetosa L.,L.,Rumex,Acetosa,acetosa,,species,,B1566:1,accepted,,,B1566:1:26,Acetosa Meissn.,,,,,,,Rumex,Acetosa,Rumex | Acetosa,acetosa L.,4TPGJ,2888951,4TPGJ,2888951
 B1566:1:29,Rumex thyrsiflorus Fingerhuth,Fingerhuth,Rumex,Acetosa,thyrsiflorus,,species,,B1566:1,accepted,,,B1566:1:26,Acetosa Meissn.,,,,,,,Rumex,Acetosa,Rumex | Acetosa,thyrsiflorus Fingerhuth,4TPY7,6391417,4TPY7,6391417
