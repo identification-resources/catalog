@@ -6087,13 +6087,15 @@
   },
   "B563:1": {
     "levels": [
+      "family",
       "subfamily",
-      "tribe",
       "genus",
-      "species"
+      "subgenus",
+      "species",
+      "subspecies"
     ],
     "id": "B563:1",
-    "taxonCount": 14
+    "taxonCount": 310
   },
   "B571:1": {
     "levels": [
@@ -11221,5 +11223,41 @@
     },
     "id": "B2241:2",
     "taxonCount": 259
+  },
+  "B2245:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety",
+      "race",
+      "aberration"
+    ],
+    "id": "B2245:1",
+    "taxonCount": 225
+  },
+  "B2245:2": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety",
+      "race",
+      "aberration"
+    ],
+    "catalog": {
+      "key_type": [
+        "checklist"
+      ],
+      "region": [
+        "Europe, Northwestern"
+      ]
+    },
+    "id": "B2245:2",
+    "taxonCount": 288
   }
 }

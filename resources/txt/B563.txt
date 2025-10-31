@@ -1,22 +1,321 @@
 ---
 levels:
+  - family
   - subfamily
-  - tribe
   - genus
+  - subgenus
   - species
+  - subspecies
 ---
 
-AMPULICINAE
-  Ampulicini
-    Ampulex Jurine, 1807
-      fasciata Jurine, 1807
-        = Ampulex fasciatus Jurine, 1807
-        = Ampulex europaeus Giraud, 1858
-  Dolichurini
+Sphecidae
+  AMPULICINAE
     Dolichurus Latreille, 1809
-      corniculus (Spinola, 1808)
-        = Pompilus corniculus Spinola, 1808
-        = Pompilus clavipes Dahlbom, 1829
-      haemorrhous A. Costa, 1886
-      bicolor Lepeletier, 1845
-        = ? Dolichorus dahlbomi Tischbein, 1852
+        corniculus (Spinola, 1808)
+        bicolor Lepeletier, 1845
+  ASTATINAE
+    Astata Latreille, 1796
+        boops (Schrank, 1781)
+        minor Kohl, 1885
+    Dryudella Spinola, 1843
+        pinguis (Dahlbom, 1832)
+        stigma (Panzer, 1809)
+    Dinetus Panzer, 1806
+        pictus (Fabricius, 1793)
+  CRABRONINAE
+    Crabro Latreille, 1775
+        cribrarius (Linnaeus, 1758)
+        peltarius (Schreber, 1784)
+        scutellatus (Scheven, 1781)
+    Crossocerus Lepeletier & Brullé, 1835
+      Ablepharipus
+        assimilis (F. Smith, 1856)
+        congener (Dahlbom, 1844)
+        podagricus (Vander Linden, 1829)
+      Acanthocrabro
+        vagabundus (Panzer, 1798)
+      Blepharipus
+        annulipes (Lepeletier & Brullé, 1835)
+          = Crossocerus ambiguus (Dahlbom, 1842)
+        barbipes (Dahlbom, 1845)
+        capitosus (Shuckard, 1837)
+        cetratus (Shuckard, 1837)
+        cinxius (Dahlbom, 1838)
+        leucostoma (Linnaeus, 1758)
+        megacephalus (Rossi, 1790)
+          = Crossocerus leucostomoides (Richards, 1935)
+        nigritus (Lepeletier & Brullé, 1835)
+          = Crossocerus pubescens (Shuckard, 1837)
+        styrius (Kohl, 1892)
+        walkeri (Shuckard, 1837)
+      Crossocerus s. str.
+        denticrus Herrich-Schäffer, 1841
+        distinguendus (A. Morawitz, 1866)
+        elongatulus (Vander Linden, 1829)
+          [_] elongatulus ssp. elongatulus (Vander Linden, 1829)
+        exiguus (Vander Linden, 1829)
+        ovalis Lepeletier & Brullé, 1835
+          = Crossocerus anxius (Wesmael, 1852)
+        palmipes (Linnaeus, 1767)
+        pullulus (A. Morawitz, 1866)
+        tarsatus (Shuckard, 1837)
+        varus Lepeletier & Brullé, 1835
+          = Crossocerus pusillus Lepeletier & Brullé, 1835
+          = Crossocerus varius auct.
+        wesmaeli (Vander Linden, 1829)
+      Cuphopterus
+        binotatus Lepeletier & Brullé, 1835
+          = Crossocerus confusus Schulz, 1906
+        dimidiatus (Fabricius, 1781)
+      Hoplocrabro
+        quadrimaculatus (Fabricius, 1793)
+    Ectemnius Dahlbom, 1845
+      Cameronitus
+        nigritarsus (Herrich-Schäffer, 1841)
+      Clythochrysus
+        cavifrons (Thomson, 1870)
+        ruficornis (Zetterstedt, 1838)
+        sexcinctus (Fabricius, 1775)
+          = Ectemnius zonatus (Panzer, 1797)
+      Clytochrysus
+        lapidarius (Panzer, 1804)
+      Ectemnius
+        borealis (Zetterstedt, 1838)
+          = Ectemnius nigrinus (Herrich-Schäffer, 1841)
+        dives (Lepeletier & Brullé, 1835)
+        guttatus (Vander Linden, 1829)
+      Hypocrabro
+        continuus (Fabricius, 1804)
+          [_] continuus ssp. punctatus (Lepeletier & Brullé, 1835)
+        rubicola (Dufour & Perris, 1840)
+      Metacrabro
+        cephalotes (Oivier, 1792)
+          = Ectemnius quadricinctus auct. nec (Fabricius, 1787)
+        fossorius (Linnaeus, 1758)
+        lituratus (Panzer, 1804)
+    Entomognathus Dahlbom, 1844
+        brevis (Vander Linden, 1829)
+    Lestica Billberg, 1820
+        alata (Panzer, 1797)
+        clypeata (Schreber, 1759)
+        subterranea (Fabricius, 1775)
+    Lindenius Lepeletier & Brullé, 1835
+        albilabris (Fabricius, 1793)
+        panzeri (Vander Linden, 1829)
+        pygmaeus Rossi, 1794
+          = armatus (Vander Linden, 1829)
+          [_] pygmaeus ssp. armatus (Vander Linden, 1829)
+    Oxybelus Latreille, 1796
+        argentatus Curtis, 1833
+          = mucronatus auct. nec (Fabricius, 1793)
+          [_] argentatus ssp. argentatus Curtis, 1883
+            > argentatus ssp. argentatus Curtis, 1833
+          [_] argentatus ssp. bouwmanni Verhoeff, 1948
+        bipunctatus Olivier, 1812
+        haemorrhoidalis Olivier, 1812
+          = victor Lepeletier, 1845
+          = elegantulus Gerstäcker, 1867
+          [_] haemorrhoidalis ssp. victor Lepeletier, 1845
+        latro Olivier, 1812
+        lineatus (Fabricius, 1787)
+        mandibularis (Dahlbom, 1845)
+          = sericatus Gerstäcker, 1867
+        quattuordecimnotatus Jurine, 1807
+          = mucronatus sensu Verhoef, 1946
+        trispinosus (Fabricius, 1787)
+          = nigriceps Olivier, 1811
+        uniglumis (Linnaeus, 1758)
+    Rhopalum Stephens, 1829
+        clavipes (Linnaeus, 1758)
+        coarctatum (Scopoli, 1763)
+        gracile Wesmael, 1852
+          = nigrinum (Kiesenwetter, 1849)
+          = kiesenwetteri (A. Morawitz, 1866)
+  LARRINAE
+    Miscophus Jurine, 1807
+        ater Lepeletier, 1845
+          = maritimus Smith, 1858
+        bicolor Jurine, 1807
+        concolor Dahlbom, 1844
+        niger Dahlbom, 1844
+        spurius (Dahlbom, 1832)
+    Nitela Latreille, 1809
+        borealis Valkeila, 1974
+        fallax Kohl, 1883
+        spinolae Latreille, 1809
+    Tachysphex Kohl, 1883
+        fulvitarsis (Costa, 1867)
+          = acrobates (Kohl, 1878)
+        helveticus Kohl, 1885
+        nitidus (Spinola, 1805)
+          = ibericus ssp. borealis Pulawski, 1971
+        obscuripennis (Schenck, 1857)
+        panzeri (Vander Linden, 1829)
+        pompiliformis (Panzer, 1805)
+          = pectinipes auct. nec (Linnaeus, 1758)
+          = nigripennis (Spinola, 1808)
+        psammobius (Kohl, 1880)
+        unicolor (Panzer, 1809)
+          = nitidus auct. nec Spinola, 1805
+    Tachytes Panzer, 1806
+        panzeri Dufour, 1841
+          = europaeus (Kohl, 1883)
+    Trypoxylon Latreille, 1796
+        attenuatum Smith, 1851
+        clavicerum Lepeletier & Serville, 1825
+        figulus (Linnaeus, 1758)
+        medium De Beaumont, 1945
+        minus De Beaumont, 1945
+  NYSSONINAE
+    Alysson Panzer, 1806
+        pertheesi Gorski, 1852
+        ratzeburgi Dahlbom, 1843
+        spinosus (Panzer, 1801)
+        tricolor (Lepeletier & Serville, 1825)
+    Didineis Wesmael, 1852
+        lunicornis (Fabricius, 1798)
+    Argogorytes Ashmead, 1899
+        fargei (Shuckard, 1837)
+        mystaceus (Linnaeus, 1761)
+    Bembix Fabricius, 1775
+        rostrata (Linnaeus, 1758)
+    Gorytes Latreille, 1804
+        albidulus (Lepeletier, 1832)
+        fallax Handlirsch, 1888
+          = ? neglectus Handlirsch, 1895
+        laticinctus (Lepeletier, 1832)
+        planifrons Wesmael, 1852
+        quadrifasciatus (Fabricius, 1804)
+        quinquecinctus (Fabricius, 1793)
+        quinquefasciatus (Panzer, 1798)
+        sulcifrons (A. Costa, 1869)
+    Harpactus Shuckard, 1837
+        exiguus (Handlirsch, 1888)
+        lunatus (Dahlbom, 1832)
+        tumidus (Panzer, 1801)
+    Hoplisoides Gribodo, 1884
+        latifrons (Spinola, 1808)
+    Lestiphorus Lepeletier, 1832
+        bicinctus (Rossi, 1794)
+        bilunulatus Costa, 1869
+    Mellinus Fabricius, 1790
+        arvensis (Linnaeus, 1758)
+          = compactus Handlirsch, 1888
+        crabroneus (Thunberg, 1791)
+          = sabulosus auct.
+    Nysson Latreille, 1796
+        dimidiatus Jurine, 1807
+        interruptus (Fabricius, 1798)
+        maculosus (Gmelin, 1790)
+          = maculatus auct.
+        niger Chevrier, 1868
+        quadriguttatus Spinola, 1808
+        spinosus (Forster, 1771)
+        tridens Gerstaecker, 1867
+        trimaculatus (Rossi, 1790)
+        variabilis Chevrier, 1867
+  PEMPHREDONINAE
+    Ammoplanus Giraud, 1869
+        wesmaeli Giraud, 1869
+    Diodontus Curtis, 1834
+        insidiosus Spooner, 1938
+        luperus Shuckard, 1837
+        medius Dahlbom, 1845
+        minutus (Fabricius, 1793)
+        tristis (Vander Linden, 1829)
+    Mimesa Shuckard, 1837
+        bicolor (Jurine, 1807)
+        bruxellensis Bondroit, 1933
+        equestris (Fabricius, 1804)
+          = rufa (Panzer, 1805)
+        lutaria (Fabricius, 1787)
+          = shuckardi Wesmael, 1852
+    Mimumesa
+        atratina (F. Morawitz, 1891)
+        beaumonti (van Lith, 1949)
+        dahlbomi (Wesmael, 1852)
+        littoralis (Bondroit, 1934)
+        sibiriana Bohart, 1976
+          = sibirica Gussakovskij, 1937
+        spooneri (Richards, 1948)
+        unicolor (Vander Linden, 1829)
+    Passaloecus Shuckard, 1837
+        borealis Dahlbom, 1844
+        brevilabris Wolf, 1958
+        clypealis Fæster, 1947
+        corniger Shuckard, 1837
+        eremita Kohl, 1893
+        gracilis (Curtis, 1834)
+        insignis (Vander Linden, 1829)
+        monilicornis Dahlbom, 1842
+        pictus Ribaut, 1952
+        singularis Dahlbom, 1844
+          = tenuis A. Morawitz, 1864
+        turionum Dahlbom, 1844
+          = brevicornis A. Morawitz, 1864
+    Pemphredon Latreille, 1796
+        austriaca (Kohl, 1888)
+          = enslini Wagner, 1931
+        baltica Merisuo, 1972
+        inornata Say, 1824
+          = shuckardi (A. Morawitz, 1864)
+        lethifer (Shuckard, 1837)
+          = fabricii Müller, 1911
+          = littoralis Wagner, 1918
+        lugens Dahlbom, 1842
+        lugubris (Fabricius, 1793)
+        montana Dahlbom, 1845
+        morio Vander Linden, 1829
+          = clypealis Thomson, 1870
+        rugifer (Dahlbom, 1845)
+          = wesmaeli (A. Morawitz, 1864)
+          = scoticus Perkins, 1929
+          = mortifer Valkeila, 1972
+    Psen Latreille, 1796
+        ater (Olivier, 1792)
+    Psenulus Kohl, 1896
+        brevitarsis Merisuo, 1937
+        concolor (Dahlbom, 1843)
+        fuscipennis (Dahlbom, 1843)
+        laevigatus (Schenck, 1857)
+        pallipes (Panzer, 1798)
+          = atratus (Fabricius, 1804)
+        schencki (Tournier, 1889)
+    Spilomena Shuckard, 1838
+        beata Blüthgen, 1953
+        curruca (Dahlbom, 1843)
+          = differens Blüthgen, 1953
+        enslini Blüthgen, 1953
+        exspectata Valkeila, 1957
+        troglodytes (Vander Linden, 1829)
+    Stigmus Panzer, 1804
+        pendulus Panzer, 1804
+        solskyi A. Morawitz, 1864
+  PHILANTHINAE
+    Cerceris Latreille, 1802
+        arenaria (Linnaeus, 1758)
+        interrupta (Panzer, 1799)
+        quadricincta (Panzer, 1799)
+        quadrifasciata (Panzer, 1799)
+        quinquefasciata (Rossi, 1792)
+        ruficornis (Fabricius, 1793)
+        rybyensis (Linnaeus, 1771)
+        sabulosa (Panzer, 1799)
+    Philanthus Fabricius, 1790
+        triangulum (Fabricius, 1775)
+  SPHECINAE
+    Ammophila Kirby, 1798
+        campestris Latreille, 1809
+        hungarica Moscary, 1883
+          = fallax Kohl, 1884
+        pubescens Curtis, 1829
+          = adriaansei Wilcke, 1945
+        sabulosa (Linnaeus, 1758)
+    Podalonia Fernald, 1927
+        affinis (Kirby, 1798)
+          = lutaria auct. nec Fabricius, 1787
+        hirsuta (Scopoli, 1763)
+        luffii (Saunders, 1903)
+    Sceliphron Klug, 1801
+        caementarium (Drury, 1773)
+        spirifex (Linnaeus, 1758)
