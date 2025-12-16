@@ -10076,6 +10076,23 @@
     "id": "B1747:1",
     "taxonCount": 4263
   },
+  "B1748:1": {
+    "levels": [
+      "family",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety",
+      "form",
+      "race"
+    ],
+    "flags": [
+      "MISSING_PARENT_TAXA"
+    ],
+    "id": "B1748:1",
+    "taxonCount": 4477
+  },
   "B1764:1": {
     "levels": [
       "species",
@@ -11259,5 +11276,106 @@
     },
     "id": "B2245:2",
     "taxonCount": 288
+  },
+  "B2266:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2266:1",
+    "taxonCount": 7
+  },
+  "B2272:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2272:1",
+    "taxonCount": 10
+  },
+  "B2273:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2273:1",
+    "taxonCount": 26
+  },
+  "B2274:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "flags": [
+      "MISSING_SYNONYMS"
+    ],
+    "id": "B2274:1",
+    "taxonCount": 21
+  },
+  "B2275:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2275:1",
+    "taxonCount": 27
+  },
+  "B2276:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2276:1",
+    "taxonCount": 18
+  },
+  "B2277:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "catalog": {
+      "title": [
+        "Canopus Fabr."
+      ],
+      "pages": "206-207",
+      "taxon": [
+        "Canopus"
+      ]
+    },
+    "id": "B2277:1",
+    "taxonCount": 9
+  },
+  "B2277:2": {
+    "levels": [
+      "tribe",
+      "genus"
+    ],
+    "catalog": {
+      "pages": "210-211",
+      "taxon": [
+        "Thyreocoraria"
+      ]
+    },
+    "id": "B2277:2",
+    "taxonCount": 13
+  },
+  "B2277:3": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "270-271",
+      "taxon": [
+        "Ochetostethus"
+      ]
+    },
+    "id": "B2277:3",
+    "taxonCount": 10
   }
 }
