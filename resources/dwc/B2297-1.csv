@@ -1,0 +1,9 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2297:1:1,Myathropa,,,,,,genus,,B2297:1,accepted,,,,,,,,,,,Myathropa,,,Myathropa,BYJJ6,8921782,BYJJ6,8921782
+B2297:1:2,Myathropa florea,,Myathropa,,florea,,species,,B2297:1,accepted,,,B2297:1:1,Myathropa,,,,,,,Myathropa,,Myathropa,florea,8CX8H,4516754,8CX8H,4516754
+B2297:1:3,Myathropa semenovi,,Myathropa,,semenovi,,species,,B2297:1,accepted,,,B2297:1:1,Myathropa,,,,,,,Myathropa,,Myathropa,semenovi,8CX8J,11195471,8CX8J,11195471
+B2297:1:4,Myathropa usta,,Myathropa,,usta,,species,,B2297:1,accepted,,,B2297:1:1,Myathropa,,,,,,,Myathropa,,Myathropa,usta,8CX8K,4516752,8CX8K,4516752
+B2297:1:5,Myathropa mallotiformis,,Myathropa,,mallotiformis,,species,,B2297:1,synonym,B2297:1:4,Myathropa usta,,,,,,,,,Myathropa,,Myathropa,mallotiformis,,11993589,,4516752
+B2297:1:6,Myathropa flavovillosa,,Myathropa,,flavovillosa,,species,,B2297:1,accepted,,,B2297:1:1,Myathropa,,,,,,,Myathropa,,Myathropa,flavovillosa,8CX8G,11215557,8CX8G,11215557
+B2297:1:7,Eristalis flavovillosa,,Eristalis,,flavovillosa,,species,,B2297:1,synonym,B2297:1:6,Myathropa flavovillosa,,,,,,,,,Myathropa,,Myathropa,Eristalis flavovillosa,8C3KC,9183487,8CX8G,11215557
+B2297:1:8,Mallota flavovillosa,,Mallota,,flavovillosa,,species,,B2297:1,synonym,B2297:1:6,Myathropa flavovillosa,,,,,,,,,Myathropa,,Myathropa,Mallota flavovillosa,,,,

@@ -1,0 +1,42 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2278:1:1,Lapposyrphus,,,,,,genus,,B2278:1,accepted,,,,,,,,,,,Lapposyrphus,,,Lapposyrphus,BYVXH,4792856,BYVXH,4792856
+B2278:1:2,Lapposyrphus aberrantis,,Lapposyrphus,,aberrantis,,species,,B2278:1,accepted,,,B2278:1:1,Lapposyrphus,,,,,,,Lapposyrphus,,Lapposyrphus,aberrantis,9HZGH,12034280,9HZGH,12034280
+B2278:1:3,Lapposyrphus lapponicus,,Lapposyrphus,,lapponicus,,species,,B2278:1,accepted,,,B2278:1:1,Lapposyrphus,,,,,,,Lapposyrphus,,Lapposyrphus,lapponicus,9HJDB,8183385,9HJDB,8183385
+B2278:1:4,Scaeva,,,,,,genus,,B2278:1,accepted,,,,,,,,,,,Scaeva,,,Scaeva,BYPVS,1537685,BYPVS,1537685
+B2278:1:5,Scaeva,,Scaeva,,,,subgenus,,B2278:1,accepted,,,B2278:1:4,Scaeva,,,,,,,Scaeva,Scaeva,Scaeva,Scaeva,BYPVS,,BYPVS,
+B2278:1:6,Scaeva affinis,,Scaeva,Scaeva,affinis,,species,,B2278:1,accepted,,,B2278:1:5,Scaeva,,,,,,,Scaeva,Scaeva,Scaeva | Scaeva,affinis,6XSDX,1537723,6XSDX,1537723
+B2278:1:7,Scaeva pyrastri,,Scaeva,Scaeva,pyrastri,,species,,B2278:1,accepted,,,B2278:1:5,Scaeva,,,,,,,Scaeva,Scaeva,Scaeva | Scaeva,pyrastri,79SHC,1537719,79SHC,1537719
+B2278:1:8,Semiscaeva,,Scaeva,,,,subgenus,,B2278:1,accepted,,,B2278:1:4,Scaeva,,,,,,,Scaeva,Semiscaeva,Scaeva,Semiscaeva,BYZTR,,BYZTR,
+B2278:1:9,Scaeva albomaculata,,Scaeva,Semiscaeva,albomaculata,,species,,B2278:1,accepted,,,B2278:1:8,Semiscaeva,,,,,,,Scaeva,Semiscaeva,Scaeva | Semiscaeva,albomaculata,6Y4DX,1537703,6Y4DX,1537703
+B2278:1:10,Scaeva caucasica,,Scaeva,Semiscaeva,caucasica,,species,,B2278:1,accepted,,,B2278:1:8,Semiscaeva,,,,,,,Scaeva,Semiscaeva,Scaeva | Semiscaeva,caucasica,6XSF2,1537686,6XSF2,1537686
+B2278:1:11,Scaeva dignota,,Scaeva,Semiscaeva,dignota,,species,,B2278:1,accepted,,,B2278:1:8,Semiscaeva,,,,,,,Scaeva,Semiscaeva,Scaeva | Semiscaeva,dignota,6Y4H9,1537709,6Y4H9,1537709
+B2278:1:12,Scaeva hwangi,,Scaeva,Semiscaeva,hwangi,,species,,B2278:1,accepted,,,B2278:1:8,Semiscaeva,,,,,,,Scaeva,Semiscaeva,Scaeva | Semiscaeva,hwangi,9HCSW,1537708,9HCSW,1537708
+B2278:1:13,Scaeva komabensis,,Scaeva,Semiscaeva,komabensis,,species,,B2278:1,accepted,,,B2278:1:8,Semiscaeva,,,,,,,Scaeva,Semiscaeva,Scaeva | Semiscaeva,komabensis,6Y4GV,1537713,6Y4GV,1537713
+B2278:1:14,Scaeva latimaculata,,Scaeva,Semiscaeva,latimaculata,,species,,B2278:1,accepted,,,B2278:1:8,Semiscaeva,,,,,,,Scaeva,Semiscaeva,Scaeva | Semiscaeva,latimaculata,79SH7,1537691,79SH7,1537691
+B2278:1:15,Scaeva mecogramma,,Scaeva,Semiscaeva,mecogramma,,species,,B2278:1,accepted,,,B2278:1:8,Semiscaeva,,,,,,,Scaeva,Semiscaeva,Scaeva | Semiscaeva,mecogramma,6XSH8,1537700,6XSH8,1537700
+B2278:1:16,Scaeva nanjingensis,,Scaeva,Semiscaeva,nanjingensis,,species,,B2278:1,accepted,,,B2278:1:8,Semiscaeva,,,,,,,Scaeva,Semiscaeva,Scaeva | Semiscaeva,nanjingensis,79SH8,1537694,79SH8,1537694
+B2278:1:17,Scaeva opimia,,Scaeva,Semiscaeva,opimia,,species,,B2278:1,accepted,,,B2278:1:8,Semiscaeva,,,,,,,Scaeva,Semiscaeva,Scaeva | Semiscaeva,opimia,6XSHF,1537688,6XSHF,1537688
+B2278:1:18,Scaeva selenitica,,Scaeva,Semiscaeva,selenitica,,species,,B2278:1,accepted,,,B2278:1:8,Semiscaeva,,,,,,,Scaeva,Semiscaeva,Scaeva | Semiscaeva,selenitica,6Y4HJ,1537717,6Y4HJ,1537717
+B2278:1:19,Eupeodes,,,,,,genus,,B2278:1,accepted,,,,,,,,,,,Eupeodes,,,Eupeodes,BXZW5,1540675,BXZW5,1540675
+B2278:1:20,Metasyrphus,,Eupeodes,,,,subgenus,,B2278:1,accepted,,,B2278:1:19,Eupeodes,,,,,,,Eupeodes,Metasyrphus,Eupeodes,Metasyrphus,BYW74,,BYW74,
+B2278:1:21,Eupeodes abiskoensis,,Eupeodes,Metasyrphus,abiskoensis,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,abiskoensis,8C488,1540882,8C488,1540882
+B2278:1:22,Eupeodes biciki,,Eupeodes,Metasyrphus,biciki,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,biciki,6GZHY,1540700,6GZHY,1540700
+B2278:1:23,Eupeodes borealis,,Eupeodes,Metasyrphus,borealis,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,borealis,8C48D,1540686,8C48D,1540686
+B2278:1:24,Eupeodes bucculatus,,Eupeodes,Metasyrphus,bucculatus,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,bucculatus,8C48F,1540818,8C48F,1540818
+B2278:1:25,Eupeodes corollae,,Eupeodes,Metasyrphus,corollae,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,corollae,8C48K,1540742,8C48K,1540742
+B2278:1:26,Eupeodes duseki,,Eupeodes,Metasyrphus,duseki,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,duseki,3CLTR,1540710,3CLTR,1540710
+B2278:1:27,Eupeodes flaviceps,,Eupeodes,Metasyrphus,flaviceps,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,flaviceps,8C48R,1540889,8C48R,1540889
+B2278:1:28,Eupeodes goeldlini,,Eupeodes,Metasyrphus,goeldlini,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,goeldlini,6GZHQ,1540896,6GZHQ,1540896
+B2278:1:29,Eupeodes lambecki,,Eupeodes,Metasyrphus,lambecki,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,lambecki,8C493,1540885,8C493,1540885
+B2278:1:30,Eupeodes latifasciatus,,Eupeodes,Metasyrphus,latifasciatus,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,latifasciatus,8C494,1540691,8C494,1540691
+B2278:1:31,Eupeodes lucasi,,Eupeodes,Metasyrphus,lucasi,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,lucasi,8C497,1540816,8C497,1540816
+B2278:1:32,Eupeodes lundbecki,,Eupeodes,Metasyrphus,lundbecki,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,lundbecki,8C498,1540706,8C498,1540706
+B2278:1:33,Eupeodes luniger,,Eupeodes,Metasyrphus,luniger,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,luniger,8C499,1540875,8C499,1540875
+B2278:1:34,Eupeodes ohmi,,Eupeodes,Metasyrphus,ohmi,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,ohmi,3CLV4,1540690,3CLV4,1540690
+B2278:1:35,Eupeodes nigroventris,,Eupeodes,Metasyrphus,nigroventris,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,nigroventris,8C49H,1540738,8C49H,1540738
+B2278:1:36,Eupeodes nielseni,,Eupeodes,Metasyrphus,nielseni,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,neilseni,8C49G,1540740,8C49G,1540740
+B2278:1:37,Eupeodes nitens,,Eupeodes,Metasyrphus,nitens,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,nitens,8C49J,1540726,8C49J,1540726
+B2278:1:38,Eupeodes nuba,,Eupeodes,Metasyrphus,nuba,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,nuba,8C49K,1540836,8C49K,1540836
+B2278:1:39,Eupeodes punctifer,,Eupeodes,Metasyrphus,punctifer,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,punctifer,8C49S,10957152,8C49S,10957152
+B2278:1:40,Eupeodes tirolensis,,Eupeodes,Metasyrphus,tirolensis,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,tirolensis,8C4B7,1540698,8C4B7,1540698
+B2278:1:41,Eupeodes vandergooti,,Eupeodes,Metasyrphus,vandergooti,,species,,B2278:1,accepted,,,B2278:1:20,Metasyrphus,,,,,,,Eupeodes,Metasyrphus,Eupeodes | Metasyrphus,vandergooti,8C4BB,1540795,8C4BB,1540795

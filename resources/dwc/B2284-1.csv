@@ -1,0 +1,36 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2284:1:1,Milesiini,,,,,,tribe,,B2284:1,accepted,,,,,,,,,,,,,,Milesiini,87CVW,,87CVW,
+B2284:1:2,Criorhinina,,,,,,subtribe,,B2284:1,accepted,,,B2284:1:1,Milesiini,,,,,,,,,Milesiini,CRIORHININA,CGYS8,,CGYS8,
+B2284:1:3,Malometasternum,,,,,,genus,,B2284:1,accepted,,,B2284:1:2,Criorhinina,,,,,,,Malometasternum,,Milesiini | Criorhinina,Malometasternum,BY2V4,1536414,BY2V4,1536414
+B2284:1:4,Malometasternum rufocaudatum,,Malometasternum,,rufocaudatum,,species,,B2284:1,accepted,,,B2284:1:3,Malometasternum,,,,,,,Malometasternum,,Milesiini | Criorhinina | Malometasternum,rufocaudatum,3XQBP,1536415,3XQBP,1536415
+B2284:1:5,Deineches,,,,,,genus,,B2284:1,accepted,,,B2284:1:2,Criorhinina,,,,,,,Deineches,,Milesiini | Criorhinina,Deineches,BXZL3,1533155,BXZL3,1533155
+B2284:1:6,Deineches fulva,,Deineches,,fulva,,species,,B2284:1,accepted,,,B2284:1:5,Deineches,,,,,,,Deineches,,Milesiini | Criorhinina | Deineches,fulva,6CFZM,1533161,6CFZM,1533161
+B2284:1:7,Deineches hackeri,,Deineches,,hackeri,,species,,B2284:1,accepted,,,B2284:1:5,Deineches,,,,,,,Deineches,,Milesiini | Criorhinina | Deineches,hackeri,6CFZN,1533159,6CFZN,1533159
+B2284:1:8,Deineches nudiventris,,Deineches,,nudiventris,,species,,B2284:1,accepted,,,B2284:1:5,Deineches,,,,,,,Deineches,,Milesiini | Criorhinina | Deineches,nudiventris,6CFZP,1533156,6CFZP,1533156
+B2284:1:9,Temnostomina,,,,,,subtribe,,B2284:1,accepted,,,B2284:1:1,Milesiini,,,,,,,,,Milesiini,TEMNOSTOMINA,,,,
+B2284:1:10,Odyneromyia,,,,,,genus,,B2284:1,accepted,,,B2284:1:9,Temnostomina,,,,,,,Odyneromyia,,Milesiini | Temnostomina,Odyneromyia,BY3BM,1535685,BY3BM,1535685
+B2284:1:11,Odyneromyia illucens,,Odyneromyia,,illucens,,species,,B2284:1,accepted,,,B2284:1:10,Odyneromyia,,,,,,,Odyneromyia,,Milesiini | Temnostomina | Odyneromyia,illucens,48TDC,1535695,48TDC,1535695
+B2284:1:12,Odyneromyia iridescens,,Odyneromyia,,iridescens,,species,,B2284:1,accepted,,,B2284:1:10,Odyneromyia,,,,,,,Odyneromyia,,Milesiini | Temnostomina | Odyneromyia,iridescens,48TDD,1535688,48TDD,1535688
+B2284:1:13,Odyneromyia spadix,,Odyneromyia,,spadix,,species,,B2284:1,accepted,,,B2284:1:10,Odyneromyia,,,,,,,Odyneromyia,,Milesiini | Temnostomina | Odyneromyia,spadix,48TDF,1535693,48TDF,1535693
+B2284:1:14,Odyneromyia transparens,,Odyneromyia,,transparens,,species,,B2284:1,accepted,,,B2284:1:10,Odyneromyia,,,,,,,Odyneromyia,,Milesiini | Temnostomina | Odyneromyia,transparens,48TDG,1535691,48TDG,1535691
+B2284:1:15,Tropidiina,,,,,,subtribe,,B2284:1,accepted,,,B2284:1:1,Milesiini,,,,,,,,,Milesiini,TROPIDIINA,BJ7SY,,BJ7SY,
+B2284:1:16,Orthoprosopa,,,,,,genus,,B2284:1,accepted,,,B2284:1:15,Tropidiina,,,,,,,Orthoprosopa,,Milesiini | Tropidiina,Orthoprosopa,BY3F9,1537096,BY3F9,1537096
+B2284:1:17,Orthoprosopa,,Orthoprosopa,,,,subgenus,,B2284:1,accepted,,,B2284:1:16,Orthoprosopa,,,,,,,Orthoprosopa,Orthoprosopa,Milesiini | Tropidiina | Orthoprosopa,Orthoprosopa,BY3F9,,BY3F9,
+B2284:1:18,Orthoprosopa grisea,,Orthoprosopa,Orthoprosopa,grisea,,species,,B2284:1,accepted,,,B2284:1:17,Orthoprosopa,,,,,,,Orthoprosopa,Orthoprosopa,Milesiini | Tropidiina | Orthoprosopa | Orthoprosopa,grisea,8D4FL,1537101,8D4FL,1537101
+B2284:1:19,Paratropidia,,Orthoprosopa,,,,subgenus,,B2284:1,accepted,,,B2284:1:16,Orthoprosopa,,,,,,,Orthoprosopa,Paratropidia,Milesiini | Tropidiina | Orthoprosopa,Paratropidia,BY5RF,,BY5RF,
+B2284:1:20,Orthoprosopa bilineata,,Orthoprosopa,Paratropidia,bilineata,,species,,B2284:1,accepted,,,B2284:1:19,Paratropidia,,,,,,,Orthoprosopa,Paratropidia,Milesiini | Tropidiina | Orthoprosopa | Paratropidia,bilineata,8D4FP,1537109,8D4FP,1537109
+B2284:1:21,Orthoprosopa multicolor,,Orthoprosopa,Paratropidia,multicolor,,species,,B2284:1,accepted,,,B2284:1:19,Paratropidia,,,,,,,Orthoprosopa,Paratropidia,Milesiini | Tropidiina | Orthoprosopa | Paratropidia,multicolor,8D4FR,1537097,8D4FR,1537097
+B2284:1:22,Syritta,,,,,,genus,,B2284:1,accepted,,,B2284:1:15,Tropidiina,,,,,,,Syritta,,Milesiini | Tropidiina,Syritta,BY4LS,1544405,BY4LS,1544405
+B2284:1:23,Syritta hackeri,,Syritta,,hackeri,,species,,B2284:1,accepted,,,B2284:1:22,Syritta,,,,,,,Syritta,,Milesiini | Tropidiina | Syritta,hackeri,542QN,1544485,542QN,1544485
+B2284:1:24,Syritta luteinervis,,Syritta,,luteinervis,,species,,B2284:1,accepted,,,B2284:1:22,Syritta,,,,,,,Syritta,,Milesiini | Tropidiina | Syritta,luteinervis,8F7RP,1544419,8F7RP,1544419
+B2284:1:25,Syritta orientalis,,Syritta,,orientalis,,species,,B2284:1,accepted,,,B2284:1:22,Syritta,,,,,,,Syritta,,Milesiini | Tropidiina | Syritta,orientalis,7BB6C,1544425,7BB6C,1544425
+B2284:1:26,Xylotina,,,,,,subtribe,,B2284:1,accepted,,,B2284:1:1,Milesiini,,,,,,,,,Milesiini,XYLOTINA,BXXXS,,BXXXS,
+B2284:1:27,Chalcosyrphus,,,,,,genus,,B2284:1,accepted,,,B2284:1:26,Xylotina,,,,,,,Chalcosyrphus,,Milesiini | Xylotina,Chalcosyrphus,BXZ6R,1533584,BXZ6R,1533584
+B2284:1:28,Hardyimyia,,Chalcosyrphus,,,,subgenus,,B2284:1,accepted,,,B2284:1:27,Chalcosyrphus,,,,,,,Chalcosyrphus,Hardyimyia,Milesiini | Xylotina | Chalcosyrphus,Hardyimyia,,,,
+B2284:1:29,Chalcosyrphus elongata,,Chalcosyrphus,Hardyimyia,elongata,,species,,B2284:1,accepted,,,B2284:1:28,Hardyimyia,,,,,,,Chalcosyrphus,Hardyimyia,Milesiini | Xylotina | Chalcosyrphus | Hardyimyia,elongata,8BFKD,1533663,8BFKD,1533663
+B2284:1:30,Chalcosyrphus,,,,,,genus,,B2284:1,accepted,,,B2284:1:26,Xylotina,,,,,,,Chalcosyrphus,,Milesiini | Xylotina,Chalcosyrphus,BXZ6R,1533584,BXZ6R,1533584
+B2284:1:31,Neploneura,,Chalcosyrphus,,,,subgenus,,B2284:1,accepted,,,B2284:1:30,Chalcosyrphus,,,,,,,Chalcosyrphus,Neploneura,Milesiini | Xylotina | Chalcosyrphus,Neploneura,BY5CJ,,BY5CJ,
+B2284:1:32,Chalcosyrphus pleuralis,,Chalcosyrphus,Neploneura,pleuralis,,species,,B2284:1,accepted,,,B2284:1:31,Neploneura,,,,,,,Chalcosyrphus,Neploneura,Milesiini | Xylotina | Chalcosyrphus | Neploneura,pleuralis,8BFLF,1533615,8BFLF,1533615
+B2284:1:33,Chalcosyrphus victoriensis,,Chalcosyrphus,Neploneura,victoriensis,,species,,B2284:1,accepted,,,B2284:1:31,Neploneura,,,,,,,Chalcosyrphus,Neploneura,Milesiini | Xylotina | Chalcosyrphus | Neploneura,victoriensis,8BFLH,1533808,8BFLH,1533808
+B2284:1:34,Xylota,,,,,,genus,,B2284:1,accepted,,,B2284:1:26,Xylotina,,,,,,,Xylota,,Milesiini | Xylotina,Xylota,89LD,1541512,89LD,1541512
+B2284:1:35,Xylota flavitarsis,,Xylota,,flavitarsis,,species,,B2284:1,accepted,,,B2284:1:34,Xylota,,,,,,,Xylota,,Milesiini | Xylotina | Xylota,flavitarsis,8FNHF,1541577,8FNHF,1541577

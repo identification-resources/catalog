@@ -1,0 +1,38 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2300:1:1,Brachyopini,,,,,,tribe,,B2300:1,accepted,,,,,,,,,,,,,,Brachyopini,C3GN8,,C3GN8,
+B2300:1:2,Spheginina,,,,,,subtribe,,B2300:1,accepted,,,B2300:1:1,Brachyopini,,,,,,,,,Brachyopini,Spheginina,BY65K,,BY65K,
+B2300:1:3,Sphegina,,,,,,genus,,B2300:1,accepted,,,B2300:1:2,Spheginina,,,,,,,Sphegina,,Brachyopini | Spheginina,Sphegina,BYQMG,1535557,BYQMG,1535557
+B2300:1:4,Neoascia,,,,,,genus,,B2300:1,accepted,,,B2300:1:2,Spheginina,,,,,,,Neoascia,,Brachyopini | Spheginina,Neoascia,BYJSD,1536777,BYJSD,1536777
+B2300:1:5,Neoascia interrupta,,Neoascia,,interrupta,,species,,B2300:1,accepted,,,B2300:1:4,Neoascia,,,,,,,Neoascia,,Brachyopini | Spheginina | Neoascia,interrupta,8CYXB,1536827,8CYXB,1536827
+B2300:1:6,Neoascia unifasciata,,Neoascia,,unifasciata,,species,,B2300:1,accepted,,,B2300:1:4,Neoascia,,,,,,,Neoascia,,Brachyopini | Spheginina | Neoascia,unifasciata,8CYXH,1536785,8CYXH,1536785
+B2300:1:7,Neoascia podagrica,,Neoascia,,podagrica,,species,,B2300:1,accepted,,,B2300:1:4,Neoascia,,,,,,,Neoascia,,Brachyopini | Spheginina | Neoascia,podagrica,8CYX2,1536796,8CYX2,1536796
+B2300:1:8,Neoascia obliqua,,Neoascia,,obliqua,,species,,B2300:1,accepted,,,B2300:1:4,Neoascia,,,,,,,Neoascia,,Brachyopini | Spheginina | Neoascia,obliqua,8CYXD,1536794,8CYXD,1536794
+B2300:1:9,Neoascia meticulosa,,Neoascia,,meticulosa,,species,,B2300:1,accepted,,,B2300:1:4,Neoascia,,,,,,,Neoascia,,Brachyopini | Spheginina | Neoascia,meticulosa,8CYXC,1536817,8CYXC,1536817
+B2300:1:10,Neoascia geniculata,,Neoascia,,geniculata,,species,,B2300:1,accepted,,,B2300:1:4,Neoascia,,,,,,,Neoascia,,Brachyopini | Spheginina | Neoascia,geniculata,8CYX9,1536812,8CYX9,1536812
+B2300:1:11,Neoascia tenur,,Neoascia,,tenur,,species,,B2300:1,accepted,,,B2300:1:4,Neoascia,,,,,,,Neoascia,,Brachyopini | Spheginina | Neoascia,tenur,8CYX3,1536804,8CYX3,1536804
+B2300:1:12,Brachyopina,,,,,,subtribe,,B2300:1,accepted,,,B2300:1:1,Brachyopini,,,,,,,,,Brachyopini,Brachyopina,,,,
+B2300:1:13,Hammerschmidtia,,,,,,genus,,B2300:1,accepted,,,B2300:1:12,Brachyopina,,,,,,,Hammerschmidtia,,Brachyopini | Brachyopina,Hammerschmidtia,BYF3M,8860633,BYF3M,8860633
+B2300:1:14,Hammerschmidtia ferruginea,,Hammerschmidtia,,ferruginea,,species,,B2300:1,accepted,,,B2300:1:13,Hammerschmidtia,,,,,,,Hammerschmidtia,,Brachyopini | Brachyopina | Hammerschmidtia,ferruginea,9HJ8G,4516884,9HJ8G,4516884
+B2300:1:15,Brachyopa,,,,,,genus,,B2300:1,accepted,,,B2300:1:12,Brachyopina,,,,,,,Brachyopa,,Brachyopini | Brachyopina,Brachyopa,BY8GX,1534367,BY8GX,1534367
+B2300:1:16,Brachyopa bicolor,,Brachyopa,,bicolor,,species,,B2300:1,accepted,,,B2300:1:15,Brachyopa,,,,,,,Brachyopa,,Brachyopini | Brachyopina | Brachyopa,bicolor,8B8V2,1534412,8B8V2,1534412
+B2300:1:17,Brachyopa insensilis,,Brachyopa,,insensilis,,species,,B2300:1,accepted,,,B2300:1:15,Brachyopa,,,,,,,Brachyopa,,Brachyopini | Brachyopina | Brachyopa,insensilis,8B8VC,1534410,8B8VC,1534410
+B2300:1:18,Brachyopa scutellaris,,Brachyopa,,scutellaris,,species,,B2300:1,accepted,,,B2300:1:15,Brachyopa,,,,,,,Brachyopa,,Brachyopini | Brachyopina | Brachyopa,scutellaris,8B8VV,1534396,8B8VV,1534396
+B2300:1:19,Brachyopa pilosa,,Brachyopa,,pilosa,,species,,B2300:1,accepted,,,B2300:1:15,Brachyopa,,,,,,,Brachyopa,,Brachyopini | Brachyopina | Brachyopa,pilosa,8B8VN,1534395,8B8VN,1534395
+B2300:1:20,Myolepta,,,,,,genus,,B2300:1,accepted,,,B2300:1:12,Brachyopina,,,,,,,Myolepta,,Brachyopini | Brachyopina,Myolepta,BYJKZ,1533883,BYJKZ,1533883
+B2300:1:21,Orthonevra,,,,,,genus,,B2300:1,accepted,,,B2300:1:12,Brachyopina,,,,,,,Orthonevra,,Brachyopini | Brachyopina,Orthonevra,63H6W,1537455,63H6W,1537455
+B2300:1:22,Orthonevra nobilis,,Orthonevra,,nobilis,,species,,B2300:1,accepted,,,B2300:1:21,Orthonevra,,,,,,,Orthonevra,,Brachyopini | Brachyopina | Orthonevra,nobilis,6SWQV,1537521,6SWQV,1537521
+B2300:1:23,Orthonevra brevicornis,,Orthonevra,,brevicornis,,species,,B2300:1,accepted,,,B2300:1:21,Orthonevra,,,,,,,Orthonevra,,Brachyopini | Brachyopina | Orthonevra,brevicornis,74X2S,1537538,74X2S,1537538
+B2300:1:24,Orthonevra geniculata,,Orthonevra,,geniculata,,species,,B2300:1,accepted,,,B2300:1:21,Orthonevra,,,,,,,Orthonevra,,Brachyopini | Brachyopina | Orthonevra,geniculata,6T8QT,1537547,6T8QT,1537547
+B2300:1:25,Orthonevra intermedia,,Orthonevra,,intermedia,,species,,B2300:1,accepted,,,B2300:1:21,Orthonevra,,,,,,,Orthonevra,,Brachyopini | Brachyopina | Orthonevra,intermedia,74X35,1537501,74X35,1537501
+B2300:1:26,Lejogaster,,,,,,genus,,B2300:1,accepted,,,B2300:1:12,Brachyopina,,,,,,,Lejogaster,,Brachyopini | Brachyopina,Lejogaster,BYGPS,1537377,BYGPS,1537377
+B2300:1:27,Lejogaster metallina,,Lejogaster,,metallina,,species,,B2300:1,accepted,,,B2300:1:26,Lejogaster,,,,,,,Lejogaster,,Brachyopini | Brachyopina | Lejogaster,metallina,3T3TX,1537380,3T3TX,1537380
+B2300:1:28,Lejogaster tarsata,,Lejogaster,,tarsata,,species,,B2300:1,accepted,,,B2300:1:26,Lejogaster,,,,,,,Lejogaster,,Brachyopini | Brachyopina | Lejogaster,tarsata,3T3TZ,1537389,3T3TZ,1537389
+B2300:1:29,Riponnensia,,,,,,genus,,B2300:1,accepted,,,B2300:1:12,Brachyopina,,,,,,,Riponnensia,,Brachyopini | Brachyopina,Riponnensia,BYZPD,1543421,BYZPD,1543421
+B2300:1:30,Riponnensia splendens,,Riponnensia,,splendens,,species,,B2300:1,accepted,,,B2300:1:29,Riponnensia,,,,,,,Riponnensia,,Brachyopini | Brachyopina | Riponnensia,splendens,,4516885,,1537535
+B2300:1:31,Chrysogaster,,,,,,genus,,B2300:1,accepted,,,B2300:1:12,Brachyopina,,,,,,,Chrysogaster,,Brachyopini | Brachyopina,Chrysogaster,BY9LJ,1536707,BY9LJ,1536707
+B2300:1:32,Chrysogaster solstitialis,,Chrysogaster,,solstitialis,,species,,B2300:1,accepted,,,B2300:1:31,Chrysogaster,,,,,,,Chrysogaster,,Brachyopini | Brachyopina | Chrysogaster,solstitialis,5YP63,1536716,5YP63,1536716
+B2300:1:33,Chrysogaster cemeteriorum,,Chrysogaster,,cemeteriorum,,species,,B2300:1,accepted,,,B2300:1:31,Chrysogaster,,,,,,,Chrysogaster,,Brachyopini | Brachyopina | Chrysogaster,cemeteriorum,5YP59,1536758,5YP59,1536758
+B2300:1:34,Chrysogaster virescens,,Chrysogaster,,virescens,,species,,B2300:1,accepted,,,B2300:1:31,Chrysogaster,,,,,,,Chrysogaster,,Brachyopini | Brachyopina | Chrysogaster,virescens,5YP7C,1536725,5YP7C,1536725
+B2300:1:35,Melanogaster,,,,,,genus,,B2300:1,accepted,,,B2300:1:12,Brachyopina,,,,,,,Melanogaster,,Brachyopini | Brachyopina,Melanogaster,KZ634,3264906,KZ634,3264906
+B2300:1:36,Melanogaster aerosa,,Melanogaster,,aerosa,,species,,B2300:1,accepted,,,B2300:1:35,Melanogaster,,,,,,,Melanogaster,,Brachyopini | Brachyopina | Melanogaster,aerosa,,6098390,,1536728
+B2300:1:37,Melanogaster hirtella,,Melanogaster,,hirtella,,species,,B2300:1,accepted,,,B2300:1:35,Melanogaster,,,,,,,Melanogaster,,Brachyopini | Brachyopina | Melanogaster,hirtella,,6098389,,1536711
