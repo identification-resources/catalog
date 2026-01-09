@@ -11603,5 +11603,94 @@
     ],
     "id": "B2300:1",
     "taxonCount": 37
+  },
+  "B2303:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2303:1",
+    "taxonCount": 526
+  },
+  "B2304:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2304:1",
+    "taxonCount": 526
+  },
+  "B2305:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2305:1",
+    "taxonCount": 526
+  },
+  "B2306:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "form"
+    ],
+    "id": "B2306:1",
+    "taxonCount": 21
+  },
+  "B2308:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "group",
+      "species"
+    ],
+    "catalog": {
+      "pages": "16-17"
+    },
+    "id": "B2308:1",
+    "taxonCount": 17
+  },
+  "B2308:2": {
+    "levels": [
+      "subfamily",
+      "tribe",
+      "subtribe",
+      "genus",
+      "subgenus",
+      "group",
+      "subgroup",
+      "species"
+    ],
+    "catalog": {
+      "pages": "18-64"
+    },
+    "id": "B2308:2",
+    "taxonCount": 122
+  },
+  "B2308:3": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "subtribe",
+      "genus",
+      "subgenus",
+      "group",
+      "subgroup",
+      "species"
+    ],
+    "catalog": {
+      "pages": "67-69",
+      "key_type": [
+        "checklist"
+      ]
+    },
+    "id": "B2308:3",
+    "taxonCount": 180
   }
 }

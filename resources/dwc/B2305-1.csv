@@ -1,0 +1,527 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2305:1:1,Syrphidae,,,,,,family,,B2305:1,accepted,,,,,,,,,Syrphidae,,,,,Syrphidae,GVS,6920,GVS,6920
+B2305:1:2,Anasimyia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Anasimyia,,Syrphidae,Anasimyia,BY74V,8831717,BY74V,8831717
+B2305:1:3,Anasimyia contracta,,Anasimyia,,contracta,,species,,B2305:1,accepted,,,B2305:1:2,Anasimyia,,,,,Syrphidae,,Anasimyia,,Syrphidae | Anasimyia,contracta,89YP6,1538450,89YP6,1538450
+B2305:1:4,Anasimyia interpuncta,,Anasimyia,,interpuncta,,species,,B2305:1,accepted,,,B2305:1:2,Anasimyia,,,,,Syrphidae,,Anasimyia,,Syrphidae | Anasimyia,interpuncta,9HH4H,4516796,9HH4H,4516796
+B2305:1:5,Anasimyia lunulata,,Anasimyia,,lunulata,,species,,B2305:1,accepted,,,B2305:1:2,Anasimyia,,,,,Syrphidae,,Anasimyia,,Syrphidae | Anasimyia,lunulata,9HH4J,4516797,9HH4J,4516797
+B2305:1:6,Anasimyia transfuga,,Anasimyia,,transfuga,,species,,B2305:1,accepted,,,B2305:1:2,Anasimyia,,,,,Syrphidae,,Anasimyia,,Syrphidae | Anasimyia,transfuga,9HH4K,4516795,9HH4K,4516795
+B2305:1:7,Baccha,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Baccha,,Syrphidae,Baccha,BY7XW,1536538,BY7XW,1536538
+B2305:1:8,Baccha elongata,,Baccha,,elongata,,species,,B2305:1,accepted,,,B2305:1:7,Baccha,,,,,Syrphidae,,Baccha,,Syrphidae | Baccha,elongata,K6V8,1536559,K6V8,1536559
+B2305:1:9,Baccha obscuripennis,,Baccha,,obscuripennis,,species,,B2305:1,synonym,B2305:1:8,Baccha elongata,,,,,,,Syrphidae,,Baccha,,Syrphidae | Baccha,obscuripennis,CNHGZ,1536556,K6WQ,1536555
+B2305:1:10,Blera,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Blera,,Syrphidae,Blera,BY897,1536144,BY897,1536144
+B2305:1:11,Blera fallax,,Blera,,fallax,,species,,B2305:1,accepted,,,B2305:1:10,Blera,,,,,Syrphidae,,Blera,,Syrphidae | Blera,fallax,M6MW,5071107,M6MW,5071107
+B2305:1:12,Brachyopa,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Brachyopa,,Syrphidae,Brachyopa,BY8GX,1534367,BY8GX,1534367
+B2305:1:13,Brachyopa bicolor,,Brachyopa,,bicolor,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,bicolor,8B8V2,1534412,8B8V2,1534412
+B2305:1:14,Brachyopa bimaculosa,,Brachyopa,,bimaculosa,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,bimaculosa,68Q5R,1534411,68Q5R,1534411
+B2305:1:15,Brachyopa dorsata,,Brachyopa,,dorsata,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,dorsata,8B8V8,1534402,8B8V8,1534402
+B2305:1:16,Brachyopa grunewaldensis,,Brachyopa,,grunewaldensis,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,grunewaldensis,MY56,1534371,MY56,1534371
+B2305:1:17,Brachyopa insensilis,,Brachyopa,,insensilis,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,insensilis,8B8VC,1534410,8B8VC,1534410
+B2305:1:18,Brachyopa obscura,,Brachyopa,,obscura,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,obscura,8B8VJ,1534374,8B8VJ,1534374
+B2305:1:19,Brachyopa panzeri,,Brachyopa,,panzeri,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,panzeri,8B8VL,1534418,8B8VL,1534418
+B2305:1:20,Brachyopa pilosa,,Brachyopa,,pilosa,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,pilosa,8B8VN,1534395,8B8VN,1534395
+B2305:1:21,Brachyopa scutellaris,,Brachyopa,,scutellaris,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,scutellaris,8B8VV,1534396,8B8VV,1534396
+B2305:1:22,Brachyopa silviae,,Brachyopa,,silviae,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,silviae,MY5W,1534368,MY5W,1534368
+B2305:1:23,Brachyopa testacea,,Brachyopa,,testacea,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,testacea,8B8VW,1534372,8B8VW,1534372
+B2305:1:24,Brachyopa vittata,,Brachyopa,,vittata,,species,,B2305:1,accepted,,,B2305:1:12,Brachyopa,,,,,Syrphidae,,Brachyopa,,Syrphidae | Brachyopa,vittata,8B8VY,1534421,8B8VY,1534421
+B2305:1:25,Brachypalpoides,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Brachypalpoides,,Syrphidae,Brachypalpoides,BY8H2,1535698,BY8H2,1535698
+B2305:1:26,Brachypalpoides lentus,,Brachypalpoides,,lentus,,species,,B2305:1,accepted,,,B2305:1:25,Brachypalpoides,,,,,Syrphidae,,Brachypalpoides,,Syrphidae | Brachypalpoides,lentus,B97RY,4516805,B97RY,4516805
+B2305:1:27,Brachypalpus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Brachypalpus,,Syrphidae,Brachypalpus,BY8H3,1529391,BY8H3,1529391
+B2305:1:28,Brachypalpus laphriformis,,Brachypalpus,,laphriformis,,species,,B2305:1,accepted,,,B2305:1:27,Brachypalpus,,,,,Syrphidae,,Brachypalpus,,Syrphidae | Brachypalpus,laphriformis,,6098379,,1536381
+B2305:1:29,Brachypalpus valgus,,Brachypalpus,,valgus,,species,,B2305:1,accepted,,,B2305:1:27,Brachypalpus,,,,,Syrphidae,,Brachypalpus,,Syrphidae | Brachypalpus,valgus,8B8X5,1536381,8B8X5,1536381
+B2305:1:30,Caliprobola,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Caliprobola,,Syrphidae,Caliprobola,BY8RB,1533002,BY8RB,1533002
+B2305:1:31,Caliprobola speciosa,,Caliprobola,,speciosa,,species,,B2305:1,accepted,,,B2305:1:30,Caliprobola,,,,,Syrphidae,,Caliprobola,,Syrphidae | Caliprobola,speciosa,PKSD,1533005,PKSD,1533005
+B2305:1:32,Callicera,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Callicera,,Syrphidae,Callicera,BY8RG,1533540,BY8RG,1533540
+B2305:1:33,Callicera aenea,,Callicera,,aenea,,species,,B2305:1,accepted,,,B2305:1:32,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,aenea,68VT2,5070396,68VT2,5070396
+B2305:1:34,Callicera aurata,,Callicera,,aurata,,species,,B2305:1,accepted,,,B2305:1:32,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,aurata,PMMV,5070404,PMMV,5070404
+B2305:1:35,Callicera fagesii,,Callicera,,fagesii,,species,,B2305:1,accepted,,,B2305:1:32,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,fagesii,PMN4,5070411,PMN4,5070411
+B2305:1:36,Callicera macquarti,,Callicera,,macquarti,,species,,B2305:1,accepted,,,B2305:1:32,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,macquarti,PMN6,5070393,PMN6,5070393
+B2305:1:37,Callicera rufa,,Callicera,,rufa,,species,,B2305:1,accepted,,,B2305:1:32,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,rufa,PMNH,5070391,PMNH,5070391
+B2305:1:38,Callicera spinolae,,Callicera,,spinolae,,species,,B2305:1,accepted,,,B2305:1:32,Callicera,,,,,Syrphidae,,Callicera,,Syrphidae | Callicera,spinolae,PMNK,5070407,PMNK,5070407
+B2305:1:39,Ceriana,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Ceriana,,Syrphidae,Ceriana,BXZ5V,1539337,BXZ5V,1539337
+B2305:1:40,Ceriana conopsoides,,Ceriana,,conopsoides,,species,,B2305:1,accepted,,,B2305:1:39,Ceriana,,,,,Syrphidae,,Ceriana,,Syrphidae | Ceriana,conopsoides,5XLRM,1539631,5XLRM,1539631
+B2305:1:41,Ceriana vespiformis,,Ceriana,,vespiformis,,species,,B2305:1,accepted,,,B2305:1:39,Ceriana,,,,,Syrphidae,,Ceriana,,Syrphidae | Ceriana,vespiformis,SXYM,1539719,SXYM,1539719
+B2305:1:42,Chalcosyrphus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae,Chalcosyrphus,BXZ6R,1533584,BXZ6R,1533584
+B2305:1:43,Chalcosyrphus eunotus,,Chalcosyrphus,,eunotus,,species,,B2305:1,accepted,,,B2305:1:42,Chalcosyrphus,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,eunotus,8BFM5,1533661,8BFM5,1533661
+B2305:1:44,Chalcosyrphus femoratus,,Chalcosyrphus,,femoratus,,species,,B2305:1,accepted,,,B2305:1:42,Chalcosyrphus,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,femoratus,8BFMN,4516833,8BFMN,4516833
+B2305:1:45,Chalcosyrphus curvipes,,Chalcosyrphus,,curvipes,,species,auct.,B2305:1,synonym,B2305:1:44,Chalcosyrphus femoratus,,,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,curvipes auct.,,6098345,,4516833
+B2305:1:46,Chalcosyrphus nemorum,,Chalcosyrphus,,nemorum,,species,,B2305:1,accepted,,,B2305:1:42,Chalcosyrphus,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,nemorum,8BFN2,1533710,8BFN2,1533710
+B2305:1:47,Chalcosyrphus piger,,Chalcosyrphus,,piger,,species,,B2305:1,accepted,,,B2305:1:42,Chalcosyrphus,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,piger,8BFND,1533639,8BFND,1533639
+B2305:1:48,Chalcosyrphus valgus,,Chalcosyrphus,,valgus,,species,,B2305:1,accepted,,,B2305:1:42,Chalcosyrphus,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,valgus,8BFNL,1533796,8BFNL,1533796
+B2305:1:49,Chalcosyrphus femoratus,,Chalcosyrphus,,femoratus,,species,auct.,B2305:1,synonym,B2305:1:48,Chalcosyrphus valgus,,,,,,,Syrphidae,,Chalcosyrphus,,Syrphidae | Chalcosyrphus,femoratus auct.,8BFMN,4516833,8BFMN,4516833
+B2305:1:50,Cheilosia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Cheilosia,,Syrphidae,Cheilosia,BXWYF,1539835,BXWYF,1539835
+B2305:1:51,Cheilosia aerea,,Cheilosia,,aerea,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,aerea,TSGB,1539969,TSGB,1539969
+B2305:1:52,Cheilosia ahenea,,Cheilosia,,ahenea,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,ahenea,TSGD,1539863,TSGD,1539863
+B2305:1:53,Cheilosia albipila,,Cheilosia,,albipila,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,albipila,TSGK,1540020,TSGK,1540020
+B2305:1:54,Cheilosia albitarsis,,Cheilosia,,albitarsis,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,albitarsis,9HHR6,4516695,9HHR6,4516695
+B2305:1:55,Cheilosia antiqua,,Cheilosia,,antiqua,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,antiqua,TSH7,1540488,TSH7,1540488
+B2305:1:56,Cheilosia barbata,,Cheilosia,,barbata,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,barbata,TSHW,1540549,TSHW,1540549
+B2305:1:57,Cheilosia bergenstammi,,Cheilosia,,bergenstammi,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,bergenstammi,TSJ6,1540517,TSJ6,1540517
+B2305:1:58,Cheilosia caerulescens,,Cheilosia,,caerulescens,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,caerulescens,8BFV2,4516682,8BFV2,4516682
+B2305:1:59,Cheilosia canicularis,,Cheilosia,,canicularis,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,canicularis,8BFV3,4516679,8BFV3,1540362
+B2305:1:60,Cheilosia carbonaria,,Cheilosia,,carbonaria,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,carbonaria,TSJW,1540334,TSJW,1540334
+B2305:1:61,Cheilosia chloris,,Cheilosia,,chloris,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,chloris,CCYYH,4516709,CCYYH,1540317
+B2305:1:62,Cheilosia chrysocoma,,Cheilosia,,chrysocoma,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,chrysocoma,TSK9,1540278,TSK9,1540278
+B2305:1:63,Cheilosia clama,,Cheilosia,,clama,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,clama,TSKC,1539956,TSKC,1539956
+B2305:1:64,Cheilosia cynocephala,,Cheilosia,,cynocephala,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,cynocephala,5XRJT,1540189,5XRJT,1540189
+B2305:1:65,Cheilosia fasciata,,Cheilosia,,fasciata,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,fasciata,TSLQ,1540113,TSLQ,1540113
+B2305:1:66,Cheilosia flavipes,,Cheilosia,,flavipes,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,flavipes,TSLZ,1540082,TSLZ,1540082
+B2305:1:67,Cheilosia fraterna,,Cheilosia,,fraterna,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,fraterna,TSM8,1540067,TSM8,1540067
+B2305:1:68,Cheilosia frontalis,,Cheilosia,,frontalis,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,frontalis,TSM9,1540046,TSM9,1540046
+B2305:1:69,Cheilosia gigantea,,Cheilosia,,gigantea,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,gigantea,TSMJ,1539953,TSMJ,1539953
+B2305:1:70,Cheilosia griseiventris,,Cheilosia,,griseiventris,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,griseiventris,TSMS,1539895,TSMS,1539895
+B2305:1:71,Cheilosia grisella,,Cheilosia,,grisella,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,grisella,TSMT,1539876,TSMT,1539876
+B2305:1:72,Cheilosia grossa,,Cheilosia,,grossa,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,grossa,,4516680,,1539854
+B2305:1:73,Cheilosia himantopus,,Cheilosia,,himantopus,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,himantopus,TSN6,1540362,TSN6,1540362
+B2305:1:74,Cheilosia illustrata,,Cheilosia,,illustrata,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,illustrata,TSNG,1540302,TSNG,1540302
+B2305:1:75,Cheilosia impressa,,Cheilosia,,impressa,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,impressa,TSNJ,1540633,TSNJ,1540633
+B2305:1:76,Cheilosia lasiopa,,Cheilosia,,lasiopa,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,lasiopa,9HHRD,4516701,9HHRD,4516701
+B2305:1:77,Cheilosia laticornis,,Cheilosia,,laticornis,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,laticornis,TSPL,1540509,TSPL,1540509
+B2305:1:78,Cheilosia latifrons,,Cheilosia,,latifrons,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,latifrons,TSPP,1540561,TSPP,1540561
+B2305:1:79,Cheilosia lenis,,Cheilosia,,lenis,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,lenis,TSPT,1540480,TSPT,1540480
+B2305:1:80,Cheilosia longula,,Cheilosia,,longula,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,longula,69RJV,1540390,69RJV,1540390
+B2305:1:81,Cheilosia luteicornis,,Cheilosia,,luteicornis,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,luteicornis,,,,
+B2305:1:82,Cheilosia morio,,Cheilosia,,morio,,species,auct.,B2305:1,synonym,B2305:1:81,Cheilosia luteicornis,,,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,morio auct.,5Y3JB,1540231,5Y3JB,1540231
+B2305:1:83,Cheilosia morio,,Cheilosia,,morio,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,morio,5Y3JB,1540231,5Y3JB,1540231
+B2305:1:84,Cheilosia scanica,,Cheilosia,,scanica,,species,auct.,B2305:1,synonym,B2305:1:83,Cheilosia morio,,,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,scanica auct.,TSVP,1540599,TSVP,1540599
+B2305:1:85,Cheilosia mutabilis,,Cheilosia,,mutabilis,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,mutabilis,TSRF,1540212,TSRF,1540212
+B2305:1:86,Cheilosia nebulosa,,Cheilosia,,nebulosa,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,nebulosa,TSRP,1540167,TSRP,1540167
+B2305:1:87,Cheilosia nigripes,,Cheilosia,,nigripes,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,nigripes,TSRW,1540138,TSRW,1540138
+B2305:1:88,Cheilosia orthotricha,,Cheilosia,,orthotricha,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,orthotricha,TST2,1540235,TST2,1540235
+B2305:1:89,Cheilosia pagana,,Cheilosia,,pagana,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,pagana,TST4,1539941,TST4,1539941
+B2305:1:90,Cheilosia proxima,,Cheilosia,,proxima,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,proxima,5Y3KQ,1540608,5Y3KQ,1540608
+B2305:1:91,Cheilosia psilophthalma,,Cheilosia,,psilophthalma,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,psilophthalma,69RL2,1540597,69RL2,1540597
+B2305:1:92,Cheilosia pubera,,Cheilosia,,pubera,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,pubera,5XRKR,1540581,5XRKR,1540581
+B2305:1:93,Cheilosia ranunculi,,Cheilosia,,ranunculi,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,ranunculi,CNLDW,1540590,CNLDW,1540590
+B2305:1:94,Cheilosia ruffipes,,Cheilosia,,ruffipes,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,ruffipes,TSV8,1540146,TSV8,1540146
+B2305:1:95,Cheilosia soror,,Cheilosia,,soror,,species,,B2305:1,synonym,B2305:1:94,Cheilosia ruffipes,,,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,soror,TSWL,4516703,TSWL,1540146
+B2305:1:96,Cheilosia rufimana,,Cheilosia,,rufimana,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,rufimana,TSVD,1540471,TSVD,1540471
+B2305:1:97,Cheilosia sahlbergi,,Cheilosia,,sahlbergi,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,sahlbergi,TSVJ,1540433,TSVJ,1540433
+B2305:1:98,Cheilosia scutellata,,Cheilosia,,scutellata,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,scutellata,BZ4QH,4516681,BZ4QH,4516681
+B2305:1:99,Cheilosia semifasciata,,Cheilosia,,semifasciata,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,semifasciata,TSVV,1540296,TSVV,1540296
+B2305:1:100,Cheilosia soror,,Cheilosia,,soror,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,soror,TSWL,4516703,TSWL,1540146
+B2305:1:101,Cheilosia urbana,,Cheilosia,,urbana,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,urbana,CCYYN,4516690,CCYYN,1540446
+B2305:1:102,Cheilosia uviformis,,Cheilosia,,uviformis,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,uviformis,TSY7,1540101,TSY7,1540101
+B2305:1:103,Cheilosia variabilis,,Cheilosia,,variabilis,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,variabilis,TSY8,1540086,TSY8,1540086
+B2305:1:104,Cheilosia velutina,,Cheilosia,,velutina,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,velutina,TSYD,1540047,TSYD,1540047
+B2305:1:105,Cheilosia vernalis,,Cheilosia,,vernalis,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,vernalis,TSYG,1539991,TSYG,1539991
+B2305:1:106,Cheilosia rotundiventris,,Cheilosia,,rotundiventris,,species,,B2305:1,synonym,B2305:1:105,Cheilosia vernalis,,,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,rotundiventris,TSV7,1540520,TSV7,1540520
+B2305:1:107,Cheilosia ruficollis,,Cheilosia,,ruficollis,,species,,B2305:1,synonym,B2305:1:105,Cheilosia vernalis,,,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,ruficollis,TSVB,1540495,TSVB,1540495
+B2305:1:108,Cheilosia vicina,,Cheilosia,,vicina,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,vicina,TSYK,1539931,TSYK,1539931
+B2305:1:109,Cheilosia vulpina,,Cheilosia,,vulpina,,species,,B2305:1,accepted,,,B2305:1:50,Cheilosia,,,,,Syrphidae,,Cheilosia,,Syrphidae | Cheilosia,vulpina,TSYS,1539896,TSYS,1539896
+B2305:1:110,Chrysogaster,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Chrysogaster,,Syrphidae,Chrysogaster,BY9LJ,1536707,BY9LJ,1536707
+B2305:1:111,Chrysogaster basalis,,Chrysogaster,,basalis,,species,,B2305:1,accepted,,,B2305:1:110,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,basalis,5YP3Q,1536708,5YP3Q,1536708
+B2305:1:112,Chrysogaster cemiteriorum,,Chrysogaster,,cemiteriorum,,species,,B2305:1,accepted,,,B2305:1:110,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,cemiteriorum,5YP59,1536758,5YP59,1536758
+B2305:1:113,Chrysogaster coerulea,,Chrysogaster,,coerulea,,species,,B2305:1,accepted,,,B2305:1:110,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,coerulea,5YP5G,1536766,5YP5G,1536766
+B2305:1:114,Chrysogaster rondanii,,Chrysogaster,,rondanii,,species,,B2305:1,accepted,,,B2305:1:110,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,rondanii,9H8LQ,1536752,9H8LQ,1536752
+B2305:1:115,Chrysogaster solstitialis,,Chrysogaster,,solstitialis,,species,,B2305:1,accepted,,,B2305:1:110,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,solstitialis,5YP63,1536716,5YP63,1536716
+B2305:1:116,Chrysogaster virescens,,Chrysogaster,,virescens,,species,,B2305:1,accepted,,,B2305:1:110,Chrysogaster,,,,,Syrphidae,,Chrysogaster,,Syrphidae | Chrysogaster,virescens,5YP7C,1536725,5YP7C,1536725
+B2305:1:117,Chrysotoxum,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Chrysotoxum,,Syrphidae,Chrysotoxum,BY9LZ,1535870,BY9LZ,1535870
+B2305:1:118,Chrysotoxum arcuatum,,Chrysotoxum,,arcuatum,,species,,B2305:1,accepted,,,B2305:1:117,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,arcuatum,V2GC,10992980,V2GC,10992980
+B2305:1:119,Chrysotoxum bicinctum,,Chrysotoxum,,bicinctum,,species,,B2305:1,accepted,,,B2305:1:117,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,bicinctum,8HXY6,1536009,8HXY6,1536009
+B2305:1:120,Chrysotoxum cautum,,Chrysotoxum,,cautum,,species,,B2305:1,accepted,,,B2305:1:117,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,cautum,5YTCL,1535990,5YTCL,1535990
+B2305:1:121,Chrysotoxum elegans,,Chrysotoxum,,elegans,,species,,B2305:1,accepted,,,B2305:1:117,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,elegans,V2HG,1535931,V2HG,1535931
+B2305:1:122,Chrysotoxum fasciolatum,,Chrysotoxum,,fasciolatum,,species,,B2305:1,accepted,,,B2305:1:117,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,fasciolatum,V2HK,1535954,V2HK,1535954
+B2305:1:123,Chrysotoxum festivum,,Chrysotoxum,,festivum,,species,,B2305:1,accepted,,,B2305:1:117,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,festivum,9HHRZ,4516839,9HHRZ,4516839
+B2305:1:124,Chrysotoxum lessonae,,Chrysotoxum,,lessonae,,species,,B2305:1,accepted,,,B2305:1:117,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,lessonae,V2JP,1535999,V2JP,1535999
+B2305:1:125,Chrysotoxum intermedium,,Chrysotoxum,,intermedium,,species,auct.,B2305:1,synonym,B2305:1:124,Chrysotoxum lessonae,,,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,intermedium auct.,CNLJH,1536030,CNLJH,1536030
+B2305:1:126,Chrysotoxum octomaculatum,,Chrysotoxum,,octomaculatum,,species,,B2305:1,accepted,,,B2305:1:117,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,octomaculatum,V2KB,1535899,V2KB,1535899
+B2305:1:127,Chrysotoxum vernale,,Chrysotoxum,,vernale,,species,,B2305:1,accepted,,,B2305:1:117,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,vernale,V2LR,1536015,V2LR,1536015
+B2305:1:128,Chrysotoxum verralli,,Chrysotoxum,,verralli,,species,,B2305:1,accepted,,,B2305:1:117,Chrysotoxum,,,,,Syrphidae,,Chrysotoxum,,Syrphidae | Chrysotoxum,verralli,V2LT,1535909,V2LT,1535909
+B2305:1:129,Criorhina,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Criorhina,,Syrphidae,Criorhina,BYB74,5070963,BYB74,5070963
+B2305:1:130,Criorhina asilica,,Criorhina,,asilica,,species,,B2305:1,accepted,,,B2305:1:129,Criorhina,,,,,Syrphidae,,Criorhina,,Syrphidae | Criorhina,asilica,ZHHY,5071001,ZHHY,5071001
+B2305:1:131,Criorhina floccosa,,Criorhina,,floccosa,,species,,B2305:1,accepted,,,B2305:1:129,Criorhina,,,,,Syrphidae,,Criorhina,,Syrphidae | Criorhina,floccosa,ZHJF,5071031,ZHJF,5071031
+B2305:1:132,Criorhina pachymera,,Criorhina,,pachymera,,species,,B2305:1,accepted,,,B2305:1:129,Criorhina,,,,,Syrphidae,,Criorhina,,Syrphidae | Criorhina,pachymera,ZHK3,5070983,ZHK3,5070983
+B2305:1:133,Criorhina ranunculi,,Criorhina,,ranunculi,,species,,B2305:1,accepted,,,B2305:1:129,Criorhina,,,,,Syrphidae,,Criorhina,,Syrphidae | Criorhina,ranunculi,ZHK9,5071002,ZHK9,5071002
+B2305:1:134,Dasysyrphus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Dasysyrphus,,Syrphidae,Dasysyrphus,BYBJN,1542043,BYBJN,1542043
+B2305:1:135,Dasysyrphus albostriatus,,Dasysyrphus,,albostriatus,,species,,B2305:1,accepted,,,B2305:1:134,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,albostriatus,6CF43,1542111,6CF43,1542111
+B2305:1:136,Dasysyrphus friuliensis,,Dasysyrphus,,friuliensis,,species,,B2305:1,accepted,,,B2305:1:134,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,friuliensis,,4516904,,1542118
+B2305:1:137,Dasysyrphus hilaris,,Dasysyrphus,,hilaris,,species,,B2305:1,accepted,,,B2305:1:134,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,hilaris,,4516901,,1542093
+B2305:1:138,Dasysyrphus lenensis,,Dasysyrphus,,lenensis,,species,,B2305:1,accepted,,,B2305:1:134,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,lenensis,6CF3Q,1542044,6CF3F,1542044
+B2305:1:139,Dasysyrphus neovenustus,,Dasysyrphus,,neovenustus,,species,,B2305:1,accepted,,,B2305:1:134,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,neovenustus,BZ7G7,10656114,BZ7G7,10656114
+B2305:1:140,Dasysyrphus pauxillus,,Dasysyrphus,,pauxillus,,species,,B2305:1,accepted,,,B2305:1:134,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,pauxillus,6CF54,1542087,6CF54,1542087
+B2305:1:141,Dasysyrphus pinastri,,Dasysyrphus,,pinastri,,species,,B2305:1,accepted,,,B2305:1:134,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,pinastri,6CF4T,1542077,6CF4T,1542077
+B2305:1:142,Dasysyrphus tricinctus,,Dasysyrphus,,tricinctus,,species,,B2305:1,accepted,,,B2305:1:134,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,tricinctus,6CF59,1542069,6CF59,1542069
+B2305:1:143,Dasysyrphus venustus,,Dasysyrphus,,venustus,,species,,B2305:1,accepted,,,B2305:1:134,Dasysyrphus,,,,,Syrphidae,,Dasysyrphus,,Syrphidae | Dasysyrphus,venustus,6CF4Z,1542093,6CF4Z,1542093
+B2305:1:144,Didea,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Didea,,Syrphidae,Didea,BYBSJ,1542022,BYBSJ,1542022
+B2305:1:145,Didea alneti,,Didea,,alneti,,species,,B2305:1,accepted,,,B2305:1:144,Didea,,,,,Syrphidae,,Didea,,Syrphidae | Didea,alneti,35WJC,1542030,35WJC,1542030
+B2305:1:146,Didea fasciata,,Didea,,fasciata,,species,,B2305:1,accepted,,,B2305:1:144,Didea,,,,,Syrphidae,,Didea,,Syrphidae | Didea,fasciata,35WJG,1542027,35WJG,1542027
+B2305:1:147,Didea intermedia,,Didea,,intermedia,,species,,B2305:1,accepted,,,B2305:1:144,Didea,,,,,Syrphidae,,Didea,,Syrphidae | Didea,intermedia,35WJK,1542026,35WJK,1542026
+B2305:1:148,Doros,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Doros,,Syrphidae,Doros,BYC2D,1544508,BYC2D,1544508
+B2305:1:149,Doros profuges,,Doros,,profuges,,species,,B2305:1,accepted,,,B2305:1:148,Doros,,,,,Syrphidae,,Doros,,Syrphidae | Doros,profuges,6DGD3,1544513,6DGD3,1544513
+B2305:1:150,Epistrophe,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Epistrophe,,Syrphidae,Epistrophe,BYCMV,5071050,BYCMV,5071050
+B2305:1:151,Epistrophe cryptica,,Epistrophe,,cryptica,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,cryptica,8C2P5,5766585,8C2P5,5766585
+B2305:1:152,Epistrophe diaphana,,Epistrophe,,diaphana,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,diaphana,8C2P6,5766581,8C2P6,5766581
+B2305:1:153,Epistrophe eligans,,Epistrophe,,eligans,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,eligans,8C2P7,5766577,8C2P7,5766577
+B2305:1:154,Epistrophe flava,,Epistrophe,,flava,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,flava,8C2P9,5766584,8C2P9,5766584
+B2305:1:155,Epistrophe grossulariae,,Epistrophe,,grossulariae,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,grossulariae,8C2PD,5071071,8C2PD,5071071
+B2305:1:156,Epistrophe leiophthalma,,Epistrophe,,leiophthalma,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,leiophthalma,8C2PH,5766576,8C2PH,5766576
+B2305:1:157,Epistrophe melanostoma,,Epistrophe,,melanostoma,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,melanostoma,8C2PJ,5766583,8C2PJ,5766583
+B2305:1:158,Epistrophe nitidicollis,,Epistrophe,,nitidicollis,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,nitidicollis,8C2PL,5766579,8C2PL,5766579
+B2305:1:159,Epistrophe obscuripes,,Epistrophe,,obscuripes,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,obscuripes,9HJ3N,5766586,9HJ3N,5766586
+B2305:1:160,Epistrophe ochrostoma,,Epistrophe,,ochrostoma,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,ochrostoma,8C2PM,5071051,8C2PM,5071051
+B2305:1:161,Epistrophe olgae,,Epistrophe,,olgae,,species,,B2305:1,accepted,,,B2305:1:150,Epistrophe,,,,,Syrphidae,,Epistrophe,,Syrphidae | Epistrophe,olgae,6G876,5071090,6G876,5071090
+B2305:1:162,Epistrophella,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Epistrophella,,Syrphidae,Epistrophella,BYCMY,4404411,BYCMY,4404411
+B2305:1:163,Epistrophella euchroma,,Epistrophella,,euchroma,,species,,B2305:1,accepted,,,B2305:1:162,Epistrophella,,,,,Syrphidae,,Epistrophella,,Syrphidae | Epistrophella,euchroma,9HJ3P,4516848,9HJ3P,4516848
+B2305:1:164,Meligramma euchroma,,Meligramma,,euchroma,,species,,B2305:1,synonym,B2305:1:163,Epistrophella euchroma,,,,,,,Syrphidae,,Epistrophella,,Syrphidae | Epistrophella,Meligramma euchroma,,6098373,,4516848
+B2305:1:165,Epistrophe euchroma,,Epistrophe,,euchroma,,species,,B2305:1,synonym,B2305:1:163,Epistrophella euchroma,,,,,,,Syrphidae,,Epistrophella,,Syrphidae | Epistrophella,Epistrophe euchroma,,5071052,,4516848
+B2305:1:166,Episyrphus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Episyrphus,,Syrphidae,Episyrphus,BXZTD,1536427,BXZTD,1536427
+B2305:1:167,Episyrphus balteatus,,Episyrphus,,balteatus,,species,,B2305:1,accepted,,,B2305:1:166,Episyrphus,,,,,Syrphidae,,Episyrphus,,Syrphidae | Episyrphus,balteatus,8C2QW,1536449,8C2QW,1536449
+B2305:1:168,Eriozona,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Eriozona,,Syrphidae,Eriozona,BYCPX,1543325,BYCPX,1543325
+B2305:1:169,Eriozona syrphoides,,Eriozona,,syrphoides,,species,,B2305:1,accepted,,,B2305:1:168,Eriozona,,,,,Syrphidae,,Eriozona,,Syrphidae | Eriozona,syrphoides,8C3CJ,1543332,8C3CJ,1543332
+B2305:1:170,Eristalinus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Eristalinus,,Syrphidae,Eristalinus,BXZTX,1542672,BXZTX,1542672
+B2305:1:171,Eristalinus aeneus,,Eristalinus,,aeneus,,species,,B2305:1,accepted,,,B2305:1:170,Eristalinus,,,,,Syrphidae,,Eristalinus,,Syrphidae | Eristalinus,aeneus,8C3D2,1542830,8C3D2,1542830
+B2305:1:172,Eristalinus sepulchralis,,Eristalinus,,sepulchralis,,species,,B2305:1,accepted,,,B2305:1:170,Eristalinus,,,,,Syrphidae,,Eristalinus,,Syrphidae | Eristalinus,sepulchralis,8C3FW,1542852,8C3FW,1542852
+B2305:1:173,Eristalis,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Eristalis,,Syrphidae,Eristalis,BXZTZ,1491190,BXZTZ,1491190
+B2305:1:174,Eristalis abusiva,,Eristalis,,abusiva,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,abusiva,9H9RJ,1541164,9H9RJ,1541164
+B2305:1:175,Eristalis alpina,,Eristalis,,alpina,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,alpina,9H9RN,1540351,9H9RN,1540351
+B2305:1:176,Eristalis anthophorina,,Eristalis,,anthophorina,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,anthophorina,9HDXQ,1541192,9HDXQ,1541192
+B2305:1:177,Eristalis arbustorum,,Eristalis,,arbustorum,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,arbustorum,9HDL4,1541146,9HDL4,1541146
+B2305:1:178,Eristalis cryptarum,,Eristalis,,cryptarum,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,cryptarum,9H9S8,1541325,9H9S8,1541325
+B2305:1:179,Eristalis horticola,,Eristalis,,horticola,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,horticola,CQCZW,6098381,CQCZW,1540231
+B2305:1:180,Eristalis intricaria,,Eristalis,,intricaria,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,intricaria,9HDXS,1541262,9HDXS,1541262
+B2305:1:181,Eristalis jugorum,,Eristalis,,jugorum,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,jugorum,9H9SQ,1541245,9H9SQ,1541245
+B2305:1:182,Eristalis nemorum,,Eristalis,,nemorum,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,nemorum,,6098383,,6098383
+B2305:1:183,Eristalis interrupta,,Eristalis,,interrupta,,species,auct.,B2305:1,synonym,B2305:1:182,Eristalis nemorum,,,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,interrupta auct.,3B7RJ,1541277,3B7RJ,1541277
+B2305:1:184,Eristalis interruptus,,Eristalis,,interruptus,,species,auct.,B2305:1,synonym,B2305:1:182,Eristalis nemorum,,,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,interruptus auct.,3B7RJ,1533315,3B7RJ,1533312
+B2305:1:185,Eristalis oestracea,,Eristalis,,oestracea,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,oestracea,9HDXV,1541140,9HDXV,1541140
+B2305:1:186,Eristalis pertinax,,Eristalis,,pertinax,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,pertinax,9HDXX,1541116,9HDXX,1541116
+B2305:1:187,Eristalis picea,,Eristalis,,picea,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,picea,,4516879,,1541339
+B2305:1:188,Eristalis pseudorupium,,Eristalis,,pseudorupium,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,pseudorupium,,1541291,,1541171
+B2305:1:189,Eristalis obscura,,Eristalis,,obscura,,species,,B2305:1,synonym,B2305:1:188,Eristalis pseudorupium,,,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,obscura,9H9SV,1541171,9H9SV,1541171
+B2305:1:190,Eristalis rupium,,Eristalis,,rupium,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,rupium,9H9T6,1541339,9H9T6,1541339
+B2305:1:191,Eristalis similis,,Eristalis,,similis,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,similis,8C3NK,4516874,8C3NK,1541116
+B2305:1:192,Eristalis pratorum,,Eristalis,,pratorum,,species,,B2305:1,synonym,B2305:1:191,Eristalis similis,,,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,pratorum,CNQZH,1541321,8C3NK,1541321
+B2305:1:193,Eristalis tenax,,Eristalis,,tenax,,species,,B2305:1,accepted,,,B2305:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,tenax,8C3H9,1541217,8C3H9,1541217
+B2305:1:194,Eumerus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Eumerus,,Syrphidae,Eumerus,BXZVW,1534472,BXZVW,1534472
+B2305:1:195,Eumerus amoenus,,Eumerus,,amoenus,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,amoenus,3CDSW,1534757,3CDSW,1534757
+B2305:1:196,Eumerus flavitarsis,,Eumerus,,flavitarsis,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,flavitarsis,3CDVQ,1534603,3CDVQ,1534603
+B2305:1:197,Eumerus funeralis,,Eumerus,,funeralis,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,funeralis,3CDVX,7198254,3CDVX,7198254
+B2305:1:198,Eumerus narcissi,,Eumerus,,narcissi,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,narcissi,3CDY9,5070654,3CDY9,5070654
+B2305:1:199,Eumerus ornatus,,Eumerus,,ornatus,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,ornatus,CNR45,1534751,CNR45,1534751
+B2305:1:200,Eumerus ruficornis,,Eumerus,,ruficornis,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,ruficornis,6GWR8,1534581,6GWR8,1534581
+B2305:1:201,Eumerus sabulonum,,Eumerus,,sabulonum,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,sabulonum,6H8QX,1534643,6H8QX,1534643
+B2305:1:202,Eumerus sogdianus,,Eumerus,,sogdianus,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,sogdianus,6GX32,1534545,6GX32,1534545
+B2305:1:203,Eumerus strigatus,,Eumerus,,strigatus,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,strigatus,6GX2R,1534515,6GX2R,1534515
+B2305:1:204,Eumerus tarsalis,,Eumerus,,tarsalis,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,tarsalis,6H8QP,1534533,6H8QP,1534533
+B2305:1:205,Eumerus tricolor,,Eumerus,,tricolor,,species,,B2305:1,accepted,,,B2305:1:194,Eumerus,,,,,Syrphidae,,Eumerus,,Syrphidae | Eumerus,tricolor,6GWSF,1534613,6GWSF,1534613
+B2305:1:206,Eupeodes,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Eupeodes,,Syrphidae,Eupeodes,BXZW5,1540675,BXZW5,1540675
+B2305:1:207,Eupeodes bucculatus,,Eupeodes,,bucculatus,,species,,B2305:1,accepted,,,B2305:1:206,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,bucculatus,8C48F,1540818,8C48F,1540818
+B2305:1:208,Eupeodes corollae,,Eupeodes,,corollae,,species,,B2305:1,accepted,,,B2305:1:206,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,corollae,8C48K,1540742,8C48K,1540742
+B2305:1:209,Eupeodes goeldlini,,Eupeodes,,goeldlini,,species,,B2305:1,accepted,,,B2305:1:206,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,goeldlini,6GZHQ,1540896,6GZHQ,1540896
+B2305:1:210,Eupeodes latifasciatus,,Eupeodes,,latifasciatus,,species,,B2305:1,accepted,,,B2305:1:206,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,latifasciatus,8C494,1540691,8C494,1540691
+B2305:1:211,Eupeodes lundbecki,,Eupeodes,,lundbecki,,species,,B2305:1,accepted,,,B2305:1:206,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,lundbecki,8C498,1540706,8C498,1540706
+B2305:1:212,Eupeodes luniger,,Eupeodes,,luniger,,species,,B2305:1,accepted,,,B2305:1:206,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,luniger,8C499,1540875,8C499,1540875
+B2305:1:213,Eupeodes nielseni,,Eupeodes,,nielseni,,species,,B2305:1,accepted,,,B2305:1:206,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,nielseni,8C49G,1540740,8C49G,1540740
+B2305:1:214,Eupeodes nitens,,Eupeodes,,nitens,,species,,B2305:1,accepted,,,B2305:1:206,Eupeodes,,,,,Syrphidae,,Eupeodes,,Syrphidae | Eupeodes,nitens,8C49J,1540726,8C49J,1540726
+B2305:1:215,Eurimyia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Eurimyia,,Syrphidae,Eurimyia,BYVHN,1533980,BYVHN,1533980
+B2305:1:216,Eurimyia lineata,,Eurimyia,,lineata,,species,,B2305:1,accepted,,,B2305:1:215,Eurimyia,,,,,Syrphidae,,Eurimyia,,Syrphidae | Eurimyia,lineata,,10366531,,10366531
+B2305:1:217,Fagisyrphus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Fagisyrphus,,Syrphidae,Fagisyrphus,BZ6NY,4786147,BZ6NY,4786147
+B2305:1:218,Fagisyrphus cinctus,,Fagisyrphus,,cinctus,,species,,B2305:1,accepted,,,B2305:1:217,Fagisyrphus,,,,,Syrphidae,,Fagisyrphus,,Syrphidae | Fagisyrphus,cinctus,9HJ62,8168242,9HJ62,8168242
+B2305:1:219,Melangyna cincta,,Melangyna,,cincta,,species,,B2305:1,synonym,B2305:1:218,Fagisyrphus cinctus,,,,,,,Syrphidae,,Fagisyrphus,,Syrphidae | Fagisyrphus,Melangyna cincta,,1536627,,8168242
+B2305:1:220,Ferdinandea,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Ferdinandea,,Syrphidae,Ferdinandea,BYD9W,1542953,BYD9W,1542953
+B2305:1:221,Ferdinandea cuprea,,Ferdinandea,,cuprea,,species,,B2305:1,accepted,,,B2305:1:220,Ferdinandea,,,,,Syrphidae,,Ferdinandea,,Syrphidae | Ferdinandea,cuprea,6HR7J,1542979,6HR7J,1542979
+B2305:1:222,Ferdinandea ruficornis,,Ferdinandea,,ruficornis,,species,,B2305:1,accepted,,,B2305:1:220,Ferdinandea,,,,,Syrphidae,,Ferdinandea,,Syrphidae | Ferdinandea,ruficornis,3DYGV,1542961,3DYGV,1542961
+B2305:1:223,Hammerschmidtia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Hammerschmidtia,,Syrphidae,Hammerschmidtia,BYF3M,8860633,BYF3M,8860633
+B2305:1:224,Hammerschmidtia ferruginea,,Hammerschmidtia,,ferruginea,,species,,B2305:1,accepted,,,B2305:1:223,Hammerschmidtia,,,,,Syrphidae,,Hammerschmidtia,,Syrphidae | Hammerschmidtia,ferruginea,9HJ8G,4516884,9HJ8G,4516884
+B2305:1:225,Helophilus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Helophilus,,Syrphidae,Helophilus,BY26R,6007034,BY26R,6007034
+B2305:1:226,Helophilus affinis,,Helophilus,,affinis,,species,,B2305:1,accepted,,,B2305:1:225,Helophilus,,,,,Syrphidae,,Helophilus,,Syrphidae | Helophilus,affinis,8C9WD,5071373,8C9WD,5071373
+B2305:1:227,Helophilus groenlandicus,,Helophilus,,groenlandicus,,species,,B2305:1,accepted,,,B2305:1:225,Helophilus,,,,,Syrphidae,,Helophilus,,Syrphidae | Helophilus,groenlandicus,8C9WM,5071362,8C9WM,5071362
+B2305:1:228,Helophilus hybridus,,Helophilus,,hybridus,,species,,B2305:1,accepted,,,B2305:1:225,Helophilus,,,,,Syrphidae,,Helophilus,,Syrphidae | Helophilus,hybridus,8C9WN,5071368,8C9WN,5071368
+B2305:1:229,Helophilus pendulus,,Helophilus,,pendulus,,species,,B2305:1,accepted,,,B2305:1:225,Helophilus,,,,,Syrphidae,,Helophilus,,Syrphidae | Helophilus,pendulus,8C9WX,5071352,8C9WX,5071352
+B2305:1:230,Helophilus trivittatus,,Helophilus,,trivittatus,,species,,B2305:1,accepted,,,B2305:1:225,Helophilus,,,,,Syrphidae,,Helophilus,,Syrphidae | Helophilus,trivittatus,8C9WZ,5071382,8C9WZ,5071382
+B2305:1:231,Heringia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Heringia,,Syrphidae,Heringia,BYFB2,1535116,BYFB2,1535116
+B2305:1:232,Heringia heringi,,Heringia,,heringi,,species,,B2305:1,accepted,,,B2305:1:231,Heringia,,,,,Syrphidae,,Heringia,,Syrphidae | Heringia,heringi,3KZ2X,1535185,3KZ2X,1535185
+B2305:1:233,Heringia senilis,,Heringia,,senilis,,species,,B2305:1,accepted,,,B2305:1:231,Heringia,,,,,Syrphidae,,Heringia,,Syrphidae | Heringia,senilis,3KZ3H,1535132,3KZ3H,1535132
+B2305:1:234,Lapposyrphus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Lapposyrphus,,Syrphidae,Lapposyrphus,BYVXH,4792856,BYVXH,4792856
+B2305:1:235,Lapposyrphus lapponicus,,Lapposyrphus,,lapponicus,,species,,B2305:1,accepted,,,B2305:1:234,Lapposyrphus,,,,,Syrphidae,,Lapposyrphus,,Syrphidae | Lapposyrphus,lapponicus,9HJDB,8183385,9HJDB,8183385
+B2305:1:236,Eupeodes lapponicus,,Eupeodes,,lapponicus,,species,,B2305:1,synonym,B2305:1:235,Lapposyrphus lapponicus,,,,,,,Syrphidae,,Lapposyrphus,,Syrphidae | Lapposyrphus,Eupeodes lapponicus,,1540858,,8183385
+B2305:1:237,Lejogaster,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Lejogaster,,Syrphidae,Lejogaster,BYGPS,1537377,BYGPS,1537377
+B2305:1:238,Lejogaster metallina,,Lejogaster,,metallina,,species,,B2305:1,accepted,,,B2305:1:237,Lejogaster,,,,,Syrphidae,,Lejogaster,,Syrphidae | Lejogaster,metallina,3T3TX,1537380,3T3TX,1537380
+B2305:1:239,Lejogaster tarsata,,Lejogaster,,tarsata,,species,,B2305:1,accepted,,,B2305:1:237,Lejogaster,,,,,Syrphidae,,Lejogaster,,Syrphidae | Lejogaster,tarsata,3T3TZ,1537389,3T3TZ,1537389
+B2305:1:240,Lejops,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Lejops,,Syrphidae,Lejops,BYGPT,1538399,BYGPT,1538399
+B2305:1:241,Lejops vittatus,,Lejops,,vittatus,,species,,B2305:1,accepted,,,B2305:1:240,Lejops,,,,,Syrphidae,,Lejops,,Syrphidae | Lejops,vittatus,8CH64,1538420,8CH64,1538420
+B2305:1:242,Leucozona,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Leucozona,,Syrphidae,Leucozona,BYGVJ,1536498,BYGVJ,1536498
+B2305:1:243,Leucozona glaucia,,Leucozona,,glaucia,,species,,B2305:1,accepted,,,B2305:1:242,Leucozona,,,,,Syrphidae,,Leucozona,,Syrphidae | Leucozona,glaucia,8CJS7,5071167,8CJS7,5071167
+B2305:1:244,Leucozona inopinata,,Leucozona,,inopinata,,species,,B2305:1,accepted,,,B2305:1:242,Leucozona,,,,,Syrphidae,,Leucozona,,Syrphidae | Leucozona,inopinata,8CJSH,5071161,8CJSH,5071161
+B2305:1:245,Leucozona laternaria,,Leucozona,,laternaria,,species,,B2305:1,accepted,,,B2305:1:242,Leucozona,,,,,Syrphidae,,Leucozona,,Syrphidae | Leucozona,laternaria,8CJS8,10966087,8CJS8,10966087
+B2305:1:246,Leucozona lucorum,,Leucozona,,lucorum,,species,,B2305:1,accepted,,,B2305:1:242,Leucozona,,,,,Syrphidae,,Leucozona,,Syrphidae | Leucozona,lucorum,8CJSK,5071172,8CJSK,5071172
+B2305:1:247,Mallota,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Mallota,,Syrphidae,Mallota,BYHGW,1541361,BYHGW,1541361
+B2305:1:248,Mallota cimbiciformis,,Mallota,,cimbiciformis,,species,,B2305:1,accepted,,,B2305:1:247,Mallota,,,,,Syrphidae,,Mallota,,Syrphidae | Mallota,cimbiciformis,3XPQT,1541364,3XPQT,1541364
+B2305:1:249,Mallota fuciformis,,Mallota,,fuciformis,,species,,B2305:1,accepted,,,B2305:1:247,Mallota,,,,,Syrphidae,,Mallota,,Syrphidae | Mallota,fuciformis,3XPRH,1541412,3XPRH,1541412
+B2305:1:250,Matsumyia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Matsumyia,,Syrphidae,Matsumyia,BYHLS,1533987,BYHLS,1533987
+B2305:1:251,Matsumyia berberina,,Matsumyia,,berberina,,species,,B2305:1,accepted,,,B2305:1:250,Matsumyia,,,,,Syrphidae,,Matsumyia,,Syrphidae | Matsumyia,berberina,CH6HB,10679989,CH6HB,5070993
+B2305:1:252,Criorhina berberina,,Criorhina,,berberina,,species,,B2305:1,synonym,B2305:1:251,Matsumyia berberina,,,,,,,Syrphidae,,Matsumyia,,Syrphidae | Matsumyia,Criorhina berberina,,5070993,,5070993
+B2305:1:253,Megasyrphus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Megasyrphus,,Syrphidae,Megasyrphus,CD965,1539313,CD965,1539313
+B2305:1:254,Megasyrphus erraticus,,Megasyrphus,,erraticus,,species,,B2305:1,accepted,,,B2305:1:253,Megasyrphus,,,,,Syrphidae,,Megasyrphus,,Syrphidae | Megasyrphus,erraticus,9HJHD,6098357,9HJHD,6098357
+B2305:1:255,Eriozona annulipes,,Eriozona,,annulipes,,species,,B2305:1,synonym,B2305:1:254,Megasyrphus erraticus,,,,,,,Syrphidae,,Megasyrphus,,Syrphidae | Megasyrphus,Eriozona annulipes,,11317702,,6098357
+B2305:1:256,Melangyna,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Melangyna,,Syrphidae,Melangyna,BY2WJ,1536595,BY2WJ,1536595
+B2305:1:257,Melangyna arctica,,Melangyna,,arctica,,species,,B2305:1,accepted,,,B2305:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,arctica,8CSND,1536664,8CSND,1536664
+B2305:1:258,Melangyna barbifrons,,Melangyna,,barbifrons,,species,,B2305:1,accepted,,,B2305:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,barbifrons,8CSNG,11245573,8CSNG,11245573
+B2305:1:259,Melangyna compositarum,,Melangyna,,compositarum,,species,,B2305:1,accepted,,,B2305:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,compositarum,CQQQG,4516896,CQQQG,1536643
+B2305:1:260,Melangyna labiatarum,,Melangyna,,labiatarum,,species,,B2305:1,synonym,B2305:1:259,Melangyna compositarum,,,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,labiatarum,8CSNM,1536607,8CSNM,1536607
+B2305:1:261,Melangyna ericarum,,Melangyna,,ericarum,,species,,B2305:1,accepted,,,B2305:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,ericarum,8CSNJ,1536631,8CSNJ,1536631
+B2305:1:262,Melangyna lasiophthalma,,Melangyna,,lasiophthalma,,species,,B2305:1,accepted,,,B2305:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,lasiophthalma,8CSNN,1536675,8CSNN,1536675
+B2305:1:263,Melangyna lucifera,,Melangyna,,lucifera,,species,,B2305:1,accepted,,,B2305:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,lucifera,8CSNP,1536697,8CSNP,1536697
+B2305:1:264,Melangyna pavlovskyi,,Melangyna,,pavlovskyi,,species,,B2305:1,accepted,,,B2305:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,pavlovskyi,8CSNT,1536623,8CSNT,1536623
+B2305:1:265,Melangyna quadrimaculata,,Melangyna,,quadrimaculata,,species,,B2305:1,accepted,,,B2305:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,quadrimaculata,8CSNV,1536689,8CSNV,1536689
+B2305:1:266,Melangyna umbellatarum,,Melangyna,,umbellatarum,,species,,B2305:1,accepted,,,B2305:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,umbellatarum,8CSP3,1536635,8CSP3,1536635
+B2305:1:267,Melanogaster,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Melanogaster,,Syrphidae,Melanogaster,KZ634,3264906,KZ634,3264906
+B2305:1:268,Melanogaster aerosa,,Melanogaster,,aerosa,,species,,B2305:1,accepted,,,B2305:1:267,Melanogaster,,,,,Syrphidae,,Melanogaster,,Syrphidae | Melanogaster,aerosa,,6098390,,1536728
+B2305:1:269,Melanogaster curvistylus,,Melanogaster,,curvistylus,,species,,B2305:1,accepted,,,B2305:1:267,Melanogaster,,,,,Syrphidae,,Melanogaster,,Syrphidae | Melanogaster,curvistylus,8CSQ4,4786276,5YP5D,1536727
+B2305:1:270,Melanogaster hirtella,,Melanogaster,,hirtella,,species,,B2305:1,accepted,,,B2305:1:267,Melanogaster,,,,,Syrphidae,,Melanogaster,,Syrphidae | Melanogaster,hirtella,,6098389,,1536711
+B2305:1:271,Melanogaster nuda,,Melanogaster,,nuda,,species,,B2305:1,accepted,,,B2305:1:267,Melanogaster,,,,,Syrphidae,,Melanogaster,,Syrphidae | Melanogaster,nuda,,6098387,,1536740
+B2305:1:272,Melanogaster parumplicata,,Melanogaster,,parumplicata,,species,,B2305:1,accepted,,,B2305:1:267,Melanogaster,,,,,Syrphidae,,Melanogaster,,Syrphidae | Melanogaster,parumplicata,,7814919,,1536750
+B2305:1:273,Melanostoma,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Melanostoma,,Syrphidae,Melanostoma,BY2WS,1533169,BY2WS,1533169
+B2305:1:274,Melanostoma certum,,Melanostoma,,certum,,species,,B2305:1,accepted,,,B2305:1:273,Melanostoma,,,,,Syrphidae,,Melanostoma,,Syrphidae | Melanostoma,certum,9HJHH,8643050,9HJHH,8643050
+B2305:1:275,Melanostoma dubium,,Melanostoma,,dubium,,species,auct.,B2305:1,synonym,B2305:1:274,Melanostoma certum,,,,,,,Syrphidae,,Melanostoma,,Syrphidae | Melanostoma,dubium auct.,,11304710,,5766554
+B2305:1:276,Melanostoma mellarium,,Melanostoma,,mellarium,,species,,B2305:1,accepted,,,B2305:1:273,Melanostoma,,,,,Syrphidae,,Melanostoma,,Syrphidae | Melanostoma,mellarium,9HJHK,9078142,9HJHK,9078142
+B2305:1:277,Melanostoma mellinum,,Melanostoma,,mellinum,,species,,B2305:1,accepted,,,B2305:1:273,Melanostoma,,,,,Syrphidae,,Melanostoma,,Syrphidae | Melanostoma,mellinum,8J35V,5766554,8J35V,5766554
+B2305:1:278,Melanostoma dubium,,Melanostoma,,dubium,,species,auct.,B2305:1,synonym,B2305:1:277,Melanostoma mellinum,,,,,,,Syrphidae,,Melanostoma,,Syrphidae | Melanostoma,dubium auct.,,11304710,,5766554
+B2305:1:279,Melanostoma scalare,,Melanostoma,,scalare,,species,,B2305:1,accepted,,,B2305:1:273,Melanostoma,,,,,Syrphidae,,Melanostoma,,Syrphidae | Melanostoma,scalare,3ZBJB,5766556,3ZBJB,5766556
+B2305:1:280,Meligramma,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Meligramma,,Syrphidae,Meligramma,BYW5P,9140781,BYW5P,9140781
+B2305:1:281,Meligramma cingulata,,Meligramma,,cingulata,,species,,B2305:1,accepted,,,B2305:1:280,Meligramma,,,,,Syrphidae,,Meligramma,,Syrphidae | Meligramma,cingulata,9HKRZ,4516814,9HKRZ,4516814
+B2305:1:282,Meligramma guttata,,Meligramma,,guttata,,species,,B2305:1,accepted,,,B2305:1:280,Meligramma,,,,,Syrphidae,,Meligramma,,Syrphidae | Meligramma,guttata,9HJHN,4516813,9HJHN,4516813
+B2305:1:283,Meligramma triangulifera,,Meligramma,,triangulifera,,species,,B2305:1,accepted,,,B2305:1:280,Meligramma,,,,,Syrphidae,,Meligramma,,Syrphidae | Meligramma,triangulifera,9HJHP,4516815,9HJHP,4516815
+B2305:1:284,Meliscaeva,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Meliscaeva,,Syrphidae,Meliscaeva,BYHTD,1535495,BYHTD,1535495
+B2305:1:285,Meliscaeva auricollis,,Meliscaeva,,auricollis,,species,,B2305:1,accepted,,,B2305:1:284,Meliscaeva,,,,,Syrphidae,,Meliscaeva,,Syrphidae | Meliscaeva,auricollis,3ZJDN,1535529,3ZJDN,1535529
+B2305:1:286,Meliscaeva cinctella,,Meliscaeva,,cinctella,,species,,B2305:1,accepted,,,B2305:1:284,Meliscaeva,,,,,Syrphidae,,Meliscaeva,,Syrphidae | Meliscaeva,cinctella,3ZJDQ,1535521,3ZJDQ,1535521
+B2305:1:287,Merodon,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Merodon,,Syrphidae,Merodon,BXX57,1544143,BXX57,1544143
+B2305:1:288,Merodon armipes,,Merodon,,armipes,,species,,B2305:1,accepted,,,B2305:1:287,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,armipes,8CSXT,1544292,8CSXT,1544292
+B2305:1:289,Merodon aureus,,Merodon,,aureus,,species,,B2305:1,accepted,,,B2305:1:287,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,aureus,8CSXW,1544270,8CSXW,1544270
+B2305:1:290,Merodon aeneus,,Merodon,,aeneus,,species,,B2305:1,synonym,B2305:1:289,Merodon aureus,,,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,aeneus,CP46S,1544274,8CSXW,1544274
+B2305:1:291,Merodon equestris,,Merodon,,equestris,,species,,B2305:1,accepted,,,B2305:1:287,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,equestris,8CSYW,1544340,8CSYW,1544340
+B2305:1:292,Merodon moenium,,Merodon,,moenium,,species,,B2305:1,accepted,,,B2305:1:287,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,moenium,89F42,12322862,8CSXZ,1544230
+B2305:1:293,Merodon avidus,,Merodon,,avidus,,species,auct.,B2305:1,synonym,B2305:1:292,Merodon moenium,,,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,avidus auct.,8CSXZ,1544230,8CSXZ,1544230
+B2305:1:294,Merodon ruficornis,,Merodon,,ruficornis,,species,,B2305:1,accepted,,,B2305:1:287,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,ruficornis,3ZVKD,1544283,3ZVKD,1544283
+B2305:1:295,Merodon rufus,,Merodon,,rufus,,species,,B2305:1,accepted,,,B2305:1:287,Merodon,,,,,Syrphidae,,Merodon,,Syrphidae | Merodon,rufus,3ZVKJ,7986894,3ZVKJ,7986894
+B2305:1:296,Microdon,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Microdon,,Syrphidae,Microdon,BXXN2,1542207,BXXN2,1542207
+B2305:1:297,Microdon analis,,Microdon,,analis,,species,,B2305:1,accepted,,,B2305:1:296,Microdon,,,,,Syrphidae,,Microdon,,Syrphidae | Microdon,analis,8CV3S,9153200,8CV3S,9153200
+B2305:1:298,Microdon devius,,Microdon,,devius,,species,,B2305:1,accepted,,,B2305:1:296,Microdon,,,,,Syrphidae,,Microdon,,Syrphidae | Microdon,devius,8CV4C,1542409,8CV4C,1542409
+B2305:1:299,Microdon major,,Microdon,,major,,species,,B2305:1,accepted,,,B2305:1:296,Microdon,,,,,Syrphidae,,Microdon,,Syrphidae | Microdon,major,8GPCY,9412801,8GPCY,9412801
+B2305:1:300,Microdon mutabilis,,Microdon,,mutabilis,,species,,B2305:1,accepted,,,B2305:1:296,Microdon,,,,,Syrphidae,,Microdon,,Syrphidae | Microdon,mutabilis,KQHMY,1542226,KQHMY,1542226
+B2305:1:301,Microdon myrmicae,,Microdon,,myrmicae,,species,,B2305:1,accepted,,,B2305:1:296,Microdon,,,,,Syrphidae,,Microdon,,Syrphidae | Microdon,myrmicae,8CV5C,1542591,8CV5C,1542591
+B2305:1:302,Milesia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Milesia,,Syrphidae,Milesia,BY2ZS,1535331,BY2ZS,1535331
+B2305:1:303,Milesia crabroniformis,,Milesia,,crabroniformis,,species,,B2305:1,accepted,,,B2305:1:302,Milesia,,,,,Syrphidae,,Milesia,,Syrphidae | Milesia,crabroniformis,43C2L,5979478,43C2L,5979478
+B2305:1:304,Myathropa,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Myathropa,,Syrphidae,Myathropa,BYJJ6,8921782,BYJJ6,8921782
+B2305:1:305,Myathropa florea,,Myathropa,,florea,,species,,B2305:1,accepted,,,B2305:1:304,Myathropa,,,,,Syrphidae,,Myathropa,,Syrphidae | Myathropa,florea,8CX8H,4516754,8CX8H,4516754
+B2305:1:306,Myolepta,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Myolepta,,Syrphidae,Myolepta,BYJKZ,1533883,BYJKZ,1533883
+B2305:1:307,Myolepta dubia,,Myolepta,,dubia,,species,,B2305:1,accepted,,,B2305:1:306,Myolepta,,,,,Syrphidae,,Myolepta,,Syrphidae | Myolepta,dubia,8CY5Z,1533889,8CY5Z,1533889
+B2305:1:308,Myolepta obscura,,Myolepta,,obscura,,species,,B2305:1,accepted,,,B2305:1:306,Myolepta,,,,,Syrphidae,,Myolepta,,Syrphidae | Myolepta,obscura,8CY6C,1533922,8CY6C,1533922
+B2305:1:309,Myolepta potens,,Myolepta,,potens,,species,,B2305:1,accepted,,,B2305:1:306,Myolepta,,,,,Syrphidae,,Myolepta,,Syrphidae | Myolepta,potens,8CY6H,1533938,8CY6H,1533938
+B2305:1:310,Myolepta vara,,Myolepta,,vara,,species,,B2305:1,accepted,,,B2305:1:306,Myolepta,,,,,Syrphidae,,Myolepta,,Syrphidae | Myolepta,vara,8CY6N,4516779,8CY6N,4516779
+B2305:1:311,Neoascia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Neoascia,,Syrphidae,Neoascia,BYJSD,1536777,BYJSD,1536777
+B2305:1:312,Neoascia annexa,,Neoascia,,annexa,,species,,B2305:1,accepted,,,B2305:1:311,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,annexa,8CYWQ,1536829,8CYWQ,1536829
+B2305:1:313,Neoascia geniculata,,Neoascia,,geniculata,,species,,B2305:1,accepted,,,B2305:1:311,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,geniculata,8CYX9,1536812,8CYX9,1536812
+B2305:1:314,Neoascia interrupta,,Neoascia,,interrupta,,species,,B2305:1,accepted,,,B2305:1:311,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,interrupta,8CYXB,1536827,8CYXB,1536827
+B2305:1:315,Neoascia meticulosa,,Neoascia,,meticulosa,,species,,B2305:1,accepted,,,B2305:1:311,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,meticulosa,8CYXC,1536817,8CYXC,1536817
+B2305:1:316,Neoascia obliqua,,Neoascia,,obliqua,,species,,B2305:1,accepted,,,B2305:1:311,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,obliqua,8CYXD,1536794,8CYXD,1536794
+B2305:1:317,Neoascia podagrica,,Neoascia,,podagrica,,species,,B2305:1,accepted,,,B2305:1:311,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,podagrica,8CYX2,1536796,8CYX2,1536796
+B2305:1:318,Neoascia tenur,,Neoascia,,tenur,,species,,B2305:1,accepted,,,B2305:1:311,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,tenur,8CYX3,1536804,8CYX3,1536804
+B2305:1:319,Neoascia unifasciata,,Neoascia,,unifasciata,,species,,B2305:1,accepted,,,B2305:1:311,Neoascia,,,,,Syrphidae,,Neoascia,,Syrphidae | Neoascia,unifasciata,8CYXH,1536785,8CYXH,1536785
+B2305:1:320,Neocnemodon,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Neocnemodon,,Syrphidae,Neocnemodon,CH8XD,1536263,CH8XD,1536263
+B2305:1:321,Neocnemodon brevidens,,Neocnemodon,,brevidens,,species,,B2305:1,accepted,,,B2305:1:320,Neocnemodon,,,,,Syrphidae,,Neocnemodon,,Syrphidae | Neocnemodon,brevidens,8CYY8,8107056,8CYY8,8107056
+B2305:1:322,Neocnemodon latitarsis,,Neocnemodon,,latitarsis,,species,,B2305:1,accepted,,,B2305:1:320,Neocnemodon,,,,,Syrphidae,,Neocnemodon,,Syrphidae | Neocnemodon,latitarsis,8CYYP,7789394,8CYYP,7789394
+B2305:1:323,Neocnemodon pubescens,,Neocnemodon,,pubescens,,species,,B2305:1,accepted,,,B2305:1:320,Neocnemodon,,,,,Syrphidae,,Neocnemodon,,Syrphidae | Neocnemodon,pubescens,8CYZ2,8147305,8CYZ2,8147305
+B2305:1:324,Neocnemodon verrucula,,Neocnemodon,,verrucula,,species,,B2305:1,accepted,,,B2305:1:320,Neocnemodon,,,,,Syrphidae,,Neocnemodon,,Syrphidae | Neocnemodon,verrucula,8CYZC,9759352,8CYZC,9759352
+B2305:1:325,Neocnemodon vitripennis,,Neocnemodon,,vitripennis,,species,,B2305:1,accepted,,,B2305:1:320,Neocnemodon,,,,,Syrphidae,,Neocnemodon,,Syrphidae | Neocnemodon,vitripennis,8CYZD,8223744,8CYZD,8223744
+B2305:1:326,Orthonevra,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Orthonevra,,Syrphidae,Orthonevra,63H6W,1537455,63H6W,1537455
+B2305:1:327,Orthonevra arcana,,Orthonevra,,arcana,,species,,B2305:1,accepted,,,B2305:1:326,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,arcana,9J6ZM,11904024,9J6ZM,11904024
+B2305:1:328,Orthonevra brevicornis,,Orthonevra,,brevicornis,,species,,B2305:1,accepted,,,B2305:1:326,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,brevicornis,74X2S,1537538,74X2S,1537538
+B2305:1:329,Orthonevra elegans,,Orthonevra,,elegans,,species,,B2305:1,accepted,,,B2305:1:326,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,elegans,BZCBX,1537514,BZCBX,1537514
+B2305:1:330,Orthonevra erythrogona,,Orthonevra,,erythrogona,,species,,B2305:1,accepted,,,B2305:1:326,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,erythrogona,75934,1537494,75934,1537494
+B2305:1:331,Orthonevra geniculata,,Orthonevra,,geniculata,,species,,B2305:1,accepted,,,B2305:1:326,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,geniculata,6T8QT,1537547,6T8QT,1537547
+B2305:1:332,Orthonevra intermedia,,Orthonevra,,intermedia,,species,,B2305:1,accepted,,,B2305:1:326,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,intermedia,74X35,1537501,74X35,1537501
+B2305:1:333,Orthonevra nobilis,,Orthonevra,,nobilis,,species,,B2305:1,accepted,,,B2305:1:326,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,nobilis,6SWQV,1537521,6SWQV,1537521
+B2305:1:334,Orthonevra stackelbergi,,Orthonevra,,stackelbergi,,species,,B2305:1,accepted,,,B2305:1:326,Orthonevra,,,,,Syrphidae,,Orthonevra,,Syrphidae | Orthonevra,stackelbergi,74WP6,1537490,74WP6,1537490
+B2305:1:335,Paragus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Paragus,,Syrphidae,Paragus,BY3JN,1535699,BY3JN,1535699
+B2305:1:336,Paragus albifrons,,Paragus,,albifrons,,species,,B2305:1,accepted,,,B2305:1:335,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,albifrons,8D6M5,1535745,8D6M5,1535745
+B2305:1:337,Paragus constrictus,,Paragus,,constrictus,,species,,B2305:1,accepted,,,B2305:1:335,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,constrictus,8D6MW,1535774,8D6MW,1535774
+B2305:1:338,Paragus finitimus,,Paragus,,finitimus,,species,,B2305:1,accepted,,,B2305:1:335,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,finitimus,L2J2R,1535828,L2J2R,1535828
+B2305:1:339,Paragus flammeus,,Paragus,,flammeus,,species,,B2305:1,accepted,,,B2305:1:335,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,flammeus,L2J2V,1535764,L2J2V,1535764
+B2305:1:340,Paragus haemorrhous,,Paragus,,haemorrhous,,species,,B2305:1,accepted,,,B2305:1:335,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,haemorrhous,4CWJT,1535781,4CWJT,1535781
+B2305:1:341,Paragus pecchiolii,,Paragus,,pecchiolii,,species,,B2305:1,accepted,,,B2305:1:335,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,pecchiolii,8D6NV,1535728,8D6NV,1535728
+B2305:1:342,Paragus quadrifasciatus,,Paragus,,quadrifasciatus,,species,,B2305:1,accepted,,,B2305:1:335,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,quadrifasciatus,8D6NX,1535807,8D6NX,1535807
+B2305:1:343,Paragus testaceus,,Paragus,,testaceus,,species,,B2305:1,accepted,,,B2305:1:335,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,testaceus,89MZJ,7198256,8D6MK,1535710
+B2305:1:344,Paragus tibialis,,Paragus,,tibialis,,species,,B2305:1,accepted,,,B2305:1:335,Paragus,,,,,Syrphidae,,Paragus,,Syrphidae | Paragus,tibialis,8D6LY,1535751,8D6LY,1535751
+B2305:1:345,Parasyrphus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Parasyrphus,,Syrphidae,Parasyrphus,BYLQ7,1533012,BYLQ7,1533012
+B2305:1:346,Parasyrphus annulatus,,Parasyrphus,,annulatus,,species,,B2305:1,accepted,,,B2305:1:345,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,annulatus,6TQB3,1533046,6TQB3,1533046
+B2305:1:347,Parasyrphus lineola,,Parasyrphus,,lineola,,species,,B2305:1,accepted,,,B2305:1:345,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,lineola,8JBP6,1533081,8JBP6,1533081
+B2305:1:348,Parasyrphus macularis,,Parasyrphus,,macularis,,species,,B2305:1,accepted,,,B2305:1:345,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,macularis,6TQB6,1533062,6TQB6,1533062
+B2305:1:349,Parasyrphus malinellus,,Parasyrphus,,malinellus,,species,,B2305:1,accepted,,,B2305:1:345,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,malinellus,6TQB7,1533073,6TQB7,1533073
+B2305:1:350,Parasyrphus nigritarsis,,Parasyrphus,,nigritarsis,,species,,B2305:1,accepted,,,B2305:1:345,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,nigritarsis,75QB8,1533068,75QB8,1533068
+B2305:1:351,Parasyrphus punctulatus,,Parasyrphus,,punctulatus,,species,,B2305:1,accepted,,,B2305:1:345,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,punctulatus,6TQB9,1533040,6TQB9,1533040
+B2305:1:352,Parasyrphus relictus,,Parasyrphus,,relictus,,species,,B2305:1,accepted,,,B2305:1:345,Parasyrphus,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,relictus,75QB9,1533017,75QB9,1533017
+B2305:1:353,Parasyrphus vittiger,,Parasyrphus,,vittiger,,species,auct.,B2305:1,synonym,B2305:1:352,Parasyrphus relictus,,,,,,,Syrphidae,,Parasyrphus,,Syrphidae | Parasyrphus,vittiger auct.,,4516588,,4516588
+B2305:1:354,Parhelophilus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Parhelophilus,,Syrphidae,Parhelophilus,BYLSW,1539263,BYLSW,1539263
+B2305:1:355,Parhelophilus consimilis,,Parhelophilus,,consimilis,,species,,B2305:1,accepted,,,B2305:1:354,Parhelophilus,,,,,Syrphidae,,Parhelophilus,,Syrphidae | Parhelophilus,consimilis,763HT,1539281,763HT,1539281
+B2305:1:356,Parhelophilus frutetorum,,Parhelophilus,,frutetorum,,species,,B2305:1,accepted,,,B2305:1:354,Parhelophilus,,,,,Syrphidae,,Parhelophilus,,Syrphidae | Parhelophilus,frutetorum,4DLVF,1539293,4DLVF,1539293
+B2305:1:357,Parhelophilus versicolor,,Parhelophilus,,versicolor,,species,,B2305:1,accepted,,,B2305:1:354,Parhelophilus,,,,,Syrphidae,,Parhelophilus,,Syrphidae | Parhelophilus,versicolor,4DLVR,1539269,4DLVR,1539269
+B2305:1:358,Pelecocera,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Pelecocera,,Syrphidae,Pelecocera,BYLZC,1537579,BYLZC,1537579
+B2305:1:359,Pelecocera caledonica,,Pelecocera,,caledonica,,species,,B2305:1,accepted,,,B2305:1:358,Pelecocera,,,,,Syrphidae,,Pelecocera,,Syrphidae | Pelecocera,caledonica,,7401290,,1537581
+B2305:1:360,Chamaesyrphus caledonicus,,Chamaesyrphus,,caledonicus,,species,,B2305:1,synonym,B2305:1:359,Pelecocera caledonica,,,,,,,Syrphidae,,Pelecocera,,Syrphidae | Pelecocera,Chamaesyrphus caledonicus,888LT,1537581,888LT,1537581
+B2305:1:361,Pelecocera lugubris,,Pelecocera,,lugubris,,species,,B2305:1,accepted,,,B2305:1:358,Pelecocera,,,,,Syrphidae,,Pelecocera,,Syrphidae | Pelecocera,lugubris,9HC58,1537607,9HC58,12135320
+B2305:1:362,Chamaesyrphus lugubris,,Chamaesyrphus,,lugubris,,species,,B2305:1,synonym,B2305:1:361,Pelecocera lugubris,,,,,,,Syrphidae,,Pelecocera,,Syrphidae | Pelecocera,Chamaesyrphus lugubris,,12135320,,12135320
+B2305:1:363,Pelecocera lusitanica,,Pelecocera,,lusitanica,,species,,B2305:1,synonym,B2305:1:361,Pelecocera lugubris,,,,,,,Syrphidae,,Pelecocera,,Syrphidae | Pelecocera,lusitanica,,8222491,,12135320
+B2305:1:364,Pelecocera scaevoides,,Pelecocera,,scaevoides,,species,,B2305:1,accepted,,,B2305:1:358,Pelecocera,,,,,Syrphidae,,Pelecocera,,Syrphidae | Pelecocera,scaevoides,,1537610,,4516740
+B2305:1:365,Chamaesyrphus scaevoides,,Chamaesyrphus,,scaevoides,,species,,B2305:1,synonym,B2305:1:364,Pelecocera scaevoides,,,,,,,Syrphidae,,Pelecocera,,Syrphidae | Pelecocera,Chamaesyrphus scaevoides,8BFQ6,4516740,8BFQ6,4516740
+B2305:1:366,Pelecocera tricincta,,Pelecocera,,tricincta,,species,,B2305:1,accepted,,,B2305:1:358,Pelecocera,,,,,Syrphidae,,Pelecocera,,Syrphidae | Pelecocera,tricincta,CPBGG,1537582,CPBGG,1537582
+B2305:1:367,Pipiza,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Pipiza,,Syrphidae,Pipiza,BYMM3,1536264,BYMM3,1536264
+B2305:1:368,Pipiza accola,,Pipiza,,accola,,species,,B2305:1,accepted,,,B2305:1:367,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,accola,4J6M6,1536304,4J6M6,1536304
+B2305:1:369,Pipiza austriaca,,Pipiza,,austriaca,,species,,B2305:1,accepted,,,B2305:1:367,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,austriaca,CPB3R,1536326,4J6NH,1536318
+B2305:1:370,Pipiza fasciata,,Pipiza,,fasciata,,species,,B2305:1,accepted,,,B2305:1:367,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,fasciata,CPB3S,1536270,CPB3S,1536270
+B2305:1:371,Pipiza fenestrata,,Pipiza,,fenestrata,,species,auct.,B2305:1,synonym,B2305:1:370,Pipiza fasciata,,,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,fenestrata auct.,4J6NG,1536367,4J6NG,1536367
+B2305:1:372,Pipiza festiva,,Pipiza,,festiva,,species,,B2305:1,accepted,,,B2305:1:367,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,festiva,4J6NH,1536318,4J6NH,1536318
+B2305:1:373,Pipiza lugubris,,Pipiza,,lugubris,,species,,B2305:1,accepted,,,B2305:1:367,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,lugubris,6VKNZ,1536370,6VKNZ,1536370
+B2305:1:374,Pipiza luteibarba,,Pipiza,,luteibarba,,species,,B2305:1,accepted,,,B2305:1:367,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,luteibarba,4J6PC,1536312,4J6PC,1536312
+B2305:1:375,Pipiza luteitarsis,,Pipiza,,luteitarsis,,species,,B2305:1,accepted,,,B2305:1:367,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,luteitarsis,4J6PD,1536360,4J6PD,1536360
+B2305:1:376,Pipiza noctiluca,,Pipiza,,noctiluca,,species,,B2305:1,accepted,,,B2305:1:367,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,noctiluca,4J6PX,1536342,4J6PX,1536342
+B2305:1:377,Pipiza notata,,Pipiza,,notata,,species,,B2305:1,accepted,,,B2305:1:367,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,notata,CPB3T,1536300,CPB3T,1536300
+B2305:1:378,Pipiza bimaculata,,Pipiza,,bimaculata,,species,,B2305:1,synonym,B2305:1:377,Pipiza notata,,,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,bimaculata,4J6MQ,1536283,4J6MQ,1536283
+B2305:1:379,Pipiza quadrimaculata,,Pipiza,,quadrimaculata,,species,,B2305:1,accepted,,,B2305:1:367,Pipiza,,,,,Syrphidae,,Pipiza,,Syrphidae | Pipiza,quadrimaculata,4J6QG,1536289,4J6QG,1536289
+B2305:1:380,Pipizella,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Pipizella,,Syrphidae,Pipizella,BYMM4,1532919,BYMM4,1532919
+B2305:1:381,Pipizella annulata,,Pipizella,,annulata,,species,,B2305:1,accepted,,,B2305:1:380,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,annulata,4J6RH,1532931,4J6RH,1532931
+B2305:1:382,Pipizella divicoi,,Pipizella,,divicoi,,species,,B2305:1,accepted,,,B2305:1:380,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,divicoi,L2JLJ,1532959,L2JLJ,1532959
+B2305:1:383,Pipizella maculipennis,,Pipizella,,maculipennis,,species,,B2305:1,accepted,,,B2305:1:380,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,maculipennis,4J6S8,1532927,4J6S8,1532927
+B2305:1:384,Pipizella pennina,,Pipizella,,pennina,,species,,B2305:1,accepted,,,B2305:1:380,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,pennina,L2JLN,1532956,L2JLN,1532956
+B2305:1:385,Pipizella viduata,,Pipizella,,viduata,,species,,B2305:1,accepted,,,B2305:1:380,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,viduata,4J6SZ,1532982,4J6SZ,1532982
+B2305:1:386,Pipizella virens,,Pipizella,,virens,,species,,B2305:1,accepted,,,B2305:1:380,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,virens,4J6T2,1532941,4J6T2,1532941
+B2305:1:387,Pipizella zeneggenensis,,Pipizella,,zeneggenensis,,species,,B2305:1,accepted,,,B2305:1:380,Pipizella,,,,,Syrphidae,,Pipizella,,Syrphidae | Pipizella,zeneggenensis,L2JLQ,1532976,L2JLQ,1532976
+B2305:1:388,Platycheirus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Platycheirus,,Syrphidae,Platycheirus,BY3W3,1542996,BY3W3,1542996
+B2305:1:389,Platycheirus albimanus,,Platycheirus,,albimanus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,albimanus,9HCJ3,4516769,9HCJ3,4516769
+B2305:1:390,Platycheirus ambiguus,,Platycheirus,,ambiguus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,ambiguus,8DDZ6,4516766,8DDZ6,4516766
+B2305:1:391,Platycheirus amplus,,Platycheirus,,amplus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,amplus,6VPQ5,1543250,6VPQ5,1543250
+B2305:1:392,Platycheirus angustatus,,Platycheirus,,angustatus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,angustatus,6VQ25,1543227,6VQ25,1543227
+B2305:1:393,Platycheirus aurolateralis,,Platycheirus,,aurolateralis,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,aurolateralis,8BNKZ,1543207,8BNKZ,1543207
+B2305:1:394,Platycheirus clypeatus,,Platycheirus,,clypeatus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,clypeatus,4JPF9,1543183,4JPF9,1543183
+B2305:1:395,Platycheirus complicatus,,Platycheirus,,complicatus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,complicatus,,4516759,,4516759
+B2305:1:396,Platycheirus discimanus,,Platycheirus,,discimanus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,discimanus,4JPFJ,1543134,4JPFJ,1543134
+B2305:1:397,Platycheirus europaeus,,Platycheirus,,europaeus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,europaeus,8DDZB,4516756,8DDZB,4516756
+B2305:1:398,Platycheirus fulviventris,,Platycheirus,,fulviventris,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,fulviventris,4JPG3,1543011,4JPG3,1543011
+B2305:1:399,Platycheirus immaculatus,,Platycheirus,,immaculatus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,immaculatus,8BNM6,1543130,8BNM6,1543130
+B2305:1:400,Platycheirus immarginatus,,Platycheirus,,immarginatus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,immarginatus,4JPGM,1543300,4JPGM,1543300
+B2305:1:401,Platycheirus manicatus,,Platycheirus,,manicatus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,manicatus,6VPP3,1543197,6VPP3,1543197
+B2305:1:402,Platycheirus melanopsis,,Platycheirus,,melanopsis,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,melanopsis,8BNMT,1543175,8BNMT,1543175
+B2305:1:403,Platycheirus nielseni,,Platycheirus,,nielseni,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,nielseni,4JPHV,1543089,4JPHV,1543089
+B2305:1:404,Platycheirus occultus,,Platycheirus,,occultus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,occultus,8BNN4,1543075,8BNN4,1543075
+B2305:1:405,Platycheirus parmatus,,Platycheirus,,parmatus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,parmatus,88YGG,1543031,88YGG,1543031
+B2305:1:406,Platycheirus peltatus,,Platycheirus,,peltatus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,peltatus,4JPJL,1543292,4JPJL,1543292
+B2305:1:407,Platycheirus perpallidus,,Platycheirus,,perpallidus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,perpallidus,4JPJN,1543239,4JPJN,1543239
+B2305:1:408,Platycheirus podagratus,,Platycheirus,,podagratus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,podagratus,4JPJT,4516757,4JPJT,4516757
+B2305:1:409,Platycheirus ramsarensis,,Platycheirus,,ramsarensis,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,ramsarensis,8BNNJ,1543020,8BNNJ,1543020
+B2305:1:410,Platycheirus scambus,,Platycheirus,,scambus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,scambus,4JPKD,1543125,4JPKD,1543125
+B2305:1:411,Platycheirus scutatus,,Platycheirus,,scutatus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,scutatus,6VPP4,1543099,6VPP4,1543099
+B2305:1:412,Platycheirus splendidus,,Platycheirus,,splendidus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,splendidus,4JPKR,1543096,4JPKR,1543096
+B2305:1:413,Platycheirus sticticus,,Platycheirus,,sticticus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,sticticus,4JPKV,1543080,4JPKV,1543080
+B2305:1:414,Platycheirus tarsalis,,Platycheirus,,tarsalis,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,tarsalis,,4516771,,1543211
+B2305:1:415,Platycheirus transfugus,,Platycheirus,,transfugus,,species,,B2305:1,accepted,,,B2305:1:388,Platycheirus,,,,,Syrphidae,,Platycheirus,,Syrphidae | Platycheirus,transfugus,4JPL8,1543017,4JPL8,1543017
+B2305:1:416,Pocota,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Pocota,,Syrphidae,Pocota,BYMVD,1533099,BYMVD,1533099
+B2305:1:417,Pocota personata,,Pocota,,personata,,species,,B2305:1,accepted,,,B2305:1:416,Pocota,,,,,Syrphidae,,Pocota,,Syrphidae | Pocota,personata,4KNKL,1533100,4KNKL,1533100
+B2305:1:418,Portevinia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Portevinia,,Syrphidae,Portevinia,BYN26,1536586,BYN26,1536586
+B2305:1:419,Portevinia maculata,,Portevinia,,maculata,,species,,B2305:1,accepted,,,B2305:1:418,Portevinia,,,,,Syrphidae,,Portevinia,,Syrphidae | Portevinia,maculata,4LZZD,1536592,4LZZD,1536592
+B2305:1:420,Psarus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Psarus,,Syrphidae,Psarus,BYNGQ,1537620,BYNGQ,1537620
+B2305:1:421,Psarus abdominalis,,Psarus,,abdominalis,,species,,B2305:1,accepted,,,B2305:1:420,Psarus,,,,,Syrphidae,,Psarus,,Syrphidae | Psarus,abdominalis,4NDNC,5071240,4NDNC,5071240
+B2305:1:422,Psilota,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Psilota,,Syrphidae,Psilota,BY42J,1534962,BY42J,1534962
+B2305:1:423,Psilota anthracina,,Psilota,,anthracina,,species,,B2305:1,accepted,,,B2305:1:422,Psilota,,,,,Syrphidae,,Psilota,,Syrphidae | Psilota,anthracina,4PJPF,1534984,4PJPF,1534984
+B2305:1:424,Psilota atra,,Psilota,,atra,,species,,B2305:1,accepted,,,B2305:1:422,Psilota,,,,,Syrphidae,,Psilota,,Syrphidae | Psilota,atra,4PJPG,1534988,4PJPG,1534988
+B2305:1:425,Psilota exilistyla,,Psilota,,exilistyla,,species,,B2305:1,accepted,,,B2305:1:422,Psilota,,,,,Syrphidae,,Psilota,,Syrphidae | Psilota,exilistyla,8DJY8,9521407,8DJY8,9521407
+B2305:1:426,Pyrophaena,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Pyrophaena,,Syrphidae,Pyrophaena,BYX5N,1544498,BYX5N,1544498
+B2305:1:427,Pyrophaena granditarsa,,Pyrophaena,,granditarsa,,species,,B2305:1,accepted,,,B2305:1:426,Pyrophaena,,,,,Syrphidae,,Pyrophaena,,Syrphidae | Pyrophaena,granditarsa,9HK7N,5886305,9HK7N,5886305
+B2305:1:428,Platycheirus granditarsus,,Platycheirus,,granditarsus,,species,,B2305:1,synonym,B2305:1:427,Pyrophaena granditarsa,,,,,,,Syrphidae,,Pyrophaena,,Syrphidae | Pyrophaena,Platycheirus granditarsus,,4516764,,5886305
+B2305:1:429,Pyrophaena rosarum,,Pyrophaena,,rosarum,,species,,B2305:1,accepted,,,B2305:1:426,Pyrophaena,,,,,Syrphidae,,Pyrophaena,,Syrphidae | Pyrophaena,rosarum,9HK7P,4294542,9HK7P,4294542
+B2305:1:430,Platycheirus rosarum,,Platycheirus,,rosarum,,species,,B2305:1,synonym,B2305:1:429,Pyrophaena rosarum,,,,,,,Syrphidae,,Pyrophaena,,Syrphidae | Pyrophaena,Platycheirus rosarum,,1543305,,4294542
+B2305:1:431,Rhingia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Rhingia,,Syrphidae,Rhingia,BYPBL,1537399,BYPBL,1537399
+B2305:1:432,Rhingia borealis,,Rhingia,,borealis,,species,,B2305:1,accepted,,,B2305:1:431,Rhingia,,,,,Syrphidae,,Rhingia,,Syrphidae | Rhingia,borealis,8DMTC,1537437,8DMRX,1537436
+B2305:1:433,Rhingia campestris,,Rhingia,,campestris,,species,,B2305:1,accepted,,,B2305:1:431,Rhingia,,,,,Syrphidae,,Rhingia,,Syrphidae | Rhingia,campestris,8DMS3,1537412,8DMS3,1537412
+B2305:1:434,Rhingia rostrata,,Rhingia,,rostrata,,species,,B2305:1,accepted,,,B2305:1:431,Rhingia,,,,,Syrphidae,,Rhingia,,Syrphidae | Rhingia,rostrata,8DMST,8170685,8DMST,8170685
+B2305:1:435,Riponnensia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Riponnensia,,Syrphidae,Riponnensia,BYZPD,1543421,BYZPD,1543421
+B2305:1:436,Riponnensia splendens,,Riponnensia,,splendens,,species,,B2305:1,accepted,,,B2305:1:435,Riponnensia,,,,,Syrphidae,,Riponnensia,,Syrphidae | Riponnensia,splendens,,4516885,,1537535
+B2305:1:437,Scaeva,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Scaeva,,Syrphidae,Scaeva,BYPVS,1537685,BYPVS,1537685
+B2305:1:438,Scaeva albomaculata,,Scaeva,,albomaculata,,species,,B2305:1,accepted,,,B2305:1:437,Scaeva,,,,,Syrphidae,,Scaeva,,Syrphidae | Scaeva,albomaculata,6Y4DX,1537703,6Y4DX,1537703
+B2305:1:439,Scaeva dignota,,Scaeva,,dignota,,species,,B2305:1,accepted,,,B2305:1:437,Scaeva,,,,,Syrphidae,,Scaeva,,Syrphidae | Scaeva,dignota,6Y4H9,1537709,6Y4H9,1537709
+B2305:1:440,Scaeva mecogramma,,Scaeva,,mecogramma,,species,,B2305:1,accepted,,,B2305:1:437,Scaeva,,,,,Syrphidae,,Scaeva,,Syrphidae | Scaeva,mecogramma,6XSH8,1537700,6XSH8,1537700
+B2305:1:441,Scaeva pyrastri,,Scaeva,,pyrastri,,species,,B2305:1,accepted,,,B2305:1:437,Scaeva,,,,,Syrphidae,,Scaeva,,Syrphidae | Scaeva,pyrastri,79SHC,1537719,79SHC,1537719
+B2305:1:442,Scaeva selenitica,,Scaeva,,selenitica,,species,,B2305:1,accepted,,,B2305:1:437,Scaeva,,,,,Syrphidae,,Scaeva,,Syrphidae | Scaeva,selenitica,6Y4HJ,1537717,6Y4HJ,1537717
+B2305:1:443,Sericomyia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Sericomyia,,Syrphidae,Sericomyia,BYQ5M,1538780,BYQ5M,1538780
+B2305:1:444,Sericomyia bombiformis,,Sericomyia,,bombiformis,,species,,B2305:1,accepted,,,B2305:1:443,Sericomyia,,,,,Syrphidae,,Sericomyia,,Syrphidae | Sericomyia,bombiformis,8DWLL,1538796,8DWLL,1538796
+B2305:1:445,Arctophila bombiformis,,Arctophila,,bombiformis,,species,,B2305:1,synonym,B2305:1:444,Sericomyia bombiformis,,,,,,,Syrphidae,,Sericomyia,,Syrphidae | Sericomyia,Arctophila bombiformis,,6098372,,1538796
+B2305:1:446,Sericomyia lappona,,Sericomyia,,lappona,,species,,B2305:1,accepted,,,B2305:1:443,Sericomyia,,,,,Syrphidae,,Sericomyia,,Syrphidae | Sericomyia,lappona,8DWM6,1538831,8DWM6,1538831
+B2305:1:447,Sericomyia silentis,,Sericomyia,,silentis,,species,,B2305:1,accepted,,,B2305:1:443,Sericomyia,,,,,Syrphidae,,Sericomyia,,Syrphidae | Sericomyia,silentis,8DWMD,1538798,8DWMD,1538798
+B2305:1:448,Sericomyia superbiens,,Sericomyia,,superbiens,,species,,B2305:1,accepted,,,B2305:1:443,Sericomyia,,,,,Syrphidae,,Sericomyia,,Syrphidae | Sericomyia,superbiens,8DWLR,1538824,8DWLR,1538824
+B2305:1:449,Arctophila mussitans,,Arctophila,,mussitans,,species,,B2305:1,synonym,B2305:1:448,Sericomyia superbiens,,,,,,,Syrphidae,,Sericomyia,,Syrphidae | Sericomyia,Arctophila mussitans,,6098370,,1538824
+B2305:1:450,Arctophila superbiens,,Arctophila,,superbiens,,species,,B2305:1,synonym,B2305:1:448,Sericomyia superbiens,,,,,,,Syrphidae,,Sericomyia,,Syrphidae | Sericomyia,Arctophila superbiens,,5766569,,1538824
+B2305:1:451,Sphaerophoria,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Sphaerophoria,,Syrphidae,Sphaerophoria,BY4GV,1539106,BY4GV,1539106
+B2305:1:452,Sphaerophoria bankowskae,,Sphaerophoria,,bankowskae,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,bankowskae,L2P8C,1539218,L2P8C,1539218
+B2305:1:453,Sphaerophoria batava,,Sphaerophoria,,batava,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,batava,L2P8F,1539189,L2P8F,1539189
+B2305:1:454,Sphaerophoria chongjini,,Sphaerophoria,,chongjini,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,chongjini,8F3RW,1539215,8F3RW,1539215
+B2305:1:455,Sphaerophoria fatarum,,Sphaerophoria,,fatarum,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,fatarum,L2P8N,1539165,L2P8N,1539165
+B2305:1:456,Sphaerophoria interrupta,,Sphaerophoria,,interrupta,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,interrupta,8F3S7,1536614,8F3S7,1536614
+B2305:1:457,Sphaerophoria loewi,,Sphaerophoria,,loewi,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,loewi,9HCYZ,1539169,9HCYZ,1539169
+B2305:1:458,Sphaerophoria philanthus,,Sphaerophoria,,philanthus,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,philanthus,8V6YX,4516743,8V6YX,4516743
+B2305:1:459,Sphaerophoria potentillae,,Sphaerophoria,,potentillae,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,potentillae,8F3SL,1539234,8F3SL,1539234
+B2305:1:460,Sphaerophoria rueppelli,,Sphaerophoria,,rueppelli,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,rueppelli,9HCZ3,4516745,9HCZ3,4516745
+B2305:1:461,Sphaerophoria scripta,,Sphaerophoria,,scripta,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,scripta,8F3SP,1539177,8F3SP,1539177
+B2305:1:462,Sphaerophoria shirchan,,Sphaerophoria,,shirchan,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,shirchan,9HCYW,1539159,9HCYW,1539159
+B2305:1:463,Sphaerophoria taeniata,,Sphaerophoria,,taeniata,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,taeniata,8F3SR,1539123,8F3SR,1539123
+B2305:1:464,Sphaerophoria virgata,,Sphaerophoria,,virgata,,species,,B2305:1,accepted,,,B2305:1:451,Sphaerophoria,,,,,Syrphidae,,Sphaerophoria,,Syrphidae | Sphaerophoria,virgata,L2P8T,1539192,L2P8T,1539192
+B2305:1:465,Sphegina,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Sphegina,,Syrphidae,Sphegina,BYQMG,1535557,BYQMG,1535557
+B2305:1:466,Sphegina clunipes,,Sphegina,,clunipes,,species,,B2305:1,accepted,,,B2305:1:465,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,clunipes,8F42S,1535561,8F42S,1535561
+B2305:1:467,Sphegina elegans,,Sphegina,,elegans,,species,,B2305:1,accepted,,,B2305:1:465,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,elegans,8F42W,12092573,8F42W,12092573
+B2305:1:468,Sphegina montana,,Sphegina,,montana,,species,,B2305:1,accepted,,,B2305:1:465,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,montana,8F43F,1535586,8F43F,1535586
+B2305:1:469,Sphegina nigra,,Sphegina,,nigra,,species,,B2305:1,accepted,,,B2305:1:465,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,nigra,8F43H,1535642,8F43H,1535642
+B2305:1:470,Sphegina clavata,,Sphegina,,clavata,,species,auct.,B2305:1,synonym,B2305:1:469,Sphegina nigra,,,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,clavata auct.,8F42Q,1535610,8F42Q,1535610
+B2305:1:471,Sphegina sibirica,,Sphegina,,sibirica,,species,,B2305:1,accepted,,,B2305:1:465,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,sibirica,8F3ZK,1535634,8F3ZK,1535634
+B2305:1:472,Sphegina spheginea,,Sphegina,,spheginea,,species,,B2305:1,accepted,,,B2305:1:465,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,spheginea,8F43S,1535600,8F43S,1535600
+B2305:1:473,Sphegina verecunda,,Sphegina,,verecunda,,species,,B2305:1,accepted,,,B2305:1:465,Sphegina,,,,,Syrphidae,,Sphegina,,Syrphidae | Sphegina,verecunda,8F444,1535651,8F444,1535651
+B2305:1:474,Sphiximorpha,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Sphiximorpha,,Syrphidae,Sphiximorpha,BY5CC,1544135,BY5CC,1544135
+B2305:1:475,Sphiximorpha subsessilis,,Sphiximorpha,,subsessilis,,species,,B2305:1,accepted,,,B2305:1:474,Sphiximorpha,,,,,Syrphidae,,Sphiximorpha,,Syrphidae | Sphiximorpha,subsessilis,8F4BF,4516732,8F4BF,4516732
+B2305:1:476,Spilomyia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Spilomyia,,Syrphidae,Spilomyia,7KZR,1538723,7KZR,1538723
+B2305:1:477,Spilomyia manicata,,Spilomyia,,manicata,,species,,B2305:1,accepted,,,B2305:1:476,Spilomyia,,,,,Syrphidae,,Spilomyia,,Syrphidae | Spilomyia,manicata,4Z47X,1538734,4Z47X,1538734
+B2305:1:478,Spilomyia saltuum,,Spilomyia,,saltuum,,species,,B2305:1,accepted,,,B2305:1:476,Spilomyia,,,,,Syrphidae,,Spilomyia,,Syrphidae | Spilomyia,saltuum,4Z489,1538756,4Z489,1538756
+B2305:1:479,Syritta,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Syritta,,Syrphidae,Syritta,BY4LS,1544405,BY4LS,1544405
+B2305:1:480,Syritta pipiens,,Syritta,,pipiens,,species,,B2305:1,accepted,,,B2305:1:479,Syritta,,,,,Syrphidae,,Syritta,,Syrphidae | Syritta,pipiens,542RH,1544431,542RH,1544431
+B2305:1:481,Syrphus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Syrphus,,Syrphidae,Syrphus,BYR92,1444606,BYR92,1444606
+B2305:1:482,Syrphus nitidifrons,,Syrphus,,nitidifrons,,species,,B2305:1,accepted,,,B2305:1:481,Syrphus,,,,,Syrphidae,,Syrphus,,Syrphidae | Syrphus,nitidifrons,8F7SD,1537300,8F7SD,1537300
+B2305:1:483,Syrphus rectus,,Syrphus,,rectus,,species,,B2305:1,accepted,,,B2305:1:481,Syrphus,,,,,Syrphidae,,Syrphus,,Syrphidae | Syrphus,rectus,8F7SL,1537313,8F7SL,1537313
+B2305:1:484,Syrphus ribesii,,Syrphus,,ribesii,,species,,B2305:1,accepted,,,B2305:1:481,Syrphus,,,,,Syrphidae,,Syrphus,,Syrphidae | Syrphus,ribesii,8F7SN,1537266,8F7SN,1537266
+B2305:1:485,Syrphus torvus,,Syrphus,,torvus,,species,,B2305:1,accepted,,,B2305:1:481,Syrphus,,,,,Syrphidae,,Syrphus,,Syrphidae | Syrphus,torvus,8F7SS,1537245,8F7SS,1537245
+B2305:1:486,Syrphus vitripennis,,Syrphus,,vitripennis,,species,,B2305:1,accepted,,,B2305:1:481,Syrphus,,,,,Syrphidae,,Syrphus,,Syrphidae | Syrphus,vitripennis,8F7ST,1537212,8F7ST,1537212
+B2305:1:487,Temnostoma,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Temnostoma,,Syrphidae,Temnostoma,BYRJH,1538859,BYRJH,1538859
+B2305:1:488,Temnostoma apiforme,,Temnostoma,,apiforme,,species,,B2305:1,accepted,,,B2305:1:487,Temnostoma,,,,,Syrphidae,,Temnostoma,,Syrphidae | Temnostoma,apiforme,8FDGW,1538880,8FDGW,1538880
+B2305:1:489,Temnostoma bombylans,,Temnostoma,,bombylans,,species,,B2305:1,accepted,,,B2305:1:487,Temnostoma,,,,,Syrphidae,,Temnostoma,,Syrphidae | Temnostoma,bombylans,7BP9M,1538889,7BP9M,1538889
+B2305:1:490,Temnostoma meridionale,,Temnostoma,,meridionale,,species,,B2305:1,accepted,,,B2305:1:487,Temnostoma,,,,,Syrphidae,,Temnostoma,,Syrphidae | Temnostoma,meridionale,7BP85,1538873,7BP85,1538873
+B2305:1:491,Temnostoma sericomyiaeforme,,Temnostoma,,sericomyiaeforme,,species,,B2305:1,accepted,,,B2305:1:487,Temnostoma,,,,,Syrphidae,,Temnostoma,,Syrphidae | Temnostoma,sericomyiaeforme,BZPKZ,8108323,BZPKZ,8108323
+B2305:1:492,Temnostoma vespiforme,,Temnostoma,,vespiforme,,species,,B2305:1,accepted,,,B2305:1:487,Temnostoma,,,,,Syrphidae,,Temnostoma,,Syrphidae | Temnostoma,vespiforme,8V6ZY,1538870,8V6ZY,1538870
+B2305:1:493,Trichopsomyia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Trichopsomyia,,Syrphidae,Trichopsomyia,BY4VK,1538645,BY4VK,1538645
+B2305:1:494,Trichopsomyia flavitarsis,,Trichopsomyia,,flavitarsis,,species,,B2305:1,accepted,,,B2305:1:493,Trichopsomyia,,,,,Syrphidae,,Trichopsomyia,,Syrphidae | Trichopsomyia,flavitarsis,92XNC,1538647,92XNC,1538647
+B2305:1:495,Trichopsomyia joratensis,,Trichopsomyia,,joratensis,,species,,B2305:1,accepted,,,B2305:1:493,Trichopsomyia,,,,,Syrphidae,,Trichopsomyia,,Syrphidae | Trichopsomyia,joratensis,L2RJD,1538678,L2RJD,1538678
+B2305:1:496,Trichopsomyia lucida,,Trichopsomyia,,lucida,,species,,B2305:1,accepted,,,B2305:1:493,Trichopsomyia,,,,,Syrphidae,,Trichopsomyia,,Syrphidae | Trichopsomyia,lucida,58HV8,1538667,58HV8,1538667
+B2305:1:497,Triglyphus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Triglyphus,,Syrphidae,Triglyphus,BY4W7,1544500,BY4W7,1544500
+B2305:1:498,Triglyphus primus,,Triglyphus,,primus,,species,,B2305:1,accepted,,,B2305:1:497,Triglyphus,,,,,Syrphidae,,Triglyphus,,Syrphidae | Triglyphus,primus,58QPN,5072223,58QPN,5072223
+B2305:1:499,Tropidia,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Tropidia,,Syrphidae,Tropidia,BXXWN,1542171,BXXWN,1542171
+B2305:1:500,Tropidia fasciata,,Tropidia,,fasciata,,species,,B2305:1,accepted,,,B2305:1:499,Tropidia,,,,,Syrphidae,,Tropidia,,Syrphidae | Tropidia,fasciata,8FJRQ,1542199,8FJRQ,1542199
+B2305:1:501,Tropidia scita,,Tropidia,,scita,,species,,B2305:1,accepted,,,B2305:1:499,Tropidia,,,,,Syrphidae,,Tropidia,,Syrphidae | Tropidia,scita,8FJS8,1542175,8FJS8,1542175
+B2305:1:502,Volucella,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Volucella,,Syrphidae,Volucella,BYST4,1483491,BYST4,1483491
+B2305:1:503,Volucella bombylans,,Volucella,,bombylans,,species,,B2305:1,accepted,,,B2305:1:502,Volucella,,,,,Syrphidae,,Volucella,,Syrphidae | Volucella,bombylans,7FT9W,1541763,7FT9W,1541763
+B2305:1:504,Volucella inanis,,Volucella,,inanis,,species,,B2305:1,accepted,,,B2305:1:502,Volucella,,,,,Syrphidae,,Volucella,,Syrphidae | Volucella,inanis,5BPFW,1541740,5BPFW,1541740
+B2305:1:505,Volucella inflata,,Volucella,,inflata,,species,,B2305:1,accepted,,,B2305:1:502,Volucella,,,,,Syrphidae,,Volucella,,Syrphidae | Volucella,inflata,5BPG2,1541819,5BPG2,1541819
+B2305:1:506,Volucella pellucens,,Volucella,,pellucens,,species,,B2305:1,accepted,,,B2305:1:502,Volucella,,,,,Syrphidae,,Volucella,,Syrphidae | Volucella,pellucens,5BPH6,1541799,5BPH6,1541799
+B2305:1:507,Volucella zonaria,,Volucella,,zonaria,,species,,B2305:1,accepted,,,B2305:1:502,Volucella,,,,,Syrphidae,,Volucella,,Syrphidae | Volucella,zonaria,5BPK3,1541832,5BPK3,1541832
+B2305:1:508,Xanthandrus,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Xanthandrus,,Syrphidae,Xanthandrus,BY526,1538937,BY526,1538937
+B2305:1:509,Xanthandrus comtus,,Xanthandrus,,comtus,,species,,B2305:1,accepted,,,B2305:1:508,Xanthandrus,,,,,Syrphidae,,Xanthandrus,,Syrphidae | Xanthandrus,comtus,8FMX5,1538946,8FMX5,1538946
+B2305:1:510,Xanthogramma,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Xanthogramma,,Syrphidae,Xanthogramma,BYYRW,1538494,BYMBX,1538494
+B2305:1:511,Xanthogramma citrofasciatum,,Xanthogramma,,citrofasciatum,,species,,B2305:1,accepted,,,B2305:1:510,Xanthogramma,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,citrofasciatum,,5766549,,12008023
+B2305:1:512,Xanthogramma dives,,Xanthogramma,,dives,,species,,B2305:1,accepted,,,B2305:1:510,Xanthogramma,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,dives,,5766548,,11120721
+B2305:1:513,Xanthogramma laetum,,Xanthogramma,,laetum,,species,,B2305:1,accepted,,,B2305:1:510,Xanthogramma,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,laetum,,5071291,,11221304
+B2305:1:514,Olbiosyrphus laetus,,Olbiosyrphus,,laetus,,species,,B2305:1,synonym,B2305:1:513,Xanthogramma laetum,,,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,Olbiosyrphus laetus,,6098362,,11221304
+B2305:1:515,Xanthogramma pedissequum,,Xanthogramma,,pedissequum,,species,,B2305:1,accepted,,,B2305:1:510,Xanthogramma,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,pedissequum,,5071297,,11202067
+B2305:1:516,Xanthogramma stackelbergi,,Xanthogramma,,stackelbergi,,species,,B2305:1,accepted,,,B2305:1:510,Xanthogramma,,,,,Syrphidae,,Xanthogramma,,Syrphidae | Xanthogramma,stackelbergi,8FMZP,5071313,8GSTQ,11184283
+B2305:1:517,Xylota,,,,,,genus,,B2305:1,accepted,,,B2305:1:1,Syrphidae,,,,,Syrphidae,,Xylota,,Syrphidae,Xylota,89LD,1541512,89LD,1541512
+B2305:1:518,Xylota abiens,,Xylota,,abiens,,species,,B2305:1,accepted,,,B2305:1:517,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,abiens,BZFYN,10878032,BZFYN,10878032
+B2305:1:519,Xylota florum,,Xylota,,florum,,species,,B2305:1,accepted,,,B2305:1:517,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,florum,8FNHJ,1541616,8FNHJ,1541616
+B2305:1:520,Xylota ignava,,Xylota,,ignava,,species,,B2305:1,accepted,,,B2305:1:517,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,ignava,8FNHQ,1541629,8FNHQ,1541629
+B2305:1:521,Xylota jakutorum,,Xylota,,jakutorum,,species,,B2305:1,accepted,,,B2305:1:517,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,jakutorum,8FNHT,4516845,8FNHT,4516845
+B2305:1:522,Xylota meigeniana,,Xylota,,meigeniana,,species,,B2305:1,accepted,,,B2305:1:517,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,meigeniana,8FNHW,1541625,8FNHW,1541625
+B2305:1:523,Xylota segnis,,Xylota,,segnis,,species,,B2305:1,accepted,,,B2305:1:517,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,segnis,8FNJF,1541562,8FNJF,1541562
+B2305:1:524,Xylota sylvarum,,Xylota,,sylvarum,,species,,B2305:1,accepted,,,B2305:1:517,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,sylvarum,8FNJP,1541654,8FNJP,1541654
+B2305:1:525,Xylota tarda,,Xylota,,tarda,,species,,B2305:1,accepted,,,B2305:1:517,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,tarda,8FNJY,1541612,8FNJY,1541612
+B2305:1:526,Xylota xanthocnema,,Xylota,,xanthocnema,,species,,B2305:1,accepted,,,B2305:1:517,Xylota,,,,,Syrphidae,,Xylota,,Syrphidae | Xylota,xanthocnema,8FNJW,1541545,8FNJW,1541545
