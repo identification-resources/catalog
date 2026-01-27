@@ -11743,5 +11743,66 @@
     },
     "id": "B2308:3",
     "taxonCount": 180
+  },
+  "B2318:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2318:1",
+    "taxonCount": 5
+  },
+  "B2319:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2319:1",
+    "taxonCount": 25
+  },
+  "B2320:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2320:1",
+    "taxonCount": 13
+  },
+  "B2321:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "variety"
+    ],
+    "id": "B2321:1",
+    "taxonCount": 50
+  },
+  "B2341:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus"
+    ],
+    "id": "B2341:1",
+    "taxonCount": 13
+  },
+  "B2342:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2342:1",
+    "taxonCount": 7
+  },
+  "B2346:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2346:1",
+    "taxonCount": 3
   }
 }
