@@ -1,0 +1,6 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2351:1:1,Coptosoma,,,,,,genus,,B2351:1,accepted,,,,,,,,,,,Coptosoma,,,Coptosoma,BDTXT,3265959,BDTXT,3265959
+B2351:1:2,Coptosoma capitatum,,Coptosoma,,capitatum,,species,sp. n.,B2351:1,accepted,,,B2351:1:1,Coptosoma,,,,,,,Coptosoma,,Coptosoma,capitatum sp. n.,,,,
+B2351:1:3,Coptosoma globus Fab.,Fab.,Coptosoma,,globus,,species,,B2351:1,accepted,,,B2351:1:1,Coptosoma,,,,,,,Coptosoma,,Coptosoma,globus Fab.,,12113477,,6096723
+B2351:1:4,"Coptosoma dilatatum Motsch., 1859","Motsch., 1859",Coptosoma,,dilatatum,,species,,B2351:1,synonym,B2351:1:3,Coptosoma globus Fab.,,,,,,,,,Coptosoma,,Coptosoma,"dilatatum Motsch., 1859",,,,
+B2351:1:5,Coptosoma biguttulum Motsch.,Motsch.,Coptosoma,,biguttulum,,species,,B2351:1,accepted,,,B2351:1:1,Coptosoma,,,,,,,Coptosoma,,Coptosoma,biguttulum Motsch.,,,,
