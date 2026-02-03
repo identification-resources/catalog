@@ -1,0 +1,23 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2372:1:1,Hemiptera,,,,,,order,,B2372:1,accepted,,,,,,,,Hemiptera,,,,,,Hemiptera,BXVWV,809,BXVWV,809
+B2372:1:2,Homoptera,,,,,,suborder,,B2372:1,accepted,,,B2372:1:1,Hemiptera,,,,Hemiptera,,,,,Hemiptera,Homoptera,94L4K,,92QPT,
+B2372:1:3,Heteroptera,,,,,,suborder,,B2372:1,accepted,,,B2372:1:1,Hemiptera,,,,Hemiptera,,,,,Hemiptera,Heteroptera,BXWCX,,BXWCX,
+B2372:1:4,Gymnocerata,,,,,,infraorder,,B2372:1,accepted,,,B2372:1:3,Heteroptera,,,,Hemiptera,,,,,Hemiptera | Heteroptera,Gymnocerata,,,,
+B2372:1:5,Hebridae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Hebridae,,,,Hemiptera | Heteroptera | Gymnocerata,Hebridae,6252Q,4312,6252Q,4312
+B2372:1:6,Hydrometridae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Hydrometridae,,,,Hemiptera | Heteroptera | Gymnocerata,Hydrometridae,B8R,7884,B8R,7884
+B2372:1:7,Pentatomidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Pentatomidae,,,,Hemiptera | Heteroptera | Gymnocerata,Pentatomidae,BXWJD,9650,BXWJD,9650
+B2372:1:8,Coreidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Coreidae,,,,Hemiptera | Heteroptera | Gymnocerata,Coreidae,8NKJF,9649,8NKJF,9649
+B2372:1:9,Berytidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Berytidae,,,,Hemiptera | Heteroptera | Gymnocerata,Berytidae,8NKH8,4306,8NKH8,4306
+B2372:1:10,Lygaeidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Lygaeidae,,,,Hemiptera | Heteroptera | Gymnocerata,Lygeidae,8NKMB,7888,8NKMB,7888
+B2372:1:11,Saldidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Saldidae,,,,Hemiptera | Heteroptera | Gymnocerata,Saldidae,FWD,7896,FWD,7896
+B2372:1:12,Reduviidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Reduviidae,,,,Hemiptera | Heteroptera | Gymnocerata,Reduvidae,FKV,4324,FKV,4324
+B2372:1:13,Phymatidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Phymatidae,,,,Hemiptera | Heteroptera | Gymnocerata,Phymatidae,8NKP9,3265969,8PTG4,3265969
+B2372:1:14,Aradidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Aradidae,,,,Hemiptera | Heteroptera | Gymnocerata,Aradidae,BXVZ4,7877,BXVZ4,7877
+B2372:1:15,Tingididae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Tingididae,,,,Hemiptera | Heteroptera | Gymnocerata,Tingididae,,4289967,,7899
+B2372:1:16,Cimicidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Cimicidae,,,,Hemiptera | Heteroptera | Gymnocerata,Cimicidae,7NGSF,9648,7NGSF,9648
+B2372:1:17,Capsidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Capsidae,,,,Hemiptera | Heteroptera | Gymnocerata,Capsidae,,3265189,,4319
+B2372:1:18,Cryptocerata,,,,,,infraorder,,B2372:1,accepted,,,B2372:1:3,Heteroptera,,,,Hemiptera,,,,,Hemiptera | Heteroptera,Cryptocerata,4JC,,4MC,
+B2372:1:19,Nepidae,,,,,,family,,B2372:1,accepted,,,B2372:1:18,Cryptocerata,,,,Hemiptera,Nepidae,,,,Hemiptera | Heteroptera | Cryptocerata,Nepidae,CG645,7892,CG645,7892
+B2372:1:20,Naucoridae,,,,,,family,,B2372:1,accepted,,,B2372:1:18,Cryptocerata,,,,Hemiptera,Naucoridae,,,,Hemiptera | Heteroptera | Cryptocerata,Naucoridae,624PT,4320,624PT,4320
+B2372:1:21,Notonectidae,,,,,,family,,B2372:1,accepted,,,B2372:1:18,Cryptocerata,,,,Hemiptera,Notonectidae,,,,Hemiptera | Heteroptera | Cryptocerata,Notonectidae,626HD,4322,626HD,4322
+B2372:1:22,Corixidae,,,,,,family,,B2372:1,accepted,,,B2372:1:18,Cryptocerata,,,,Hemiptera,Corixidae,,,,Hemiptera | Heteroptera | Cryptocerata,Corixidae,8KK,6988,8KK,6988

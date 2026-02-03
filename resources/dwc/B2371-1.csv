@@ -1,0 +1,30 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2371:1:1,Reduviidae,,,,,,family,,B2371:1,accepted,,,,,,,,,Reduviidae,,,,,Réduvides,FKV,4324,FKV,4324
+B2371:1:2,Emesini,,,,,,tribe,,B2371:1,accepted,,,B2371:1:1,Reduviidae,,,,,Reduviidae,,,,Reduviidae,Emesini,KT6,,KT6,
+B2371:1:3,Ploiaria Scop.,Scop.,,,,,genus,,B2371:1,accepted,,,B2371:1:2,Emesini,,,,,Reduviidae,,Ploiaria,,Reduviidae | Emesini,Ploiaria Scop.,6T3N,2008557,6T3N,2008557
+B2371:1:4,Ploiaria culiciformis de G.,de G.,Ploiaria,,culiciformis,,species,,B2371:1,accepted,,,B2371:1:3,Ploiaria Scop.,,,,,Reduviidae,,Ploiaria,,Reduviidae | Emesini | Ploiaria,culiciformis de G.,,10231891,,2008621
+B2371:1:5,Ploiaria vagabunda L.,L.,Ploiaria,,vagabunda,,species,,B2371:1,accepted,,,B2371:1:3,Ploiaria Scop.,,,,,Reduviidae,,Ploiaria,,Reduviidae | Emesini | Ploiaria,vagabunda L.,,10300093,,2008618
+B2371:1:6,Ploiaria vagabunda var. pilosa Fieb.,Fieb.,Ploiaria,,vagabunda,pilosa,variety,,B2371:1,accepted,,,B2371:1:5,Ploiaria vagabunda L.,,,,,Reduviidae,,Ploiaria,,Reduviidae | Emesini | Ploiaria | Ploiaria vagabunda,var. pilosa Fieb.,,9988139,,5152579
+B2371:1:7,Reduvini,,,,,,tribe,,B2371:1,accepted,,,B2371:1:1,Reduviidae,,,,,Reduviidae,,,,Reduviidae,Reduvini,,,,
+B2371:1:8,Pygolampis Germ.,Germ.,,,,,genus,,B2371:1,accepted,,,B2371:1:7,Reduvini,,,,,Reduviidae,,Pygolampis,,Reduviidae | Reduvini,Pygolampis Germ.,6437V,2008656,6437V,2008656
+B2371:1:9,Pygolampis bidentata Fourc.,Fourc.,Pygolampis,,bidentata,,species,,B2371:1,accepted,,,B2371:1:8,Pygolampis Germ.,,,,,Reduviidae,,Pygolampis,,Reduviidae | Reduvini | Pygolampis,bidentata Fourc.,4QP5Y,5152591,4QP5Y,5152591
+B2371:1:10,Reduvius Fab.,Fab.,,,,,genus,,B2371:1,accepted,,,B2371:1:7,Reduvini,,,,,Reduviidae,,Reduvius,,Reduviidae | Reduvini,Reduvius Fab.,77GY,2008513,77GY,2008513
+B2371:1:11,Reduvius personatus L.,L.,Reduvius,,personatus,,species,,B2371:1,accepted,,,B2371:1:10,Reduvius Fab.,,,,,Reduviidae,,Reduvius,,Reduviidae | Reduvini | Reduvius,personatus L.,4RPKK,2008516,4RPKK,2008516
+B2371:1:12,Harpactor Lap.,Lap.,,,,,genus,,B2371:1,accepted,,,B2371:1:7,Reduvini,,,,,Reduviidae,,Harpactor,,Reduviidae | Reduvini,Harpactor Lap.,4TSH,3252956,4TSH,3252956
+B2371:1:13,Harpactor annulatus L.,L.,Harpactor,,annulatus,,species,,B2371:1,accepted,,,B2371:1:12,Harpactor Lap.,,,,,Reduviidae,,Harpactor,,Reduviidae | Reduvini | Harpactor,annulatus L.,,9963066,,4486932
+B2371:1:14,Coranus Curt.,Curt.,,,,,genus,,B2371:1,accepted,,,B2371:1:7,Reduvini,,,,,Reduviidae,,Coranus,,Reduviidae | Reduvini,Coranus Curt.,62MK4,9112649,62MK4,9112649
+B2371:1:15,Coranus aegyptius Fab.,Fab.,Coranus,,aegyptius,,species,,B2371:1,accepted,,,B2371:1:14,Coranus Curt.,,,,,Reduviidae,,Coranus,,Reduviidae | Reduvini | Coranus,aegyptius Fab.,5ZZG7,4486949,5ZZG7,4486949
+B2371:1:16,Coranus subapterus de G.,de G.,Coranus,,subapterus,,species,,B2371:1,accepted,,,B2371:1:14,Coranus Curt.,,,,,Reduviidae,,Coranus,,Reduviidae | Reduvini | Coranus,subapterus de G.,5ZZ8Q,4486954,5ZZ8Q,4486954
+B2371:1:17,Nabini,,,,,,tribe,,B2371:1,accepted,,,B2371:1:1,Reduviidae,,,,,Reduviidae,,,,Reduviidae,Nabini,,,,
+B2371:1:18,Prostemma Lap.,Lap.,,,,,genus,,B2371:1,accepted,,,B2371:1:17,Nabini,,,,,Reduviidae,,Prostemma,,Reduviidae | Nabini,Prostemma Lap.,,2021039,,2021039
+B2371:1:19,Prostemma guttula Fab.,Fab.,Prostemma,,guttula,,species,,B2371:1,accepted,,,B2371:1:18,Prostemma Lap.,,,,,Reduviidae,,Prostemma,,Reduviidae | Nabini | Prostemma,guttula Fab.,,4487120,,4487120
+B2371:1:20,Nabis Latr.,Latr.,,,,,genus,,B2371:1,accepted,,,B2371:1:17,Nabini,,,,,Reduviidae,,Nabis,,Reduviidae | Nabini,Nabis Latr.,,2020976,,2020976
+B2371:1:21,Nabis major Costa,Costa,Nabis,,major,,species,,B2371:1,accepted,,,B2371:1:20,Nabis Latr.,,,,,Reduviidae,,Nabis,,Reduviidae | Nabini | Nabis,major Costa,,2021019,,4487075
+B2371:1:22,Nabis brevipennis Hahn,Hahn,Nabis,,brevipennis,,species,,B2371:1,accepted,,,B2371:1:20,Nabis Latr.,,,,,Reduviidae,,Nabis,,Reduviidae | Nabini | Nabis,brevipennis Hahn,,10490519,,2021041
+B2371:1:23,Nabis lativentris Boh.,Boh.,Nabis,,lativentris,,species,,B2371:1,accepted,,,B2371:1:20,Nabis Latr.,,,,,Reduviidae,,Nabis,,Reduviidae | Nabini | Nabis,lativentris Boh.,,10245630,,4487069
+B2371:1:24,Nabis flavomarginatus Schltz,Schltz,Nabis,,flavomarginatus,,species,,B2371:1,accepted,,,B2371:1:20,Nabis Latr.,,,,,Reduviidae,,Nabis,,Reduviidae | Nabini | Nabis,flavomarginatus Schltz,,4487107,,4487107
+B2371:1:25,Nabis limbatus Dahlb.,Dahlb.,Nabis,,limbatus,,species,,B2371:1,accepted,,,B2371:1:20,Nabis Latr.,,,,,Reduviidae,,Nabis,,Reduviidae | Nabini | Nabis,limbatus Dahlb.,,4487108,,4487108
+B2371:1:26,Nabis ferus L.,L.,Nabis,,ferus,,species,,B2371:1,accepted,,,B2371:1:20,Nabis Latr.,,,,,Reduviidae,,Nabis,,Reduviidae | Nabini | Nabis,ferus L.,,2021010,,2021010
+B2371:1:27,Nabis brevis Schltz,Schltz,Nabis,,brevis,,species,,B2371:1,accepted,,,B2371:1:20,Nabis Latr.,,,,,Reduviidae,,Nabis,,Reduviidae | Nabini | Nabis,brevis Schltz,,4487089,,4487089
+B2371:1:28,Nabis rugosus L.,L.,Nabis,,rugosus,,species,,B2371:1,accepted,,,B2371:1:20,Nabis Latr.,,,,,Reduviidae,,Nabis,,Reduviidae | Nabini | Nabis,rugosus L.,,4487099,,4487099
+B2371:1:29,Nabis ericetorum Schltz,Schltz,Nabis,,ericetorum,,species,,B2371:1,accepted,,,B2371:1:20,Nabis Latr.,,,,,Reduviidae,,Nabis,,Reduviidae | Nabini | Nabis,ericetorum Schltz,,4487096,,4487096

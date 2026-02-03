@@ -1,0 +1,95 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2369:1:1,Tetyrae,,,,,,family,,B2369:1,accepted,,,,,,,,,Tetyrae,,,,,Tetyrae,,,,4327
+B2369:1:2,Tetyra F.,F.,,,,,genus,,B2369:1,accepted,,,B2369:1:1,Tetyrae,,,,,Tetyrae,,Tetyra,,Tetyrae,Tetyra F.,BYRNP,2079360,BYRNP,2079360
+B2369:1:3,Eurygaster Lap.,Lap.,,,,,genus,,B2369:1,synonym,B2369:1:2,Tetyra F.,,,,,,,Tetyrae,,Eurygaster,,Tetyrae,Eurygaster Lap.,BXWJH,2079334,BYMGM,2079334
+B2369:1:4,Tetyra hottentotta L.,L.,Tetyra,,hottentotta,,species,,B2369:1,accepted,,,B2369:1:2,Tetyra F.,,,,,Tetyrae,,Tetyra,,Tetyrae | Tetyra,hottentotta L.,,9618530,,5758791
+B2369:1:5,Tetyra maura L.,L.,Tetyra,,maura,,species,,B2369:1,accepted,,,B2369:1:2,Tetyra F.,,,,,Tetyrae,,Tetyra,,Tetyrae | Tetyra,maura L.,,9535893,,5758789
+B2369:1:6,Odontoscelis Delap.,Delap.,,,,,genus,,B2369:1,accepted,,,B2369:1:1,Tetyrae,,,,,Tetyrae,,Odontoscelis,,Tetyrae,Odontoscelis Delap.,8LQJK,12058933,8KW79,7426763
+B2369:1:7,Odontoscelis dorsalis F.,F.,Odontoscelis,,dorsalis,,species,,B2369:1,accepted,,,B2369:1:6,Odontoscelis Delap.,,,,,Tetyrae,,Odontoscelis,,Tetyrae | Odontoscelis,dorsalis F.,,5758783,,5758782
+B2369:1:8,Odontoscelis fuliginosa L.,L.,Odontoscelis,,fuliginosa,,species,,B2369:1,accepted,,,B2369:1:6,Odontoscelis Delap.,,,,,Tetyrae,,Odontoscelis,,Tetyrae | Odontoscelis,fuliginosa L.,,5758780,,5758780
+B2369:1:9,Phimodera Germ.,Germ.,,,,,genus,,B2369:1,accepted,,,B2369:1:1,Tetyrae,,,,,Tetyrae,,Phimodera,,Tetyrae,Phimodera Germ.,,2079352,,2079352
+B2369:1:10,Phimodera humeralis Dal.,Dal.,Phimodera,,humeralis,,species,,B2369:1,accepted,,,B2369:1:9,Phimodera Germ.,,,,,Tetyrae,,Phimodera,,Tetyrae | Phimodera,humeralis Dal.,,4486030,,4486030
+B2369:1:11,Cydnidae,,,,,,family,,B2369:1,accepted,,,,,,,,,Cydnidae,,,,,Cydnidae,BXWHY,6989,BXWHY,6989
+B2369:1:12,Coreomelas Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,accepted,,,B2369:1:11,Cydnidae,,,,,Cydnidae,,Coreomelas,,Cydnidae,Coreomelas Amyot & Serv.,,4772829,,4772829
+B2369:1:13,Corimelaena Whit.,Whit.,,,,,genus,,B2369:1,synonym,B2369:1:12,Coreomelas Amyot & Serv.,,,,,,,Cydnidae,,Corimelaena,,Cydnidae,Corimelaena Whit.,,2079408,,2079408
+B2369:1:14,Coreomelas scarabaeoides L.,L.,Coreomelas,,scarabaeoides,,species,,B2369:1,accepted,,,B2369:1:12,Coreomelas Amyot & Serv.,,,,,Cydnidae,,Coreomelas,,Cydnidae | Coreomelas,scarabaeoides L.,,11070748,,4486004
+B2369:1:15,Gnathoconus Fieb.,Fieb.,,,,,genus,,B2369:1,accepted,,,B2369:1:11,Cydnidae,,,,,Cydnidae,,Gnathoconus,,Cydnidae,Gnathoconus Fieb.,,4578458,,4578458
+B2369:1:16,Gnathoconus albomarginatus F.,F.,Gnathoconus,,albomarginatus,,species,,B2369:1,accepted,,,B2369:1:15,Gnathoconus Fieb.,,,,,Cydnidae,,Gnathoconus,,Cydnidae | Gnathoconus,albomarginatus F.,,10971267,,5758810
+B2369:1:17,Gnathoconus picipes Fall.,Fall.,Gnathoconus,,picipes,,species,,B2369:1,accepted,,,B2369:1:15,Gnathoconus Fieb.,,,,,Cydnidae,,Gnathoconus,,Cydnidae | Gnathoconus,picipes Fall.,,11074191,,5758812
+B2369:1:18,Gnathoconus costalis Fieb.,Fieb.,Gnathoconus,,costalis,,species,,B2369:1,synonym,B2369:1:17,Gnathoconus picipes Fall.,,,,,,,Cydnidae,,Gnathoconus,,Cydnidae | Gnathoconus,costalis Fieb.,,,,
+B2369:1:19,Legnotus Schiø.,Schiø.,,,,,genus,,B2369:1,accepted,,,B2369:1:11,Cydnidae,,,,,Cydnidae,,Legnotus,,Cydnidae,Legnotus Schiø.,BXWJJ,3265255,BYGPD,3265255
+B2369:1:20,Sehirus Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,synonym,B2369:1:19,Legnotus Schiø.,,,,,,,Cydnidae,,Sehirus,,Cydnidae,Sehirus Amyot & Serv.,,2078780,,2078780
+B2369:1:21,Legnotus morio L.,L.,Legnotus,,morio,,species,,B2369:1,accepted,,,B2369:1:19,Legnotus Schiø.,,,,,Cydnidae,,Legnotus,,Cydnidae | Legnotus,morio L.,,,,2078781
+B2369:1:22,Legnotus luctuosus L.,L.,Legnotus,,luctuosus,,species,,B2369:1,accepted,,,B2369:1:19,Legnotus Schiø.,,,,,Cydnidae,,Legnotus,,Cydnidae | Legnotus,luctuosus L.,,,,4486163
+B2369:1:23,Legnotus affinis H. Sch.,H. Sch.,Legnotus,,affinis,,species,,B2369:1,synonym,B2369:1:22,Legnotus luctuosus L.,,,,,,,Cydnidae,,Legnotus,,Cydnidae | Legnotus,affinis H. Sch.,,,,
+B2369:1:24,Tritomegas Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,accepted,,,B2369:1:11,Cydnidae,,,,,Cydnidae,,Tritomegas,,Cydnidae,Tritomegas Amyot & Serv.,,3265258,,3265258
+B2369:1:25,Sehirus,,,,,,genus,,B2369:1,synonym,B2369:1:24,Tritomegas Amyot & Serv.,,,,,,,Cydnidae,,Sehirus,,Cydnidae,Sehirus,,2078780,,2078780
+B2369:1:26,Tritomegas bicolor L.,L.,Tritomegas,,bicolor,,species,,B2369:1,accepted,,,B2369:1:24,Tritomegas Amyot & Serv.,,,,,Cydnidae,,Tritomegas,,Cydnidae | Tritomegas,bicolor L.,,5758805,,5758805
+B2369:1:27,Adomerus Muls. & Rey,Muls. & Rey,,,,,genus,,B2369:1,accepted,,,B2369:1:11,Cydnidae,,,,,Cydnidae,,Adomerus,,Cydnidae,Adomerus Muls. & Rey,,4405030,,4405030
+B2369:1:28,Sehirus Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,synonym,B2369:1:27,Adomerus Muls. & Rey,,,,,,,Cydnidae,,Sehirus,,Cydnidae,Sehirus Amyot & Serv.,,2078780,,2078780
+B2369:1:29,Adomerus biguttatus L.,L.,Adomerus,,biguttatus,,species,,B2369:1,accepted,,,B2369:1:27,Adomerus Muls. & Rey,,,,,Cydnidae,,Adomerus,,Cydnidae | Adomerus,biguttatus L.,,4486134,,4486134
+B2369:1:30,Macropeltidae,,,,,,family,,B2369:1,accepted,,,,,,,,,Macropeltidae,,,,,Macropeltidae,,,,
+B2369:1:31,Cyphostethus Fieb.,Fieb.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Cyphostethus,,Macropeltidae,Cyphostethus Fieb.,7NV8G,3265727,7NV8G,3265727
+B2369:1:32,Meadorus Muls.,Muls.,,,,,genus,,B2369:1,synonym,B2369:1:31,Cyphostethus Fieb.,,,,,,,Macropeltidae,,Meadorus,,Macropeltidae,Meadorus Muls.,7PFM6,4289988,7NYBN,2079257
+B2369:1:33,Cyphostethus lituratus F.,F.,Cyphostethus,,lituratus,,species,,B2369:1,accepted,,,B2369:1:31,Cyphostethus Fieb.,,,,,Macropeltidae,,Cyphostethus,,Macropeltidae | Cyphostethus,lituratus F.,,,,6096805
+B2369:1:34,Acanthosoma Curt.,Curt.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Acanthosoma,,Macropeltidae,Acanthosoma Curt.,7NMN9,11258498,7NMN9,11258498
+B2369:1:35,Acanthosoma haemorrhoidalis L.,L.,Acanthosoma,,haemorrhoidalis,,species,,B2369:1,accepted,,,B2369:1:34,Acanthosoma Curt.,,,,,Macropeltidae,,Acanthosoma,,Macropeltidae | Acanthosoma,haemorhoidalis L.,7Q9KF,5866246,7Q9KF,5866246
+B2369:1:36,Elasmostethus Fieb.,Fieb.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Elasmostethus,,Macropeltidae,Elasmostethus Fieb.,7NVTY,2079269,7NVTY,2079269
+B2369:1:37,Oxydalus Muls.,Muls.,,,,,genus,,B2369:1,synonym,B2369:1:36,Elasmostethus Fieb.,,,,,,,Macropeltidae,,Oxydalus,,Macropeltidae,Oxydalus Muls.,7PNY3,4780844,7NVTY,2079269
+B2369:1:38,Meadorus Muls.,Muls.,,,,,genus,,B2369:1,synonym,B2369:1:36,Elasmostethus Fieb.,,,,,,,Macropeltidae,,Meadorus,,Macropeltidae,Meadorus Muls.,7PFM6,4289988,7NYBN,2079257
+B2369:1:39,Elasmostethus fieberi Jakovl.,Jakovl.,Elasmostethus,,fieberi,,species,,B2369:1,accepted,,,B2369:1:36,Elasmostethus Fieb.,,,,,Macropeltidae,,Elasmostethus,,Macropeltidae | Elasmostethus,Fieberi Jakovl.,,4485992,,4485991
+B2369:1:40,Elasmostethus griseus L.,L.,Elasmostethus,,griseus,,species,,B2369:1,accepted,,,B2369:1:36,Elasmostethus Fieb.,,,,,Macropeltidae,,Elasmostethus,,Macropeltidae | Elasmostethus,griseus L.,,12135252,,4485991
+B2369:1:41,Elasmostethus dentatus Dg.,Dg.,Elasmostethus,,dentatus,,species,,B2369:1,accepted,,,B2369:1:36,Elasmostethus Fieb.,,,,,Macropeltidae,,Elasmostethus,,Macropeltidae | Elasmostethus,dentatus DG.,7TG99,11364037,7TG9H,2079270
+B2369:1:42,Tropicoris Hahn.,Hahn.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Tropicoris,,Macropeltidae,Tropicoris Hahn.,,4782895,,8368535
+B2369:1:43,Tropicoris rufipes L.,L.,Tropicoris,,rufipes,,species,,B2369:1,accepted,,,B2369:1:42,Tropicoris Hahn.,,,,,Macropeltidae,,Tropicoris,,Macropeltidae | Tropicoris,rufipes L.,,9313423,,5758737
+B2369:1:44,Cimex L.,L.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Cimex,,Macropeltidae,Cimex L.,7NSX3,2007745,7NSX3,2007745
+B2369:1:45,Peribalus Muls.,Muls.,,,,,genus,,B2369:1,synonym,B2369:1:44,Cimex L.,,,,,,,Macropeltidae,,Peribalus,,Macropeltidae,Peribalus Muls.,,2079014,,2079014
+B2369:1:46,Palomena Muls.,Muls.,,,,,genus,,B2369:1,synonym,B2369:1:44,Cimex L.,,,,,,,Macropeltidae,,Palomena,,Macropeltidae,Palomena Muls.,,4406712,,4406712
+B2369:1:47,Cimex vernalis Wlf.,Wlf.,Cimex,,vernalis,,species,,B2369:1,accepted,,,B2369:1:44,Cimex L.,,,,,Macropeltidae,,Cimex,,Macropeltidae | Cimex,vernalis Wlf.,,4485783,,6096794
+B2369:1:48,Peribalus vernalis,,Peribalus,,vernalis,,species,,B2369:1,synonym,B2369:1:47,Cimex vernalis Wlf.,,,,,,,Macropeltidae,,Cimex,,Macropeltidae | Cimex,Peribalus vernalis,,6096796,,6096794
+B2369:1:49,Cimex prasinus L.,L.,Cimex,,prasinus,,species,,B2369:1,accepted,,,B2369:1:44,Cimex L.,,,,,Macropeltidae,,Cimex,,Macropeltidae | Cimex,prasinus L.,,4485777,,4485776
+B2369:1:50,Palomena prasina,,Palomena,,prasina,,species,,B2369:1,synonym,B2369:1:49,Cimex prasinus L.,,,,,,,Macropeltidae,,Cimex,,Macropeltidae | Cimex,Palomena prasinus,,4485776,,4485776
+B2369:1:51,Eusarcoris Hahn,Hahn,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Eusarcoris,,Macropeltidae,Eusacoris Hahn,,8492646,,2078841
+B2369:1:52,Cimex L.,L.,,,,,genus,,B2369:1,synonym,B2369:1:51,Eusarcoris Hahn,,,,,,,Macropeltidae,,Cimex,,Macropeltidae,Cimex L.,7NSX3,2007745,7NSX3,2007745
+B2369:1:53,Eusarcoris melanocephalus F.,F.,Eusarcoris,,melanocephalus,,species,,B2369:1,accepted,,,B2369:1:51,Eusarcoris Hahn,,,,,Macropeltidae,,Eusarcoris,,Macropeltidae | Eusarcoris,melanocephalus F.,,11090740,,4485952
+B2369:1:54,Eusarcoris binotatus Hhn.,Hhn.,Eusarcoris,,binotatus,,species,,B2369:1,accepted,,,B2369:1:51,Eusarcoris Hahn,,,,,Macropeltidae,,Eusarcoris,,Macropeltidae | Eusarcoris,binotatus Hhn.,,,,5758763
+B2369:1:55,Pentatoma Oliv.,Oliv.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Pentatoma,,Macropeltidae,Pentatoma Oliv.,9KVKC,8368535,9J9VQ,8368535
+B2369:1:56,Pentatoma pinicola Muls.,Muls.,Pentatoma,,pinicola,,species,,B2369:1,accepted,,,B2369:1:55,Pentatoma Oliv.,,,,,Macropeltidae,,Pentatoma,,Macropeltidae | Pentatoma,pinicola Muls.,,9026928,,4485821
+B2369:1:57,Pentatoma juniperi L.,L.,Pentatoma,,juniperi,,species,,B2369:1,accepted,,,B2369:1:55,Pentatoma Oliv.,,,,,Macropeltidae,,Pentatoma,,Macropeltidae | Pentatoma,juniperi L.,,9401042,,4485816
+B2369:1:58,Dolycoris Muls.,Muls.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Dolycoris,,Macropeltidae,Dolycoris Muls.,,4406875,,4406875
+B2369:1:59,Mormidea Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,synonym,B2369:1:58,Dolycoris Muls.,,,,,,,Macropeltidae,,Mormidea,,Macropeltidae,Mormidea Amyot & Serv.,,2079213,,2079213
+B2369:1:60,Dolycoris baccarum L.,L.,Dolycoris,,baccarum,,species,,B2369:1,accepted,,,B2369:1:58,Dolycoris Muls.,,,,,Macropeltidae,,Dolycoris,,Macropeltidae | Dolycoris,baccarum L.,,4485824,,4485824
+B2369:1:61,Carpocoris Kolen.,Kolen.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Carpocoris,,Macropeltidae,Carpocoris Kolen.,,4405367,,4405367
+B2369:1:62,Mormidea Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,synonym,B2369:1:61,Carpocoris Kolen.,,,,,,,Macropeltidae,,Mormidea,,Macropeltidae,Mormidea Amyot & Serv.,,2079213,,2079213
+B2369:1:63,Carpocoris nigricornis F.,F.,Carpocoris,,nigricornis,,species,,B2369:1,accepted,,,B2369:1:61,Carpocoris Kolen.,,,,,Macropeltidae,,Carpocoris,,Macropeltidae | Carpocoris,nigricornis F.,,11041975,,4485798
+B2369:1:64,Strachia Hahn.,Hahn.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Strachia,,Macropeltidae,Strachia Hahn.,,4782702,,4782702
+B2369:1:65,Strachia oleracea L.,L.,Strachia,,oleracea,,species,,B2369:1,accepted,,,B2369:1:64,Strachia Hahn.,,,,,Macropeltidae,,Strachia,,Macropeltidae | Strachia,oleracia L.,,10986128,,4485898
+B2369:1:66,Strachia festiva L.,L.,Strachia,,festiva,,species,,B2369:1,accepted,,,B2369:1:64,Strachia Hahn.,,,,,Macropeltidae,,Strachia,,Macropeltidae | Strachia,festiva L.,,11030025,,4485896
+B2369:1:67,Strachia ornata L.,L.,Strachia,,ornata,,species,,B2369:1,accepted,,,B2369:1:64,Strachia Hahn.,,,,,Macropeltidae,,Strachia,,Macropeltidae | Strachia,ornata L.,,,,4485906
+B2369:1:68,Zicrona Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Zicrona,,Macropeltidae,Zicrona Amyot & Serv.,,2078941,,2078941
+B2369:1:69,Zicrona coerulea L.,L.,Zicrona,,coerulea,,species,,B2369:1,accepted,,,B2369:1:68,Zicrona Amyot & Serv.,,,,,Macropeltidae,,Zicrona,,Macropeltidae | Zicrona,coerulea L.,,9378976,,2078942
+B2369:1:70,Jalla Hahn.,Hahn.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Jalla,,Macropeltidae,Jalla Hahn.,8PMHC,3266040,8P34B,3266040
+B2369:1:71,Rhacognathus,,,,,,genus,,B2369:1,synonym,B2369:1:70,Jalla Hahn.,,,,,,,Macropeltidae,,Rhacognathus,,Macropeltidae,Rhacognathus,,2078994,,2078994
+B2369:1:72,Jalla dumosa L.,L.,Jalla,,dumosa,,species,,B2369:1,accepted,,,B2369:1:70,Jalla Hahn.,,,,,Macropeltidae,,Jalla,,Macropeltidae | Jalla,dumosa L.,,5758771,,5758771
+B2369:1:73,Picromerus Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Picromerus,,Macropeltidae,Picromerus Amyot & Serv.,BXWJM,2079126,BYMKT,2079126
+B2369:1:74,Picromerus bidens L.,L.,Picromerus,,bidens,,species,,B2369:1,accepted,,,B2369:1:73,Picromerus Amyot & Serv.,,,,,Macropeltidae,,Picromerus,,Macropeltidae | Picromerus,bidens L.,,5160015,,5160015
+B2369:1:75,Platynopus Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Platynopus,,Macropeltidae,Platynopus Amyot & Serv.,,4782522,,4782522
+B2369:1:76,Asopus Burm.,Burm.,,,,,genus,,B2369:1,synonym,B2369:1:75,Platynopus Amyot & Serv.,,,,,,,Macropeltidae,,Asopus,,Macropeltidae,Asopus Burm.,7NRDW,2079208,7Q25T,2079208
+B2369:1:77,Platynopus sanguinipes F.,F.,Platynopus,,sanguinipes,,species,,B2369:1,accepted,,,B2369:1:75,Platynopus Amyot & Serv.,,,,,Macropeltidae,,Platynopus,,Macropeltidae | Platynopus,sanguinipes F.,,,,4485978
+B2369:1:78,Rhacognathus Fieb.,Fieb.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Rhacognathus,,Macropeltidae,Rhacognathus Fieb.,,2078994,,2078994
+B2369:1:79,Rhacognathus punctatus L.,L.,Rhacognathus,,punctatus,,species,,B2369:1,accepted,,,B2369:1:78,Rhacognathus Fieb.,,,,,Macropeltidae,,Rhacognathus,,Macropeltidae | Rhacognathus,punctatus L.,,2078996,,2078996
+B2369:1:80,Podisus H. Schf.,H. Schf.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Podisus,,Macropeltidae,Podisus H. Schf.,,2079032,,2079032
+B2369:1:81,Asopus Fieb.,Fieb.,,,,,genus,,B2369:1,synonym,B2369:1:80,Podisus H. Schf.,,,,,,,Macropeltidae,,Asopus,,Macropeltidae,Asopus Fieb.,7NRDW,2079208,7Q25T,2079208
+B2369:1:82,Podisus luridus F.,F.,Podisus,,luridus,,species,,B2369:1,accepted,,,B2369:1:80,Podisus H. Schf.,,,,,Macropeltidae,,Podisus,,Macropeltidae | Podisus,luridus F.,,9867982,,4485973
+B2369:1:83,Sciocoris Fall.,Fall.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Sciocoris,,Macropeltidae,Sciocoris Fall.,,2079251,,2079251
+B2369:1:84,Sciocoris cursitans F.,F.,Sciocoris,,cursitans,,species,,B2369:1,accepted,,,B2369:1:83,Sciocoris Fall.,,,,,Macropeltidae,,Sciocoris,,Macropeltidae | Sciocoris,cursitans F.,,2079253,,2079253
+B2369:1:85,Sciocoris terreus Schr.,Schr.,Sciocoris,,terreus,,species,,B2369:1,synonym,B2369:1:84,Sciocoris cursitans F.,,,,,,,Macropeltidae,,Sciocoris,,Macropeltidae | Sciocoris,terreus Schr.,,9876318,,2079253
+B2369:1:86,Podops Lap.,Lap.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Podops,,Macropeltidae,Podops Lap.,,8882580,,8882580
+B2369:1:87,Podops inunctus F.,F.,Podops,,inunctus,,species,,B2369:1,accepted,,,B2369:1:86,Podops Lap.,,,,,Macropeltidae,,Podops,,Macropeltidae | Podops,inunctus F.,,4485704,,4485704
+B2369:1:88,Aelia F.,F.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Aelia,,Macropeltidae,Aelia F.,,2079121,,2079121
+B2369:1:89,Aelia acuminata Küst.,Küst.,Aelia,,acuminata,,species,,B2369:1,accepted,,,B2369:1:88,Aelia F.,,,,,Macropeltidae,,Aelia,,Macropeltidae | Aelia,acuminata Küst.,,2079123,,2079123
+B2369:1:90,Aelia pallida Küst.,Küst.,Aelia,,pallida,,species,,B2369:1,accepted,,,B2369:1:88,Aelia F.,,,,,Macropeltidae,,Aelia,,Macropeltidae | Aelia,pallida Küst.,,,,7906393
+B2369:1:91,Aelia rostrata Bohem,Bohem,Aelia,,rostrata,,species,,B2369:1,synonym,B2369:1:90,Aelia pallida Küst.,,,,,,,Macropeltidae,,Aelia,,Macropeltidae | Aelia,rostrata Bohem,,7906393,,7906393
+B2369:1:92,Aelia klugii Hahn,Hahn,Aelia,,klugii,,species,,B2369:1,accepted,,,B2369:1:88,Aelia F.,,,,,Macropeltidae,,Aelia,,Macropeltidae | Aelia,Klugii Hahn,,6096804,,6096804
+B2369:1:93,Platysolen Fieb.,Fieb.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Platysolen,,Macropeltidae,Platysolen Fieb.,,4780118,,4780118
+B2369:1:94,Platysolen inflexus Wlf.,Wlf.,Platysolen,,inflexus,,species,,B2369:1,accepted,,,B2369:1:93,Platysolen Fieb.,,,,,Macropeltidae,,Platysolen,,Macropeltidae | Platysolen,inflexus Wlf.,,,,4485936
