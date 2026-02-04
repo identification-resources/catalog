@@ -5,9 +5,9 @@ B590:1:3,Nomada ferghanica Mor.,Mor.,Nomada,,ferghanica,,species,,B590:1,accepte
 B590:1:4,Nomada sexfasciata Pz.,Pz.,Nomada,,sexfasciata,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada sexfasciata Pz.,,47NHV,1343381,47NHV,1343381
 B590:1:5,Nomada incisa Schmdk.,Schmdk.,Nomada,,incisa,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada incisa Schmdk.,,47N7P,1343920,47N7P,1343920
 B590:1:6,Nomada imperialis Schmdk.,Schmdk.,Nomada,,imperialis,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada imperialis Schmdk.,,47N7N,1343934,47N7N,1343934
-B590:1:7,Nomada fulvipes Brullé,Brullé,Nomada,,fulvipes,,species,,B590:1,synonym,B590:1:6,Nomada imperialis Schmdk.,,,,,,,,,Nomada,,,Nomada fulvipes Brullé,,,,,
+B590:1:7,Nomada fulvipes Brullé,Brullé,Nomada,,fulvipes,,species,,B590:1,synonym,B590:1:6,Nomada imperialis Schmdk.,,,,,,,,,Nomada,,,Nomada fulvipes Brullé,"{""synonymUncertain"":true}",,,,
 B590:1:8,Nomada cristata Pér.,Pér.,Nomada,,cristata,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada cristata Pér.,,47N2F,1343950,47N2F,1343950
-B590:1:9,Nomada imperialis Schmdk.,Schmdk.,Nomada,,imperialis,,species,,B590:1,synonym,B590:1:8,Nomada cristata Pér.,,,,,,,,,Nomada,,,Nomada imperialis Schmdk.,,47N7N,1343934,47N7N,1343934
+B590:1:9,Nomada imperialis Schmdk.,Schmdk.,Nomada,,imperialis,,species,,B590:1,synonym,B590:1:8,Nomada cristata Pér.,,,,,,,,,Nomada,,,Nomada imperialis Schmdk.,"{""synonymUncertain"":true}",47N7N,1343934,47N7N,1343934
 B590:1:10,Nomada pectoralis,,Nomada,,pectoralis,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada pectoralis,,6RYZ7,1343650,6RYZ7,1343650
 B590:1:11,Nomada pectoralis subsp. atroflava Friese,Friese,Nomada,,pectoralis,atroflava,subspecies,,B590:1,accepted,,,B590:1:10,Nomada pectoralis,,,,,,,Nomada,,Nomada pectoralis,Nomada pectoralis ssp. atroflava Friese,,,,,
 B590:1:12,Nomada sulphuripes Mor.,Mor.,Nomada,,sulphuripes,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada sulphuripes Mor.,,,,,
@@ -18,7 +18,7 @@ B590:1:16,Nomada sutepensis Cekll.,Cekll.,Nomada,,sutepensis,,species,,B590:1,ac
 B590:1:17,Nomada conspicua Smith.,Smith.,Nomada,,conspicua,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada conspicua Smith.,,47N22,1343288,47N22,1343288
 B590:1:18,Nomada fedtschenkoi Mor.,Mor.,Nomada,,fedtschenkoi,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada fedtschenkoi Mor.,,47N4K,1343388,47N4K,1343388
 B590:1:19,Nomada melanoscopa Grib.,Grib.,Nomada,,melanoscopa,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada melanoscopa Grib.,,,,,
-B590:1:20,Nomada cirtana Pér.,Pér.,Nomada,,cirtana,,species,,B590:1,synonym,B590:1:19,Nomada melanoscopa Grib.,,,,,,,,,Nomada,,,Nomada cirtana Pér.,,,,,
+B590:1:20,Nomada cirtana Pér.,Pér.,Nomada,,cirtana,,species,,B590:1,synonym,B590:1:19,Nomada melanoscopa Grib.,,,,,,,,,Nomada,,,Nomada cirtana Pér.,"{""synonymUncertain"":true}",,,,
 B590:1:21,Nomada flavinervis Brullé,Brullé,Nomada,,flavinervis,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada flavinervis Brullé,,47N54,1344019,47N54,1344019
 B590:1:22,Nomada nobilis H. S.,H. S.,Nomada,,nobilis,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada nobilis H. S.,,73Z8Z,1343366,73Z8Z,1343366
 B590:1:23,Nomada calabra Mor.,Mor.,Nomada,,calabra,,species,,B590:1,synonym,B590:1:22,Nomada nobilis H. S.,,,,,,,,,Nomada,,,Nomada calabra Mor.,,,,,
@@ -27,10 +27,10 @@ B590:1:25,Nomada sybarita Schmdk.,Schmdk.,Nomada,,sybarita,,species,,B590:1,acce
 B590:1:26,Nomada melanopyga Schmdk.,Schmdk.,Nomada,,melanopyga,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada melanopyga Schmdk.,,73YXD,1343832,73YXD,1343832
 B590:1:27,Nomada regina Friese,Friese,Nomada,,regina,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada regina Friese,,,,,
 B590:1:28,Nomada solitaria,,Nomada,,solitaria,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada solitaria,,47NJC,1344015,47NJC,1344015
-B590:1:29,Nomada flavozonata Nurse,Nurse,Nomada,,flavozonata,,species,,B590:1,synonym,B590:1:28,Nomada solitaria,,,,,,,,,Nomada,,,Nomada flavozonata Nurse,,47N57,1343971,47N57,1343971
+B590:1:29,Nomada flavozonata Nurse,Nurse,Nomada,,flavozonata,,species,,B590:1,synonym,B590:1:28,Nomada solitaria,,,,,,,,,Nomada,,,Nomada flavozonata Nurse,"{""synonymUncertain"":true}",47N57,1343971,47N57,1343971
 B590:1:30,Nomada mutica Mor.,Mor.,Nomada,,mutica,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada mutica Mor.,,47NBS,1343514,47NBS,1343514
 B590:1:31,Nomada cincta Lep.,Lep.,Nomada,,cincta,,species,nec H. S.,B590:1,synonym,B590:1:30,Nomada mutica Mor.,,,,,,,,,Nomada,,,Nomada cincta Lep. nec H. S.,,47MZC,4298439,64QG,1343230
-B590:1:32,"Nomada olympica Schmdk. nec Friese, 1904","Schmdk. nec Friese, 1904",Nomada,,olympica,,species,,B590:1,synonym,B590:1:30,Nomada mutica Mor.,,,,,,,,,Nomada,,,"olympica Schmdk. nec Friese, 1904",,,,,
+B590:1:32,"Nomada olympica Schmdk. nec Friese, 1904","Schmdk. nec Friese, 1904",Nomada,,olympica,,species,,B590:1,synonym,B590:1:30,Nomada mutica Mor.,,,,,,,,,Nomada,,,"olympica Schmdk. nec Friese, 1904","{""synonymUncertain"":true}",,,,
 B590:1:33,Nomada pintosi Dusmet,Dusmet,Nomada,,pintosi,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada pintosi Dusmet,,,,,
 B590:1:34,Nomada illustris Schdmk.,Schdmk.,Nomada,,illustris,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada illustris Schdmk.,,47N7K,1343964,47N7K,1343964
 B590:1:35,Nomada accentifera Pér.,Pér.,Nomada,,accentifera,,species,,B590:1,accepted,,,,,,,,,,,Nomada,,,Nomada accentifera Pér.,,47MVP,1343901,47MVP,1343901

@@ -7,7 +7,7 @@ B2304:1:5,Anasimyia lunulata,,Anasimyia,,lunulata,,species,,B2304:1,accepted,,,B
 B2304:1:6,Anasimyia transfuga,,Anasimyia,,transfuga,,species,,B2304:1,accepted,,,B2304:1:2,Anasimyia,,,,,Syrphidae,,Anasimyia,,Syrphidae | Anasimyia,transfuga,,9HH4K,4516795,9HH4K,4516795
 B2304:1:7,Baccha,,,,,,genus,,B2304:1,accepted,,,B2304:1:1,Syrphidae,,,,,Syrphidae,,Baccha,,Syrphidae,Baccha,,BY7XW,1536538,BY7XW,1536538
 B2304:1:8,Baccha elongata,,Baccha,,elongata,,species,,B2304:1,accepted,,,B2304:1:7,Baccha,,,,,Syrphidae,,Baccha,,Syrphidae | Baccha,elongata,,K6V8,1536559,K6V8,1536559
-B2304:1:9,Baccha obscuripennis,,Baccha,,obscuripennis,,species,,B2304:1,synonym,B2304:1:8,Baccha elongata,,,,,,,Syrphidae,,Baccha,,Syrphidae | Baccha,obscuripennis,,CNHGZ,1536556,K6WQ,1536555
+B2304:1:9,Baccha obscuripennis,,Baccha,,obscuripennis,,species,,B2304:1,synonym,B2304:1:8,Baccha elongata,,,,,,,Syrphidae,,Baccha,,Syrphidae | Baccha,obscuripennis,"{""synonymUncertain"":true}",CNHGZ,1536556,K6WQ,1536555
 B2304:1:10,Blera,,,,,,genus,,B2304:1,accepted,,,B2304:1:1,Syrphidae,,,,,Syrphidae,,Blera,,Syrphidae,Blera,,BY897,1536144,BY897,1536144
 B2304:1:11,Blera fallax,,Blera,,fallax,,species,,B2304:1,accepted,,,B2304:1:10,Blera,,,,,Syrphidae,,Blera,,Syrphidae | Blera,fallax,,M6MW,5071107,M6MW,5071107
 B2304:1:12,Brachyopa,,,,,,genus,,B2304:1,accepted,,,B2304:1:1,Syrphidae,,,,,Syrphidae,,Brachyopa,,Syrphidae,Brachyopa,,BY8GX,1534367,BY8GX,1534367
@@ -187,7 +187,7 @@ B2304:1:185,Eristalis oestracea,,Eristalis,,oestracea,,species,,B2304:1,accepted
 B2304:1:186,Eristalis pertinax,,Eristalis,,pertinax,,species,,B2304:1,accepted,,,B2304:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,pertinax,,9HDXX,1541116,9HDXX,1541116
 B2304:1:187,Eristalis picea,,Eristalis,,picea,,species,,B2304:1,accepted,,,B2304:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,picea,,,4516879,,1541339
 B2304:1:188,Eristalis pseudorupium,,Eristalis,,pseudorupium,,species,,B2304:1,accepted,,,B2304:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,pseudorupium,,,1541291,,1541171
-B2304:1:189,Eristalis obscura,,Eristalis,,obscura,,species,,B2304:1,synonym,B2304:1:188,Eristalis pseudorupium,,,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,obscura,,9H9SV,1541171,9H9SV,1541171
+B2304:1:189,Eristalis obscura,,Eristalis,,obscura,,species,,B2304:1,synonym,B2304:1:188,Eristalis pseudorupium,,,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,obscura,"{""synonymUncertain"":true}",9H9SV,1541171,9H9SV,1541171
 B2304:1:190,Eristalis rupium,,Eristalis,,rupium,,species,,B2304:1,accepted,,,B2304:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,rupium,,9H9T6,1541339,9H9T6,1541339
 B2304:1:191,Eristalis similis,,Eristalis,,similis,,species,,B2304:1,accepted,,,B2304:1:173,Eristalis,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,similis,,8C3NK,4516874,8C3NK,1541116
 B2304:1:192,Eristalis pratorum,,Eristalis,,pratorum,,species,,B2304:1,synonym,B2304:1:191,Eristalis similis,,,,,,,Syrphidae,,Eristalis,,Syrphidae | Eristalis,pratorum,,CNQZH,1541321,8C3NK,1541321
@@ -258,7 +258,7 @@ B2304:1:256,Melangyna,,,,,,genus,,B2304:1,accepted,,,B2304:1:1,Syrphidae,,,,,Syr
 B2304:1:257,Melangyna arctica,,Melangyna,,arctica,,species,,B2304:1,accepted,,,B2304:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,arctica,,8CSND,1536664,8CSND,1536664
 B2304:1:258,Melangyna barbifrons,,Melangyna,,barbifrons,,species,,B2304:1,accepted,,,B2304:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,barbifrons,,8CSNG,11245573,8CSNG,11245573
 B2304:1:259,Melangyna compositarum,,Melangyna,,compositarum,,species,,B2304:1,accepted,,,B2304:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,compositarum,,CQQQG,4516896,CQQQG,1536643
-B2304:1:260,Melangyna labiatarum,,Melangyna,,labiatarum,,species,,B2304:1,synonym,B2304:1:259,Melangyna compositarum,,,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,labiatarum,,8CSNM,1536607,8CSNM,1536607
+B2304:1:260,Melangyna labiatarum,,Melangyna,,labiatarum,,species,,B2304:1,synonym,B2304:1:259,Melangyna compositarum,,,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,labiatarum,"{""synonymUncertain"":true}",8CSNM,1536607,8CSNM,1536607
 B2304:1:261,Melangyna ericarum,,Melangyna,,ericarum,,species,,B2304:1,accepted,,,B2304:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,ericarum,,8CSNJ,1536631,8CSNJ,1536631
 B2304:1:262,Melangyna lasiophthalma,,Melangyna,,lasiophthalma,,species,,B2304:1,accepted,,,B2304:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,lasiophthalma,,8CSNN,1536675,8CSNN,1536675
 B2304:1:263,Melangyna lucifera,,Melangyna,,lucifera,,species,,B2304:1,accepted,,,B2304:1:256,Melangyna,,,,,Syrphidae,,Melangyna,,Syrphidae | Melangyna,lucifera,,8CSNP,1536697,8CSNP,1536697

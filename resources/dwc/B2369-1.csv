@@ -21,7 +21,7 @@ B2369:1:19,Legnotus Schiø.,Schiø.,,,,,genus,,B2369:1,accepted,,,B2369:1:11,Cyd
 B2369:1:20,Sehirus Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,synonym,B2369:1:19,Legnotus Schiø.,,,,,,,Cydnidae,,Sehirus,,Cydnidae,Sehirus Amyot & Serv.,,,2078780,,2078780
 B2369:1:21,Legnotus morio L.,L.,Legnotus,,morio,,species,,B2369:1,accepted,,,B2369:1:19,Legnotus Schiø.,,,,,Cydnidae,,Legnotus,,Cydnidae | Legnotus,morio L.,,,,,2078781
 B2369:1:22,Legnotus luctuosus L.,L.,Legnotus,,luctuosus,,species,,B2369:1,accepted,,,B2369:1:19,Legnotus Schiø.,,,,,Cydnidae,,Legnotus,,Cydnidae | Legnotus,luctuosus L.,,,,,4486163
-B2369:1:23,Legnotus affinis H. Sch.,H. Sch.,Legnotus,,affinis,,species,,B2369:1,synonym,B2369:1:22,Legnotus luctuosus L.,,,,,,,Cydnidae,,Legnotus,,Cydnidae | Legnotus,affinis H. Sch.,,,,,
+B2369:1:23,Legnotus affinis H. Sch.,H. Sch.,Legnotus,,affinis,,species,,B2369:1,synonym,B2369:1:22,Legnotus luctuosus L.,,,,,,,Cydnidae,,Legnotus,,Cydnidae | Legnotus,affinis H. Sch.,"{""synonymUncertain"":true}",,,,
 B2369:1:24,Tritomegas Amyot & Serv.,Amyot & Serv.,,,,,genus,,B2369:1,accepted,,,B2369:1:11,Cydnidae,,,,,Cydnidae,,Tritomegas,,Cydnidae,Tritomegas Amyot & Serv.,,,3265258,,3265258
 B2369:1:25,Sehirus,,,,,,genus,,B2369:1,synonym,B2369:1:24,Tritomegas Amyot & Serv.,,,,,,,Cydnidae,,Sehirus,,Cydnidae,Sehirus,,,2078780,,2078780
 B2369:1:26,Tritomegas bicolor L.,L.,Tritomegas,,bicolor,,species,,B2369:1,accepted,,,B2369:1:24,Tritomegas Amyot & Serv.,,,,,Cydnidae,,Tritomegas,,Cydnidae | Tritomegas,bicolor L.,,,5758805,,5758805
@@ -89,7 +89,7 @@ B2369:1:87,Podops inunctus F.,F.,Podops,,inunctus,,species,,B2369:1,accepted,,,B
 B2369:1:88,Aelia F.,F.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Aelia,,Macropeltidae,Aelia F.,,,2079121,,2079121
 B2369:1:89,Aelia acuminata Küst.,Küst.,Aelia,,acuminata,,species,,B2369:1,accepted,,,B2369:1:88,Aelia F.,,,,,Macropeltidae,,Aelia,,Macropeltidae | Aelia,acuminata Küst.,,,2079123,,2079123
 B2369:1:90,Aelia pallida Küst.,Küst.,Aelia,,pallida,,species,,B2369:1,accepted,,,B2369:1:88,Aelia F.,,,,,Macropeltidae,,Aelia,,Macropeltidae | Aelia,pallida Küst.,,,,,7906393
-B2369:1:91,Aelia rostrata Bohem,Bohem,Aelia,,rostrata,,species,,B2369:1,synonym,B2369:1:90,Aelia pallida Küst.,,,,,,,Macropeltidae,,Aelia,,Macropeltidae | Aelia,rostrata Bohem,,,7906393,,7906393
+B2369:1:91,Aelia rostrata Bohem,Bohem,Aelia,,rostrata,,species,,B2369:1,synonym,B2369:1:90,Aelia pallida Küst.,,,,,,,Macropeltidae,,Aelia,,Macropeltidae | Aelia,rostrata Bohem,"{""synonymUncertain"":true}",,7906393,,7906393
 B2369:1:92,Aelia klugii Hahn,Hahn,Aelia,,klugii,,species,,B2369:1,accepted,,,B2369:1:88,Aelia F.,,,,,Macropeltidae,,Aelia,,Macropeltidae | Aelia,Klugii Hahn,"{""identifiable"":false}",,6096804,,6096804
 B2369:1:93,Platysolen Fieb.,Fieb.,,,,,genus,,B2369:1,accepted,,,B2369:1:30,Macropeltidae,,,,,Macropeltidae,,Platysolen,,Macropeltidae,Platysolen Fieb.,,,4780118,,4780118
 B2369:1:94,Platysolen inflexus Wlf.,Wlf.,Platysolen,,inflexus,,species,,B2369:1,accepted,,,B2369:1:93,Platysolen Fieb.,,,,,Macropeltidae,,Platysolen,,Macropeltidae | Platysolen,inflexus Wlf.,,,,,4485936
