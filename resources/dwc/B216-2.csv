@@ -26,7 +26,7 @@ B216:2:24,Exothecini,,,,,,tribe,,B216:2,accepted,,,B216:2:16,Rogadinae,,,,,Braco
 B216:2:25,"Colastes Haliday, 1833","Haliday, 1833",,,,,genus,,B216:2,accepted,,,B216:2:24,Exothecini,,,,,Braconidae,Rogadinae,Colastes,,Braconidae | Rogadinae | Exothecini,"COLASTES Haliday, 1833",,CD3G8,1264019,CD3G8,1264019
 B216:2:26,"Exothecus Wesmael, 1838","Wesmael, 1838",,,,,genus,,B216:2,synonym,B216:2:25,"Colastes Haliday, 1833",,,,,,,Braconidae,Rogadinae,Exothecus,,Braconidae | Rogadinae | Exothecini,"EXOTHECUS Wesmael, 1838",,,4676272,,4676272
 B216:2:27,"Shawiana van Achterberg, 1983","van Achterberg, 1983",,,,,genus,,B216:2,accepted,,,B216:2:24,Exothecini,,,,,Braconidae,Rogadinae,Shawiana,,Braconidae | Rogadinae | Exothecini,"SHAWIANA van Achterberg, 1983",,,4510968,,4510968
-B216:2:28,Phanomeris,,,,,,genus,auctt.,B216:2,synonym,B216:2:27,"Shawiana van Achterberg, 1983",,,,,,,Braconidae,Rogadinae,Phanomeris,,Braconidae | Rogadinae | Exothecini,PHANOMERIS auctt.,,,4679671,,4679671
+B216:2:28,Phanomeris,,,,,,genus,auctt.,B216:2,misapplied,B216:2:27,"Shawiana van Achterberg, 1983",,,,,,,Braconidae,Rogadinae,Phanomeris,,Braconidae | Rogadinae | Exothecini,PHANOMERIS auctt.,,,4679671,,4679671
 B216:2:29,"Xenarcha Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepted,,,B216:2:24,Exothecini,,,,,Braconidae,Rogadinae,Xenarcha,,Braconidae | Rogadinae | Exothecini,"XENARCHA Foerster, 1862",,,9510697,,9510697
 B216:2:30,"Phanomeris Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,synonym,B216:2:29,"Xenarcha Foerster, 1862",,,,,,,Braconidae,Rogadinae,Phanomeris,,Braconidae | Rogadinae | Exothecini,"PHANOMERIS Foerster, 1862",,,4679671,,4679671
 B216:2:31,Rhyssalini,,,,,,tribe,,B216:2,accepted,,,B216:2:16,Rogadinae,,,,,Braconidae,Rogadinae,,,Braconidae | Rogadinae,RHYSSALINI,,,,,
@@ -34,7 +34,7 @@ B216:2:32,"Rhyssalus Haliday, 1833","Haliday, 1833",,,,,genus,,B216:2,accepted,,
 B216:2:33,"Dolopsidea Hincks, 1944","Hincks, 1944",,,,,genus,,B216:2,accepted,,,B216:2:31,Rhyssalini,,,,,Braconidae,Rogadinae,Dolopsidea,,Braconidae | Rogadinae | Rhyssalini,"DOLOPSIDEA Hincks, 1944",,CD6LG,1261591,CD6LG,1261591
 B216:2:34,"Dolops Marshall, 1889","Marshall, 1889",,,,,genus,preoccupied,B216:2,synonym,B216:2:33,"Dolopsidea Hincks, 1944",,,,,,,Braconidae,Rogadinae,Dolops,,Braconidae | Rogadinae | Rhyssalini,"DOLOPS Marshall, 1889 preoccupied",,,3258492,,3258492
 B216:2:35,"Pseudobathystomus Belokobylskij, 1986","Belokobylskij, 1986",,,,,genus,,B216:2,accepted,,,B216:2:31,Rhyssalini,,,,,Braconidae,Rogadinae,Pseudobathystomus,,Braconidae | Rogadinae | Rhyssalini,"PSEUDOBATHYSTOMUS Belokobylskij, 1986",,CDZLC,1263311,CDZLC,1263311
-B216:2:36,Bathystomus,,,,,,genus,auctt.,B216:2,synonym,B216:2:35,"Pseudobathystomus Belokobylskij, 1986",,,,,,,Braconidae,Rogadinae,Bathystomus,,Braconidae | Rogadinae | Rhyssalini,BATHYSTOMUS auctt.,,,4511856,,4511856
+B216:2:36,Bathystomus,,,,,,genus,auctt.,B216:2,misapplied,B216:2:35,"Pseudobathystomus Belokobylskij, 1986",,,,,,,Braconidae,Rogadinae,Bathystomus,,Braconidae | Rogadinae | Rhyssalini,BATHYSTOMUS auctt.,,,4511856,,4511856
 B216:2:37,"Oncophanes Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepted,,,B216:2:31,Rhyssalini,,,,,Braconidae,Rogadinae,Oncophanes,,Braconidae | Rogadinae | Rhyssalini,"ONCOPHANES Foerster, 1862",,CDPGY,1271869,CDPGY,1271869
 B216:2:38,"Rhysipolis Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepted,,,B216:2:31,Rhyssalini,,,,,Braconidae,Rogadinae,Rhysipolis,,Braconidae | Rogadinae | Rhyssalini,"RHYSIPOLIS Foerster, 1862",,CDYW9,1261861,CDYW9,1261861
 B216:2:39,Rogadini,,,,,,tribe,,B216:2,accepted,,,B216:2:16,Rogadinae,,,,,Braconidae,Rogadinae,,,Braconidae | Rogadinae,ROGADINI,,,,,
@@ -43,8 +43,8 @@ B216:2:41,"Rogas Nees von Esenbeck, 1818","Nees von Esenbeck, 1818",,,,,genus,,B
 B216:2:42,"Pelecystoma Wesmael, 1838","Wesmael, 1838",,,,,genus,,B216:2,synonym,B216:2:41,"Rogas Nees von Esenbeck, 1818",,,,,,,Braconidae,Rogadinae,Pelecystoma,,Braconidae | Rogadinae | Rogadini,"PELECYSTOMA Wesmael, 1838",,,4675915,,4675915
 B216:2:43,"Aleiodes Wesmael, 1838","Wesmael, 1838",,,,,genus,,B216:2,accepted,,,B216:2:39,Rogadini,,,,,Braconidae,Rogadinae,Aleiodes,,Braconidae | Rogadinae | Rogadini,"ALEIODES Wesmael, 1838",,RPJ,1264699,RPJ,1264699
 B216:2:44,"Heterogamus Wesmaei, 1838","Wesmaei, 1838",,,,,genus,,B216:2,synonym,B216:2:43,"Aleiodes Wesmael, 1838",,,,,,,Braconidae,Rogadinae,Heterogamus,,Braconidae | Rogadinae | Rogadini,"HETEROGAMUS Wesmaei, 1838",,62V4S,1251609,62V4S,1251609
-B216:2:45,Rogas,,,,,,genus,auctt.,B216:2,synonym,B216:2:43,"Aleiodes Wesmael, 1838",,,,,,,Braconidae,Rogadinae,Rogas,,Braconidae | Rogadinae | Rogadini,ROGAS auctt.,,63S4Z,1255961,63S4Z,1255961
-B216:2:46,Rhogas,,,,,,genus,auctt.,B216:2,synonym,B216:2:43,"Aleiodes Wesmael, 1838",,,,,,,Braconidae,Rogadinae,Rhogas,,Braconidae | Rogadinae | Rogadini,RHOGAS auctt.,,,4676084,,1255961
+B216:2:45,Rogas,,,,,,genus,auctt.,B216:2,misapplied,B216:2:43,"Aleiodes Wesmael, 1838",,,,,,,Braconidae,Rogadinae,Rogas,,Braconidae | Rogadinae | Rogadini,ROGAS auctt.,,63S4Z,1255961,63S4Z,1255961
+B216:2:46,Rhogas,,,,,,genus,auctt.,B216:2,misapplied,B216:2:43,"Aleiodes Wesmael, 1838",,,,,,,Braconidae,Rogadinae,Rhogas,,Braconidae | Rogadinae | Rogadini,RHOGAS auctt.,,,4676084,,1255961
 B216:2:47,"Petalodes Wesmael, 1838","Wesmael, 1838",,,,,genus,,B216:2,synonym,B216:2:43,"Aleiodes Wesmael, 1838",,,,,,,Braconidae,Rogadinae,Petalodes,,Braconidae | Rogadinae | Rogadini,"PETALODES Wesmael, 1838",,6LXG,1251723,6LXG,1251723
 B216:2:48,Braconinae,,,,,,subfamily,,B216:2,accepted,,,B216:2:1,Braconidae,,,,,Braconidae,Braconinae,,,Braconidae,BRACONINAE,,,,,
 B216:2:49,Braconini,,,,,,tribe,,B216:2,accepted,,,B216:2:48,Braconinae,,,,,Braconidae,Braconinae,,,Braconidae | Braconinae,BRACONINI,,,,,
@@ -58,7 +58,7 @@ B216:2:56,"Coeloides Wesmael, 1838","Wesmael, 1838",,,,,genus,,B216:2,accepted,,
 B216:2:57,Glyptomorphini,,,,,,tribe,,B216:2,accepted,,,B216:2:48,Braconinae,,,,,Braconidae,Braconinae,,,Braconidae | Braconinae,GLYPTOMORPHINI,,,,,
 B216:2:58,"Glyptomorpha Holmgren, 1868","Holmgren, 1868",,,,,genus,,B216:2,accepted,,,B216:2:57,Glyptomorphini,,,,,Braconidae,Braconinae,Glyptomorpha,,Braconidae | Braconinae | Glyptomorphini,"GLYPTOMORPHA Holmgren, 1868",,4PG7,1250767,4PG7,1250767
 B216:2:59,"Isomecus Kriechbaumer, 1895","Kriechbaumer, 1895",,,,,genus,,B216:2,accepted,,,B216:2:57,Glyptomorphini,,,,,Braconidae,Braconinae,Isomecus,,Braconidae | Braconinae | Glyptomorphini,"ISOMECUS Kriechbaumer, 1895",,,4676175,,4676175
-B216:2:60,Vipio,,,,,,genus,auctt.,B216:2,synonym,B216:2:59,"Isomecus Kriechbaumer, 1895",,,,,,,Braconidae,Braconinae,Vipio,,Braconidae | Braconinae | Glyptomorphini,VIPIO auctt.,,86VW,1260255,86VW,1260255
+B216:2:60,Vipio,,,,,,genus,auctt.,B216:2,misapplied,B216:2:59,"Isomecus Kriechbaumer, 1895",,,,,,,Braconidae,Braconinae,Vipio,,Braconidae | Braconinae | Glyptomorphini,VIPIO auctt.,,86VW,1260255,86VW,1260255
 B216:2:61,Histeromerinae,,,,,,subfamily,,B216:2,accepted,,,B216:2:1,Braconidae,,,,,Braconidae,Histeromerinae,,,Braconidae,HISTEROMERINAE,,,,,
 B216:2:62,"Histeromerus Wesmael, 1838","Wesmael, 1838",,,,,genus,,B216:2,accepted,,,B216:2:61,Histeromerinae,,,,,Braconidae,Histeromerinae,Histeromerus,,Braconidae | Histeromerinae,"HISTEROMERUS Wesmael, 1838",,CDF9M,1265360,CDF9M,1265360
 B216:2:63,Opiinae,,,,,,subfamily,,B216:2,accepted,,,B216:2:1,Braconidae,,,,,Braconidae,Opiinae,,,Braconidae,OPIINAE,,,,,
@@ -84,7 +84,7 @@ B216:2:82,"Dinotrema Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepted
 B216:2:83,"Prosapha Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,synonym,B216:2:82,"Dinotrema Foerster, 1862",,,,,,,Braconidae,Alysiinae,Prosapha,,Braconidae | Alysiinae | Alysiini,"PROSAPHA Foerster, 1862",,,4669620,,4669620
 B216:2:84,"Synaldis Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,synonym,B216:2:82,"Dinotrema Foerster, 1862",,,,,,,Braconidae,Alysiinae,Synaldis,,Braconidae | Alysiinae | Alysiini,"SYNALDIS Foerster, 1862",,7QYY,1256612,7QYY,1256612
 B216:2:85,"Aspilota Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepted,,,B216:2:73,Alysiini,,,,,Braconidae,Alysiinae,Aspilota,,Braconidae | Alysiinae | Alysiini,"ASPILOTA Foerster, 1862",,3467,1258130,3467,1258130
-B216:2:86,Synaldis,,,,,,genus,"auctt., in part",B216:2,heterotypic synonym,B216:2:85,"Aspilota Foerster, 1862",,,,,,,Braconidae,Alysiinae,Synaldis,,Braconidae | Alysiinae | Alysiini,"SYNALDIS auctt., in part",,7QYY,1256612,7QYY,1256612
+B216:2:86,Synaldis,,,,,,genus,"auctt., in part",B216:2,misapplied,B216:2:85,"Aspilota Foerster, 1862",,,,,,,Braconidae,Alysiinae,Synaldis,,Braconidae | Alysiinae | Alysiini,"SYNALDIS auctt., in part",,7QYY,1256612,7QYY,1256612
 B216:2:87,"Leptotrema van Achterberg, 1988","van Achterberg, 1988",,,,,genus,,B216:2,accepted,,,B216:2:73,Alysiini,,,,,Braconidae,Alysiinae,Leptotrema,,Braconidae | Alysiinae | Alysiini,"LEPTOTREMA van Achterberg, 1988",,,3258486,,3258486
 B216:2:88,"Eudinostigma Tobias, 1986","Tobias, 1986",,,,,genus,,B216:2,accepted,,,B216:2:73,Alysiini,,,,,Braconidae,Alysiinae,Eudinostigma,,Braconidae | Alysiinae | Alysiini,"EUDINOSTIGMA Tobias, 1986",,4FGD,1257969,4FGD,1257969
 B216:2:89,"Panerema Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepted,,,B216:2:73,Alysiini,,,,,Braconidae,Alysiinae,Panerema,,Braconidae | Alysiinae | Alysiini,"PANEREMA Foerster, 1862",,63JDV,1251344,63JDV,1251344
@@ -120,7 +120,7 @@ B216:2:118,"Coloneura Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepte
 B216:2:119,"Dacnusa Haliday, 1833","Haliday, 1833",,,,,genus,,B216:2,accepted,,,B216:2:103,Dacnusini,,,,,Braconidae,Alysiinae,Dacnusa,,Braconidae | Alysiinae | Dacnusini,"DACNUSA Haliday, 1833",,CD3ZB,1251434,CD3ZB,1251434
 B216:2:120,Gnamptodontinae,,,,,,subfamily,,B216:2,accepted,,,B216:2:1,Braconidae,,,,,Braconidae,Gnamptodontinae,,,Braconidae,GNAMPTODONTINAE,,,,,
 B216:2:121,"Gnamptodon Haliday, 1836","Haliday, 1836",,,,,genus,,B216:2,accepted,,,B216:2:120,Gnamptodontinae,,,,,Braconidae,Gnamptodontinae,Gnamptodon,,Braconidae | Gnamptodontinae,"GNAMPTODON Haliday, 1836",,CDCZ4,1265921,CDCZ4,1265921
-B216:2:122,Gnaptodon,,,,,,genus,auctt.,B216:2,synonym,B216:2:121,"Gnamptodon Haliday, 1836",,,,,,,Braconidae,Gnamptodontinae,Gnaptodon,,Braconidae | Gnamptodontinae,GNAPTODON auctt.,,,4676026,,1265921
+B216:2:122,Gnaptodon,,,,,,genus,auctt.,B216:2,misapplied,B216:2:121,"Gnamptodon Haliday, 1836",,,,,,,Braconidae,Gnamptodontinae,Gnaptodon,,Braconidae | Gnamptodontinae,GNAPTODON auctt.,,,4676026,,1265921
 B216:2:123,Ichneutinae,,,,,,subfamily,,B216:2,accepted,,,B216:2:1,Braconidae,,,,,Braconidae,Ichneutinae,,,Braconidae,ICHNEUTINAE,,,,,
 B216:2:124,Ichneutini,,,,,,tribe,,B216:2,accepted,,,B216:2:123,Ichneutinae,,,,,Braconidae,Ichneutinae,,,Braconidae | Ichneutinae,ICHNEUTINI,,,,,
 B216:2:125,"Ichneutes Nees von Esenbeck, 1818","Nees von Esenbeck, 1818",,,,,genus,,B216:2,accepted,,,B216:2:124,Ichneutini,,,,,Braconidae,Ichneutinae,Ichneutes,,Braconidae | Ichneutinae | Ichneutini,"ICHNEUTES Nees von Esenbeck, 1818",,53CY,1265574,53CY,1265574
@@ -131,7 +131,7 @@ B216:2:129,"Mirax Haliday, 1833","Haliday, 1833",,,,,genus,,B216:2,accepted,,,B2
 B216:2:130,Adeliinae,,,,,,tribe,,B216:2,accepted,,,B216:2:123,Ichneutinae,,,,,Braconidae,Ichneutinae,,,Braconidae | Ichneutinae,ADELIINAE,,,,,
 B216:2:131,"Adelius Haliday, 1833","Haliday, 1833",,,,,genus,,B216:2,accepted,,,B216:2:130,Adeliinae,,,,,Braconidae,Ichneutinae,Adelius,,Braconidae | Ichneutinae | Adeliinae,"ADELIUS Haliday, 1833",,6287M,1254580,6287M,1254580
 B216:2:132,"Acaelius Haliday, 1834","Haliday, 1834",,,,,genus,,B216:2,synonym,B216:2:131,"Adelius Haliday, 1833",,,,,,,Braconidae,Ichneutinae,Acaelius,,Braconidae | Ichneutinae | Adeliinae,"ACAELIUS Haliday, 1834",,,4675859,,1254580
-B216:2:133,Acoelius,,,,,,genus,auctt.,B216:2,synonym,B216:2:131,"Adelius Haliday, 1833",,,,,,,Braconidae,Ichneutinae,Acoelius,,Braconidae | Ichneutinae | Adeliinae,ACOELIUS auctt.,,,7722547,,1254580
+B216:2:133,Acoelius,,,,,,genus,auctt.,B216:2,misapplied,B216:2:131,"Adelius Haliday, 1833",,,,,,,Braconidae,Ichneutinae,Acoelius,,Braconidae | Ichneutinae | Adeliinae,ACOELIUS auctt.,,,7722547,,1254580
 B216:2:134,Aphidiinae,,,,,,subfamily,,B216:2,accepted,,,B216:2:1,Braconidae,,,,,Braconidae,Aphidiinae,,,Braconidae,APHIDIINAE,,,,,
 B216:2:135,Ephedrini,,,,,,tribe,,B216:2,accepted,,,B216:2:134,Aphidiinae,,,,,Braconidae,Aphidiinae,,,Braconidae | Aphidiinae,EPHEDRINI,,,,,
 B216:2:136,"Ephedrus Haliday, 1833","Haliday, 1833",,,,,genus,,B216:2,accepted,,,B216:2:135,Ephedrini,,,,,Braconidae,Aphidiinae,Ephedrus,,Braconidae | Aphidiinae | Ephedrini,"EPHEDRUS Haliday, 1833",,CDBW2,1263391,CDBW2,1263391
@@ -189,7 +189,7 @@ B216:2:187,Perilitini,,,,,,tribe,,B216:2,accepted,,,B216:2:186,Euphorinae,,,,,Br
 B216:2:188,"Perilitus Nees von Esenbeck, 1818","Nees von Esenbeck, 1818",,,,,genus,,B216:2,accepted,,,B216:2:187,Perilitini,,,,,Braconidae,Euphorinae,Perilitus,,Braconidae | Euphorinae | Perilitini,"PERILITUS Nees von Esenbeck, 1818",,6LB4,1250459,6LB4,1250459
 B216:2:189,Dinocampini,,,,,,tribe,,B216:2,accepted,,,B216:2:186,Euphorinae,,,,,Braconidae,Euphorinae,,,Braconidae | Euphorinae,DINOCAMPINI,,,,,
 B216:2:190,"Dinocampus Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepted,,,B216:2:189,Dinocampini,,,,,Braconidae,Euphorinae,Dinocampus,,Braconidae | Euphorinae | Dinocampini,"DINOCAMPUS Foerster, 1862",,45RJ,1252428,45RJ,1252428
-B216:2:191,Perilitus,,,,,,genus,"auctt., in part",B216:2,heterotypic synonym,B216:2:190,"Dinocampus Foerster, 1862",,,,,,,Braconidae,Euphorinae,Perilitus,,Braconidae | Euphorinae | Dinocampini,"PERILITUS auctt., in part",,6LB4,1250459,6LB4,1250459
+B216:2:191,Perilitus,,,,,,genus,"auctt., in part",B216:2,misapplied,B216:2:190,"Dinocampus Foerster, 1862",,,,,,,Braconidae,Euphorinae,Perilitus,,Braconidae | Euphorinae | Dinocampini,"PERILITUS auctt., in part",,6LB4,1250459,6LB4,1250459
 B216:2:192,"Ropalophorus Curtis, 1837","Curtis, 1837",,,,,genus,,B216:2,accepted,,,B216:2:189,Dinocampini,,,,,Braconidae,Euphorinae,Ropalophorus,,Braconidae | Euphorinae | Dinocampini,"ROPALOPHORUS Curtis, 1837",,63S73,5023208,63S73,5023208
 B216:2:193,Euphorini,,,,,,tribe,,B216:2,accepted,,,B216:2:186,Euphorinae,,,,,Braconidae,Euphorinae,,,Braconidae | Euphorinae,EUPHORINI,,,,,
 B216:2:194,"Wesmaelia Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepted,,,B216:2:193,Euphorini,,,,,Braconidae,Euphorinae,Wesmaelia,,Braconidae | Euphorinae | Euphorini,"WESMAELIA Foerster, 1862",,87TM,1250824,87TM,1250824
@@ -218,10 +218,10 @@ B216:2:216,"Syntretus Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepte
 B216:2:217,Homolobinae,,,,,,subfamily,,B216:2,accepted,,,B216:2:1,Braconidae,,,,,Braconidae,Homolobinae,,,Braconidae,HOMOLOBINAE,,,,,
 B216:2:218,Homolobini,,,,,,tribe,,B216:2,accepted,,,B216:2:217,Homolobinae,,,,,Braconidae,Homolobinae,,,Braconidae | Homolobinae,HOMOLOBINI,,,,,
 B216:2:219,"Homolobus Foerster, 1862","Foerster, 1862",,,,,genus,,B216:2,accepted,,,B216:2:218,Homolobini,,,,,Braconidae,Homolobinae,Homolobus,,Braconidae | Homolobinae | Homolobini,"HOMOLOBUS Foerster, 1862",,4YDG,1254901,4YDG,1254901
-B216:2:220,Zele,,,,,,genus,auctt.,B216:2,synonym,B216:2:219,"Homolobus Foerster, 1862",,,,,,,Braconidae,Homolobinae,Zele,,Braconidae | Homolobinae | Homolobini,ZELE auctt.,,6499P,1252248,6499P,1252248
+B216:2:220,Zele,,,,,,genus,auctt.,B216:2,misapplied,B216:2:219,"Homolobus Foerster, 1862",,,,,,,Braconidae,Homolobinae,Zele,,Braconidae | Homolobinae | Homolobini,ZELE auctt.,,6499P,1252248,6499P,1252248
 B216:2:221,Charmontini,,,,,,tribe,,B216:2,accepted,,,B216:2:217,Homolobinae,,,,,Braconidae,Homolobinae,,,Braconidae | Homolobinae,CHARMONTINI,,,,,
 B216:2:222,"Charmon Haliday, 1833","Haliday, 1833",,,,,genus,,B216:2,accepted,,,B216:2:221,Charmontini,,,,,Braconidae,Homolobinae,Charmon,,Braconidae | Homolobinae | Charmontini,"CHARMON Haliday, 1833",,3MB6,1254530,3MB6,1254530
-B216:2:223,Eubadizon,,,,,,genus,"auctt., in part",B216:2,heterotypic synonym,B216:2:222,"Charmon Haliday, 1833",,,,,,,Braconidae,Homolobinae,Eubadizon,,Braconidae | Homolobinae | Charmontini,"EUBADIZON auctt., in part",,,4676041,,1254530
+B216:2:223,Eubadizon,,,,,,genus,"auctt., in part",B216:2,misapplied,B216:2:222,"Charmon Haliday, 1833",,,,,,,Braconidae,Homolobinae,Eubadizon,,Braconidae | Homolobinae | Charmontini,"EUBADIZON auctt., in part",,,4676041,,1254530
 B216:2:224,Sigalphinae,,,,,,subfamily,,B216:2,accepted,,,B216:2:1,Braconidae,,,,,Braconidae,Sigalphinae,,,Braconidae,SIGALPHINAE,,,,,
 B216:2:225,Acampsini,,,,,,tribe,,B216:2,accepted,,,B216:2:224,Sigalphinae,,,,,Braconidae,Sigalphinae,,,Braconidae | Sigalphinae,ACAMPSINI,,,,,
 B216:2:226,"Acampsis Wesmael, 1835","Wesmael, 1835",,,,,genus,,B216:2,accepted,,,B216:2:225,Acampsini,,,,,Braconidae,Sigalphinae,Acampsis,,Braconidae | Sigalphinae | Acampsini,"ACAMPSIS Wesmael, 1835",,LXF,1253567,LXF,1253567

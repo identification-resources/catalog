@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B136:2:1,Fleutiauxellus,,,,,,genus,,B136:2,accepted,,,,,,,,,,,Fleutiauxellus,,,Fleutiauxellus,,,4407126,,4407126
-B136:2:2,Hypnoidus,,,,,,genus,auct.,B136:2,synonym,B136:2:1,Fleutiauxellus,,,,,,,,,Hypnoidus,,,Hypnoidus auct.,,,4406839,,4406839
-B136:2:3,Cryptohypnus,,,,,,genus,auct.,B136:2,synonym,B136:2:1,Fleutiauxellus,,,,,,,,,Cryptohypnus,,,Cryptohypnus auct.,,,4578031,,4578031
+B136:2:2,Hypnoidus,,,,,,genus,auct.,B136:2,misapplied,B136:2:1,Fleutiauxellus,,,,,,,,,Hypnoidus,,,Hypnoidus auct.,,,4406839,,4406839
+B136:2:3,Cryptohypnus,,,,,,genus,auct.,B136:2,misapplied,B136:2:1,Fleutiauxellus,,,,,,,,,Cryptohypnus,,,Cryptohypnus auct.,,,4578031,,4578031
 B136:2:4,Fleutiauxellus arcticus (Cand.),(Cand.),Fleutiauxellus,,arcticus,,species,,B136:2,accepted,,,B136:2:1,Fleutiauxellus,,,,,,,Fleutiauxellus,,Fleutiauxellus,arcticus (Cand.),,,8519452,,4429064
 B136:2:5,Fleutiauxellus algidus (J.Sahlb.),(J.Sahlb.),Fleutiauxellus,,algidus,,species,,B136:2,accepted,,,B136:2:1,Fleutiauxellus,,,,,,,Fleutiauxellus,,Fleutiauxellus,algidus (J.Sahlb.),,,4428702,,4428702
 B136:2:6,Fleutiauxellus maritimus (Curt.),(Curt.),Fleutiauxellus,,maritimus,,species,,B136:2,accepted,,,B136:2:1,Fleutiauxellus,,,,,,,Fleutiauxellus,,Fleutiauxellus,maritimus (Curt.),,,4428704,,4428704

@@ -14,7 +14,7 @@ B22:1:12,"Nomada cincticornis Nylander, 1848","Nylander, 1848",Nomada,,cincticor
 B22:1:13,"Nomada baccata Smith, 1844","Smith, 1844",Nomada,,baccata,,species,,B22:1,accepted,,,,,,,,,,,Nomada,,,"Nomada baccata Smith, 1844",,47MXQ,1343279,47MXQ,1343279
 B22:1:14,"Nomada laeta Thomson, 1870","Thomson, 1870",Nomada,,laeta,,species,,B22:1,synonym,B22:1:13,"Nomada baccata Smith, 1844",,,,,,,,,Nomada,,,"Nomada laeta Thomson, 1870",,,,,
 B22:1:15,"Nomada bifasciata Olivier, 1811","Olivier, 1811",Nomada,,bifasciata,,species,,B22:1,accepted,,,,,,,,,,,Nomada,,,"Nomada bifasciata Olivier, 1811",,47MY9,1343892,47MY9,1343892
-B22:1:16,Nomada pusilla,,Nomada,,pusilla,,species,auct. (nec Lepeletier 1841),B22:1,synonym,B22:1:15,"Nomada bifasciata Olivier, 1811",,,,,,,,,Nomada,,,Nomada pusilla auct. (nec Lepeletier 1841),,47NFM,1343958,47NFM,1343958
+B22:1:16,Nomada pusilla,,Nomada,,pusilla,,species,auct. (nec Lepeletier 1841),B22:1,misapplied,B22:1:15,"Nomada bifasciata Olivier, 1811",,,,,,,,,Nomada,,,Nomada pusilla auct. (nec Lepeletier 1841),,47NFM,1343958,47NFM,1343958
 B22:1:17,"Nomada zonata Panzer in Lepeletier, 1841","Panzer in Lepeletier, 1841",Nomada,,zonata,,species,,B22:1,synonym,B22:1:15,"Nomada bifasciata Olivier, 1811",,,,,,,,,Nomada,,,"Nomada zonata Panzer in Lepeletier, 1841",,47NN5,1343298,47NN5,1343298
 B22:1:18,"Nomada lepeletieri Pérez, 1884","Pérez, 1884",Nomada,,lepeletieri,,species,,B22:1,synonym,B22:1:15,"Nomada bifasciata Olivier, 1811",,,,,,,,,Nomada,,,"Nomada lepeletieri Pérez, 1884",,,6096985,,1343892
 B22:1:19,"Nomada navasi Dusmet, 1913","Dusmet, 1913",Nomada,,navasi,,species,,B22:1,synonym,B22:1:15,"Nomada bifasciata Olivier, 1811",,,,,,,,,Nomada,,,"Nomada navasi Dusmet, 1913",,47NBX,1343486,47NBX,1343486
@@ -74,8 +74,8 @@ B22:1:72,"Nomada guttulata Schenck, 1861","Schenck, 1861",Nomada,,guttulata,,spe
 B22:1:73,"Nomada rufilabris Thomson, 1870","Thomson, 1870",Nomada,,rufilabris,,species,,B22:1,synonym,B22:1:72,"Nomada guttulata Schenck, 1861",,,,,,,,,Nomada,,,"Nomada rufilabris Thomson, 1870",,,,,
 B22:1:74,"Nomada integra Brull, 1832","Brull, 1832",Nomada,,integra,,species,,B22:1,accepted,,,,,,,,,,,Nomada,,,"Nomada integra Brull, 1832",,47N7X,1343808,47N7X,1343808
 B22:1:75,"Nomada germanica Fabricius, 1804","Fabricius, 1804",Nomada,,germanica,,species,,B22:1,synonym,B22:1:74,"Nomada integra Brull, 1832",,,,,,,,,Nomada,,,"Nomada germanica Fabricius, 1804",,,9259692,,1343808
-B22:1:76,Nomada ferruginata,,Nomada,,ferruginata,,species,auct. (nec Linnaeus 1767),B22:1,synonym,B22:1:74,"Nomada integra Brull, 1832",,,,,,,,,Nomada,,,Nomada ferruginata auct. (nec Linnaeus 1767),,47N4R,1343309,47N4R,1343309
-B22:1:77,Nomada stigma,,Nomada,,stigma,,species,auct. (nec Fabricius 1805),B22:1,synonym,B22:1:74,"Nomada integra Brull, 1832",,,,,,,,,Nomada,,,Nomada stigma auct. (nec Fabricius 1805),,47NJK,1343922,47NJK,1343922
+B22:1:76,Nomada ferruginata,,Nomada,,ferruginata,,species,auct. (nec Linnaeus 1767),B22:1,misapplied,B22:1:74,"Nomada integra Brull, 1832",,,,,,,,,Nomada,,,Nomada ferruginata auct. (nec Linnaeus 1767),,47N4R,1343309,47N4R,1343309
+B22:1:77,Nomada stigma,,Nomada,,stigma,,species,auct. (nec Fabricius 1805),B22:1,misapplied,B22:1:74,"Nomada integra Brull, 1832",,,,,,,,,Nomada,,,Nomada stigma auct. (nec Fabricius 1805),,47NJK,1343922,47NJK,1343922
 B22:1:78,"Nomada ferruginata var. cinctiventris Friese, 1920","Friese, 1920",Nomada,,ferruginata,cinctiventris,variety,,B22:1,synonym,B22:1:74,"Nomada integra Brull, 1832",,,,,,,,,Nomada,,,"Nomada ferruginata var. cinctiventris Friese, 1920",,,,,
 B22:1:79,"Nomada lathburiana (Kirby, 1802)","(Kirby, 1802)",Nomada,,lathburiana,,species,,B22:1,accepted,,,,,,,,,,,Nomada,,,"Nomada lathburiana (Kirby, 1802)",,47N9B,1343389,47N9B,1343389
 B22:1:80,"Apis rufiventris Kirby, 1802","Kirby, 1802",Apis,,rufiventris,,species,,B22:1,synonym,B22:1:79,"Nomada lathburiana (Kirby, 1802)",,,,,,,,,Nomada,,,"Apis rufiventris Kirby, 1802",,,,,
@@ -147,7 +147,7 @@ B22:1:145,"Nomada punctiscuta Thomson, 1870","Thomson, 1870",Nomada,,punctiscuta
 B22:1:146,"Nomada simillima Pérez, 1913","Pérez, 1913",Nomada,,simillima,,species,,B22:1,synonym,B22:1:141,"Nomada striata Fabricius, 1793",,,,,,,,,Nomada,,,"Nomada simillima Pérez, 1913",,,,,
 B22:1:147,"Nomada dzieduszyckii Noskiewicz, 1924","Noskiewicz, 1924",Nomada,,dzieduszyckii,,species,,B22:1,synonym,B22:1:141,"Nomada striata Fabricius, 1793",,,,,,,,,Nomada,,,"Nomada dzieduszyckii Noskiewicz, 1924",,,,,
 B22:1:148,"Nomada succincta Panzer, 1798","Panzer, 1798",Nomada,,succincta,,species,,B22:1,accepted,,,,,,,,,,,Nomada,,,"Nomada succincta Panzer, 1798",,47NK4,1343826,47NK4,1343826
-B22:1:149,Nomada fulvicornis,,Nomada,,fulvicornis,,species,auct. (nec Fabricius 1793),B22:1,synonym,B22:1:148,"Nomada succincta Panzer, 1798",,,,,,,,,Nomada,,,Nomada fulvicornis auct. (nec Fabricius 1793),,47N5J,1343909,47N5J,1343909
+B22:1:149,Nomada fulvicornis,,Nomada,,fulvicornis,,species,auct. (nec Fabricius 1793),B22:1,misapplied,B22:1:148,"Nomada succincta Panzer, 1798",,,,,,,,,Nomada,,,Nomada fulvicornis auct. (nec Fabricius 1793),,47N5J,1343909,47N5J,1343909
 B22:1:150,"Nomada villosa Thomson, 1870","Thomson, 1870",Nomada,,villosa,,species,,B22:1,accepted,,,,,,,,,,,Nomada,,,"Nomada villosa Thomson, 1870",,47NM5,1343495,47NM5,1343495
 B22:1:151,"Nomada zonata Panzer, 1798","Panzer, 1798",Nomada,,zonata,,species,,B22:1,accepted,,,,,,,,,,,Nomada,,,"Nomada zonata Panzer, 1798",,47NN5,1343298,47NN5,1343298
 B22:1:152,"Nomada bofillana Pérez, 1913","Pérez, 1913",Nomada,,bofillana,,species,,B22:1,synonym,B22:1:151,"Nomada zonata Panzer, 1798",,,,,,,,,Nomada,,,"Nomada bofillana Pérez, 1913",,,,,
