@@ -1,85 +1,85 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B554:1:1,Argynnis,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Argynnis,,,Argynnis,922VL,1909334,922VL,1909334
-B554:1:2,Argynnis pandora,,Argynnis,,pandora,,species,,B554:1,accepted,,,B554:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,Argynnis pandora,,7810861,,1901850
-B554:1:3,Argynnis paphia,,Argynnis,,paphia,,species,,B554:1,accepted,,,B554:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,Argynnis paphia,GHVW,1909398,GHVW,1909398
-B554:1:4,Argynnis paphia f. valezina,,Argynnis,,paphia,valezina,form,,B554:1,accepted,,,B554:1:3,Argynnis paphia,,,,,,,Argynnis,,Argynnis | Argynnis paphia,valezina,BKBLL,,BKBLL,
-B554:1:5,Argynnis laodice,,Argynnis,,laodice,,species,,B554:1,accepted,,,B554:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,Argynnis laodice,93QRN,4535445,GK6Z,1895875
-B554:1:6,Speyeria,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Speyeria,,,Speyeria,92N2G,1905150,92N2G,1905150
-B554:1:7,Speyeria aglaja,,Speyeria,,aglaja,,species,,B554:1,accepted,,,B554:1:6,Speyeria,,,,,,,Speyeria,,Speyeria,Speyeria aglaja,C8BVR,6221746,C8BVR,6221746
-B554:1:8,Fabriciana,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Fabriciana,,,Fabriciana,9298V,1911763,9298V,1911763
-B554:1:9,Fabriciana adippe,,Fabriciana,,adippe,,species,,B554:1,accepted,,,B554:1:8,Fabriciana,,,,,,,Fabriciana,,Fabriciana,Fabriciana adippe,6HLWG,7809779,6HLWG,7809779
-B554:1:10,Fabriciana adippe f. chlorodippe,,Fabriciana,,adippe,chlorodippe,form,,B554:1,accepted,,,B554:1:9,Fabriciana adippe,,,,,,,Fabriciana,,Fabriciana | Fabriciana adippe,chlorodippe,,,,
-B554:1:11,Fabriciana adippe f. cleodoxa,,Fabriciana,,adippe,cleodoxa,form,,B554:1,accepted,,,B554:1:9,Fabriciana adippe,,,,,,,Fabriciana,,Fabriciana | Fabriciana adippe,cleodoxa,5HBKP,,5HBKP,
-B554:1:12,Fabriciana niobe,,Fabriciana,,niobe,,species,,B554:1,accepted,,,B554:1:8,Fabriciana,,,,,,,Fabriciana,,Fabriciana,Fabriciana niobe,3DR63,8078362,3DR63,8078362
-B554:1:13,Fabriciana niobe f. eris,,Fabriciana,,niobe,eris,form,,B554:1,accepted,,,B554:1:12,Fabriciana niobe,,,,,,,Fabriciana,,Fabriciana | Fabriciana niobe,eris,,,,
-B554:1:14,Fabriciana elisa,,Fabriciana,,elisa,,species,,B554:1,accepted,,,B554:1:8,Fabriciana,,,,,,,Fabriciana,,Fabriciana,Fabriciana elisa,,1911812,,6228548
-B554:1:15,Issoria,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Issoria,,,Issoria,92CKV,1905339,92CKV,1905339
-B554:1:16,Issoria lathonia,,Issoria,,lathonia,,species,,B554:1,accepted,,,B554:1:15,Issoria,,,,,,,Issoria,,Issoria,Issoria lathonia,3QD32,1905383,3QD32,1905383
-B554:1:17,Brenthis,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Brenthis,,,Brenthis,9243T,1902707,9243T,1902707
-B554:1:18,Brenthis daphne,,Brenthis,,daphne,,species,,B554:1,accepted,,,B554:1:17,Brenthis,,,,,,,Brenthis,,Brenthis,Brenthis daphne,N987,9714195,N987,9714195
-B554:1:19,Brenthis ino,,Brenthis,,ino,,species,,B554:1,accepted,,,B554:1:17,Brenthis,,,,,,,Brenthis,,Brenthis,Brenthis ino,N98C,1902749,N98C,1902749
-B554:1:20,Brenthis hecate,,Brenthis,,hecate,,species,,B554:1,accepted,,,B554:1:17,Brenthis,,,,,,,Brenthis,,Brenthis,Brenthis hecate,N98B,8189761,N98B,8189761
-B554:1:21,Boloria,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Boloria,,,Boloria,923X6,1912319,923X6,1912319
-B554:1:22,Boloria euphrosyne,,Boloria,,euphrosyne,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria euphrosyne,,5772893,,1894268
-B554:1:23,Boloria selene,,Boloria,,selene,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria selene,68NV3,1912325,68NV3,1912325
-B554:1:24,Boloria dia,,Boloria,,dia,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria dia,,5772890,,5772890
-B554:1:25,Boloria titania,,Boloria,,titania,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria titania,,4299597,,4299597
-B554:1:26,Boloria titania subsp. cypris,,Boloria,,titania,cypris,subspecies,,B554:1,accepted,,,B554:1:25,Boloria titania,,,,,,,Boloria,,Boloria | Boloria titania,cypris,,9576555,,4299597
-B554:1:27,Boloria aquilonaris,,Boloria,,aquilonaris,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria aquilonaris,68NVH,1912372,68NVH,1912372
-B554:1:28,Boloria eunomia,,Boloria,,eunomia,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria eunomia,,4299535,,4299535
-B554:1:29,Boloria eunomia subsp. ossiana,,Boloria,,eunomia,ossiana,subspecies,,B554:1,accepted,,,B554:1:28,Boloria eunomia,,,,,,,Boloria,,Boloria | Boloria eunomia,ossiana,,8175078,,8175078
-B554:1:30,Boloria napaea,,Boloria,,napaea,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria napaea,68NV4,1912470,68NV4,1912470
-B554:1:31,Boloria napaea subsp. pyreneorientalis,,Boloria,,napaea,pyreneorientalis,subspecies,,B554:1,accepted,,,B554:1:30,Boloria napaea,,,,,,,Boloria,,Boloria | Boloria napaea,pyreneorientalis,BL3WW,6227740,BL3WW,6227740
-B554:1:32,Boloria pales,,Boloria,,pales,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria pales,5WNV3,7799370,5WNV3,7799370
-B554:1:33,Boloria pales subsp. pyrenesmiscens,,Boloria,,pales,pyrenesmiscens,subspecies,,B554:1,accepted,,,B554:1:32,Boloria pales,,,,,,,Boloria,,Boloria | Boloria pales,pyrenesmiscens,,9295439,,7799370
-B554:1:34,Boloria thore,,Boloria,,thore,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria thore,,7428726,,7428726
-B554:1:35,Boloria thore subsp. borealis,,Boloria,,thore,borealis,subspecies,,B554:1,accepted,,,B554:1:34,Boloria thore,,,,,,,Boloria,,Boloria | Boloria thore,borealis,,8023173,,6232432
-B554:1:36,Boloria graeca,,Boloria,,graeca,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria graeca,5WNV5,1912395,5WNV5,1912395
-B554:1:37,Boloria freija,,Boloria,,freija,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria freija,,10962881,,10962881
-B554:1:38,Boloria frigga,,Boloria,,frigga,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria frigga,,10985513,,10985513
-B554:1:39,Boloria chariclea,,Boloria,,chariclea,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria chariclea,,4299565,,4299565
-B554:1:40,Boloria polaris,,Boloria,,polaris,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria polaris,,4299553,,1894164
-B554:1:41,Boloria improba,,Boloria,,improba,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria improba,,4299581,,5882039
-B554:1:42,Euphydryas,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Euphydryas,,,Euphydryas,928X8,1895130,928X8,1895130
-B554:1:43,Euphydryas aurinia,,Euphydryas,,aurinia,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas aurinia,,4535809,,4535809
-B554:1:44,Euphydryas aurinia f. debilis,,Euphydryas,,aurinia,debilis,form,,B554:1,accepted,,,B554:1:43,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,debilis,,,,
-B554:1:45,Euphydryas aurinia f. glaciegenita,,Euphydryas,,aurinia,glaciegenita,form,,B554:1,accepted,,,B554:1:43,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,glaciegenita,,,,
-B554:1:46,Euphydryas aurinia subsp. beckeri,,Euphydryas,,aurinia,beckeri,subspecies,,B554:1,accepted,,,B554:1:43,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,beckeri,,9251969,,9519321
-B554:1:47,Euphydryas maturna,,Euphydryas,,maturna,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas maturna,,4535817,,4535817
-B554:1:48,Euphydryas desfontainii,,Euphydryas,,desfontainii,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas desfontainii,,4535819,,4535819
-B554:1:49,Euphydryas intermedia,,Euphydryas,,intermedia,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas intermedia,,4535822,,1902182
-B554:1:50,Euphydryas cynthia,,Euphydryas,,cynthia,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas cynthia,,4535804,,1902169
-B554:1:51,Euphydryas cynthia subsp. alpicola,,Euphydryas,,cynthia,alpicola,subspecies,,B554:1,accepted,,,B554:1:50,Euphydryas cynthia,,,,,,,Euphydryas,,Euphydryas | Euphydryas cynthia,alpicola,,9559782,,1902169
-B554:1:52,Euphydryas iduna,,Euphydryas,,iduna,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas iduna,,4535807,,1902143
-B554:1:53,Melitaea,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Melitaea,,,Melitaea,92F8N,11366402,92F8N,11366402
-B554:1:54,Melitaea didyma,,Melitaea,,didyma,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea didyma,3ZK8D,8393082,3ZK8D,8393082
-B554:1:55,Melitaea didyma f. meridionalis,,Melitaea,,didyma,meridionalis,form,,B554:1,accepted,,,B554:1:54,Melitaea didyma,,,,,,,Melitaea,,Melitaea | Melitaea didyma,meridionalis,BK78B,,BK78B,
-B554:1:56,Melitaea didyma f. occidentalis,,Melitaea,,didyma,occidentalis,form,,B554:1,accepted,,,B554:1:54,Melitaea didyma,,,,,,,Melitaea,,Melitaea | Melitaea didyma,occidentalis,5JM7L,,5JM7L,
-B554:1:57,Melitaea trivia,,Melitaea,,trivia,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea trivia,3ZKHG,1899349,3NVK2,1899349
-B554:1:58,Melitaea trivia f. fascelis,,Melitaea,,trivia,fascelis,form,,B554:1,accepted,,,B554:1:57,Melitaea trivia,,,,,,,Melitaea,,Melitaea | Melitaea trivia,fascelis,,,,
-B554:1:59,Melitaea trivia subsp. ignasiti,,Melitaea,,trivia,ignasiti,subspecies,,B554:1,accepted,,,B554:1:57,Melitaea trivia,,,,,,,Melitaea,,Melitaea | Melitaea trivia,ignasiti,,8808004,,1899349
-B554:1:60,Melitaea cinxia,,Melitaea,,cinxia,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea cinxia,3ZK77,8168644,3ZK77,8168644
-B554:1:61,Melitaea arduinna,,Melitaea,,arduinna,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea arduinna,3ZK5T,1899818,3ZK5T,1899818
-B554:1:62,Melitaea phoebe,,Melitaea,,phoebe,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea phoebe,6QY6N,7934873,6QY6N,7934873
-B554:1:63,Melitaea phoebe subsp. occitanica,,Melitaea,,phoebe,occitanica,subspecies,,B554:1,accepted,,,B554:1:62,Melitaea phoebe,,,,,,,Melitaea,,Melitaea | Melitaea phoebe,occitanica,BK78J,6229573,BK78J,6229573
-B554:1:64,Melitaea phoebe f. altenans,,Melitaea,,phoebe,altenans,form,,B554:1,accepted,,,B554:1:63,Melitaea phoebe subsp. occitanica,,,,,,,Melitaea,,Melitaea | Melitaea phoebe | Melitaea phoebe subsp. occitanica,altenans,,,,
-B554:1:65,Melitaea phoebe f. pauper,,Melitaea,,phoebe,pauper,form,,B554:1,accepted,,,B554:1:63,Melitaea phoebe subsp. occitanica,,,,,,,Melitaea,,Melitaea | Melitaea phoebe | Melitaea phoebe subsp. occitanica,pauper,,,,
-B554:1:66,Melitaea ornata,,Melitaea,,ornata,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea ornata,3ZKDK,5129650,72Y5Y,1899349
-B554:1:67,Melitaea aetherie,,Melitaea,,aetherie,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea aetherie,6R9SV,1899737,6R9SV,1899737
-B554:1:68,Melitaea aetherie subsp. perlinii,,Melitaea,,aetherie,perlinii,subspecies,,B554:1,accepted,,,B554:1:67,Melitaea aetherie,,,,,,,Melitaea,,Melitaea | Melitaea aetherie,perlinii,,,,
-B554:1:69,Melitaea athalia,,Melitaea,,athalia,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea athalia,9458B,1899433,3ZL64,1899433
-B554:1:70,Melitaea athalia f. boris,,Melitaea,,athalia,boris,form,,B554:1,accepted,,,B554:1:69,Melitaea athalia,,,,,,,Melitaea,,Melitaea | Melitaea athalia,boris,,,,
-B554:1:71,Melitaea athalia f. satyra,,Melitaea,,athalia,satyra,form,,B554:1,accepted,,,B554:1:69,Melitaea athalia,,,,,,,Melitaea,,Melitaea | Melitaea athalia,satyra,,,,
-B554:1:72,Melitaea celadussa,,Melitaea,,celadussa,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea celadussa,9B2RQ,7514750,7KBSX,6229022
-B554:1:73,Melitaea celadussa subsp. nevadensis,,Melitaea,,celadussa,nevadensis,subspecies,,B554:1,accepted,,,B554:1:72,Melitaea celadussa,,,,,,,Melitaea,,Melitaea | Melitaea celadussa,nevadensis,,,,
-B554:1:74,Melitaea diamina,,Melitaea,,diamina,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea diamina,3ZK89,7768674,3ZK89,7768674
-B554:1:75,Melitaea diamina subsp. vernetensis,,Melitaea,,diamina,vernetensis,subspecies,,B554:1,accepted,,,B554:1:74,Melitaea diamina,,,,,,,Melitaea,,Melitaea | Melitaea diamina,vernetensis,,9382443,,7768674
-B554:1:76,Melitaea parthenoides,,Melitaea,,parthenoides,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea parthenoides,9458M,5792087,3ZL6J,1913351
-B554:1:77,Melitaea parthenoides f. nevadensis,,Melitaea,,parthenoides,nevadensis,form,,B554:1,accepted,,,B554:1:76,Melitaea parthenoides,,,,,,,Melitaea,,Melitaea | Melitaea parthenoides,nevadensis,,,,
-B554:1:78,Melitaea deione,,Melitaea,,deione,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea deione,936WZ,6229058,3ZL68,6229058
-B554:1:79,Melitaea deione subsp. rosinae,,Melitaea,,deione,rosinae,subspecies,,B554:1,accepted,,,B554:1:78,Melitaea deione,,,,,,,Melitaea,,Melitaea | Melitaea deione,rosinae,,,,
-B554:1:80,Melitaea deione subsp. berisalli,,Melitaea,,deione,berisalli,subspecies,,B554:1,accepted,,,B554:1:78,Melitaea deione,,,,,,,Melitaea,,Melitaea | Melitaea deione,berisalli,,9267040,,6229058
-B554:1:81,Melitaea britomartis,,Melitaea,,britomartis,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea britomartis,9458D,7598816,3ZL66,1913178
-B554:1:82,Melitaea aurelia,,Melitaea,,aurelia,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea aurelia,9458C,5881471,3ZL65,1913175
-B554:1:83,Melitaea varia,,Melitaea,,varia,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea varia,9458R,7867379,3ZL6P,7867379
-B554:1:84,Melitaea asteria,,Melitaea,,asteria,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea asteria,936WR,5792088,3ZL63,1913371
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B554:1:1,Argynnis,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Argynnis,,,Argynnis,,922VL,1909334,922VL,1909334
+B554:1:2,Argynnis pandora,,Argynnis,,pandora,,species,,B554:1,accepted,,,B554:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,Argynnis pandora,,,7810861,,1901850
+B554:1:3,Argynnis paphia,,Argynnis,,paphia,,species,,B554:1,accepted,,,B554:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,Argynnis paphia,,GHVW,1909398,GHVW,1909398
+B554:1:4,Argynnis paphia f. valezina,,Argynnis,,paphia,valezina,form,,B554:1,accepted,,,B554:1:3,Argynnis paphia,,,,,,,Argynnis,,Argynnis | Argynnis paphia,valezina,,BKBLL,,BKBLL,
+B554:1:5,Argynnis laodice,,Argynnis,,laodice,,species,,B554:1,accepted,,,B554:1:1,Argynnis,,,,,,,Argynnis,,Argynnis,Argynnis laodice,,93QRN,4535445,GK6Z,1895875
+B554:1:6,Speyeria,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Speyeria,,,Speyeria,,92N2G,1905150,92N2G,1905150
+B554:1:7,Speyeria aglaja,,Speyeria,,aglaja,,species,,B554:1,accepted,,,B554:1:6,Speyeria,,,,,,,Speyeria,,Speyeria,Speyeria aglaja,,C8BVR,6221746,C8BVR,6221746
+B554:1:8,Fabriciana,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Fabriciana,,,Fabriciana,,9298V,1911763,9298V,1911763
+B554:1:9,Fabriciana adippe,,Fabriciana,,adippe,,species,,B554:1,accepted,,,B554:1:8,Fabriciana,,,,,,,Fabriciana,,Fabriciana,Fabriciana adippe,,6HLWG,7809779,6HLWG,7809779
+B554:1:10,Fabriciana adippe f. chlorodippe,,Fabriciana,,adippe,chlorodippe,form,,B554:1,accepted,,,B554:1:9,Fabriciana adippe,,,,,,,Fabriciana,,Fabriciana | Fabriciana adippe,chlorodippe,,,,,
+B554:1:11,Fabriciana adippe f. cleodoxa,,Fabriciana,,adippe,cleodoxa,form,,B554:1,accepted,,,B554:1:9,Fabriciana adippe,,,,,,,Fabriciana,,Fabriciana | Fabriciana adippe,cleodoxa,,5HBKP,,5HBKP,
+B554:1:12,Fabriciana niobe,,Fabriciana,,niobe,,species,,B554:1,accepted,,,B554:1:8,Fabriciana,,,,,,,Fabriciana,,Fabriciana,Fabriciana niobe,,3DR63,8078362,3DR63,8078362
+B554:1:13,Fabriciana niobe f. eris,,Fabriciana,,niobe,eris,form,,B554:1,accepted,,,B554:1:12,Fabriciana niobe,,,,,,,Fabriciana,,Fabriciana | Fabriciana niobe,eris,,,,,
+B554:1:14,Fabriciana elisa,,Fabriciana,,elisa,,species,,B554:1,accepted,,,B554:1:8,Fabriciana,,,,,,,Fabriciana,,Fabriciana,Fabriciana elisa,,,1911812,,6228548
+B554:1:15,Issoria,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Issoria,,,Issoria,,92CKV,1905339,92CKV,1905339
+B554:1:16,Issoria lathonia,,Issoria,,lathonia,,species,,B554:1,accepted,,,B554:1:15,Issoria,,,,,,,Issoria,,Issoria,Issoria lathonia,,3QD32,1905383,3QD32,1905383
+B554:1:17,Brenthis,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Brenthis,,,Brenthis,,9243T,1902707,9243T,1902707
+B554:1:18,Brenthis daphne,,Brenthis,,daphne,,species,,B554:1,accepted,,,B554:1:17,Brenthis,,,,,,,Brenthis,,Brenthis,Brenthis daphne,,N987,9714195,N987,9714195
+B554:1:19,Brenthis ino,,Brenthis,,ino,,species,,B554:1,accepted,,,B554:1:17,Brenthis,,,,,,,Brenthis,,Brenthis,Brenthis ino,,N98C,1902749,N98C,1902749
+B554:1:20,Brenthis hecate,,Brenthis,,hecate,,species,,B554:1,accepted,,,B554:1:17,Brenthis,,,,,,,Brenthis,,Brenthis,Brenthis hecate,,N98B,8189761,N98B,8189761
+B554:1:21,Boloria,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Boloria,,,Boloria,,923X6,1912319,923X6,1912319
+B554:1:22,Boloria euphrosyne,,Boloria,,euphrosyne,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria euphrosyne,,,5772893,,1894268
+B554:1:23,Boloria selene,,Boloria,,selene,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria selene,,68NV3,1912325,68NV3,1912325
+B554:1:24,Boloria dia,,Boloria,,dia,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria dia,,,5772890,,5772890
+B554:1:25,Boloria titania,,Boloria,,titania,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria titania,,,4299597,,4299597
+B554:1:26,Boloria titania subsp. cypris,,Boloria,,titania,cypris,subspecies,,B554:1,accepted,,,B554:1:25,Boloria titania,,,,,,,Boloria,,Boloria | Boloria titania,cypris,,,9576555,,4299597
+B554:1:27,Boloria aquilonaris,,Boloria,,aquilonaris,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria aquilonaris,,68NVH,1912372,68NVH,1912372
+B554:1:28,Boloria eunomia,,Boloria,,eunomia,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria eunomia,,,4299535,,4299535
+B554:1:29,Boloria eunomia subsp. ossiana,,Boloria,,eunomia,ossiana,subspecies,,B554:1,accepted,,,B554:1:28,Boloria eunomia,,,,,,,Boloria,,Boloria | Boloria eunomia,ossiana,,,8175078,,8175078
+B554:1:30,Boloria napaea,,Boloria,,napaea,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria napaea,,68NV4,1912470,68NV4,1912470
+B554:1:31,Boloria napaea subsp. pyreneorientalis,,Boloria,,napaea,pyreneorientalis,subspecies,,B554:1,accepted,,,B554:1:30,Boloria napaea,,,,,,,Boloria,,Boloria | Boloria napaea,pyreneorientalis,,BL3WW,6227740,BL3WW,6227740
+B554:1:32,Boloria pales,,Boloria,,pales,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria pales,,5WNV3,7799370,5WNV3,7799370
+B554:1:33,Boloria pales subsp. pyrenesmiscens,,Boloria,,pales,pyrenesmiscens,subspecies,,B554:1,accepted,,,B554:1:32,Boloria pales,,,,,,,Boloria,,Boloria | Boloria pales,pyrenesmiscens,,,9295439,,7799370
+B554:1:34,Boloria thore,,Boloria,,thore,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria thore,,,7428726,,7428726
+B554:1:35,Boloria thore subsp. borealis,,Boloria,,thore,borealis,subspecies,,B554:1,accepted,,,B554:1:34,Boloria thore,,,,,,,Boloria,,Boloria | Boloria thore,borealis,,,8023173,,6232432
+B554:1:36,Boloria graeca,,Boloria,,graeca,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria graeca,,5WNV5,1912395,5WNV5,1912395
+B554:1:37,Boloria freija,,Boloria,,freija,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria freija,,,10962881,,10962881
+B554:1:38,Boloria frigga,,Boloria,,frigga,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria frigga,,,10985513,,10985513
+B554:1:39,Boloria chariclea,,Boloria,,chariclea,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria chariclea,,,4299565,,4299565
+B554:1:40,Boloria polaris,,Boloria,,polaris,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria polaris,,,4299553,,1894164
+B554:1:41,Boloria improba,,Boloria,,improba,,species,,B554:1,accepted,,,B554:1:21,Boloria,,,,,,,Boloria,,Boloria,Boloria improba,,,4299581,,5882039
+B554:1:42,Euphydryas,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Euphydryas,,,Euphydryas,,928X8,1895130,928X8,1895130
+B554:1:43,Euphydryas aurinia,,Euphydryas,,aurinia,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas aurinia,,,4535809,,4535809
+B554:1:44,Euphydryas aurinia f. debilis,,Euphydryas,,aurinia,debilis,form,,B554:1,accepted,,,B554:1:43,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,debilis,,,,,
+B554:1:45,Euphydryas aurinia f. glaciegenita,,Euphydryas,,aurinia,glaciegenita,form,,B554:1,accepted,,,B554:1:43,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,glaciegenita,,,,,
+B554:1:46,Euphydryas aurinia subsp. beckeri,,Euphydryas,,aurinia,beckeri,subspecies,,B554:1,accepted,,,B554:1:43,Euphydryas aurinia,,,,,,,Euphydryas,,Euphydryas | Euphydryas aurinia,beckeri,,,9251969,,9519321
+B554:1:47,Euphydryas maturna,,Euphydryas,,maturna,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas maturna,,,4535817,,4535817
+B554:1:48,Euphydryas desfontainii,,Euphydryas,,desfontainii,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas desfontainii,,,4535819,,4535819
+B554:1:49,Euphydryas intermedia,,Euphydryas,,intermedia,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas intermedia,,,4535822,,1902182
+B554:1:50,Euphydryas cynthia,,Euphydryas,,cynthia,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas cynthia,,,4535804,,1902169
+B554:1:51,Euphydryas cynthia subsp. alpicola,,Euphydryas,,cynthia,alpicola,subspecies,,B554:1,accepted,,,B554:1:50,Euphydryas cynthia,,,,,,,Euphydryas,,Euphydryas | Euphydryas cynthia,alpicola,,,9559782,,1902169
+B554:1:52,Euphydryas iduna,,Euphydryas,,iduna,,species,,B554:1,accepted,,,B554:1:42,Euphydryas,,,,,,,Euphydryas,,Euphydryas,Euphydryas iduna,,,4535807,,1902143
+B554:1:53,Melitaea,,,,,,genus,,B554:1,accepted,,,,,,,,,,,Melitaea,,,Melitaea,,92F8N,11366402,92F8N,11366402
+B554:1:54,Melitaea didyma,,Melitaea,,didyma,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea didyma,,3ZK8D,8393082,3ZK8D,8393082
+B554:1:55,Melitaea didyma f. meridionalis,,Melitaea,,didyma,meridionalis,form,,B554:1,accepted,,,B554:1:54,Melitaea didyma,,,,,,,Melitaea,,Melitaea | Melitaea didyma,meridionalis,,BK78B,,BK78B,
+B554:1:56,Melitaea didyma f. occidentalis,,Melitaea,,didyma,occidentalis,form,,B554:1,accepted,,,B554:1:54,Melitaea didyma,,,,,,,Melitaea,,Melitaea | Melitaea didyma,occidentalis,,5JM7L,,5JM7L,
+B554:1:57,Melitaea trivia,,Melitaea,,trivia,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea trivia,,3ZKHG,1899349,3NVK2,1899349
+B554:1:58,Melitaea trivia f. fascelis,,Melitaea,,trivia,fascelis,form,,B554:1,accepted,,,B554:1:57,Melitaea trivia,,,,,,,Melitaea,,Melitaea | Melitaea trivia,fascelis,,,,,
+B554:1:59,Melitaea trivia subsp. ignasiti,,Melitaea,,trivia,ignasiti,subspecies,,B554:1,accepted,,,B554:1:57,Melitaea trivia,,,,,,,Melitaea,,Melitaea | Melitaea trivia,ignasiti,,,8808004,,1899349
+B554:1:60,Melitaea cinxia,,Melitaea,,cinxia,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea cinxia,,3ZK77,8168644,3ZK77,8168644
+B554:1:61,Melitaea arduinna,,Melitaea,,arduinna,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea arduinna,,3ZK5T,1899818,3ZK5T,1899818
+B554:1:62,Melitaea phoebe,,Melitaea,,phoebe,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea phoebe,,6QY6N,7934873,6QY6N,7934873
+B554:1:63,Melitaea phoebe subsp. occitanica,,Melitaea,,phoebe,occitanica,subspecies,,B554:1,accepted,,,B554:1:62,Melitaea phoebe,,,,,,,Melitaea,,Melitaea | Melitaea phoebe,occitanica,,BK78J,6229573,BK78J,6229573
+B554:1:64,Melitaea phoebe f. altenans,,Melitaea,,phoebe,altenans,form,,B554:1,accepted,,,B554:1:63,Melitaea phoebe subsp. occitanica,,,,,,,Melitaea,,Melitaea | Melitaea phoebe | Melitaea phoebe subsp. occitanica,altenans,,,,,
+B554:1:65,Melitaea phoebe f. pauper,,Melitaea,,phoebe,pauper,form,,B554:1,accepted,,,B554:1:63,Melitaea phoebe subsp. occitanica,,,,,,,Melitaea,,Melitaea | Melitaea phoebe | Melitaea phoebe subsp. occitanica,pauper,,,,,
+B554:1:66,Melitaea ornata,,Melitaea,,ornata,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea ornata,,3ZKDK,5129650,72Y5Y,1899349
+B554:1:67,Melitaea aetherie,,Melitaea,,aetherie,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea aetherie,,6R9SV,1899737,6R9SV,1899737
+B554:1:68,Melitaea aetherie subsp. perlinii,,Melitaea,,aetherie,perlinii,subspecies,,B554:1,accepted,,,B554:1:67,Melitaea aetherie,,,,,,,Melitaea,,Melitaea | Melitaea aetherie,perlinii,,,,,
+B554:1:69,Melitaea athalia,,Melitaea,,athalia,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea athalia,,9458B,1899433,3ZL64,1899433
+B554:1:70,Melitaea athalia f. boris,,Melitaea,,athalia,boris,form,,B554:1,accepted,,,B554:1:69,Melitaea athalia,,,,,,,Melitaea,,Melitaea | Melitaea athalia,boris,,,,,
+B554:1:71,Melitaea athalia f. satyra,,Melitaea,,athalia,satyra,form,,B554:1,accepted,,,B554:1:69,Melitaea athalia,,,,,,,Melitaea,,Melitaea | Melitaea athalia,satyra,,,,,
+B554:1:72,Melitaea celadussa,,Melitaea,,celadussa,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea celadussa,,9B2RQ,7514750,7KBSX,6229022
+B554:1:73,Melitaea celadussa subsp. nevadensis,,Melitaea,,celadussa,nevadensis,subspecies,,B554:1,accepted,,,B554:1:72,Melitaea celadussa,,,,,,,Melitaea,,Melitaea | Melitaea celadussa,nevadensis,,,,,
+B554:1:74,Melitaea diamina,,Melitaea,,diamina,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea diamina,,3ZK89,7768674,3ZK89,7768674
+B554:1:75,Melitaea diamina subsp. vernetensis,,Melitaea,,diamina,vernetensis,subspecies,,B554:1,accepted,,,B554:1:74,Melitaea diamina,,,,,,,Melitaea,,Melitaea | Melitaea diamina,vernetensis,,,9382443,,7768674
+B554:1:76,Melitaea parthenoides,,Melitaea,,parthenoides,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea parthenoides,,9458M,5792087,3ZL6J,1913351
+B554:1:77,Melitaea parthenoides f. nevadensis,,Melitaea,,parthenoides,nevadensis,form,,B554:1,accepted,,,B554:1:76,Melitaea parthenoides,,,,,,,Melitaea,,Melitaea | Melitaea parthenoides,nevadensis,,,,,
+B554:1:78,Melitaea deione,,Melitaea,,deione,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea deione,,936WZ,6229058,3ZL68,6229058
+B554:1:79,Melitaea deione subsp. rosinae,,Melitaea,,deione,rosinae,subspecies,,B554:1,accepted,,,B554:1:78,Melitaea deione,,,,,,,Melitaea,,Melitaea | Melitaea deione,rosinae,,,,,
+B554:1:80,Melitaea deione subsp. berisalli,,Melitaea,,deione,berisalli,subspecies,,B554:1,accepted,,,B554:1:78,Melitaea deione,,,,,,,Melitaea,,Melitaea | Melitaea deione,berisalli,,,9267040,,6229058
+B554:1:81,Melitaea britomartis,,Melitaea,,britomartis,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea britomartis,,9458D,7598816,3ZL66,1913178
+B554:1:82,Melitaea aurelia,,Melitaea,,aurelia,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea aurelia,,9458C,5881471,3ZL65,1913175
+B554:1:83,Melitaea varia,,Melitaea,,varia,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea varia,,9458R,7867379,3ZL6P,7867379
+B554:1:84,Melitaea asteria,,Melitaea,,asteria,,species,,B554:1,accepted,,,B554:1:53,Melitaea,,,,,,,Melitaea,,Melitaea,Melitaea asteria,,936WR,5792088,3ZL63,1913371

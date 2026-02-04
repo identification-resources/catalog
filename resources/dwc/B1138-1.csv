@@ -1,10 +1,10 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B1138:1:1,Pentatomomorpha,,,,,,infraorder,,B1138:1,accepted,,,,,,,,,,,,,,Pentatomomorpha,BXWDD,,BXWDD,
-B1138:1:2,Pentatomoidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Pentatomoidea,BXWDQ,,BXWDQ,
-B1138:1:3,Aradoidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Aradoidea,BXWDG,,BXWDG,
-B1138:1:4,Coreoidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Coreoidea,4Z3,,4Z3,
-B1138:1:5,Pyrrhocoroidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Pyrrhocoroidea,BXWDR,,BXWDR,
-B1138:1:6,Lygaeoidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Lygaeoidea,C7J7P,,C7J7P,
-B1138:1:7,Berytidae,,,,,,family,,B1138:1,accepted,,,B1138:1:6,Lygaeoidea,,,,,Berytidae,,,,Pentatomomorpha | Lygaeoidea,Berytidae,8NKH8,4306,8NKH8,4306
-B1138:1:8,Lygaeidae,,,,,,family,,B1138:1,accepted,,,B1138:1:6,Lygaeoidea,,,,,Lygaeidae,,,,Pentatomomorpha | Lygaeoidea,Lygaeidae,8NKMB,7888,8NKMB,7888
-B1138:1:9,Piesmatoidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Piesmatoidea,,,,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1138:1:1,Pentatomomorpha,,,,,,infraorder,,B1138:1,accepted,,,,,,,,,,,,,,Pentatomomorpha,,BXWDD,,BXWDD,
+B1138:1:2,Pentatomoidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Pentatomoidea,,BXWDQ,,BXWDQ,
+B1138:1:3,Aradoidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Aradoidea,,BXWDG,,BXWDG,
+B1138:1:4,Coreoidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Coreoidea,,4Z3,,4Z3,
+B1138:1:5,Pyrrhocoroidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Pyrrhocoroidea,,BXWDR,,BXWDR,
+B1138:1:6,Lygaeoidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Lygaeoidea,,C7J7P,,C7J7P,
+B1138:1:7,Berytidae,,,,,,family,,B1138:1,accepted,,,B1138:1:6,Lygaeoidea,,,,,Berytidae,,,,Pentatomomorpha | Lygaeoidea,Berytidae,,8NKH8,4306,8NKH8,4306
+B1138:1:8,Lygaeidae,,,,,,family,,B1138:1,accepted,,,B1138:1:6,Lygaeoidea,,,,,Lygaeidae,,,,Pentatomomorpha | Lygaeoidea,Lygaeidae,,8NKMB,7888,8NKMB,7888
+B1138:1:9,Piesmatoidea,,,,,,superfamily,,B1138:1,accepted,,,B1138:1:1,Pentatomomorpha,,,,,,,,,Pentatomomorpha,Piesmatoidea,,,,,

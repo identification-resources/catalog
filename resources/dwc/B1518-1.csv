@@ -1,22 +1,22 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B1518:1:1,Andreaeopsida,,,,,,class,,B1518:1,accepted,,,,,,,Andreaeopsida,,,,,,,Andreaeopsida,7Q,326,7Q,326
-B1518:1:2,Andreaeaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:1,Andreaeopsida,,,Andreaeopsida,,Andreaeaceae,,,,Andreaeopsida,Andreaeaceae,9JFYM,8735,9JFYM,8735
-B1518:1:3,Andreaea,,,,,,genus,,B1518:1,accepted,,,B1518:1:2,Andreaeaceae,,,Andreaeopsida,,Andreaeaceae,,Andreaea,,Andreaeopsida | Andreaeaceae,Andreaea,9JH77,2673379,9JH77,2673379
-B1518:1:4,Bryopsida,,,,,,class,,B1518:1,accepted,,,,,,,Bryopsida,,,,,,,Bryopsida,CHTRW,327,CHTRW,327
-B1518:1:5,Pottiaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:4,Bryopsida,,,Bryopsida,,Pottiaceae,,,,Bryopsida,Pottiaceae,9JGDZ,4671,9JGDZ,4671
-B1518:1:6,Aloina,,,,,,genus,,B1518:1,accepted,,,B1518:1:5,Pottiaceae,,,Bryopsida,,Pottiaceae,,Aloina,,Bryopsida | Pottiaceae,Aloina,9JH22,2671379,9JH22,2671379
-B1518:1:7,Pterygoneurum,,,,,,genus,,B1518:1,accepted,,,B1518:1:5,Pottiaceae,,,Bryopsida,,Pottiaceae,,Pterygoneurum,,Bryopsida | Pottiaceae,Pterygoneurum,9JMQ3,2671549,9JMQ3,2671549
-B1518:1:8,Pterygoneurum ovatum,,Pterygoneurum,,ovatum,,species,,B1518:1,accepted,,,B1518:1:7,Pterygoneurum,,,Bryopsida,,Pottiaceae,,Pterygoneurum,,Bryopsida | Pottiaceae | Pterygoneurum,Pterygoneurum ovatum,6WLJG,2671552,6WLJG,2671552
-B1518:1:9,Oedipodiopsida,,,,,,class,,B1518:1,accepted,,,,,,,Oedipodiopsida,,,,,,,Oedipodiopsida,,,,
-B1518:1:10,Oedipodiaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:9,Oedipodiopsida,,,Oedipodiopsida,,Oedipodiaceae,,,,Oedipodiopsida,Oedipodiaceae,9JGCW,8746,9JGCW,8746
-B1518:1:11,Oedipodium,,,,,,genus,,B1518:1,accepted,,,B1518:1:10,Oedipodiaceae,,,Oedipodiopsida,,Oedipodiaceae,,Oedipodium,,Oedipodiopsida | Oedipodiaceae,Oedipodium,9JLMC,11070567,9JLMC,11070567
-B1518:1:12,Oedipodium griffithianum,,Oedipodium,,griffithianum,,species,,B1518:1,accepted,,,B1518:1:11,Oedipodium,,,Oedipodiopsida,,Oedipodiaceae,,Oedipodium,,Oedipodiopsida | Oedipodiaceae | Oedipodium,Oedipodium griffithianum,48WJS,2673790,48WJS,2673790
-B1518:1:13,Polytrichopsida,,,,,,class,,B1518:1,accepted,,,,,,,Polytrichopsida,,,,,,,Polytrichopsida,9JHXJ,12259753,9JHXJ,12259753
-B1518:1:14,Polytrichaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:13,Polytrichopsida,,,Polytrichopsida,,Polytrichaceae,,,,Polytrichopsida,Polytrichaceae,9JGDX,4669,9JGDX,4669
-B1518:1:15,Sphagnopsida,,,,,,class,,B1518:1,accepted,,,,,,,Sphagnopsida,,,,,,,Sphagnopsida,J3,190,J3,190
-B1518:1:16,Sphagnaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:15,Sphagnopsida,,,Sphagnopsida,,Sphagnaceae,,,,Sphagnopsida,Sphagnaceae,9JGGJ,4673,9JGGJ,4673
-B1518:1:17,Sphagnum,,,,,,genus,,B1518:1,accepted,,,B1518:1:16,Sphagnaceae,,,Sphagnopsida,,Sphagnaceae,,Sphagnum,,Sphagnopsida | Sphagnaceae,Sphagnum,9JNHG,2668958,9JNHG,2668958
-B1518:1:18,Tetraphidopsida,,,,,,class,,B1518:1,accepted,,,,,,,Tetraphidopsida,,,,,,,Tetraphidopsida,,,,
-B1518:1:19,Tetraphidaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:18,Tetraphidopsida,,,Tetraphidopsida,,Tetraphidaceae,,,,Tetraphidopsida,Tetraphidaceae,9JGH5,8773,9JGH5,8773
-B1518:1:20,Tetraphis,,,,,,genus,,B1518:1,accepted,,,B1518:1:19,Tetraphidaceae,,,Tetraphidopsida,,Tetraphidaceae,,Tetraphis,,Tetraphidopsida | Tetraphidaceae,Tetraphis,9JNRH,2679331,9JNRH,2679331
-B1518:1:21,Tetraphis pellucida,,Tetraphis,,pellucida,,species,,B1518:1,accepted,,,B1518:1:20,Tetraphis,,,Tetraphidopsida,,Tetraphidaceae,,Tetraphis,,Tetraphidopsida | Tetraphidaceae | Tetraphis,Tetraphis pellucida,7C58D,5283400,7C58D,5283400
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1518:1:1,Andreaeopsida,,,,,,class,,B1518:1,accepted,,,,,,,Andreaeopsida,,,,,,,Andreaeopsida,,7Q,326,7Q,326
+B1518:1:2,Andreaeaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:1,Andreaeopsida,,,Andreaeopsida,,Andreaeaceae,,,,Andreaeopsida,Andreaeaceae,,9JFYM,8735,9JFYM,8735
+B1518:1:3,Andreaea,,,,,,genus,,B1518:1,accepted,,,B1518:1:2,Andreaeaceae,,,Andreaeopsida,,Andreaeaceae,,Andreaea,,Andreaeopsida | Andreaeaceae,Andreaea,,9JH77,2673379,9JH77,2673379
+B1518:1:4,Bryopsida,,,,,,class,,B1518:1,accepted,,,,,,,Bryopsida,,,,,,,Bryopsida,,CHTRW,327,CHTRW,327
+B1518:1:5,Pottiaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:4,Bryopsida,,,Bryopsida,,Pottiaceae,,,,Bryopsida,Pottiaceae,,9JGDZ,4671,9JGDZ,4671
+B1518:1:6,Aloina,,,,,,genus,,B1518:1,accepted,,,B1518:1:5,Pottiaceae,,,Bryopsida,,Pottiaceae,,Aloina,,Bryopsida | Pottiaceae,Aloina,,9JH22,2671379,9JH22,2671379
+B1518:1:7,Pterygoneurum,,,,,,genus,,B1518:1,accepted,,,B1518:1:5,Pottiaceae,,,Bryopsida,,Pottiaceae,,Pterygoneurum,,Bryopsida | Pottiaceae,Pterygoneurum,,9JMQ3,2671549,9JMQ3,2671549
+B1518:1:8,Pterygoneurum ovatum,,Pterygoneurum,,ovatum,,species,,B1518:1,accepted,,,B1518:1:7,Pterygoneurum,,,Bryopsida,,Pottiaceae,,Pterygoneurum,,Bryopsida | Pottiaceae | Pterygoneurum,Pterygoneurum ovatum,,6WLJG,2671552,6WLJG,2671552
+B1518:1:9,Oedipodiopsida,,,,,,class,,B1518:1,accepted,,,,,,,Oedipodiopsida,,,,,,,Oedipodiopsida,,,,,
+B1518:1:10,Oedipodiaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:9,Oedipodiopsida,,,Oedipodiopsida,,Oedipodiaceae,,,,Oedipodiopsida,Oedipodiaceae,,9JGCW,8746,9JGCW,8746
+B1518:1:11,Oedipodium,,,,,,genus,,B1518:1,accepted,,,B1518:1:10,Oedipodiaceae,,,Oedipodiopsida,,Oedipodiaceae,,Oedipodium,,Oedipodiopsida | Oedipodiaceae,Oedipodium,,9JLMC,11070567,9JLMC,11070567
+B1518:1:12,Oedipodium griffithianum,,Oedipodium,,griffithianum,,species,,B1518:1,accepted,,,B1518:1:11,Oedipodium,,,Oedipodiopsida,,Oedipodiaceae,,Oedipodium,,Oedipodiopsida | Oedipodiaceae | Oedipodium,Oedipodium griffithianum,,48WJS,2673790,48WJS,2673790
+B1518:1:13,Polytrichopsida,,,,,,class,,B1518:1,accepted,,,,,,,Polytrichopsida,,,,,,,Polytrichopsida,,9JHXJ,12259753,9JHXJ,12259753
+B1518:1:14,Polytrichaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:13,Polytrichopsida,,,Polytrichopsida,,Polytrichaceae,,,,Polytrichopsida,Polytrichaceae,,9JGDX,4669,9JGDX,4669
+B1518:1:15,Sphagnopsida,,,,,,class,,B1518:1,accepted,,,,,,,Sphagnopsida,,,,,,,Sphagnopsida,,J3,190,J3,190
+B1518:1:16,Sphagnaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:15,Sphagnopsida,,,Sphagnopsida,,Sphagnaceae,,,,Sphagnopsida,Sphagnaceae,,9JGGJ,4673,9JGGJ,4673
+B1518:1:17,Sphagnum,,,,,,genus,,B1518:1,accepted,,,B1518:1:16,Sphagnaceae,,,Sphagnopsida,,Sphagnaceae,,Sphagnum,,Sphagnopsida | Sphagnaceae,Sphagnum,,9JNHG,2668958,9JNHG,2668958
+B1518:1:18,Tetraphidopsida,,,,,,class,,B1518:1,accepted,,,,,,,Tetraphidopsida,,,,,,,Tetraphidopsida,,,,,
+B1518:1:19,Tetraphidaceae,,,,,,family,,B1518:1,accepted,,,B1518:1:18,Tetraphidopsida,,,Tetraphidopsida,,Tetraphidaceae,,,,Tetraphidopsida,Tetraphidaceae,,9JGH5,8773,9JGH5,8773
+B1518:1:20,Tetraphis,,,,,,genus,,B1518:1,accepted,,,B1518:1:19,Tetraphidaceae,,,Tetraphidopsida,,Tetraphidaceae,,Tetraphis,,Tetraphidopsida | Tetraphidaceae,Tetraphis,,9JNRH,2679331,9JNRH,2679331
+B1518:1:21,Tetraphis pellucida,,Tetraphis,,pellucida,,species,,B1518:1,accepted,,,B1518:1:20,Tetraphis,,,Tetraphidopsida,,Tetraphidaceae,,Tetraphis,,Tetraphidopsida | Tetraphidaceae | Tetraphis,Tetraphis pellucida,,7C58D,5283400,7C58D,5283400

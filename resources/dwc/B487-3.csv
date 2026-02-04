@@ -1,64 +1,64 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B487:3:1,Formicidae,,,,,,family,,B487:3,accepted,,,,,,,,,Formicidae,,,,,Formicidae,CLRKP,4342,CLRKP,4342
-B487:3:2,Myrmicinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Myrmicinae,,,Formicidae,Myrmicinae,CMD7Z,,CMD7Z,
-B487:3:3,Anergates,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Anergates,,Formicidae | Myrmicinae,Anergates,VZN,1314823,63V54,1314823
-B487:3:4,Anergates atratulus,,Anergates,,atratulus,,species,,B487:3,accepted,,,B487:3:3,Anergates,,,,,Formicidae,Myrmicinae,Anergates,,Formicidae | Myrmicinae | Anergates,atratulus,DY5M,1314824,CMV7J,1314824
-B487:3:5,Formicoxenus,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Formicoxenus,,Formicidae | Myrmicinae,Formicoxenus,4KSR,1317460,4KSR,1317460
-B487:3:6,Formicoxenus nitidulus,,Formicoxenus,,nitidulus,,species,,B487:3,accepted,,,B487:3:5,Formicoxenus,,,,,Formicidae,Myrmicinae,Formicoxenus,,Formicidae | Myrmicinae | Formicoxenus,nitidulus,6JHKL,1317464,6JHKL,1317464
-B487:3:7,Strongylognathus,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Strongylognathus,,Formicidae | Myrmicinae,Strongylognathus,7PFV,1317667,7PFV,1317667
-B487:3:8,Strongylognathus testaceus,,Strongylognathus,,testaceus,,species,,B487:3,accepted,,,B487:3:7,Strongylognathus,,,,,Formicidae,Myrmicinae,Strongylognathus,,Formicidae | Myrmicinae | Strongylognathus,testaceus,534S4,1317691,534S4,1317691
-B487:3:9,Tetramorium,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Tetramorium,,Formicidae | Myrmicinae,Tetramorium,63V54,1323128,63V54,1323128
-B487:3:10,Tetramorium caespitum,,Tetramorium,,caespitum,,species,,B487:3,accepted,,,B487:3:9,Tetramorium,,,,,Formicidae,Myrmicinae,Tetramorium,,Formicidae | Myrmicinae | Tetramorium,caespitum,55PJV,1323381,55PJV,1323381
-B487:3:11,Leptothorax,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Leptothorax,,Formicidae | Myrmicinae,Leptothorax,5DFZ,1323767,5DFZ,1323767
-B487:3:12,Leptothorax acervorum,,Leptothorax,,acervorum,,species,,B487:3,accepted,,,B487:3:11,Leptothorax,,,,,Formicidae,Myrmicinae,Leptothorax,,Formicidae | Myrmicinae | Leptothorax,acervorum,3TXWD,1323916,3TXWD,1323916
-B487:3:13,Leptothorax nylanderi,,Leptothorax,,nylanderi,,species,,B487:3,accepted,,,B487:3:11,Leptothorax,,,,,Formicidae,Myrmicinae,Leptothorax,,Formicidae | Myrmicinae | Leptothorax,nylanderi,3TY48,1323853,CMZRK,1323853
-B487:3:14,Leptothorax tuberum,,Leptothorax,,tuberum,,species,,B487:3,accepted,,,B487:3:11,Leptothorax,,,,,Formicidae,Myrmicinae,Leptothorax,,Formicidae | Myrmicinae | Leptothorax,tuberum,3TY7N,1323982,CMZZS,1323982
-B487:3:15,Leptothorax interruptus,,Leptothorax,,interruptus,,species,,B487:3,accepted,,,B487:3:11,Leptothorax,,,,,Formicidae,Myrmicinae,Leptothorax,,Formicidae | Myrmicinae | Leptothorax,interruptus,3TY29,1324175,CMZL5,1324175
-B487:3:16,Solenopsis,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Solenopsis,,Formicidae | Myrmicinae,Solenopsis,7JFX,9107211,7JFX,9107211
-B487:3:17,Solenopsis fugax,,Solenopsis,,fugax,,species,,B487:3,accepted,,,B487:3:16,Solenopsis,,,,,Formicidae,Myrmicinae,Solenopsis,,Formicidae | Myrmicinae | Solenopsis,fugax,4Y6DS,5035204,4Y6DS,5035204
-B487:3:18,Myrmica,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae,Myrmica,5WP9,1318775,5WP9,1318775
-B487:3:19,Myrmica sulcinodis,,Myrmica,,sulcinodis,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,sulcinodis,45CSP,1318917,45CSP,1318917
-B487:3:20,Myrmica ruginodis,,Myrmica,,ruginodis,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,ruginodis,45CS3,1318848,45CS3,1318848
-B487:3:21,Myrmica rubra,,Myrmica,,rubra,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,rubra,45CRZ,1318874,45CRZ,1318874
-B487:3:22,Myrmica lobicornis,,Myrmica,,lobicornis,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,lobicornis,45CR6,1318965,45CR6,1318965
-B487:3:23,Myrmica sabuleti,,Myrmica,,sabuleti,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,sabuleti,45CS7,1318776,45CS7,1318776
-B487:3:24,Myrmica scabrinodis,,Myrmica,,scabrinodis,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,scabrinodis,45CSC,1318887,45CSC,1318887
-B487:3:25,Myrmica schencki,,Myrmica,,schencki,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,schencki,73T94,1318870,73T94,1318870
-B487:3:26,Myrmica bessarabica,,Myrmica,,bessarabica,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,bessarabica,,1318781,,1318781
-B487:3:27,Myrmecina,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Myrmecina,,Formicidae | Myrmicinae,Myrmecina,5WLG,1315201,5WLG,1315201
-B487:3:28,Myrmecina graminicola,,Myrmecina,,graminicola,,species,,B487:3,accepted,,,B487:3:27,Myrmecina,,,,,Formicidae,Myrmicinae,Myrmecina,,Formicidae | Myrmicinae | Myrmecina,graminicola,73RLM,1315215,73RLM,1315215
-B487:3:29,Stenamma,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Stenamma,,Formicidae | Myrmicinae,Stenamma,7MDH,9138092,7MDH,9138092
-B487:3:30,Stenamma debile,,Stenamma,,debile,,species,,B487:3,accepted,,,B487:3:29,Stenamma,,,,,Formicidae,Myrmicinae,Stenamma,,Formicidae | Myrmicinae | Stenamma,debile,4ZTQB,1316675,4ZTQB,1316675
-B487:3:31,Stenamma westwoodi,,Stenamma,,westwoodi,,species,,B487:3,accepted,,,B487:3:29,Stenamma,,,,,Formicidae,Myrmicinae,Stenamma,,Formicidae | Myrmicinae | Stenamma,westwoodi,4ZTRD,1316667,4ZTRD,1316667
-B487:3:32,Ponerinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Ponerinae,,,Formicidae,Ponerinae,CMJV8,,CMJV8,
-B487:3:33,Ponera,,,,,,genus,,B487:3,accepted,,,B487:3:32,Ponerinae,,,,,Formicidae,Ponerinae,Ponera,,Formicidae | Ponerinae,Ponera,63NZ7,1317227,63NZ7,1317227
-B487:3:34,Ponera coarctata,,Ponera,,coarctata,,species,,B487:3,accepted,,,B487:3:33,Ponera,,,,,Formicidae,Ponerinae,Ponera,,Formicidae | Ponerinae | Ponera,coarctata,4LTMW,5035388,4LTMW,5035388
-B487:3:35,Dolichoderinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Dolichoderinae,,,Formicidae,Dolichoderinae,CLNKM,,CLNKM,
-B487:3:36,Tapinoma,,,,,,genus,,B487:3,accepted,,,B487:3:35,Dolichoderinae,,,,,Formicidae,Dolichoderinae,Tapinoma,,Formicidae | Dolichoderinae,Tapinoma,7SPC,1316784,7SPC,1316784
-B487:3:37,Tapinoma ambiguum,,Tapinoma,,ambiguum,,species,,B487:3,accepted,,,B487:3:36,Tapinoma,,,,,Formicidae,Dolichoderinae,Tapinoma,,Formicidae | Dolichoderinae | Tapinoma,ambiguum,54T5Z,1316828,CMXS2,1316828
-B487:3:38,Tapinoma erraticum,,Tapinoma,,erraticum,,species,,B487:3,accepted,,,B487:3:36,Tapinoma,,,,,Formicidae,Dolichoderinae,Tapinoma,,Formicidae | Dolichoderinae | Tapinoma,erraticum,7BJPJ,1316800,7BJPJ,1316800
-B487:3:39,Formicinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Formicinae,,,Formicidae,Formicinae,CLWPD,,CLWPD,
-B487:3:40,Formica,,,,,,genus,,B487:3,accepted,,,B487:3:39,Formicinae,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae,Formica,4KS4,12339359,4KS4,12339359
-B487:3:41,Formica sanguinea,,Formica,,sanguinea,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,sanguinea,6JGLJ,1315006,6JGLJ,1315006
-B487:3:42,Formica exsecta,,Formica,,exsecta,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,exsecta,6JGVM,1315050,6JGVM,1315050
-B487:3:43,Formica rufa,,Formica,,rufa,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,rufa,6JGM9,1315132,6JGM9,1315132
-B487:3:44,Formica pratensis,,Formica,,pratensis,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,pratensis,6JGKH,10990505,6JGKH,10990505
-B487:3:45,Formica aquilonia,,Formica,,aquilonia,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,aquilonia,6JH6X,1314841,6JH6X,1314841
-B487:3:46,Formica lugubris,,Formica,,lugubris,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,lugubris,6JGHS,1314847,6JGHS,1314847
-B487:3:47,Formica candida,,Formica,,candida,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,candida,6JGWC,1314849,6JGWC,1314849
-B487:3:48,Formica fusca,,Formica,,fusca,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,fusca,6JH7P,1314881,6JH7P,1314881
-B487:3:49,Formica lemani,,Formica,,lemani,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,lemani,6JGFX,1314960,6JGFX,1314960
-B487:3:50,Formica rufibarbis,,Formica,,rufibarbis,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,rufibarbis,6JGLW,1315117,6JGLW,1315117
-B487:3:51,Formica cunicularia,,Formica,,cunicularia,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,cunicularia,6JH7S,1314946,6JH7S,1314946
-B487:3:52,Lasius,,,,,,genus,,B487:3,accepted,,,B487:3:39,Formicinae,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae,Lasius,5B7S,1325751,5B7S,1325751
-B487:3:53,Lasius sabularum,,Lasius,,sabularum,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,sabularum,3SGYL,5035806,3SGYL,5035806
-B487:3:54,Lasius mixtus,,Lasius,,mixtus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,mixtus,3SGXM,5035862,3SGXM,5035862
-B487:3:55,Lasius meridionalis,,Lasius,,meridionalis,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,meridionalis,3SGXH,5035788,3SGXH,5035788
-B487:3:56,Lasius umbratus,,Lasius,,umbratus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,umbratus,3SGZ5,5035772,3SGZ5,5035772
-B487:3:57,Lasius fuliginosus,,Lasius,,fuliginosus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,fuliginosus,3SGWX,5035850,3SGWX,5035850
-B487:3:58,Lasius niger,,Lasius,,niger,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,niger,3SGXX,5035785,3SGXX,5035785
-B487:3:59,Lasius platythorax,,Lasius,,platythorax,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,platythorax,3SGYB,5035793,3SGYB,5035793
-B487:3:60,Lasius flavus,,Lasius,,flavus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,flavus,3SGWW,5035857,3SGWW,5035857
-B487:3:61,Lasius brunneus,,Lasius,,brunneus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,brunneus,6P3BM,5035823,6P3BM,5035823
-B487:3:62,Lasius alienus,,Lasius,,alienus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,alienus,3SGW5,5035777,3SGW5,5035777
-B487:3:63,Lasius psammophilus,,Lasius,,psammophilus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,psammophilus,6P3DH,5035767,6P3DH,5035767
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B487:3:1,Formicidae,,,,,,family,,B487:3,accepted,,,,,,,,,Formicidae,,,,,Formicidae,,CLRKP,4342,CLRKP,4342
+B487:3:2,Myrmicinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Myrmicinae,,,Formicidae,Myrmicinae,,CMD7Z,,CMD7Z,
+B487:3:3,Anergates,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Anergates,,Formicidae | Myrmicinae,Anergates,,VZN,1314823,63V54,1314823
+B487:3:4,Anergates atratulus,,Anergates,,atratulus,,species,,B487:3,accepted,,,B487:3:3,Anergates,,,,,Formicidae,Myrmicinae,Anergates,,Formicidae | Myrmicinae | Anergates,atratulus,,DY5M,1314824,CMV7J,1314824
+B487:3:5,Formicoxenus,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Formicoxenus,,Formicidae | Myrmicinae,Formicoxenus,,4KSR,1317460,4KSR,1317460
+B487:3:6,Formicoxenus nitidulus,,Formicoxenus,,nitidulus,,species,,B487:3,accepted,,,B487:3:5,Formicoxenus,,,,,Formicidae,Myrmicinae,Formicoxenus,,Formicidae | Myrmicinae | Formicoxenus,nitidulus,,6JHKL,1317464,6JHKL,1317464
+B487:3:7,Strongylognathus,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Strongylognathus,,Formicidae | Myrmicinae,Strongylognathus,,7PFV,1317667,7PFV,1317667
+B487:3:8,Strongylognathus testaceus,,Strongylognathus,,testaceus,,species,,B487:3,accepted,,,B487:3:7,Strongylognathus,,,,,Formicidae,Myrmicinae,Strongylognathus,,Formicidae | Myrmicinae | Strongylognathus,testaceus,,534S4,1317691,534S4,1317691
+B487:3:9,Tetramorium,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Tetramorium,,Formicidae | Myrmicinae,Tetramorium,,63V54,1323128,63V54,1323128
+B487:3:10,Tetramorium caespitum,,Tetramorium,,caespitum,,species,,B487:3,accepted,,,B487:3:9,Tetramorium,,,,,Formicidae,Myrmicinae,Tetramorium,,Formicidae | Myrmicinae | Tetramorium,caespitum,,55PJV,1323381,55PJV,1323381
+B487:3:11,Leptothorax,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Leptothorax,,Formicidae | Myrmicinae,Leptothorax,,5DFZ,1323767,5DFZ,1323767
+B487:3:12,Leptothorax acervorum,,Leptothorax,,acervorum,,species,,B487:3,accepted,,,B487:3:11,Leptothorax,,,,,Formicidae,Myrmicinae,Leptothorax,,Formicidae | Myrmicinae | Leptothorax,acervorum,,3TXWD,1323916,3TXWD,1323916
+B487:3:13,Leptothorax nylanderi,,Leptothorax,,nylanderi,,species,,B487:3,accepted,,,B487:3:11,Leptothorax,,,,,Formicidae,Myrmicinae,Leptothorax,,Formicidae | Myrmicinae | Leptothorax,nylanderi,,3TY48,1323853,CMZRK,1323853
+B487:3:14,Leptothorax tuberum,,Leptothorax,,tuberum,,species,,B487:3,accepted,,,B487:3:11,Leptothorax,,,,,Formicidae,Myrmicinae,Leptothorax,,Formicidae | Myrmicinae | Leptothorax,tuberum,,3TY7N,1323982,CMZZS,1323982
+B487:3:15,Leptothorax interruptus,,Leptothorax,,interruptus,,species,,B487:3,accepted,,,B487:3:11,Leptothorax,,,,,Formicidae,Myrmicinae,Leptothorax,,Formicidae | Myrmicinae | Leptothorax,interruptus,,3TY29,1324175,CMZL5,1324175
+B487:3:16,Solenopsis,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Solenopsis,,Formicidae | Myrmicinae,Solenopsis,,7JFX,9107211,7JFX,9107211
+B487:3:17,Solenopsis fugax,,Solenopsis,,fugax,,species,,B487:3,accepted,,,B487:3:16,Solenopsis,,,,,Formicidae,Myrmicinae,Solenopsis,,Formicidae | Myrmicinae | Solenopsis,fugax,,4Y6DS,5035204,4Y6DS,5035204
+B487:3:18,Myrmica,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae,Myrmica,,5WP9,1318775,5WP9,1318775
+B487:3:19,Myrmica sulcinodis,,Myrmica,,sulcinodis,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,sulcinodis,,45CSP,1318917,45CSP,1318917
+B487:3:20,Myrmica ruginodis,,Myrmica,,ruginodis,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,ruginodis,,45CS3,1318848,45CS3,1318848
+B487:3:21,Myrmica rubra,,Myrmica,,rubra,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,rubra,,45CRZ,1318874,45CRZ,1318874
+B487:3:22,Myrmica lobicornis,,Myrmica,,lobicornis,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,lobicornis,,45CR6,1318965,45CR6,1318965
+B487:3:23,Myrmica sabuleti,,Myrmica,,sabuleti,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,sabuleti,,45CS7,1318776,45CS7,1318776
+B487:3:24,Myrmica scabrinodis,,Myrmica,,scabrinodis,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,scabrinodis,,45CSC,1318887,45CSC,1318887
+B487:3:25,Myrmica schencki,,Myrmica,,schencki,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,schencki,,73T94,1318870,73T94,1318870
+B487:3:26,Myrmica bessarabica,,Myrmica,,bessarabica,,species,,B487:3,accepted,,,B487:3:18,Myrmica,,,,,Formicidae,Myrmicinae,Myrmica,,Formicidae | Myrmicinae | Myrmica,bessarabica,,,1318781,,1318781
+B487:3:27,Myrmecina,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Myrmecina,,Formicidae | Myrmicinae,Myrmecina,,5WLG,1315201,5WLG,1315201
+B487:3:28,Myrmecina graminicola,,Myrmecina,,graminicola,,species,,B487:3,accepted,,,B487:3:27,Myrmecina,,,,,Formicidae,Myrmicinae,Myrmecina,,Formicidae | Myrmicinae | Myrmecina,graminicola,,73RLM,1315215,73RLM,1315215
+B487:3:29,Stenamma,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Stenamma,,Formicidae | Myrmicinae,Stenamma,,7MDH,9138092,7MDH,9138092
+B487:3:30,Stenamma debile,,Stenamma,,debile,,species,,B487:3,accepted,,,B487:3:29,Stenamma,,,,,Formicidae,Myrmicinae,Stenamma,,Formicidae | Myrmicinae | Stenamma,debile,,4ZTQB,1316675,4ZTQB,1316675
+B487:3:31,Stenamma westwoodi,,Stenamma,,westwoodi,,species,,B487:3,accepted,,,B487:3:29,Stenamma,,,,,Formicidae,Myrmicinae,Stenamma,,Formicidae | Myrmicinae | Stenamma,westwoodi,,4ZTRD,1316667,4ZTRD,1316667
+B487:3:32,Ponerinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Ponerinae,,,Formicidae,Ponerinae,,CMJV8,,CMJV8,
+B487:3:33,Ponera,,,,,,genus,,B487:3,accepted,,,B487:3:32,Ponerinae,,,,,Formicidae,Ponerinae,Ponera,,Formicidae | Ponerinae,Ponera,,63NZ7,1317227,63NZ7,1317227
+B487:3:34,Ponera coarctata,,Ponera,,coarctata,,species,,B487:3,accepted,,,B487:3:33,Ponera,,,,,Formicidae,Ponerinae,Ponera,,Formicidae | Ponerinae | Ponera,coarctata,,4LTMW,5035388,4LTMW,5035388
+B487:3:35,Dolichoderinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Dolichoderinae,,,Formicidae,Dolichoderinae,,CLNKM,,CLNKM,
+B487:3:36,Tapinoma,,,,,,genus,,B487:3,accepted,,,B487:3:35,Dolichoderinae,,,,,Formicidae,Dolichoderinae,Tapinoma,,Formicidae | Dolichoderinae,Tapinoma,,7SPC,1316784,7SPC,1316784
+B487:3:37,Tapinoma ambiguum,,Tapinoma,,ambiguum,,species,,B487:3,accepted,,,B487:3:36,Tapinoma,,,,,Formicidae,Dolichoderinae,Tapinoma,,Formicidae | Dolichoderinae | Tapinoma,ambiguum,,54T5Z,1316828,CMXS2,1316828
+B487:3:38,Tapinoma erraticum,,Tapinoma,,erraticum,,species,,B487:3,accepted,,,B487:3:36,Tapinoma,,,,,Formicidae,Dolichoderinae,Tapinoma,,Formicidae | Dolichoderinae | Tapinoma,erraticum,,7BJPJ,1316800,7BJPJ,1316800
+B487:3:39,Formicinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Formicinae,,,Formicidae,Formicinae,,CLWPD,,CLWPD,
+B487:3:40,Formica,,,,,,genus,,B487:3,accepted,,,B487:3:39,Formicinae,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae,Formica,,4KS4,12339359,4KS4,12339359
+B487:3:41,Formica sanguinea,,Formica,,sanguinea,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,sanguinea,,6JGLJ,1315006,6JGLJ,1315006
+B487:3:42,Formica exsecta,,Formica,,exsecta,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,exsecta,,6JGVM,1315050,6JGVM,1315050
+B487:3:43,Formica rufa,,Formica,,rufa,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,rufa,,6JGM9,1315132,6JGM9,1315132
+B487:3:44,Formica pratensis,,Formica,,pratensis,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,pratensis,,6JGKH,10990505,6JGKH,10990505
+B487:3:45,Formica aquilonia,,Formica,,aquilonia,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,aquilonia,,6JH6X,1314841,6JH6X,1314841
+B487:3:46,Formica lugubris,,Formica,,lugubris,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,lugubris,,6JGHS,1314847,6JGHS,1314847
+B487:3:47,Formica candida,,Formica,,candida,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,candida,,6JGWC,1314849,6JGWC,1314849
+B487:3:48,Formica fusca,,Formica,,fusca,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,fusca,,6JH7P,1314881,6JH7P,1314881
+B487:3:49,Formica lemani,,Formica,,lemani,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,lemani,,6JGFX,1314960,6JGFX,1314960
+B487:3:50,Formica rufibarbis,,Formica,,rufibarbis,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,rufibarbis,,6JGLW,1315117,6JGLW,1315117
+B487:3:51,Formica cunicularia,,Formica,,cunicularia,,species,,B487:3,accepted,,,B487:3:40,Formica,,,,,Formicidae,Formicinae,Formica,,Formicidae | Formicinae | Formica,cunicularia,,6JH7S,1314946,6JH7S,1314946
+B487:3:52,Lasius,,,,,,genus,,B487:3,accepted,,,B487:3:39,Formicinae,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae,Lasius,,5B7S,1325751,5B7S,1325751
+B487:3:53,Lasius sabularum,,Lasius,,sabularum,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,sabularum,,3SGYL,5035806,3SGYL,5035806
+B487:3:54,Lasius mixtus,,Lasius,,mixtus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,mixtus,,3SGXM,5035862,3SGXM,5035862
+B487:3:55,Lasius meridionalis,,Lasius,,meridionalis,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,meridionalis,,3SGXH,5035788,3SGXH,5035788
+B487:3:56,Lasius umbratus,,Lasius,,umbratus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,umbratus,,3SGZ5,5035772,3SGZ5,5035772
+B487:3:57,Lasius fuliginosus,,Lasius,,fuliginosus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,fuliginosus,,3SGWX,5035850,3SGWX,5035850
+B487:3:58,Lasius niger,,Lasius,,niger,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,niger,"{""indistinguishableFrom"":[""B487:3:59""]}",3SGXX,5035785,3SGXX,5035785
+B487:3:59,Lasius platythorax,,Lasius,,platythorax,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,platythorax,"{""indistinguishableFrom"":[""B487:3:58""]}",3SGYB,5035793,3SGYB,5035793
+B487:3:60,Lasius flavus,,Lasius,,flavus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,flavus,,3SGWW,5035857,3SGWW,5035857
+B487:3:61,Lasius brunneus,,Lasius,,brunneus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,brunneus,,6P3BM,5035823,6P3BM,5035823
+B487:3:62,Lasius alienus,,Lasius,,alienus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,alienus,"{""indistinguishableFrom"":[""B487:3:63""]}",3SGW5,5035777,3SGW5,5035777
+B487:3:63,Lasius psammophilus,,Lasius,,psammophilus,,species,,B487:3,accepted,,,B487:3:52,Lasius,,,,,Formicidae,Formicinae,Lasius,,Formicidae | Formicinae | Lasius,psammophilus,"{""indistinguishableFrom"":[""B487:3:62""]}",6P3DH,5035767,6P3DH,5035767

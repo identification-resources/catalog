@@ -1,15 +1,15 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2068:1:1,Halobatinae,,,,,,subfamily,,B2068:1,accepted,,,,,,,,,,Halobatinae,,,,Halobatinae,JMW,,JMW,
-B2068:1:2,"Halobates Eschsch., 1822","Eschsch., 1822",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Halobates,,Halobatinae,"Halobates Eschsch., 1822",635QR,2020475,635QR,2020475
-B2068:1:3,Halobatopsis,,,,,,genus,gen. nov.,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Halobatopsis,,Halobatinae,Halobatopsis gen. nov.,4SV2,4778147,4SV2,4778147
-B2068:1:4,"Trepobates Uhler, 1894","Uhler, 1894",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Trepobates,,Halobatinae,"Trepobates Uhler, 1894",7YS9,2020479,7YS9,2020479
-B2068:1:5,"Stephania White, 1883","White, 1883",,,,,genus,preoccup.,B2068:1,synonym,B2068:1:4,"Trepobates Uhler, 1894",,,,,,,,Halobatinae,Stephania,,Halobatinae,"Stephania White, 1883 preoccup.",7MZV,3266400,7YS9,2020479
-B2068:1:6,Chimarrhometra,,,,,,genus,gen. nov.,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Chimarrhometra,,Halobatinae,Chimarrhometra gen. nov.,3N6B,4783016,3N6B,4783016
-B2068:1:7,"Brachymetra Mayr, 1865","Mayr, 1865",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Brachymetra,,Halobatinae,"Brachymetra Mayr, 1865",3CF4,3266399,3CF4,3266399
-B2068:1:8,"Metrocoris Mayr, 1865","Mayr, 1865",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Metrocoris,,Halobatinae,"Metrocoris Mayr, 1865",5R2Y,4773687,5R2Y,4773687
-B2068:1:9,"Halobatodes White, 1883","White, 1883",,,,,genus,,B2068:1,synonym,B2068:1:8,"Metrocoris Mayr, 1865",,,,,,,,Halobatinae,Halobatodes,,Halobatinae,"Halobatodes White, 1883",635R3,4779570,5R2Y,4773687
-B2068:1:10,"Rheumatobates Bergroth, 1892","Bergroth, 1892",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Rheumatobates,,Halobatinae,"Rheumatobates Bergroth, 1892",78JS,2020464,78JS,2020464
-B2068:1:11,"Hymenobates Uhler, 1894","Uhler, 1894",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Hymenobates,,Halobatinae,"Hymenobates Uhler, 1894",,4777518,,4777518
-B2068:1:12,"Metrobates Uhler, 1871","Uhler, 1871",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Metrobates,,Halobatinae,"Metrobates Uhler, 1871",62ZZ3,2020432,62ZZ3,2020432
-B2068:1:13,"Platygerris White, 1883","White, 1883",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Platygerris,,Halobatinae,"Platygerris White, 1883",63LZ5,4772461,63LZ5,4772461
-B2068:1:14,Potamometra,,,,,,genus,gen. nov.,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Potamometra,,Halobatinae,Potamometra gen. nov.,63Q25,4778033,63Q25,4778033
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2068:1:1,Halobatinae,,,,,,subfamily,,B2068:1,accepted,,,,,,,,,,Halobatinae,,,,Halobatinae,,JMW,,JMW,
+B2068:1:2,"Halobates Eschsch., 1822","Eschsch., 1822",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Halobates,,Halobatinae,"Halobates Eschsch., 1822",,635QR,2020475,635QR,2020475
+B2068:1:3,Halobatopsis,,,,,,genus,gen. nov.,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Halobatopsis,,Halobatinae,Halobatopsis gen. nov.,,4SV2,4778147,4SV2,4778147
+B2068:1:4,"Trepobates Uhler, 1894","Uhler, 1894",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Trepobates,,Halobatinae,"Trepobates Uhler, 1894",,7YS9,2020479,7YS9,2020479
+B2068:1:5,"Stephania White, 1883","White, 1883",,,,,genus,preoccup.,B2068:1,synonym,B2068:1:4,"Trepobates Uhler, 1894",,,,,,,,Halobatinae,Stephania,,Halobatinae,"Stephania White, 1883 preoccup.",,7MZV,3266400,7YS9,2020479
+B2068:1:6,Chimarrhometra,,,,,,genus,gen. nov.,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Chimarrhometra,,Halobatinae,Chimarrhometra gen. nov.,,3N6B,4783016,3N6B,4783016
+B2068:1:7,"Brachymetra Mayr, 1865","Mayr, 1865",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Brachymetra,,Halobatinae,"Brachymetra Mayr, 1865",,3CF4,3266399,3CF4,3266399
+B2068:1:8,"Metrocoris Mayr, 1865","Mayr, 1865",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Metrocoris,,Halobatinae,"Metrocoris Mayr, 1865",,5R2Y,4773687,5R2Y,4773687
+B2068:1:9,"Halobatodes White, 1883","White, 1883",,,,,genus,,B2068:1,synonym,B2068:1:8,"Metrocoris Mayr, 1865",,,,,,,,Halobatinae,Halobatodes,,Halobatinae,"Halobatodes White, 1883",,635R3,4779570,5R2Y,4773687
+B2068:1:10,"Rheumatobates Bergroth, 1892","Bergroth, 1892",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Rheumatobates,,Halobatinae,"Rheumatobates Bergroth, 1892",,78JS,2020464,78JS,2020464
+B2068:1:11,"Hymenobates Uhler, 1894","Uhler, 1894",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Hymenobates,,Halobatinae,"Hymenobates Uhler, 1894",,,4777518,,4777518
+B2068:1:12,"Metrobates Uhler, 1871","Uhler, 1871",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Metrobates,,Halobatinae,"Metrobates Uhler, 1871",,62ZZ3,2020432,62ZZ3,2020432
+B2068:1:13,"Platygerris White, 1883","White, 1883",,,,,genus,,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Platygerris,,Halobatinae,"Platygerris White, 1883",,63LZ5,4772461,63LZ5,4772461
+B2068:1:14,Potamometra,,,,,,genus,gen. nov.,B2068:1,accepted,,,B2068:1:1,Halobatinae,,,,,,Halobatinae,Potamometra,,Halobatinae,Potamometra gen. nov.,,63Q25,4778033,63Q25,4778033

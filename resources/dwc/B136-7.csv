@@ -1,22 +1,22 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B136:7:1,"Paranomus Kiesenwetter, 1858","Kiesenwetter, 1858",,,,,genus,,B136:7,accepted,,,,,,,,,,,Paranomus,,,Paranomus,8KY8X,3261285,8M73Q,4406167
-B136:7:2,Paranomus costalis (Payk.),(Payk.),Paranomus,,costalis,,species,,B136:7,accepted,,,B136:7:1,"Paranomus Kiesenwetter, 1858",,,,,,,Paranomus,,Paranomus,costalis (Payk.),,8599590,,4428967
-B136:7:3,Hypoganus,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Hypoganus,,,Hypoganus,,4406744,,4406744
-B136:7:4,Hypoganus cinctus (Lac.),(Lac.),Hypoganus,,cinctus,,species,,B136:7,accepted,,,B136:7:3,Hypoganus,,,,,,,Hypoganus,,Hypoganus,cinctus (Lac.),,8385165,,4428855
-B136:7:5,Prosternon,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Prosternon,,,Prosternon,,4404978,,4404978
-B136:7:6,Prosternon tessellatum (L.),(L.),Prosternon,,tessellatum,,species,,B136:7,accepted,,,B136:7:5,Prosternon,,,,,,,Prosternon,,Prosternon,tessellatum (L.),,4428461,,4428461
-B136:7:7,Orithales,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Orithales,,,Orithales,,4408104,,4408104
-B136:7:8,Orithales serraticornis Payk.,Payk.,Orithales,,serraticornis,,species,,B136:7,accepted,,,B136:7:7,Orithales,,,,,,,Orithales,,Orithales,serraticornis Payk.,,4428453,,4428453
-B136:7:9,Anostirus,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Anostirus,,,Anostirus,,4407285,,4407285
-B136:7:10,Anostirus castaneus L.,L.,Anostirus,,castaneus,,species,,B136:7,accepted,,,B136:7:9,Anostirus,,,,,,,Anostirus,,Anostirus,castaneus L.,,4428398,,4428398
-B136:7:11,Ctenicera,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Ctenicera,,,Ctenicera,3WX7,1162115,3WX7,1162115
-B136:7:12,Ctenicera pectinicornis (L.),(L.),Ctenicera,,pectinicornis,,species,,B136:7,accepted,,,B136:7:11,Ctenicera,,,,,,,Ctenicera,,Ctenicera,pectinicornis (L.),,4429298,,4429298
-B136:7:13,Ctenicera cuprea (Fabr.),(Fabr.),Ctenicera,,cuprea,,species,,B136:7,accepted,,,B136:7:11,Ctenicera,,,,,,,Ctenicera,,Ctenicera,cuprea (Fabr.),,4429289,,4429289
-B136:7:14,Selatosomus,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Selatosomus,,,Selatosomus,,4404324,,4404324
-B136:7:15,Selatosomus cruciatus (L.),(L.),Selatosomus,,cruciatus,,species,,B136:7,accepted,,,B136:7:14,Selatosomus,,,,,,,Selatosomus,,Selatosomus,cruciatus (L.),,4429018,,4429018
-B136:7:16,Selatosomus melancholicus (Fabr.),(Fabr.),Selatosomus,,melancholicus,,species,,B136:7,accepted,,,B136:7:14,Selatosomus,,,,,,,Selatosomus,,Selatosomus,melancholicus (Fabr.),,4429020,,4429020
-B136:7:17,Selatosomus aeneus (L.),(L.),Selatosomus,,aeneus,,species,,B136:7,accepted,,,B136:7:14,Selatosomus,,,,,,,Selatosomus,,Selatosomus,aeneus (L.),,4429000,,4429000
-B136:7:18,Actenicerus,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Actenicerus,,,Actenicerus,,4405351,,4405351
-B136:7:19,Actenicerus sjaelandicus (Müll.),(Müll.),Actenicerus,,sjaelandicus,,species,,B136:7,accepted,,,B136:7:18,Actenicerus,,,,,,,Actenicerus,,Actenicerus,sjaelandicus (Müll.),,4429370,,4429370
-B136:7:20,Liotrichus,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Liotrichus,,,Liotrichus,,4407555,,4407555
-B136:7:21,Liotrichus affinis (Payk.),(Payk.),Liotrichus,,affinis,,species,,B136:7,accepted,,,B136:7:20,Liotrichus,,,,,,,Liotrichus,,Liotrichus,affinis (Payk.),,4428685,,4428685
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:7:1,"Paranomus Kiesenwetter, 1858","Kiesenwetter, 1858",,,,,genus,,B136:7,accepted,,,,,,,,,,,Paranomus,,,Paranomus,,8KY8X,3261285,8M73Q,4406167
+B136:7:2,Paranomus costalis (Payk.),(Payk.),Paranomus,,costalis,,species,,B136:7,accepted,,,B136:7:1,"Paranomus Kiesenwetter, 1858",,,,,,,Paranomus,,Paranomus,costalis (Payk.),,,8599590,,4428967
+B136:7:3,Hypoganus,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Hypoganus,,,Hypoganus,,,4406744,,4406744
+B136:7:4,Hypoganus cinctus (Lac.),(Lac.),Hypoganus,,cinctus,,species,,B136:7,accepted,,,B136:7:3,Hypoganus,,,,,,,Hypoganus,,Hypoganus,cinctus (Lac.),,,8385165,,4428855
+B136:7:5,Prosternon,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Prosternon,,,Prosternon,,,4404978,,4404978
+B136:7:6,Prosternon tessellatum (L.),(L.),Prosternon,,tessellatum,,species,,B136:7,accepted,,,B136:7:5,Prosternon,,,,,,,Prosternon,,Prosternon,tessellatum (L.),,,4428461,,4428461
+B136:7:7,Orithales,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Orithales,,,Orithales,,,4408104,,4408104
+B136:7:8,Orithales serraticornis Payk.,Payk.,Orithales,,serraticornis,,species,,B136:7,accepted,,,B136:7:7,Orithales,,,,,,,Orithales,,Orithales,serraticornis Payk.,,,4428453,,4428453
+B136:7:9,Anostirus,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Anostirus,,,Anostirus,,,4407285,,4407285
+B136:7:10,Anostirus castaneus L.,L.,Anostirus,,castaneus,,species,,B136:7,accepted,,,B136:7:9,Anostirus,,,,,,,Anostirus,,Anostirus,castaneus L.,,,4428398,,4428398
+B136:7:11,Ctenicera,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Ctenicera,,,Ctenicera,,3WX7,1162115,3WX7,1162115
+B136:7:12,Ctenicera pectinicornis (L.),(L.),Ctenicera,,pectinicornis,,species,,B136:7,accepted,,,B136:7:11,Ctenicera,,,,,,,Ctenicera,,Ctenicera,pectinicornis (L.),,,4429298,,4429298
+B136:7:13,Ctenicera cuprea (Fabr.),(Fabr.),Ctenicera,,cuprea,,species,,B136:7,accepted,,,B136:7:11,Ctenicera,,,,,,,Ctenicera,,Ctenicera,cuprea (Fabr.),,,4429289,,4429289
+B136:7:14,Selatosomus,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Selatosomus,,,Selatosomus,,,4404324,,4404324
+B136:7:15,Selatosomus cruciatus (L.),(L.),Selatosomus,,cruciatus,,species,,B136:7,accepted,,,B136:7:14,Selatosomus,,,,,,,Selatosomus,,Selatosomus,cruciatus (L.),,,4429018,,4429018
+B136:7:16,Selatosomus melancholicus (Fabr.),(Fabr.),Selatosomus,,melancholicus,,species,,B136:7,accepted,,,B136:7:14,Selatosomus,,,,,,,Selatosomus,,Selatosomus,melancholicus (Fabr.),,,4429020,,4429020
+B136:7:17,Selatosomus aeneus (L.),(L.),Selatosomus,,aeneus,,species,,B136:7,accepted,,,B136:7:14,Selatosomus,,,,,,,Selatosomus,,Selatosomus,aeneus (L.),,,4429000,,4429000
+B136:7:18,Actenicerus,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Actenicerus,,,Actenicerus,,,4405351,,4405351
+B136:7:19,Actenicerus sjaelandicus (Müll.),(Müll.),Actenicerus,,sjaelandicus,,species,,B136:7,accepted,,,B136:7:18,Actenicerus,,,,,,,Actenicerus,,Actenicerus,sjaelandicus (Müll.),,,4429370,,4429370
+B136:7:20,Liotrichus,,,,,,genus,,B136:7,accepted,,,,,,,,,,,Liotrichus,,,Liotrichus,,,4407555,,4407555
+B136:7:21,Liotrichus affinis (Payk.),(Payk.),Liotrichus,,affinis,,species,,B136:7,accepted,,,B136:7:20,Liotrichus,,,,,,,Liotrichus,,Liotrichus,affinis (Payk.),,,4428685,,4428685

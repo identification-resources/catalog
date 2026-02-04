@@ -1,19 +1,19 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B164:2:1,Psylloidea,,,,,,superfamily,,B164:2,accepted,,,,,,,,,,,,,,Psylloidea,5KY,,5KY,
-B164:2:2,Homotoma Guérin-Méneville,Guérin-Méneville,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Homotoma,,Psylloidea,Homotoma Guérin-Méneville,4YG3,2012383,4YG3,2012383
-B164:2:3,Livia Latreille,Latreille,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Livia,,Psylloidea,Livia Latreille,CH6QT,2012522,CH6QT,2012522
-B164:2:4,Aphorma Hodkinson,Hodkinson,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Aphorma,,Psylloidea,Aphorma Hodkinson,YGN,2013773,YGN,2013773
-B164:2:5,Aphalara Förster,Förster,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Aphalara,,Psylloidea,Aphalara Förster,Y8G,2013151,Y8G,2013151
-B164:2:6,Craspedolepta Enderlein,Enderlein,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Craspedolepta,,Psylloidea,Craspedolepta Enderlein,3V85,2013634,3V85,2013634
-B164:2:7,Camarotoscena Haupt,Haupt,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Camarotoscena,,Psylloidea,Camarotoscena Haupt,62KRK,2013099,62KRK,2013099
-B164:2:8,Rhinocola Förster,Förster,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Rhinocola,,Psylloidea,Rhinocola Förster,78P9,2013782,78P9,2013782
-B164:2:9,Strophingia Enderlein,Enderlein,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Strophingia,,Psylloidea,Strophingia Enderlein,7PGZ,2013841,7PGZ,2013841
-B164:2:10,Trichochermes Kirkaldy,Kirkaldy,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Trichochermes,,Psylloidea,Trichochermes Kirkaldy,7Z95,2014751,7Z95,2014751
-B164:2:11,Trioza Förster,Förster,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Trioza,,Psylloidea,Trioza Förster,CCCRW,2014543,CCCRW,2014543
-B164:2:12,Spanioneura Förster,Förster,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Spanioneura,,Psylloidea,Spanioneura Förster,7JXC,2013200,7JXC,2013200
-B164:2:13,Calophya Löw,Löw,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Calophya,,Psylloidea,Calophya Löw,3FWD,2014566,3FWD,2014566
-B164:2:14,Psyllopsis Löw,Löw,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Psyllopsis,,Psylloidea,Psyllopsis Löw,74HL,2013571,74HL,2013571
-B164:2:15,Livilla Curtis,Curtis,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Livilla,,Psylloidea,Livilla Curtis,639YF,2014321,639YF,2014321
-B164:2:16,Arytaina Förster,Förster,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Arytaina,,Psylloidea,Arytaina Förster,33JJ,2014229,33JJ,2014229
-B164:2:17,Ctenarytaina Ferris & Klyver,Ferris & Klyver,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Ctenarytaina,,Psylloidea,Ctenarytaina Ferris & Klyver,3WWX,2013895,3WWX,2013895
-B164:2:18,Psylla Geoffroy,Geoffroy,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Psylla,,Psylloidea,Psylla Geoffroy,74H4,5153055,74H4,5153055
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B164:2:1,Psylloidea,,,,,,superfamily,,B164:2,accepted,,,,,,,,,,,,,,Psylloidea,,5KY,,5KY,
+B164:2:2,Homotoma Guérin-Méneville,Guérin-Méneville,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Homotoma,,Psylloidea,Homotoma Guérin-Méneville,,4YG3,2012383,4YG3,2012383
+B164:2:3,Livia Latreille,Latreille,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Livia,,Psylloidea,Livia Latreille,,CH6QT,2012522,CH6QT,2012522
+B164:2:4,Aphorma Hodkinson,Hodkinson,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Aphorma,,Psylloidea,Aphorma Hodkinson,,YGN,2013773,YGN,2013773
+B164:2:5,Aphalara Förster,Förster,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Aphalara,,Psylloidea,Aphalara Förster,,Y8G,2013151,Y8G,2013151
+B164:2:6,Craspedolepta Enderlein,Enderlein,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Craspedolepta,,Psylloidea,Craspedolepta Enderlein,,3V85,2013634,3V85,2013634
+B164:2:7,Camarotoscena Haupt,Haupt,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Camarotoscena,,Psylloidea,Camarotoscena Haupt,,62KRK,2013099,62KRK,2013099
+B164:2:8,Rhinocola Förster,Förster,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Rhinocola,,Psylloidea,Rhinocola Förster,,78P9,2013782,78P9,2013782
+B164:2:9,Strophingia Enderlein,Enderlein,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Strophingia,,Psylloidea,Strophingia Enderlein,,7PGZ,2013841,7PGZ,2013841
+B164:2:10,Trichochermes Kirkaldy,Kirkaldy,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Trichochermes,,Psylloidea,Trichochermes Kirkaldy,,7Z95,2014751,7Z95,2014751
+B164:2:11,Trioza Förster,Förster,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Trioza,,Psylloidea,Trioza Förster,,CCCRW,2014543,CCCRW,2014543
+B164:2:12,Spanioneura Förster,Förster,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Spanioneura,,Psylloidea,Spanioneura Förster,,7JXC,2013200,7JXC,2013200
+B164:2:13,Calophya Löw,Löw,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Calophya,,Psylloidea,Calophya Löw,,3FWD,2014566,3FWD,2014566
+B164:2:14,Psyllopsis Löw,Löw,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Psyllopsis,,Psylloidea,Psyllopsis Löw,,74HL,2013571,74HL,2013571
+B164:2:15,Livilla Curtis,Curtis,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Livilla,,Psylloidea,Livilla Curtis,,639YF,2014321,639YF,2014321
+B164:2:16,Arytaina Förster,Förster,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Arytaina,,Psylloidea,Arytaina Förster,,33JJ,2014229,33JJ,2014229
+B164:2:17,Ctenarytaina Ferris & Klyver,Ferris & Klyver,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Ctenarytaina,,Psylloidea,Ctenarytaina Ferris & Klyver,,3WWX,2013895,3WWX,2013895
+B164:2:18,Psylla Geoffroy,Geoffroy,,,,,genus,,B164:2,accepted,,,B164:2:1,Psylloidea,,,,,,,Psylla,,Psylloidea,Psylla Geoffroy,,74H4,5153055,74H4,5153055

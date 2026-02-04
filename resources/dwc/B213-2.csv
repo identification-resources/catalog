@@ -1,5 +1,5 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B213:2:1,Alomyinae,,,,,,subfamily,,B213:2,accepted,,,,,,,,,,Alomyinae,,,,ALOMYINAE,,,,
-B213:2:2,Alomya Panzer,Panzer,,,,,genus,,B213:2,accepted,,,B213:2:1,Alomyinae,,,,,,Alomyinae,Alomya,,Alomyinae,Alomya Panzer,SSW,1276462,SSW,1276462
-B213:2:3,Alomya debellator (F.),(F.),Alomya,,debellator,,species,,B213:2,accepted,,,B213:2:2,Alomya Panzer,,,,,,Alomyinae,Alomya,,Alomyinae | Alomya,debellator (F.),C4GY,1276464,C4GY,1276464
-B213:2:4,Alomya semiflava Stephens,Stephens,Alomya,,semiflava,,species,,B213:2,accepted,,,B213:2:2,Alomya Panzer,,,,,,Alomyinae,Alomya,,Alomyinae | Alomya,semiflava Stephens,C4HB,1276478,C4HB,1276478
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B213:2:1,Alomyinae,,,,,,subfamily,,B213:2,accepted,,,,,,,,,,Alomyinae,,,,ALOMYINAE,,,,,
+B213:2:2,Alomya Panzer,Panzer,,,,,genus,,B213:2,accepted,,,B213:2:1,Alomyinae,,,,,,Alomyinae,Alomya,,Alomyinae,Alomya Panzer,,SSW,1276462,SSW,1276462
+B213:2:3,Alomya debellator (F.),(F.),Alomya,,debellator,,species,,B213:2,accepted,,,B213:2:2,Alomya Panzer,,,,,,Alomyinae,Alomya,,Alomyinae | Alomya,debellator (F.),,C4GY,1276464,C4GY,1276464
+B213:2:4,Alomya semiflava Stephens,Stephens,Alomya,,semiflava,,species,,B213:2,accepted,,,B213:2:2,Alomya Panzer,,,,,,Alomyinae,Alomya,,Alomyinae | Alomya,semiflava Stephens,,C4HB,1276478,C4HB,1276478

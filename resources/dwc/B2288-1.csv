@@ -1,19 +1,19 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2288:1:1,Didea,,,,,,genus,,B2288:1,accepted,,,,,,,,,,,Didea,,,Didea,BYBSJ,1542022,BYBSJ,1542022
-B2288:1:2,Didea fuscipes,,Didea,,fuscipes,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,fuscipes,35WJJ,1542024,35WJJ,1542024
-B2288:1:3,Didea alneti,,Didea,,alneti,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,alneti,35WJC,1542030,35WJC,1542030
-B2288:1:4,Didea fasciata,,Didea,,fasciata,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,fasciata,35WJG,1542027,35WJG,1542027
-B2288:1:5,Didea intermedia,,Didea,,intermedia,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,intermedia,35WJK,1542026,35WJK,1542026
-B2288:1:6,Didea zhontiaoshanensis,,Didea,,zhontiaoshanensis,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,zhontiaoshanensis,9HV6B,11804860,9HV6B,11804860
-B2288:1:7,Didea subalneti,,Didea,,subalneti,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,subalneti,35WJR,1542029,35WJR,1542029
-B2288:1:8,Didea vockerothi,,Didea,,vockerothi,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,vockerothi,35WJT,1542023,35WJT,1542023
-B2288:1:9,Didea poorva,,Didea,,poorva,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,poorva,35WJP,1542035,35WJP,1542035
-B2288:1:10,Dideomima,,,,,,genus,,B2288:1,accepted,,,,,,,,,,,Dideomima,,,Dideomima,BYBSL,1542993,BYBSL,1542993
-B2288:1:11,Dideomima coquiletti,,Dideomima,,coquiletti,,species,,B2288:1,accepted,,,B2288:1:10,Dideomima,,,,,,,Dideomima,,Dideomima,coquiletti,35WWV,1542994,35WWV,1542994
-B2288:1:12,Asiodidea,,,,,,genus,,B2288:1,accepted,,,,,,,,,,,Asiodidea,,,Asiodidea,BY7QP,1537679,BY7QP,1537679
-B2288:1:13,Asiodidea nikkoensis,,Asiodidea,,nikkoensis,,species,,B2288:1,accepted,,,B2288:1:12,Asiodidea,,,,,,,Asiodidea,,Asiodidea,nikkoensis,6867V,1537680,6867V,1537680
-B2288:1:14,Megasyrphus,,,,,,genus,,B2288:1,accepted,,,,,,,,,,,Megasyrphus,,,Megasyrphus,CD965,1539313,CD965,1539313
-B2288:1:15,Megasyrphus laxus,,Megasyrphus,,laxus,,species,,B2288:1,accepted,,,B2288:1:14,Megasyrphus,,,,,,,Megasyrphus,,Megasyrphus,laxus,9HJHF,12050585,9HJHF,12050585
-B2288:1:16,Megasyrphus catalina,,Megasyrphus,,catalina,,species,,B2288:1,accepted,,,B2288:1:14,Megasyrphus,,,,,,,Megasyrphus,,Megasyrphus,catalina,9HTDZ,12104548,9HTDZ,12104548
-B2288:1:17,Megasyrphus alashayicus,,Megasyrphus,,alashayicus,,species,,B2288:1,accepted,,,B2288:1:14,Megasyrphus,,,,,,,Megasyrphus,,Megasyrphus,alashayicus,8CS9C,1543338,8CS9C,1543338
-B2288:1:18,Megasyrphus erraticus,,Megasyrphus,,erraticus,,species,,B2288:1,accepted,,,B2288:1:14,Megasyrphus,,,,,,,Megasyrphus,,Megasyrphus,erraticus,9HJHD,6098357,9HJHD,6098357
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2288:1:1,Didea,,,,,,genus,,B2288:1,accepted,,,,,,,,,,,Didea,,,Didea,,BYBSJ,1542022,BYBSJ,1542022
+B2288:1:2,Didea fuscipes,,Didea,,fuscipes,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,fuscipes,,35WJJ,1542024,35WJJ,1542024
+B2288:1:3,Didea alneti,,Didea,,alneti,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,alneti,,35WJC,1542030,35WJC,1542030
+B2288:1:4,Didea fasciata,,Didea,,fasciata,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,fasciata,,35WJG,1542027,35WJG,1542027
+B2288:1:5,Didea intermedia,,Didea,,intermedia,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,intermedia,,35WJK,1542026,35WJK,1542026
+B2288:1:6,Didea zhontiaoshanensis,,Didea,,zhontiaoshanensis,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,zhontiaoshanensis,,9HV6B,11804860,9HV6B,11804860
+B2288:1:7,Didea subalneti,,Didea,,subalneti,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,subalneti,,35WJR,1542029,35WJR,1542029
+B2288:1:8,Didea vockerothi,,Didea,,vockerothi,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,vockerothi,,35WJT,1542023,35WJT,1542023
+B2288:1:9,Didea poorva,,Didea,,poorva,,species,,B2288:1,accepted,,,B2288:1:1,Didea,,,,,,,Didea,,Didea,poorva,,35WJP,1542035,35WJP,1542035
+B2288:1:10,Dideomima,,,,,,genus,,B2288:1,accepted,,,,,,,,,,,Dideomima,,,Dideomima,,BYBSL,1542993,BYBSL,1542993
+B2288:1:11,Dideomima coquiletti,,Dideomima,,coquiletti,,species,,B2288:1,accepted,,,B2288:1:10,Dideomima,,,,,,,Dideomima,,Dideomima,coquiletti,,35WWV,1542994,35WWV,1542994
+B2288:1:12,Asiodidea,,,,,,genus,,B2288:1,accepted,,,,,,,,,,,Asiodidea,,,Asiodidea,,BY7QP,1537679,BY7QP,1537679
+B2288:1:13,Asiodidea nikkoensis,,Asiodidea,,nikkoensis,,species,,B2288:1,accepted,,,B2288:1:12,Asiodidea,,,,,,,Asiodidea,,Asiodidea,nikkoensis,,6867V,1537680,6867V,1537680
+B2288:1:14,Megasyrphus,,,,,,genus,,B2288:1,accepted,,,,,,,,,,,Megasyrphus,,,Megasyrphus,,CD965,1539313,CD965,1539313
+B2288:1:15,Megasyrphus laxus,,Megasyrphus,,laxus,,species,,B2288:1,accepted,,,B2288:1:14,Megasyrphus,,,,,,,Megasyrphus,,Megasyrphus,laxus,,9HJHF,12050585,9HJHF,12050585
+B2288:1:16,Megasyrphus catalina,,Megasyrphus,,catalina,,species,,B2288:1,accepted,,,B2288:1:14,Megasyrphus,,,,,,,Megasyrphus,,Megasyrphus,catalina,,9HTDZ,12104548,9HTDZ,12104548
+B2288:1:17,Megasyrphus alashayicus,,Megasyrphus,,alashayicus,,species,,B2288:1,accepted,,,B2288:1:14,Megasyrphus,,,,,,,Megasyrphus,,Megasyrphus,alashayicus,,8CS9C,1543338,8CS9C,1543338
+B2288:1:18,Megasyrphus erraticus,,Megasyrphus,,erraticus,,species,,B2288:1,accepted,,,B2288:1:14,Megasyrphus,,,,,,,Megasyrphus,,Megasyrphus,erraticus,,9HJHD,6098357,9HJHD,6098357

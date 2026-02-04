@@ -1,6 +1,6 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B136:22:1,Corticaria,,,,,,genus,,B136:22,accepted,,,,,,,,,,,Corticaria,,,Corticaria,62M9K,1043833,62M9K,1043833
-B136:22:2,Corticaria interstitialis Mnh.,Mnh.,Corticaria,,interstitialis,,species,,B136:22,accepted,,,B136:22:1,Corticaria,,,,,,,Corticaria,,Corticaria,interstitialis Mnh.,,4450900,,4450900
-B136:22:3,Corticaria impressa,,Corticaria,,impressa,,species,,B136:22,accepted,,,B136:22:1,Corticaria,,,,,,,Corticaria,,Corticaria,impressa,,4450954,,4450954
-B136:22:4,Corticaria rubripes,,Corticaria,,rubripes,,species,,B136:22,accepted,,,B136:22:1,Corticaria,,,,,,,Corticaria,,Corticaria,rubripes,,4450983,,4450983
-B136:22:5,Corticaria linearis,,Corticaria,,linearis,,species,,B136:22,synonym,B136:22:4,Corticaria rubripes,,,,,,,,,Corticaria,,Corticaria,linearis,,6097718,,4450983
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:22:1,Corticaria,,,,,,genus,,B136:22,accepted,,,,,,,,,,,Corticaria,,,Corticaria,,62M9K,1043833,62M9K,1043833
+B136:22:2,Corticaria interstitialis Mnh.,Mnh.,Corticaria,,interstitialis,,species,,B136:22,accepted,,,B136:22:1,Corticaria,,,,,,,Corticaria,,Corticaria,interstitialis Mnh.,,,4450900,,4450900
+B136:22:3,Corticaria impressa,,Corticaria,,impressa,,species,,B136:22,accepted,,,B136:22:1,Corticaria,,,,,,,Corticaria,,Corticaria,impressa,,,4450954,,4450954
+B136:22:4,Corticaria rubripes,,Corticaria,,rubripes,,species,,B136:22,accepted,,,B136:22:1,Corticaria,,,,,,,Corticaria,,Corticaria,rubripes,,,4450983,,4450983
+B136:22:5,Corticaria linearis,,Corticaria,,linearis,,species,,B136:22,synonym,B136:22:4,Corticaria rubripes,,,,,,,,,Corticaria,,Corticaria,linearis,,,6097718,,4450983

@@ -1,13 +1,13 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2290:1:1,Syrphus,,,,,,genus,,B2290:1,accepted,,,,,,,,,,,Syrphus,,,Syrphus,BYR92,1444606,BYR92,1444606
-B2290:1:2,Syrphus attenuatus,,Syrphus,,attenuatus,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,attenuatus,8F7S6,1537291,8F7S6,1537291
-B2290:1:3,Syrphus currani,,Syrphus,,currani,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,currani,8F7S7,1537263,8F7S7,1537263
-B2290:1:4,Syrphus intricatus,,Syrphus,,intricatus,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,intricatus,8F7S9,1537208,8F7S9,1537208
-B2290:1:5,Syrphus knabi,,Syrphus,,knabi,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,knabi,8F7SC,1537241,8F7SC,1537241
-B2290:1:6,Syrphus opinator,,Syrphus,,opinator,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,opinator,8F7SG,1537209,8F7SG,1537209
-B2290:1:7,Syrphus rectus,,Syrphus,,rectus,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,rectus,8F7SL,1537313,8F7SL,1537313
-B2290:1:8,Syrphus ribesii,,Syrphus,,ribesii,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,ribesii,8F7SN,1537266,8F7SN,1537266
-B2290:1:9,Syrphus sexmaculatus,,Syrphus,,sexmaculatus,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,sexmaculatus,8F7SP,1537259,8F7SP,1537259
-B2290:1:10,Syrphus sonorensis,,Syrphus,,sonorensis,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,sonorensis,8F7SR,1537198,8F7SR,1537198
-B2290:1:11,Syrphus torvus,,Syrphus,,torvus,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,torvus,8F7SS,1537245,8F7SS,1537245
-B2290:1:12,Syrphus vitripennis,,Syrphus,,vitripennis,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,vitripennis,8F7ST,1537212,8F7ST,1537212
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2290:1:1,Syrphus,,,,,,genus,,B2290:1,accepted,,,,,,,,,,,Syrphus,,,Syrphus,,BYR92,1444606,BYR92,1444606
+B2290:1:2,Syrphus attenuatus,,Syrphus,,attenuatus,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,attenuatus,,8F7S6,1537291,8F7S6,1537291
+B2290:1:3,Syrphus currani,,Syrphus,,currani,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,currani,,8F7S7,1537263,8F7S7,1537263
+B2290:1:4,Syrphus intricatus,,Syrphus,,intricatus,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,intricatus,,8F7S9,1537208,8F7S9,1537208
+B2290:1:5,Syrphus knabi,,Syrphus,,knabi,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,knabi,,8F7SC,1537241,8F7SC,1537241
+B2290:1:6,Syrphus opinator,,Syrphus,,opinator,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,opinator,,8F7SG,1537209,8F7SG,1537209
+B2290:1:7,Syrphus rectus,,Syrphus,,rectus,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,rectus,,8F7SL,1537313,8F7SL,1537313
+B2290:1:8,Syrphus ribesii,,Syrphus,,ribesii,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,ribesii,,8F7SN,1537266,8F7SN,1537266
+B2290:1:9,Syrphus sexmaculatus,,Syrphus,,sexmaculatus,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,sexmaculatus,,8F7SP,1537259,8F7SP,1537259
+B2290:1:10,Syrphus sonorensis,,Syrphus,,sonorensis,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,sonorensis,,8F7SR,1537198,8F7SR,1537198
+B2290:1:11,Syrphus torvus,,Syrphus,,torvus,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,torvus,,8F7SS,1537245,8F7SS,1537245
+B2290:1:12,Syrphus vitripennis,,Syrphus,,vitripennis,,species,,B2290:1,accepted,,,B2290:1:1,Syrphus,,,,,,,Syrphus,,Syrphus,vitripennis,,8F7ST,1537212,8F7ST,1537212

@@ -1,8 +1,8 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B48:1:1,Diptera,,,,,,order,,B48:1,accepted,,,,,,,,Diptera,,,,,,Diptera,D2P,811,D2P,811
-B48:1:2,Muscidae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Muscidae,,,,Diptera,Muscidae,CZP,5564,CZP,5564
-B48:1:3,Anthomyiidae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Anthomyiidae,,,,Diptera,Anthomyiidae,6H7,3330,6H7,3330
-B48:1:4,Tachinidae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Tachinidae,,,,Diptera,Tachinidae,GVY,6918,GVY,6918
-B48:1:5,Calliphoridae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Calliphoridae,,,,Diptera,Calliphoridae,BXWBJ,3335,BXWBJ,3335
-B48:1:6,Sarcophagidae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Sarcophagidae,,,,Diptera,Sarcophagidae,FYF,9508,FYF,9508
-B48:1:7,Rhinophoridae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Rhinophoridae,,,,Diptera,Rhinophoridae,,5589,,5589
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B48:1:1,Diptera,,,,,,order,,B48:1,accepted,,,,,,,,Diptera,,,,,,Diptera,,D2P,811,D2P,811
+B48:1:2,Muscidae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Muscidae,,,,Diptera,Muscidae,"{""indistinguishableFrom"":[""B48:1:3""]}",CZP,5564,CZP,5564
+B48:1:3,Anthomyiidae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Anthomyiidae,,,,Diptera,Anthomyiidae,"{""indistinguishableFrom"":[""B48:1:2""]}",6H7,3330,6H7,3330
+B48:1:4,Tachinidae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Tachinidae,,,,Diptera,Tachinidae,,GVY,6918,GVY,6918
+B48:1:5,Calliphoridae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Calliphoridae,,,,Diptera,Calliphoridae,"{""indistinguishableFrom"":[""B48:1:6""]}",BXWBJ,3335,BXWBJ,3335
+B48:1:6,Sarcophagidae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Sarcophagidae,,,,Diptera,Sarcophagidae,"{""indistinguishableFrom"":[""B48:1:5""]}",FYF,9508,FYF,9508
+B48:1:7,Rhinophoridae,,,,,,family,,B48:1,accepted,,,B48:1:1,Diptera,,,,Diptera,Rhinophoridae,,,,Diptera,Rhinophoridae,,,5589,,5589

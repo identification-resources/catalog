@@ -1,23 +1,23 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B557:1:1,Boloria,,,,,,genus,,B557:1,accepted,,,,,,,,,,,Boloria,,,Boloria,923X6,1912319,923X6,1912319
-B557:1:2,Boloria euphrosyne,,Boloria,,euphrosyne,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,euphrosyne,,5772893,,1894268
-B557:1:3,Boloria selene,,Boloria,,selene,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,selene,68NV3,1912325,68NV3,1912325
-B557:1:4,Boloria dia,,Boloria,,dia,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,dia,,5772890,,5772890
-B557:1:5,Boloria titania,,Boloria,,titania,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,titania,,4299597,,4299597
-B557:1:6,Boloria titania subsp. cypris,,Boloria,,titania,cypris,subspecies,,B557:1,accepted,,,B557:1:5,Boloria titania,,,,,,,Boloria,,Boloria | Boloria titania,cypris,,9576555,,4299597
-B557:1:7,Boloria aquilonaris,,Boloria,,aquilonaris,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,aquilonaris,68NVH,1912372,68NVH,1912372
-B557:1:8,Boloria eunomia,,Boloria,,eunomia,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,eunomia,,4299535,,4299535
-B557:1:9,Boloria eunomia subsp. ossiana,,Boloria,,eunomia,ossiana,subspecies,,B557:1,accepted,,,B557:1:8,Boloria eunomia,,,,,,,Boloria,,Boloria | Boloria eunomia,ossiana,,8175078,,8175078
-B557:1:10,Boloria napaea,,Boloria,,napaea,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,napaea,68NV4,1912470,68NV4,1912470
-B557:1:11,Boloria napaea subsp. pyreneorientalis,,Boloria,,napaea,pyreneorientalis,subspecies,,B557:1,accepted,,,B557:1:10,Boloria napaea,,,,,,,Boloria,,Boloria | Boloria napaea,pyreneorientalis,BL3WW,6227740,BL3WW,6227740
-B557:1:12,Boloria pales,,Boloria,,pales,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,pales,5WNV3,7799370,5WNV3,7799370
-B557:1:13,Boloria pales subsp. palustris,,Boloria,,pales,palustris,subspecies,,B557:1,accepted,,,B557:1:12,Boloria pales,,,,,,,Boloria,,Boloria | Boloria pales,palustris,,9473404,,7799370
-B557:1:14,Boloria pales subsp. pyrenesmiscens,,Boloria,,pales,pyrenesmiscens,subspecies,,B557:1,accepted,,,B557:1:12,Boloria pales,,,,,,,Boloria,,Boloria | Boloria pales,pyrenesmiscens,,9295439,,7799370
-B557:1:15,Boloria thore,,Boloria,,thore,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,thore,,7428726,,7428726
-B557:1:16,Boloria thore subsp. borealis,,Boloria,,thore,borealis,subspecies,,B557:1,accepted,,,B557:1:15,Boloria thore,,,,,,,Boloria,,Boloria | Boloria thore,borealis,,8023173,,6232432
-B557:1:17,Boloria graeca,,Boloria,,graeca,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,graeca,5WNV5,1912395,5WNV5,1912395
-B557:1:18,Boloria freija,,Boloria,,freija,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,freija,,10962881,,10962881
-B557:1:19,Boloria frigga,,Boloria,,frigga,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,frigga,,10985513,,10985513
-B557:1:20,Boloria chericlea,,Boloria,,chericlea,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,chericlea,,4299565,,4299565
-B557:1:21,Boloria polaris,,Boloria,,polaris,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,polaris,,4299553,,1894164
-B557:1:22,Boloria improba,,Boloria,,improba,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,improba,,4299581,,5882039
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B557:1:1,Boloria,,,,,,genus,,B557:1,accepted,,,,,,,,,,,Boloria,,,Boloria,,923X6,1912319,923X6,1912319
+B557:1:2,Boloria euphrosyne,,Boloria,,euphrosyne,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,euphrosyne,,,5772893,,1894268
+B557:1:3,Boloria selene,,Boloria,,selene,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,selene,,68NV3,1912325,68NV3,1912325
+B557:1:4,Boloria dia,,Boloria,,dia,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,dia,,,5772890,,5772890
+B557:1:5,Boloria titania,,Boloria,,titania,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,titania,,,4299597,,4299597
+B557:1:6,Boloria titania subsp. cypris,,Boloria,,titania,cypris,subspecies,,B557:1,accepted,,,B557:1:5,Boloria titania,,,,,,,Boloria,,Boloria | Boloria titania,cypris,,,9576555,,4299597
+B557:1:7,Boloria aquilonaris,,Boloria,,aquilonaris,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,aquilonaris,,68NVH,1912372,68NVH,1912372
+B557:1:8,Boloria eunomia,,Boloria,,eunomia,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,eunomia,,,4299535,,4299535
+B557:1:9,Boloria eunomia subsp. ossiana,,Boloria,,eunomia,ossiana,subspecies,,B557:1,accepted,,,B557:1:8,Boloria eunomia,,,,,,,Boloria,,Boloria | Boloria eunomia,ossiana,,,8175078,,8175078
+B557:1:10,Boloria napaea,,Boloria,,napaea,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,napaea,,68NV4,1912470,68NV4,1912470
+B557:1:11,Boloria napaea subsp. pyreneorientalis,,Boloria,,napaea,pyreneorientalis,subspecies,,B557:1,accepted,,,B557:1:10,Boloria napaea,,,,,,,Boloria,,Boloria | Boloria napaea,pyreneorientalis,,BL3WW,6227740,BL3WW,6227740
+B557:1:12,Boloria pales,,Boloria,,pales,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,pales,,5WNV3,7799370,5WNV3,7799370
+B557:1:13,Boloria pales subsp. palustris,,Boloria,,pales,palustris,subspecies,,B557:1,accepted,,,B557:1:12,Boloria pales,,,,,,,Boloria,,Boloria | Boloria pales,palustris,,,9473404,,7799370
+B557:1:14,Boloria pales subsp. pyrenesmiscens,,Boloria,,pales,pyrenesmiscens,subspecies,,B557:1,accepted,,,B557:1:12,Boloria pales,,,,,,,Boloria,,Boloria | Boloria pales,pyrenesmiscens,,,9295439,,7799370
+B557:1:15,Boloria thore,,Boloria,,thore,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,thore,,,7428726,,7428726
+B557:1:16,Boloria thore subsp. borealis,,Boloria,,thore,borealis,subspecies,,B557:1,accepted,,,B557:1:15,Boloria thore,,,,,,,Boloria,,Boloria | Boloria thore,borealis,,,8023173,,6232432
+B557:1:17,Boloria graeca,,Boloria,,graeca,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,graeca,,5WNV5,1912395,5WNV5,1912395
+B557:1:18,Boloria freija,,Boloria,,freija,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,freija,,,10962881,,10962881
+B557:1:19,Boloria frigga,,Boloria,,frigga,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,frigga,,,10985513,,10985513
+B557:1:20,Boloria chericlea,,Boloria,,chericlea,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,chericlea,,,4299565,,4299565
+B557:1:21,Boloria polaris,,Boloria,,polaris,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,polaris,,,4299553,,1894164
+B557:1:22,Boloria improba,,Boloria,,improba,,species,,B557:1,accepted,,,B557:1:1,Boloria,,,,,,,Boloria,,Boloria,improba,,,4299581,,5882039

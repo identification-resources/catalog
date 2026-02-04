@@ -1,6 +1,6 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B136:18:1,Stephostethus,,,,,,genus,,B136:18,accepted,,,,,,,,,,,Stephostethus,,,Stephostethus,,4406987,,4406987
-B136:18:2,Lathridius,,,,,,genus,auct.,B136:18,synonym,B136:18:1,Stephostethus,,,,,,,,,Lathridius,,,Lathridius auct.,62XFN,6758120,62XFN,6758120
-B136:18:3,Stephostethus sahlbergi (Rtt.),(Rtt.),Stephostethus,,sahlbergi,,species,,B136:18,accepted,,,B136:18:1,Stephostethus,,,,,,,Stephostethus,,Stephostethus,sahlbergi (Rtt.),,4451164,,4451159
-B136:18:4,Stephostethus variolosus (Mnh.),(Mnh.),Stephostethus,,variolosus,,species,,B136:18,accepted,,,B136:18:1,Stephostethus,,,,,,,Stephostethus,,Stephostethus,variolosa (Mnh.),,4451195,,4451195
-B136:18:5,Stephostethus pandellei (Bris.),(Bris.),Stephostethus,,pandellei,,species,,B136:18,accepted,,,B136:18:1,Stephostethus,,,,,,,Stephostethus,,Stephostethus,pandellei (Bris.),,4451188,,4451188
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:18:1,Stephostethus,,,,,,genus,,B136:18,accepted,,,,,,,,,,,Stephostethus,,,Stephostethus,,,4406987,,4406987
+B136:18:2,Lathridius,,,,,,genus,auct.,B136:18,synonym,B136:18:1,Stephostethus,,,,,,,,,Lathridius,,,Lathridius auct.,,62XFN,6758120,62XFN,6758120
+B136:18:3,Stephostethus sahlbergi (Rtt.),(Rtt.),Stephostethus,,sahlbergi,,species,,B136:18,accepted,,,B136:18:1,Stephostethus,,,,,,,Stephostethus,,Stephostethus,sahlbergi (Rtt.),,,4451164,,4451159
+B136:18:4,Stephostethus variolosus (Mnh.),(Mnh.),Stephostethus,,variolosus,,species,,B136:18,accepted,,,B136:18:1,Stephostethus,,,,,,,Stephostethus,,Stephostethus,variolosa (Mnh.),,,4451195,,4451195
+B136:18:5,Stephostethus pandellei (Bris.),(Bris.),Stephostethus,,pandellei,,species,,B136:18,accepted,,,B136:18:1,Stephostethus,,,,,,,Stephostethus,,Stephostethus,pandellei (Bris.),,,4451188,,4451188

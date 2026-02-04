@@ -1,14 +1,14 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B80:1:1,Ulidia Meigen 1826,Meigen 1826,,,,,genus,,B80:1,accepted,,,,,,,,,,,Ulidia,,,Ulidia Meigen 1826,BYSFL,1523603,BYSFL,1523603
-B80:1:2,Ulidia salonikiensis Hennig,Hennig,Ulidia,,salonikiensis,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,salonikiensis Hennig,9HMMP,4518455,7DFV2,1523605
-B80:1:3,Ulidia apicalis Meigen,Meigen,Ulidia,,apicalis,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,apicalis Meigen,8FK8C,4518454,8FK8C,4518454
-B80:1:4,Ulidia megacephala Loew,Loew,Ulidia,,megacephala,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,megacephala Loew,7DG6N,1523610,7DG6N,1523610
-B80:1:5,Ulidia atrata Loew,Loew,Ulidia,,atrata,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,atrata Loew,7DG74,1523609,7DG74,1523609
-B80:1:6,Ulidia ruficeps Becker,Becker,Ulidia,,ruficeps,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,ruficeps Becker,7DG6W,1523623,7DG6W,1523623
-B80:1:7,Ulidia omani Steyskal,Steyskal,Ulidia,,omani,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,omani Steyskal,7DG79,1523607,7DFV2,1523605
-B80:1:8,Ulidia facialis Hendel,Hendel,Ulidia,,facialis,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,facialis Hendel,7DFV2,1523605,7DFV2,1523605
-B80:1:9,Ulidia wadicola Steyskal,Steyskal,Ulidia,,wadicola,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,wadicola Steyskal,7DG76,1523613,7DG76,1523613
-B80:1:10,Ulidia nigripennis Loew,Loew,Ulidia,,nigripennis,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,nigripennis Loew,7DG6Y,1523611,7DG6Y,1523611
-B80:1:11,Ulidia semiopaca Loew,Loew,Ulidia,,semiopaca,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,semiopaca Loew,7DG6V,1523620,7DG73,1523618
-B80:1:12,Ulidia erythrophthalma Meigen,Meigen,Ulidia,,erythrophthalma,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,erythrophthalma Meigen,7DG73,1523618,7DG73,1523618
-B80:1:13,Ulidia albidipennis Loew,Loew,Ulidia,,albidipennis,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,albidipennis Loew,7DG6S,1523616,7DG6S,1523616
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B80:1:1,Ulidia Meigen 1826,Meigen 1826,,,,,genus,,B80:1,accepted,,,,,,,,,,,Ulidia,,,Ulidia Meigen 1826,,BYSFL,1523603,BYSFL,1523603
+B80:1:2,Ulidia salonikiensis Hennig,Hennig,Ulidia,,salonikiensis,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,salonikiensis Hennig,,9HMMP,4518455,7DFV2,1523605
+B80:1:3,Ulidia apicalis Meigen,Meigen,Ulidia,,apicalis,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,apicalis Meigen,,8FK8C,4518454,8FK8C,4518454
+B80:1:4,Ulidia megacephala Loew,Loew,Ulidia,,megacephala,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,megacephala Loew,,7DG6N,1523610,7DG6N,1523610
+B80:1:5,Ulidia atrata Loew,Loew,Ulidia,,atrata,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,atrata Loew,,7DG74,1523609,7DG74,1523609
+B80:1:6,Ulidia ruficeps Becker,Becker,Ulidia,,ruficeps,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,ruficeps Becker,,7DG6W,1523623,7DG6W,1523623
+B80:1:7,Ulidia omani Steyskal,Steyskal,Ulidia,,omani,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,omani Steyskal,,7DG79,1523607,7DFV2,1523605
+B80:1:8,Ulidia facialis Hendel,Hendel,Ulidia,,facialis,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,facialis Hendel,,7DFV2,1523605,7DFV2,1523605
+B80:1:9,Ulidia wadicola Steyskal,Steyskal,Ulidia,,wadicola,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,wadicola Steyskal,,7DG76,1523613,7DG76,1523613
+B80:1:10,Ulidia nigripennis Loew,Loew,Ulidia,,nigripennis,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,nigripennis Loew,,7DG6Y,1523611,7DG6Y,1523611
+B80:1:11,Ulidia semiopaca Loew,Loew,Ulidia,,semiopaca,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,semiopaca Loew,,7DG6V,1523620,7DG73,1523618
+B80:1:12,Ulidia erythrophthalma Meigen,Meigen,Ulidia,,erythrophthalma,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,erythrophthalma Meigen,,7DG73,1523618,7DG73,1523618
+B80:1:13,Ulidia albidipennis Loew,Loew,Ulidia,,albidipennis,,species,,B80:1,accepted,,,B80:1:1,Ulidia Meigen 1826,,,,,,,Ulidia,,Ulidia,albidipennis Loew,,7DG6S,1523616,7DG6S,1523616

@@ -1,75 +1,75 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B1548:1:1,Agriolimacidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Agriolimacidae,,,,,Agriolimacidae,7NH7Y,4567719,7NH7Y,4567719
-B1548:1:2,Deroceras,,,,,,genus,,B1548:1,accepted,,,B1548:1:1,Agriolimacidae,,,,,Agriolimacidae,,Deroceras,,Agriolimacidae,Deroceras,7NVTB,5190776,7NVTB,5190776
-B1548:1:3,Deroceras reticulatum,,Deroceras,,reticulatum,,species,,B1548:1,accepted,,,B1548:1:2,Deroceras,,,,,Agriolimacidae,,Deroceras,,Agriolimacidae | Deroceras,reticulatum,34Y3N,5781277,34Y3N,5781277
-B1548:1:4,Deroceras invadens,,Deroceras,,invadens,,species,,B1548:1,accepted,,,B1548:1:2,Deroceras,,,,,Agriolimacidae,,Deroceras,,Agriolimacidae | Deroceras,invadens,34Y2F,8745918,34Y2F,8745918
-B1548:1:5,Deroceras laeve,,Deroceras,,laeve,,species,,B1548:1,accepted,,,B1548:1:2,Deroceras,,,,,Agriolimacidae,,Deroceras,,Agriolimacidae | Deroceras,laeve,34Y2R,5781358,34Y2R,5781358
-B1548:1:6,Anadenidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Anadenidae,,,,,Anadenidae,7NH9Z,6880556,7NH9Z,6880556
-B1548:1:7,Prophysaon,,,,,,genus,,B1548:1,accepted,,,B1548:1:6,Anadenidae,,,,,Anadenidae,,Prophysaon,,Anadenidae,Prophysaon,7PDHH,2294057,7PDHH,2294057
-B1548:1:8,Prophysaon foliolatum,,Prophysaon,,foliolatum,,species,,B1548:1,accepted,,,B1548:1:7,Prophysaon,,,,,Anadenidae,,Prophysaon,,Anadenidae | Prophysaon,foliolatum,7ST8H,2294061,7ST8H,2294061
-B1548:1:9,Prophysaon andersoni,,Prophysaon,,andersoni,,species,,B1548:1,accepted,,,B1548:1:7,Prophysaon,,,,,Anadenidae,,Prophysaon,,Anadenidae | Prophysaon,andersoni,C4R7H,2294065,7ST89,2294065
-B1548:1:10,Ariolimacidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Ariolimacidae,,,,,Ariolimacidae,7NWCC,6879769,7NWCC,6879769
-B1548:1:11,Ariolimax,,,,,,genus,,B1548:1,accepted,,,B1548:1:10,Ariolimacidae,,,,,Ariolimacidae,,Ariolimax,,Ariolimacidae,Ariolimax,7NPPJ,2294088,7NPPJ,2294088
-B1548:1:12,Ariolimax columbianus,,Ariolimax,,columbianus,,species,,B1548:1,accepted,,,B1548:1:11,Ariolimax,,,,,Ariolimacidae,,Ariolimax,,Ariolimacidae | Ariolimax,columbianus,8P3X8,2294090,8P3X8,2294090
-B1548:1:13,Arionidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Arionidae,,,,,Arionidae,7NFZC,2629,7NFZC,2629
-B1548:1:14,Arion,,,,,,genus,,B1548:1,accepted,,,B1548:1:13,Arionidae,,,,,Arionidae,,Arion,,Arionidae,Arion,7NPPK,11365773,7NPPK,11365773
-B1548:1:15,Arion intermedius,,Arion,,intermedius,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,intermedius,GMV7,2294097,GMV7,2294097
-B1548:1:16,Arion distinctus,,Arion,,distinctus,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,distinctus,67QX5,2294096,67QX5,2294096
-B1548:1:17,Arion hortensis,,Arion,,hortensis,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,hortensis,GMV6,11049437,GMV6,11049437
-B1548:1:18,Arion circumscriptus,,Arion,,circumscriptus,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,circumscriptus,67QWT,11035800,682X5,2294102
-B1548:1:19,Arion circumscriptus subsp. circumscriptus,,Arion,,circumscriptus,circumscriptus,subspecies,,B1548:1,accepted,,,B1548:1:18,Arion circumscriptus,,,,,Arionidae,,Arion,,Arionidae | Arion | Arion circumscriptus,circumscriptus subsp. circumscriptus,,11143905,,11143905
-B1548:1:20,Arion circumscriptus subsp. silvaticus,,Arion,,circumscriptus,silvaticus,subspecies,,B1548:1,accepted,,,B1548:1:18,Arion circumscriptus,,,,,Arionidae,,Arion,,Arionidae | Arion | Arion circumscriptus,circumscriptus subsp. silvaticus,7V4ZH,11215085,682X5,11215085
-B1548:1:21,Arion subfuscus,,Arion,,subfuscus,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,subfuscus,GMVP,2294099,GMVP,2294099
-B1548:1:22,Arion rufus,,Arion,,rufus,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,rufus,GMTN,2294103,C69NB,2294103
-B1548:1:23,Boettgerillidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Boettgerillidae,,,,,Boettgerillidae,7NHL3,4567716,7NHL3,4567716
-B1548:1:24,Boettgerilla,,,,,,genus,,B1548:1,accepted,,,B1548:1:23,Boettgerillidae,,,,,Boettgerillidae,,Boettgerilla,,Boettgerillidae,Boettgerilla,7NTFN,8995946,7NTFN,8995946
-B1548:1:25,Boettgerilla pallens,,Boettgerilla,,pallens,,species,,B1548:1,accepted,,,B1548:1:24,Boettgerilla,,,,,Boettgerillidae,,Boettgerilla,,Boettgerillidae | Boettgerilla,pallens,5WLLD,4567717,5WLLD,4567717
-B1548:1:26,Bradybaenidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Bradybaenidae,,,,,Bradybaenidae,BDTZH,6547,7NG9L,5495
-B1548:1:27,Monadenia,,,,,,genus,,B1548:1,accepted,,,B1548:1:26,Bradybaenidae,,,,,Bradybaenidae,,Monadenia,,Bradybaenidae,Monadenia,7P96F,2297136,7P96F,2297136
-B1548:1:28,Monadenia chaceana,,Monadenia,,chaceana,,species,,B1548:1,accepted,,,B1548:1:27,Monadenia,,,,,Bradybaenidae,,Monadenia,,Bradybaenidae | Monadenia,chaceana,7S6MT,5191168,7S6MT,5191168
-B1548:1:29,Monadenia fidelis,,Monadenia,,fidelis,,species,,B1548:1,accepted,,,B1548:1:27,Monadenia,,,,,Bradybaenidae,,Monadenia,,Bradybaenidae | Monadenia,fidelis,43ZRG,5191176,43ZRG,5191176
-B1548:1:30,Cionellidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Cionellidae,,,,,Cionellidae,BG3FV,6545,7NGVS,6544
-B1548:1:31,Cochlicopa,,,,,,genus,,B1548:1,accepted,,,B1548:1:30,Cionellidae,,,,,Cionellidae,,Cochlicopa,,Cionellidae,Cochlicopa,7NT7W,2295973,7NT7W,2295973
-B1548:1:32,Cochlicopa lubrica,,Cochlicopa,,lubrica,,species,,B1548:1,accepted,,,B1548:1:31,Cochlicopa,,,,,Cionellidae,,Cochlicopa,,Cionellidae | Cochlicopa,lubrica,WN3Z,2295977,WN3Z,2295977
-B1548:1:33,Haplotrematidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Haplotrematidae,,,,,Haplotrematidae,7NHS2,6541,7NHS2,6541
-B1548:1:34,Ancotrema,,,,,,genus,,B1548:1,accepted,,,B1548:1:33,Haplotrematidae,,,,,Haplotrematidae,,Ancotrema,,Haplotrematidae,Ancotrema,7NP36,2295996,7NP36,2295996
-B1548:1:35,Ancotrema sportella,,Ancotrema,,sportella,,species,,B1548:1,accepted,,,B1548:1:34,Ancotrema,,,,,Haplotrematidae,,Ancotrema,,Haplotrematidae | Ancotrema,sportella,7Q3VB,2295997,7Q3VB,2295997
-B1548:1:36,Ancotrema hybridum,,Ancotrema,,hybridum,,species,,B1548:1,accepted,,,B1548:1:34,Ancotrema,,,,,Haplotrematidae,,Ancotrema,,Haplotrematidae | Ancotrema,hybridum,7Q3V9,2295999,7Q3VB,2295997
-B1548:1:37,Haplotrema,,,,,,genus,,B1548:1,accepted,,,B1548:1:33,Haplotrematidae,,,,,Haplotrematidae,,Haplotrema,,Haplotrematidae,Haplotrema,7P4SF,2295980,7P4SF,2295980
-B1548:1:38,Haplotrema concavum,,Haplotrema,,concavum,,species,,B1548:1,accepted,,,B1548:1:37,Haplotrema,,,,,Haplotrematidae,,Haplotrema,,Haplotrematidae | Haplotrema,concavum,7RH9J,2295986,7RH9J,2295986
-B1548:1:39,Haplotrema vancouverense,,Haplotrema,,vancouverense,,species,,B1548:1,accepted,,,B1548:1:37,Haplotrema,,,,,Haplotrematidae,,Haplotrema,,Haplotrematidae | Haplotrema,vancouverense,7RH9T,2295989,7RH9T,2295989
-B1548:1:40,Helicidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Helicidae,,,,,Helicidae,7NHSG,6540,7NHSG,6540
-B1548:1:41,Cepaea,,,,,,genus,,B1548:1,accepted,,,B1548:1:40,Helicidae,,,,,Helicidae,,Cepaea,,Helicidae,Cepaea,7NS7V,2294278,7NS7V,2294278
-B1548:1:42,Cepaea nemoralis,,Cepaea,,nemoralis,,species,,B1548:1,accepted,,,B1548:1:41,Cepaea,,,,,Helicidae,,Cepaea,,Helicidae | Cepaea,nemoralis,SBY4,2294280,SBY4,2294280
-B1548:1:43,Helix,,,,,,genus,,B1548:1,accepted,,,B1548:1:40,Helicidae,,,,,Helicidae,,Helix,,Helicidae,Helix,7P4YB,9107644,7P4YB,9107644
-B1548:1:44,Helix aspersa,,Helix,,aspersa,,species,,B1548:1,accepted,,,B1548:1:43,Helix,,,,,Helicidae,,Helix,,Helicidae | Helix,aspersa,CJ4LQ,5190508,YG75,5858758
-B1548:1:45,Hygromiidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Hygromiidae,,,,,Hygromiidae,7NHWM,2627,7NHWM,2627
-B1548:1:46,Candidula,,,,,,genus,,B1548:1,accepted,,,B1548:1:45,Hygromiidae,,,,,Hygromiidae,,Candidula,,Hygromiidae,Candidula,7NRSL,2296796,7NRSL,2296796
-B1548:1:47,Candidula intersecta,,Candidula,,intersecta,,species,,B1548:1,accepted,,,B1548:1:46,Candidula,,,,,Hygromiidae,,Candidula,,Hygromiidae | Candidula,intersecta,QLLY,2296797,7G9PR,9890104
-B1548:1:48,Limacidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Limacidae,,,,,Limacidae,8R3JH,6537,8R3JH,6537
-B1548:1:49,Ambigolimax,,,,,,genus,,B1548:1,accepted,,,B1548:1:48,Limacidae,,,,,Limacidae,,Ambigolimax,,Limacidae,Ambigolimax,7NP4P,4584368,7NP4P,4584368
-B1548:1:50,Ambigolimax valentianus,,Ambigolimax,,valentianus,,species,,B1548:1,accepted,,,B1548:1:49,Ambigolimax,,,,,Limacidae,,Ambigolimax,,Limacidae | Ambigolimax,valentianus,CL6W,8014163,CL6W,8014163
-B1548:1:51,Limacus,,,,,,genus,,B1548:1,accepted,,,B1548:1:48,Limacidae,,,,,Limacidae,,Limacus,,Limacidae,Limacus,7P7H2,2295441,7P7H2,2295441
-B1548:1:52,Limacus flavus,,Limacus,,flavus,,species,,B1548:1,accepted,,,B1548:1:51,Limacus,,,,,Limacidae,,Limacus,,Limacidae | Limacus,flavus,6PZD8,2295442,6PZD8,2295442
-B1548:1:53,Limax,,,,,,genus,,B1548:1,accepted,,,B1548:1:48,Limacidae,,,,,Limacidae,,Limax,,Limacidae,Limax,7P7HM,2295435,7P7HM,2295435
-B1548:1:54,Limax maximus,,Limax,,maximus,,species,,B1548:1,accepted,,,B1548:1:53,Limax,,,,,Limacidae,,Limax,,Limacidae | Limax,maximus,6QBDG,2295438,6QBDG,2295438
-B1548:1:55,Milacidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Milacidae,,,,,Milacidae,7NJT4,6536,7NJT4,6536
-B1548:1:56,Milax,,,,,,genus,,B1548:1,accepted,,,B1548:1:55,Milacidae,,,,,Milacidae,,Milax,,Milacidae,Milax,7P8YT,2297107,7P8YT,2297107
-B1548:1:57,Milax gigates,,Milax,,gigates,,species,,B1548:1,accepted,,,B1548:1:56,Milax,,,,,Milacidae,,Milax,,Milacidae | Milax,gigates,,11337460,,2297108
-B1548:1:58,Oxychilidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Oxychilidae,,,,,Oxychilidae,7NK8H,3245287,7NK8H,3245287
-B1548:1:59,Oxychilus,,,,,,genus,,B1548:1,accepted,,,B1548:1:58,Oxychilidae,,,,,Oxychilidae,,Oxychilus,,Oxychilidae,Oxychilus,7PBG5,5190766,7PBG5,5190766
-B1548:1:60,Oxychilus draparnaudi,,Oxychilus,,draparnaudi,,species,,B1548:1,accepted,,,B1548:1:59,Oxychilus,,,,,Oxychilidae,,Oxychilus,,Oxychilidae | Oxychilus,draparnaudi,6TFZS,5190767,6TFZS,5190767
-B1548:1:61,Oxychilus alliarius,,Oxychilus,,alliarius,,species,,B1548:1,accepted,,,B1548:1:59,Oxychilus,,,,,Oxychilidae,,Oxychilus,,Oxychilidae | Oxychilus,alliarius,4BDQ6,5190769,4BDQ6,5190769
-B1548:1:62,Oxychilus cellarius,,Oxychilus,,cellarius,,species,,B1548:1,accepted,,,B1548:1:59,Oxychilus,,,,,Oxychilidae,,Oxychilus,,Oxychilidae | Oxychilus,cellarius,4BDQK,5190768,4BDQK,5190768
-B1548:1:63,Polygyridae,,,,,,family,,B1548:1,accepted,,,,,,,,,Polygyridae,,,,,Polygyridae,7NKL6,2624,7NKL6,2624
-B1548:1:64,Vespericola,,,,,,genus,,B1548:1,accepted,,,B1548:1:63,Polygyridae,,,,,Polygyridae,,Vespericola,,Polygyridae,Vespericola,7PKRT,2295756,7PKRT,2295756
-B1548:1:65,Vespericola columbianus,,Vespericola,,columbianus,,species,,B1548:1,accepted,,,B1548:1:64,Vespericola,,,,,Polygyridae,,Vespericola,,Polygyridae | Vespericola,columbianus,B73WM,2295768,B73WM,2295768
-B1548:1:66,Succineidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Succineidae,,,,,Succineidae,7NL7P,6531,7NL7P,6531
-B1548:1:67,Catinella,,,,,,genus,,B1548:1,accepted,,,B1548:1:66,Succineidae,,,,,Succineidae,,Catinella,,Succineidae,Catinella,7NS3G,2297180,7NS3G,2297180
-B1548:1:68,Novisuccinea,,,,,,genus,,B1548:1,accepted,,,B1548:1:66,Succineidae,,,,,Succineidae,,Novisuccinea,,Succineidae,Novisuccinea,7P9ZT,10670654,7P9ZT,10670654
-B1548:1:69,Oxyloma,,,,,,genus,,B1548:1,accepted,,,B1548:1:66,Succineidae,,,,,Succineidae,,Oxyloma,,Succineidae,Oxyloma,7PBGC,7921295,7PBGC,7921295
-B1548:1:70,Succinea,,,,,,genus,,B1548:1,accepted,,,B1548:1:66,Succineidae,,,,,Succineidae,,Succinea,,Succineidae,Succinea,7PHRS,2297197,7PHRS,2297197
-B1548:1:71,Succinea concordialis,,Succinea,,concordialis,,species,,B1548:1,accepted,,,B1548:1:70,Succinea,,,,,Succineidae,,Succinea,,Succineidae | Succinea,concordialis,7T9J6,8953368,7T9J6,8953368
-B1548:1:72,Testacellidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Testacellidae,,,,,Testacellidae,7NL9L,6530,7NL9L,6530
-B1548:1:73,Testacella,,,,,,genus,,B1548:1,accepted,,,B1548:1:72,Testacellidae,,,,,Testacellidae,,Testacella,,Testacellidae,Testacella,7PJ8C,5190911,7PJ8C,5190911
-B1548:1:74,Testacella haliotidea,,Testacella,,haliotidea,,species,,B1548:1,accepted,,,B1548:1:73,Testacella,,,,,Testacellidae,,Testacella,,Testacellidae | Testacella,haliotidea,55JJN,5190912,55JJN,5190912
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1548:1:1,Agriolimacidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Agriolimacidae,,,,,Agriolimacidae,,7NH7Y,4567719,7NH7Y,4567719
+B1548:1:2,Deroceras,,,,,,genus,,B1548:1,accepted,,,B1548:1:1,Agriolimacidae,,,,,Agriolimacidae,,Deroceras,,Agriolimacidae,Deroceras,,7NVTB,5190776,7NVTB,5190776
+B1548:1:3,Deroceras reticulatum,,Deroceras,,reticulatum,,species,,B1548:1,accepted,,,B1548:1:2,Deroceras,,,,,Agriolimacidae,,Deroceras,,Agriolimacidae | Deroceras,reticulatum,,34Y3N,5781277,34Y3N,5781277
+B1548:1:4,Deroceras invadens,,Deroceras,,invadens,,species,,B1548:1,accepted,,,B1548:1:2,Deroceras,,,,,Agriolimacidae,,Deroceras,,Agriolimacidae | Deroceras,invadens,,34Y2F,8745918,34Y2F,8745918
+B1548:1:5,Deroceras laeve,,Deroceras,,laeve,,species,,B1548:1,accepted,,,B1548:1:2,Deroceras,,,,,Agriolimacidae,,Deroceras,,Agriolimacidae | Deroceras,laeve,,34Y2R,5781358,34Y2R,5781358
+B1548:1:6,Anadenidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Anadenidae,,,,,Anadenidae,,7NH9Z,6880556,7NH9Z,6880556
+B1548:1:7,Prophysaon,,,,,,genus,,B1548:1,accepted,,,B1548:1:6,Anadenidae,,,,,Anadenidae,,Prophysaon,,Anadenidae,Prophysaon,,7PDHH,2294057,7PDHH,2294057
+B1548:1:8,Prophysaon foliolatum,,Prophysaon,,foliolatum,,species,,B1548:1,accepted,,,B1548:1:7,Prophysaon,,,,,Anadenidae,,Prophysaon,,Anadenidae | Prophysaon,foliolatum,"{""identifiable"":false}",7ST8H,2294061,7ST8H,2294061
+B1548:1:9,Prophysaon andersoni,,Prophysaon,,andersoni,,species,,B1548:1,accepted,,,B1548:1:7,Prophysaon,,,,,Anadenidae,,Prophysaon,,Anadenidae | Prophysaon,andersoni,"{""identifiable"":false}",C4R7H,2294065,7ST89,2294065
+B1548:1:10,Ariolimacidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Ariolimacidae,,,,,Ariolimacidae,,7NWCC,6879769,7NWCC,6879769
+B1548:1:11,Ariolimax,,,,,,genus,,B1548:1,accepted,,,B1548:1:10,Ariolimacidae,,,,,Ariolimacidae,,Ariolimax,,Ariolimacidae,Ariolimax,,7NPPJ,2294088,7NPPJ,2294088
+B1548:1:12,Ariolimax columbianus,,Ariolimax,,columbianus,,species,,B1548:1,accepted,,,B1548:1:11,Ariolimax,,,,,Ariolimacidae,,Ariolimax,,Ariolimacidae | Ariolimax,columbianus,,8P3X8,2294090,8P3X8,2294090
+B1548:1:13,Arionidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Arionidae,,,,,Arionidae,,7NFZC,2629,7NFZC,2629
+B1548:1:14,Arion,,,,,,genus,,B1548:1,accepted,,,B1548:1:13,Arionidae,,,,,Arionidae,,Arion,,Arionidae,Arion,,7NPPK,11365773,7NPPK,11365773
+B1548:1:15,Arion intermedius,,Arion,,intermedius,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,intermedius,,GMV7,2294097,GMV7,2294097
+B1548:1:16,Arion distinctus,,Arion,,distinctus,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,distinctus,"{""indistinguishableFrom"":[""B1548:1:17""]}",67QX5,2294096,67QX5,2294096
+B1548:1:17,Arion hortensis,,Arion,,hortensis,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,hortensis,"{""indistinguishableFrom"":[""B1548:1:16""]}",GMV6,11049437,GMV6,11049437
+B1548:1:18,Arion circumscriptus,,Arion,,circumscriptus,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,circumscriptus,,67QWT,11035800,682X5,2294102
+B1548:1:19,Arion circumscriptus subsp. circumscriptus,,Arion,,circumscriptus,circumscriptus,subspecies,,B1548:1,accepted,,,B1548:1:18,Arion circumscriptus,,,,,Arionidae,,Arion,,Arionidae | Arion | Arion circumscriptus,circumscriptus subsp. circumscriptus,"{""identifiable"":false}",,11143905,,11143905
+B1548:1:20,Arion circumscriptus subsp. silvaticus,,Arion,,circumscriptus,silvaticus,subspecies,,B1548:1,accepted,,,B1548:1:18,Arion circumscriptus,,,,,Arionidae,,Arion,,Arionidae | Arion | Arion circumscriptus,circumscriptus subsp. silvaticus,"{""identifiable"":false}",7V4ZH,11215085,682X5,11215085
+B1548:1:21,Arion subfuscus,,Arion,,subfuscus,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,subfuscus,,GMVP,2294099,GMVP,2294099
+B1548:1:22,Arion rufus,,Arion,,rufus,,species,,B1548:1,accepted,,,B1548:1:14,Arion,,,,,Arionidae,,Arion,,Arionidae | Arion,rufus,,GMTN,2294103,C69NB,2294103
+B1548:1:23,Boettgerillidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Boettgerillidae,,,,,Boettgerillidae,,7NHL3,4567716,7NHL3,4567716
+B1548:1:24,Boettgerilla,,,,,,genus,,B1548:1,accepted,,,B1548:1:23,Boettgerillidae,,,,,Boettgerillidae,,Boettgerilla,,Boettgerillidae,Boettgerilla,,7NTFN,8995946,7NTFN,8995946
+B1548:1:25,Boettgerilla pallens,,Boettgerilla,,pallens,,species,,B1548:1,accepted,,,B1548:1:24,Boettgerilla,,,,,Boettgerillidae,,Boettgerilla,,Boettgerillidae | Boettgerilla,pallens,,5WLLD,4567717,5WLLD,4567717
+B1548:1:26,Bradybaenidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Bradybaenidae,,,,,Bradybaenidae,,BDTZH,6547,7NG9L,5495
+B1548:1:27,Monadenia,,,,,,genus,,B1548:1,accepted,,,B1548:1:26,Bradybaenidae,,,,,Bradybaenidae,,Monadenia,,Bradybaenidae,Monadenia,,7P96F,2297136,7P96F,2297136
+B1548:1:28,Monadenia chaceana,,Monadenia,,chaceana,,species,,B1548:1,accepted,,,B1548:1:27,Monadenia,,,,,Bradybaenidae,,Monadenia,,Bradybaenidae | Monadenia,chaceana,"{""identifiable"":false}",7S6MT,5191168,7S6MT,5191168
+B1548:1:29,Monadenia fidelis,,Monadenia,,fidelis,,species,,B1548:1,accepted,,,B1548:1:27,Monadenia,,,,,Bradybaenidae,,Monadenia,,Bradybaenidae | Monadenia,fidelis,"{""identifiable"":false}",43ZRG,5191176,43ZRG,5191176
+B1548:1:30,Cionellidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Cionellidae,,,,,Cionellidae,,BG3FV,6545,7NGVS,6544
+B1548:1:31,Cochlicopa,,,,,,genus,,B1548:1,accepted,,,B1548:1:30,Cionellidae,,,,,Cionellidae,,Cochlicopa,,Cionellidae,Cochlicopa,,7NT7W,2295973,7NT7W,2295973
+B1548:1:32,Cochlicopa lubrica,,Cochlicopa,,lubrica,,species,,B1548:1,accepted,,,B1548:1:31,Cochlicopa,,,,,Cionellidae,,Cochlicopa,,Cionellidae | Cochlicopa,lubrica,,WN3Z,2295977,WN3Z,2295977
+B1548:1:33,Haplotrematidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Haplotrematidae,,,,,Haplotrematidae,,7NHS2,6541,7NHS2,6541
+B1548:1:34,Ancotrema,,,,,,genus,,B1548:1,accepted,,,B1548:1:33,Haplotrematidae,,,,,Haplotrematidae,,Ancotrema,,Haplotrematidae,Ancotrema,,7NP36,2295996,7NP36,2295996
+B1548:1:35,Ancotrema sportella,,Ancotrema,,sportella,,species,,B1548:1,accepted,,,B1548:1:34,Ancotrema,,,,,Haplotrematidae,,Ancotrema,,Haplotrematidae | Ancotrema,sportella,"{""identifiable"":false}",7Q3VB,2295997,7Q3VB,2295997
+B1548:1:36,Ancotrema hybridum,,Ancotrema,,hybridum,,species,,B1548:1,accepted,,,B1548:1:34,Ancotrema,,,,,Haplotrematidae,,Ancotrema,,Haplotrematidae | Ancotrema,hybridum,"{""identifiable"":false}",7Q3V9,2295999,7Q3VB,2295997
+B1548:1:37,Haplotrema,,,,,,genus,,B1548:1,accepted,,,B1548:1:33,Haplotrematidae,,,,,Haplotrematidae,,Haplotrema,,Haplotrematidae,Haplotrema,,7P4SF,2295980,7P4SF,2295980
+B1548:1:38,Haplotrema concavum,,Haplotrema,,concavum,,species,,B1548:1,accepted,,,B1548:1:37,Haplotrema,,,,,Haplotrematidae,,Haplotrema,,Haplotrematidae | Haplotrema,concavum,,7RH9J,2295986,7RH9J,2295986
+B1548:1:39,Haplotrema vancouverense,,Haplotrema,,vancouverense,,species,,B1548:1,accepted,,,B1548:1:37,Haplotrema,,,,,Haplotrematidae,,Haplotrema,,Haplotrematidae | Haplotrema,vancouverense,,7RH9T,2295989,7RH9T,2295989
+B1548:1:40,Helicidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Helicidae,,,,,Helicidae,,7NHSG,6540,7NHSG,6540
+B1548:1:41,Cepaea,,,,,,genus,,B1548:1,accepted,,,B1548:1:40,Helicidae,,,,,Helicidae,,Cepaea,,Helicidae,Cepaea,,7NS7V,2294278,7NS7V,2294278
+B1548:1:42,Cepaea nemoralis,,Cepaea,,nemoralis,,species,,B1548:1,accepted,,,B1548:1:41,Cepaea,,,,,Helicidae,,Cepaea,,Helicidae | Cepaea,nemoralis,,SBY4,2294280,SBY4,2294280
+B1548:1:43,Helix,,,,,,genus,,B1548:1,accepted,,,B1548:1:40,Helicidae,,,,,Helicidae,,Helix,,Helicidae,Helix,,7P4YB,9107644,7P4YB,9107644
+B1548:1:44,Helix aspersa,,Helix,,aspersa,,species,,B1548:1,accepted,,,B1548:1:43,Helix,,,,,Helicidae,,Helix,,Helicidae | Helix,aspersa,,CJ4LQ,5190508,YG75,5858758
+B1548:1:45,Hygromiidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Hygromiidae,,,,,Hygromiidae,,7NHWM,2627,7NHWM,2627
+B1548:1:46,Candidula,,,,,,genus,,B1548:1,accepted,,,B1548:1:45,Hygromiidae,,,,,Hygromiidae,,Candidula,,Hygromiidae,Candidula,,7NRSL,2296796,7NRSL,2296796
+B1548:1:47,Candidula intersecta,,Candidula,,intersecta,,species,,B1548:1,accepted,,,B1548:1:46,Candidula,,,,,Hygromiidae,,Candidula,,Hygromiidae | Candidula,intersecta,,QLLY,2296797,7G9PR,9890104
+B1548:1:48,Limacidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Limacidae,,,,,Limacidae,,8R3JH,6537,8R3JH,6537
+B1548:1:49,Ambigolimax,,,,,,genus,,B1548:1,accepted,,,B1548:1:48,Limacidae,,,,,Limacidae,,Ambigolimax,,Limacidae,Ambigolimax,,7NP4P,4584368,7NP4P,4584368
+B1548:1:50,Ambigolimax valentianus,,Ambigolimax,,valentianus,,species,,B1548:1,accepted,,,B1548:1:49,Ambigolimax,,,,,Limacidae,,Ambigolimax,,Limacidae | Ambigolimax,valentianus,,CL6W,8014163,CL6W,8014163
+B1548:1:51,Limacus,,,,,,genus,,B1548:1,accepted,,,B1548:1:48,Limacidae,,,,,Limacidae,,Limacus,,Limacidae,Limacus,,7P7H2,2295441,7P7H2,2295441
+B1548:1:52,Limacus flavus,,Limacus,,flavus,,species,,B1548:1,accepted,,,B1548:1:51,Limacus,,,,,Limacidae,,Limacus,,Limacidae | Limacus,flavus,,6PZD8,2295442,6PZD8,2295442
+B1548:1:53,Limax,,,,,,genus,,B1548:1,accepted,,,B1548:1:48,Limacidae,,,,,Limacidae,,Limax,,Limacidae,Limax,,7P7HM,2295435,7P7HM,2295435
+B1548:1:54,Limax maximus,,Limax,,maximus,,species,,B1548:1,accepted,,,B1548:1:53,Limax,,,,,Limacidae,,Limax,,Limacidae | Limax,maximus,,6QBDG,2295438,6QBDG,2295438
+B1548:1:55,Milacidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Milacidae,,,,,Milacidae,,7NJT4,6536,7NJT4,6536
+B1548:1:56,Milax,,,,,,genus,,B1548:1,accepted,,,B1548:1:55,Milacidae,,,,,Milacidae,,Milax,,Milacidae,Milax,,7P8YT,2297107,7P8YT,2297107
+B1548:1:57,Milax gigates,,Milax,,gigates,,species,,B1548:1,accepted,,,B1548:1:56,Milax,,,,,Milacidae,,Milax,,Milacidae | Milax,gigates,,,11337460,,2297108
+B1548:1:58,Oxychilidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Oxychilidae,,,,,Oxychilidae,,7NK8H,3245287,7NK8H,3245287
+B1548:1:59,Oxychilus,,,,,,genus,,B1548:1,accepted,,,B1548:1:58,Oxychilidae,,,,,Oxychilidae,,Oxychilus,,Oxychilidae,Oxychilus,,7PBG5,5190766,7PBG5,5190766
+B1548:1:60,Oxychilus draparnaudi,,Oxychilus,,draparnaudi,,species,,B1548:1,accepted,,,B1548:1:59,Oxychilus,,,,,Oxychilidae,,Oxychilus,,Oxychilidae | Oxychilus,draparnaudi,"{""identifiable"":false}",6TFZS,5190767,6TFZS,5190767
+B1548:1:61,Oxychilus alliarius,,Oxychilus,,alliarius,,species,,B1548:1,accepted,,,B1548:1:59,Oxychilus,,,,,Oxychilidae,,Oxychilus,,Oxychilidae | Oxychilus,alliarius,"{""identifiable"":false}",4BDQ6,5190769,4BDQ6,5190769
+B1548:1:62,Oxychilus cellarius,,Oxychilus,,cellarius,,species,,B1548:1,accepted,,,B1548:1:59,Oxychilus,,,,,Oxychilidae,,Oxychilus,,Oxychilidae | Oxychilus,cellarius,"{""identifiable"":false}",4BDQK,5190768,4BDQK,5190768
+B1548:1:63,Polygyridae,,,,,,family,,B1548:1,accepted,,,,,,,,,Polygyridae,,,,,Polygyridae,,7NKL6,2624,7NKL6,2624
+B1548:1:64,Vespericola,,,,,,genus,,B1548:1,accepted,,,B1548:1:63,Polygyridae,,,,,Polygyridae,,Vespericola,,Polygyridae,Vespericola,,7PKRT,2295756,7PKRT,2295756
+B1548:1:65,Vespericola columbianus,,Vespericola,,columbianus,,species,,B1548:1,accepted,,,B1548:1:64,Vespericola,,,,,Polygyridae,,Vespericola,,Polygyridae | Vespericola,columbianus,"{""identifiable"":false}",B73WM,2295768,B73WM,2295768
+B1548:1:66,Succineidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Succineidae,,,,,Succineidae,,7NL7P,6531,7NL7P,6531
+B1548:1:67,Catinella,,,,,,genus,,B1548:1,accepted,,,B1548:1:66,Succineidae,,,,,Succineidae,,Catinella,,Succineidae,Catinella,"{""identifiable"":false}",7NS3G,2297180,7NS3G,2297180
+B1548:1:68,Novisuccinea,,,,,,genus,,B1548:1,accepted,,,B1548:1:66,Succineidae,,,,,Succineidae,,Novisuccinea,,Succineidae,Novisuccinea,"{""identifiable"":false}",7P9ZT,10670654,7P9ZT,10670654
+B1548:1:69,Oxyloma,,,,,,genus,,B1548:1,accepted,,,B1548:1:66,Succineidae,,,,,Succineidae,,Oxyloma,,Succineidae,Oxyloma,"{""identifiable"":false}",7PBGC,7921295,7PBGC,7921295
+B1548:1:70,Succinea,,,,,,genus,,B1548:1,accepted,,,B1548:1:66,Succineidae,,,,,Succineidae,,Succinea,,Succineidae,Succinea,"{""identifiable"":false}",7PHRS,2297197,7PHRS,2297197
+B1548:1:71,Succinea concordialis,,Succinea,,concordialis,,species,,B1548:1,accepted,,,B1548:1:70,Succinea,,,,,Succineidae,,Succinea,,Succineidae | Succinea,concordialis,"{""identifiable"":false}",7T9J6,8953368,7T9J6,8953368
+B1548:1:72,Testacellidae,,,,,,family,,B1548:1,accepted,,,,,,,,,Testacellidae,,,,,Testacellidae,,7NL9L,6530,7NL9L,6530
+B1548:1:73,Testacella,,,,,,genus,,B1548:1,accepted,,,B1548:1:72,Testacellidae,,,,,Testacellidae,,Testacella,,Testacellidae,Testacella,,7PJ8C,5190911,7PJ8C,5190911
+B1548:1:74,Testacella haliotidea,,Testacella,,haliotidea,,species,,B1548:1,accepted,,,B1548:1:73,Testacella,,,,,Testacellidae,,Testacella,,Testacellidae | Testacella,haliotidea,,55JJN,5190912,55JJN,5190912

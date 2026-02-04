@@ -1,15 +1,15 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B441:1:1,Notozus,,,,,,genus,,B441:1,accepted,,,,,,,,,,,Notozus,,,Notozus,,4678610,,4405609
-B441:1:2,Notozus bidens Förster,Förster,Notozus,,bidens,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,bidens Förster,,4493891,,4493890
-B441:1:3,Notozus pyrosomus Förster,Förster,Notozus,,pyrosomus,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,pyrosomus Förster,,4493893,,4493892
-B441:1:4,Notozus pyrosomus var. purpureus,,Notozus,,pyrosomus,purpureus,variety,var. nov.,B441:1,accepted,,,B441:1:3,Notozus pyrosomus Förster,,,,,,,Notozus,,Notozus | Notozus pyrosomus,purpureus var. nov.,,,,
-B441:1:5,Notozus albipennis Mocsáry,Mocsáry,Notozus,,albipennis,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,albipennis Mocsáry,,,,
-B441:1:6,Notozus spina (Lepeletier),(Lepeletier),Notozus,,spina,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,spina (Lepeletier),,10119361,,4493894
-B441:1:7,"Notozus constrictus Förster, 1853","Förster, 1853",Notozus,,constrictus,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,"constrictus Förster, 1853",,6547452,,4493894
-B441:1:8,Notozus constrictus var. soror Mocsáry,Mocsáry,Notozus,,constrictus,soror,variety,,B441:1,accepted,,,B441:1:7,"Notozus constrictus Förster, 1853",,,,,,,Notozus,,Notozus | Notozus constrictus,soror Mocsáry,,,,
-B441:1:9,Notozus constrictus var. coeruleus (Dahlbom),(Dahlbom),Notozus,,constrictus,coeruleus,variety,,B441:1,accepted,,,B441:1:7,"Notozus constrictus Förster, 1853",,,,,,,Notozus,,Notozus | Notozus constrictus,coeruleus (Dahlbom),,,,
-B441:1:10,Notozus constrictus var. angustatus Mocsáry,Mocsáry,Notozus,,constrictus,angustatus,variety,,B441:1,accepted,,,B441:1:7,"Notozus constrictus Förster, 1853",,,,,,,Notozus,,Notozus | Notozus constrictus,angustatus Mocsáry,,,,
-B441:1:11,Notozus constrictus var. ambiguus Dahlbom,Dahlbom,Notozus,,constrictus,ambiguus,variety,,B441:1,accepted,,,B441:1:7,"Notozus constrictus Förster, 1853",,,,,,,Notozus,,Notozus | Notozus constrictus,ambiguus Dahlbom,,,,
-B441:1:12,Notozus panzeri (Fabricius),(Fabricius),Notozus,,panzeri,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,panzeri (Fabricius),,10363665,,4493900
-B441:1:13,Notozus sanzii (Gogorza),(Gogorza),Notozus,,sanzii,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,sanzii (Gogorza),,,,
-B441:1:14,Notozus foveatus (Mocsáry),(Mocsáry),Notozus,,foveatus,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,foveatus (Mocsáry),,,,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B441:1:1,Notozus,,,,,,genus,,B441:1,accepted,,,,,,,,,,,Notozus,,,Notozus,,,4678610,,4405609
+B441:1:2,Notozus bidens Förster,Förster,Notozus,,bidens,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,bidens Förster,,,4493891,,4493890
+B441:1:3,Notozus pyrosomus Förster,Förster,Notozus,,pyrosomus,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,pyrosomus Förster,,,4493893,,4493892
+B441:1:4,Notozus pyrosomus var. purpureus,,Notozus,,pyrosomus,purpureus,variety,var. nov.,B441:1,accepted,,,B441:1:3,Notozus pyrosomus Förster,,,,,,,Notozus,,Notozus | Notozus pyrosomus,purpureus var. nov.,,,,,
+B441:1:5,Notozus albipennis Mocsáry,Mocsáry,Notozus,,albipennis,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,albipennis Mocsáry,,,,,
+B441:1:6,Notozus spina (Lepeletier),(Lepeletier),Notozus,,spina,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,spina (Lepeletier),,,10119361,,4493894
+B441:1:7,"Notozus constrictus Förster, 1853","Förster, 1853",Notozus,,constrictus,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,"constrictus Förster, 1853",,,6547452,,4493894
+B441:1:8,Notozus constrictus var. soror Mocsáry,Mocsáry,Notozus,,constrictus,soror,variety,,B441:1,accepted,,,B441:1:7,"Notozus constrictus Förster, 1853",,,,,,,Notozus,,Notozus | Notozus constrictus,soror Mocsáry,,,,,
+B441:1:9,Notozus constrictus var. coeruleus (Dahlbom),(Dahlbom),Notozus,,constrictus,coeruleus,variety,,B441:1,accepted,,,B441:1:7,"Notozus constrictus Förster, 1853",,,,,,,Notozus,,Notozus | Notozus constrictus,coeruleus (Dahlbom),,,,,
+B441:1:10,Notozus constrictus var. angustatus Mocsáry,Mocsáry,Notozus,,constrictus,angustatus,variety,,B441:1,accepted,,,B441:1:7,"Notozus constrictus Förster, 1853",,,,,,,Notozus,,Notozus | Notozus constrictus,angustatus Mocsáry,,,,,
+B441:1:11,Notozus constrictus var. ambiguus Dahlbom,Dahlbom,Notozus,,constrictus,ambiguus,variety,,B441:1,accepted,,,B441:1:7,"Notozus constrictus Förster, 1853",,,,,,,Notozus,,Notozus | Notozus constrictus,ambiguus Dahlbom,,,,,
+B441:1:12,Notozus panzeri (Fabricius),(Fabricius),Notozus,,panzeri,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,panzeri (Fabricius),,,10363665,,4493900
+B441:1:13,Notozus sanzii (Gogorza),(Gogorza),Notozus,,sanzii,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,sanzii (Gogorza),,,,,
+B441:1:14,Notozus foveatus (Mocsáry),(Mocsáry),Notozus,,foveatus,,species,,B441:1,accepted,,,B441:1:1,Notozus,,,,,,,Notozus,,Notozus,foveatus (Mocsáry),,,,,

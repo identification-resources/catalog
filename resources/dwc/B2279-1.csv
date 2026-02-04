@@ -1,50 +1,50 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2279:1:1,Tropidiina,,,,,,subtribe,,B2279:1,accepted,,,,,,,,,,,,,,Tropidiina,BJ7SY,,BJ7SY,
-B2279:1:2,Brachypalpoides,,,,,,genus,,B2279:1,accepted,,,B2279:1:1,Tropidiina,,,,,,,Brachypalpoides,,Tropidiina,Brachypalpoides,BY8H2,1535698,BY8H2,1535698
-B2279:1:3,Brachypalpoides lentus,,Brachypalpoides,,lentus,,species,,B2279:1,accepted,,,B2279:1:2,Brachypalpoides,,,,,,,Brachypalpoides,,Tropidiina | Brachypalpoides,lentus,B97RY,4516805,B97RY,4516805
-B2279:1:4,Syritta,,,,,,genus,,B2279:1,accepted,,,B2279:1:1,Tropidiina,,,,,,,Syritta,,Tropidiina,Syritta,BY4LS,1544405,BY4LS,1544405
-B2279:1:5,Syritta pipiens,,Syritta,,pipiens,,species,,B2279:1,accepted,,,B2279:1:4,Syritta,,,,,,,Syritta,,Tropidiina | Syritta,pipiens,542RH,1544431,542RH,1544431
-B2279:1:6,Syritta flaviventris,,Syritta,,flaviventris,,species,,B2279:1,accepted,,,B2279:1:4,Syritta,,,,,,,Syritta,,Tropidiina | Syritta,flaviventris,542QL,1544486,542QL,1544486
-B2279:1:7,Syritta vittata,,Syritta,,vittata,,species,,B2279:1,accepted,,,B2279:1:4,Syritta,,,,,,,Syritta,,Tropidiina | Syritta,vittata,542S6,1544446,542S6,1544446
-B2279:1:8,Tropidia,,,,,,genus,,B2279:1,accepted,,,B2279:1:1,Tropidiina,,,,,,,Tropidia,,Tropidiina,Tropidia,BXXWN,1542171,BXXWN,1542171
-B2279:1:9,Tropidia fasciata,,Tropidia,,fasciata,,species,,B2279:1,accepted,,,B2279:1:8,Tropidia,,,,,,,Tropidia,,Tropidiina | Tropidia,fasciata,8FJRQ,1542199,8FJRQ,1542199
-B2279:1:10,Tropidia scita,,Tropidia,,scita,,species,,B2279:1,accepted,,,B2279:1:8,Tropidia,,,,,,,Tropidia,,Tropidiina | Tropidia,scita,8FJS8,1542175,8FJS8,1542175
-B2279:1:11,Xylotina,,,,,,subtribe,,B2279:1,accepted,,,,,,,,,,,,,,Xylotina,BXXXS,,BXXXS,
-B2279:1:12,Brachypalpus,,,,,,genus,,B2279:1,accepted,,,B2279:1:11,Xylotina,,,,,,,Brachypalpus,,Xylotina,Brachypalpus,BY8H3,1529391,BY8H3,1529391
-B2279:1:13,Brachypalpus,,Brachypalpus,,,,subgenus,,B2279:1,accepted,,,B2279:1:12,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus,Brachypalpus,BY8H3,,BY8H3,
-B2279:1:14,Brachypalpus chrysites,,Brachypalpus,Brachypalpus,chrysites,,species,,B2279:1,accepted,,,B2279:1:13,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus | Brachypalpus,chrysites,8B8WX,1536399,8B8WX,1536399
-B2279:1:15,Brachypalpus laphriformis,,Brachypalpus,Brachypalpus,laphriformis,,species,,B2279:1,accepted,,,B2279:1:13,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus | Brachypalpus,laphriformis,,6098379,,1536381
-B2279:1:16,Brachypalpus nigrifacies,,Brachypalpus,Brachypalpus,nigrifacies,,species,,B2279:1,accepted,,,B2279:1:13,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus | Brachypalpus,nigrifacies,8B8WY,5071154,8B8WY,5071154
-B2279:1:17,Brachypalpus valgus,,Brachypalpus,Brachypalpus,valgus,,species,,B2279:1,accepted,,,B2279:1:13,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus | Brachypalpus,valgus,8B8X5,1536381,8B8X5,1536381
-B2279:1:18,Brachypalpus zugmayeriae,,Brachypalpus,Brachypalpus,zugmayeriae,,species,,B2279:1,accepted,,,B2279:1:13,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus | Brachypalpus,zugmayeriae,8B8X6,5071153,8B8X6,5071153
-B2279:1:19,Chalcosyrphus,,,,,,genus,,B2279:1,accepted,,,B2279:1:11,Xylotina,,,,,,,Chalcosyrphus,,Xylotina,Chalcosyrphus,BXZ6R,1533584,BXZ6R,1533584
-B2279:1:20,Dimorphoxylota,,Chalcosyrphus,,,,subgenus,,B2279:1,accepted,,,B2279:1:19,Chalcosyrphus,,,,,,,Chalcosyrphus,Dimorphoxylota,Xylotina | Chalcosyrphus,Dimorphoxylota,,,,
-B2279:1:21,Chalcosyrphus eumerus,,Chalcosyrphus,Dimorphoxylota,eumerus,,species,,B2279:1,accepted,,,B2279:1:20,Dimorphoxylota,,,,,,,Chalcosyrphus,Dimorphoxylota,Xylotina | Chalcosyrphus | Dimorphoxylota,eumerus,8BFMM,4516831,8BFMM,4516831
-B2279:1:22,Spheginoides,,Chalcosyrphus,,,,subgenus,,B2279:1,accepted,,,B2279:1:19,Chalcosyrphus,,,,,,,Chalcosyrphus,Spheginoides,Xylotina | Chalcosyrphus,Spheginoides,BYXF9,,BYXF9,
-B2279:1:23,Chalcosyrphus obscurus,,Chalcosyrphus,Spheginoides,obscurus,,species,,B2279:1,accepted,,,B2279:1:22,Spheginoides,,,,,,,Chalcosyrphus,Spheginoides,Xylotina | Chalcosyrphus | Spheginoides,obscurus,8BFLJ,1533708,8BFLJ,1533708
-B2279:1:24,Xylotodes,,Chalcosyrphus,,,,subgenus,,B2279:1,accepted,,,B2279:1:19,Chalcosyrphus,,,,,,,Chalcosyrphus,Xylotodes,Xylotina | Chalcosyrphus,Xylotodes,BYXV2,,BYXV2,
-B2279:1:25,Chalcosyrphus eunotus,,Chalcosyrphus,Xylotodes,eunotus,,species,,B2279:1,accepted,,,B2279:1:24,Xylotodes,,,,,,,Chalcosyrphus,Xylotodes,Xylotina | Chalcosyrphus | Xylotodes,eunotus,8BFM5,1533661,8BFM5,1533661
-B2279:1:26,Xylotomima,,Chalcosyrphus,,,,subgenus,,B2279:1,accepted,,,B2279:1:19,Chalcosyrphus,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus,Xylotomima,BYXV3,,BYXV3,
-B2279:1:27,Chalcosyrphus femoratus,,Chalcosyrphus,Xylotomima,femoratus,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,femoratus,8BFMN,4516833,8BFMN,4516833
-B2279:1:28,Chalcosyrphus jacobsoni,,Chalcosyrphus,Xylotomima,jacobsoni,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,jacobsoni,8BFMT,1533656,8BFMT,1533656
-B2279:1:29,Chalcosyrphus nemorum,,Chalcosyrphus,Xylotomima,nemorum,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,nemorum,8BFN2,1533710,8BFN2,1533710
-B2279:1:30,Chalcosyrphus nigripes,,Chalcosyrphus,Xylotomima,nigripes,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,nigripes,8BFN4,1533732,8BFN4,1533732
-B2279:1:31,Chalcosyrphus nitidus,,Chalcosyrphus,Xylotomima,nitidus,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,nitidus,8BFN6,1533607,8BFN6,1533607
-B2279:1:32,Chalcosyrphus pannonicus,,Chalcosyrphus,Xylotomima,pannonicus,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,pannonicus,8BFN9,1533602,8BFN9,1533602
-B2279:1:33,Chalcosyrphus piger,,Chalcosyrphus,Xylotomima,piger,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,piger,8BFND,1533639,8BFND,1533639
-B2279:1:34,Chalcosyrphus rufipes,,Chalcosyrphus,Xylotomima,rufipes,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,rufipes,8BFNH,1533805,8BFNH,1533805
-B2279:1:35,Chalcosyrphus valgus,,Chalcosyrphus,Xylotomima,valgus,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,valgus,8BFNL,1533796,8BFNL,1533796
-B2279:1:36,Xylota,,,,,,genus,,B2279:1,accepted,,,B2279:1:11,Xylotina,,,,,,,Xylota,,Xylotina,Xylota,89LD,1541512,89LD,1541512
-B2279:1:37,Xylota,,Xylota,,,,subgenus,,B2279:1,accepted,,,B2279:1:36,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota,Xylota,89LD,,89LD,
-B2279:1:38,Xylota abiens,,Xylota,Xylota,abiens,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,abiens,BZFYN,10878032,BZFYN,10878032
-B2279:1:39,Xylota caeruleiventris,,Xylota,Xylota,caeruleiventris,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,caeruleiventris,8FNGY,1541688,8FNGY,1541688
-B2279:1:40,Xylota florum,,Xylota,Xylota,florum,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,florum,8FNHJ,1541616,8FNHJ,1541616
-B2279:1:41,Xylota ignava,,Xylota,Xylota,ignava,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,ignava,8FNHQ,1541629,8FNHQ,1541629
-B2279:1:42,Xylota jakutorum,,Xylota,Xylota,jakutorum,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,jakutorum,8FNHT,4516845,8FNHT,4516845
-B2279:1:43,Xylota meigeniana,,Xylota,Xylota,meigeniana,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,meigeniana,8FNHW,1541625,8FNHW,1541625
-B2279:1:44,Xylota segnis,,Xylota,Xylota,segnis,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,segnis,8FNJF,1541562,8FNJF,1541562
-B2279:1:45,Xylota suecica,,Xylota,Xylota,suecica,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,suecica,8FNJN,1541600,8FNJN,1541600
-B2279:1:46,Xylota sylvarum,,Xylota,Xylota,sylvarum,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,sylvarum,8FNJP,1541654,8FNJP,1541654
-B2279:1:47,Xylota tarda,,Xylota,Xylota,tarda,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,tarda,8FNJY,1541612,8FNJY,1541612
-B2279:1:48,Xylota triangularis,,Xylota,Xylota,triangularis,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,triangularis,8FNJR,1541596,8FNJR,1541596
-B2279:1:49,Xylota xanthocnema,,Xylota,Xylota,xanthocnema,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,xanthocnema,8FNJW,1541545,8FNJW,1541545
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2279:1:1,Tropidiina,,,,,,subtribe,,B2279:1,accepted,,,,,,,,,,,,,,Tropidiina,,BJ7SY,,BJ7SY,
+B2279:1:2,Brachypalpoides,,,,,,genus,,B2279:1,accepted,,,B2279:1:1,Tropidiina,,,,,,,Brachypalpoides,,Tropidiina,Brachypalpoides,,BY8H2,1535698,BY8H2,1535698
+B2279:1:3,Brachypalpoides lentus,,Brachypalpoides,,lentus,,species,,B2279:1,accepted,,,B2279:1:2,Brachypalpoides,,,,,,,Brachypalpoides,,Tropidiina | Brachypalpoides,lentus,,B97RY,4516805,B97RY,4516805
+B2279:1:4,Syritta,,,,,,genus,,B2279:1,accepted,,,B2279:1:1,Tropidiina,,,,,,,Syritta,,Tropidiina,Syritta,,BY4LS,1544405,BY4LS,1544405
+B2279:1:5,Syritta pipiens,,Syritta,,pipiens,,species,,B2279:1,accepted,,,B2279:1:4,Syritta,,,,,,,Syritta,,Tropidiina | Syritta,pipiens,,542RH,1544431,542RH,1544431
+B2279:1:6,Syritta flaviventris,,Syritta,,flaviventris,,species,,B2279:1,accepted,,,B2279:1:4,Syritta,,,,,,,Syritta,,Tropidiina | Syritta,flaviventris,,542QL,1544486,542QL,1544486
+B2279:1:7,Syritta vittata,,Syritta,,vittata,,species,,B2279:1,accepted,,,B2279:1:4,Syritta,,,,,,,Syritta,,Tropidiina | Syritta,vittata,,542S6,1544446,542S6,1544446
+B2279:1:8,Tropidia,,,,,,genus,,B2279:1,accepted,,,B2279:1:1,Tropidiina,,,,,,,Tropidia,,Tropidiina,Tropidia,,BXXWN,1542171,BXXWN,1542171
+B2279:1:9,Tropidia fasciata,,Tropidia,,fasciata,,species,,B2279:1,accepted,,,B2279:1:8,Tropidia,,,,,,,Tropidia,,Tropidiina | Tropidia,fasciata,,8FJRQ,1542199,8FJRQ,1542199
+B2279:1:10,Tropidia scita,,Tropidia,,scita,,species,,B2279:1,accepted,,,B2279:1:8,Tropidia,,,,,,,Tropidia,,Tropidiina | Tropidia,scita,,8FJS8,1542175,8FJS8,1542175
+B2279:1:11,Xylotina,,,,,,subtribe,,B2279:1,accepted,,,,,,,,,,,,,,Xylotina,,BXXXS,,BXXXS,
+B2279:1:12,Brachypalpus,,,,,,genus,,B2279:1,accepted,,,B2279:1:11,Xylotina,,,,,,,Brachypalpus,,Xylotina,Brachypalpus,,BY8H3,1529391,BY8H3,1529391
+B2279:1:13,Brachypalpus,,Brachypalpus,,,,subgenus,,B2279:1,accepted,,,B2279:1:12,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus,Brachypalpus,,BY8H3,,BY8H3,
+B2279:1:14,Brachypalpus chrysites,,Brachypalpus,Brachypalpus,chrysites,,species,,B2279:1,accepted,,,B2279:1:13,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus | Brachypalpus,chrysites,,8B8WX,1536399,8B8WX,1536399
+B2279:1:15,Brachypalpus laphriformis,,Brachypalpus,Brachypalpus,laphriformis,,species,,B2279:1,accepted,,,B2279:1:13,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus | Brachypalpus,laphriformis,,,6098379,,1536381
+B2279:1:16,Brachypalpus nigrifacies,,Brachypalpus,Brachypalpus,nigrifacies,,species,,B2279:1,accepted,,,B2279:1:13,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus | Brachypalpus,nigrifacies,,8B8WY,5071154,8B8WY,5071154
+B2279:1:17,Brachypalpus valgus,,Brachypalpus,Brachypalpus,valgus,,species,,B2279:1,accepted,,,B2279:1:13,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus | Brachypalpus,valgus,,8B8X5,1536381,8B8X5,1536381
+B2279:1:18,Brachypalpus zugmayeriae,,Brachypalpus,Brachypalpus,zugmayeriae,,species,,B2279:1,accepted,,,B2279:1:13,Brachypalpus,,,,,,,Brachypalpus,Brachypalpus,Xylotina | Brachypalpus | Brachypalpus,zugmayeriae,,8B8X6,5071153,8B8X6,5071153
+B2279:1:19,Chalcosyrphus,,,,,,genus,,B2279:1,accepted,,,B2279:1:11,Xylotina,,,,,,,Chalcosyrphus,,Xylotina,Chalcosyrphus,,BXZ6R,1533584,BXZ6R,1533584
+B2279:1:20,Dimorphoxylota,,Chalcosyrphus,,,,subgenus,,B2279:1,accepted,,,B2279:1:19,Chalcosyrphus,,,,,,,Chalcosyrphus,Dimorphoxylota,Xylotina | Chalcosyrphus,Dimorphoxylota,,,,,
+B2279:1:21,Chalcosyrphus eumerus,,Chalcosyrphus,Dimorphoxylota,eumerus,,species,,B2279:1,accepted,,,B2279:1:20,Dimorphoxylota,,,,,,,Chalcosyrphus,Dimorphoxylota,Xylotina | Chalcosyrphus | Dimorphoxylota,eumerus,,8BFMM,4516831,8BFMM,4516831
+B2279:1:22,Spheginoides,,Chalcosyrphus,,,,subgenus,,B2279:1,accepted,,,B2279:1:19,Chalcosyrphus,,,,,,,Chalcosyrphus,Spheginoides,Xylotina | Chalcosyrphus,Spheginoides,,BYXF9,,BYXF9,
+B2279:1:23,Chalcosyrphus obscurus,,Chalcosyrphus,Spheginoides,obscurus,,species,,B2279:1,accepted,,,B2279:1:22,Spheginoides,,,,,,,Chalcosyrphus,Spheginoides,Xylotina | Chalcosyrphus | Spheginoides,obscurus,,8BFLJ,1533708,8BFLJ,1533708
+B2279:1:24,Xylotodes,,Chalcosyrphus,,,,subgenus,,B2279:1,accepted,,,B2279:1:19,Chalcosyrphus,,,,,,,Chalcosyrphus,Xylotodes,Xylotina | Chalcosyrphus,Xylotodes,,BYXV2,,BYXV2,
+B2279:1:25,Chalcosyrphus eunotus,,Chalcosyrphus,Xylotodes,eunotus,,species,,B2279:1,accepted,,,B2279:1:24,Xylotodes,,,,,,,Chalcosyrphus,Xylotodes,Xylotina | Chalcosyrphus | Xylotodes,eunotus,,8BFM5,1533661,8BFM5,1533661
+B2279:1:26,Xylotomima,,Chalcosyrphus,,,,subgenus,,B2279:1,accepted,,,B2279:1:19,Chalcosyrphus,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus,Xylotomima,,BYXV3,,BYXV3,
+B2279:1:27,Chalcosyrphus femoratus,,Chalcosyrphus,Xylotomima,femoratus,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,femoratus,,8BFMN,4516833,8BFMN,4516833
+B2279:1:28,Chalcosyrphus jacobsoni,,Chalcosyrphus,Xylotomima,jacobsoni,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,jacobsoni,,8BFMT,1533656,8BFMT,1533656
+B2279:1:29,Chalcosyrphus nemorum,,Chalcosyrphus,Xylotomima,nemorum,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,nemorum,,8BFN2,1533710,8BFN2,1533710
+B2279:1:30,Chalcosyrphus nigripes,,Chalcosyrphus,Xylotomima,nigripes,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,nigripes,,8BFN4,1533732,8BFN4,1533732
+B2279:1:31,Chalcosyrphus nitidus,,Chalcosyrphus,Xylotomima,nitidus,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,nitidus,,8BFN6,1533607,8BFN6,1533607
+B2279:1:32,Chalcosyrphus pannonicus,,Chalcosyrphus,Xylotomima,pannonicus,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,pannonicus,,8BFN9,1533602,8BFN9,1533602
+B2279:1:33,Chalcosyrphus piger,,Chalcosyrphus,Xylotomima,piger,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,piger,,8BFND,1533639,8BFND,1533639
+B2279:1:34,Chalcosyrphus rufipes,,Chalcosyrphus,Xylotomima,rufipes,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,rufipes,,8BFNH,1533805,8BFNH,1533805
+B2279:1:35,Chalcosyrphus valgus,,Chalcosyrphus,Xylotomima,valgus,,species,,B2279:1,accepted,,,B2279:1:26,Xylotomima,,,,,,,Chalcosyrphus,Xylotomima,Xylotina | Chalcosyrphus | Xylotomima,valgus,,8BFNL,1533796,8BFNL,1533796
+B2279:1:36,Xylota,,,,,,genus,,B2279:1,accepted,,,B2279:1:11,Xylotina,,,,,,,Xylota,,Xylotina,Xylota,,89LD,1541512,89LD,1541512
+B2279:1:37,Xylota,,Xylota,,,,subgenus,,B2279:1,accepted,,,B2279:1:36,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota,Xylota,,89LD,,89LD,
+B2279:1:38,Xylota abiens,,Xylota,Xylota,abiens,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,abiens,,BZFYN,10878032,BZFYN,10878032
+B2279:1:39,Xylota caeruleiventris,,Xylota,Xylota,caeruleiventris,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,caeruleiventris,,8FNGY,1541688,8FNGY,1541688
+B2279:1:40,Xylota florum,,Xylota,Xylota,florum,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,florum,,8FNHJ,1541616,8FNHJ,1541616
+B2279:1:41,Xylota ignava,,Xylota,Xylota,ignava,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,ignava,,8FNHQ,1541629,8FNHQ,1541629
+B2279:1:42,Xylota jakutorum,,Xylota,Xylota,jakutorum,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,jakutorum,,8FNHT,4516845,8FNHT,4516845
+B2279:1:43,Xylota meigeniana,,Xylota,Xylota,meigeniana,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,meigeniana,,8FNHW,1541625,8FNHW,1541625
+B2279:1:44,Xylota segnis,,Xylota,Xylota,segnis,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,segnis,,8FNJF,1541562,8FNJF,1541562
+B2279:1:45,Xylota suecica,,Xylota,Xylota,suecica,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,suecica,,8FNJN,1541600,8FNJN,1541600
+B2279:1:46,Xylota sylvarum,,Xylota,Xylota,sylvarum,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,sylvarum,,8FNJP,1541654,8FNJP,1541654
+B2279:1:47,Xylota tarda,,Xylota,Xylota,tarda,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,tarda,,8FNJY,1541612,8FNJY,1541612
+B2279:1:48,Xylota triangularis,,Xylota,Xylota,triangularis,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,triangularis,,8FNJR,1541596,8FNJR,1541596
+B2279:1:49,Xylota xanthocnema,,Xylota,Xylota,xanthocnema,,species,,B2279:1,accepted,,,B2279:1:37,Xylota,,,,,,,Xylota,Xylota,Xylotina | Xylota | Xylota,xanthocnema,,8FNJW,1541545,8FNJW,1541545

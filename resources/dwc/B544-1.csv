@@ -1,30 +1,30 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B544:1:1,Psychodidae,,,,,,family,,B544:1,accepted,,,,,,,,,Psychodidae,,,,,Psychodidae,FBS,9164,FBS,9164
-B544:1:2,Psychodinae,,,,,,subfamily,,B544:1,accepted,,,B544:1:1,Psychodidae,,,,,Psychodidae,Psychodinae,,,Psychodidae,Psychodinae,B7X99,,B7X99,
-B544:1:3,Psychodini,,,,,,tribe,,B544:1,accepted,,,B544:1:2,Psychodinae,,,,,Psychodidae,Psychodinae,,,Psychodidae | Psychodinae,Psychodini,89PF6,,89PF6,
-B544:1:4,Tinearia,,,,,,genus,,B544:1,accepted,,,B544:1:3,Psychodini,,,,,Psychodidae,Psychodinae,Tinearia,,Psychodidae | Psychodinae | Psychodini,Tinearia,,1642942,,1642942
-B544:1:5,Tinearia alternata,,Tinearia,,alternata,,species,,B544:1,accepted,,,B544:1:4,Tinearia,,,,,Psychodidae,Psychodinae,Tinearia,,Psychodidae | Psychodinae | Psychodini | Tinearia,alternata,,5767673,,1639760
-B544:1:6,Tinearia lativentris,,Tinearia,,lativentris,,species,,B544:1,accepted,,,B544:1:4,Tinearia,,,,,Psychodidae,Psychodinae,Tinearia,,Psychodidae | Psychodinae | Psychodini | Tinearia,lativentris,,5767672,,1641673
-B544:1:7,Psychoda,,,,,,genus,,B544:1,accepted,,,B544:1:3,Psychodini,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini,Psychoda,BY42L,1639725,BY42L,1639725
-B544:1:8,Psychoda surcoufi,,Psychoda,,surcoufi,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,surcoufi,4PMS5,1639822,4PMS5,1639822
-B544:1:9,Psychoda erminea,,Psychoda,,erminea,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,erminea,4PMJL,1640065,4PMJL,1640065
-B544:1:10,Psychoda albipennis,,Psychoda,,albipennis,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,albipennis,4PMFK,1639846,4PMFK,1639846
-B544:1:11,Psychoda satchelli,,Psychoda,,satchelli,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,satchelli,4PMQT,1639840,4PMQT,1639840
-B544:1:12,Psychoda brevicornis,,Psychoda,,brevicornis,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,brevicornis,4PMGX,1639801,4PMGX,1639801
-B544:1:13,Psychoda cinerea,,Psychoda,,cinerea,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,cinerea,4PMHC,1640035,4PMHC,1640035
-B544:1:14,Psychoda gemina,,Psychoda,,gemina,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,gemina,4PMKK,1640045,4PMKK,1640045
-B544:1:15,Psychoda crassipennis,,Psychoda,,crassipennis,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,crassipennis,4PMHM,4522043,4PMHM,4522043
-B544:1:16,Psychoda pusilla,,Psychoda,,pusilla,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,pusilla,4PMQ4,1640027,4PMQ4,1640027
-B544:1:17,Psychoda grisescens,,Psychoda,,grisescens,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,grisescens,4PMKR,1639898,4PMKR,1639898
-B544:1:18,Psychoda setigera,,Psychoda,,setigera,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,setigera,4PMR8,1639741,4PMR8,1639741
-B544:1:19,Psychoda trinodulosa,,Psychoda,,trinodulosa,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,trinodulosa,4PMSP,1640049,4PMSP,1640049
-B544:1:20,Pericomini,,,,,,tribe,,B544:1,accepted,,,B544:1:2,Psychodinae,,,,,Psychodidae,Psychodinae,,,Psychodidae | Psychodinae,Pericomini,B7XDM,,B7XDM,
-B544:1:21,Clytocerus,,,,,,genus,,B544:1,accepted,,,B544:1:20,Pericomini,,,,,Psychodidae,Psychodinae,Clytocerus,,Psychodidae | Psychodinae | Pericomini,Clytocerus,BY9R7,1639663,BY9R7,1639663
-B544:1:22,Telmatoscopini,,,,,,tribe,,B544:1,accepted,,,B544:1:2,Psychodinae,,,,,Psychodidae,Psychodinae,,,Psychodidae | Psychodinae,Telmatoscopini,89PGH,,89PGH,
-B544:1:23,Clogmia,,,,,,genus,,B544:1,accepted,,,B544:1:22,Telmatoscopini,,,,,Psychodidae,Psychodinae,Clogmia,,Psychodidae | Psychodinae | Telmatoscopini,Clogmia,BXZCL,1640729,BXZCL,1640729
-B544:1:24,Clogmia albipunctata,,Clogmia,,albipunctata,,species,,B544:1,accepted,,,B544:1:23,Clogmia,,,,,Psychodidae,Psychodinae,Clogmia,,Psychodidae | Psychodinae | Telmatoscopini | Clogmia,albipunctata,9H92P,4522049,9H92P,4522049
-B544:1:25,Trichomyiinae,,,,,,subfamily,,B544:1,accepted,,,B544:1:1,Psychodidae,,,,,Psychodidae,Trichomyiinae,,,Psychodidae,Trichomyiinae,B7X9X,,B7X9X,
-B544:1:26,Trichomyia,,,,,,genus,,B544:1,accepted,,,B544:1:25,Trichomyiinae,,,,,Psychodidae,Trichomyiinae,Trichomyia,,Psychodidae | Trichomyiinae,Trichomyia,BY4V7,1642407,BY4V7,1642407
-B544:1:27,Trichomyia urbica,,Trichomyia,,urbica,,species,,B544:1,accepted,,,B544:1:26,Trichomyia,,,,,Psychodidae,Trichomyiinae,Trichomyia,,Psychodidae | Trichomyiinae | Trichomyia,urbica,58FSL,1642445,58FSL,1642445
-B544:1:28,Sycorinae,,,,,,subfamily,,B544:1,accepted,,,B544:1:1,Psychodidae,,,,,Psychodidae,Sycorinae,,,Psychodidae,Sycorinae,,,,
-B544:1:29,Sycorax,,,,,,genus,,B544:1,accepted,,,B544:1:28,Sycorinae,,,,,Psychodidae,Sycorinae,Sycorax,,Psychodidae | Sycorinae,Sycorax,BY4L3,1641999,BY4L3,1641999
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B544:1:1,Psychodidae,,,,,,family,,B544:1,accepted,,,,,,,,,Psychodidae,,,,,Psychodidae,,FBS,9164,FBS,9164
+B544:1:2,Psychodinae,,,,,,subfamily,,B544:1,accepted,,,B544:1:1,Psychodidae,,,,,Psychodidae,Psychodinae,,,Psychodidae,Psychodinae,,B7X99,,B7X99,
+B544:1:3,Psychodini,,,,,,tribe,,B544:1,accepted,,,B544:1:2,Psychodinae,,,,,Psychodidae,Psychodinae,,,Psychodidae | Psychodinae,Psychodini,,89PF6,,89PF6,
+B544:1:4,Tinearia,,,,,,genus,,B544:1,accepted,,,B544:1:3,Psychodini,,,,,Psychodidae,Psychodinae,Tinearia,,Psychodidae | Psychodinae | Psychodini,Tinearia,,,1642942,,1642942
+B544:1:5,Tinearia alternata,,Tinearia,,alternata,,species,,B544:1,accepted,,,B544:1:4,Tinearia,,,,,Psychodidae,Psychodinae,Tinearia,,Psychodidae | Psychodinae | Psychodini | Tinearia,alternata,,,5767673,,1639760
+B544:1:6,Tinearia lativentris,,Tinearia,,lativentris,,species,,B544:1,accepted,,,B544:1:4,Tinearia,,,,,Psychodidae,Psychodinae,Tinearia,,Psychodidae | Psychodinae | Psychodini | Tinearia,lativentris,,,5767672,,1641673
+B544:1:7,Psychoda,,,,,,genus,,B544:1,accepted,,,B544:1:3,Psychodini,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini,Psychoda,,BY42L,1639725,BY42L,1639725
+B544:1:8,Psychoda surcoufi,,Psychoda,,surcoufi,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,surcoufi,,4PMS5,1639822,4PMS5,1639822
+B544:1:9,Psychoda erminea,,Psychoda,,erminea,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,erminea,,4PMJL,1640065,4PMJL,1640065
+B544:1:10,Psychoda albipennis,,Psychoda,,albipennis,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,albipennis,,4PMFK,1639846,4PMFK,1639846
+B544:1:11,Psychoda satchelli,,Psychoda,,satchelli,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,satchelli,,4PMQT,1639840,4PMQT,1639840
+B544:1:12,Psychoda brevicornis,,Psychoda,,brevicornis,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,brevicornis,,4PMGX,1639801,4PMGX,1639801
+B544:1:13,Psychoda cinerea,,Psychoda,,cinerea,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,cinerea,,4PMHC,1640035,4PMHC,1640035
+B544:1:14,Psychoda gemina,,Psychoda,,gemina,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,gemina,,4PMKK,1640045,4PMKK,1640045
+B544:1:15,Psychoda crassipennis,,Psychoda,,crassipennis,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,crassipennis,,4PMHM,4522043,4PMHM,4522043
+B544:1:16,Psychoda pusilla,,Psychoda,,pusilla,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,pusilla,,4PMQ4,1640027,4PMQ4,1640027
+B544:1:17,Psychoda grisescens,,Psychoda,,grisescens,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,grisescens,,4PMKR,1639898,4PMKR,1639898
+B544:1:18,Psychoda setigera,,Psychoda,,setigera,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,setigera,,4PMR8,1639741,4PMR8,1639741
+B544:1:19,Psychoda trinodulosa,,Psychoda,,trinodulosa,,species,,B544:1,accepted,,,B544:1:7,Psychoda,,,,,Psychodidae,Psychodinae,Psychoda,,Psychodidae | Psychodinae | Psychodini | Psychoda,trinodulosa,,4PMSP,1640049,4PMSP,1640049
+B544:1:20,Pericomini,,,,,,tribe,,B544:1,accepted,,,B544:1:2,Psychodinae,,,,,Psychodidae,Psychodinae,,,Psychodidae | Psychodinae,Pericomini,,B7XDM,,B7XDM,
+B544:1:21,Clytocerus,,,,,,genus,,B544:1,accepted,,,B544:1:20,Pericomini,,,,,Psychodidae,Psychodinae,Clytocerus,,Psychodidae | Psychodinae | Pericomini,Clytocerus,,BY9R7,1639663,BY9R7,1639663
+B544:1:22,Telmatoscopini,,,,,,tribe,,B544:1,accepted,,,B544:1:2,Psychodinae,,,,,Psychodidae,Psychodinae,,,Psychodidae | Psychodinae,Telmatoscopini,,89PGH,,89PGH,
+B544:1:23,Clogmia,,,,,,genus,,B544:1,accepted,,,B544:1:22,Telmatoscopini,,,,,Psychodidae,Psychodinae,Clogmia,,Psychodidae | Psychodinae | Telmatoscopini,Clogmia,,BXZCL,1640729,BXZCL,1640729
+B544:1:24,Clogmia albipunctata,,Clogmia,,albipunctata,,species,,B544:1,accepted,,,B544:1:23,Clogmia,,,,,Psychodidae,Psychodinae,Clogmia,,Psychodidae | Psychodinae | Telmatoscopini | Clogmia,albipunctata,,9H92P,4522049,9H92P,4522049
+B544:1:25,Trichomyiinae,,,,,,subfamily,,B544:1,accepted,,,B544:1:1,Psychodidae,,,,,Psychodidae,Trichomyiinae,,,Psychodidae,Trichomyiinae,,B7X9X,,B7X9X,
+B544:1:26,Trichomyia,,,,,,genus,,B544:1,accepted,,,B544:1:25,Trichomyiinae,,,,,Psychodidae,Trichomyiinae,Trichomyia,,Psychodidae | Trichomyiinae,Trichomyia,,BY4V7,1642407,BY4V7,1642407
+B544:1:27,Trichomyia urbica,,Trichomyia,,urbica,,species,,B544:1,accepted,,,B544:1:26,Trichomyia,,,,,Psychodidae,Trichomyiinae,Trichomyia,,Psychodidae | Trichomyiinae | Trichomyia,urbica,,58FSL,1642445,58FSL,1642445
+B544:1:28,Sycorinae,,,,,,subfamily,,B544:1,accepted,,,B544:1:1,Psychodidae,,,,,Psychodidae,Sycorinae,,,Psychodidae,Sycorinae,,,,,
+B544:1:29,Sycorax,,,,,,genus,,B544:1,accepted,,,B544:1:28,Sycorinae,,,,,Psychodidae,Sycorinae,Sycorax,,Psychodidae | Sycorinae,Sycorax,,BY4L3,1641999,BY4L3,1641999

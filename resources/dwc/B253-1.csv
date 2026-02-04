@@ -1,186 +1,186 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B253:1:1,Diptera,,,,,,order,,B253:1,accepted,,,,,,,,Diptera,,,,,,DIPTERA,D2P,811,D2P,811
-B253:1:2,Nematocera,,,,,,suborder,,B253:1,accepted,,,B253:1:1,Diptera,,,,Diptera,,,,,Diptera,NEMATOCERA,,,,
-B253:1:3,Trichoceridae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Trichoceridae,,,,Diptera | Nematocera,Trichoceridae,BXWXZ,6914,BXWXZ,6914
-B253:1:4,Tipulidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Tipulidae,,,,Diptera | Nematocera,Tipulidae,626Q6,7634,626Q6,7634
-B253:1:5,Tipulinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:4,Tipulidae,,,,Diptera,Tipulidae,Tipulinae,,,Diptera | Nematocera | Tipulidae,Tipulinae,B6NH9,,B6NH9,
-B253:1:6,Cylindrotominae,,,,,,subfamily,,B253:1,accepted,,,B253:1:4,Tipulidae,,,,Diptera,Tipulidae,Cylindrotominae,,,Diptera | Nematocera | Tipulidae,Cylindrotominae,87CGF,,87CGF,
-B253:1:7,Diogma,,,,,,genus,,B253:1,accepted,,,B253:1:6,Cylindrotominae,,,,Diptera,Tipulidae,Cylindrotominae,Diogma,,Diptera | Nematocera | Tipulidae | Cylindrotominae,Diogma,87GX8,1510056,87GX8,1510056
-B253:1:8,Diogma glabrata (Meigen),(Meigen),Diogma,,glabrata,,species,,B253:1,accepted,,,B253:1:7,Diogma,,,,Diptera,Tipulidae,Cylindrotominae,Diogma,,Diptera | Nematocera | Tipulidae | Cylindrotominae | Diogma,glabrata (Meigen),6D7DC,1510059,6D7DC,1510059
-B253:1:9,Triogma,,,,,,genus,,B253:1,accepted,,,B253:1:6,Cylindrotominae,,,,Diptera,Tipulidae,Cylindrotominae,Triogma,,Diptera | Nematocera | Tipulidae | Cylindrotominae,Triogma,87L6G,1510064,87L6G,1510064
-B253:1:10,Triogma trisulcata (Schummel),(Schummel),Triogma,,trisulcata,,species,,B253:1,accepted,,,B253:1:9,Triogma,,,,Diptera,Tipulidae,Cylindrotominae,Triogma,,Diptera | Nematocera | Tipulidae | Cylindrotominae | Triogma,trisulcata (Schummel),58W5B,1510069,58W5B,1510069
-B253:1:11,Phalacrocera,,,,,,genus,,B253:1,accepted,,,B253:1:6,Cylindrotominae,,,,Diptera,Tipulidae,Cylindrotominae,Phalacrocera,,Diptera | Nematocera | Tipulidae | Cylindrotominae,Phalacrocera,87JM4,1509998,87JM4,1509998
-B253:1:12,Phalacrocera replicata (L.),(L.),Phalacrocera,,replicata,,species,,B253:1,accepted,,,B253:1:11,Phalacrocera,,,,Diptera,Tipulidae,Cylindrotominae,Phalacrocera,,Diptera | Nematocera | Tipulidae | Cylindrotominae | Phalacrocera,replicata (L.),4FQPP,1510006,4FQPP,1510006
-B253:1:13,Cylindrotoma,,,,,,genus,,B253:1,accepted,,,B253:1:6,Cylindrotominae,,,,Diptera,Tipulidae,Cylindrotominae,Cylindrotoma,,Diptera | Nematocera | Tipulidae | Cylindrotominae,Cylindrotoma,87FD6,1510026,87FD6,1510026
-B253:1:14,Cylindrotoma distinctissima Meigen,Meigen,Cylindrotoma,,distinctissima,,species,,B253:1,accepted,,,B253:1:13,Cylindrotoma,,,,Diptera,Tipulidae,Cylindrotominae,Cylindrotoma,,Diptera | Nematocera | Tipulidae | Cylindrotominae | Cylindrotoma,distinctissima Meigen,334GD,1510036,334GD,1510036
-B253:1:15,Limoniinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:4,Tipulidae,,,,Diptera,Tipulidae,Limoniinae,,,Diptera | Nematocera | Tipulidae,Limoniinae,87CJJ,,87CJJ,
-B253:1:16,Limoniini,,,,,,tribe,,B253:1,accepted,,,B253:1:15,Limoniinae,,,,Diptera,Tipulidae,Limoniinae,,,Diptera | Nematocera | Tipulidae | Limoniinae,Limoniini,,,,
-B253:1:17,Pediciini,,,,,,tribe,,B253:1,accepted,,,B253:1:15,Limoniinae,,,,Diptera,Tipulidae,Limoniinae,,,Diptera | Nematocera | Tipulidae | Limoniinae,Pediciini,,,,
-B253:1:18,Hexatomini,,,,,,tribe,,B253:1,accepted,,,B253:1:15,Limoniinae,,,,Diptera,Tipulidae,Limoniinae,,,Diptera | Nematocera | Tipulidae | Limoniinae,Hexatomini,,,,
-B253:1:19,Eriopterini,,,,,,tribe,,B253:1,accepted,,,B253:1:15,Limoniinae,,,,Diptera,Tipulidae,Limoniinae,,,Diptera | Nematocera | Tipulidae | Limoniinae,Eriopterini,,,,
-B253:1:20,Psychodidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Psychodidae,,,,Diptera | Nematocera,Psychodidae,FBS,9164,FBS,9164
-B253:1:21,Psychodinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:20,Psychodidae,,,,Diptera,Psychodidae,Psychodinae,,,Diptera | Nematocera | Psychodidae,Psychodinae,B7X99,,B7X99,
-B253:1:22,Trichomyiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:20,Psychodidae,,,,Diptera,Psychodidae,Trichomyiinae,,,Diptera | Nematocera | Psychodidae,Trichomyiinae,B7X9X,,B7X9X,
-B253:1:23,Trichomyia,,,,,,genus,,B253:1,accepted,,,B253:1:22,Trichomyiinae,,,,Diptera,Psychodidae,Trichomyiinae,Trichomyia,,Diptera | Nematocera | Psychodidae | Trichomyiinae,Trichomyia,BY4V7,1642407,BY4V7,1642407
-B253:1:24,Trichomyia urbica Curtis,Curtis,Trichomyia,,urbica,,species,,B253:1,accepted,,,B253:1:23,Trichomyia,,,,Diptera,Psychodidae,Trichomyiinae,Trichomyia,,Diptera | Nematocera | Psychodidae | Trichomyiinae | Trichomyia,urbica Curtis,58FSL,11973285,58FSL,1642445
-B253:1:25,Sycoracinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:20,Psychodidae,,,,Diptera,Psychodidae,Sycoracinae,,,Diptera | Nematocera | Psychodidae,Sycoracinae,B7X9J,,B7X9J,
-B253:1:26,Sycorax,,,,,,genus,,B253:1,accepted,,,B253:1:25,Sycoracinae,,,,Diptera,Psychodidae,Sycoracinae,Sycorax,,Diptera | Nematocera | Psychodidae | Sycoracinae,Sycorax,BY4L3,1641999,BY4L3,1641999
-B253:1:27,Sycorax silacea Curtis,Curtis,Sycorax,,silacea,,species,,B253:1,accepted,,,B253:1:26,Sycorax,,,,Diptera,Psychodidae,Sycoracinae,Sycorax,,Diptera | Nematocera | Psychodidae | Sycoracinae | Sycorax,silacea Curtis,53LZ8,11277374,53LZ8,1642023
-B253:1:28,Ptychopteridae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Ptychopteridae,,,,Diptera | Nematocera,Ptychopteridae,6277P,5585,6277P,5585
-B253:1:29,Dixidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Dixidae,,,,Diptera | Nematocera,Dixidae,BXWJ6,7304,BXWJ6,7304
-B253:1:30,Dixa,,,,,,genus,,B253:1,accepted,,,B253:1:29,Dixidae,,,,Diptera,Dixidae,,Dixa,,Diptera | Nematocera | Dixidae,Dixa,BXZPK,1569552,BXZPK,1569552
-B253:1:31,Dixella,,,,,,genus,,B253:1,accepted,,,B253:1:29,Dixidae,,,,Diptera,Dixidae,,Dixella,,Diptera | Nematocera | Dixidae,Dixella,BXZPN,5077124,BXZPN,5077124
-B253:1:32,Chaoboridae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Chaoboridae,,,,Diptera | Nematocera,Chaoboridae,BXWH6,3342,BXWH6,3342
-B253:1:33,Chaoborus Lichtenstein,Lichtenstein,,,,,genus,,B253:1,accepted,,,B253:1:32,Chaoboridae,,,,Diptera,Chaoboridae,,Chaoborus,,Diptera | Nematocera | Chaoboridae,Chaoborus Lichtenstein,BXZ73,1679383,BXZ73,1679383
-B253:1:34,Mochlonyx Loew,Loew,,,,,genus,,B253:1,accepted,,,B253:1:32,Chaoboridae,,,,Diptera,Chaoboridae,,Mochlonyx,,Diptera | Nematocera | Chaoboridae,Mochlonyx Loew,BYJC9,1679472,BYJC9,1679472
-B253:1:35,Culicidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Culicidae,,,,Diptera | Nematocera,Culicidae,CCYMV,3346,CCYMV,3346
-B253:1:36,Anophelinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:35,Culicidae,,,,Diptera,Culicidae,Anophelinae,,,Diptera | Nematocera | Culicidae,Anophelinae,9JG4C,,9JG4C,
-B253:1:37,Culicinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:35,Culicidae,,,,Diptera,Culicidae,Culicinae,,,Diptera | Nematocera | Culicidae,Culicinae,87CGC,,87CGC,
-B253:1:38,Thaumaleidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Thaumaleidae,,,,Diptera | Nematocera,Thaumaleidae,BXWXJ,3518,BXWXJ,3518
-B253:1:39,Ceratopogonidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Ceratopogonidae,,,,Diptera | Nematocera,Ceratopogonidae,9H6KB,3340,9H6KB,3340
-B253:1:40,Forcipomyiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:39,Ceratopogonidae,,,,Diptera,Ceratopogonidae,Forcipomyiinae,,,Diptera | Nematocera | Ceratopogonidae,Forcipomyiinae,B7X8G,,B7X8G,
-B253:1:41,Dasyheleinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:39,Ceratopogonidae,,,,Diptera,Ceratopogonidae,Dasyheleinae,,,Diptera | Nematocera | Ceratopogonidae,Dasyheleinae,87CGJ,,87CGJ,
-B253:1:42,Dasyhelea,,,,,,genus,,B253:1,accepted,,,B253:1:41,Dasyheleinae,,,,Diptera,Ceratopogonidae,Dasyheleinae,Dasyhelea,,Diptera | Nematocera | Ceratopogonidae | Dasyheleinae,Dasyhelea,BXZKR,1635616,BXZKR,1635616
-B253:1:43,Ceratopogoninae,,,,,,subfamily,,B253:1,accepted,,,B253:1:39,Ceratopogonidae,,,,Diptera,Ceratopogonidae,Ceratopogoninae,,,Diptera | Nematocera | Ceratopogonidae,Ceratopogoninae,B7X7Y,,B7X7Y,
-B253:1:44,Chironomidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Chironomidae,,,,Diptera | Nematocera,Chironomidae,84X,3343,84X,3343
-B253:1:45,Tanypodinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Tanypodinae,,,Diptera | Nematocera | Chironomidae,Tanypodinae,B7X9T,,B7X9T,
-B253:1:46,Podonominae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Podonominae,,,Diptera | Nematocera | Chironomidae,Podonominae,87CLX,,87CLX,
-B253:1:47,Diamesinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Diamesinae,,,Diptera | Nematocera | Chironomidae,Diamesinae,8VSQM,,8VSQM,
-B253:1:48,Diamesini,,,,,,tribe,,B253:1,accepted,,,B253:1:47,Diamesinae,,,,Diptera,Chironomidae,Diamesinae,,,Diptera | Nematocera | Chironomidae | Diamesinae,Diamesini,8VSV9,,8VSV9,
-B253:1:49,Protanypini,,,,,,tribe,,B253:1,accepted,,,B253:1:47,Diamesinae,,,,Diptera,Chironomidae,Diamesinae,,,Diptera | Nematocera | Chironomidae | Diamesinae,Protanypini,87CY5,,87CY5,
-B253:1:50,Chironominae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Chironominae,,,Diptera | Nematocera | Chironomidae,Chironominae,9GL3P,,9GL3P,
-B253:1:51,Prodiamesinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Prodiamesinae,,,Diptera | Nematocera | Chironomidae,Prodiamesinae,B7X98,,B7X98,
-B253:1:52,Telmatogetoninae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Telmatogetoninae,,,Diptera | Nematocera | Chironomidae,Telmatogetoninae,87CP4,,87CP4,
-B253:1:53,Orthocladiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Orthocladiinae,,,Diptera | Nematocera | Chironomidae,Orthocladiinae,B7X8Y,,B7X8Y,
-B253:1:54,Simuliidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Simuliidae,,,,Diptera | Nematocera,Simuliidae,6279F,3522,6279F,3522
-B253:1:55,Anisopodidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Anisopodidae,,,,Diptera | Nematocera,Anisopodidae,6F7,7271,6F7,7271
-B253:1:56,Anisopodinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:55,Anisopodidae,,,,Diptera,Anisopodidae,Anisopodinae,,,Diptera | Nematocera | Anisopodidae,Anisopodinae,87CD7,,87CD7,
-B253:1:57,"Sylvicola Harris, 1776","Harris, 1776",,,,,genus,,B253:1,accepted,,,B253:1:56,Anisopodinae,,,,Diptera,Anisopodidae,Anisopodinae,Sylvicola,,Diptera | Nematocera | Anisopodidae | Anisopodinae,Sylvicola,BY4L5,1501452,BY4L5,1501452
-B253:1:58,Anisopus,,,,,,genus,,B253:1,synonym,B253:1:57,"Sylvicola Harris, 1776",,,,,,Diptera,Anisopodidae,Anisopodinae,Anisopus,,Diptera | Nematocera | Anisopodidae | Anisopodinae,Anisopus,B7XK3,2118533,B7XK3,2118533
-B253:1:59,Mycetobiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:55,Anisopodidae,,,,Diptera,Anisopodidae,Mycetobiinae,,,Diptera | Nematocera | Anisopodidae,Mycetobiinae,87CKB,,87CKB,
-B253:1:60,Mycetobia,,,,,,genus,,B253:1,accepted,,,B253:1:59,Mycetobiinae,,,,Diptera,Anisopodidae,Mycetobiinae,Mycetobia,,Diptera | Nematocera | Anisopodidae | Mycetobiinae,Mycetobia,BY347,1493895,BY347,1493895
-B253:1:61,Mycetobia pallipes Meigen,Meigen,Mycetobia,,pallipes,,species,,B253:1,accepted,,,B253:1:60,Mycetobia,,,,Diptera,Anisopodidae,Mycetobiinae,Mycetobia,,Diptera | Nematocera | Anisopodidae | Mycetobiinae | Mycetobia,pallipes Meigen,6RSCM,1566549,6RSCM,1566549
-B253:1:62,Bibionidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Bibionidae,,,,Diptera | Nematocera,Bibionidae,77F,7281,77F,7281
-B253:1:63,Mycetophilidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Mycetophilidae,,,,Diptera | Nematocera,Mycetophilidae,D26,5565,D26,5565
-B253:1:64,Ditomyiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Ditomyiinae,,,Diptera | Nematocera | Mycetophilidae,Ditomyiinae,,,,
-B253:1:65,Bolitophilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Bolitophilinae,,,Diptera | Nematocera | Mycetophilidae,Bolitophilinae,,,,
-B253:1:66,Bolitophila,,,,,,genus,,B253:1,accepted,,,B253:1:65,Bolitophilinae,,,,Diptera,Mycetophilidae,Bolitophilinae,Bolitophila,,Diptera | Nematocera | Mycetophilidae | Bolitophilinae,Bolitophila,BY8B9,1563675,BY8B9,1563675
-B253:1:67,Mycetophilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Mycetophilinae,,,Diptera | Nematocera | Mycetophilidae,Mycetophilinae,87CKC,,87CKC,
-B253:1:68,Keroplatinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Keroplatinae,,,Diptera | Nematocera | Mycetophilidae,Keroplatinae,9GL48,,9GL48,
-B253:1:69,Sciophilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Sciophilinae,,,Diptera | Nematocera | Mycetophilidae,Sciophilinae,B7X9H,,B7X9H,
-B253:1:70,Speolepta,,,,,,genus,,B253:1,accepted,,,B253:1:69,Sciophilinae,,,,Diptera,Mycetophilidae,Sciophilinae,Speolepta,,Diptera | Nematocera | Mycetophilidae | Sciophilinae,Speolepta,BYQL7,1613655,BYQL7,1613655
-B253:1:71,Diadocidiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Diadocidiinae,,,Diptera | Nematocera | Mycetophilidae,Diadocidiinae,CNQMH,,62498,
-B253:1:72,Diadocidia,,,,,,genus,,B253:1,accepted,,,B253:1:71,Diadocidiinae,,,,Diptera,Mycetophilidae,Diadocidiinae,Diadocidia,,Diptera | Nematocera | Mycetophilidae | Diadocidiinae,Diadocidia,BXZLR,1493869,BXZLR,1493869
-B253:1:73,Manotinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Manotinae,,,Diptera | Nematocera | Mycetophilidae,Manotinae,,,,
-B253:1:74,Manota,,,,,,genus,,B253:1,accepted,,,B253:1:73,Manotinae,,,,Diptera,Mycetophilidae,Manotinae,Manota,,Diptera | Nematocera | Mycetophilidae | Manotinae,Manota,BXWPZ,1611895,BXWPZ,1611895
-B253:1:75,Manota unifurcata Lundström,Lundström,Manota,,unifurcata,,species,,B253:1,accepted,,,B253:1:74,Manota,,,,Diptera,Mycetophilidae,Manotinae,Manota,,Diptera | Nematocera | Mycetophilidae | Manotinae | Manota,unifurcata Lundström,3XVZ8,1611944,3XVZ8,1611944
-B253:1:76,Sciaridae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Sciaridae,,,,Diptera | Nematocera,Sciaridae,G3Z,3525,G3Z,3525
-B253:1:77,Scatopsidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Scatopsidae,,,,Diptera | Nematocera,Scatopsidae,G22,6927,G22,6927
-B253:1:78,Cecidomyiidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Cecidomyiidae,,,,Diptera | Nematocera,Cecidomyiidae,622KR,3338,622KR,3338
-B253:1:79,Porricondylinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:78,Cecidomyiidae,,,,Diptera,Cecidomyiidae,Porricondylinae,,,Diptera | Nematocera | Cecidomyiidae,Porricondylinae,87CM2,,87CM2,
-B253:1:80,Heteropezini,,,,,,tribe,,B253:1,accepted,,,B253:1:79,Porricondylinae,,,,Diptera,Cecidomyiidae,Porricondylinae,,,Diptera | Nematocera | Cecidomyiidae | Porricondylinae,Heteropezini,B7XCM,,B7XCM,
-B253:1:81,Cecidomyiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:78,Cecidomyiidae,,,,Diptera,Cecidomyiidae,Cecidomyiinae,,,Diptera | Nematocera | Cecidomyiidae,Cecidomyiinae,9GL3K,,9GL3K,
-B253:1:82,Lestremiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:78,Cecidomyiidae,,,,Diptera,Cecidomyiidae,Lestremiinae,,,Diptera | Nematocera | Cecidomyiidae,Lestremiinae,87CJH,,87CJH,
-B253:1:83,Brachycera,,,,,,suborder,,B253:1,accepted,,,B253:1:1,Diptera,,,,Diptera,,,,,Diptera,BRACHYCERA,,,,
-B253:1:84,Stratiomyidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Stratiomyidae,,,,Diptera | Brachycera,Stratiomyidae,CF66Z,6923,CF66Z,6923
-B253:1:85,Beridinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Beridinae,,,Diptera | Brachycera | Stratiomyidae,Beridinae,87CDN,,87CDN,
-B253:1:86,Clitellariinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Clitellariinae,,,Diptera | Brachycera | Stratiomyidae,Clitellariinae,9H6LJ,,9H6LJ,
-B253:1:87,Pachygastrinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Pachygastrinae,,,Diptera | Brachycera | Stratiomyidae,Pachygastrinae,B7X93,,B7X93,
-B253:1:88,Sarginae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Sarginae,,,Diptera | Brachycera | Stratiomyidae,Sarginae,BXX6P,,BXX6P,
-B253:1:89,Stratiomyinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Stratiomyinae,,,Diptera | Brachycera | Stratiomyidae,Stratiomyinae,87CNF,,87CNF,
-B253:1:90,Hermetiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Hermetiinae,,,Diptera | Brachycera | Stratiomyidae,Hermetiinae,87CHR,,87CHR,
-B253:1:91,Xylomyidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Xylomyidae,,,,Diptera | Brachycera,Xylomyidae,BY55G,3514,BY55G,3514
-B253:1:92,Xylophagidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Xylophagidae,,,,Diptera | Brachycera,Xylophagidae,626T5,10419879,626T5,10419879
-B253:1:93,Rhagionidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Rhagionidae,,,,Diptera | Brachycera,Rhagionidae,FN2,5587,FN2,5587
-B253:1:94,Athericidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Athericidae,,,,Diptera | Brachycera,Athericidae,6VK,7278,6VK,7278
-B253:1:95,Tabanidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Tabanidae,,,,Diptera | Brachycera,Tabanidae,GVW,6919,GVW,6919
-B253:1:96,Chrysopsinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:95,Tabanidae,,,,Diptera,Tabanidae,Chrysopsinae,,,Diptera | Brachycera | Tabanidae,Chrysopsinae,B7X83,,B7X83,
-B253:1:97,Chrysopsini,,,,,,tribe,,B253:1,accepted,,,B253:1:96,Chrysopsinae,,,,Diptera,Tabanidae,Chrysopsinae,,,Diptera | Brachycera | Tabanidae | Chrysopsinae,Chrysopsini,87CRQ,,87CRQ,
-B253:1:98,Chrysops,,,,,,genus,,B253:1,accepted,,,B253:1:97,Chrysopsini,,,,Diptera,Tabanidae,Chrysopsinae,Chrysops,,Diptera | Brachycera | Tabanidae | Chrysopsinae | Chrysopsini,Chrysops,BXZ8X,1497045,BXZ8X,1497045
-B253:1:99,Tabaninae,,,,,,subfamily,,B253:1,accepted,,,B253:1:95,Tabanidae,,,,Diptera,Tabanidae,Tabaninae,,,Diptera | Brachycera | Tabanidae,Tabaninae,9GL5B,,9GL5B,
-B253:1:100,Haematopotini,,,,,,tribe,,B253:1,accepted,,,B253:1:99,Tabaninae,,,,Diptera,Tabanidae,Tabaninae,,,Diptera | Brachycera | Tabanidae | Tabaninae,Haematopotini,87CTN,,87CTN,
-B253:1:101,Haematopota,,,,,,genus,,B253:1,accepted,,,B253:1:100,Haematopotini,,,,Diptera,Tabanidae,Tabaninae,Haematopota,,Diptera | Brachycera | Tabanidae | Tabaninae | Haematopotini,Haematopota,BYF27,1495261,BYF27,1495261
-B253:1:102,Tabanini,,,,,,tribe,,B253:1,accepted,,,B253:1:99,Tabaninae,,,,Diptera,Tabanidae,Tabaninae,,,Diptera | Brachycera | Tabanidae | Tabaninae,Tabanini,C3N27,,C3N27,
-B253:1:103,Asilidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Asilidae,,,,Diptera | Brachycera,Asilidae,6SY,7275,6SY,7275
-B253:1:104,Leptogastrinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:103,Asilidae,,,,Diptera,Asilidae,Leptogastrinae,,,Diptera | Brachycera | Asilidae,Leptogastrinae,BXX45,,BXX45,
-B253:1:105,Leptogaster,,,,,,genus,,B253:1,accepted,,,B253:1:104,Leptogastrinae,,,,Diptera,Asilidae,Leptogastrinae,Leptogaster,,Diptera | Brachycera | Asilidae | Leptogastrinae,Leptogaster,BXYG7,3239240,BXYG7,3239240
-B253:1:106,Dasypogoninae,,,,,,subfamily,,B253:1,accepted,,,B253:1:103,Asilidae,,,,Diptera,Asilidae,Dasypogoninae,,,Diptera | Brachycera | Asilidae,Dasypogoninae,87CGK,,87CGK,
-B253:1:107,Laphriinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:103,Asilidae,,,,Diptera,Asilidae,Laphriinae,,,Diptera | Brachycera | Asilidae,Laphriinae,87CJ8,,87CJ8,
-B253:1:108,Asilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:103,Asilidae,,,,Diptera,Asilidae,Asilinae,,,Diptera | Brachycera | Asilidae,Asilinae,87CDJ,,87CDJ,
-B253:1:109,Therevidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Therevidae,,,,Diptera | Brachycera,Therevidae,H6L,3517,H6L,3517
-B253:1:110,Scenopinidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Scenopinidae,,,,Diptera | Brachycera,Scenopinidae,G26,3526,G26,3526
-B253:1:111,Acroceridae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Acroceridae,,,,Diptera | Brachycera,Acroceridae,62338,3328,62338,3328
-B253:1:112,Bombyliidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Bombyliidae,,,,Diptera | Brachycera,Bombyliidae,622GM,7285,622GM,7285
-B253:1:113,Empididae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Empididae,,,,Diptera | Brachycera,Empididae,9NM,9483,9NM,9483
-B253:1:114,Dolichopodidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Dolichopodidae,,,,Diptera | Brachycera,Dolichopodidae,623XN,7305,623XN,7305
-B253:1:115,Cyclorrhapha,,,,,,suborder,,B253:1,accepted,,,B253:1:1,Diptera,,,,Diptera,,,,,Diptera,CYCLORRHAPHA,,,,
-B253:1:116,Lonchopteridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Lonchopteridae,,,,Diptera | Cyclorrhapha,Lonchopteridae,C6C,5560,C6C,5560
-B253:1:117,Phoridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Phoridae,,,,Diptera | Cyclorrhapha,Phoridae,BXWQH,9502,BXWQH,9502
-B253:1:118,Platypezidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Platypezidae,,,,Diptera | Cyclorrhapha,Platypezidae,6262W,5584,6262W,5584
-B253:1:119,Pipunculidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Pipunculidae,,,,Diptera | Cyclorrhapha,Pipunculidae,BXWR5,5583,BXWR5,5583
-B253:1:120,Syrphidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Syrphidae,,,,Diptera | Cyclorrhapha,Syrphidae,GVS,6920,GVS,6920
-B253:1:121,Syrphinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:120,Syrphidae,,,,Diptera,Syrphidae,Syrphinae,,,Diptera | Cyclorrhapha | Syrphidae,Syrphinae,9H6NG,,9H6NG,
-B253:1:122,Milesiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:120,Syrphidae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae,Milesiinae,,,,
-B253:1:123,Volucellini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Volucellini,87D24,,87D24,
-B253:1:124,Microdontini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Microdontini,89PCD,,89PCD,
-B253:1:125,Eristalini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Eristalini,89P8Q,,89P8Q,
-B253:1:126,Chrysogasterini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Chrysogasterini,CNKWQ,,C3GN8,
-B253:1:127,Callicerini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Callicerini,BY5PY,,BY5PY,
-B253:1:128,Milesiini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Milesiini,87CVW,,87CVW,
-B253:1:129,Conopidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Conopidae,,,,Diptera | Cyclorrhapha,Conopidae,8HX,7298,8HX,7298
-B253:1:130,Tephritidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Tephritidae,,,,Diptera | Cyclorrhapha,Tephritidae,CF66P,3520,CF66P,3520
-B253:1:131,Platystomatidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Platystomatidae,,,,Diptera | Cyclorrhapha,Platystomatidae,625PZ,9504,625PZ,9504
-B253:1:132,Otitidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Otitidae,,,,Diptera | Cyclorrhapha,Otitidae,CP76P,3264557,89PGX,3516
-B253:1:133,Micropezidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Micropezidae,,,,Diptera | Cyclorrhapha,Micropezidae,CRP,9495,CRP,9495
-B253:1:134,Megamerinidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Megamerinidae,,,,Diptera | Cyclorrhapha,Megamerinidae,BY4KP,5562,BY4KP,5562
-B253:1:135,Tanypezidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Tanypezidae,,,,Diptera | Cyclorrhapha,Tanypezidae,GX8,3521,GX8,3521
-B253:1:136,Psilidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Psilidae,,,,Diptera | Cyclorrhapha,Psilidae,62774,6183,62774,6183
-B253:1:137,Helcomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Helcomyzidae,,,,Diptera | Cyclorrhapha,Helcomyzidae,BXWK4,9630,BXWK4,9630
-B253:1:138,Dryomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Dryomyzidae,,,,Diptera | Cyclorrhapha,Dryomyzidae,BY4CF,5548,BY4CF,5548
-B253:1:139,Chamaemyiidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Chamaemyiidae,,,,Diptera | Cyclorrhapha,Chamaemyiidae,BXWH3,3341,BXWH3,3341
-B253:1:140,Lauxaniidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Lauxaniidae,,,,Diptera | Cyclorrhapha,Lauxaniidae,BTH,9493,BTH,9493
-B253:1:141,Coelopidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Coelopidae,,,,Diptera | Cyclorrhapha,Coelopidae,BXWHM,7291,BXWHM,7291
-B253:1:142,Heleomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Heleomyzidae,,,,Diptera | Cyclorrhapha,Heleomyzidae,624R6,5551,624R6,5551
-B253:1:143,Chyromyidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Chyromyidae,,,,Diptera | Cyclorrhapha,Chyromyidae,BXWH9,7289,BXWH9,7289
-B253:1:144,Sepsidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Sepsidae,,,,Diptera | Cyclorrhapha,Sepsidae,BXWW3,3523,BXWW3,3523
-B253:1:145,Sciomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Sciomyzidae,,,,Diptera | Cyclorrhapha,Sciomyzidae,G45,3524,G45,3524
-B253:1:146,Sphaeroceridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Sphaeroceridae,,,,Diptera | Cyclorrhapha,Sphaeroceridae,BXWWR,6924,BXWWR,6924
-B253:1:147,Pallopteridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Pallopteridae,,,,Diptera | Cyclorrhapha,Pallopteridae,BXWP5,5579,BXWP5,5579
-B253:1:148,Lonchaeidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Lonchaeidae,,,,Diptera | Cyclorrhapha,Lonchaeidae,C69,5559,C69,5559
-B253:1:149,Piophilidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Piophilidae,,,,Diptera | Cyclorrhapha,Piophilidae,BXW25,9503,BXW25,9503
-B253:1:150,Neottiophilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:149,Piophilidae,,,,Diptera,Piophilidae,Neottiophilinae,,,Diptera | Cyclorrhapha | Piophilidae,Neottiophilinae,,,,
-B253:1:151,Opomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Opomyzidae,,,,Diptera | Cyclorrhapha,Opomyzidae,DP9,5576,DP9,5576
-B253:1:152,Clusiidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Clusiidae,,,,Diptera | Cyclorrhapha,Clusiidae,BXWHG,7290,BXWHG,7290
-B253:1:153,Odiniidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Odiniidae,,,,Diptera | Cyclorrhapha,Odiniidae,BXWNR,5575,BXWNR,5575
-B253:1:154,Carnidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Carnidae,,,,Diptera | Cyclorrhapha,Carnidae,7RD,3337,7RD,3337
-B253:1:155,Periscelididae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Periscelididae,,,,Diptera | Cyclorrhapha,Periscelididae,BXWPS,6161,BXWPS,6161
-B253:1:156,Aulacigastridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Aulacigastridae,,,,Diptera | Cyclorrhapha,Aulacigastridae,6WW,7279,6WW,7279
-B253:1:157,Anthomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Anthomyzidae,,,,Diptera | Cyclorrhapha,Anthomyzidae,BXWFQ,7272,BXWFQ,7272
-B253:1:158,Ephydridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Ephydridae,,,,Diptera | Cyclorrhapha,Ephydridae,BXVX3,5549,BXVX3,5549
-B253:1:159,Notiphilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:158,Ephydridae,,,,Diptera,Ephydridae,Notiphilinae,,,Diptera | Cyclorrhapha | Ephydridae,Notiphilinae,,,,
-B253:1:160,Diastatidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Diastatidae,,,,Diptera | Cyclorrhapha,Diastatidae,BY4C6,3349,BY4C6,3349
-B253:1:161,Drosophilidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Drosophilidae,,,,Diptera | Cyclorrhapha,Drosophilidae,BXWBR,5547,BXWBR,5547
-B253:1:162,Scaptomyza,,,,,,genus,,B253:1,accepted,,,B253:1:161,Drosophilidae,,,,Diptera,Drosophilidae,,Scaptomyza,,Diptera | Cyclorrhapha | Drosophilidae,Scaptomyza,BY49N,1556762,BY49N,1556762
-B253:1:163,Milichiidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Milichiidae,,,,Diptera | Cyclorrhapha,Milichiidae,CT2,9496,CT2,9496
-B253:1:164,Canacidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Canacidae,,,,Diptera | Cyclorrhapha,Canacidae,622J4,7287,622J4,7287
-B253:1:165,Braulidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Braulidae,,,,Diptera | Cyclorrhapha,Braulidae,CNG8Z,7286,BY64C,7286
-B253:1:166,Agromyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Agromyzidae,,,,Diptera | Cyclorrhapha,Agromyzidae,BXWFF,3329,BXWFF,3329
-B253:1:167,Agromyzinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:166,Agromyzidae,,,,Diptera,Agromyzidae,Agromyzinae,,,Diptera | Cyclorrhapha | Agromyzidae,Agromyzinae,BXWYV,,BXWYV,
-B253:1:168,Phytomyzinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:166,Agromyzidae,,,,Diptera,Agromyzidae,Phytomyzinae,,,Diptera | Cyclorrhapha | Agromyzidae,Phytomyzinae,8VSS4,,8VSS4,
-B253:1:169,Chloropidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Chloropidae,,,,Diptera | Cyclorrhapha,Chloropidae,BXWH8,3344,BXWH8,3344
-B253:1:170,Oestridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Oestridae,,,,Diptera | Cyclorrhapha,Oestridae,DJR,9499,DJR,9499
-B253:1:171,Hypodermatidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Hypodermatidae,,,,Diptera | Cyclorrhapha,Hypodermatidae,,3264169,,3264169
-B253:1:172,Gasterophilidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Gasterophilidae,,,,Diptera | Cyclorrhapha,Gasterophilidae,,4794122,,4794122
-B253:1:173,Tachinidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Tachinidae,,,,Diptera | Cyclorrhapha,Tachinidae,GVY,6918,GVY,6918
-B253:1:174,Rhinophoridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Rhinophoridae,,,,Diptera | Cyclorrhapha,Rhinophoridae,,5589,,5589
-B253:1:175,Sarcophagidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Sarcophagidae,,,,Diptera | Cyclorrhapha,Sarcophagidae,FYF,9508,FYF,9508
-B253:1:176,Calliphoridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Calliphoridae,,,,Diptera | Cyclorrhapha,Calliphoridae,BXWBJ,3335,BXWBJ,3335
-B253:1:177,Scathophagidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Scathophagidae,,,,Diptera | Cyclorrhapha,Scathophagidae,FZX,1555553,FZX,1555553
-B253:1:178,Anthomyiidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Anthomyiidae,,,,Diptera | Cyclorrhapha,Anthomyiidae,6H7,3330,6H7,3330
-B253:1:179,Fanniidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Fanniidae,,,,Diptera | Cyclorrhapha,Faniidae,6242X,9487,6242X,9487
-B253:1:180,Muscidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Muscidae,,,,Diptera | Cyclorrhapha,Muscidae,CZP,5564,CZP,5564
-B253:1:181,Achanthipterinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:180,Muscidae,,,,Diptera,Muscidae,Achanthipterinae,,,Diptera | Cyclorrhapha | Muscidae,Achanthipterinae,89NVG,,89NVG,
-B253:1:182,Azeliinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:180,Muscidae,,,,Diptera,Muscidae,Azeliinae,,,Diptera | Cyclorrhapha | Muscidae,Azeliinae,,,,
-B253:1:183,Stomoxyinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:180,Muscidae,,,,Diptera,Muscidae,Stomoxyinae,,,Diptera | Cyclorrhapha | Muscidae,Stomoxyinae,89P4F,,89P4F,
-B253:1:184,Reindwardtiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:180,Muscidae,,,,Diptera,Muscidae,Reindwardtiinae,,,Diptera | Cyclorrhapha | Muscidae,Reindwardtiinae,,,,
-B253:1:185,Muscinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:180,Muscidae,,,,Diptera,Muscidae,Muscinae,,,Diptera | Cyclorrhapha | Muscidae,Muscinae,8ZY3B,,8ZY3B,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B253:1:1,Diptera,,,,,,order,,B253:1,accepted,,,,,,,,Diptera,,,,,,DIPTERA,,D2P,811,D2P,811
+B253:1:2,Nematocera,,,,,,suborder,,B253:1,accepted,,,B253:1:1,Diptera,,,,Diptera,,,,,Diptera,NEMATOCERA,,,,,
+B253:1:3,Trichoceridae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Trichoceridae,,,,Diptera | Nematocera,Trichoceridae,,BXWXZ,6914,BXWXZ,6914
+B253:1:4,Tipulidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Tipulidae,,,,Diptera | Nematocera,Tipulidae,,626Q6,7634,626Q6,7634
+B253:1:5,Tipulinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:4,Tipulidae,,,,Diptera,Tipulidae,Tipulinae,,,Diptera | Nematocera | Tipulidae,Tipulinae,,B6NH9,,B6NH9,
+B253:1:6,Cylindrotominae,,,,,,subfamily,,B253:1,accepted,,,B253:1:4,Tipulidae,,,,Diptera,Tipulidae,Cylindrotominae,,,Diptera | Nematocera | Tipulidae,Cylindrotominae,,87CGF,,87CGF,
+B253:1:7,Diogma,,,,,,genus,,B253:1,accepted,,,B253:1:6,Cylindrotominae,,,,Diptera,Tipulidae,Cylindrotominae,Diogma,,Diptera | Nematocera | Tipulidae | Cylindrotominae,Diogma,,87GX8,1510056,87GX8,1510056
+B253:1:8,Diogma glabrata (Meigen),(Meigen),Diogma,,glabrata,,species,,B253:1,accepted,,,B253:1:7,Diogma,,,,Diptera,Tipulidae,Cylindrotominae,Diogma,,Diptera | Nematocera | Tipulidae | Cylindrotominae | Diogma,glabrata (Meigen),,6D7DC,1510059,6D7DC,1510059
+B253:1:9,Triogma,,,,,,genus,,B253:1,accepted,,,B253:1:6,Cylindrotominae,,,,Diptera,Tipulidae,Cylindrotominae,Triogma,,Diptera | Nematocera | Tipulidae | Cylindrotominae,Triogma,,87L6G,1510064,87L6G,1510064
+B253:1:10,Triogma trisulcata (Schummel),(Schummel),Triogma,,trisulcata,,species,,B253:1,accepted,,,B253:1:9,Triogma,,,,Diptera,Tipulidae,Cylindrotominae,Triogma,,Diptera | Nematocera | Tipulidae | Cylindrotominae | Triogma,trisulcata (Schummel),,58W5B,1510069,58W5B,1510069
+B253:1:11,Phalacrocera,,,,,,genus,,B253:1,accepted,,,B253:1:6,Cylindrotominae,,,,Diptera,Tipulidae,Cylindrotominae,Phalacrocera,,Diptera | Nematocera | Tipulidae | Cylindrotominae,Phalacrocera,,87JM4,1509998,87JM4,1509998
+B253:1:12,Phalacrocera replicata (L.),(L.),Phalacrocera,,replicata,,species,,B253:1,accepted,,,B253:1:11,Phalacrocera,,,,Diptera,Tipulidae,Cylindrotominae,Phalacrocera,,Diptera | Nematocera | Tipulidae | Cylindrotominae | Phalacrocera,replicata (L.),,4FQPP,1510006,4FQPP,1510006
+B253:1:13,Cylindrotoma,,,,,,genus,,B253:1,accepted,,,B253:1:6,Cylindrotominae,,,,Diptera,Tipulidae,Cylindrotominae,Cylindrotoma,,Diptera | Nematocera | Tipulidae | Cylindrotominae,Cylindrotoma,,87FD6,1510026,87FD6,1510026
+B253:1:14,Cylindrotoma distinctissima Meigen,Meigen,Cylindrotoma,,distinctissima,,species,,B253:1,accepted,,,B253:1:13,Cylindrotoma,,,,Diptera,Tipulidae,Cylindrotominae,Cylindrotoma,,Diptera | Nematocera | Tipulidae | Cylindrotominae | Cylindrotoma,distinctissima Meigen,,334GD,1510036,334GD,1510036
+B253:1:15,Limoniinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:4,Tipulidae,,,,Diptera,Tipulidae,Limoniinae,,,Diptera | Nematocera | Tipulidae,Limoniinae,,87CJJ,,87CJJ,
+B253:1:16,Limoniini,,,,,,tribe,,B253:1,accepted,,,B253:1:15,Limoniinae,,,,Diptera,Tipulidae,Limoniinae,,,Diptera | Nematocera | Tipulidae | Limoniinae,Limoniini,,,,,
+B253:1:17,Pediciini,,,,,,tribe,,B253:1,accepted,,,B253:1:15,Limoniinae,,,,Diptera,Tipulidae,Limoniinae,,,Diptera | Nematocera | Tipulidae | Limoniinae,Pediciini,,,,,
+B253:1:18,Hexatomini,,,,,,tribe,,B253:1,accepted,,,B253:1:15,Limoniinae,,,,Diptera,Tipulidae,Limoniinae,,,Diptera | Nematocera | Tipulidae | Limoniinae,Hexatomini,,,,,
+B253:1:19,Eriopterini,,,,,,tribe,,B253:1,accepted,,,B253:1:15,Limoniinae,,,,Diptera,Tipulidae,Limoniinae,,,Diptera | Nematocera | Tipulidae | Limoniinae,Eriopterini,,,,,
+B253:1:20,Psychodidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Psychodidae,,,,Diptera | Nematocera,Psychodidae,,FBS,9164,FBS,9164
+B253:1:21,Psychodinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:20,Psychodidae,,,,Diptera,Psychodidae,Psychodinae,,,Diptera | Nematocera | Psychodidae,Psychodinae,,B7X99,,B7X99,
+B253:1:22,Trichomyiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:20,Psychodidae,,,,Diptera,Psychodidae,Trichomyiinae,,,Diptera | Nematocera | Psychodidae,Trichomyiinae,,B7X9X,,B7X9X,
+B253:1:23,Trichomyia,,,,,,genus,,B253:1,accepted,,,B253:1:22,Trichomyiinae,,,,Diptera,Psychodidae,Trichomyiinae,Trichomyia,,Diptera | Nematocera | Psychodidae | Trichomyiinae,Trichomyia,,BY4V7,1642407,BY4V7,1642407
+B253:1:24,Trichomyia urbica Curtis,Curtis,Trichomyia,,urbica,,species,,B253:1,accepted,,,B253:1:23,Trichomyia,,,,Diptera,Psychodidae,Trichomyiinae,Trichomyia,,Diptera | Nematocera | Psychodidae | Trichomyiinae | Trichomyia,urbica Curtis,,58FSL,11973285,58FSL,1642445
+B253:1:25,Sycoracinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:20,Psychodidae,,,,Diptera,Psychodidae,Sycoracinae,,,Diptera | Nematocera | Psychodidae,Sycoracinae,,B7X9J,,B7X9J,
+B253:1:26,Sycorax,,,,,,genus,,B253:1,accepted,,,B253:1:25,Sycoracinae,,,,Diptera,Psychodidae,Sycoracinae,Sycorax,,Diptera | Nematocera | Psychodidae | Sycoracinae,Sycorax,,BY4L3,1641999,BY4L3,1641999
+B253:1:27,Sycorax silacea Curtis,Curtis,Sycorax,,silacea,,species,,B253:1,accepted,,,B253:1:26,Sycorax,,,,Diptera,Psychodidae,Sycoracinae,Sycorax,,Diptera | Nematocera | Psychodidae | Sycoracinae | Sycorax,silacea Curtis,,53LZ8,11277374,53LZ8,1642023
+B253:1:28,Ptychopteridae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Ptychopteridae,,,,Diptera | Nematocera,Ptychopteridae,,6277P,5585,6277P,5585
+B253:1:29,Dixidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Dixidae,,,,Diptera | Nematocera,Dixidae,,BXWJ6,7304,BXWJ6,7304
+B253:1:30,Dixa,,,,,,genus,,B253:1,accepted,,,B253:1:29,Dixidae,,,,Diptera,Dixidae,,Dixa,,Diptera | Nematocera | Dixidae,Dixa,,BXZPK,1569552,BXZPK,1569552
+B253:1:31,Dixella,,,,,,genus,,B253:1,accepted,,,B253:1:29,Dixidae,,,,Diptera,Dixidae,,Dixella,,Diptera | Nematocera | Dixidae,Dixella,,BXZPN,5077124,BXZPN,5077124
+B253:1:32,Chaoboridae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Chaoboridae,,,,Diptera | Nematocera,Chaoboridae,,BXWH6,3342,BXWH6,3342
+B253:1:33,Chaoborus Lichtenstein,Lichtenstein,,,,,genus,,B253:1,accepted,,,B253:1:32,Chaoboridae,,,,Diptera,Chaoboridae,,Chaoborus,,Diptera | Nematocera | Chaoboridae,Chaoborus Lichtenstein,,BXZ73,1679383,BXZ73,1679383
+B253:1:34,Mochlonyx Loew,Loew,,,,,genus,,B253:1,accepted,,,B253:1:32,Chaoboridae,,,,Diptera,Chaoboridae,,Mochlonyx,,Diptera | Nematocera | Chaoboridae,Mochlonyx Loew,,BYJC9,1679472,BYJC9,1679472
+B253:1:35,Culicidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Culicidae,,,,Diptera | Nematocera,Culicidae,,CCYMV,3346,CCYMV,3346
+B253:1:36,Anophelinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:35,Culicidae,,,,Diptera,Culicidae,Anophelinae,,,Diptera | Nematocera | Culicidae,Anophelinae,,9JG4C,,9JG4C,
+B253:1:37,Culicinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:35,Culicidae,,,,Diptera,Culicidae,Culicinae,,,Diptera | Nematocera | Culicidae,Culicinae,,87CGC,,87CGC,
+B253:1:38,Thaumaleidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Thaumaleidae,,,,Diptera | Nematocera,Thaumaleidae,,BXWXJ,3518,BXWXJ,3518
+B253:1:39,Ceratopogonidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Ceratopogonidae,,,,Diptera | Nematocera,Ceratopogonidae,,9H6KB,3340,9H6KB,3340
+B253:1:40,Forcipomyiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:39,Ceratopogonidae,,,,Diptera,Ceratopogonidae,Forcipomyiinae,,,Diptera | Nematocera | Ceratopogonidae,Forcipomyiinae,,B7X8G,,B7X8G,
+B253:1:41,Dasyheleinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:39,Ceratopogonidae,,,,Diptera,Ceratopogonidae,Dasyheleinae,,,Diptera | Nematocera | Ceratopogonidae,Dasyheleinae,,87CGJ,,87CGJ,
+B253:1:42,Dasyhelea,,,,,,genus,,B253:1,accepted,,,B253:1:41,Dasyheleinae,,,,Diptera,Ceratopogonidae,Dasyheleinae,Dasyhelea,,Diptera | Nematocera | Ceratopogonidae | Dasyheleinae,Dasyhelea,,BXZKR,1635616,BXZKR,1635616
+B253:1:43,Ceratopogoninae,,,,,,subfamily,,B253:1,accepted,,,B253:1:39,Ceratopogonidae,,,,Diptera,Ceratopogonidae,Ceratopogoninae,,,Diptera | Nematocera | Ceratopogonidae,Ceratopogoninae,,B7X7Y,,B7X7Y,
+B253:1:44,Chironomidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Chironomidae,,,,Diptera | Nematocera,Chironomidae,,84X,3343,84X,3343
+B253:1:45,Tanypodinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Tanypodinae,,,Diptera | Nematocera | Chironomidae,Tanypodinae,,B7X9T,,B7X9T,
+B253:1:46,Podonominae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Podonominae,,,Diptera | Nematocera | Chironomidae,Podonominae,,87CLX,,87CLX,
+B253:1:47,Diamesinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Diamesinae,,,Diptera | Nematocera | Chironomidae,Diamesinae,,8VSQM,,8VSQM,
+B253:1:48,Diamesini,,,,,,tribe,,B253:1,accepted,,,B253:1:47,Diamesinae,,,,Diptera,Chironomidae,Diamesinae,,,Diptera | Nematocera | Chironomidae | Diamesinae,Diamesini,,8VSV9,,8VSV9,
+B253:1:49,Protanypini,,,,,,tribe,,B253:1,accepted,,,B253:1:47,Diamesinae,,,,Diptera,Chironomidae,Diamesinae,,,Diptera | Nematocera | Chironomidae | Diamesinae,Protanypini,,87CY5,,87CY5,
+B253:1:50,Chironominae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Chironominae,,,Diptera | Nematocera | Chironomidae,Chironominae,,9GL3P,,9GL3P,
+B253:1:51,Prodiamesinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Prodiamesinae,,,Diptera | Nematocera | Chironomidae,Prodiamesinae,,B7X98,,B7X98,
+B253:1:52,Telmatogetoninae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Telmatogetoninae,,,Diptera | Nematocera | Chironomidae,Telmatogetoninae,,87CP4,,87CP4,
+B253:1:53,Orthocladiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:44,Chironomidae,,,,Diptera,Chironomidae,Orthocladiinae,,,Diptera | Nematocera | Chironomidae,Orthocladiinae,,B7X8Y,,B7X8Y,
+B253:1:54,Simuliidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Simuliidae,,,,Diptera | Nematocera,Simuliidae,,6279F,3522,6279F,3522
+B253:1:55,Anisopodidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Anisopodidae,,,,Diptera | Nematocera,Anisopodidae,,6F7,7271,6F7,7271
+B253:1:56,Anisopodinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:55,Anisopodidae,,,,Diptera,Anisopodidae,Anisopodinae,,,Diptera | Nematocera | Anisopodidae,Anisopodinae,,87CD7,,87CD7,
+B253:1:57,"Sylvicola Harris, 1776","Harris, 1776",,,,,genus,,B253:1,accepted,,,B253:1:56,Anisopodinae,,,,Diptera,Anisopodidae,Anisopodinae,Sylvicola,,Diptera | Nematocera | Anisopodidae | Anisopodinae,Sylvicola,,BY4L5,1501452,BY4L5,1501452
+B253:1:58,Anisopus,,,,,,genus,,B253:1,synonym,B253:1:57,"Sylvicola Harris, 1776",,,,,,Diptera,Anisopodidae,Anisopodinae,Anisopus,,Diptera | Nematocera | Anisopodidae | Anisopodinae,Anisopus,,B7XK3,2118533,B7XK3,2118533
+B253:1:59,Mycetobiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:55,Anisopodidae,,,,Diptera,Anisopodidae,Mycetobiinae,,,Diptera | Nematocera | Anisopodidae,Mycetobiinae,,87CKB,,87CKB,
+B253:1:60,Mycetobia,,,,,,genus,,B253:1,accepted,,,B253:1:59,Mycetobiinae,,,,Diptera,Anisopodidae,Mycetobiinae,Mycetobia,,Diptera | Nematocera | Anisopodidae | Mycetobiinae,Mycetobia,,BY347,1493895,BY347,1493895
+B253:1:61,Mycetobia pallipes Meigen,Meigen,Mycetobia,,pallipes,,species,,B253:1,accepted,,,B253:1:60,Mycetobia,,,,Diptera,Anisopodidae,Mycetobiinae,Mycetobia,,Diptera | Nematocera | Anisopodidae | Mycetobiinae | Mycetobia,pallipes Meigen,,6RSCM,1566549,6RSCM,1566549
+B253:1:62,Bibionidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Bibionidae,,,,Diptera | Nematocera,Bibionidae,,77F,7281,77F,7281
+B253:1:63,Mycetophilidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Mycetophilidae,,,,Diptera | Nematocera,Mycetophilidae,,D26,5565,D26,5565
+B253:1:64,Ditomyiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Ditomyiinae,,,Diptera | Nematocera | Mycetophilidae,Ditomyiinae,,,,,
+B253:1:65,Bolitophilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Bolitophilinae,,,Diptera | Nematocera | Mycetophilidae,Bolitophilinae,,,,,
+B253:1:66,Bolitophila,,,,,,genus,,B253:1,accepted,,,B253:1:65,Bolitophilinae,,,,Diptera,Mycetophilidae,Bolitophilinae,Bolitophila,,Diptera | Nematocera | Mycetophilidae | Bolitophilinae,Bolitophila,,BY8B9,1563675,BY8B9,1563675
+B253:1:67,Mycetophilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Mycetophilinae,,,Diptera | Nematocera | Mycetophilidae,Mycetophilinae,,87CKC,,87CKC,
+B253:1:68,Keroplatinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Keroplatinae,,,Diptera | Nematocera | Mycetophilidae,Keroplatinae,,9GL48,,9GL48,
+B253:1:69,Sciophilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Sciophilinae,,,Diptera | Nematocera | Mycetophilidae,Sciophilinae,,B7X9H,,B7X9H,
+B253:1:70,Speolepta,,,,,,genus,,B253:1,accepted,,,B253:1:69,Sciophilinae,,,,Diptera,Mycetophilidae,Sciophilinae,Speolepta,,Diptera | Nematocera | Mycetophilidae | Sciophilinae,Speolepta,,BYQL7,1613655,BYQL7,1613655
+B253:1:71,Diadocidiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Diadocidiinae,,,Diptera | Nematocera | Mycetophilidae,Diadocidiinae,,CNQMH,,62498,
+B253:1:72,Diadocidia,,,,,,genus,,B253:1,accepted,,,B253:1:71,Diadocidiinae,,,,Diptera,Mycetophilidae,Diadocidiinae,Diadocidia,,Diptera | Nematocera | Mycetophilidae | Diadocidiinae,Diadocidia,,BXZLR,1493869,BXZLR,1493869
+B253:1:73,Manotinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:63,Mycetophilidae,,,,Diptera,Mycetophilidae,Manotinae,,,Diptera | Nematocera | Mycetophilidae,Manotinae,,,,,
+B253:1:74,Manota,,,,,,genus,,B253:1,accepted,,,B253:1:73,Manotinae,,,,Diptera,Mycetophilidae,Manotinae,Manota,,Diptera | Nematocera | Mycetophilidae | Manotinae,Manota,,BXWPZ,1611895,BXWPZ,1611895
+B253:1:75,Manota unifurcata Lundström,Lundström,Manota,,unifurcata,,species,,B253:1,accepted,,,B253:1:74,Manota,,,,Diptera,Mycetophilidae,Manotinae,Manota,,Diptera | Nematocera | Mycetophilidae | Manotinae | Manota,unifurcata Lundström,,3XVZ8,1611944,3XVZ8,1611944
+B253:1:76,Sciaridae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Sciaridae,,,,Diptera | Nematocera,Sciaridae,,G3Z,3525,G3Z,3525
+B253:1:77,Scatopsidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Scatopsidae,,,,Diptera | Nematocera,Scatopsidae,,G22,6927,G22,6927
+B253:1:78,Cecidomyiidae,,,,,,family,,B253:1,accepted,,,B253:1:2,Nematocera,,,,Diptera,Cecidomyiidae,,,,Diptera | Nematocera,Cecidomyiidae,,622KR,3338,622KR,3338
+B253:1:79,Porricondylinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:78,Cecidomyiidae,,,,Diptera,Cecidomyiidae,Porricondylinae,,,Diptera | Nematocera | Cecidomyiidae,Porricondylinae,,87CM2,,87CM2,
+B253:1:80,Heteropezini,,,,,,tribe,,B253:1,accepted,,,B253:1:79,Porricondylinae,,,,Diptera,Cecidomyiidae,Porricondylinae,,,Diptera | Nematocera | Cecidomyiidae | Porricondylinae,Heteropezini,,B7XCM,,B7XCM,
+B253:1:81,Cecidomyiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:78,Cecidomyiidae,,,,Diptera,Cecidomyiidae,Cecidomyiinae,,,Diptera | Nematocera | Cecidomyiidae,Cecidomyiinae,,9GL3K,,9GL3K,
+B253:1:82,Lestremiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:78,Cecidomyiidae,,,,Diptera,Cecidomyiidae,Lestremiinae,,,Diptera | Nematocera | Cecidomyiidae,Lestremiinae,,87CJH,,87CJH,
+B253:1:83,Brachycera,,,,,,suborder,,B253:1,accepted,,,B253:1:1,Diptera,,,,Diptera,,,,,Diptera,BRACHYCERA,,,,,
+B253:1:84,Stratiomyidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Stratiomyidae,,,,Diptera | Brachycera,Stratiomyidae,,CF66Z,6923,CF66Z,6923
+B253:1:85,Beridinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Beridinae,,,Diptera | Brachycera | Stratiomyidae,Beridinae,,87CDN,,87CDN,
+B253:1:86,Clitellariinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Clitellariinae,,,Diptera | Brachycera | Stratiomyidae,Clitellariinae,,9H6LJ,,9H6LJ,
+B253:1:87,Pachygastrinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Pachygastrinae,,,Diptera | Brachycera | Stratiomyidae,Pachygastrinae,,B7X93,,B7X93,
+B253:1:88,Sarginae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Sarginae,,,Diptera | Brachycera | Stratiomyidae,Sarginae,,BXX6P,,BXX6P,
+B253:1:89,Stratiomyinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Stratiomyinae,,,Diptera | Brachycera | Stratiomyidae,Stratiomyinae,,87CNF,,87CNF,
+B253:1:90,Hermetiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:84,Stratiomyidae,,,,Diptera,Stratiomyidae,Hermetiinae,,,Diptera | Brachycera | Stratiomyidae,Hermetiinae,,87CHR,,87CHR,
+B253:1:91,Xylomyidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Xylomyidae,,,,Diptera | Brachycera,Xylomyidae,,BY55G,3514,BY55G,3514
+B253:1:92,Xylophagidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Xylophagidae,,,,Diptera | Brachycera,Xylophagidae,,626T5,10419879,626T5,10419879
+B253:1:93,Rhagionidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Rhagionidae,,,,Diptera | Brachycera,Rhagionidae,,FN2,5587,FN2,5587
+B253:1:94,Athericidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Athericidae,,,,Diptera | Brachycera,Athericidae,,6VK,7278,6VK,7278
+B253:1:95,Tabanidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Tabanidae,,,,Diptera | Brachycera,Tabanidae,,GVW,6919,GVW,6919
+B253:1:96,Chrysopsinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:95,Tabanidae,,,,Diptera,Tabanidae,Chrysopsinae,,,Diptera | Brachycera | Tabanidae,Chrysopsinae,,B7X83,,B7X83,
+B253:1:97,Chrysopsini,,,,,,tribe,,B253:1,accepted,,,B253:1:96,Chrysopsinae,,,,Diptera,Tabanidae,Chrysopsinae,,,Diptera | Brachycera | Tabanidae | Chrysopsinae,Chrysopsini,,87CRQ,,87CRQ,
+B253:1:98,Chrysops,,,,,,genus,,B253:1,accepted,,,B253:1:97,Chrysopsini,,,,Diptera,Tabanidae,Chrysopsinae,Chrysops,,Diptera | Brachycera | Tabanidae | Chrysopsinae | Chrysopsini,Chrysops,,BXZ8X,1497045,BXZ8X,1497045
+B253:1:99,Tabaninae,,,,,,subfamily,,B253:1,accepted,,,B253:1:95,Tabanidae,,,,Diptera,Tabanidae,Tabaninae,,,Diptera | Brachycera | Tabanidae,Tabaninae,,9GL5B,,9GL5B,
+B253:1:100,Haematopotini,,,,,,tribe,,B253:1,accepted,,,B253:1:99,Tabaninae,,,,Diptera,Tabanidae,Tabaninae,,,Diptera | Brachycera | Tabanidae | Tabaninae,Haematopotini,,87CTN,,87CTN,
+B253:1:101,Haematopota,,,,,,genus,,B253:1,accepted,,,B253:1:100,Haematopotini,,,,Diptera,Tabanidae,Tabaninae,Haematopota,,Diptera | Brachycera | Tabanidae | Tabaninae | Haematopotini,Haematopota,,BYF27,1495261,BYF27,1495261
+B253:1:102,Tabanini,,,,,,tribe,,B253:1,accepted,,,B253:1:99,Tabaninae,,,,Diptera,Tabanidae,Tabaninae,,,Diptera | Brachycera | Tabanidae | Tabaninae,Tabanini,,C3N27,,C3N27,
+B253:1:103,Asilidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Asilidae,,,,Diptera | Brachycera,Asilidae,,6SY,7275,6SY,7275
+B253:1:104,Leptogastrinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:103,Asilidae,,,,Diptera,Asilidae,Leptogastrinae,,,Diptera | Brachycera | Asilidae,Leptogastrinae,,BXX45,,BXX45,
+B253:1:105,Leptogaster,,,,,,genus,,B253:1,accepted,,,B253:1:104,Leptogastrinae,,,,Diptera,Asilidae,Leptogastrinae,Leptogaster,,Diptera | Brachycera | Asilidae | Leptogastrinae,Leptogaster,,BXYG7,3239240,BXYG7,3239240
+B253:1:106,Dasypogoninae,,,,,,subfamily,,B253:1,accepted,,,B253:1:103,Asilidae,,,,Diptera,Asilidae,Dasypogoninae,,,Diptera | Brachycera | Asilidae,Dasypogoninae,,87CGK,,87CGK,
+B253:1:107,Laphriinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:103,Asilidae,,,,Diptera,Asilidae,Laphriinae,,,Diptera | Brachycera | Asilidae,Laphriinae,,87CJ8,,87CJ8,
+B253:1:108,Asilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:103,Asilidae,,,,Diptera,Asilidae,Asilinae,,,Diptera | Brachycera | Asilidae,Asilinae,,87CDJ,,87CDJ,
+B253:1:109,Therevidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Therevidae,,,,Diptera | Brachycera,Therevidae,,H6L,3517,H6L,3517
+B253:1:110,Scenopinidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Scenopinidae,,,,Diptera | Brachycera,Scenopinidae,,G26,3526,G26,3526
+B253:1:111,Acroceridae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Acroceridae,,,,Diptera | Brachycera,Acroceridae,,62338,3328,62338,3328
+B253:1:112,Bombyliidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Bombyliidae,,,,Diptera | Brachycera,Bombyliidae,,622GM,7285,622GM,7285
+B253:1:113,Empididae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Empididae,,,,Diptera | Brachycera,Empididae,,9NM,9483,9NM,9483
+B253:1:114,Dolichopodidae,,,,,,family,,B253:1,accepted,,,B253:1:83,Brachycera,,,,Diptera,Dolichopodidae,,,,Diptera | Brachycera,Dolichopodidae,,623XN,7305,623XN,7305
+B253:1:115,Cyclorrhapha,,,,,,suborder,,B253:1,accepted,,,B253:1:1,Diptera,,,,Diptera,,,,,Diptera,CYCLORRHAPHA,,,,,
+B253:1:116,Lonchopteridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Lonchopteridae,,,,Diptera | Cyclorrhapha,Lonchopteridae,,C6C,5560,C6C,5560
+B253:1:117,Phoridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Phoridae,,,,Diptera | Cyclorrhapha,Phoridae,,BXWQH,9502,BXWQH,9502
+B253:1:118,Platypezidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Platypezidae,,,,Diptera | Cyclorrhapha,Platypezidae,,6262W,5584,6262W,5584
+B253:1:119,Pipunculidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Pipunculidae,,,,Diptera | Cyclorrhapha,Pipunculidae,,BXWR5,5583,BXWR5,5583
+B253:1:120,Syrphidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Syrphidae,,,,Diptera | Cyclorrhapha,Syrphidae,,GVS,6920,GVS,6920
+B253:1:121,Syrphinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:120,Syrphidae,,,,Diptera,Syrphidae,Syrphinae,,,Diptera | Cyclorrhapha | Syrphidae,Syrphinae,,9H6NG,,9H6NG,
+B253:1:122,Milesiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:120,Syrphidae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae,Milesiinae,,,,,
+B253:1:123,Volucellini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Volucellini,,87D24,,87D24,
+B253:1:124,Microdontini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Microdontini,,89PCD,,89PCD,
+B253:1:125,Eristalini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Eristalini,,89P8Q,,89P8Q,
+B253:1:126,Chrysogasterini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Chrysogasterini,,CNKWQ,,C3GN8,
+B253:1:127,Callicerini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Callicerini,,BY5PY,,BY5PY,
+B253:1:128,Milesiini,,,,,,tribe,,B253:1,accepted,,,B253:1:122,Milesiinae,,,,Diptera,Syrphidae,Milesiinae,,,Diptera | Cyclorrhapha | Syrphidae | Milesiinae,Milesiini,,87CVW,,87CVW,
+B253:1:129,Conopidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Conopidae,,,,Diptera | Cyclorrhapha,Conopidae,,8HX,7298,8HX,7298
+B253:1:130,Tephritidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Tephritidae,,,,Diptera | Cyclorrhapha,Tephritidae,,CF66P,3520,CF66P,3520
+B253:1:131,Platystomatidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Platystomatidae,,,,Diptera | Cyclorrhapha,Platystomatidae,,625PZ,9504,625PZ,9504
+B253:1:132,Otitidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Otitidae,,,,Diptera | Cyclorrhapha,Otitidae,,CP76P,3264557,89PGX,3516
+B253:1:133,Micropezidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Micropezidae,,,,Diptera | Cyclorrhapha,Micropezidae,,CRP,9495,CRP,9495
+B253:1:134,Megamerinidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Megamerinidae,,,,Diptera | Cyclorrhapha,Megamerinidae,,BY4KP,5562,BY4KP,5562
+B253:1:135,Tanypezidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Tanypezidae,,,,Diptera | Cyclorrhapha,Tanypezidae,,GX8,3521,GX8,3521
+B253:1:136,Psilidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Psilidae,,,,Diptera | Cyclorrhapha,Psilidae,,62774,6183,62774,6183
+B253:1:137,Helcomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Helcomyzidae,,,,Diptera | Cyclorrhapha,Helcomyzidae,,BXWK4,9630,BXWK4,9630
+B253:1:138,Dryomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Dryomyzidae,,,,Diptera | Cyclorrhapha,Dryomyzidae,,BY4CF,5548,BY4CF,5548
+B253:1:139,Chamaemyiidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Chamaemyiidae,,,,Diptera | Cyclorrhapha,Chamaemyiidae,,BXWH3,3341,BXWH3,3341
+B253:1:140,Lauxaniidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Lauxaniidae,,,,Diptera | Cyclorrhapha,Lauxaniidae,,BTH,9493,BTH,9493
+B253:1:141,Coelopidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Coelopidae,,,,Diptera | Cyclorrhapha,Coelopidae,,BXWHM,7291,BXWHM,7291
+B253:1:142,Heleomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Heleomyzidae,,,,Diptera | Cyclorrhapha,Heleomyzidae,,624R6,5551,624R6,5551
+B253:1:143,Chyromyidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Chyromyidae,,,,Diptera | Cyclorrhapha,Chyromyidae,,BXWH9,7289,BXWH9,7289
+B253:1:144,Sepsidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Sepsidae,,,,Diptera | Cyclorrhapha,Sepsidae,,BXWW3,3523,BXWW3,3523
+B253:1:145,Sciomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Sciomyzidae,,,,Diptera | Cyclorrhapha,Sciomyzidae,,G45,3524,G45,3524
+B253:1:146,Sphaeroceridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Sphaeroceridae,,,,Diptera | Cyclorrhapha,Sphaeroceridae,,BXWWR,6924,BXWWR,6924
+B253:1:147,Pallopteridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Pallopteridae,,,,Diptera | Cyclorrhapha,Pallopteridae,,BXWP5,5579,BXWP5,5579
+B253:1:148,Lonchaeidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Lonchaeidae,,,,Diptera | Cyclorrhapha,Lonchaeidae,,C69,5559,C69,5559
+B253:1:149,Piophilidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Piophilidae,,,,Diptera | Cyclorrhapha,Piophilidae,,BXW25,9503,BXW25,9503
+B253:1:150,Neottiophilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:149,Piophilidae,,,,Diptera,Piophilidae,Neottiophilinae,,,Diptera | Cyclorrhapha | Piophilidae,Neottiophilinae,,,,,
+B253:1:151,Opomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Opomyzidae,,,,Diptera | Cyclorrhapha,Opomyzidae,,DP9,5576,DP9,5576
+B253:1:152,Clusiidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Clusiidae,,,,Diptera | Cyclorrhapha,Clusiidae,,BXWHG,7290,BXWHG,7290
+B253:1:153,Odiniidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Odiniidae,,,,Diptera | Cyclorrhapha,Odiniidae,,BXWNR,5575,BXWNR,5575
+B253:1:154,Carnidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Carnidae,,,,Diptera | Cyclorrhapha,Carnidae,,7RD,3337,7RD,3337
+B253:1:155,Periscelididae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Periscelididae,,,,Diptera | Cyclorrhapha,Periscelididae,,BXWPS,6161,BXWPS,6161
+B253:1:156,Aulacigastridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Aulacigastridae,,,,Diptera | Cyclorrhapha,Aulacigastridae,,6WW,7279,6WW,7279
+B253:1:157,Anthomyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Anthomyzidae,,,,Diptera | Cyclorrhapha,Anthomyzidae,,BXWFQ,7272,BXWFQ,7272
+B253:1:158,Ephydridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Ephydridae,,,,Diptera | Cyclorrhapha,Ephydridae,,BXVX3,5549,BXVX3,5549
+B253:1:159,Notiphilinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:158,Ephydridae,,,,Diptera,Ephydridae,Notiphilinae,,,Diptera | Cyclorrhapha | Ephydridae,Notiphilinae,,,,,
+B253:1:160,Diastatidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Diastatidae,,,,Diptera | Cyclorrhapha,Diastatidae,,BY4C6,3349,BY4C6,3349
+B253:1:161,Drosophilidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Drosophilidae,,,,Diptera | Cyclorrhapha,Drosophilidae,,BXWBR,5547,BXWBR,5547
+B253:1:162,Scaptomyza,,,,,,genus,,B253:1,accepted,,,B253:1:161,Drosophilidae,,,,Diptera,Drosophilidae,,Scaptomyza,,Diptera | Cyclorrhapha | Drosophilidae,Scaptomyza,,BY49N,1556762,BY49N,1556762
+B253:1:163,Milichiidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Milichiidae,,,,Diptera | Cyclorrhapha,Milichiidae,,CT2,9496,CT2,9496
+B253:1:164,Canacidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Canacidae,,,,Diptera | Cyclorrhapha,Canacidae,,622J4,7287,622J4,7287
+B253:1:165,Braulidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Braulidae,,,,Diptera | Cyclorrhapha,Braulidae,,CNG8Z,7286,BY64C,7286
+B253:1:166,Agromyzidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Agromyzidae,,,,Diptera | Cyclorrhapha,Agromyzidae,,BXWFF,3329,BXWFF,3329
+B253:1:167,Agromyzinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:166,Agromyzidae,,,,Diptera,Agromyzidae,Agromyzinae,,,Diptera | Cyclorrhapha | Agromyzidae,Agromyzinae,,BXWYV,,BXWYV,
+B253:1:168,Phytomyzinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:166,Agromyzidae,,,,Diptera,Agromyzidae,Phytomyzinae,,,Diptera | Cyclorrhapha | Agromyzidae,Phytomyzinae,,8VSS4,,8VSS4,
+B253:1:169,Chloropidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Chloropidae,,,,Diptera | Cyclorrhapha,Chloropidae,,BXWH8,3344,BXWH8,3344
+B253:1:170,Oestridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Oestridae,,,,Diptera | Cyclorrhapha,Oestridae,,DJR,9499,DJR,9499
+B253:1:171,Hypodermatidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Hypodermatidae,,,,Diptera | Cyclorrhapha,Hypodermatidae,,,3264169,,3264169
+B253:1:172,Gasterophilidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Gasterophilidae,,,,Diptera | Cyclorrhapha,Gasterophilidae,,,4794122,,4794122
+B253:1:173,Tachinidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Tachinidae,,,,Diptera | Cyclorrhapha,Tachinidae,,GVY,6918,GVY,6918
+B253:1:174,Rhinophoridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Rhinophoridae,,,,Diptera | Cyclorrhapha,Rhinophoridae,,,5589,,5589
+B253:1:175,Sarcophagidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Sarcophagidae,,,,Diptera | Cyclorrhapha,Sarcophagidae,,FYF,9508,FYF,9508
+B253:1:176,Calliphoridae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Calliphoridae,,,,Diptera | Cyclorrhapha,Calliphoridae,,BXWBJ,3335,BXWBJ,3335
+B253:1:177,Scathophagidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Scathophagidae,,,,Diptera | Cyclorrhapha,Scathophagidae,,FZX,1555553,FZX,1555553
+B253:1:178,Anthomyiidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Anthomyiidae,,,,Diptera | Cyclorrhapha,Anthomyiidae,,6H7,3330,6H7,3330
+B253:1:179,Fanniidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Fanniidae,,,,Diptera | Cyclorrhapha,Faniidae,,6242X,9487,6242X,9487
+B253:1:180,Muscidae,,,,,,family,,B253:1,accepted,,,B253:1:115,Cyclorrhapha,,,,Diptera,Muscidae,,,,Diptera | Cyclorrhapha,Muscidae,,CZP,5564,CZP,5564
+B253:1:181,Achanthipterinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:180,Muscidae,,,,Diptera,Muscidae,Achanthipterinae,,,Diptera | Cyclorrhapha | Muscidae,Achanthipterinae,,89NVG,,89NVG,
+B253:1:182,Azeliinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:180,Muscidae,,,,Diptera,Muscidae,Azeliinae,,,Diptera | Cyclorrhapha | Muscidae,Azeliinae,,,,,
+B253:1:183,Stomoxyinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:180,Muscidae,,,,Diptera,Muscidae,Stomoxyinae,,,Diptera | Cyclorrhapha | Muscidae,Stomoxyinae,,89P4F,,89P4F,
+B253:1:184,Reindwardtiinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:180,Muscidae,,,,Diptera,Muscidae,Reindwardtiinae,,,Diptera | Cyclorrhapha | Muscidae,Reindwardtiinae,,,,,
+B253:1:185,Muscinae,,,,,,subfamily,,B253:1,accepted,,,B253:1:180,Muscidae,,,,Diptera,Muscidae,Muscinae,,,Diptera | Cyclorrhapha | Muscidae,Muscinae,,8ZY3B,,8ZY3B,

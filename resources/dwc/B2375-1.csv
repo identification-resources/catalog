@@ -1,22 +1,22 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2375:1:1,Scutellerinae,,,,,,subfamily,,B2375:1,accepted,,,,,,,,,,Scutellerinae,,,,Scutellerinae,,,,
-B2375:1:2,Graphosoma Lap.,Lap.,,,,,genus,,B2375:1,accepted,,,B2375:1:1,Scutellerinae,,,,,,Scutellerinae,Graphosoma,,Scutellerinae,Graphosoma Lap.,,4405318,,4405318
-B2375:1:3,Graphosoma lineatum Lin.,Lin.,Graphosoma,,lineatum,,species,,B2375:1,accepted,,,B2375:1:2,Graphosoma Lap.,,,,,,Scutellerinae,Graphosoma,,Scutellerinae | Graphosoma,lineatum Lin.,,4485729,,4485729
-B2375:1:4,Podops Lap.,Lap.,,,,,genus,,B2375:1,accepted,,,B2375:1:1,Scutellerinae,,,,,,Scutellerinae,Podops,,Scutellerinae,Podops Lap.,,8882580,,8882580
-B2375:1:5,Podops inuncta Fab.,Fab.,Podops,,inuncta,,species,,B2375:1,accepted,,,B2375:1:4,Podops Lap.,,,,,,Scutellerinae,Podops,,Scutellerinae | Podops,inuncta Fab.,,4485704,,4485704
-B2375:1:6,Corimelaena White.,White.,,,,,genus,,B2375:1,accepted,,,B2375:1:1,Scutellerinae,,,,,,Scutellerinae,Corimelaena,,Scutellerinae,Corimelaena White.,,2079408,,2079408
-B2375:1:7,Corimelaena scarabeoides Lin.,Lin.,Corimelaena,,scarabeoides,,species,,B2375:1,accepted,,,B2375:1:6,Corimelaena White.,,,,,,Scutellerinae,Corimelaena,,Scutellerinae | Corimelaena,scarabeoides Lin.,,10379869,,4486004
-B2375:1:8,Pentatominae,,,,,,subfamily,,B2375:1,accepted,,,,,,,,,,Pentatominae,,,,Pentatominae,,,,
-B2375:1:9,Pentatomini,,,,,,tribe,,B2375:1,accepted,,,B2375:1:8,Pentatominae,,,,,,Pentatominae,,,Pentatominae,Pentatomini,,,,
-B2375:1:10,Sciocoris Fall.,Fall.,,,,,genus,,B2375:1,accepted,,,B2375:1:9,Pentatomini,,,,,,Pentatominae,Sciocoris,,Pentatominae | Pentatomini,Sciocoris Fall.,,2079251,,2079251
-B2375:1:11,Sciocoris macrocephalus Fieb.,Fieb.,Sciocoris,,macrocephalus,,species,,B2375:1,accepted,,,B2375:1:10,Sciocoris Fall.,,,,,,Pentatominae,Sciocoris,,Pentatominae | Pentatomini | Sciocoris,macrocephalus Fieb.,,4485868,,4485868
-B2375:1:12,Sciocoris terreus Schr.,Schr.,Sciocoris,,terreus,,species,,B2375:1,accepted,,,B2375:1:10,Sciocoris Fall.,,,,,,Pentatominae,Sciocoris,,Pentatominae | Pentatomini | Sciocoris,terreus Schr.,,9876318,,2079253
-B2375:1:13,Sciocoris microphthalmus Flor.,Flor.,Sciocoris,,microphthalmus,,species,,B2375:1,accepted,,,B2375:1:10,Sciocoris Fall.,,,,,,Pentatominae,Sciocoris,,Pentatominae | Pentatomini | Sciocoris,microphalmus Flor.,,2079252,,2079252
-B2375:1:14,Sciocoris umbrinus Wolff.,Wolff.,Sciocoris,,umbrinus,,species,,B2375:1,accepted,,,B2375:1:10,Sciocoris Fall.,,,,,,Pentatominae,Sciocoris,,Pentatominae | Pentatomini | Sciocoris,umbrinus Wolff.,,2079255,,2079255
-B2375:1:15,Aelia Fab.,Fab.,,,,,genus,,B2375:1,accepted,,,B2375:1:9,Pentatomini,,,,,,Pentatominae,Aelia,,Pentatominae | Pentatomini,Aelia Fab.,,2079121,,2079121
-B2375:1:16,Aelia acuminata L.,L.,Aelia,,acuminata,,species,,B2375:1,accepted,,,B2375:1:15,Aelia Fab.,,,,,,Pentatominae,Aelia,,Pentatominae | Pentatomini | Aelia,acuminata L.,,2079123,,2079123
-B2375:1:17,Aelia klugii Hah.,Hah.,Aelia,,klugii,,species,,B2375:1,accepted,,,B2375:1:15,Aelia Fab.,,,,,,Pentatominae,Aelia,,Pentatominae | Pentatomini | Aelia,Klugii Hah.,,6096804,,6096804
-B2375:1:18,Aelia rostrata Boh.,Boh.,Aelia,,rostrata,,species,,B2375:1,accepted,,,B2375:1:15,Aelia Fab.,,,,,,Pentatominae,Aelia,,Pentatominae | Pentatomini | Aelia,rostrata Boh.,,7906393,,7906393
-B2375:1:19,Neottiglossa Curt.,Curt.,,,,,genus,,B2375:1,accepted,,,B2375:1:9,Pentatomini,,,,,,Pentatominae,Neottiglossa,,Pentatominae | Pentatomini,Neottiglossa Curt.,,2078911,,2078911
-B2375:1:20,Neottiglossa inflexa Wolff.,Wolff.,Neottiglossa,,inflexa,,species,,B2375:1,accepted,,,B2375:1:19,Neottiglossa Curt.,,,,,,Pentatominae,Neottiglossa,,Pentatominae | Pentatomini | Neottiglossa,inflexa Wolff.,,9857585,,4485936
-B2375:1:21,Neottiglossa leporina H. S.,H. S.,Neottiglossa,,leporina,,species,,B2375:1,accepted,,,B2375:1:19,Neottiglossa Curt.,,,,,,Pentatominae,Neottiglossa,,Pentatominae | Pentatomini | Neottiglossa,leporina H. S.,,4485944,,4485944
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2375:1:1,Scutellerinae,,,,,,subfamily,,B2375:1,accepted,,,,,,,,,,Scutellerinae,,,,Scutellerinae,,,,,
+B2375:1:2,Graphosoma Lap.,Lap.,,,,,genus,,B2375:1,accepted,,,B2375:1:1,Scutellerinae,,,,,,Scutellerinae,Graphosoma,,Scutellerinae,Graphosoma Lap.,,,4405318,,4405318
+B2375:1:3,Graphosoma lineatum Lin.,Lin.,Graphosoma,,lineatum,,species,,B2375:1,accepted,,,B2375:1:2,Graphosoma Lap.,,,,,,Scutellerinae,Graphosoma,,Scutellerinae | Graphosoma,lineatum Lin.,,,4485729,,4485729
+B2375:1:4,Podops Lap.,Lap.,,,,,genus,,B2375:1,accepted,,,B2375:1:1,Scutellerinae,,,,,,Scutellerinae,Podops,,Scutellerinae,Podops Lap.,,,8882580,,8882580
+B2375:1:5,Podops inuncta Fab.,Fab.,Podops,,inuncta,,species,,B2375:1,accepted,,,B2375:1:4,Podops Lap.,,,,,,Scutellerinae,Podops,,Scutellerinae | Podops,inuncta Fab.,,,4485704,,4485704
+B2375:1:6,Corimelaena White.,White.,,,,,genus,,B2375:1,accepted,,,B2375:1:1,Scutellerinae,,,,,,Scutellerinae,Corimelaena,,Scutellerinae,Corimelaena White.,,,2079408,,2079408
+B2375:1:7,Corimelaena scarabeoides Lin.,Lin.,Corimelaena,,scarabeoides,,species,,B2375:1,accepted,,,B2375:1:6,Corimelaena White.,,,,,,Scutellerinae,Corimelaena,,Scutellerinae | Corimelaena,scarabeoides Lin.,,,10379869,,4486004
+B2375:1:8,Pentatominae,,,,,,subfamily,,B2375:1,accepted,,,,,,,,,,Pentatominae,,,,Pentatominae,,,,,
+B2375:1:9,Pentatomini,,,,,,tribe,,B2375:1,accepted,,,B2375:1:8,Pentatominae,,,,,,Pentatominae,,,Pentatominae,Pentatomini,,,,,
+B2375:1:10,Sciocoris Fall.,Fall.,,,,,genus,,B2375:1,accepted,,,B2375:1:9,Pentatomini,,,,,,Pentatominae,Sciocoris,,Pentatominae | Pentatomini,Sciocoris Fall.,,,2079251,,2079251
+B2375:1:11,Sciocoris macrocephalus Fieb.,Fieb.,Sciocoris,,macrocephalus,,species,,B2375:1,accepted,,,B2375:1:10,Sciocoris Fall.,,,,,,Pentatominae,Sciocoris,,Pentatominae | Pentatomini | Sciocoris,macrocephalus Fieb.,,,4485868,,4485868
+B2375:1:12,Sciocoris terreus Schr.,Schr.,Sciocoris,,terreus,,species,,B2375:1,accepted,,,B2375:1:10,Sciocoris Fall.,,,,,,Pentatominae,Sciocoris,,Pentatominae | Pentatomini | Sciocoris,terreus Schr.,,,9876318,,2079253
+B2375:1:13,Sciocoris microphthalmus Flor.,Flor.,Sciocoris,,microphthalmus,,species,,B2375:1,accepted,,,B2375:1:10,Sciocoris Fall.,,,,,,Pentatominae,Sciocoris,,Pentatominae | Pentatomini | Sciocoris,microphalmus Flor.,,,2079252,,2079252
+B2375:1:14,Sciocoris umbrinus Wolff.,Wolff.,Sciocoris,,umbrinus,,species,,B2375:1,accepted,,,B2375:1:10,Sciocoris Fall.,,,,,,Pentatominae,Sciocoris,,Pentatominae | Pentatomini | Sciocoris,umbrinus Wolff.,,,2079255,,2079255
+B2375:1:15,Aelia Fab.,Fab.,,,,,genus,,B2375:1,accepted,,,B2375:1:9,Pentatomini,,,,,,Pentatominae,Aelia,,Pentatominae | Pentatomini,Aelia Fab.,,,2079121,,2079121
+B2375:1:16,Aelia acuminata L.,L.,Aelia,,acuminata,,species,,B2375:1,accepted,,,B2375:1:15,Aelia Fab.,,,,,,Pentatominae,Aelia,,Pentatominae | Pentatomini | Aelia,acuminata L.,,,2079123,,2079123
+B2375:1:17,Aelia klugii Hah.,Hah.,Aelia,,klugii,,species,,B2375:1,accepted,,,B2375:1:15,Aelia Fab.,,,,,,Pentatominae,Aelia,,Pentatominae | Pentatomini | Aelia,Klugii Hah.,,,6096804,,6096804
+B2375:1:18,Aelia rostrata Boh.,Boh.,Aelia,,rostrata,,species,,B2375:1,accepted,,,B2375:1:15,Aelia Fab.,,,,,,Pentatominae,Aelia,,Pentatominae | Pentatomini | Aelia,rostrata Boh.,,,7906393,,7906393
+B2375:1:19,Neottiglossa Curt.,Curt.,,,,,genus,,B2375:1,accepted,,,B2375:1:9,Pentatomini,,,,,,Pentatominae,Neottiglossa,,Pentatominae | Pentatomini,Neottiglossa Curt.,,,2078911,,2078911
+B2375:1:20,Neottiglossa inflexa Wolff.,Wolff.,Neottiglossa,,inflexa,,species,,B2375:1,accepted,,,B2375:1:19,Neottiglossa Curt.,,,,,,Pentatominae,Neottiglossa,,Pentatominae | Pentatomini | Neottiglossa,inflexa Wolff.,,,9857585,,4485936
+B2375:1:21,Neottiglossa leporina H. S.,H. S.,Neottiglossa,,leporina,,species,,B2375:1,accepted,,,B2375:1:19,Neottiglossa Curt.,,,,,,Pentatominae,Neottiglossa,,Pentatominae | Pentatomini | Neottiglossa,leporina H. S.,,,4485944,,4485944

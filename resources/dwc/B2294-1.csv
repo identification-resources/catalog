@@ -1,11 +1,11 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2294:1:1,Platycheirus,,,,,,genus,,B2294:1,accepted,,,,,,,,,,,Platycheirus,,,Platycheirus,BY3W3,1542996,BY3W3,1542996
-B2294:1:2,Tuberculanostoma,,Platycheirus,,,,subgenus,,B2294:1,accepted,,,B2294:1:1,Platycheirus,,,,,,,Platycheirus,Tuberculanostoma,Platycheirus,Tuberculanostoma,CQX4V,,CQX4V,
-B2294:1:3,Pachysphyria,,Platycheirus,,,,subgenus,,B2294:1,accepted,,,B2294:1:1,Platycheirus,,,,,,,Platycheirus,Pachysphyria,Platycheirus,Pachysphyria,BYWKN,,BY3W3,
-B2294:1:4,Carposcalis,,Platycheirus,,,,subgenus,,B2294:1,accepted,,,B2294:1:1,Platycheirus,,,,,,,Platycheirus,Carposcalis,Platycheirus,Carposcalis,BYTYC,,BYTYC,
-B2294:1:5,Platycheirus,,Platycheirus,,,,subgenus,,B2294:1,accepted,,,B2294:1:1,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus,Platycheirus,BY3W3,,BY3W3,
-B2294:1:6,Manicatus,,Platycheirus,Platycheirus,,,section,,B2294:1,accepted,,,B2294:1:5,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus | Platycheirus,Manicatus,,,,
-B2294:1:7,Albimanus,,Platycheirus,Platycheirus,,,section,,B2294:1,accepted,,,B2294:1:5,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus | Platycheirus,Albimanus,,,,
-B2294:1:8,Peltatus,,Platycheirus,Platycheirus,,,section,,B2294:1,accepted,,,B2294:1:5,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus | Platycheirus,Peltatus,,,,
-B2294:1:9,Chilosia,,Platycheirus,Platycheirus,,,section,,B2294:1,accepted,,,B2294:1:5,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus | Platycheirus,Chilosia,C24FP,,BXWYG,
-B2294:1:10,Pictipes,,Platycheirus,Platycheirus,,,section,,B2294:1,accepted,,,B2294:1:5,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus | Platycheirus,Pictipes,,,,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2294:1:1,Platycheirus,,,,,,genus,,B2294:1,accepted,,,,,,,,,,,Platycheirus,,,Platycheirus,,BY3W3,1542996,BY3W3,1542996
+B2294:1:2,Tuberculanostoma,,Platycheirus,,,,subgenus,,B2294:1,accepted,,,B2294:1:1,Platycheirus,,,,,,,Platycheirus,Tuberculanostoma,Platycheirus,Tuberculanostoma,,CQX4V,,CQX4V,
+B2294:1:3,Pachysphyria,,Platycheirus,,,,subgenus,,B2294:1,accepted,,,B2294:1:1,Platycheirus,,,,,,,Platycheirus,Pachysphyria,Platycheirus,Pachysphyria,,BYWKN,,BY3W3,
+B2294:1:4,Carposcalis,,Platycheirus,,,,subgenus,,B2294:1,accepted,,,B2294:1:1,Platycheirus,,,,,,,Platycheirus,Carposcalis,Platycheirus,Carposcalis,,BYTYC,,BYTYC,
+B2294:1:5,Platycheirus,,Platycheirus,,,,subgenus,,B2294:1,accepted,,,B2294:1:1,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus,Platycheirus,,BY3W3,,BY3W3,
+B2294:1:6,Manicatus,,Platycheirus,Platycheirus,,,section,,B2294:1,accepted,,,B2294:1:5,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus | Platycheirus,Manicatus,,,,,
+B2294:1:7,Albimanus,,Platycheirus,Platycheirus,,,section,,B2294:1,accepted,,,B2294:1:5,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus | Platycheirus,Albimanus,,,,,
+B2294:1:8,Peltatus,,Platycheirus,Platycheirus,,,section,,B2294:1,accepted,,,B2294:1:5,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus | Platycheirus,Peltatus,,,,,
+B2294:1:9,Chilosia,,Platycheirus,Platycheirus,,,section,,B2294:1,accepted,,,B2294:1:5,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus | Platycheirus,Chilosia,,C24FP,,BXWYG,
+B2294:1:10,Pictipes,,Platycheirus,Platycheirus,,,section,,B2294:1,accepted,,,B2294:1:5,Platycheirus,,,,,,,Platycheirus,Platycheirus,Platycheirus | Platycheirus,Pictipes,,,,,

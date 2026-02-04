@@ -1,14 +1,14 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2341:1:1,Notonectidae,,,,,,family,,B2341:1,accepted,,,,,,,,,Notonectidae,,,,,Notonectidae,626HD,4322,626HD,4322
-B2341:1:2,Notonectinae,,,,,,subfamily,,B2341:1,accepted,,,B2341:1:1,Notonectidae,,,,,Notonectidae,Notonectinae,,,Notonectidae,Notonectinae,JZB,,JZB,
-B2341:1:3,Notonectini,,,,,,tribe,,B2341:1,accepted,,,B2341:1:2,Notonectinae,,,,,Notonectidae,Notonectinae,,,Notonectidae | Notonectinae,Notonectini,L2P,,L2P,
-B2341:1:4,Notonecta,,,,,,genus,,B2341:1,accepted,,,B2341:1:3,Notonectini,,,,,Notonectidae,Notonectinae,Notonecta,,Notonectidae | Notonectinae | Notonectini,Notonecta,65FM,2020516,65FM,2020516
-B2341:1:5,Enithares,,,,,,genus,,B2341:1,accepted,,,B2341:1:3,Notonectini,,,,,Notonectidae,Notonectinae,Enithares,,Notonectidae | Notonectinae | Notonectini,Enithares,4BWM,4772604,4BWM,4772604
-B2341:1:6,Nychini,,,,,,tribe,,B2341:1,accepted,,,B2341:1:2,Notonectinae,,,,,Notonectidae,Notonectinae,,,Notonectidae | Notonectinae,Nychini,L2S,,L2R,
-B2341:1:7,Paranychia,,,,,,genus,,B2341:1,accepted,,,B2341:1:6,Nychini,,,,,Notonectidae,Notonectinae,Paranychia,,Notonectidae | Notonectinae | Nychini,Paranychia,6FYQ,3265188,625R,4777163
-B2341:1:8,Nychia,,,,,,genus,,B2341:1,accepted,,,B2341:1:6,Nychini,,,,,Notonectidae,Notonectinae,Nychia,,Notonectidae | Notonectinae | Nychini,Nychia,65Y6,3266092,65Y6,3266092
-B2341:1:9,Martarega,,,,,,genus,,B2341:1,accepted,,,B2341:1:6,Nychini,,,,,Notonectidae,Notonectinae,Martarega,,Notonectidae | Notonectinae | Nychini,Martarega,62ZS5,2020493,62ZS5,2020493
-B2341:1:10,Anisopinae,,,,,,subfamily,,B2341:1,accepted,,,B2341:1:1,Notonectidae,,,,,Notonectidae,Anisopinae,,,Notonectidae,Anisopinae,626T9,,626T9,
-B2341:1:11,Paranisops,,,,,,genus,,B2341:1,accepted,,,B2341:1:10,Anisopinae,,,,,Notonectidae,Anisopinae,Paranisops,,Notonectidae | Anisopinae,Paranisops,6FW2,4781030,6FW2,4781030
-B2341:1:12,Anisops,,,,,,genus,,B2341:1,accepted,,,B2341:1:10,Anisopinae,,,,,Notonectidae,Anisopinae,Anisops,,Notonectidae | Anisopinae,Anisops,WFW,2020496,WFW,2020496
-B2341:1:13,Buenoa,,,,,,genus,,B2341:1,accepted,,,B2341:1:10,Anisopinae,,,,,Notonectidae,Anisopinae,Buenoa,,Notonectidae | Anisopinae,Buenoa,62GTQ,2020498,62GTQ,2020498
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2341:1:1,Notonectidae,,,,,,family,,B2341:1,accepted,,,,,,,,,Notonectidae,,,,,Notonectidae,,626HD,4322,626HD,4322
+B2341:1:2,Notonectinae,,,,,,subfamily,,B2341:1,accepted,,,B2341:1:1,Notonectidae,,,,,Notonectidae,Notonectinae,,,Notonectidae,Notonectinae,,JZB,,JZB,
+B2341:1:3,Notonectini,,,,,,tribe,,B2341:1,accepted,,,B2341:1:2,Notonectinae,,,,,Notonectidae,Notonectinae,,,Notonectidae | Notonectinae,Notonectini,,L2P,,L2P,
+B2341:1:4,Notonecta,,,,,,genus,,B2341:1,accepted,,,B2341:1:3,Notonectini,,,,,Notonectidae,Notonectinae,Notonecta,,Notonectidae | Notonectinae | Notonectini,Notonecta,,65FM,2020516,65FM,2020516
+B2341:1:5,Enithares,,,,,,genus,,B2341:1,accepted,,,B2341:1:3,Notonectini,,,,,Notonectidae,Notonectinae,Enithares,,Notonectidae | Notonectinae | Notonectini,Enithares,,4BWM,4772604,4BWM,4772604
+B2341:1:6,Nychini,,,,,,tribe,,B2341:1,accepted,,,B2341:1:2,Notonectinae,,,,,Notonectidae,Notonectinae,,,Notonectidae | Notonectinae,Nychini,,L2S,,L2R,
+B2341:1:7,Paranychia,,,,,,genus,,B2341:1,accepted,,,B2341:1:6,Nychini,,,,,Notonectidae,Notonectinae,Paranychia,,Notonectidae | Notonectinae | Nychini,Paranychia,,6FYQ,3265188,625R,4777163
+B2341:1:8,Nychia,,,,,,genus,,B2341:1,accepted,,,B2341:1:6,Nychini,,,,,Notonectidae,Notonectinae,Nychia,,Notonectidae | Notonectinae | Nychini,Nychia,,65Y6,3266092,65Y6,3266092
+B2341:1:9,Martarega,,,,,,genus,,B2341:1,accepted,,,B2341:1:6,Nychini,,,,,Notonectidae,Notonectinae,Martarega,,Notonectidae | Notonectinae | Nychini,Martarega,,62ZS5,2020493,62ZS5,2020493
+B2341:1:10,Anisopinae,,,,,,subfamily,,B2341:1,accepted,,,B2341:1:1,Notonectidae,,,,,Notonectidae,Anisopinae,,,Notonectidae,Anisopinae,,626T9,,626T9,
+B2341:1:11,Paranisops,,,,,,genus,,B2341:1,accepted,,,B2341:1:10,Anisopinae,,,,,Notonectidae,Anisopinae,Paranisops,,Notonectidae | Anisopinae,Paranisops,,6FW2,4781030,6FW2,4781030
+B2341:1:12,Anisops,,,,,,genus,,B2341:1,accepted,,,B2341:1:10,Anisopinae,,,,,Notonectidae,Anisopinae,Anisops,,Notonectidae | Anisopinae,Anisops,,WFW,2020496,WFW,2020496
+B2341:1:13,Buenoa,,,,,,genus,,B2341:1,accepted,,,B2341:1:10,Anisopinae,,,,,Notonectidae,Anisopinae,Buenoa,,Notonectidae | Anisopinae,Buenoa,,62GTQ,2020498,62GTQ,2020498

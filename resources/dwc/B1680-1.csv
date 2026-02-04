@@ -1,32 +1,32 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B1680:1:1,Annelida,,,,,,phylum,,B1680:1,accepted,,,,,,Annelida,,,,,,,,Annelida,,,,
-B1680:1:2,Clitellata,,,,,,class,,B1680:1,accepted,,,B1680:1:1,Annelida,,Annelida,Clitellata,,,,,,Annelida,Clitellata,,255,,255
-B1680:1:3,Opisthopora,,,,,,order,,B1680:1,accepted,,,B1680:1:2,Clitellata,,Annelida,Clitellata,Opisthopora,,,,,Annelida | Clitellata,Opisthopora,,7190133,,7190133
-B1680:1:4,Lumbricidae,,,,,,family,,B1680:1,accepted,,,B1680:1:3,Opisthopora,,Annelida,Clitellata,Opisthopora,Lumbricidae,,,,Annelida | Clitellata | Opisthopora,Lumbricidae,,6103,,6103
-B1680:1:5,Tubificida,,,,,,order,,B1680:1,accepted,,,B1680:1:2,Clitellata,,Annelida,Clitellata,Tubificida,,,,,Annelida | Clitellata,Tubificida,,11341167,,11341167
-B1680:1:6,Enchytraeidae,,,,,,family,,B1680:1,accepted,,,B1680:1:5,Tubificida,,Annelida,Clitellata,Tubificida,Enchytraeidae,,,,Annelida | Clitellata | Tubificida,Enchytraeidae,,3565,,3565
-B1680:1:7,Arthropoda,,,,,,phylum,,B1680:1,accepted,,,,,,Arthropoda,,,,,,,,Arthropoda,,,,
-B1680:1:8,Arachnida,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Arachnida,,,,,,Arthropoda,Arachnida,,367,,367
-B1680:1:9,Araneae,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Araneae,,,,,Arthropoda | Arachnida,Araneae,,1496,,1496
-B1680:1:10,Mesostigmata,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Mesostigmata,,,,,Arthropoda | Arachnida,Mesostigmata,,1109,,1109
-B1680:1:11,Opiliones,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Opiliones,,,,,Arthropoda | Arachnida,Opiliones,,907,,907
-B1680:1:12,Oribatida,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Oribatida,,,,,Arthropoda | Arachnida,Oribatida,,,,
-B1680:1:13,Pseudoscorpiones,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Pseudoscorpiones,,,,,Arthropoda | Arachnida,Pseudoscorpiones,,1161,,1161
-B1680:1:14,Trombidiformes,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Trombidiformes,,,,,Arthropoda | Arachnida,Trombidiformes,,543,,543
-B1680:1:15,Chilopoda,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Chilopoda,,,,,,Arthropoda,Chilopoda,,360,,360
-B1680:1:16,Diplopoda,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Diplopoda,,,,,,Arthropoda,Diplopoda,,361,,361
-B1680:1:17,Collembola,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Collembola,,,,,,Arthropoda,Collembola,,10713444,,10713444
-B1680:1:18,Diplura,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Diplura,,,,,,Arthropoda,Diplura,8ZXK6,11374670,92L9V,11374670
-B1680:1:19,Insecta,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Insecta,,,,,,Arthropoda,Insecta,H6,216,H6,216
-B1680:1:20,Archaeognatha,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Archaeognatha,,,,,Arthropoda | Insecta,Archaeognatha,B6MTR,1187,B6MTR,1187
-B1680:1:21,Blattodea,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Blattodea,,,,,Arthropoda | Insecta,Blattodea,TM,800,TM,800
-B1680:1:22,Coleoptera,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Coleoptera,,,,,Arthropoda | Insecta,Coleoptera,C2L,1470,C2L,1470
-B1680:1:23,Staphylinidae,,,,,,family,,B1680:1,accepted,,,B1680:1:22,Coleoptera,,Arthropoda,Insecta,Coleoptera,Staphylinidae,,,,Arthropoda | Insecta | Coleoptera,Staphylinidae,9J9HN,7854,9J9HN,7854
-B1680:1:24,Diptera,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Diptera,,,,,Arthropoda | Insecta,Diptera,D2P,811,D2P,811
-B1680:1:25,Heteroptera,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Heteroptera,,,,,Arthropoda | Insecta,Heteroptera,BXWCX,3264953,BXWCX,1588281
-B1680:1:26,Lygaeidae,,,,,,family,,B1680:1,accepted,,,B1680:1:25,Heteroptera,,Arthropoda,Insecta,Heteroptera,Lygaeidae,,,,Arthropoda | Insecta | Heteroptera,Lygaeidae,8NKMB,7888,8NKMB,7888
-B1680:1:27,Trichoptera,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Trichoptera,,,,,Arthropoda | Insecta,Trichoptera,TR2,1003,TR2,1003
-B1680:1:28,Enoicyla pusilla,,Enoicyla,,pusilla,,species,,B1680:1,accepted,,,B1680:1:27,Trichoptera,,Arthropoda,Insecta,Trichoptera,,,Enoicyla,,Arthropoda | Insecta | Trichoptera,Enoicyla pusilla,39WJB,1442087,39WJB,1442087
-B1680:1:29,Malacostraca,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Malacostraca,,,,,,Arthropoda,Malacostraca,,229,,229
-B1680:1:30,Isopoda,,,,,,order,,B1680:1,accepted,,,B1680:1:29,Malacostraca,,Arthropoda,Malacostraca,Isopoda,,,,,Arthropoda | Malacostraca,Isopoda,,3253116,,2161316
-B1680:1:31,Symphyla,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Symphyla,,,,,,Arthropoda,Symphyla,,7742773,,7742773
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1680:1:1,Annelida,,,,,,phylum,,B1680:1,accepted,,,,,,Annelida,,,,,,,,Annelida,,,,,
+B1680:1:2,Clitellata,,,,,,class,,B1680:1,accepted,,,B1680:1:1,Annelida,,Annelida,Clitellata,,,,,,Annelida,Clitellata,,,255,,255
+B1680:1:3,Opisthopora,,,,,,order,,B1680:1,accepted,,,B1680:1:2,Clitellata,,Annelida,Clitellata,Opisthopora,,,,,Annelida | Clitellata,Opisthopora,,,7190133,,7190133
+B1680:1:4,Lumbricidae,,,,,,family,,B1680:1,accepted,,,B1680:1:3,Opisthopora,,Annelida,Clitellata,Opisthopora,Lumbricidae,,,,Annelida | Clitellata | Opisthopora,Lumbricidae,,,6103,,6103
+B1680:1:5,Tubificida,,,,,,order,,B1680:1,accepted,,,B1680:1:2,Clitellata,,Annelida,Clitellata,Tubificida,,,,,Annelida | Clitellata,Tubificida,,,11341167,,11341167
+B1680:1:6,Enchytraeidae,,,,,,family,,B1680:1,accepted,,,B1680:1:5,Tubificida,,Annelida,Clitellata,Tubificida,Enchytraeidae,,,,Annelida | Clitellata | Tubificida,Enchytraeidae,,,3565,,3565
+B1680:1:7,Arthropoda,,,,,,phylum,,B1680:1,accepted,,,,,,Arthropoda,,,,,,,,Arthropoda,,,,,
+B1680:1:8,Arachnida,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Arachnida,,,,,,Arthropoda,Arachnida,,,367,,367
+B1680:1:9,Araneae,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Araneae,,,,,Arthropoda | Arachnida,Araneae,,,1496,,1496
+B1680:1:10,Mesostigmata,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Mesostigmata,,,,,Arthropoda | Arachnida,Mesostigmata,,,1109,,1109
+B1680:1:11,Opiliones,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Opiliones,,,,,Arthropoda | Arachnida,Opiliones,,,907,,907
+B1680:1:12,Oribatida,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Oribatida,,,,,Arthropoda | Arachnida,Oribatida,,,,,
+B1680:1:13,Pseudoscorpiones,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Pseudoscorpiones,,,,,Arthropoda | Arachnida,Pseudoscorpiones,,,1161,,1161
+B1680:1:14,Trombidiformes,,,,,,order,,B1680:1,accepted,,,B1680:1:8,Arachnida,,Arthropoda,Arachnida,Trombidiformes,,,,,Arthropoda | Arachnida,Trombidiformes,,,543,,543
+B1680:1:15,Chilopoda,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Chilopoda,,,,,,Arthropoda,Chilopoda,,,360,,360
+B1680:1:16,Diplopoda,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Diplopoda,,,,,,Arthropoda,Diplopoda,,,361,,361
+B1680:1:17,Collembola,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Collembola,,,,,,Arthropoda,Collembola,,,10713444,,10713444
+B1680:1:18,Diplura,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Diplura,,,,,,Arthropoda,Diplura,,8ZXK6,11374670,92L9V,11374670
+B1680:1:19,Insecta,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Insecta,,,,,,Arthropoda,Insecta,,H6,216,H6,216
+B1680:1:20,Archaeognatha,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Archaeognatha,,,,,Arthropoda | Insecta,Archaeognatha,,B6MTR,1187,B6MTR,1187
+B1680:1:21,Blattodea,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Blattodea,,,,,Arthropoda | Insecta,Blattodea,,TM,800,TM,800
+B1680:1:22,Coleoptera,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Coleoptera,,,,,Arthropoda | Insecta,Coleoptera,,C2L,1470,C2L,1470
+B1680:1:23,Staphylinidae,,,,,,family,,B1680:1,accepted,,,B1680:1:22,Coleoptera,,Arthropoda,Insecta,Coleoptera,Staphylinidae,,,,Arthropoda | Insecta | Coleoptera,Staphylinidae,,9J9HN,7854,9J9HN,7854
+B1680:1:24,Diptera,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Diptera,,,,,Arthropoda | Insecta,Diptera,,D2P,811,D2P,811
+B1680:1:25,Heteroptera,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Heteroptera,,,,,Arthropoda | Insecta,Heteroptera,,BXWCX,3264953,BXWCX,1588281
+B1680:1:26,Lygaeidae,,,,,,family,,B1680:1,accepted,,,B1680:1:25,Heteroptera,,Arthropoda,Insecta,Heteroptera,Lygaeidae,,,,Arthropoda | Insecta | Heteroptera,Lygaeidae,,8NKMB,7888,8NKMB,7888
+B1680:1:27,Trichoptera,,,,,,order,,B1680:1,accepted,,,B1680:1:19,Insecta,,Arthropoda,Insecta,Trichoptera,,,,,Arthropoda | Insecta,Trichoptera,,TR2,1003,TR2,1003
+B1680:1:28,Enoicyla pusilla,,Enoicyla,,pusilla,,species,,B1680:1,accepted,,,B1680:1:27,Trichoptera,,Arthropoda,Insecta,Trichoptera,,,Enoicyla,,Arthropoda | Insecta | Trichoptera,Enoicyla pusilla,,39WJB,1442087,39WJB,1442087
+B1680:1:29,Malacostraca,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Malacostraca,,,,,,Arthropoda,Malacostraca,,,229,,229
+B1680:1:30,Isopoda,,,,,,order,,B1680:1,accepted,,,B1680:1:29,Malacostraca,,Arthropoda,Malacostraca,Isopoda,,,,,Arthropoda | Malacostraca,Isopoda,,,3253116,,2161316
+B1680:1:31,Symphyla,,,,,,class,,B1680:1,accepted,,,B1680:1:7,Arthropoda,,Arthropoda,Symphyla,,,,,,Arthropoda,Symphyla,,,7742773,,7742773

@@ -1,14 +1,14 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B216:1:1,Ichneumonoidae,,,,,,superfamily,,B216:1,accepted,,,,,,,,,,,,,,Ichneumonoidae,,,,
-B216:1:2,Braconidae,,,,,,family,,B216:1,accepted,,,B216:1:1,Ichneumonoidae,,,,,Braconidae,,,,Ichneumonoidae,Braconidae,CCVJJ,6910,CCVJJ,6910
-B216:1:3,Alyssiinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:2,Braconidae,,,,,Braconidae,Alyssiinae,,,Ichneumonoidae | Braconidae,Alyssiinae,,,,
-B216:1:4,Aphidiinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:2,Braconidae,,,,,Braconidae,Aphidiinae,,,Ichneumonoidae | Braconidae,Aphidiinae,,,,
-B216:1:5,Diaeretellus,,,,,,genus,,B216:1,accepted,,,B216:1:4,Aphidiinae,,,,,Braconidae,Aphidiinae,Diaeretellus,,Ichneumonoidae | Braconidae | Aphidiinae,Diaeretellus,CD4LT,1260160,CD4LT,1260160
-B216:1:6,Doryctinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:2,Braconidae,,,,,Braconidae,Doryctinae,,,Ichneumonoidae | Braconidae,Doryctinae,,,,
-B216:1:7,Spathius,,,,,,genus,,B216:1,accepted,,,B216:1:6,Doryctinae,,,,,Braconidae,Doryctinae,Spathius,,Ichneumonoidae | Braconidae | Doryctinae,Spathius,7K3R,1259143,7K3R,1259143
-B216:1:8,Orgilinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:2,Braconidae,,,,,Braconidae,Orgilinae,,,Ichneumonoidae | Braconidae,Orgilinae,,,,
-B216:1:9,Orgilus,,,,,,genus,,B216:1,accepted,,,B216:1:8,Orgilinae,,,,,Braconidae,Orgilinae,Orgilus,,Ichneumonoidae | Braconidae | Orgilinae,Orgilus,69QL,1251954,69QL,1251954
-B216:1:10,Rogadinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:2,Braconidae,,,,,Braconidae,Rogadinae,,,Ichneumonoidae | Braconidae,Rogadinae,,,,
-B216:1:11,Pambolus,,,,,,genus,,B216:1,accepted,,,B216:1:10,Rogadinae,,,,,Braconidae,Rogadinae,Pambolus,,Ichneumonoidae | Braconidae | Rogadinae,Pambolus,6CYJ,1261260,6CYJ,1261260
-B216:1:12,Ichneumonidae,,,,,,family,,B216:1,accepted,,,B216:1:1,Ichneumonoidae,,,,,Ichneumonidae,,,,Ichneumonoidae,Ichneumonidae,BCL,3512,BCL,3512
-B216:1:13,Paxylommatinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:12,Ichneumonidae,,,,,Ichneumonidae,Paxylommatinae,,,Ichneumonoidae | Ichneumonidae,Paxylommatinae,,,,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B216:1:1,Ichneumonoidae,,,,,,superfamily,,B216:1,accepted,,,,,,,,,,,,,,Ichneumonoidae,,,,,
+B216:1:2,Braconidae,,,,,,family,,B216:1,accepted,,,B216:1:1,Ichneumonoidae,,,,,Braconidae,,,,Ichneumonoidae,Braconidae,,CCVJJ,6910,CCVJJ,6910
+B216:1:3,Alyssiinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:2,Braconidae,,,,,Braconidae,Alyssiinae,,,Ichneumonoidae | Braconidae,Alyssiinae,,,,,
+B216:1:4,Aphidiinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:2,Braconidae,,,,,Braconidae,Aphidiinae,,,Ichneumonoidae | Braconidae,Aphidiinae,,,,,
+B216:1:5,Diaeretellus,,,,,,genus,,B216:1,accepted,,,B216:1:4,Aphidiinae,,,,,Braconidae,Aphidiinae,Diaeretellus,,Ichneumonoidae | Braconidae | Aphidiinae,Diaeretellus,,CD4LT,1260160,CD4LT,1260160
+B216:1:6,Doryctinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:2,Braconidae,,,,,Braconidae,Doryctinae,,,Ichneumonoidae | Braconidae,Doryctinae,,,,,
+B216:1:7,Spathius,,,,,,genus,,B216:1,accepted,,,B216:1:6,Doryctinae,,,,,Braconidae,Doryctinae,Spathius,,Ichneumonoidae | Braconidae | Doryctinae,Spathius,,7K3R,1259143,7K3R,1259143
+B216:1:8,Orgilinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:2,Braconidae,,,,,Braconidae,Orgilinae,,,Ichneumonoidae | Braconidae,Orgilinae,,,,,
+B216:1:9,Orgilus,,,,,,genus,,B216:1,accepted,,,B216:1:8,Orgilinae,,,,,Braconidae,Orgilinae,Orgilus,,Ichneumonoidae | Braconidae | Orgilinae,Orgilus,,69QL,1251954,69QL,1251954
+B216:1:10,Rogadinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:2,Braconidae,,,,,Braconidae,Rogadinae,,,Ichneumonoidae | Braconidae,Rogadinae,,,,,
+B216:1:11,Pambolus,,,,,,genus,,B216:1,accepted,,,B216:1:10,Rogadinae,,,,,Braconidae,Rogadinae,Pambolus,,Ichneumonoidae | Braconidae | Rogadinae,Pambolus,,6CYJ,1261260,6CYJ,1261260
+B216:1:12,Ichneumonidae,,,,,,family,,B216:1,accepted,,,B216:1:1,Ichneumonoidae,,,,,Ichneumonidae,,,,Ichneumonoidae,Ichneumonidae,,BCL,3512,BCL,3512
+B216:1:13,Paxylommatinae,,,,,,subfamily,,B216:1,accepted,,,B216:1:12,Ichneumonidae,,,,,Ichneumonidae,Paxylommatinae,,,Ichneumonoidae | Ichneumonidae,Paxylommatinae,,,,,

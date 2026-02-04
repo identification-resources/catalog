@@ -1,14 +1,14 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2277:2:1,Thyreocoraria,,,,,,tribe,,B2277:2,accepted,,,,,,,,,,,,,,Thyreocoraria,,,,
-B2277:2:2,Thyreocoris Schrk.,Schrk.,,,,,genus,,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Thyreocoris,,Thyreocoraria,Thyreocoris Schrk.,,4486000,,4486000
-B2277:2:3,Corimelaena White,White,,,,,genus,,B2277:2,synonym,B2277:2:2,Thyreocoris Schrk.,,,,,,,,,Corimelaena,,Thyreocoraria,Corimelaena White,,2079408,,2079408
-B2277:2:4,Coreomelas A. S.,A. S.,,,,,genus,,B2277:2,synonym,B2277:2:2,Thyreocoris Schrk.,,,,,,,,,Coreomelas,,Thyreocoraria,Coreomelas A. S.,,4772829,,4772829
-B2277:2:5,Amyssonotum,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Amyssonotum,,Thyreocoraria,Amyssonotum gen. nov.,,2079375,,2079375
-B2277:2:6,"Eucoria Muls. & Rey, 1865","Muls. & Rey, 1865",,,,,genus,,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Eucoria,,Thyreocoraria,"Eucoria Muls. & Rey, 1865",,3265785,,2079408
-B2277:2:7,Astiroderma,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Astiroderma,,Thyreocoraria,Astiroderma gen. nov.,,4781201,,4781201
-B2277:2:8,"Galgupha A. S., 1843","A. S., 1843",,,,,genus,,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Galgupha,,Thyreocoraria,"Galgupha A. S., 1843",,2079380,,2079380
-B2277:2:9,Pericrepis,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Pericrepis,,Thyreocoraria,Pericrepis gen. nov.,,4783360,,4783360
-B2277:2:10,Microcompsus,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Microcompsus,,Thyreocoraria,Microcompsus gen. nov.,,4777164,,4777164
-B2277:2:11,Godmania,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Godmania,,Thyreocoraria,Godmania gen. nov.,99JXW,6007082,99JXW,6007082
-B2277:2:12,Acrotmetus,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Acrotmetus,,Thyreocoraria,Acrotmetus gen. nov.,,4780561,,4780561
-B2277:2:13,Euryscytus,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Euryscytus,,Thyreocoraria,Euryscytus gen. nov.,,4783369,,4783369
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2277:2:1,Thyreocoraria,,,,,,tribe,,B2277:2,accepted,,,,,,,,,,,,,,Thyreocoraria,,,,,
+B2277:2:2,Thyreocoris Schrk.,Schrk.,,,,,genus,,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Thyreocoris,,Thyreocoraria,Thyreocoris Schrk.,,,4486000,,4486000
+B2277:2:3,Corimelaena White,White,,,,,genus,,B2277:2,synonym,B2277:2:2,Thyreocoris Schrk.,,,,,,,,,Corimelaena,,Thyreocoraria,Corimelaena White,,,2079408,,2079408
+B2277:2:4,Coreomelas A. S.,A. S.,,,,,genus,,B2277:2,synonym,B2277:2:2,Thyreocoris Schrk.,,,,,,,,,Coreomelas,,Thyreocoraria,Coreomelas A. S.,,,4772829,,4772829
+B2277:2:5,Amyssonotum,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Amyssonotum,,Thyreocoraria,Amyssonotum gen. nov.,,,2079375,,2079375
+B2277:2:6,"Eucoria Muls. & Rey, 1865","Muls. & Rey, 1865",,,,,genus,,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Eucoria,,Thyreocoraria,"Eucoria Muls. & Rey, 1865",,,3265785,,2079408
+B2277:2:7,Astiroderma,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Astiroderma,,Thyreocoraria,Astiroderma gen. nov.,,,4781201,,4781201
+B2277:2:8,"Galgupha A. S., 1843","A. S., 1843",,,,,genus,,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Galgupha,,Thyreocoraria,"Galgupha A. S., 1843",,,2079380,,2079380
+B2277:2:9,Pericrepis,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Pericrepis,,Thyreocoraria,Pericrepis gen. nov.,,,4783360,,4783360
+B2277:2:10,Microcompsus,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Microcompsus,,Thyreocoraria,Microcompsus gen. nov.,,,4777164,,4777164
+B2277:2:11,Godmania,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Godmania,,Thyreocoraria,Godmania gen. nov.,,99JXW,6007082,99JXW,6007082
+B2277:2:12,Acrotmetus,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Acrotmetus,,Thyreocoraria,Acrotmetus gen. nov.,,,4780561,,4780561
+B2277:2:13,Euryscytus,,,,,,genus,gen. nov.,B2277:2,accepted,,,B2277:2:1,Thyreocoraria,,,,,,,Euryscytus,,Thyreocoraria,Euryscytus gen. nov.,,,4783369,,4783369

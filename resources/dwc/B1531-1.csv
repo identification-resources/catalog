@@ -1,24 +1,24 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B1531:1:1,Decapoda,,,,,,order,,B1531:1,accepted,,,,,,,,Decapoda,,,,,,Decapoda,33N,637,33N,637
-B1531:1:2,Dendrobranchiata,,,,,,suborder,,B1531:1,accepted,,,B1531:1:1,Decapoda,,,,Decapoda,,,,,Decapoda,Dendrobranchiata,BMJWQ,,BMJWQ,
-B1531:1:3,Sergestoidea,,,,,,superfamily,,B1531:1,accepted,,,B1531:1:2,Dendrobranchiata,,,,Decapoda,,,,,Decapoda | Dendrobranchiata,Sergestoidea,B6NJL,,B6NJL,
-B1531:1:4,Sergestidae,,,,,,family,,B1531:1,accepted,,,B1531:1:3,Sergestoidea,,,,Decapoda,Sergestidae,,,,Decapoda | Dendrobranchiata | Sergestoidea,Sergestidae,9XBV7,7010,9XBV7,7010
-B1531:1:5,Eusergestes,,,,,,genus,,B1531:1,accepted,,,B1531:1:4,Sergestidae,,,,Decapoda,Sergestidae,,Eusergestes,,Decapoda | Dendrobranchiata | Sergestoidea | Sergestidae,Eusergestes,9XDM3,4647117,9XDM3,4647117
-B1531:1:6,Eusergestes arcticus,,Eusergestes,,arcticus,,species,,B1531:1,accepted,,,B1531:1:5,Eusergestes,,,,Decapoda,Sergestidae,,Eusergestes,,Decapoda | Dendrobranchiata | Sergestoidea | Sergestidae | Eusergestes,Eusergestes arcticus,9XL74,6454217,9XL74,6454217
-B1531:1:7,Pleocyemata,,,,,,suborder,,B1531:1,accepted,,,B1531:1:1,Decapoda,,,,Decapoda,,,,,Decapoda,Pleocyemata,7NFJ8,,7NFJ8,
-B1531:1:8,Anomura,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Anomura,BMJWR,,BMJWR,
-B1531:1:9,Galatheoidea,,,,,,superfamily,,B1531:1,accepted,,,B1531:1:8,Anomura,,,,Decapoda,,,,,Decapoda | Pleocyemata | Anomura,Galatheoidea,BRKMF,,BRKMF,
-B1531:1:10,Porcellanidae,,,,,,family,,B1531:1,accepted,,,B1531:1:9,Galatheoidea,,,,Decapoda,Porcellanidae,,,,Decapoda | Pleocyemata | Anomura | Galatheoidea,Porcellanidae,B3HHL,8673,B3HHL,8673
-B1531:1:11,Pisidia,,,,,,genus,,B1531:1,accepted,,,B1531:1:10,Porcellanidae,,,,Decapoda,Porcellanidae,,Pisidia,,Decapoda | Pleocyemata | Anomura | Galatheoidea | Porcellanidae,Pisidia,B7YS7,2222733,B7YS7,2222733
-B1531:1:12,Pisidia longicornis,,Pisidia,,longicornis,,species,,B1531:1,accepted,,,B1531:1:11,Pisidia,,,,Decapoda,Porcellanidae,,Pisidia,,Decapoda | Pleocyemata | Anomura | Galatheoidea | Porcellanidae | Pisidia,Pisidia longicornis,B86VW,5178356,B86VW,5178356
-B1531:1:13,Lithodoidea,,,,,,superfamily,,B1531:1,accepted,,,B1531:1:8,Anomura,,,,Decapoda,,,,,Decapoda | Pleocyemata | Anomura,Lithodoidea,BRKPZ,,BRKPZ,
-B1531:1:14,Lithodidae,,,,,,family,,B1531:1,accepted,,,B1531:1:13,Lithodoidea,,,,Decapoda,Lithodidae,,,,Decapoda | Pleocyemata | Anomura | Lithodoidea,Lithodidae,B3FVW,8146,B3FVW,8146
-B1531:1:15,Lithodes,,,,,,genus,,B1531:1,accepted,,,B1531:1:14,Lithodidae,,,,Decapoda,Lithodidae,,Lithodes,,Decapoda | Pleocyemata | Anomura | Lithodoidea | Lithodidae,Lithodes,B3GDY,2224342,B3GDY,2224342
-B1531:1:16,Lithodes maja,,Lithodes,,maja,,species,,B1531:1,accepted,,,B1531:1:15,Lithodes,,,,Decapoda,Lithodidae,,Lithodes,,Decapoda | Pleocyemata | Anomura | Lithodoidea | Lithodidae | Lithodes,Lithodes maja,B3WGK,2224343,B3WGK,2224343
-B1531:1:17,Paguroidea,,,,,,superfamily,,B1531:1,accepted,,,B1531:1:8,Anomura,,,,Decapoda,,,,,Decapoda | Pleocyemata | Anomura,Paguroidea,BRKPM,,BRKPM,
-B1531:1:18,Paguridae,,,,,,family,,B1531:1,accepted,,,B1531:1:17,Paguroidea,,,,Decapoda,Paguridae,,,,Decapoda | Pleocyemata | Anomura | Paguroidea,Paguridae,B3FXX,4531,B3FXX,4531
-B1531:1:19,Astacidea,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Astacidea,7NFK5,,7NFK5,
-B1531:1:20,Axiidea,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Axiidea,BMJWS,,BMJWS,
-B1531:1:21,Brachyura,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Brachyura,B8WMW,,B8WMW,
-B1531:1:22,Caridea,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Caridea,BMJWT,,BMJWT,
-B1531:1:23,Gebiidea,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Gebiidea,BMJWV,,BMJWV,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1531:1:1,Decapoda,,,,,,order,,B1531:1,accepted,,,,,,,,Decapoda,,,,,,Decapoda,,33N,637,33N,637
+B1531:1:2,Dendrobranchiata,,,,,,suborder,,B1531:1,accepted,,,B1531:1:1,Decapoda,,,,Decapoda,,,,,Decapoda,Dendrobranchiata,,BMJWQ,,BMJWQ,
+B1531:1:3,Sergestoidea,,,,,,superfamily,,B1531:1,accepted,,,B1531:1:2,Dendrobranchiata,,,,Decapoda,,,,,Decapoda | Dendrobranchiata,Sergestoidea,,B6NJL,,B6NJL,
+B1531:1:4,Sergestidae,,,,,,family,,B1531:1,accepted,,,B1531:1:3,Sergestoidea,,,,Decapoda,Sergestidae,,,,Decapoda | Dendrobranchiata | Sergestoidea,Sergestidae,,9XBV7,7010,9XBV7,7010
+B1531:1:5,Eusergestes,,,,,,genus,,B1531:1,accepted,,,B1531:1:4,Sergestidae,,,,Decapoda,Sergestidae,,Eusergestes,,Decapoda | Dendrobranchiata | Sergestoidea | Sergestidae,Eusergestes,,9XDM3,4647117,9XDM3,4647117
+B1531:1:6,Eusergestes arcticus,,Eusergestes,,arcticus,,species,,B1531:1,accepted,,,B1531:1:5,Eusergestes,,,,Decapoda,Sergestidae,,Eusergestes,,Decapoda | Dendrobranchiata | Sergestoidea | Sergestidae | Eusergestes,Eusergestes arcticus,,9XL74,6454217,9XL74,6454217
+B1531:1:7,Pleocyemata,,,,,,suborder,,B1531:1,accepted,,,B1531:1:1,Decapoda,,,,Decapoda,,,,,Decapoda,Pleocyemata,,7NFJ8,,7NFJ8,
+B1531:1:8,Anomura,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Anomura,,BMJWR,,BMJWR,
+B1531:1:9,Galatheoidea,,,,,,superfamily,,B1531:1,accepted,,,B1531:1:8,Anomura,,,,Decapoda,,,,,Decapoda | Pleocyemata | Anomura,Galatheoidea,,BRKMF,,BRKMF,
+B1531:1:10,Porcellanidae,,,,,,family,,B1531:1,accepted,,,B1531:1:9,Galatheoidea,,,,Decapoda,Porcellanidae,,,,Decapoda | Pleocyemata | Anomura | Galatheoidea,Porcellanidae,,B3HHL,8673,B3HHL,8673
+B1531:1:11,Pisidia,,,,,,genus,,B1531:1,accepted,,,B1531:1:10,Porcellanidae,,,,Decapoda,Porcellanidae,,Pisidia,,Decapoda | Pleocyemata | Anomura | Galatheoidea | Porcellanidae,Pisidia,,B7YS7,2222733,B7YS7,2222733
+B1531:1:12,Pisidia longicornis,,Pisidia,,longicornis,,species,,B1531:1,accepted,,,B1531:1:11,Pisidia,,,,Decapoda,Porcellanidae,,Pisidia,,Decapoda | Pleocyemata | Anomura | Galatheoidea | Porcellanidae | Pisidia,Pisidia longicornis,,B86VW,5178356,B86VW,5178356
+B1531:1:13,Lithodoidea,,,,,,superfamily,,B1531:1,accepted,,,B1531:1:8,Anomura,,,,Decapoda,,,,,Decapoda | Pleocyemata | Anomura,Lithodoidea,,BRKPZ,,BRKPZ,
+B1531:1:14,Lithodidae,,,,,,family,,B1531:1,accepted,,,B1531:1:13,Lithodoidea,,,,Decapoda,Lithodidae,,,,Decapoda | Pleocyemata | Anomura | Lithodoidea,Lithodidae,,B3FVW,8146,B3FVW,8146
+B1531:1:15,Lithodes,,,,,,genus,,B1531:1,accepted,,,B1531:1:14,Lithodidae,,,,Decapoda,Lithodidae,,Lithodes,,Decapoda | Pleocyemata | Anomura | Lithodoidea | Lithodidae,Lithodes,,B3GDY,2224342,B3GDY,2224342
+B1531:1:16,Lithodes maja,,Lithodes,,maja,,species,,B1531:1,accepted,,,B1531:1:15,Lithodes,,,,Decapoda,Lithodidae,,Lithodes,,Decapoda | Pleocyemata | Anomura | Lithodoidea | Lithodidae | Lithodes,Lithodes maja,,B3WGK,2224343,B3WGK,2224343
+B1531:1:17,Paguroidea,,,,,,superfamily,,B1531:1,accepted,,,B1531:1:8,Anomura,,,,Decapoda,,,,,Decapoda | Pleocyemata | Anomura,Paguroidea,,BRKPM,,BRKPM,
+B1531:1:18,Paguridae,,,,,,family,,B1531:1,accepted,,,B1531:1:17,Paguroidea,,,,Decapoda,Paguridae,,,,Decapoda | Pleocyemata | Anomura | Paguroidea,Paguridae,,B3FXX,4531,B3FXX,4531
+B1531:1:19,Astacidea,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Astacidea,,7NFK5,,7NFK5,
+B1531:1:20,Axiidea,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Axiidea,,BMJWS,,BMJWS,
+B1531:1:21,Brachyura,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Brachyura,,B8WMW,,B8WMW,
+B1531:1:22,Caridea,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Caridea,,BMJWT,,BMJWT,
+B1531:1:23,Gebiidea,,,,,,infraorder,,B1531:1,accepted,,,B1531:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Gebiidea,,BMJWV,,BMJWV,

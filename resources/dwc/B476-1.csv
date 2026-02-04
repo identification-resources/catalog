@@ -1,71 +1,71 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B476:1:1,Coccinellidae,,,,,,family,,B476:1,accepted,,,,,,,,,Coccinellidae,,,,,Coccinellidae,C9GBZ,7782,C9GBZ,7782
-B476:1:2,Adalia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Adalia,,Coccinellidae,Adalia,C8RKM,1043096,C8RKM,1043096
-B476:1:3,Adalia bipunctata,,Adalia,,bipunctata,,species,,B476:1,accepted,,,B476:1:2,Adalia,,,,,Coccinellidae,,Adalia,,Coccinellidae | Adalia,Adalia bipunctata,,1043097,,1043097
-B476:1:4,Adalia decempunctata,,Adalia,,decempunctata,,species,,B476:1,accepted,,,B476:1:2,Adalia,,,,,Coccinellidae,,Adalia,,Coccinellidae | Adalia,Adalia decempunctata,,4452227,,4452227
-B476:1:5,Anatis,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Anatis,,Coccinellidae,Anatis,C8YHH,1043191,C8YHH,1043191
-B476:1:6,Anatis ocellata,,Anatis,,ocellata,,species,,B476:1,accepted,,,B476:1:5,Anatis,,,,,Coccinellidae,,Anatis,,Coccinellidae | Anatis,Anatis ocellata,,5749359,,5749359
-B476:1:7,Anisosticta,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Anisosticta,,Coccinellidae,Anisosticta,CFDX5,1043697,CFDX5,1043697
-B476:1:8,Anisosticta novemdecimpunctata,,Anisosticta,,novemdecimpunctata,,species,,B476:1,accepted,,,B476:1:7,Anisosticta,,,,,Coccinellidae,,Anisosticta,,Coccinellidae | Anisosticta,Anisosticta novemdecimpunctata,,4452221,,4452221
-B476:1:9,Aphidecta,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Aphidecta,,Coccinellidae,Aphidecta,C8WH6,1043471,C8WH6,1043471
-B476:1:10,Aphidecta obliterata,,Aphidecta,,obliterata,,species,,B476:1,accepted,,,B476:1:9,Aphidecta,,,,,Coccinellidae,,Aphidecta,,Coccinellidae | Aphidecta,Aphidecta obliterata,,1043472,,1043472
-B476:1:11,Calvia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Calvia,,Coccinellidae,Calvia,CFK7H,1043170,CFK7H,1043170
-B476:1:12,Calvia decemguttata,,Calvia,,decemguttata,,species,,B476:1,accepted,,,B476:1:11,Calvia,,,,,Coccinellidae,,Calvia,,Coccinellidae | Calvia,Calvia decemguttata,,4452235,,4452235
-B476:1:13,Calvia quatuordecimguttata,,Calvia,,quatuordecimguttata,,species,,B476:1,accepted,,,B476:1:11,Calvia,,,,,Coccinellidae,,Calvia,,Coccinellidae | Calvia,Calvia quatuordecimguttata,,1043171,,1043171
-B476:1:14,Chilocorus,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Chilocorus,,Coccinellidae,Chilocorus,C9D3R,1043490,C9D3R,1043490
-B476:1:15,Chilocorus bipustulatus,,Chilocorus,,bipustulatus,,species,,B476:1,accepted,,,B476:1:14,Chilocorus,,,,,Coccinellidae,,Chilocorus,,Coccinellidae | Chilocorus,Chilocorus bipustulatus,,1043495,,1043495
-B476:1:16,Chilocorus renipustulatus,,Chilocorus,,renipustulatus,,species,,B476:1,accepted,,,B476:1:14,Chilocorus,,,,,Coccinellidae,,Chilocorus,,Coccinellidae | Chilocorus,Chilocorus renipustulatus,,4452277,,4452277
-B476:1:17,Clitostethus,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Clitostethus,,Coccinellidae,Clitostethus,CFLL9,8851168,CFLL9,8851168
-B476:1:18,Clitostethus arcuatus,,Clitostethus,,arcuatus,,species,,B476:1,accepted,,,B476:1:17,Clitostethus,,,,,Coccinellidae,,Clitostethus,,Coccinellidae | Clitostethus,Clitostethus arcuatus,,4452387,,4452387
-B476:1:19,Coccidula,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Coccidula,,Coccinellidae,Coccidula,C9GBR,5431122,C9GBR,5431122
-B476:1:20,Coccidula rufa,,Coccidula,,rufa,,species,,B476:1,accepted,,,B476:1:19,Coccidula,,,,,Coccinellidae,,Coccidula,,Coccinellidae | Coccidula,Coccidula rufa,,5749341,,5749341
-B476:1:21,Coccidula scutellata,,Coccidula,,scutellata,,species,,B476:1,accepted,,,B476:1:19,Coccidula,,,,,Coccinellidae,,Coccidula,,Coccinellidae | Coccidula,Coccidula scutellata,,5749343,,5749343
-B476:1:22,Coccinella,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Coccinella,,Coccinellidae,Coccinella,C9GBS,1043502,C9GBS,1043502
-B476:1:23,Coccinella hieroglyphica,,Coccinella,,hieroglyphica,,species,,B476:1,accepted,,,B476:1:22,Coccinella,,,,,Coccinellidae,,Coccinella,,Coccinellidae | Coccinella,Coccinella hieroglyphica,,4990184,,4990184
-B476:1:24,Coccinella magnifica,,Coccinella,,magnifica,,species,,B476:1,accepted,,,B476:1:22,Coccinella,,,,,Coccinellidae,,Coccinella,,Coccinellidae | Coccinella,Coccinella magnifica,,5877906,,5877906
-B476:1:25,Coccinella quinquepunctata,,Coccinella,,quinquepunctata,,species,,B476:1,accepted,,,B476:1:22,Coccinella,,,,,Coccinellidae,,Coccinella,,Coccinellidae | Coccinella,Coccinella quinquepunctata,,5877900,,5877900
-B476:1:26,Coccinella septempunctata,,Coccinella,,septempunctata,,species,,B476:1,accepted,,,B476:1:22,Coccinella,,,,,Coccinellidae,,Coccinella,,Coccinellidae | Coccinella,Coccinella septempunctata,,4990191,,4990191
-B476:1:27,Coccinella undecimpunctata,,Coccinella,,undecimpunctata,,species,,B476:1,accepted,,,B476:1:22,Coccinella,,,,,Coccinellidae,,Coccinella,,Coccinellidae | Coccinella,Coccinella undecimpunctata,,4990195,,4990195
-B476:1:28,Coccinula,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Coccinula,,Coccinellidae,Coccinula,CFMBH,4407079,CFMBH,4407079
-B476:1:29,Coccinula quatuordecimpustulata,,Coccinula,,quatuordecimpustulata,,species,,B476:1,accepted,,,B476:1:28,Coccinula,,,,,Coccinellidae,,Coccinula,,Coccinellidae | Coccinula,Coccinula quatuordecimpustulata,,4452146,,4452146
-B476:1:30,Cynegetis,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Cynegetis,,Coccinellidae,Cynegetis,CFQDW,4404454,CFQDW,4404454
-B476:1:31,Cynegetis impunctata,,Cynegetis,,impunctata,,species,,B476:1,accepted,,,B476:1:30,Cynegetis,,,,,Coccinellidae,,Cynegetis,,Coccinellidae | Cynegetis,Cynegetis impunctata,CFQDY,4452265,CFQDY,4452265
-B476:1:32,Exochomus,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Exochomus,,Coccinellidae,Exochomus,C9SBJ,1043131,C9SBJ,1043131
-B476:1:33,Exochomus nigromaculatus,,Exochomus,,nigromaculatus,,species,,B476:1,accepted,,,B476:1:32,Exochomus,,,,,Coccinellidae,,Exochomus,,Coccinellidae | Exochomus,Exochomus nigromaculatus,,4452284,,8666127
-B476:1:34,Exochomus quadripustulatus,,Exochomus,,quadripustulatus,,species,,B476:1,accepted,,,B476:1:32,Exochomus,,,,,Coccinellidae,,Exochomus,,Coccinellidae | Exochomus,Exochomus quadripustulatus,,5877963,,1043102
-B476:1:35,Halyzia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Halyzia,,Coccinellidae,Halyzia,CFXCG,4404353,CFXCG,4404353
-B476:1:36,Halyzia sedecimguttata,,Halyzia,,sedecimguttata,,species,,B476:1,accepted,,,B476:1:35,Halyzia,,,,,Coccinellidae,,Halyzia,,Coccinellidae | Halyzia,Halyzia sedecimguttata,,4452254,,4452254
-B476:1:37,Harmonia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Harmonia,,Coccinellidae,Harmonia,C9Z8Y,1043111,C9Z8Y,1043111
-B476:1:38,Harmonia axyridis,,Harmonia,,axyridis,,species,,B476:1,accepted,,,B476:1:37,Harmonia,,,,,Coccinellidae,,Harmonia,,Coccinellidae | Harmonia,Harmonia axyridis,,4989904,,4989904
-B476:1:39,Harmonia quadripunctata,,Harmonia,,quadripunctata,,species,,B476:1,accepted,,,B476:1:37,Harmonia,,,,,Coccinellidae,,Harmonia,,Coccinellidae | Harmonia,Harmonia quadripunctata,,1043118,,1043118
-B476:1:40,Henosepilachna,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Henosepilachna,,Coccinellidae,Henosepilachna,CFXNV,9198102,CFXNV,9198102
-B476:1:41,Henosepilachna argus,,Henosepilachna,,argus,,species,,B476:1,accepted,,,B476:1:40,Henosepilachna,,,,,Coccinellidae,,Henosepilachna,,Coccinellidae | Henosepilachna,Henosepilachna argus,CFXPG,4452268,CFXPG,4452268
-B476:1:42,Hippodamia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Hippodamia,,Coccinellidae,Hippodamia,C9GBT,1043061,C9GBT,1043061
-B476:1:43,Hippodamia septemmaculata,,Hippodamia,,septemmaculata,,species,,B476:1,accepted,,,B476:1:42,Hippodamia,,,,,Coccinellidae,,Hippodamia,,Coccinellidae | Hippodamia,Hippodamia septemmaculata,,5749408,,5749408
-B476:1:44,Hippodamia tredecimpunctata,,Hippodamia,,tredecimpunctata,,species,,B476:1,accepted,,,B476:1:42,Hippodamia,,,,,Coccinellidae,,Hippodamia,,Coccinellidae | Hippodamia,Hippodamia tredecimpunctata,,1043066,,1043066
-B476:1:45,Hippodamia variegata,,Hippodamia,,variegata,,species,,B476:1,accepted,,,B476:1:42,Hippodamia,,,,,Coccinellidae,,Hippodamia,,Coccinellidae | Hippodamia,Hippodamia variegata,,1043082,,1043082
-B476:1:46,Hyperaspis,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Hyperaspis,,Coccinellidae,Hyperaspis,CFWXH,1043340,CFWXH,1043340
-B476:1:47,Myrrha,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Myrrha,,Coccinellidae,Myrrha,CG5H6,3629068,CG5H6,3629068
-B476:1:48,Myrrha octodecimguttata,,Myrrha,,octodecimguttata,,species,,B476:1,accepted,,,B476:1:47,Myrrha,,,,,Coccinellidae,,Myrrha,,Coccinellidae | Myrrha,Myrrha octodecimguttata,,4452240,,4452240
-B476:1:49,Myzia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Myzia,,Coccinellidae,Myzia,CBFLX,4989911,CBFLX,4989911
-B476:1:50,Myzia oblongoguttata,,Myzia,,oblongoguttata,,species,,B476:1,accepted,,,B476:1:49,Myzia,,,,,Coccinellidae,,Myzia,,Coccinellidae | Myzia,Myzia oblongoguttata,,5749361,,5749361
-B476:1:51,Oenopia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Oenopia,,Coccinellidae,Oenopia,CG7DC,3263243,CG7DC,3263243
-B476:1:52,Oenopia conglobata,,Oenopia,,conglobata,,species,,B476:1,accepted,,,B476:1:51,Oenopia,,,,,Coccinellidae,,Oenopia,,Coccinellidae | Oenopia,Oenopia conglobata,,5877911,,5877911
-B476:1:53,Oenopia impustulata,,Oenopia,,impustulata,,species,,B476:1,accepted,,,B476:1:51,Oenopia,,,,,Coccinellidae,,Oenopia,,Coccinellidae | Oenopia,Oenopia impustulata,,6097844,,6097844
-B476:1:54,Platynaspis,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Platynaspis,,Coccinellidae,Platynaspis,CBSSQ,1043129,CBSSQ,1043129
-B476:1:55,Platynaspis luteorubra,,Platynaspis,,luteorubra,,species,,B476:1,accepted,,,B476:1:54,Platynaspis,,,,,Coccinellidae,,Platynaspis,,Coccinellidae | Platynaspis,Platynaspis luteorubra,,4452301,,4452301
-B476:1:56,Propylea,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Propylea,,Coccinellidae,Propylea,CG94Q,4405073,CG94Q,4405073
-B476:1:57,Propylea quatuordecimpunctata,,Propylea,,quatuordecimpunctata,,species,,B476:1,accepted,,,B476:1:56,Propylea,,,,,Coccinellidae,,Propylea,,Coccinellidae | Propylea,Propylea quatuordecimpunctata,,4452216,,1043572
-B476:1:58,Psyllobora,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Psyllobora,,Coccinellidae,Psyllobora,CBWPV,1043577,CBWPV,1043577
-B476:1:59,Psyllobora vigintiduopunctata,,Psyllobora,,vigintiduopunctata,,species,,B476:1,accepted,,,B476:1:58,Psyllobora,,,,,Coccinellidae,,Psyllobora,,Coccinellidae | Psyllobora,Psyllobora vigintiduopunctata,,4452252,,4452252
-B476:1:60,Rhyzobius,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Rhyzobius,,Coccinellidae,Rhyzobius,CC34Y,4990174,CC34Y,4990174
-B476:1:61,Sospita,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Sospita,,Coccinellidae,Sospita,92MYW,3261627,92MYW,3261627
-B476:1:62,Sospita vigintiguttata,,Sospita,,vigintiguttata,,species,,B476:1,accepted,,,B476:1:61,Sospita,,,,,Coccinellidae,,Sospita,,Coccinellidae | Sospita,Sospita vigintiguttata,,5749357,,5749357
-B476:1:63,Stethorus,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Stethorus,,Coccinellidae,Stethorus,CC5YT,1043608,CC5YT,1043608
-B476:1:64,Stethorus pusillus,,Stethorus,,pusillus,,species,,B476:1,accepted,,,B476:1:63,Stethorus,,,,,Coccinellidae,,Stethorus,,Coccinellidae | Stethorus,Stethorus pusillus,,8459975,,8459975
-B476:1:65,Subcoccinella,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Subcoccinella,,Coccinellidae,Subcoccinella,CC4KD,1043317,CC4KD,1043317
-B476:1:66,Subcoccinella vigintiquatuorpunctata,,Subcoccinella,,vigintiquatuorpunctata,,species,,B476:1,accepted,,,B476:1:65,Subcoccinella,,,,,Coccinellidae,,Subcoccinella,,Coccinellidae | Subcoccinella,Subcoccinella vigintiquatuorpunctata,CGFWY,1043318,CGFWY,1043318
-B476:1:67,Tytthaspis,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Tytthaspis,,Coccinellidae,Tytthaspis,CGKB8,4308781,CGKB8,4308781
-B476:1:68,Tytthaspis sedecimpunctata,,Tytthaspis,,sedecimpunctata,,species,,B476:1,accepted,,,B476:1:67,Tytthaspis,,,,,Coccinellidae,,Tytthaspis,,Coccinellidae | Tytthaspis,Tytthaspis sedecimpunctata,,4452258,,4452258
-B476:1:69,Vibidia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Vibidia,,Coccinellidae,Vibidia,CGK89,8779268,CGK89,8779268
-B476:1:70,Vibidia duodecimguttata,,Vibidia,,duodecimguttata,,species,,B476:1,accepted,,,B476:1:69,Vibidia,,,,,Coccinellidae,,Vibidia,,Coccinellidae | Vibidia,Vibidia duodecimguttata,,4452256,,4452256
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B476:1:1,Coccinellidae,,,,,,family,,B476:1,accepted,,,,,,,,,Coccinellidae,,,,,Coccinellidae,,C9GBZ,7782,C9GBZ,7782
+B476:1:2,Adalia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Adalia,,Coccinellidae,Adalia,,C8RKM,1043096,C8RKM,1043096
+B476:1:3,Adalia bipunctata,,Adalia,,bipunctata,,species,,B476:1,accepted,,,B476:1:2,Adalia,,,,,Coccinellidae,,Adalia,,Coccinellidae | Adalia,Adalia bipunctata,,,1043097,,1043097
+B476:1:4,Adalia decempunctata,,Adalia,,decempunctata,,species,,B476:1,accepted,,,B476:1:2,Adalia,,,,,Coccinellidae,,Adalia,,Coccinellidae | Adalia,Adalia decempunctata,,,4452227,,4452227
+B476:1:5,Anatis,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Anatis,,Coccinellidae,Anatis,,C8YHH,1043191,C8YHH,1043191
+B476:1:6,Anatis ocellata,,Anatis,,ocellata,,species,,B476:1,accepted,,,B476:1:5,Anatis,,,,,Coccinellidae,,Anatis,,Coccinellidae | Anatis,Anatis ocellata,,,5749359,,5749359
+B476:1:7,Anisosticta,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Anisosticta,,Coccinellidae,Anisosticta,,CFDX5,1043697,CFDX5,1043697
+B476:1:8,Anisosticta novemdecimpunctata,,Anisosticta,,novemdecimpunctata,,species,,B476:1,accepted,,,B476:1:7,Anisosticta,,,,,Coccinellidae,,Anisosticta,,Coccinellidae | Anisosticta,Anisosticta novemdecimpunctata,,,4452221,,4452221
+B476:1:9,Aphidecta,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Aphidecta,,Coccinellidae,Aphidecta,,C8WH6,1043471,C8WH6,1043471
+B476:1:10,Aphidecta obliterata,,Aphidecta,,obliterata,,species,,B476:1,accepted,,,B476:1:9,Aphidecta,,,,,Coccinellidae,,Aphidecta,,Coccinellidae | Aphidecta,Aphidecta obliterata,,,1043472,,1043472
+B476:1:11,Calvia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Calvia,,Coccinellidae,Calvia,,CFK7H,1043170,CFK7H,1043170
+B476:1:12,Calvia decemguttata,,Calvia,,decemguttata,,species,,B476:1,accepted,,,B476:1:11,Calvia,,,,,Coccinellidae,,Calvia,,Coccinellidae | Calvia,Calvia decemguttata,,,4452235,,4452235
+B476:1:13,Calvia quatuordecimguttata,,Calvia,,quatuordecimguttata,,species,,B476:1,accepted,,,B476:1:11,Calvia,,,,,Coccinellidae,,Calvia,,Coccinellidae | Calvia,Calvia quatuordecimguttata,,,1043171,,1043171
+B476:1:14,Chilocorus,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Chilocorus,,Coccinellidae,Chilocorus,,C9D3R,1043490,C9D3R,1043490
+B476:1:15,Chilocorus bipustulatus,,Chilocorus,,bipustulatus,,species,,B476:1,accepted,,,B476:1:14,Chilocorus,,,,,Coccinellidae,,Chilocorus,,Coccinellidae | Chilocorus,Chilocorus bipustulatus,,,1043495,,1043495
+B476:1:16,Chilocorus renipustulatus,,Chilocorus,,renipustulatus,,species,,B476:1,accepted,,,B476:1:14,Chilocorus,,,,,Coccinellidae,,Chilocorus,,Coccinellidae | Chilocorus,Chilocorus renipustulatus,,,4452277,,4452277
+B476:1:17,Clitostethus,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Clitostethus,,Coccinellidae,Clitostethus,,CFLL9,8851168,CFLL9,8851168
+B476:1:18,Clitostethus arcuatus,,Clitostethus,,arcuatus,,species,,B476:1,accepted,,,B476:1:17,Clitostethus,,,,,Coccinellidae,,Clitostethus,,Coccinellidae | Clitostethus,Clitostethus arcuatus,,,4452387,,4452387
+B476:1:19,Coccidula,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Coccidula,,Coccinellidae,Coccidula,,C9GBR,5431122,C9GBR,5431122
+B476:1:20,Coccidula rufa,,Coccidula,,rufa,,species,,B476:1,accepted,,,B476:1:19,Coccidula,,,,,Coccinellidae,,Coccidula,,Coccinellidae | Coccidula,Coccidula rufa,,,5749341,,5749341
+B476:1:21,Coccidula scutellata,,Coccidula,,scutellata,,species,,B476:1,accepted,,,B476:1:19,Coccidula,,,,,Coccinellidae,,Coccidula,,Coccinellidae | Coccidula,Coccidula scutellata,,,5749343,,5749343
+B476:1:22,Coccinella,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Coccinella,,Coccinellidae,Coccinella,,C9GBS,1043502,C9GBS,1043502
+B476:1:23,Coccinella hieroglyphica,,Coccinella,,hieroglyphica,,species,,B476:1,accepted,,,B476:1:22,Coccinella,,,,,Coccinellidae,,Coccinella,,Coccinellidae | Coccinella,Coccinella hieroglyphica,,,4990184,,4990184
+B476:1:24,Coccinella magnifica,,Coccinella,,magnifica,,species,,B476:1,accepted,,,B476:1:22,Coccinella,,,,,Coccinellidae,,Coccinella,,Coccinellidae | Coccinella,Coccinella magnifica,,,5877906,,5877906
+B476:1:25,Coccinella quinquepunctata,,Coccinella,,quinquepunctata,,species,,B476:1,accepted,,,B476:1:22,Coccinella,,,,,Coccinellidae,,Coccinella,,Coccinellidae | Coccinella,Coccinella quinquepunctata,,,5877900,,5877900
+B476:1:26,Coccinella septempunctata,,Coccinella,,septempunctata,,species,,B476:1,accepted,,,B476:1:22,Coccinella,,,,,Coccinellidae,,Coccinella,,Coccinellidae | Coccinella,Coccinella septempunctata,,,4990191,,4990191
+B476:1:27,Coccinella undecimpunctata,,Coccinella,,undecimpunctata,,species,,B476:1,accepted,,,B476:1:22,Coccinella,,,,,Coccinellidae,,Coccinella,,Coccinellidae | Coccinella,Coccinella undecimpunctata,,,4990195,,4990195
+B476:1:28,Coccinula,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Coccinula,,Coccinellidae,Coccinula,,CFMBH,4407079,CFMBH,4407079
+B476:1:29,Coccinula quatuordecimpustulata,,Coccinula,,quatuordecimpustulata,,species,,B476:1,accepted,,,B476:1:28,Coccinula,,,,,Coccinellidae,,Coccinula,,Coccinellidae | Coccinula,Coccinula quatuordecimpustulata,,,4452146,,4452146
+B476:1:30,Cynegetis,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Cynegetis,,Coccinellidae,Cynegetis,,CFQDW,4404454,CFQDW,4404454
+B476:1:31,Cynegetis impunctata,,Cynegetis,,impunctata,,species,,B476:1,accepted,,,B476:1:30,Cynegetis,,,,,Coccinellidae,,Cynegetis,,Coccinellidae | Cynegetis,Cynegetis impunctata,,CFQDY,4452265,CFQDY,4452265
+B476:1:32,Exochomus,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Exochomus,,Coccinellidae,Exochomus,,C9SBJ,1043131,C9SBJ,1043131
+B476:1:33,Exochomus nigromaculatus,,Exochomus,,nigromaculatus,,species,,B476:1,accepted,,,B476:1:32,Exochomus,,,,,Coccinellidae,,Exochomus,,Coccinellidae | Exochomus,Exochomus nigromaculatus,,,4452284,,8666127
+B476:1:34,Exochomus quadripustulatus,,Exochomus,,quadripustulatus,,species,,B476:1,accepted,,,B476:1:32,Exochomus,,,,,Coccinellidae,,Exochomus,,Coccinellidae | Exochomus,Exochomus quadripustulatus,,,5877963,,1043102
+B476:1:35,Halyzia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Halyzia,,Coccinellidae,Halyzia,,CFXCG,4404353,CFXCG,4404353
+B476:1:36,Halyzia sedecimguttata,,Halyzia,,sedecimguttata,,species,,B476:1,accepted,,,B476:1:35,Halyzia,,,,,Coccinellidae,,Halyzia,,Coccinellidae | Halyzia,Halyzia sedecimguttata,,,4452254,,4452254
+B476:1:37,Harmonia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Harmonia,,Coccinellidae,Harmonia,,C9Z8Y,1043111,C9Z8Y,1043111
+B476:1:38,Harmonia axyridis,,Harmonia,,axyridis,,species,,B476:1,accepted,,,B476:1:37,Harmonia,,,,,Coccinellidae,,Harmonia,,Coccinellidae | Harmonia,Harmonia axyridis,,,4989904,,4989904
+B476:1:39,Harmonia quadripunctata,,Harmonia,,quadripunctata,,species,,B476:1,accepted,,,B476:1:37,Harmonia,,,,,Coccinellidae,,Harmonia,,Coccinellidae | Harmonia,Harmonia quadripunctata,,,1043118,,1043118
+B476:1:40,Henosepilachna,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Henosepilachna,,Coccinellidae,Henosepilachna,,CFXNV,9198102,CFXNV,9198102
+B476:1:41,Henosepilachna argus,,Henosepilachna,,argus,,species,,B476:1,accepted,,,B476:1:40,Henosepilachna,,,,,Coccinellidae,,Henosepilachna,,Coccinellidae | Henosepilachna,Henosepilachna argus,,CFXPG,4452268,CFXPG,4452268
+B476:1:42,Hippodamia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Hippodamia,,Coccinellidae,Hippodamia,,C9GBT,1043061,C9GBT,1043061
+B476:1:43,Hippodamia septemmaculata,,Hippodamia,,septemmaculata,,species,,B476:1,accepted,,,B476:1:42,Hippodamia,,,,,Coccinellidae,,Hippodamia,,Coccinellidae | Hippodamia,Hippodamia septemmaculata,,,5749408,,5749408
+B476:1:44,Hippodamia tredecimpunctata,,Hippodamia,,tredecimpunctata,,species,,B476:1,accepted,,,B476:1:42,Hippodamia,,,,,Coccinellidae,,Hippodamia,,Coccinellidae | Hippodamia,Hippodamia tredecimpunctata,,,1043066,,1043066
+B476:1:45,Hippodamia variegata,,Hippodamia,,variegata,,species,,B476:1,accepted,,,B476:1:42,Hippodamia,,,,,Coccinellidae,,Hippodamia,,Coccinellidae | Hippodamia,Hippodamia variegata,,,1043082,,1043082
+B476:1:46,Hyperaspis,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Hyperaspis,,Coccinellidae,Hyperaspis,,CFWXH,1043340,CFWXH,1043340
+B476:1:47,Myrrha,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Myrrha,,Coccinellidae,Myrrha,,CG5H6,3629068,CG5H6,3629068
+B476:1:48,Myrrha octodecimguttata,,Myrrha,,octodecimguttata,,species,,B476:1,accepted,,,B476:1:47,Myrrha,,,,,Coccinellidae,,Myrrha,,Coccinellidae | Myrrha,Myrrha octodecimguttata,,,4452240,,4452240
+B476:1:49,Myzia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Myzia,,Coccinellidae,Myzia,,CBFLX,4989911,CBFLX,4989911
+B476:1:50,Myzia oblongoguttata,,Myzia,,oblongoguttata,,species,,B476:1,accepted,,,B476:1:49,Myzia,,,,,Coccinellidae,,Myzia,,Coccinellidae | Myzia,Myzia oblongoguttata,,,5749361,,5749361
+B476:1:51,Oenopia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Oenopia,,Coccinellidae,Oenopia,,CG7DC,3263243,CG7DC,3263243
+B476:1:52,Oenopia conglobata,,Oenopia,,conglobata,,species,,B476:1,accepted,,,B476:1:51,Oenopia,,,,,Coccinellidae,,Oenopia,,Coccinellidae | Oenopia,Oenopia conglobata,,,5877911,,5877911
+B476:1:53,Oenopia impustulata,,Oenopia,,impustulata,,species,,B476:1,accepted,,,B476:1:51,Oenopia,,,,,Coccinellidae,,Oenopia,,Coccinellidae | Oenopia,Oenopia impustulata,,,6097844,,6097844
+B476:1:54,Platynaspis,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Platynaspis,,Coccinellidae,Platynaspis,,CBSSQ,1043129,CBSSQ,1043129
+B476:1:55,Platynaspis luteorubra,,Platynaspis,,luteorubra,,species,,B476:1,accepted,,,B476:1:54,Platynaspis,,,,,Coccinellidae,,Platynaspis,,Coccinellidae | Platynaspis,Platynaspis luteorubra,,,4452301,,4452301
+B476:1:56,Propylea,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Propylea,,Coccinellidae,Propylea,,CG94Q,4405073,CG94Q,4405073
+B476:1:57,Propylea quatuordecimpunctata,,Propylea,,quatuordecimpunctata,,species,,B476:1,accepted,,,B476:1:56,Propylea,,,,,Coccinellidae,,Propylea,,Coccinellidae | Propylea,Propylea quatuordecimpunctata,,,4452216,,1043572
+B476:1:58,Psyllobora,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Psyllobora,,Coccinellidae,Psyllobora,,CBWPV,1043577,CBWPV,1043577
+B476:1:59,Psyllobora vigintiduopunctata,,Psyllobora,,vigintiduopunctata,,species,,B476:1,accepted,,,B476:1:58,Psyllobora,,,,,Coccinellidae,,Psyllobora,,Coccinellidae | Psyllobora,Psyllobora vigintiduopunctata,,,4452252,,4452252
+B476:1:60,Rhyzobius,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Rhyzobius,,Coccinellidae,Rhyzobius,,CC34Y,4990174,CC34Y,4990174
+B476:1:61,Sospita,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Sospita,,Coccinellidae,Sospita,,92MYW,3261627,92MYW,3261627
+B476:1:62,Sospita vigintiguttata,,Sospita,,vigintiguttata,,species,,B476:1,accepted,,,B476:1:61,Sospita,,,,,Coccinellidae,,Sospita,,Coccinellidae | Sospita,Sospita vigintiguttata,,,5749357,,5749357
+B476:1:63,Stethorus,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Stethorus,,Coccinellidae,Stethorus,,CC5YT,1043608,CC5YT,1043608
+B476:1:64,Stethorus pusillus,,Stethorus,,pusillus,,species,,B476:1,accepted,,,B476:1:63,Stethorus,,,,,Coccinellidae,,Stethorus,,Coccinellidae | Stethorus,Stethorus pusillus,,,8459975,,8459975
+B476:1:65,Subcoccinella,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Subcoccinella,,Coccinellidae,Subcoccinella,,CC4KD,1043317,CC4KD,1043317
+B476:1:66,Subcoccinella vigintiquatuorpunctata,,Subcoccinella,,vigintiquatuorpunctata,,species,,B476:1,accepted,,,B476:1:65,Subcoccinella,,,,,Coccinellidae,,Subcoccinella,,Coccinellidae | Subcoccinella,Subcoccinella vigintiquatuorpunctata,,CGFWY,1043318,CGFWY,1043318
+B476:1:67,Tytthaspis,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Tytthaspis,,Coccinellidae,Tytthaspis,,CGKB8,4308781,CGKB8,4308781
+B476:1:68,Tytthaspis sedecimpunctata,,Tytthaspis,,sedecimpunctata,,species,,B476:1,accepted,,,B476:1:67,Tytthaspis,,,,,Coccinellidae,,Tytthaspis,,Coccinellidae | Tytthaspis,Tytthaspis sedecimpunctata,,,4452258,,4452258
+B476:1:69,Vibidia,,,,,,genus,,B476:1,accepted,,,B476:1:1,Coccinellidae,,,,,Coccinellidae,,Vibidia,,Coccinellidae,Vibidia,,CGK89,8779268,CGK89,8779268
+B476:1:70,Vibidia duodecimguttata,,Vibidia,,duodecimguttata,,species,,B476:1,accepted,,,B476:1:69,Vibidia,,,,,Coccinellidae,,Vibidia,,Coccinellidae | Vibidia,Vibidia duodecimguttata,,,4452256,,4452256

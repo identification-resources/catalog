@@ -1,6 +1,6 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B29:2:1,Neuroptera,,,,,,order,,B29:2,accepted,,,,,,,,Neuroptera,,,,,,Neuroptera,3ND,1501,3ND,1501
-B29:2:2,Planipennia,,,,,,suborder,,B29:2,accepted,,,B29:2:1,Neuroptera,,,,Neuroptera,,,,,Neuroptera,Planipennia,,,,
-B29:2:3,Megaloptera,,,,,,suborder,,B29:2,accepted,,,B29:2:1,Neuroptera,,,,Neuroptera,,,,,Neuroptera,Megaloptera,3J8,,3J8,
-B29:2:4,Raphidioidea,,,,,,suborder,,B29:2,accepted,,,B29:2:1,Neuroptera,,,,Neuroptera,,,,,Neuroptera,Raphidioidea,,,,
-B29:2:5,Mecoptera,,,,,,order,,B29:2,accepted,,,,,,,,Mecoptera,,,,,,Mecoptera,3J4,1000,3J4,1000
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B29:2:1,Neuroptera,,,,,,order,,B29:2,accepted,,,,,,,,Neuroptera,,,,,,Neuroptera,,3ND,1501,3ND,1501
+B29:2:2,Planipennia,,,,,,suborder,,B29:2,accepted,,,B29:2:1,Neuroptera,,,,Neuroptera,,,,,Neuroptera,Planipennia,,,,,
+B29:2:3,Megaloptera,,,,,,suborder,,B29:2,accepted,,,B29:2:1,Neuroptera,,,,Neuroptera,,,,,Neuroptera,Megaloptera,,3J8,,3J8,
+B29:2:4,Raphidioidea,,,,,,suborder,,B29:2,accepted,,,B29:2:1,Neuroptera,,,,Neuroptera,,,,,Neuroptera,Raphidioidea,,,,,
+B29:2:5,Mecoptera,,,,,,order,,B29:2,accepted,,,,,,,,Mecoptera,,,,,,Mecoptera,,3J4,1000,3J4,1000

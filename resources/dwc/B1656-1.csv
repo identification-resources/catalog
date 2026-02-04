@@ -1,10 +1,10 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B1656:1:1,Blackstonia,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Blackstonia,,,Blackstonia,62FRZ,6366885,62FRZ,6366885
-B1656:1:2,Blackstonia perfoliata,,Blackstonia,,perfoliata,,species,,B1656:1,accepted,,,B1656:1:1,Blackstonia,,,,,,,Blackstonia,,Blackstonia,perfoliata,LYSY,6366886,LYSY,6366886
-B1656:1:3,Centaurium,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Centaurium,,,Centaurium,3K62,7412173,3K62,7412173
-B1656:1:4,Comastoma,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Comastoma,,,Comastoma,3SQW,6366672,3SQW,6366672
-B1656:1:5,Comastoma tenellum,,Comastoma,,tenellum,,species,,B1656:1,accepted,,,B1656:1:4,Comastoma,,,,,,,Comastoma,,Comastoma,tenellum,5ZQ4V,3840575,5ZQ4V,3840575
-B1656:1:6,Gentiana,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Gentiana,,,Gentiana,62STG,3170037,62STG,3170037
-B1656:1:7,Gentianella,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Gentianella,,,Gentianella,62T5G,3169845,62T5G,3169845
-B1656:1:8,Gentianopsis,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Gentianopsis,,,Gentianopsis,634TG,3169888,634TG,3169888
-B1656:1:9,Gentianopsis detonsa,,Gentianopsis,,detonsa,,species,,B1656:1,accepted,,,B1656:1:8,Gentianopsis,,,,,,,Gentianopsis,,Gentianopsis,detonsa,3FNLH,3169899,3FNLH,3169899
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1656:1:1,Blackstonia,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Blackstonia,,,Blackstonia,,62FRZ,6366885,62FRZ,6366885
+B1656:1:2,Blackstonia perfoliata,,Blackstonia,,perfoliata,,species,,B1656:1,accepted,,,B1656:1:1,Blackstonia,,,,,,,Blackstonia,,Blackstonia,perfoliata,,LYSY,6366886,LYSY,6366886
+B1656:1:3,Centaurium,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Centaurium,,,Centaurium,,3K62,7412173,3K62,7412173
+B1656:1:4,Comastoma,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Comastoma,,,Comastoma,,3SQW,6366672,3SQW,6366672
+B1656:1:5,Comastoma tenellum,,Comastoma,,tenellum,,species,,B1656:1,accepted,,,B1656:1:4,Comastoma,,,,,,,Comastoma,,Comastoma,tenellum,,5ZQ4V,3840575,5ZQ4V,3840575
+B1656:1:6,Gentiana,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Gentiana,,,Gentiana,,62STG,3170037,62STG,3170037
+B1656:1:7,Gentianella,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Gentianella,,,Gentianella,,62T5G,3169845,62T5G,3169845
+B1656:1:8,Gentianopsis,,,,,,genus,,B1656:1,accepted,,,,,,,,,,,Gentianopsis,,,Gentianopsis,,634TG,3169888,634TG,3169888
+B1656:1:9,Gentianopsis detonsa,,Gentianopsis,,detonsa,,species,,B1656:1,accepted,,,B1656:1:8,Gentianopsis,,,,,,,Gentianopsis,,Gentianopsis,detonsa,,3FNLH,3169899,3FNLH,3169899

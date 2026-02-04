@@ -1,6 +1,6 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B136:39:1,Chrysolina,,,,,,genus,,B136:39,accepted,,,,,,,,,,,Chrysolina,,,Chrysolina,3PJ8,1047378,3PJ8,1047378
-B136:39:2,Chrysomela,,,,,,genus,,B136:39,synonym,B136:39:1,Chrysolina,,,,,,,,,Chrysomela,,,Chrysomela,3PJJ,1048762,3PJJ,1048762
-B136:39:3,Chrysolina latecincta (Dem.),(Dem.),Chrysolina,,latecincta,,species,,B136:39,accepted,,,B136:39:1,Chrysolina,,,,,,,Chrysolina,,Chrysolina,latecincta (Dem.),,4459998,,4459998
-B136:39:4,Chrysolina sanguinolenta (L.),(L.),Chrysolina,,sanguinolenta,,species,,B136:39,accepted,,,B136:39:1,Chrysolina,,,,,,,Chrysolina,,Chrysolina,sanguinolenta (L.),,4459983,,4459983
-B136:39:5,Chrysolina marginalis,,Chrysolina,,marginalis,,species,,B136:39,synonym,B136:39:4,Chrysolina sanguinolenta (L.),,,,,,,,,Chrysolina,,Chrysolina,marginalis,,9464463,,4459983
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B136:39:1,Chrysolina,,,,,,genus,,B136:39,accepted,,,,,,,,,,,Chrysolina,,,Chrysolina,,3PJ8,1047378,3PJ8,1047378
+B136:39:2,Chrysomela,,,,,,genus,,B136:39,synonym,B136:39:1,Chrysolina,,,,,,,,,Chrysomela,,,Chrysomela,,3PJJ,1048762,3PJJ,1048762
+B136:39:3,Chrysolina latecincta (Dem.),(Dem.),Chrysolina,,latecincta,,species,,B136:39,accepted,,,B136:39:1,Chrysolina,,,,,,,Chrysolina,,Chrysolina,latecincta (Dem.),,,4459998,,4459998
+B136:39:4,Chrysolina sanguinolenta (L.),(L.),Chrysolina,,sanguinolenta,,species,,B136:39,accepted,,,B136:39:1,Chrysolina,,,,,,,Chrysolina,,Chrysolina,sanguinolenta (L.),,,4459983,,4459983
+B136:39:5,Chrysolina marginalis,,Chrysolina,,marginalis,,species,,B136:39,synonym,B136:39:4,Chrysolina sanguinolenta (L.),,,,,,,,,Chrysolina,,Chrysolina,marginalis,,,9464463,,4459983

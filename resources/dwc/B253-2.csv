@@ -1,8 +1,8 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B253:2:1,Tipulinae,,,,,,subfamily,,B253:2,accepted,,,,,,,,,,Tipulinae,,,,Tipulinae,B6NH9,,B6NH9,
-B253:2:2,Nephrotoma,,,,,,genus,,B253:2,accepted,,,B253:2:1,Tipulinae,,,,,,Tipulinae,Nephrotoma,,Tipulinae,Nephrotoma,87HW6,1508807,87HW6,1508807
-B253:2:4,Tipula,,,,,,genus,,B253:2,accepted,,,B253:2:1,Tipulinae,,,,,,Tipulinae,Tipula,,Tipulinae,Tipula,87L34,1446543,87L34,1446543
-B253:2:5,Tipula vernalis Meigen,Meigen,Tipula,,vernalis,,species,,B253:2,accepted,,,B253:2:4,Tipula,,,,,,Tipulinae,Tipula,,Tipulinae | Tipula,vernalis Meigen,575LV,1507303,575LV,1507303
-B253:2:6,Tipula paludosa Meigen,Meigen,Tipula,,paludosa,,species,,B253:2,accepted,,,B253:2:4,Tipula,,,,,,Tipulinae,Tipula,,Tipulinae | Tipula,paludosa Meigen,576G7,1505543,576G7,1505543
-B253:2:7,Tipula czizeki De Jong,De Jong,Tipula,,czizeki,,species,,B253:2,accepted,,,B253:2:4,Tipula,,,,,,Tipulinae,Tipula,,Tipulinae | Tipula,czizeki De Jong,576FM,1506625,7CC8D,1506624
-B253:2:8,Tipula oleracea L.,L.,Tipula,,oleracea,,species,,B253:2,accepted,,,B253:2:4,Tipula,,,,,,Tipulinae,Tipula,,Tipulinae | Tipula,oleracea L.,576G5,1506056,576G5,1506056
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B253:2:1,Tipulinae,,,,,,subfamily,,B253:2,accepted,,,,,,,,,,Tipulinae,,,,Tipulinae,,B6NH9,,B6NH9,
+B253:2:2,Nephrotoma,,,,,,genus,,B253:2,accepted,,,B253:2:1,Tipulinae,,,,,,Tipulinae,Nephrotoma,,Tipulinae,Nephrotoma,,87HW6,1508807,87HW6,1508807
+B253:2:4,Tipula,,,,,,genus,,B253:2,accepted,,,B253:2:1,Tipulinae,,,,,,Tipulinae,Tipula,,Tipulinae,Tipula,,87L34,1446543,87L34,1446543
+B253:2:5,Tipula vernalis Meigen,Meigen,Tipula,,vernalis,,species,,B253:2,accepted,,,B253:2:4,Tipula,,,,,,Tipulinae,Tipula,,Tipulinae | Tipula,vernalis Meigen,,575LV,1507303,575LV,1507303
+B253:2:6,Tipula paludosa Meigen,Meigen,Tipula,,paludosa,,species,,B253:2,accepted,,,B253:2:4,Tipula,,,,,,Tipulinae,Tipula,,Tipulinae | Tipula,paludosa Meigen,,576G7,1505543,576G7,1505543
+B253:2:7,Tipula czizeki De Jong,De Jong,Tipula,,czizeki,,species,,B253:2,accepted,,,B253:2:4,Tipula,,,,,,Tipulinae,Tipula,,Tipulinae | Tipula,czizeki De Jong,,576FM,1506625,7CC8D,1506624
+B253:2:8,Tipula oleracea L.,L.,Tipula,,oleracea,,species,,B253:2,accepted,,,B253:2:4,Tipula,,,,,,Tipulinae,Tipula,,Tipulinae | Tipula,oleracea L.,,576G5,1506056,576G5,1506056

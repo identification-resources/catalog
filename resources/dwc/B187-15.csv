@@ -1,15 +1,15 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B187:15:1,Meloidae,,,,,,family,,B187:15,accepted,,,,,,,,,Meloidae,,,,,MELÖIDAE,CBC5J,4742,CBC5J,4742
-B187:15:2,Lytta Fabricius,Fabricius,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Meloidae,,Lytta,,Meloidae,Lytta Fabricius,CB7JP,1046543,CB7JP,1046543
-B187:15:3,Lytta vesicatoria (Linnaeus),(Linnaeus),Lytta,,vesicatoria,,species,,B187:15,accepted,,,B187:15:2,Lytta Fabricius,,,,,Meloidae,,Lytta,,Meloidae | Lytta,vesicatoria (Linnaeus),,1046592,,1046592
-B187:15:4,Apalus Fabricius,Fabricius,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Meloidae,,Apalus,,Meloidae,Apalus Fabricius,,9097944,,9097944
-B187:15:5,Sitaris Latreille,Latreille,,,,,genus,,B187:15,synonym,B187:15:4,Apalus Fabricius,,,,,,,Meloidae,,Sitaris,,Meloidae,Sitaris Latreille,,8967425,,8967425
-B187:15:6,Apalus muralis (Forster),(Forster),Apalus,,muralis,,species,,B187:15,accepted,,,B187:15:4,Apalus Fabricius,,,,,Meloidae,,Apalus,,Meloidae | Apalus,muralis (Forster),,11298795,,4457050
-B187:15:7,Meloe Linnaeus,Linnaeus,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Meloidae,,Meloe,,Meloidae,Melöe Linnaeus,CBC4Q,1046316,CBC4Q,1046316
-B187:15:8,Meloe autumnalis Olivier,Olivier,Meloe,,autumnalis,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,autumnalis Olivier,,4457519,,4457519
-B187:15:9,Meloe violaceus Marsham,Marsham,Meloe,,violaceus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,violaceus Marsham,,4457477,,4457477
-B187:15:10,Meloe proscarabaeus Linnaeus,Linnaeus,Meloe,,proscarabaeus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,proscarabaeus Linnaeus,,4457483,,4457483
-B187:15:11,Meloe rugosus Marsham,Marsham,Meloe,,rugosus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,rugosus Marsham,,4457556,,4457556
-B187:15:12,Meloe brevicollis Panzer,Panzer,Meloe,,brevicollis,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,brevicollis Panzer,,4457545,,4457545
-B187:15:13,Meloe cicatricosus Leach,Leach,Meloe,,cicatricosus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,cicatricosus Leach,,4457570,,4457570
-B187:15:14,Meloe variegatus Donovan,Donovan,Meloe,,variegatus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,variegatus Donovan,,4457509,,4457509
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B187:15:1,Meloidae,,,,,,family,,B187:15,accepted,,,,,,,,,Meloidae,,,,,MELÖIDAE,,CBC5J,4742,CBC5J,4742
+B187:15:2,Lytta Fabricius,Fabricius,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Meloidae,,Lytta,,Meloidae,Lytta Fabricius,,CB7JP,1046543,CB7JP,1046543
+B187:15:3,Lytta vesicatoria (Linnaeus),(Linnaeus),Lytta,,vesicatoria,,species,,B187:15,accepted,,,B187:15:2,Lytta Fabricius,,,,,Meloidae,,Lytta,,Meloidae | Lytta,vesicatoria (Linnaeus),,,1046592,,1046592
+B187:15:4,Apalus Fabricius,Fabricius,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Meloidae,,Apalus,,Meloidae,Apalus Fabricius,,,9097944,,9097944
+B187:15:5,Sitaris Latreille,Latreille,,,,,genus,,B187:15,synonym,B187:15:4,Apalus Fabricius,,,,,,,Meloidae,,Sitaris,,Meloidae,Sitaris Latreille,,,8967425,,8967425
+B187:15:6,Apalus muralis (Forster),(Forster),Apalus,,muralis,,species,,B187:15,accepted,,,B187:15:4,Apalus Fabricius,,,,,Meloidae,,Apalus,,Meloidae | Apalus,muralis (Forster),,,11298795,,4457050
+B187:15:7,Meloe Linnaeus,Linnaeus,,,,,genus,,B187:15,accepted,,,B187:15:1,Meloidae,,,,,Meloidae,,Meloe,,Meloidae,Melöe Linnaeus,,CBC4Q,1046316,CBC4Q,1046316
+B187:15:8,Meloe autumnalis Olivier,Olivier,Meloe,,autumnalis,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,autumnalis Olivier,,,4457519,,4457519
+B187:15:9,Meloe violaceus Marsham,Marsham,Meloe,,violaceus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,violaceus Marsham,,,4457477,,4457477
+B187:15:10,Meloe proscarabaeus Linnaeus,Linnaeus,Meloe,,proscarabaeus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,proscarabaeus Linnaeus,,,4457483,,4457483
+B187:15:11,Meloe rugosus Marsham,Marsham,Meloe,,rugosus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,rugosus Marsham,,,4457556,,4457556
+B187:15:12,Meloe brevicollis Panzer,Panzer,Meloe,,brevicollis,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,brevicollis Panzer,,,4457545,,4457545
+B187:15:13,Meloe cicatricosus Leach,Leach,Meloe,,cicatricosus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,cicatricosus Leach,,,4457570,,4457570
+B187:15:14,Meloe variegatus Donovan,Donovan,Meloe,,variegatus,,species,,B187:15,accepted,,,B187:15:7,Meloe Linnaeus,,,,,Meloidae,,Meloe,,Meloidae | Meloe,variegatus Donovan,,,4457509,,4457509

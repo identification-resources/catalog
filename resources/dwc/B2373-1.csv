@@ -1,53 +1,53 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2373:1:1,Coreidae,,,,,,family,,B2373:1,accepted,,,,,,,,,Coreidae,,,,,Coréides,8NKJF,9649,8NKJF,9649
-B2373:1:2,Stenocephalus Latr.,Latr.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Stenocephalus,,Coreidae,Stenocephalus Latr.,8NZH8,7849480,8NNVX,2050149
-B2373:1:3,Stenocephalus neglectus H. S.,H. S.,Stenocephalus,,neglectus,,species,,B2373:1,accepted,,,B2373:1:2,Stenocephalus Latr.,,,,,Coreidae,,Stenocephalus,,Coreidae | Stenocephalus,neglectus H. S.,,10165837,,8352804
-B2373:1:4,Stenocephalus agilis Scop.,Scop.,Stenocephalus,,agilis,,species,,B2373:1,accepted,,,B2373:1:2,Stenocephalus Latr.,,,,,Coreidae,,Stenocephalus,,Coreidae | Stenocephalus,agilis Scop.,4ZWGF,8056163,35R7W,4391703
-B2373:1:5,Stenocephalus medius M. R.,M. R.,Stenocephalus,,medius,,species,,B2373:1,accepted,,,B2373:1:2,Stenocephalus Latr.,,,,,Coreidae,,Stenocephalus,,Coreidae | Stenocephalus,medius M. R.,4ZWH2,8567269,35R8K,5758706
-B2373:1:6,Phyllomorpha Lap.,Lap.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Phyllomorpha,,Coreidae,Phyllomorpha Lap.,8NWRW,3265309,8NWRW,3265309
-B2373:1:7,Phyllomorpha laciniata Vill.,Vill.,Phyllomorpha,,laciniata,,species,,B2373:1,accepted,,,B2373:1:6,Phyllomorpha Lap.,,,,,Coreidae,,Phyllomorpha,,Coreidae | Phyllomorpha,laciniata Vill.,6VFTP,5732924,6VFTP,5732924
-B2373:1:8,Spathocera Stein.,Stein.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Spathocera,,Coreidae,Spathocera Stein.,8NZ9X,4388614,8NZ9X,4388614
-B2373:1:9,Spathocera dallmanni Schill.,Schill.,Spathocera,,dallmanni,,species,,B2373:1,accepted,,,B2373:1:8,Spathocera Stein.,,,,,Coreidae,,Spathocera,,Coreidae | Spathocera,Dallmanni Schill.,8QL38,10033620,6Z6ZN,4388623
-B2373:1:10,Spathocera lobata H. S.,H. S.,Spathocera,,lobata,,species,,B2373:1,accepted,,,B2373:1:8,Spathocera Stein.,,,,,Coreidae,,Spathocera,,Coreidae | Spathocera,lobata H. S.,6Z6ZR,4388619,6Z6ZR,4388619
-B2373:1:11,Enoplops Am. S.,Am. S.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Enoplops,,Coreidae,Enoplops Am. S.,8NPGG,4388488,8NPGG,4388488
-B2373:1:12,Enoplops scapha Fab.,Fab.,Enoplops,,scapha,,species,,B2373:1,accepted,,,B2373:1:11,Enoplops Am. S.,,,,,Coreidae,,Enoplops,,Coreidae | Enoplops,scapha Fab.,39WS5,4388497,39WS5,4388497
-B2373:1:13,Syromastes Latr.,Latr.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Syromastes,,Coreidae,Syromastes Latr.,8PRD4,4388659,8NZQR,4388657
-B2373:1:14,Syromastes marginatus L.,L.,Syromastes,,marginatus,,species,,B2373:1,accepted,,,B2373:1:13,Syromastes Latr.,,,,,Coreidae,,Syromastes,,Coreidae | Syromastes,marginatus L.,KZFVR,10920324,KZFVR,4388646
-B2373:1:15,Verlusia Spin.,Spin.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Verlusia,,Coreidae,Verlusia Spin.,8PRMJ,4388658,8NZQR,4388657
-B2373:1:16,Verlusia rhombea L.,L.,Verlusia,,rhombea,,species,,B2373:1,accepted,,,B2373:1:15,Verlusia Spin.,,,,,Coreidae,,Verlusia,,Coreidae | Verlusia,rhombea L.,KZFXF,7786102,KZFXF,4388663
-B2373:1:17,Verlusia sulcicornis Fab.,Fab.,Verlusia,,sulcicornis,,species,,B2373:1,accepted,,,B2373:1:15,Verlusia Spin.,,,,,Coreidae,,Verlusia,,Coreidae | Verlusia,sulcicornis Fab.,,10119467,,4388412
-B2373:1:18,Gonocerus Latr.,Latr.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Gonocerus,,Coreidae,Gonocerus Latr.,8NPX8,8659995,8NPX8,8659995
-B2373:1:19,Gonocerus venator Fab.,Fab.,Gonocerus,,venator,,species,,B2373:1,accepted,,,B2373:1:18,Gonocerus Latr.,,,,,Coreidae,,Gonocerus,,Coreidae | Gonocerus,venator Fab.,,8052746,,4390084
-B2373:1:20,Gonocerus insidiator Fab.,Fab.,Gonocerus,,insidiator,,species,,B2373:1,accepted,,,B2373:1:18,Gonocerus Latr.,,,,,Coreidae,,Gonocerus,,Coreidae | Gonocerus,insidiator Fab.,3GY9G,4390072,3GY9G,4390072
-B2373:1:21,Gonocerus juniperi H. S.,H. S.,Gonocerus,,juniperi,,species,,B2373:1,accepted,,,B2373:1:18,Gonocerus Latr.,,,,,Coreidae,,Gonocerus,,Coreidae | Gonocerus,Juniperi H. S.,3GY9H,4390078,3GY9H,4390078
-B2373:1:22,Nemocoris Sahlb.,Sahlb.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Nemocoris,,Coreidae,Nemocoris Sahlb.,8NSZ2,4391681,8NSZ2,4391681
-B2373:1:23,Nemocoris fallenii Sahlb.,Sahlb.,Nemocoris,,fallenii,,species,,B2373:1,accepted,,,B2373:1:22,Nemocoris Sahlb.,,,,,Coreidae,,Nemocoris,,Coreidae | Nemocoris,Fallenii Sahb.,L2FBZ,4391683,L2FBZ,4391683
-B2373:1:24,Pseudophloeus Burm.,Burm.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Pseudophloeus,,Coreidae,Pseudophlaeus Burm.,8PMX6,6007246,8NM3C,4391585
-B2373:1:25,Pseudophloeus fallenii Schill.,Schill.,Pseudophloeus,,fallenii,,species,,B2373:1,accepted,,,B2373:1:24,Pseudophloeus Burm.,,,,,Coreidae,,Pseudophloeus,,Coreidae | Pseudophloeus,Fallenii Schill.,4P7BK,7371404,GFN8,4391587
-B2373:1:26,Pseudophloeus walltlii H. S.,H. S.,Pseudophloeus,,walltlii,,species,,B2373:1,accepted,,,B2373:1:24,Pseudophloeus Burm.,,,,,Coreidae,,Pseudophloeus,,Coreidae | Pseudophloeus,Walltlii H. S.,4P7BR,7942394,5VRDM,4391597
-B2373:1:27,Bathysolen Fieb.,Fieb.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Bathysolen,,Coreidae,Bathysolen Fieb.,8NMDQ,4391661,8NMDQ,4391661
-B2373:1:28,Bathysolen nubilus Fall.,Fall.,Bathysolen,,nubilus,,species,,B2373:1,accepted,,,B2373:1:27,Bathysolen Fieb.,,,,,Coreidae,,Bathysolen,,Coreidae | Bathysolen,nubilus Fall.,KYCN,4391663,KYCN,4391663
-B2373:1:29,Arenocoris Hahn.,Hahn.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Arenocoris,,Coreidae,Arenocoris Hahn.,8NM3C,4391585,8NM3C,4391585
-B2373:1:30,Arenocoris spinipes Fall,Fall,Arenocoris,,spinipes,,species,,B2373:1,accepted,,,B2373:1:29,Arenocoris Hahn.,,,,,Coreidae,,Arenocoris,,Coreidae | Arenocoris,spinipes Fall,GFNC,7990748,7DFYC,4391608
-B2373:1:31,Coreus Fab.,Fab.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Coreus,,Coreidae,Coreus Fab.,8NNFP,2049958,8NNFP,2049958
-B2373:1:32,Coreus scabricornis Panz.,Panz.,Coreus,,scabricornis,,species,,B2373:1,accepted,,,B2373:1:31,Coreus Fab.,,,,,Coreidae,,Coreus,,Coreidae | Coreus,scabricornis Panz.,6B3M4,4485639,YF8Q,4391547
-B2373:1:33,Coreus hirticornis Fab.,Fab.,Coreus,,hirticornis,,species,,B2373:1,accepted,,,B2373:1:31,Coreus Fab.,,,,,Coreidae,,Coreus,,Coreidae | Coreus,hirticornis Fab.,6B3KF,4485640,YF8C,4391539
-B2373:1:34,Ceraleptus Costa.,Costa.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Ceraleptus,,Coreidae,Ceraleptus Costa.,8NMYV,2050009,8NMYV,2050009
-B2373:1:35,Ceraleptus gracilicornis H. S.,H. S.,Ceraleptus,,gracilicornis,,species,,B2373:1,accepted,,,B2373:1:34,Ceraleptus Costa.,,,,,Coreidae,,Ceraleptus,,Coreidae | Ceraleptus,gracilicornis H. S.,SGGN,2050012,SGGN,2050012
-B2373:1:36,Ceraleptus squalidus Costa.,Costa.,Ceraleptus,,squalidus,,species,,B2373:1,accepted,,,B2373:1:34,Ceraleptus Costa.,,,,,Coreidae,,Ceraleptus,,Coreidae | Ceraleptus,squalidus Costa.,SGGX,4391513,SGGT,4391510
-B2373:1:37,Ceraleptus lividus Stein.,Stein.,Ceraleptus,,lividus,,species,,B2373:1,accepted,,,B2373:1:34,Ceraleptus Costa.,,,,,Coreidae,,Ceraleptus,,Coreidae | Ceraleptus,lividus Stein.,SGGQ,4391506,SGGQ,4391506
-B2373:1:38,Camptopus Am. S.,Am. S.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Camptopus,,Coreidae,Camptotus Am. S.,8NMV5,3265607,8NMV5,3265607
-B2373:1:39,Camptopus lateralis Germ.,Germ.,Camptopus,,lateralis,,species,,B2373:1,accepted,,,B2373:1:38,Camptopus Am. S.,,,,,Coreidae,,Camptopus,,Coreidae | Camptopus,lateralis Germ.,QFXD,5733449,QFXD,5733449
-B2373:1:40,Camptopus lateralis var. brevipes H. S.,H. S.,Camptopus,,lateralis,brevipes,variety,,B2373:1,accepted,,,B2373:1:39,Camptopus lateralis Germ.,,,,,Coreidae,,Camptopus,,Coreidae | Camptopus | Camptopus lateralis,var. brevipes H. S.,,10026876,,5733449
-B2373:1:41,Alydus Fab.,Fab.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Alydus,,Coreidae,Alydus Fab.,8NLS6,2050167,8NLS6,2050167
-B2373:1:42,Alydus calcaratus L.,L.,Alydus,,calcaratus,,species,,B2373:1,accepted,,,B2373:1:41,Alydus Fab.,,,,,Coreidae,,Alydus,,Coreidae | Alydus,calcaratus L.,CC3X,2050173,CC3X,2050173
-B2373:1:43,Therapha Am. S.,Am. S.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Therapha,,Coreidae,Therapha Am. S.,8PRGG,4391891,8NQ2K,2050276
-B2373:1:44,Therapha hyosciami L.,L.,Therapha,,hyosciami,,species,,B2373:1,accepted,,,B2373:1:43,Therapha Am. S.,,,,,Coreidae,,Therapha,,Coreidae | Therapha,hyosciami L.,KZFJG,11409909,KZFJG,4391875
-B2373:1:45,Corizus Fall.,Fall.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Corizus,,Coreidae,Corizus Fall.,8NQ2K,2050276,8NQ2K,2050276
-B2373:1:46,Corizus crassicornis L.,L.,Corizus,,crassicornis,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,crassicornis L.,KZ5QX,7768398,KZ5QX,2050273
-B2373:1:47,Corizus tigrinus Schill.,Schill.,Corizus,,tigrinus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,tigrinus Schill.,,9952681,,4391872
-B2373:1:48,Corizus maculatus Fieb.,Fieb.,Corizus,,maculatus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,maculatus Fieb.,6B59G,4485589,4SMDF,4391866
-B2373:1:49,Corizus capitatus Fab.,Fab.,Corizus,,capitatus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,capitatus Fab.,,10347346,,2050239
-B2373:1:50,Corizus distinctus Sign.,Sign.,Corizus,,distinctus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,distinctus Sign.,YFMM,4485590,4SMDL,4391857
-B2373:1:51,Corizus parumpunctatus Schill,Schill,Corizus,,parumpunctatus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,parumpunctatus Schill,KZ5QZ,7999271,KZ5QZ,4391858
-B2373:1:52,Corizus rufus Schill.,Schill.,Corizus,,rufus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,rufus Schill.,,10982482,,4391856
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2373:1:1,Coreidae,,,,,,family,,B2373:1,accepted,,,,,,,,,Coreidae,,,,,Coréides,,8NKJF,9649,8NKJF,9649
+B2373:1:2,Stenocephalus Latr.,Latr.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Stenocephalus,,Coreidae,Stenocephalus Latr.,,8NZH8,7849480,8NNVX,2050149
+B2373:1:3,Stenocephalus neglectus H. S.,H. S.,Stenocephalus,,neglectus,,species,,B2373:1,accepted,,,B2373:1:2,Stenocephalus Latr.,,,,,Coreidae,,Stenocephalus,,Coreidae | Stenocephalus,neglectus H. S.,,,10165837,,8352804
+B2373:1:4,Stenocephalus agilis Scop.,Scop.,Stenocephalus,,agilis,,species,,B2373:1,accepted,,,B2373:1:2,Stenocephalus Latr.,,,,,Coreidae,,Stenocephalus,,Coreidae | Stenocephalus,agilis Scop.,,4ZWGF,8056163,35R7W,4391703
+B2373:1:5,Stenocephalus medius M. R.,M. R.,Stenocephalus,,medius,,species,,B2373:1,accepted,,,B2373:1:2,Stenocephalus Latr.,,,,,Coreidae,,Stenocephalus,,Coreidae | Stenocephalus,medius M. R.,,4ZWH2,8567269,35R8K,5758706
+B2373:1:6,Phyllomorpha Lap.,Lap.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Phyllomorpha,,Coreidae,Phyllomorpha Lap.,,8NWRW,3265309,8NWRW,3265309
+B2373:1:7,Phyllomorpha laciniata Vill.,Vill.,Phyllomorpha,,laciniata,,species,,B2373:1,accepted,,,B2373:1:6,Phyllomorpha Lap.,,,,,Coreidae,,Phyllomorpha,,Coreidae | Phyllomorpha,laciniata Vill.,,6VFTP,5732924,6VFTP,5732924
+B2373:1:8,Spathocera Stein.,Stein.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Spathocera,,Coreidae,Spathocera Stein.,,8NZ9X,4388614,8NZ9X,4388614
+B2373:1:9,Spathocera dallmanni Schill.,Schill.,Spathocera,,dallmanni,,species,,B2373:1,accepted,,,B2373:1:8,Spathocera Stein.,,,,,Coreidae,,Spathocera,,Coreidae | Spathocera,Dallmanni Schill.,,8QL38,10033620,6Z6ZN,4388623
+B2373:1:10,Spathocera lobata H. S.,H. S.,Spathocera,,lobata,,species,,B2373:1,accepted,,,B2373:1:8,Spathocera Stein.,,,,,Coreidae,,Spathocera,,Coreidae | Spathocera,lobata H. S.,,6Z6ZR,4388619,6Z6ZR,4388619
+B2373:1:11,Enoplops Am. S.,Am. S.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Enoplops,,Coreidae,Enoplops Am. S.,,8NPGG,4388488,8NPGG,4388488
+B2373:1:12,Enoplops scapha Fab.,Fab.,Enoplops,,scapha,,species,,B2373:1,accepted,,,B2373:1:11,Enoplops Am. S.,,,,,Coreidae,,Enoplops,,Coreidae | Enoplops,scapha Fab.,,39WS5,4388497,39WS5,4388497
+B2373:1:13,Syromastes Latr.,Latr.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Syromastes,,Coreidae,Syromastes Latr.,,8PRD4,4388659,8NZQR,4388657
+B2373:1:14,Syromastes marginatus L.,L.,Syromastes,,marginatus,,species,,B2373:1,accepted,,,B2373:1:13,Syromastes Latr.,,,,,Coreidae,,Syromastes,,Coreidae | Syromastes,marginatus L.,,KZFVR,10920324,KZFVR,4388646
+B2373:1:15,Verlusia Spin.,Spin.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Verlusia,,Coreidae,Verlusia Spin.,,8PRMJ,4388658,8NZQR,4388657
+B2373:1:16,Verlusia rhombea L.,L.,Verlusia,,rhombea,,species,,B2373:1,accepted,,,B2373:1:15,Verlusia Spin.,,,,,Coreidae,,Verlusia,,Coreidae | Verlusia,rhombea L.,,KZFXF,7786102,KZFXF,4388663
+B2373:1:17,Verlusia sulcicornis Fab.,Fab.,Verlusia,,sulcicornis,,species,,B2373:1,accepted,,,B2373:1:15,Verlusia Spin.,,,,,Coreidae,,Verlusia,,Coreidae | Verlusia,sulcicornis Fab.,,,10119467,,4388412
+B2373:1:18,Gonocerus Latr.,Latr.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Gonocerus,,Coreidae,Gonocerus Latr.,,8NPX8,8659995,8NPX8,8659995
+B2373:1:19,Gonocerus venator Fab.,Fab.,Gonocerus,,venator,,species,,B2373:1,accepted,,,B2373:1:18,Gonocerus Latr.,,,,,Coreidae,,Gonocerus,,Coreidae | Gonocerus,venator Fab.,,,8052746,,4390084
+B2373:1:20,Gonocerus insidiator Fab.,Fab.,Gonocerus,,insidiator,,species,,B2373:1,accepted,,,B2373:1:18,Gonocerus Latr.,,,,,Coreidae,,Gonocerus,,Coreidae | Gonocerus,insidiator Fab.,,3GY9G,4390072,3GY9G,4390072
+B2373:1:21,Gonocerus juniperi H. S.,H. S.,Gonocerus,,juniperi,,species,,B2373:1,accepted,,,B2373:1:18,Gonocerus Latr.,,,,,Coreidae,,Gonocerus,,Coreidae | Gonocerus,Juniperi H. S.,,3GY9H,4390078,3GY9H,4390078
+B2373:1:22,Nemocoris Sahlb.,Sahlb.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Nemocoris,,Coreidae,Nemocoris Sahlb.,,8NSZ2,4391681,8NSZ2,4391681
+B2373:1:23,Nemocoris fallenii Sahlb.,Sahlb.,Nemocoris,,fallenii,,species,,B2373:1,accepted,,,B2373:1:22,Nemocoris Sahlb.,,,,,Coreidae,,Nemocoris,,Coreidae | Nemocoris,Fallenii Sahb.,,L2FBZ,4391683,L2FBZ,4391683
+B2373:1:24,Pseudophloeus Burm.,Burm.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Pseudophloeus,,Coreidae,Pseudophlaeus Burm.,,8PMX6,6007246,8NM3C,4391585
+B2373:1:25,Pseudophloeus fallenii Schill.,Schill.,Pseudophloeus,,fallenii,,species,,B2373:1,accepted,,,B2373:1:24,Pseudophloeus Burm.,,,,,Coreidae,,Pseudophloeus,,Coreidae | Pseudophloeus,Fallenii Schill.,,4P7BK,7371404,GFN8,4391587
+B2373:1:26,Pseudophloeus walltlii H. S.,H. S.,Pseudophloeus,,walltlii,,species,,B2373:1,accepted,,,B2373:1:24,Pseudophloeus Burm.,,,,,Coreidae,,Pseudophloeus,,Coreidae | Pseudophloeus,Walltlii H. S.,,4P7BR,7942394,5VRDM,4391597
+B2373:1:27,Bathysolen Fieb.,Fieb.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Bathysolen,,Coreidae,Bathysolen Fieb.,,8NMDQ,4391661,8NMDQ,4391661
+B2373:1:28,Bathysolen nubilus Fall.,Fall.,Bathysolen,,nubilus,,species,,B2373:1,accepted,,,B2373:1:27,Bathysolen Fieb.,,,,,Coreidae,,Bathysolen,,Coreidae | Bathysolen,nubilus Fall.,,KYCN,4391663,KYCN,4391663
+B2373:1:29,Arenocoris Hahn.,Hahn.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Arenocoris,,Coreidae,Arenocoris Hahn.,,8NM3C,4391585,8NM3C,4391585
+B2373:1:30,Arenocoris spinipes Fall,Fall,Arenocoris,,spinipes,,species,,B2373:1,accepted,,,B2373:1:29,Arenocoris Hahn.,,,,,Coreidae,,Arenocoris,,Coreidae | Arenocoris,spinipes Fall,,GFNC,7990748,7DFYC,4391608
+B2373:1:31,Coreus Fab.,Fab.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Coreus,,Coreidae,Coreus Fab.,,8NNFP,2049958,8NNFP,2049958
+B2373:1:32,Coreus scabricornis Panz.,Panz.,Coreus,,scabricornis,,species,,B2373:1,accepted,,,B2373:1:31,Coreus Fab.,,,,,Coreidae,,Coreus,,Coreidae | Coreus,scabricornis Panz.,,6B3M4,4485639,YF8Q,4391547
+B2373:1:33,Coreus hirticornis Fab.,Fab.,Coreus,,hirticornis,,species,,B2373:1,accepted,,,B2373:1:31,Coreus Fab.,,,,,Coreidae,,Coreus,,Coreidae | Coreus,hirticornis Fab.,,6B3KF,4485640,YF8C,4391539
+B2373:1:34,Ceraleptus Costa.,Costa.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Ceraleptus,,Coreidae,Ceraleptus Costa.,,8NMYV,2050009,8NMYV,2050009
+B2373:1:35,Ceraleptus gracilicornis H. S.,H. S.,Ceraleptus,,gracilicornis,,species,,B2373:1,accepted,,,B2373:1:34,Ceraleptus Costa.,,,,,Coreidae,,Ceraleptus,,Coreidae | Ceraleptus,gracilicornis H. S.,,SGGN,2050012,SGGN,2050012
+B2373:1:36,Ceraleptus squalidus Costa.,Costa.,Ceraleptus,,squalidus,,species,,B2373:1,accepted,,,B2373:1:34,Ceraleptus Costa.,,,,,Coreidae,,Ceraleptus,,Coreidae | Ceraleptus,squalidus Costa.,,SGGX,4391513,SGGT,4391510
+B2373:1:37,Ceraleptus lividus Stein.,Stein.,Ceraleptus,,lividus,,species,,B2373:1,accepted,,,B2373:1:34,Ceraleptus Costa.,,,,,Coreidae,,Ceraleptus,,Coreidae | Ceraleptus,lividus Stein.,,SGGQ,4391506,SGGQ,4391506
+B2373:1:38,Camptopus Am. S.,Am. S.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Camptopus,,Coreidae,Camptotus Am. S.,,8NMV5,3265607,8NMV5,3265607
+B2373:1:39,Camptopus lateralis Germ.,Germ.,Camptopus,,lateralis,,species,,B2373:1,accepted,,,B2373:1:38,Camptopus Am. S.,,,,,Coreidae,,Camptopus,,Coreidae | Camptopus,lateralis Germ.,,QFXD,5733449,QFXD,5733449
+B2373:1:40,Camptopus lateralis var. brevipes H. S.,H. S.,Camptopus,,lateralis,brevipes,variety,,B2373:1,accepted,,,B2373:1:39,Camptopus lateralis Germ.,,,,,Coreidae,,Camptopus,,Coreidae | Camptopus | Camptopus lateralis,var. brevipes H. S.,,,10026876,,5733449
+B2373:1:41,Alydus Fab.,Fab.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Alydus,,Coreidae,Alydus Fab.,,8NLS6,2050167,8NLS6,2050167
+B2373:1:42,Alydus calcaratus L.,L.,Alydus,,calcaratus,,species,,B2373:1,accepted,,,B2373:1:41,Alydus Fab.,,,,,Coreidae,,Alydus,,Coreidae | Alydus,calcaratus L.,,CC3X,2050173,CC3X,2050173
+B2373:1:43,Therapha Am. S.,Am. S.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Therapha,,Coreidae,Therapha Am. S.,,8PRGG,4391891,8NQ2K,2050276
+B2373:1:44,Therapha hyosciami L.,L.,Therapha,,hyosciami,,species,,B2373:1,accepted,,,B2373:1:43,Therapha Am. S.,,,,,Coreidae,,Therapha,,Coreidae | Therapha,hyosciami L.,,KZFJG,11409909,KZFJG,4391875
+B2373:1:45,Corizus Fall.,Fall.,,,,,genus,,B2373:1,accepted,,,B2373:1:1,Coreidae,,,,,Coreidae,,Corizus,,Coreidae,Corizus Fall.,,8NQ2K,2050276,8NQ2K,2050276
+B2373:1:46,Corizus crassicornis L.,L.,Corizus,,crassicornis,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,crassicornis L.,,KZ5QX,7768398,KZ5QX,2050273
+B2373:1:47,Corizus tigrinus Schill.,Schill.,Corizus,,tigrinus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,tigrinus Schill.,,,9952681,,4391872
+B2373:1:48,Corizus maculatus Fieb.,Fieb.,Corizus,,maculatus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,maculatus Fieb.,,6B59G,4485589,4SMDF,4391866
+B2373:1:49,Corizus capitatus Fab.,Fab.,Corizus,,capitatus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,capitatus Fab.,,,10347346,,2050239
+B2373:1:50,Corizus distinctus Sign.,Sign.,Corizus,,distinctus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,distinctus Sign.,,YFMM,4485590,4SMDL,4391857
+B2373:1:51,Corizus parumpunctatus Schill,Schill,Corizus,,parumpunctatus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,parumpunctatus Schill,,KZ5QZ,7999271,KZ5QZ,4391858
+B2373:1:52,Corizus rufus Schill.,Schill.,Corizus,,rufus,,species,,B2373:1,accepted,,,B2373:1:45,Corizus Fall.,,,,,Coreidae,,Corizus,,Coreidae | Corizus,rufus Schill.,,,10982482,,4391856

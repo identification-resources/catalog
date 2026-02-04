@@ -1,10 +1,10 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B212:3:1,Trogini,,,,,,tribe,,B212:3,accepted,,,,,,,,,,,,,,TROGINI,,,,
-B212:3:2,Callajoppa Cameron,Cameron,,,,,genus,,B212:3,accepted,,,B212:3:1,Trogini,,,,,,,Callajoppa,,Trogini,Callajoppa Cameron,62J98,1294748,62J98,1294748
-B212:3:3,Callajoppa cirrogaster Schrank,Schrank,Callajoppa,,cirrogaster,,species,,B212:3,accepted,,,B212:3:2,Callajoppa Cameron,,,,,,,Callajoppa,,Trogini | Callajoppa,cirrogaster Schrank,PKXT,1294761,PKXT,1294761
-B212:3:4,Callajoppa exaltatoria Panzer,Panzer,Callajoppa,,exaltatoria,,species,,B212:3,accepted,,,B212:3:2,Callajoppa Cameron,,,,,,,Callajoppa,,Trogini | Callajoppa,exaltatoria Panzer,PKXW,1294754,PKXW,1294754
-B212:3:5,Trogus Panzer,Panzer,,,,,genus,,B212:3,accepted,,,B212:3:1,Trogini,,,,,,,Trogus,,Trogini,Trogus Panzer,82XG,1295686,82XG,1295686
-B212:3:6,Trogus lapidator (F.),(F.),Trogus,,lapidator,,species,,B212:3,accepted,,,B212:3:5,Trogus Panzer,,,,,,,Trogus,,Trogini | Trogus,lapidator (F.),7D82R,5029550,7D82R,5029550
-B212:3:7,Trogus lapidator subsp. coerulator (F.),(F.),Trogus,,lapidator,coerulator,subspecies,,B212:3,accepted,,,B212:3:6,Trogus lapidator (F.),,,,,,,Trogus,,Trogini | Trogus | Trogus lapidator,coerulator (F.),,11314970,,5029550
-B212:3:8,Psilomastax Tischbein,Tischbein,,,,,genus,,B212:3,accepted,,,B212:3:1,Trogini,,,,,,,Psilomastax,,Trogini,Psilomastax Tischbein,7497,1305610,7497,1305610
-B212:3:9,Psilomastax pyramidalis Tischbein,Tischbein,Psilomastax,,pyramidalis,,species,,B212:3,accepted,,,B212:3:8,Psilomastax Tischbein,,,,,,,Psilomastax,,Trogini | Psilomastax,pyramidalis Tischbein,4PHMM,1305611,4PHMM,1305611
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B212:3:1,Trogini,,,,,,tribe,,B212:3,accepted,,,,,,,,,,,,,,TROGINI,,,,,
+B212:3:2,Callajoppa Cameron,Cameron,,,,,genus,,B212:3,accepted,,,B212:3:1,Trogini,,,,,,,Callajoppa,,Trogini,Callajoppa Cameron,,62J98,1294748,62J98,1294748
+B212:3:3,Callajoppa cirrogaster Schrank,Schrank,Callajoppa,,cirrogaster,,species,,B212:3,accepted,,,B212:3:2,Callajoppa Cameron,,,,,,,Callajoppa,,Trogini | Callajoppa,cirrogaster Schrank,,PKXT,1294761,PKXT,1294761
+B212:3:4,Callajoppa exaltatoria Panzer,Panzer,Callajoppa,,exaltatoria,,species,,B212:3,accepted,,,B212:3:2,Callajoppa Cameron,,,,,,,Callajoppa,,Trogini | Callajoppa,exaltatoria Panzer,,PKXW,1294754,PKXW,1294754
+B212:3:5,Trogus Panzer,Panzer,,,,,genus,,B212:3,accepted,,,B212:3:1,Trogini,,,,,,,Trogus,,Trogini,Trogus Panzer,,82XG,1295686,82XG,1295686
+B212:3:6,Trogus lapidator (F.),(F.),Trogus,,lapidator,,species,,B212:3,accepted,,,B212:3:5,Trogus Panzer,,,,,,,Trogus,,Trogini | Trogus,lapidator (F.),,7D82R,5029550,7D82R,5029550
+B212:3:7,Trogus lapidator subsp. coerulator (F.),(F.),Trogus,,lapidator,coerulator,subspecies,,B212:3,accepted,,,B212:3:6,Trogus lapidator (F.),,,,,,,Trogus,,Trogini | Trogus | Trogus lapidator,coerulator (F.),,,11314970,,5029550
+B212:3:8,Psilomastax Tischbein,Tischbein,,,,,genus,,B212:3,accepted,,,B212:3:1,Trogini,,,,,,,Psilomastax,,Trogini,Psilomastax Tischbein,,7497,1305610,7497,1305610
+B212:3:9,Psilomastax pyramidalis Tischbein,Tischbein,Psilomastax,,pyramidalis,,species,,B212:3,accepted,,,B212:3:8,Psilomastax Tischbein,,,,,,,Psilomastax,,Trogini | Psilomastax,pyramidalis Tischbein,,4PHMM,1305611,4PHMM,1305611

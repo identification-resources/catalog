@@ -1,95 +1,95 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B226:1:1,Diptera,,,,,,order,,B226:1,accepted,,,,,,,,Diptera,,,,,,DIPTERA,D2P,811,D2P,811
-B226:1:2,Nematocera,,,,,,suborder,,B226:1,accepted,,,B226:1:1,Diptera,,,,Diptera,,,,,Diptera,Nematocera,,,,
-B226:1:3,Tipulidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Tipulidae,,,,Diptera | Nematocera,Tipulidae,626Q6,7634,626Q6,7634
-B226:1:4,Trichoceridae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Trichoceridae,,,,Diptera | Nematocera,Trichoceridae,BXWXZ,6914,BXWXZ,6914
-B226:1:5,Anisopodidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Anisopodidae,,,,Diptera | Nematocera,Anisopodidae,6F7,7271,6F7,7271
-B226:1:6,Rhyphidae,,,,,,family,,B226:1,synonym,B226:1:5,Anisopodidae,,,,,,Diptera,Rhyphidae,,,,Diptera | Nematocera,Rhyphidae,,4790368,,7271
-B226:1:7,Ptychopteridae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Ptychopteridae,,,,Diptera | Nematocera,Ptychopteridae,6277P,5585,6277P,5585
-B226:1:8,Psychodidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Psychodidae,,,,Diptera | Nematocera,Psychodidae,FBS,9164,FBS,9164
-B226:1:9,Culicidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Culicidae,,,,Diptera | Nematocera,Culicidae,CCYMV,3346,CCYMV,3346
-B226:1:10,Chironomidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Chironomidae,,,,Diptera | Nematocera,Chironomidae,84X,3343,84X,3343
-B226:1:11,Ceratopogonidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Ceratopogonidae,,,,Diptera | Nematocera,Ceratopogonidae,9H6KB,3340,9H6KB,3340
-B226:1:12,Thaumaleidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Thaumaleidae,,,,Diptera | Nematocera,Thaumaleidae,BXWXJ,3518,BXWXJ,3518
-B226:1:13,Simuliidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Simuliidae,,,,Diptera | Nematocera,Simuliidae,6279F,3522,6279F,3522
-B226:1:14,Bibionidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Bibionidae,,,,Diptera | Nematocera,Bibionidae,77F,7281,77F,7281
-B226:1:15,Scatopsidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Scatopsidae,,,,Diptera | Nematocera,Scatopsidae,G22,6927,G22,6927
-B226:1:16,Mycetophilidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Mycetophilidae,,,,Diptera | Nematocera,Mycetophilidae,D26,5565,D26,5565
-B226:1:17,Cecidomyiidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Cecidomyiidae,,,,Diptera | Nematocera,Cecidomyiidae,622KR,3338,622KR,3338
-B226:1:18,Brachycera,,,,,,suborder,,B226:1,accepted,,,B226:1:1,Diptera,,,,Diptera,,,,,Diptera,Brachycera,,,,
-B226:1:19,Stratiomyidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Stratiomyidae,,,,Diptera | Brachycera,Stratiomyiidae,CF66Z,6923,CF66Z,6923
-B226:1:20,Rhagionidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Rhagionidae,,,,Diptera | Brachycera,Rhagionidae,FN2,5587,FN2,5587
-B226:1:21,Leptidae,,,,,,family,,B226:1,synonym,B226:1:20,Rhagionidae,,,,,,Diptera,Leptidae,,,,Diptera | Brachycera,Leptidae,,3264103,,5587
-B226:1:22,Tabanidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Tabanidae,,,,Diptera | Brachycera,Tabanidae,GVW,6919,GVW,6919
-B226:1:23,Acroceridae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Acroceridae,,,,Diptera | Brachycera,Acroceridae,62338,3328,62338,3328
-B226:1:24,Cyrtidae,,,,,,family,,B226:1,synonym,B226:1:23,Acroceridae,,,,,,Diptera,Cyrtidae,,,,Diptera | Brachycera,Cyrtidae,,7014146,,3328
-B226:1:25,Bombyliidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Bombyliidae,,,,Diptera | Brachycera,Bombyliidae,622GM,7285,622GM,7285
-B226:1:26,Therevidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Therevidae,,,,Diptera | Brachycera,Therevidae,H6L,3517,H6L,3517
-B226:1:27,Scenopinidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Scenopinidae,,,,Diptera | Brachycera,Scenopinidae,G26,3526,G26,3526
-B226:1:28,Asilidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Asilidae,,,,Diptera | Brachycera,Asilidae,6SY,7275,6SY,7275
-B226:1:29,Empididae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Empididae,,,,Diptera | Brachycera,Empididae,9NM,9483,9NM,9483
-B226:1:30,Dolichopodidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Dolichopodidae,,,,Diptera | Brachycera,Dolichopodidae,623XN,7305,623XN,7305
-B226:1:31,Cyclorrhapha,,,,,,suborder,,B226:1,accepted,,,B226:1:1,Diptera,,,,Diptera,,,,,Diptera,Cyclorrhapha,,,,
-B226:1:32,Aschiza,,,,,,section,,B226:1,accepted,,,B226:1:31,Cyclorrhapha,,,,Diptera,,,,,Diptera | Cyclorrhapha,Aschiza,,,,
-B226:1:33,Lonchopteridae,,,,,,family,,B226:1,accepted,,,B226:1:32,Aschiza,,,,Diptera,Lonchopteridae,,,,Diptera | Cyclorrhapha | Aschiza,Lonchopteridae,C6C,5560,C6C,5560
-B226:1:34,Phoridae,,,,,,family,,B226:1,accepted,,,B226:1:32,Aschiza,,,,Diptera,Phoridae,,,,Diptera | Cyclorrhapha | Aschiza,Phoridae,BXWQH,9502,BXWQH,9502
-B226:1:35,Platypezidae,,,,,,family,,B226:1,accepted,,,B226:1:32,Aschiza,,,,Diptera,Platypezidae,,,,Diptera | Cyclorrhapha | Aschiza,Platypezidae,6262W,5584,6262W,5584
-B226:1:36,Pipunculidae,,,,,,family,,B226:1,accepted,,,B226:1:32,Aschiza,,,,Diptera,Pipunculidae,,,,Diptera | Cyclorrhapha | Aschiza,Pipunculidae,BXWR5,5583,BXWR5,5583
-B226:1:37,Syrphidae,,,,,,family,,B226:1,accepted,,,B226:1:32,Aschiza,,,,Diptera,Syrphidae,,,,Diptera | Cyclorrhapha | Aschiza,Syrphidae,GVS,6920,GVS,6920
-B226:1:38,Schizophora,,,,,,section,,B226:1,accepted,,,B226:1:31,Cyclorrhapha,,,,Diptera,,,,,Diptera | Cyclorrhapha,Schizophora,,,,
-B226:1:39,Acalypterae,,,,,,section,,B226:1,accepted,,,B226:1:38,Schizophora,,,,Diptera,,,,,Diptera | Cyclorrhapha | Schizophora,Acalypterae,,,,
-B226:1:40,Gasterophilidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Gasterophilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Gasterophilidae,,4794122,,4794122
-B226:1:41,Conopidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Conopidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Conopidae,8HX,7298,8HX,7298
-B226:1:42,Platystomatidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Platystomatidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Platystomidae,625PZ,9504,625PZ,9504
-B226:1:43,Otitidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Otitidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Otitidae,,3264557,,3516
-B226:1:44,Ulidiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Ulidiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Ulidiidae,HN9,3516,HN9,3516
-B226:1:45,Piophilidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Piophilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Piophilidae,BXW25,9503,BXW25,9503
-B226:1:46,Thyreophoridae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Thyreophoridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Thyreophoridae,,4294466,,9503
-B226:1:47,Dryomyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Dryomyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Dryomyzidae,BY4CF,5548,BY4CF,5548
-B226:1:48,Neottiophilidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Neottiophilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Neottiophilidae,,8333552,,9503
-B226:1:49,Trypetidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Trypetidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Trypetidae,,3264566,,3520
-B226:1:50,Lonchaeidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Lonchaeidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Lonchaeidae,C69,5559,C69,5559
-B226:1:51,Lauxaniidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Lauxaniidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Lauxaniidae,BTH,9493,BTH,9493
-B226:1:52,Sapromyzidae,,,,,,family,,B226:1,synonym,B226:1:51,Lauxaniidae,,,,,,Diptera,Sapromyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Sapromyzidae,,3264241,,9493
-B226:1:53,Micropezidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Micropezidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Micropezidae,CRP,9495,CRP,9495
-B226:1:54,Tanypezidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Tanypezidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Tanypezidae,GX8,3521,GX8,3521
-B226:1:55,Psilidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Psilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Psilidae,62774,6183,62774,6183
-B226:1:56,Megamerinidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Megamerinidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Megamerinidae,BY4KP,5562,BY4KP,5562
-B226:1:57,Sepsidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Sepsidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Sepsidae,BXWW3,3523,BXWW3,3523
-B226:1:58,Sciomyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Sciomyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Sciomyzidae,G45,3524,G45,3524
-B226:1:59,Tetanoceridae,,,,,,family,,B226:1,synonym,B226:1:58,Sciomyzidae,,,,,,Diptera,Tetanoceridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Tetanoceridae,,4295996,,3524
-B226:1:60,Chamaemyiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Chamaemyiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Chamaemyiidae,BXWH3,3341,BXWH3,3341
-B226:1:61,Ochthiphilidae,,,,,,family,,B226:1,synonym,B226:1:60,Chamaemyiidae,,,,,,Diptera,Ochthiphilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Ochthiphilidae,,9929056,,3341
-B226:1:62,Braulidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Braulidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Braulidae,,7286,,7286
-B226:1:63,Coelopidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Coelopidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Coelopidae,BXWHM,7291,BXWHM,7291
-B226:1:64,Helomyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Helomyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Helomyzidae,,3264221,,5551
-B226:1:65,Trichoscelidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Trichoscelidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Trichoscelidae,,,,
-B226:1:66,Chiromyiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Chiromyiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Chiromyiidae,,,,
-B226:1:67,Clusiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Clusiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Clusiidae,BXWHG,7290,BXWHG,7290
-B226:1:68,Anthomyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Anthomyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Anthomyzidae,BXWFQ,7272,BXWFQ,7272
-B226:1:69,Opomyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Opomyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Opomyzidae,DP9,5576,DP9,5576
-B226:1:70,Tethinidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Tethinidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Tethinidae,CC932,3519,CC932,7287
-B226:1:71,Ephydridae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Ephydridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Ephydridae,BXVX3,5549,BXVX3,5549
-B226:1:72,Canaceidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Canaceidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Canaceidae,,4788422,,7287
-B226:1:73,Borboridae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Borboridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Borboridae,,3264764,,6924
-B226:1:74,Sphaeroceridae,,,,,,family,,B226:1,synonym,B226:1:73,Borboridae,,,,,,Diptera,Sphaeroceridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Sphaeroceridae,BXWWR,6924,BXWWR,6924
-B226:1:75,Periscelidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Periscelidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Periscelidae,,4792958,,6161
-B226:1:76,Asteiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Asteiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Asteiidae,6TZ,7276,6TZ,7276
-B226:1:77,Aulacigastridae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Aulacigastridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Aulacigastridae,6WW,7279,6WW,7279
-B226:1:78,Camillidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Camillidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Camillidae,BY499,3336,BY499,3336
-B226:1:79,Drosophilidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Drosophilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Drosophilidae,BXWBR,5547,BXWBR,5547
-B226:1:80,Diastatidae,,,,,,family,,B226:1,heterotypic synonym,B226:1:79,Drosophilidae,,,,,,Diptera,Diastatidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Diastatidae,BY4C6,3349,BY4C6,3349
-B226:1:81,Agromyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Agromyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Agromyzidae,BXWFF,3329,BXWFF,3329
-B226:1:82,Milichiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Milichiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Milichiidae,CT2,9496,CT2,9496
-B226:1:83,Carnidae,,,,,,family,,B226:1,heterotypic synonym,B226:1:82,Milichiidae,,,,,,Diptera,Carnidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Carnidae,7RD,3337,7RD,3337
-B226:1:84,Odiniidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Odiniidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Odiniidae,BXWNR,5575,BXWNR,5575
-B226:1:85,Chloropidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Chloropidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Chloropidae,BXWH8,3344,BXWH8,3344
-B226:1:86,Pupipara,,,,,,section,,B226:1,accepted,,,B226:1:38,Schizophora,,,,Diptera,,,,,Diptera | Cyclorrhapha | Schizophora,Pupipara,,,,
-B226:1:87,Hippoboscidae,,,,,,family,,B226:1,accepted,,,B226:1:86,Pupipara,,,,Diptera,Hippoboscidae,,,,Diptera | Cyclorrhapha | Schizophora | Pupipara,Hippoboscidae,BXWKM,9491,BXWKM,9491
-B226:1:88,Nycteribiidae,,,,,,family,,B226:1,accepted,,,B226:1:86,Pupipara,,,,Diptera,Nycteribiidae,,,,Diptera | Cyclorrhapha | Schizophora | Pupipara,Nycteribiidae,,3264648,,3264648
-B226:1:89,Calypterae,,,,,,section,,B226:1,accepted,,,B226:1:38,Schizophora,,,,Diptera,,,,,Diptera | Cyclorrhapha | Schizophora,Calypterae,,,,
-B226:1:90,Tachinidae,,,,,,family,,B226:1,accepted,,,B226:1:89,Calypterae,,,,Diptera,Tachinidae,,,,Diptera | Cyclorrhapha | Schizophora | Calypterae,Tachinidae,9J9HR,6918,9L8CH,6918
-B226:1:91,Calliphoridae,,,,,,family,,B226:1,accepted,,,B226:1:89,Calypterae,,,,Diptera,Calliphoridae,,,,Diptera | Cyclorrhapha | Schizophora | Calypterae,Calliphoridae,BXWBJ,3335,BXWBJ,3335
-B226:1:92,Muscidae,,,,,,family,,B226:1,accepted,,,B226:1:89,Calypterae,,,,Diptera,Muscidae,,,,Diptera | Cyclorrhapha | Schizophora | Calypterae,Muscidae,CZP,5564,CZP,5564
-B226:1:93,Cordyluridae,,,,,,family,,B226:1,accepted,,,B226:1:89,Calypterae,,,,Diptera,Cordyluridae,,,,Diptera | Cyclorrhapha | Schizophora | Calypterae,Cordyluridae,,3264118,,1555553
-B226:1:94,Scatophagidae,,,,,,family,,B226:1,synonym,B226:1:93,Cordyluridae,,,,,,Diptera,Scatophagidae,,,,Diptera | Cyclorrhapha | Schizophora | Calypterae,Scatophagidae,,,,
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B226:1:1,Diptera,,,,,,order,,B226:1,accepted,,,,,,,,Diptera,,,,,,DIPTERA,,D2P,811,D2P,811
+B226:1:2,Nematocera,,,,,,suborder,,B226:1,accepted,,,B226:1:1,Diptera,,,,Diptera,,,,,Diptera,Nematocera,,,,,
+B226:1:3,Tipulidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Tipulidae,,,,Diptera | Nematocera,Tipulidae,,626Q6,7634,626Q6,7634
+B226:1:4,Trichoceridae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Trichoceridae,,,,Diptera | Nematocera,Trichoceridae,,BXWXZ,6914,BXWXZ,6914
+B226:1:5,Anisopodidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Anisopodidae,,,,Diptera | Nematocera,Anisopodidae,,6F7,7271,6F7,7271
+B226:1:6,Rhyphidae,,,,,,family,,B226:1,synonym,B226:1:5,Anisopodidae,,,,,,Diptera,Rhyphidae,,,,Diptera | Nematocera,Rhyphidae,,,4790368,,7271
+B226:1:7,Ptychopteridae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Ptychopteridae,,,,Diptera | Nematocera,Ptychopteridae,,6277P,5585,6277P,5585
+B226:1:8,Psychodidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Psychodidae,,,,Diptera | Nematocera,Psychodidae,,FBS,9164,FBS,9164
+B226:1:9,Culicidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Culicidae,,,,Diptera | Nematocera,Culicidae,,CCYMV,3346,CCYMV,3346
+B226:1:10,Chironomidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Chironomidae,,,,Diptera | Nematocera,Chironomidae,,84X,3343,84X,3343
+B226:1:11,Ceratopogonidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Ceratopogonidae,,,,Diptera | Nematocera,Ceratopogonidae,,9H6KB,3340,9H6KB,3340
+B226:1:12,Thaumaleidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Thaumaleidae,,,,Diptera | Nematocera,Thaumaleidae,,BXWXJ,3518,BXWXJ,3518
+B226:1:13,Simuliidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Simuliidae,,,,Diptera | Nematocera,Simuliidae,,6279F,3522,6279F,3522
+B226:1:14,Bibionidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Bibionidae,,,,Diptera | Nematocera,Bibionidae,,77F,7281,77F,7281
+B226:1:15,Scatopsidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Scatopsidae,,,,Diptera | Nematocera,Scatopsidae,,G22,6927,G22,6927
+B226:1:16,Mycetophilidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Mycetophilidae,,,,Diptera | Nematocera,Mycetophilidae,,D26,5565,D26,5565
+B226:1:17,Cecidomyiidae,,,,,,family,,B226:1,accepted,,,B226:1:2,Nematocera,,,,Diptera,Cecidomyiidae,,,,Diptera | Nematocera,Cecidomyiidae,,622KR,3338,622KR,3338
+B226:1:18,Brachycera,,,,,,suborder,,B226:1,accepted,,,B226:1:1,Diptera,,,,Diptera,,,,,Diptera,Brachycera,,,,,
+B226:1:19,Stratiomyidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Stratiomyidae,,,,Diptera | Brachycera,Stratiomyiidae,,CF66Z,6923,CF66Z,6923
+B226:1:20,Rhagionidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Rhagionidae,,,,Diptera | Brachycera,Rhagionidae,,FN2,5587,FN2,5587
+B226:1:21,Leptidae,,,,,,family,,B226:1,synonym,B226:1:20,Rhagionidae,,,,,,Diptera,Leptidae,,,,Diptera | Brachycera,Leptidae,,,3264103,,5587
+B226:1:22,Tabanidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Tabanidae,,,,Diptera | Brachycera,Tabanidae,,GVW,6919,GVW,6919
+B226:1:23,Acroceridae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Acroceridae,,,,Diptera | Brachycera,Acroceridae,,62338,3328,62338,3328
+B226:1:24,Cyrtidae,,,,,,family,,B226:1,synonym,B226:1:23,Acroceridae,,,,,,Diptera,Cyrtidae,,,,Diptera | Brachycera,Cyrtidae,,,7014146,,3328
+B226:1:25,Bombyliidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Bombyliidae,,,,Diptera | Brachycera,Bombyliidae,,622GM,7285,622GM,7285
+B226:1:26,Therevidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Therevidae,,,,Diptera | Brachycera,Therevidae,,H6L,3517,H6L,3517
+B226:1:27,Scenopinidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Scenopinidae,,,,Diptera | Brachycera,Scenopinidae,,G26,3526,G26,3526
+B226:1:28,Asilidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Asilidae,,,,Diptera | Brachycera,Asilidae,,6SY,7275,6SY,7275
+B226:1:29,Empididae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Empididae,,,,Diptera | Brachycera,Empididae,,9NM,9483,9NM,9483
+B226:1:30,Dolichopodidae,,,,,,family,,B226:1,accepted,,,B226:1:18,Brachycera,,,,Diptera,Dolichopodidae,,,,Diptera | Brachycera,Dolichopodidae,,623XN,7305,623XN,7305
+B226:1:31,Cyclorrhapha,,,,,,suborder,,B226:1,accepted,,,B226:1:1,Diptera,,,,Diptera,,,,,Diptera,Cyclorrhapha,,,,,
+B226:1:32,Aschiza,,,,,,section,,B226:1,accepted,,,B226:1:31,Cyclorrhapha,,,,Diptera,,,,,Diptera | Cyclorrhapha,Aschiza,,,,,
+B226:1:33,Lonchopteridae,,,,,,family,,B226:1,accepted,,,B226:1:32,Aschiza,,,,Diptera,Lonchopteridae,,,,Diptera | Cyclorrhapha | Aschiza,Lonchopteridae,,C6C,5560,C6C,5560
+B226:1:34,Phoridae,,,,,,family,,B226:1,accepted,,,B226:1:32,Aschiza,,,,Diptera,Phoridae,,,,Diptera | Cyclorrhapha | Aschiza,Phoridae,,BXWQH,9502,BXWQH,9502
+B226:1:35,Platypezidae,,,,,,family,,B226:1,accepted,,,B226:1:32,Aschiza,,,,Diptera,Platypezidae,,,,Diptera | Cyclorrhapha | Aschiza,Platypezidae,,6262W,5584,6262W,5584
+B226:1:36,Pipunculidae,,,,,,family,,B226:1,accepted,,,B226:1:32,Aschiza,,,,Diptera,Pipunculidae,,,,Diptera | Cyclorrhapha | Aschiza,Pipunculidae,,BXWR5,5583,BXWR5,5583
+B226:1:37,Syrphidae,,,,,,family,,B226:1,accepted,,,B226:1:32,Aschiza,,,,Diptera,Syrphidae,,,,Diptera | Cyclorrhapha | Aschiza,Syrphidae,,GVS,6920,GVS,6920
+B226:1:38,Schizophora,,,,,,section,,B226:1,accepted,,,B226:1:31,Cyclorrhapha,,,,Diptera,,,,,Diptera | Cyclorrhapha,Schizophora,,,,,
+B226:1:39,Acalypterae,,,,,,section,,B226:1,accepted,,,B226:1:38,Schizophora,,,,Diptera,,,,,Diptera | Cyclorrhapha | Schizophora,Acalypterae,,,,,
+B226:1:40,Gasterophilidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Gasterophilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Gasterophilidae,,,4794122,,4794122
+B226:1:41,Conopidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Conopidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Conopidae,,8HX,7298,8HX,7298
+B226:1:42,Platystomatidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Platystomatidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Platystomidae,,625PZ,9504,625PZ,9504
+B226:1:43,Otitidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Otitidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Otitidae,,,3264557,,3516
+B226:1:44,Ulidiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Ulidiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Ulidiidae,,HN9,3516,HN9,3516
+B226:1:45,Piophilidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Piophilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Piophilidae,,BXW25,9503,BXW25,9503
+B226:1:46,Thyreophoridae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Thyreophoridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Thyreophoridae,,,4294466,,9503
+B226:1:47,Dryomyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Dryomyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Dryomyzidae,,BY4CF,5548,BY4CF,5548
+B226:1:48,Neottiophilidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Neottiophilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Neottiophilidae,,,8333552,,9503
+B226:1:49,Trypetidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Trypetidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Trypetidae,,,3264566,,3520
+B226:1:50,Lonchaeidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Lonchaeidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Lonchaeidae,,C69,5559,C69,5559
+B226:1:51,Lauxaniidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Lauxaniidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Lauxaniidae,,BTH,9493,BTH,9493
+B226:1:52,Sapromyzidae,,,,,,family,,B226:1,synonym,B226:1:51,Lauxaniidae,,,,,,Diptera,Sapromyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Sapromyzidae,,,3264241,,9493
+B226:1:53,Micropezidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Micropezidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Micropezidae,,CRP,9495,CRP,9495
+B226:1:54,Tanypezidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Tanypezidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Tanypezidae,,GX8,3521,GX8,3521
+B226:1:55,Psilidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Psilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Psilidae,,62774,6183,62774,6183
+B226:1:56,Megamerinidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Megamerinidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Megamerinidae,,BY4KP,5562,BY4KP,5562
+B226:1:57,Sepsidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Sepsidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Sepsidae,,BXWW3,3523,BXWW3,3523
+B226:1:58,Sciomyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Sciomyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Sciomyzidae,,G45,3524,G45,3524
+B226:1:59,Tetanoceridae,,,,,,family,,B226:1,synonym,B226:1:58,Sciomyzidae,,,,,,Diptera,Tetanoceridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Tetanoceridae,,,4295996,,3524
+B226:1:60,Chamaemyiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Chamaemyiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Chamaemyiidae,,BXWH3,3341,BXWH3,3341
+B226:1:61,Ochthiphilidae,,,,,,family,,B226:1,synonym,B226:1:60,Chamaemyiidae,,,,,,Diptera,Ochthiphilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Ochthiphilidae,,,9929056,,3341
+B226:1:62,Braulidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Braulidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Braulidae,,,7286,,7286
+B226:1:63,Coelopidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Coelopidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Coelopidae,,BXWHM,7291,BXWHM,7291
+B226:1:64,Helomyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Helomyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Helomyzidae,,,3264221,,5551
+B226:1:65,Trichoscelidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Trichoscelidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Trichoscelidae,,,,,
+B226:1:66,Chiromyiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Chiromyiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Chiromyiidae,,,,,
+B226:1:67,Clusiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Clusiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Clusiidae,,BXWHG,7290,BXWHG,7290
+B226:1:68,Anthomyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Anthomyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Anthomyzidae,,BXWFQ,7272,BXWFQ,7272
+B226:1:69,Opomyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Opomyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Opomyzidae,,DP9,5576,DP9,5576
+B226:1:70,Tethinidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Tethinidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Tethinidae,,CC932,3519,CC932,7287
+B226:1:71,Ephydridae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Ephydridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Ephydridae,,BXVX3,5549,BXVX3,5549
+B226:1:72,Canaceidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Canaceidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Canaceidae,,,4788422,,7287
+B226:1:73,Borboridae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Borboridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Borboridae,,,3264764,,6924
+B226:1:74,Sphaeroceridae,,,,,,family,,B226:1,synonym,B226:1:73,Borboridae,,,,,,Diptera,Sphaeroceridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Sphaeroceridae,,BXWWR,6924,BXWWR,6924
+B226:1:75,Periscelidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Periscelidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Periscelidae,,,4792958,,6161
+B226:1:76,Asteiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Asteiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Asteiidae,,6TZ,7276,6TZ,7276
+B226:1:77,Aulacigastridae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Aulacigastridae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Aulacigastridae,,6WW,7279,6WW,7279
+B226:1:78,Camillidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Camillidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Camillidae,,BY499,3336,BY499,3336
+B226:1:79,Drosophilidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Drosophilidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Drosophilidae,,BXWBR,5547,BXWBR,5547
+B226:1:80,Diastatidae,,,,,,family,,B226:1,heterotypic synonym,B226:1:79,Drosophilidae,,,,,,Diptera,Diastatidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Diastatidae,,BY4C6,3349,BY4C6,3349
+B226:1:81,Agromyzidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Agromyzidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Agromyzidae,,BXWFF,3329,BXWFF,3329
+B226:1:82,Milichiidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Milichiidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Milichiidae,,CT2,9496,CT2,9496
+B226:1:83,Carnidae,,,,,,family,,B226:1,heterotypic synonym,B226:1:82,Milichiidae,,,,,,Diptera,Carnidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Carnidae,,7RD,3337,7RD,3337
+B226:1:84,Odiniidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Odiniidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Odiniidae,,BXWNR,5575,BXWNR,5575
+B226:1:85,Chloropidae,,,,,,family,,B226:1,accepted,,,B226:1:39,Acalypterae,,,,Diptera,Chloropidae,,,,Diptera | Cyclorrhapha | Schizophora | Acalypterae,Chloropidae,,BXWH8,3344,BXWH8,3344
+B226:1:86,Pupipara,,,,,,section,,B226:1,accepted,,,B226:1:38,Schizophora,,,,Diptera,,,,,Diptera | Cyclorrhapha | Schizophora,Pupipara,,,,,
+B226:1:87,Hippoboscidae,,,,,,family,,B226:1,accepted,,,B226:1:86,Pupipara,,,,Diptera,Hippoboscidae,,,,Diptera | Cyclorrhapha | Schizophora | Pupipara,Hippoboscidae,,BXWKM,9491,BXWKM,9491
+B226:1:88,Nycteribiidae,,,,,,family,,B226:1,accepted,,,B226:1:86,Pupipara,,,,Diptera,Nycteribiidae,,,,Diptera | Cyclorrhapha | Schizophora | Pupipara,Nycteribiidae,,,3264648,,3264648
+B226:1:89,Calypterae,,,,,,section,,B226:1,accepted,,,B226:1:38,Schizophora,,,,Diptera,,,,,Diptera | Cyclorrhapha | Schizophora,Calypterae,,,,,
+B226:1:90,Tachinidae,,,,,,family,,B226:1,accepted,,,B226:1:89,Calypterae,,,,Diptera,Tachinidae,,,,Diptera | Cyclorrhapha | Schizophora | Calypterae,Tachinidae,,9J9HR,6918,9L8CH,6918
+B226:1:91,Calliphoridae,,,,,,family,,B226:1,accepted,,,B226:1:89,Calypterae,,,,Diptera,Calliphoridae,,,,Diptera | Cyclorrhapha | Schizophora | Calypterae,Calliphoridae,,BXWBJ,3335,BXWBJ,3335
+B226:1:92,Muscidae,,,,,,family,,B226:1,accepted,,,B226:1:89,Calypterae,,,,Diptera,Muscidae,,,,Diptera | Cyclorrhapha | Schizophora | Calypterae,Muscidae,,CZP,5564,CZP,5564
+B226:1:93,Cordyluridae,,,,,,family,,B226:1,accepted,,,B226:1:89,Calypterae,,,,Diptera,Cordyluridae,,,,Diptera | Cyclorrhapha | Schizophora | Calypterae,Cordyluridae,,,3264118,,1555553
+B226:1:94,Scatophagidae,,,,,,family,,B226:1,synonym,B226:1:93,Cordyluridae,,,,,,Diptera,Scatophagidae,,,,Diptera | Cyclorrhapha | Schizophora | Calypterae,Scatophagidae,,,,,

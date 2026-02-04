@@ -1,18 +1,18 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B907:1:1,Caenis horaria,,Caenis,,horaria,,species,,B907:1,accepted,,,,,,,,,,,Caenis,,,Caenis horaria,P9LD,5757628,P9LD,5757628
-B907:1:2,Caenis luctuosa,,Caenis,,luctuosa,,species,,B907:1,accepted,,,,,,,,,,,Caenis,,,Caenis luctuosa,P9LW,5757622,P9LW,5757622
-B907:1:3,Caenis robusta,,Caenis,,robusta,,species,,B907:1,accepted,,,,,,,,,,,Caenis,,,Caenis robusta,P9NF,5757635,P9NF,5757635
-B907:1:4,Centroptilum luteolum,,Centroptilum,,luteolum,,species,,B907:1,accepted,,,,,,,,,,,Centroptilum,,,Centroptilum luteolum,SB6R,4481189,SB6R,4481189
-B907:1:5,Cloeon dipterum,,Cloeon,,dipterum,,species,,B907:1,accepted,,,,,,,,,,,Cloeon,,,Cloeon dipterum,5ZC6V,1407879,5ZC6V,1407879
-B907:1:6,Cloeon simile,,Cloeon,,simile,,species,,B907:1,accepted,,,,,,,,,,,Cloeon,,,Cloeon simile,5ZBVV,4481169,5ZBVV,4481169
-B907:1:7,Ephemera danica,,Ephemera,,danica,,species,,B907:1,accepted,,,,,,,,,,,Ephemera,,,Ephemera danica,6FP8R,5716472,6FP8R,5716472
-B907:1:8,Ephemera glaucops,,Ephemera,,glaucops,,species,,B907:1,accepted,,,,,,,,,,,Ephemera,,,Ephemera glaucops,6FP8V,6096693,6FP8V,6096693
-B907:1:9,Ephemera vulgata,,Ephemera,,vulgata,,species,,B907:1,accepted,,,,,,,,,,,Ephemera,,,Ephemera vulgata,6FP9C,5864880,6FP9C,5864880
-B907:1:10,Ephemerella ignita,,Ephemerella,,ignita,,species,,B907:1,accepted,,,,,,,,,,,Ephemerella,,,Ephemerella ignita,,6096704,,4481256
-B907:1:11,Ephoron virgo,,Ephoron,,virgo,,species,,B907:1,accepted,,,,,,,,,,,Ephoron,,,Ephoron virgo,6G22J,4481291,6G22J,4481291
-B907:1:12,Heptagenia flava,,Heptagenia,,flava,,species,,B907:1,accepted,,,,,,,,,,,Heptagenia,,,Heptagenia flava,3KWNW,4481427,3KWNW,4481427
-B907:1:13,Heptagenia sulphurea,,Heptagenia,,sulphurea,,species,,B907:1,accepted,,,,,,,,,,,Heptagenia,,,Heptagenia sulphurea,6M42N,4481425,6M42N,4481425
-B907:1:14,Leptophlebia marginata,,Leptophlebia,,marginata,,species,,B907:1,accepted,,,,,,,,,,,Leptophlebia,,,Leptophlebia marginata,6PHPZ,4481232,6PHPZ,4481232
-B907:1:15,Leptophlebia vespertina,,Leptophlebia,,vespertina,,species,,B907:1,accepted,,,,,,,,,,,Leptophlebia,,,Leptophlebia vespertina,3TT4Y,4481234,3TT4Y,4481234
-B907:1:16,Paraleptophlebia submarginata,,Paraleptophlebia,,submarginata,,species,,B907:1,accepted,,,,,,,,,,,Paraleptophlebia,,,Paraleptophlebia submarginata,6TPYX,4481237,6TPYX,4481237
-B907:1:17,Baetidae,,,,,,family,,B907:1,accepted,,,,,,,,,Baetidae,,,,,Baetidae,6ZG,7865,6ZG,7865
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B907:1:1,Caenis horaria,,Caenis,,horaria,,species,,B907:1,accepted,,,,,,,,,,,Caenis,,,Caenis horaria,,P9LD,5757628,P9LD,5757628
+B907:1:2,Caenis luctuosa,,Caenis,,luctuosa,,species,,B907:1,accepted,,,,,,,,,,,Caenis,,,Caenis luctuosa,,P9LW,5757622,P9LW,5757622
+B907:1:3,Caenis robusta,,Caenis,,robusta,,species,,B907:1,accepted,,,,,,,,,,,Caenis,,,Caenis robusta,,P9NF,5757635,P9NF,5757635
+B907:1:4,Centroptilum luteolum,,Centroptilum,,luteolum,,species,,B907:1,accepted,,,,,,,,,,,Centroptilum,,,Centroptilum luteolum,,SB6R,4481189,SB6R,4481189
+B907:1:5,Cloeon dipterum,,Cloeon,,dipterum,,species,,B907:1,accepted,,,,,,,,,,,Cloeon,,,Cloeon dipterum,,5ZC6V,1407879,5ZC6V,1407879
+B907:1:6,Cloeon simile,,Cloeon,,simile,,species,,B907:1,accepted,,,,,,,,,,,Cloeon,,,Cloeon simile,,5ZBVV,4481169,5ZBVV,4481169
+B907:1:7,Ephemera danica,,Ephemera,,danica,,species,,B907:1,accepted,,,,,,,,,,,Ephemera,,,Ephemera danica,,6FP8R,5716472,6FP8R,5716472
+B907:1:8,Ephemera glaucops,,Ephemera,,glaucops,,species,,B907:1,accepted,,,,,,,,,,,Ephemera,,,Ephemera glaucops,,6FP8V,6096693,6FP8V,6096693
+B907:1:9,Ephemera vulgata,,Ephemera,,vulgata,,species,,B907:1,accepted,,,,,,,,,,,Ephemera,,,Ephemera vulgata,,6FP9C,5864880,6FP9C,5864880
+B907:1:10,Ephemerella ignita,,Ephemerella,,ignita,,species,,B907:1,accepted,,,,,,,,,,,Ephemerella,,,Ephemerella ignita,,,6096704,,4481256
+B907:1:11,Ephoron virgo,,Ephoron,,virgo,,species,,B907:1,accepted,,,,,,,,,,,Ephoron,,,Ephoron virgo,,6G22J,4481291,6G22J,4481291
+B907:1:12,Heptagenia flava,,Heptagenia,,flava,,species,,B907:1,accepted,,,,,,,,,,,Heptagenia,,,Heptagenia flava,,3KWNW,4481427,3KWNW,4481427
+B907:1:13,Heptagenia sulphurea,,Heptagenia,,sulphurea,,species,,B907:1,accepted,,,,,,,,,,,Heptagenia,,,Heptagenia sulphurea,,6M42N,4481425,6M42N,4481425
+B907:1:14,Leptophlebia marginata,,Leptophlebia,,marginata,,species,,B907:1,accepted,,,,,,,,,,,Leptophlebia,,,Leptophlebia marginata,,6PHPZ,4481232,6PHPZ,4481232
+B907:1:15,Leptophlebia vespertina,,Leptophlebia,,vespertina,,species,,B907:1,accepted,,,,,,,,,,,Leptophlebia,,,Leptophlebia vespertina,,3TT4Y,4481234,3TT4Y,4481234
+B907:1:16,Paraleptophlebia submarginata,,Paraleptophlebia,,submarginata,,species,,B907:1,accepted,,,,,,,,,,,Paraleptophlebia,,,Paraleptophlebia submarginata,,6TPYX,4481237,6TPYX,4481237
+B907:1:17,Baetidae,,,,,,family,,B907:1,accepted,,,,,,,,,Baetidae,,,,,Baetidae,,6ZG,7865,6ZG,7865

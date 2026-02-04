@@ -1,14 +1,14 @@
-scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2071:1:1,Phytocoris,,,,,,genus,,B2071:1,accepted,,,,,,,,,,,Phytocoris,,,Phytocoris,CBS2C,2011610,CBS2C,2011610
-B2071:1:2,Phytocoris dimidiatus Kirschb.,Kirschb.,Phytocoris,,dimidiatus,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,dimidiatus Kirschb.,4HKQJ,2011695,4HKQJ,2011695
-B2071:1:3,Phytocoris juniperi Frey,Frey,Phytocoris,,juniperi,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,juniperi Frey,4HKWM,4487479,4HKWM,4487479
-B2071:1:4,Phytocoris fieberi Bol.,Bol.,Phytocoris,,fieberi,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,fieberi Bol.,4HKSN,4487420,4HKSN,4487420
-B2071:1:5,Phytocoris miridioides Leth.,Leth.,Phytocoris,,miridioides,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,miridioides Leth.,4HL27,4487432,4HL27,4487432
-B2071:1:6,Phytocoris varipes Boh.,Boh.,Phytocoris,,varipes,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,varipes Boh.,4HLDP,2011614,4HLDP,2011614
-B2071:1:7,Phytocoris varipes var. exoletus Cost.,Cost.,Phytocoris,,varipes,exoletus,variety,,B2071:1,accepted,,,B2071:1:6,Phytocoris varipes Boh.,,,,,,,Phytocoris,,Phytocoris | Phytocoris varipes,varipes var. exoletus Cost.,,,,
-B2071:1:8,Phytocoris chicotei Bol.,Bol.,Phytocoris,,chicotei,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,chicotei Bol.,4HKMW,4487443,4HKMW,4487443
-B2071:1:9,Phytocoris citrinus Bol.,Bol.,Phytocoris,,citrinus,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,citrinus Bol.,4HKN9,4487433,4HKN9,4487433
-B2071:1:10,Phytocoris signoreti Perr.,Perr.,Phytocoris,,signoreti,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,signoreti Perr.,77HHZ,7944810,4HKZN,4487421
-B2071:1:11,Phytocoris delicatulus Bol.,Bol.,Phytocoris,,delicatulus,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,delicatulus Bol.,4HKPY,4487422,4HKPY,4487422
-B2071:1:12,Phytocoris albofasciatus Fieb.,Fieb.,Phytocoris,,albofasciatus,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,albofasciatus Fieb.,4HKHG,7699659,4HL23,4487415
-B2071:1:13,Phytocoris pallidus Ramb.,Ramb.,Phytocoris,,pallidus,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,pallidus Ramb.,4HL4M,9640441,ZD29,4487645
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2071:1:1,Phytocoris,,,,,,genus,,B2071:1,accepted,,,,,,,,,,,Phytocoris,,,Phytocoris,,CBS2C,2011610,CBS2C,2011610
+B2071:1:2,Phytocoris dimidiatus Kirschb.,Kirschb.,Phytocoris,,dimidiatus,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,dimidiatus Kirschb.,,4HKQJ,2011695,4HKQJ,2011695
+B2071:1:3,Phytocoris juniperi Frey,Frey,Phytocoris,,juniperi,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,juniperi Frey,,4HKWM,4487479,4HKWM,4487479
+B2071:1:4,Phytocoris fieberi Bol.,Bol.,Phytocoris,,fieberi,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,fieberi Bol.,,4HKSN,4487420,4HKSN,4487420
+B2071:1:5,Phytocoris miridioides Leth.,Leth.,Phytocoris,,miridioides,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,miridioides Leth.,,4HL27,4487432,4HL27,4487432
+B2071:1:6,Phytocoris varipes Boh.,Boh.,Phytocoris,,varipes,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,varipes Boh.,,4HLDP,2011614,4HLDP,2011614
+B2071:1:7,Phytocoris varipes var. exoletus Cost.,Cost.,Phytocoris,,varipes,exoletus,variety,,B2071:1,accepted,,,B2071:1:6,Phytocoris varipes Boh.,,,,,,,Phytocoris,,Phytocoris | Phytocoris varipes,varipes var. exoletus Cost.,,,,,
+B2071:1:8,Phytocoris chicotei Bol.,Bol.,Phytocoris,,chicotei,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,chicotei Bol.,,4HKMW,4487443,4HKMW,4487443
+B2071:1:9,Phytocoris citrinus Bol.,Bol.,Phytocoris,,citrinus,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,citrinus Bol.,,4HKN9,4487433,4HKN9,4487433
+B2071:1:10,Phytocoris signoreti Perr.,Perr.,Phytocoris,,signoreti,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,signoreti Perr.,,77HHZ,7944810,4HKZN,4487421
+B2071:1:11,Phytocoris delicatulus Bol.,Bol.,Phytocoris,,delicatulus,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,delicatulus Bol.,,4HKPY,4487422,4HKPY,4487422
+B2071:1:12,Phytocoris albofasciatus Fieb.,Fieb.,Phytocoris,,albofasciatus,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,albofasciatus Fieb.,,4HKHG,7699659,4HL23,4487415
+B2071:1:13,Phytocoris pallidus Ramb.,Ramb.,Phytocoris,,pallidus,,species,,B2071:1,accepted,,,B2071:1:1,Phytocoris,,,,,,,Phytocoris,,Phytocoris,pallidus Ramb.,,4HL4M,9640441,ZD29,4487645
