@@ -1,0 +1,9 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2379:1:1,Evarcha,,,,,,genus,,B2379:1,accepted,,,,,,,,,,,Evarcha,,,Evarcha,,CV6GV,2172716,CV6GV,2172716
+B2379:1:2,Evarcha arcuata (Clerck),(Clerck),Evarcha,,arcuata,,species,,B2379:1,accepted,,,B2379:1:1,Evarcha,,,,,,,Evarcha,,Evarcha,arcuata (Clerck),,3DGVN,2172846,3DGVN,2172846
+B2379:1:3,Hasarius arcuatus,,Hasarius,,arcuatus,,species,,B2379:1,synonym,B2379:1:2,Evarcha arcuata (Clerck),,,,,,,,,Evarcha,,Evarcha,Hasarius arcuatus,,,,,
+B2379:1:4,Evarcha falcata (Clerck),(Clerck),Evarcha,,falcata,,species,,B2379:1,accepted,,,B2379:1:1,Evarcha,,,,,,,Evarcha,,Evarcha,falcata (Clerck),,3DGWF,2172729,3DGWF,2172729
+B2379:1:5,Hasarius falcata,,Hasarius,,falcata,,species,,B2379:1,synonym,B2379:1:4,Evarcha falcata (Clerck),,,,,,,,,Evarcha,,Evarcha,Hasarius falcata,,,,,
+B2379:1:6,Evarcha laetabunda (C. L. Koch),(C. L. Koch),Evarcha,,laetabunda,,species,,B2379:1,accepted,,,B2379:1:1,Evarcha,,,,,,,Evarcha,,Evarcha,laetabunda (C. L. Koch),,3DGX3,2172721,3DGX3,2172721
+B2379:1:7,Hasarius laetabundus (C. L. Koch),(C. L. Koch),Hasarius,,laetabundus,,species,,B2379:1,synonym,B2379:1:6,Evarcha laetabunda (C. L. Koch),,,,,,,,,Evarcha,,Evarcha,Hasarius laetabundus (C. L. Koch),,,,,
+B2379:1:8,Evarcha michailovi Logunov,Logunov,Evarcha,,michailovi,,species,,B2379:1,accepted,,,B2379:1:1,Evarcha,,,,,,,Evarcha,,Evarcha,michailovi Logunov,,3DGX8,2172720,3DGX8,2172720

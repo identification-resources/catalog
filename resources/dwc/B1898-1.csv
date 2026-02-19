@@ -1,0 +1,15 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B1898:1:1,Tricladida,,,,,,order,,B1898:1,accepted,,,,,,,,Tricladida,,,,,,Tricladida,,B6L64,427,B6L64,427
+B1898:1:2,Terricola,,,,,,suborder,,B1898:1,accepted,,,B1898:1:1,Tricladida,,,,Tricladida,,,,,Tricladida,Terricola,,BFD6N,,BFD6N,
+B1898:1:3,Microplana,,,,,,genus,,B1898:1,accepted,,,B1898:1:2,Terricola,,,,Tricladida,,,Microplana,,Tricladida | Terricola,Microplana,,7PJFF,9090179,7PJFF,9090179
+B1898:1:4,"Microplana terrestris (O. F. Müller, 1773)","(O. F. Müller, 1773)",Microplana,,terrestris,,species,,B1898:1,accepted,,,B1898:1:3,Microplana,,,,Tricladida,,,Microplana,,Tricladida | Terricola | Microplana,"terrestris (O. F. Müller, 1773)",,433LY,11312941,433LY,4416151
+B1898:1:5,Paludicola,,,,,,suborder,,B1898:1,accepted,,,B1898:1:1,Tricladida,,,,Tricladida,,,,,Tricladida,Paludicola,,,,,
+B1898:1:6,Phagocata,,,,,,genus,,B1898:1,accepted,,,B1898:1:5,Paludicola,,,,Tricladida,,,Phagocata,,Tricladida | Paludicola,Phagocata,,7PR6Q,2502895,7PR6Q,2502895
+B1898:1:7,"Phagocata vitta Dugès, 1830","Dugès, 1830",Phagocata,,vitta,,species,,B1898:1,accepted,,,B1898:1:6,Phagocata,,,,Tricladida,,,Phagocata,,Tricladida | Paludicola | Phagocata,"vitta Dugès, 1830",,4FQ8Z,2502910,4FQ8Z,2502910
+B1898:1:8,Dendrocoelum,,,,,,genus,,B1898:1,accepted,,,B1898:1:5,Paludicola,,,,Tricladida,,,Dendrocoelum,,Tricladida | Paludicola,Dendrocoelum,,7NVP6,2502949,7NVP6,2502949
+B1898:1:9,Crenobia,,,,,,genus,,B1898:1,accepted,,,B1898:1:5,Paludicola,,,,Tricladida,,,Crenobia,,Tricladida | Paludicola,Crenobia,,7NTRW,4405623,7NTRW,4405623
+B1898:1:10,"Crenobia alpina (Dana, 1766)","(Dana, 1766)",Crenobia,,alpina,,species,,B1898:1,accepted,,,B1898:1:9,Crenobia,,,,Tricladida,,,Crenobia,,Tricladida | Paludicola | Crenobia,"alpina (Dana, 1766)",,ZCQL,4416390,ZCQL,4416390
+B1898:1:11,Dugesia,,,,,,genus,,B1898:1,accepted,,,B1898:1:5,Paludicola,,,,Tricladida,,,Dugesia,,Tricladida | Paludicola,Dugesia,,7NXPM,2502872,7NXPM,2502872
+B1898:1:12,"Dugesia gonocephala (Dugès, 1830)","(Dugès, 1830)",Dugesia,,gonocephala,,species,,B1898:1,accepted,,,B1898:1:11,Dugesia,,,,Tricladida,,,Dugesia,,Tricladida | Paludicola | Dugesia,"gonocephala (Dugès, 1830)",,6DPJD,2502875,6DPJD,2502875
+B1898:1:13,Polycelis,,,,,,genus,,B1898:1,accepted,,,B1898:1:5,Paludicola,,,,Tricladida,,,Polycelis,,Tricladida | Paludicola,Polycelis,,7PTGY,2502880,7PTGY,2502880
+B1898:1:14,"Polycelis felina (Dayell, 1814)","(Dayell, 1814)",Polycelis,,felina,,species,,B1898:1,accepted,,,B1898:1:13,Polycelis,,,,Tricladida,,,Polycelis,,Tricladida | Paludicola | Polycelis,"felina (Dayell, 1814)",,4L3KL,2502887,4L3KL,2502887

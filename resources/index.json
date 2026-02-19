@@ -10142,7 +10142,24 @@
       "MISSING_PARENT_TAXA"
     ],
     "id": "B1752:1",
-    "taxonCount": 5256
+    "taxonCount": 5255
+  },
+  "B1753:1": {
+    "levels": [
+      "family",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety",
+      "form",
+      "race"
+    ],
+    "flags": [
+      "MISSING_PARENT_TAXA"
+    ],
+    "id": "B1753:1",
+    "taxonCount": 5846
   },
   "B1763:1": {
     "levels": [
@@ -10190,6 +10207,42 @@
     ],
     "id": "B1765:1",
     "taxonCount": 2853
+  },
+  "B1766:1": {
+    "levels": [
+      "class",
+      "subclass",
+      "superorder",
+      "order",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species",
+      "subspecies",
+      "variety",
+      "form"
+    ],
+    "id": "B1766:1",
+    "taxonCount": 3813
+  },
+  "B1767:1": {
+    "levels": [
+      "class",
+      "subclass",
+      "superorder",
+      "order",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species",
+      "subspecies",
+      "variety",
+      "form"
+    ],
+    "id": "B1767:1",
+    "taxonCount": 3813
   },
   "B1769:1": {
     "levels": [
@@ -10644,6 +10697,16 @@
     ],
     "id": "B1890:1",
     "taxonCount": 455
+  },
+  "B1898:1": {
+    "levels": [
+      "order",
+      "suborder",
+      "genus",
+      "species"
+    ],
+    "id": "B1898:1",
+    "taxonCount": 14
   },
   "B2018:1": {
     "levels": [
@@ -12389,5 +12452,39 @@
     },
     "id": "B2375:3",
     "taxonCount": 3
+  },
+  "B2379:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Sleutel Noordwest-Europese soorten"
+      ],
+      "pages": "227-227"
+    },
+    "id": "B2379:1",
+    "taxonCount": 8
+  },
+  "B2381:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2381:1",
+    "taxonCount": 9
+  },
+  "B2382:1": {
+    "levels": [
+      "class",
+      "order",
+      "family",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2382:1",
+    "taxonCount": 195
   }
 }
