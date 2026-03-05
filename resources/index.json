@@ -12508,5 +12508,34 @@
     ],
     "id": "B2382:1",
     "taxonCount": 195
+  },
+  "B2397:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "group",
+      "species"
+    ],
+    "id": "B2397:1",
+    "taxonCount": 638
+  },
+  "B2400:1": {
+    "levels": [
+      "tribe",
+      "genus"
+    ],
+    "id": "B2400:1",
+    "taxonCount": 7
+  },
+  "B2401:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2401:1",
+    "taxonCount": 8
   }
 }
