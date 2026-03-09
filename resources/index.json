@@ -4888,6 +4888,39 @@
     "id": "B479:1",
     "taxonCount": 134
   },
+  "B480:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "females",
+        "queens"
+      ]
+    },
+    "id": "B480:1",
+    "taxonCount": 114
+  },
+  "B480:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "males"
+      ]
+    },
+    "id": "B480:2",
+    "taxonCount": 113
+  },
   "B481:1": {
     "levels": [
       "family",
@@ -11321,6 +11354,67 @@
     },
     "id": "B2217:4",
     "taxonCount": 285
+  },
+  "B2231:1": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "flags": [
+      "MISSING_SYNONYMS"
+    ],
+    "id": "B2231:1",
+    "taxonCount": 11
+  },
+  "B2231:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Liste der europäischen Formicidae"
+      ],
+      "pages": "237-244",
+      "key_type": [
+        "checklist"
+      ],
+      "taxon": [
+        "Formicidae"
+      ],
+      "region": [
+        "Europe"
+      ]
+    },
+    "id": "B2231:2",
+    "taxonCount": 621
+  },
+  "B2231:3": {
+    "levels": [
+      "genus",
+      "group",
+      "complex",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Liste der Arten der Gattung Formica L."
+      ],
+      "pages": "245-246",
+      "key_type": [
+        "checklist"
+      ],
+      "taxon": [
+        "Formica"
+      ],
+      "region": [
+        "-"
+      ]
+    },
+    "id": "B2231:3",
+    "taxonCount": 154
   },
   "B2236:1": {
     "levels": [
