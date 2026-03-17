@@ -12648,5 +12648,165 @@
     ],
     "id": "B2401:1",
     "taxonCount": 8
+  },
+  "B2406:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "aggregate",
+      "species"
+    ],
+    "catalog": {
+      "pages": "28-45",
+      "scope": [
+        "adults",
+        "females"
+      ]
+    },
+    "id": "B2406:1",
+    "taxonCount": 109
+  },
+  "B2406:2": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "aggregate",
+      "species"
+    ],
+    "catalog": {
+      "pages": "45-61",
+      "scope": [
+        "adults",
+        "males"
+      ]
+    },
+    "id": "B2406:2",
+    "taxonCount": 109
+  },
+  "B2407:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2407:1",
+    "taxonCount": 128
+  },
+  "B2408:1": {
+    "levels": [
+      "genus",
+      "group",
+      "species"
+    ],
+    "id": "B2408:1",
+    "taxonCount": 46
+  },
+  "B2409:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B2409:1",
+    "taxonCount": 33
+  },
+  "B2410:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "Bestimmungstabelle der Melitta-Arten in der Westpaläarktis. ♀♀"
+      ],
+      "pages": "98-101",
+      "taxon": [
+        "Melitta"
+      ],
+      "scope": [
+        "adults",
+        "females"
+      ]
+    },
+    "id": "B2410:1",
+    "taxonCount": 49
+  },
+  "B2410:2": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "Bestimmungstabelle der Melitta-Arten in der Westpaläarktis. ♂♂"
+      ],
+      "pages": "101-103",
+      "taxon": [
+        "Melitta"
+      ],
+      "scope": [
+        "adults",
+        "males"
+      ]
+    },
+    "id": "B2410:2",
+    "taxonCount": 51
+  },
+  "B2410:3": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "Bestimmungstabelle der Macropis-Arten in der Westpaläarktis"
+      ],
+      "pages": "111-112",
+      "taxon": [
+        "Macropis"
+      ],
+      "scope": [
+        "adults",
+        "females",
+        "males"
+      ]
+    },
+    "id": "B2410:3",
+    "taxonCount": 10
+  },
+  "B2410:4": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "Bestimmungstabelle der Dasypoda-Arten in der Westpaläarktis"
+      ],
+      "pages": "112-115",
+      "taxon": [
+        "Dasypoda"
+      ],
+      "scope": [
+        "adults",
+        "females",
+        "males"
+      ]
+    },
+    "id": "B2410:4",
+    "taxonCount": 87
+  },
+  "B2411:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "id": "B2411:1",
+    "taxonCount": 50
   }
 }
