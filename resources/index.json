@@ -4742,6 +4742,38 @@
     "id": "B461:2",
     "taxonCount": 2
   },
+  "B462:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "workers"
+      ]
+    },
+    "id": "B462:1",
+    "taxonCount": 207
+  },
+  "B462:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "queens"
+      ]
+    },
+    "id": "B462:2",
+    "taxonCount": 214
+  },
   "B464:1": {
     "levels": [
       "family",
@@ -11528,6 +11560,17 @@
     },
     "id": "B2245:2",
     "taxonCount": 288
+  },
+  "B2261:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species"
+    ],
+    "id": "B2261:1",
+    "taxonCount": 111
   },
   "B2266:1": {
     "levels": [
