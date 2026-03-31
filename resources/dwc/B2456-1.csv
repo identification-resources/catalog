@@ -1,0 +1,28 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2456:1:1,Decapoda,,,,,,order,,B2456:1,accepted,,,,,,,,Decapoda,,,,,,Decapoda,,33N,637,33N,637
+B2456:1:2,Dendrobranchiata,,,,,,suborder,,B2456:1,accepted,,,B2456:1:1,Decapoda,,,,Decapoda,,,,,Decapoda,Dendrobranchiata,,9XCS2,,9XCS2,
+B2456:1:3,Sergestoidea,,,,,,superfamily,,B2456:1,accepted,,,B2456:1:2,Dendrobranchiata,,,,Decapoda,,,,,Decapoda | Dendrobranchiata,Sergestoidea,,B6NJL,,B6NJL,
+B2456:1:4,Sergestidae,,,,,,family,,B2456:1,accepted,,,B2456:1:3,Sergestoidea,,,,Decapoda,Sergestidae,,,,Decapoda | Dendrobranchiata | Sergestoidea,Sergestidae,,9XBV7,7010,9XBV7,7010
+B2456:1:5,Eusergestes,,,,,,genus,,B2456:1,accepted,,,B2456:1:4,Sergestidae,,,,Decapoda,Sergestidae,,Eusergestes,,Decapoda | Dendrobranchiata | Sergestoidea | Sergestidae,Eusergestes,,9XDM3,4647117,9XDM3,4647117
+B2456:1:6,Eusergestes arcticus,,Eusergestes,,arcticus,,species,,B2456:1,accepted,,,B2456:1:5,Eusergestes,,,,Decapoda,Sergestidae,,Eusergestes,,Decapoda | Dendrobranchiata | Sergestoidea | Sergestidae | Eusergestes,Eusergestes arcticus,,9XL74,6454217,9XL74,6454217
+B2456:1:7,Pleocyemata,,,,,,suborder,,B2456:1,accepted,,,B2456:1:1,Decapoda,,,,Decapoda,,,,,Decapoda,Pleocyemata,,7NFJ8,,7NFJ8,
+B2456:1:8,Anomura,,,,,,infraorder,,B2456:1,accepted,,,B2456:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Anomura,,B3HFL,,B3HFL,
+B2456:1:9,Galatheoidea,,,,,,superfamily,,B2456:1,accepted,,,B2456:1:8,Anomura,,,,Decapoda,,,,,Decapoda | Pleocyemata | Anomura,Galatheoidea,,B3HFQ,,B3HFQ,
+B2456:1:10,Porcellanidae,,,,,,family,,B2456:1,accepted,,,B2456:1:9,Galatheoidea,,,,Decapoda,Porcellanidae,,,,Decapoda | Pleocyemata | Anomura | Galatheoidea,Porcellanidae,,B3HHL,8673,B3HHL,8673
+B2456:1:11,Pisidia,,,,,,genus,,B2456:1,accepted,,,B2456:1:10,Porcellanidae,,,,Decapoda,Porcellanidae,,Pisidia,,Decapoda | Pleocyemata | Anomura | Galatheoidea | Porcellanidae,Pisidia,,B7YS7,2222733,B7YS7,2222733
+B2456:1:12,Pisidia longicornis,,Pisidia,,longicornis,,species,,B2456:1,accepted,,,B2456:1:11,Pisidia,,,,Decapoda,Porcellanidae,,Pisidia,,Decapoda | Pleocyemata | Anomura | Galatheoidea | Porcellanidae | Pisidia,Pisidia longicornis,,B86VW,5178356,B86VW,5178356
+B2456:1:13,Porcellana,,,,,,genus,,B2456:1,accepted,,,B2456:1:10,Porcellanidae,,,,Decapoda,Porcellanidae,,Porcellana,,Decapoda | Pleocyemata | Anomura | Galatheoidea | Porcellanidae,Porcellana,,B3KD7,2222736,B3KD7,2222736
+B2456:1:14,Porcellana platycheles,,Porcellana,,platycheles,,species,,B2456:1,accepted,,,B2456:1:13,Porcellana,,,,Decapoda,Porcellanidae,,Porcellana,,Decapoda | Pleocyemata | Anomura | Galatheoidea | Porcellanidae | Porcellana,Porcellana platycheles,,B872N,5178358,B872N,5178358
+B2456:1:15,Lithodoidea,,,,,,superfamily,,B2456:1,accepted,,,B2456:1:8,Anomura,,,,Decapoda,,,,,Decapoda | Pleocyemata | Anomura,Lithodoidea,,B3HFT,,B3HFT,
+B2456:1:16,Lithodidae,,,,,,family,,B2456:1,accepted,,,B2456:1:15,Lithodoidea,,,,Decapoda,Lithodidae,,,,Decapoda | Pleocyemata | Anomura | Lithodoidea,Lithodidae,,B3FVW,8146,B3FVW,8146
+B2456:1:17,Lithodes,,,,,,genus,,B2456:1,accepted,,,B2456:1:16,Lithodidae,,,,Decapoda,Lithodidae,,Lithodes,,Decapoda | Pleocyemata | Anomura | Lithodoidea | Lithodidae,Lithodes,,B3GDY,2224342,B3GDY,2224342
+B2456:1:18,Lithodes maja,,Lithodes,,maja,,species,,B2456:1,accepted,,,B2456:1:17,Lithodes,,,,Decapoda,Lithodidae,,Lithodes,,Decapoda | Pleocyemata | Anomura | Lithodoidea | Lithodidae | Lithodes,Lithodes maja,,B3WGK,2224343,B3WGK,2224343
+B2456:1:19,Paralithodes,,,,,,genus,,B2456:1,accepted,,,B2456:1:16,Lithodidae,,,,Decapoda,Lithodidae,,Paralithodes,,Decapoda | Pleocyemata | Anomura | Lithodoidea | Lithodidae,Paralithodes,,B3GKK,2224354,B3GKK,2224354
+B2456:1:20,Paralithodes camtschaticus,,Paralithodes,,camtschaticus,,species,,B2456:1,accepted,,,B2456:1:19,Paralithodes,,,,Decapoda,Lithodidae,,Paralithodes,,Decapoda | Pleocyemata | Anomura | Lithodoidea | Lithodidae | Paralithodes,Paralithodes camtschaticus,,B3JCD,2224359,B3JCD,2224359
+B2456:1:21,Paguroidea,,,,,,superfamily,,B2456:1,accepted,,,B2456:1:8,Anomura,,,,Decapoda,,,,,Decapoda | Pleocyemata | Anomura,Paguroidea,,B3HFY,,B3HFY,
+B2456:1:22,Paguridae,,,,,,family,,B2456:1,accepted,,,B2456:1:21,Paguroidea,,,,Decapoda,Paguridae,,,,Decapoda | Pleocyemata | Anomura | Paguroidea,Paguridae,,B3FXX,4531,B3FXX,4531
+B2456:1:23,Astacidea,,,,,,infraorder,,B2456:1,accepted,,,B2456:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Astacidea,,7NFK5,,7NFK5,
+B2456:1:24,Axiidea,,,,,,infraorder,,B2456:1,accepted,,,B2456:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Axiidea,,BMJWS,,BMJWS,
+B2456:1:25,Brachyura,,,,,,infraorder,,B2456:1,accepted,,,B2456:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Brachyura,,B8WMW,,B8WMW,
+B2456:1:26,Caridea,,,,,,infraorder,,B2456:1,accepted,,,B2456:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Caridea,,9CK9N,,9CK9N,
+B2456:1:27,Gebiidea,,,,,,infraorder,,B2456:1,accepted,,,B2456:1:7,Pleocyemata,,,,Decapoda,,,,,Decapoda | Pleocyemata,Gebiidea,,BMJWV,,BMJWV,
