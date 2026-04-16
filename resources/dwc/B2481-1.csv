@@ -1,0 +1,19 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2481:1:1,"Lygus Hahn, 1833","Hahn, 1833",,,,,genus,,B2481:1,accepted,,,,,,,,,,,Lygus,,,"Lygus Hahn, 1833",,5HPQ,2010563,5HPQ,2010563
+B2481:1:2,"Lygus Hahn, 1833","Hahn, 1833",Lygus,,,,subgenus,,B2481:1,accepted,,,B2481:1:1,"Lygus Hahn, 1833",,,,,,,Lygus,Lygus,Lygus,"Lygus Hahn, 1833",,5HPQ,,5HPQ,
+B2481:1:3,"Lygocoris Reuter, 1875","Reuter, 1875",Lygus,Lygus,,,subgenus,,B2481:1,synonym,B2481:1:2,"Lygus Hahn, 1833",,,,,,,,,Lygus,Lygocoris,Lygus,"Lygocoris Reuter, 1875",,5HP7,,5HP7,
+B2481:1:4,"Apolygus China, 1941","China, 1941",Lygus,,,,subgenus,,B2481:1,accepted,,,B2481:1:1,"Lygus Hahn, 1833",,,,,,,Lygus,Apolygus,Lygus,"Apolygus China, 1941",,YYW,,YYW,
+B2481:1:5,"Neolygus Knight, 1917","Knight, 1917",Lygus,,,,subgenus,,B2481:1,accepted,,,B2481:1:1,"Lygus Hahn, 1833",,,,,,,Lygus,Neolygus,Lygus,"Neolygus Knight, 1917",,5ZVT,,5ZVT,
+B2481:1:6,"Stechus Distant, 1909","Distant, 1909",Lygus,,,,subgenus,,B2481:1,accepted,,,B2481:1:1,"Lygus Hahn, 1833",,,,,,,Lygus,Stechus,Lygus,"Stechus Distant, 1909",,,,,
+B2481:1:7,"Orthops Fieber, 1858","Fieber, 1858",,,,,genus,,B2481:1,accepted,,,,,,,,,,,Orthops,,,"Orthops Fieber, 1858",,63GVR,2010461,63GVR,2010461
+B2481:1:8,"Taylorilygus Leston, 1952","Leston, 1952",,,,,genus,,B2481:1,accepted,,,,,,,,,,,Taylorilygus,,,"Taylorilygus Leston, 1952",,645KC,2010927,645KC,2010927
+B2481:1:9,"Agnocoris Reuter, 1875","Reuter, 1875",,,,,genus,,B2481:1,accepted,,,,,,,,,,,Agnocoris,,,"Agnocoris Reuter, 1875",,629CM,2009317,629CM,2009317
+B2481:1:10,Pinalitus,,,,,,genus,new genus,B2481:1,accepted,,,,,,,,,,,Pinalitus,,,Pinalitus new genus,,6QLP,2010947,6QLP,2010947
+B2481:1:11,Salignus,,,,,,genus,new genus,B2481:1,accepted,,,,,,,,,,,Salignus,,,Salignus new genus,,643MC,2012014,643MC,2012014
+B2481:1:12,"Proba Distant, 1884","Distant, 1884",,,,,genus,,B2481:1,accepted,,,,,,,,,,,Proba,,,"Proba Distant, 1884",,6W2F,2011313,6W2F,2011313
+B2481:1:13,"Paralygus Reuter, 1905","Reuter, 1905",,,,,genus,,B2481:1,synonym,B2481:1:12,"Proba Distant, 1884",,,,,,,,,Paralygus,,,"Paralygus Reuter, 1905",,,4776417,,4776417
+B2481:1:14,"Sabactus Distant, 1910","Distant, 1910",,,,,genus,,B2481:1,accepted,,,,,,,,,,,Sabactus,,,"Sabactus Distant, 1910",,7BCC,4771008,7BCC,4771008
+B2481:1:15,"Dagbertus Distant, 1904","Distant, 1904",,,,,genus,,B2481:1,accepted,,,,,,,,,,,Dagbertus,,,"Dagbertus Distant, 1904",,3ZG7,2011341,3ZG7,2011341
+B2481:1:16,"Liocoris Fieber, 1858","Fieber, 1858",,,,,genus,,B2481:1,accepted,,,,,,,,,,,Liocoris,,,"Liocoris Fieber, 1858",,5F2N,3266410,5F2N,3266410
+B2481:1:17,"Exolygus Wagner, 1949","Wagner, 1949",,,,,genus,,B2481:1,synonym,B2481:1:16,"Liocoris Fieber, 1858",,,,,,,,,Exolygus,,,"Exolygus Wagner, 1949",,,4776524,,4776524
+B2481:1:18,"Cyphodema Fieber, 1858","Fieber, 1858",,,,,genus,,B2481:1,accepted,,,,,,,,,,,Cyphodema,,,"Cyphodema Fieber, 1858",,3YP4,4404430,3YP4,4404430

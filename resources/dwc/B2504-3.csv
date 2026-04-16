@@ -1,0 +1,9 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2504:3:1,Miroideae,,,,,,superfamily,,B2504:3,accepted,,,,,,,,,,,,,,Miroideae,,,,,
+B2504:3:2,Dipsocoridae,,,,,,family,,B2504:3,accepted,,,B2504:3:1,Miroideae,,,,,Dipsocoridae,,,,Miroideae,Dipsocoridae,,9CM,4309,9CM,4309
+B2504:3:3,Ceratocombidae,,,,,,family,,B2504:3,synonym,B2504:3:2,Dipsocoridae,,,,,,,Ceratocombidae,,,,Miroideae,Ceratocombidae,,B8VBT,4307,B8VBT,4307
+B2504:3:4,Miridae,,,,,,family,,B2504:3,accepted,,,B2504:3:1,Miroideae,,,,,Miridae,,,,Miroideae,Miridae,,624LX,4319,624LX,4319
+B2504:3:5,Anthocoridae,,,,,,family,,B2504:3,accepted,,,B2504:3:1,Miroideae,,,,,Anthocoridae,,,,Miroideae,Anthocoridae,,BXWFM,7876,BXWFM,7876
+B2504:3:6,Polyctenidae,,,,,,family,,B2504:3,accepted,,,B2504:3:1,Miroideae,,,,,Polyctenidae,,,,Miroideae,Polyctenidae,,7NKL2,9654,7NKL2,9654
+B2504:3:7,Clinocoridae,,,,,,family,,B2504:3,accepted,,,B2504:3:1,Miroideae,,,,,Clinocoridae,,,,Miroideae,Clinocoridae,,,,,
+B2504:3:8,Aepophilidae,,,,,,family,,B2504:3,accepted,,,B2504:3:1,Miroideae,,,,,Aepophilidae,,,,Miroideae,Aëpophilidae,,63R,6099848,63R,6099848

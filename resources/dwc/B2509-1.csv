@@ -1,0 +1,7 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2509:1:1,Cyminae Stal.,Stal.,,,,,subfamily,,B2509:1,accepted,,,,,,,,,,Cyminae,,,,Cyminae Stal.,,C6VGS,,C6VGS,
+B2509:1:2,Cymaria Stal.,Stal.,,,,,tribe,,B2509:1,accepted,,,B2509:1:1,Cyminae Stal.,,,,,,Cyminae,,,Cyminae,Cymaria Stal.,,C6V62,,C6VGS,
+B2509:1:3,Cymodema Spin.,Spin.,,,,,genus,,B2509:1,accepted,,,B2509:1:2,Cymaria Stal.,,,,,,Cyminae,Cymodema,,Cyminae | Cymaria,Cymodema Spin.,,8NNM6,2008482,8NNM6,2008482
+B2509:1:4,Karamania,,,,,,genus,n. g.,B2509:1,accepted,,,B2509:1:2,Cymaria Stal.,,,,,,Cyminae,Karamania,,Cyminae | Cymaria,Karamania n. g.,,8PPTN,4781014,8NM4K,2007619
+B2509:1:5,Cymus Hhn,Hhn,,,,,genus,,B2509:1,accepted,,,B2509:1:2,Cymaria Stal.,,,,,,Cyminae,Cymus,,Cyminae | Cymaria,Cymus Hhn,,8NNMJ,11346086,8NQK7,2007669
+B2509:1:6,Ischnorhyncharia Stal.,Stal.,,,,,tribe,,B2509:1,accepted,,,B2509:1:1,Cyminae Stal.,,,,,,Cyminae,,,Cyminae,Ischnorhyncharia Stal.,,CCN3W,,8NKWR,

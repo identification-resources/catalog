@@ -1,0 +1,14 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2504:5:1,Cimicidae,,,,,,family,,B2504:5,accepted,,,,,,,,,Cimicidae,,,,,Cimicidae,,7NGSF,9648,7NGSF,9648
+B2504:5:2,Pentatomidae Lethierry & Severin,Lethierry & Severin,,,,,family,(pt.),B2504:5,proparte synonym,B2504:5:1,Cimicidae,,,,,,,Pentatomidae,,,,,Pentatomidae Lethierry & Severin (pt.),,BXWJD,9650,BXWJD,9650
+B2504:5:3,Cimicinae,,,,,,subfamily,,B2504:5,accepted,,,B2504:5:1,Cimicidae,,,,,Cimicidae,Cimicinae,,,Cimicidae,Cimicinae,,7NLPC,,7NLPC,
+B2504:5:4,Asopinae,,,,,,subfamily,,B2504:5,synonym,B2504:5:3,Cimicinae,,,,,,,Cimicidae,Asopinae,,,Cimicidae,Asopinae,,,,,
+B2504:5:5,Tessaratominae,,,,,,subfamily,,B2504:5,accepted,,,B2504:5:1,Cimicidae,,,,,Cimicidae,Tessaratominae,,,Cimicidae,Tessaratominae,,,,,
+B2504:5:6,Coptosominae,,,,,,subfamily,,B2504:5,accepted,,,B2504:5:1,Cimicidae,,,,,Cimicidae,Coptosominae,,,Cimicidae,Coptosominae,,,,,
+B2504:5:7,Plataspinae,,,,,,subfamily,,B2504:5,synonym,B2504:5:6,Coptosominae,,,,,,,Cimicidae,Plataspinae,,,Cimicidae,Plataspinae,,,,,
+B2504:5:8,Cyrtocroinae,,,,,,subfamily,,B2504:5,accepted,,,B2504:5:1,Cimicidae,,,,,Cimicidae,Cyrtocroinae,,,Cimicidae,Cyrtocroinae,,,,,
+B2504:5:9,Scutellernae,,,,,,subfamily,,B2504:5,accepted,,,B2504:5:1,Cimicidae,,,,,Cimicidae,Scutellernae,,,Cimicidae,Scutellernae,,,,,
+B2504:5:10,Phloeinae,,,,,,subfamily,,B2504:5,accepted,,,B2504:5:1,Cimicidae,,,,,Cimicidae,Phloeinae,,,Cimicidae,Phloeinae,,,,,
+B2504:5:11,Dinidorinae,,,,,,subfamily,,B2504:5,accepted,,,B2504:5:1,Cimicidae,,,,,Cimicidae,Dinidorinae,,,Cimicidae,Dinidorinae,,JFX,,JFX,
+B2504:5:12,Pentatominae,,,,,,subfamily,,B2504:5,accepted,,,B2504:5:1,Cimicidae,,,,,Cimicidae,Pentatominae,,,Cimicidae,Pentatominae,,,,,
+B2504:5:13,Phyllocephalinae,,,,,,subfamily,,B2504:5,accepted,,,B2504:5:1,Cimicidae,,,,,Cimicidae,Phyllocephalinae,,,Cimicidae,Phyllocephalinae,,,,,
