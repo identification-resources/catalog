@@ -1,0 +1,8 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2568:1:1,Apines Dallas,Dallas,,,,,genus,,B2568:1,accepted,,,,,,,,,,,Apines,,,Apines Dallas,,,4782096,,4782096
+B2568:1:2,"Actuarius Distant, 1900","Distant, 1900",,,,,genus,,B2568:1,accepted,,,,,,,,,,,Actuarius,,,"Actuarius Distant, 1900",,,4773082,,4773082
+B2568:1:3,"Actuarius albonotatus (Westwod., 1837)","(Westwod., 1837)",Actuarius,,albonotatus,,species,,B2568:1,accepted,,,B2568:1:2,"Actuarius Distant, 1900",,,,,,,Actuarius,,Actuarius,"albonotatus (Westwod., 1837)",,,,,
+B2568:1:4,"Pentatoma albonotata Westw., 1837","Westw., 1837",Pentatoma,,albonotata,,species,,B2568:1,synonym,B2568:1:3,"Actuarius albonotatus (Westwod., 1837)",,,,,,,,,Actuarius,,Actuarius,"Pentatoma albonotata Westw., 1837",,,,,
+B2568:1:5,Actuarius satrapes Oshanin,Oshanin,Actuarius,,satrapes,,species,sp. nov.,B2568:1,accepted,,,B2568:1:2,"Actuarius Distant, 1900",,,,,,,Actuarius,,Actuarius,satrapes Oshanin sp. nov.,,,,,
+B2568:1:6,Solenocoris,,,,,,genus,n. gen.,B2568:1,accepted,,,,,,,,,,,Solenocoris,,,Solenocoris n. gen.,,,4774927,,4774927
+B2568:1:7,Solenocoris zarudnyi Oshanin,Oshanin,Solenocoris,,zarudnyi,,species,,B2568:1,accepted,,,B2568:1:6,Solenocoris,,,,,,,Solenocoris,,Solenocoris,zarudnyi Oshanin,,,,,

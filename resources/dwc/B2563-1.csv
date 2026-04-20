@@ -1,0 +1,11 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2563:1:1,Cimicinae,,,,,,subfamily,,B2563:1,accepted,,,,,,,,,,Cimicinae,,,,Cimicinae,,7NLPC,,7NLPC,
+B2563:1:2,Cimex L.,L.,,,,,genus,,B2563:1,accepted,,,B2563:1:1,Cimicinae,,,,,,Cimicinae,Cimex,,Cimicinae,Cimex L.,,7NSX3,2007745,7NSX3,2007745
+B2563:1:3,Clinocoris Fall.,Fall.,,,,,genus,,B2563:1,synonym,B2563:1:2,Cimex L.,,,,,,,,Cimicinae,Clinocoris,,Cimicinae,Clinocoris Fall.,,7NT4Y,6007486,7NSX3,2007745
+B2563:1:4,Cimex lectularius L.,L.,Cimex,,lectularius,,species,,B2563:1,accepted,,,B2563:1:2,Cimex L.,,,,,,Cimicinae,Cimex,,Cimicinae | Cimex,lectularius L.,,7SBMG,2021062,7SBMG,2021062
+B2563:1:5,Cimex columbarius Jen.,Jen.,Cimex,,columbarius,,species,,B2563:1,accepted,,,B2563:1:2,Cimex L.,,,,,,Cimicinae,Cimex,,Cimicinae | Cimex,columbarius Jen.,,7SBLR,4487131,7SBLR,4487131
+B2563:1:6,Cimex improvisus Reut.,Reut.,Cimex,,improvisus,,species,,B2563:1,accepted,,,B2563:1:2,Cimex L.,,,,,,Cimicinae,Cimex,,Cimicinae | Cimex,improvisus Reut.,,,,,
+B2563:1:7,Cimex pipistrelli Jen.,Jen.,Cimex,,pipistrelli,,species,,B2563:1,accepted,,,B2563:1:2,Cimex L.,,,,,,Cimicinae,Cimex,,Cimicinae | Cimex,pipistrelli Jen.,,7SBML,4487133,7SBML,4487133
+B2563:1:8,Cimex dissimilis Horv.,Horv.,Cimex,,dissimilis,,species,,B2563:1,accepted,,,B2563:1:2,Cimex L.,,,,,,Cimicinae,Cimex,,Cimicinae | Cimex,dissimilis Horv.,,7SBLT,4487134,7SBLT,4487134
+B2563:1:9,Oeciacus Stål.,Stål.,,,,,genus,,B2563:1,accepted,,,B2563:1:1,Cimicinae,,,,,,Cimicinae,Oeciacus,,Cimicinae,Oeciacus Stål.,,7PN2L,2021052,7NSX3,2007745
+B2563:1:10,Oeciacus hirundinis Jen.,Jen.,Oeciacus,,hirundinis,,species,,B2563:1,accepted,,,B2563:1:9,Oeciacus Stål.,,,,,,Cimicinae,Oeciacus,,Cimicinae | Oeciacus,hirundinis Jen.,,7W53P,11355062,7SBM8,2021054

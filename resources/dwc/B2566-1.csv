@@ -1,0 +1,10 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2566:1:1,Ploiaria Scop. Reut.,Scop. Reut.,,,,,genus,,B2566:1,accepted,,,,,,,,,,,Ploiaria,,,Ploiaria Scop. Reut.,,6T3N,2008557,6T3N,2008557
+B2566:1:2,Emesodomea Spin.,Spin.,,,,,genus,,B2566:1,synonym,B2566:1:1,Ploiaria Scop. Reut.,,,,,,,,,Emesodomea,,,Emesodomea Spin.,,,,,
+B2566:1:3,Cerascopus Heinek.,Heinek.,,,,,genus,,B2566:1,synonym,B2566:1:1,Ploiaria Scop. Reut.,,,,,,,,,Cerascopus,,,Cerascopus Heinek.,,,4774194,,2008557
+B2566:1:4,Ploiaria grassator Puton,Puton,Ploiaria,,grassator,,species,,B2566:1,accepted,,,B2566:1:1,Ploiaria Scop. Reut.,,,,,,,Ploiaria,,Ploiaria,grassator Puton,,,,,4487061
+B2566:1:5,Ploiaria gutturalis,,Ploiaria,,gutturalis,,species,n. sp.,B2566:1,accepted,,,B2566:1:1,Ploiaria Scop. Reut.,,,,,,,Ploiaria,,Ploiaria,gutturalis n. sp.,,4KHNX,8772890,4KHNX,8772890
+B2566:1:6,Ploiaria domestica Scopoli,Scopoli,Ploiaria,,domestica,,species,,B2566:1,accepted,,,B2566:1:1,Ploiaria Scop. Reut.,,,,,,,Ploiaria,,Ploiaria,domestica Scopoli,,4KHNF,5152559,4KHNF,5152559
+B2566:1:7,Ploiaria canariensis,,Ploiaria,,canariensis,,species,n. sp.,B2566:1,accepted,,,B2566:1:1,Ploiaria Scop. Reut.,,,,,,,Ploiaria,,Ploiaria,canariensis n. sp.,,,,,
+B2566:1:8,Ploiaria abrupta,,Ploiaria,,abrupta,,species,n. sp.,B2566:1,accepted,,,B2566:1:1,Ploiaria Scop. Reut.,,,,,,,Ploiaria,,Ploiaria,abrupta n. sp.,,4KHMB,9719130,4KHMB,9719130
+B2566:1:9,Ploiaria putoni,,Ploiaria,,putoni,,species,n. sp.,B2566:1,accepted,,,B2566:1:1,Ploiaria Scop. Reut.,,,,,,,Ploiaria,,Ploiaria,Putoni n. sp.,,4KHQG,7420531,4KHQG,7420531

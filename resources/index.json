@@ -13361,7 +13361,7 @@
     "catalog": {
       "pages": "XXII-XXIII",
       "taxon": [
-        "Cimicoideae"
+        "Cimicoidea"
       ]
     },
     "id": "B2504:1",
@@ -13375,7 +13375,7 @@
     "catalog": {
       "pages": "XXIII-XXIII",
       "taxon": [
-        "Nepoideae"
+        "Nepoidea"
       ]
     },
     "id": "B2504:2",
@@ -13389,7 +13389,7 @@
     "catalog": {
       "pages": "XXIII-XXIV",
       "taxon": [
-        "Miroideae"
+        "Miroidea"
       ]
     },
     "id": "B2504:3",
@@ -13403,7 +13403,7 @@
     "catalog": {
       "pages": "XXIV-XXIV",
       "taxon": [
-        "Notonectoideae"
+        "Notonectoidea"
       ]
     },
     "id": "B2504:4",
@@ -13443,6 +13443,14 @@
       "genus"
     ],
     "id": "B2509:1",
+    "taxonCount": 6
+  },
+  "B2511:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2511:1",
     "taxonCount": 6
   },
   "B2512:1": {
@@ -13510,5 +13518,286 @@
     ],
     "id": "B2515:1",
     "taxonCount": 5
+  },
+  "B2517:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2517:1",
+    "taxonCount": 8
+  },
+  "B2519:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus"
+    ],
+    "id": "B2519:1",
+    "taxonCount": 49
+  },
+  "B2520:1": {
+    "levels": [
+      "order",
+      "family"
+    ],
+    "id": "B2520:1",
+    "taxonCount": 31
+  },
+  "B2521:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "id": "B2521:1",
+    "taxonCount": 31
+  },
+  "B2522:1": {
+    "levels": [
+      "genus",
+      "species",
+      "form"
+    ],
+    "id": "B2522:1",
+    "taxonCount": 16
+  },
+  "B2537:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2537:1",
+    "taxonCount": 17
+  },
+  "B2547:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B2547:1",
+    "taxonCount": 5
+  },
+  "B2548:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B2548:1",
+    "taxonCount": 3
+  },
+  "B2552:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2552:1",
+    "taxonCount": 11
+  },
+  "B2553:1": {
+    "levels": [
+      "family",
+      "subfamily"
+    ],
+    "id": "B2553:1",
+    "taxonCount": 6
+  },
+  "B2554:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "females"
+      ]
+    },
+    "id": "B2554:1",
+    "taxonCount": 23
+  },
+  "B2554:2": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "scope": [
+        "females"
+      ]
+    },
+    "id": "B2554:2",
+    "taxonCount": 33
+  },
+  "B2556:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2556:1",
+    "taxonCount": 6
+  },
+  "B2557:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2557:1",
+    "taxonCount": 6
+  },
+  "B2558:1": {
+    "levels": [
+      "family",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2558:1",
+    "taxonCount": 53
+  },
+  "B2559:1": {
+    "levels": [
+      "family",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2559:1",
+    "taxonCount": 38
+  },
+  "B2560:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "65-65",
+      "taxon": [
+        "Corizus"
+      ]
+    },
+    "id": "B2560:1",
+    "taxonCount": 2
+  },
+  "B2560:2": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "65-67",
+      "taxon": [
+        "Rhopalus"
+      ]
+    },
+    "id": "B2560:2",
+    "taxonCount": 13
+  },
+  "B2560:3": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "67-68",
+      "taxon": [
+        "Myrmus"
+      ]
+    },
+    "id": "B2560:3",
+    "taxonCount": 2
+  },
+  "B2560:4": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "68-68",
+      "taxon": [
+        "Chorosoma"
+      ]
+    },
+    "id": "B2560:4",
+    "taxonCount": 2
+  },
+  "B2561:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "variety"
+    ],
+    "id": "B2561:1",
+    "taxonCount": 77
+  },
+  "B2562:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "variety"
+    ],
+    "id": "B2562:1",
+    "taxonCount": 77
+  },
+  "B2563:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "id": "B2563:1",
+    "taxonCount": 10
+  },
+  "B2565:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B2565:1",
+    "taxonCount": 7
+  },
+  "B2566:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2566:1",
+    "taxonCount": 9
+  },
+  "B2567:1": {
+    "levels": [
+      "tribe"
+    ],
+    "catalog": {
+      "target_taxa": [
+        "tribe"
+      ]
+    },
+    "id": "B2567:1",
+    "taxonCount": 3
+  },
+  "B2567:2": {
+    "levels": [
+      "genus"
+    ],
+    "id": "B2567:2",
+    "taxonCount": 14
+  },
+  "B2568:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2568:1",
+    "taxonCount": 7
   }
 }

@@ -1,0 +1,17 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2522:1:1,Eurydema Lap.,Lap.,,,,,genus,,B2522:1,accepted,,,,,,,,,,,Eurydema,,,Eurydema Lap.,,,8781759,,8781759
+B2522:1:2,Eurydema dominulus Scop.,Scop.,Eurydema,,dominulus,,species,,B2522:1,accepted,,,B2522:1:1,Eurydema Lap.,,,,,,,Eurydema,,Eurydema,dominulus Scop.,,,4485896,,4485896
+B2522:1:3,Eurydema dominulus f. immaculata Stich.,Stich.,Eurydema,,dominulus,immaculata,form,,B2522:1,accepted,,,B2522:1:2,Eurydema dominulus Scop.,,,,,,,Eurydema,,Eurydema | Eurydema dominulus,f. immaculata Stich.,,,,,
+B2522:1:4,Eurydema dominulus f. schirmeri Schum.,Schum.,Eurydema,,dominulus,schirmeri,form,,B2522:1,accepted,,,B2522:1:2,Eurydema dominulus Scop.,,,,,,,Eurydema,,Eurydema | Eurydema dominulus,f. schirmeri Schum.,,,,,
+B2522:1:5,Eurydema ventrale Klt.,Klt.,Eurydema,,ventrale,,species,,B2522:1,accepted,,,B2522:1:1,Eurydema Lap.,,,,,,,Eurydema,,Eurydema,ventrale Klt.,,,4485895,,4485895
+B2522:1:6,Eurydema ornata L.,L.,Eurydema,,ornata,,species,,B2522:1,synonym,B2522:1:5,Eurydema ventrale Klt.,,,,,,,,,Eurydema,,Eurydema,ornata L.,,,4485906,,4485906
+B2522:1:-Infinity,Eurydema ornata,,Eurydema,,ornata,,species,auct. nec L.,B2522:1,misapplied,B2522:1:6,Eurydema ornata L.,,,,,,,,,Eurydema,,Eurydema,ornata auct. nec L.,,,4485906,,4485906
+B2522:1:7,Eurydema fieberi Fieb.,Fieb.,Eurydema,,fieberi,,species,,B2522:1,accepted,,,B2522:1:1,Eurydema Lap.,,,,,,,Eurydema,,Eurydema,fieberi Fieb.,,,4408056,,4408056
+B2522:1:8,Eurydema ornata L.,L.,Eurydema,,ornata,,species,,B2522:1,accepted,,,B2522:1:1,Eurydema Lap.,,,,,,,Eurydema,,Eurydema,ornata L.,,,4485906,,4485906
+B2522:1:9,Eurydema festiva L.,L.,Eurydema,,festiva,,species,,B2522:1,synonym,B2522:1:8,Eurydema ornata L.,,,,,,,,,Eurydema,,Eurydema,festiva L.,,,11039726,,4485896
+B2522:1:10,Eurydema ornata f. decorata H. S.,H. S.,Eurydema,,ornata,decorata,form,,B2522:1,accepted,,,B2522:1:8,Eurydema ornata L.,,,,,,,Eurydema,,Eurydema | Eurydema ornata,f. decorata H. S.,,,,,
+B2522:1:11,Eurydema ornata f. picta H. S.,H. S.,Eurydema,,ornata,picta,form,,B2522:1,accepted,,,B2522:1:8,Eurydema ornata L.,,,,,,,Eurydema,,Eurydema | Eurydema ornata,f. picta H. S.,,,,,
+B2522:1:12,Eurydema ornata f. christophi Jak.,Jak.,Eurydema,,ornata,christophi,form,,B2522:1,accepted,,,B2522:1:8,Eurydema ornata L.,,,,,,,Eurydema,,Eurydema | Eurydema ornata,f. christophi Jak.,"{""identifiable"":false}",,,,
+B2522:1:13,Eurydema ornata f. simplex Rey,Rey,Eurydema,,ornata,simplex,form,,B2522:1,accepted,,,B2522:1:8,Eurydema ornata L.,,,,,,,Eurydema,,Eurydema | Eurydema ornata,f. simplex Rey,"{""identifiable"":false}",,,,
+B2522:1:14,Eurydema ornata f. simplicissima Rey,Rey,Eurydema,,ornata,simplicissima,form,,B2522:1,accepted,,,B2522:1:8,Eurydema ornata L.,,,,,,,Eurydema,,Eurydema | Eurydema ornata,f. simplicissima Rey,"{""identifiable"":false}",,,,
+B2522:1:15,Eurydema oleracea L.,L.,Eurydema,,oleracea,,species,,B2522:1,accepted,,,B2522:1:1,Eurydema Lap.,,,,,,,Eurydema,,Eurydema,oleracea L.,,,4485898,,4485898
