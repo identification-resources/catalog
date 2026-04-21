@@ -13799,5 +13799,62 @@
     ],
     "id": "B2568:1",
     "taxonCount": 7
+  },
+  "B2569:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "form"
+    ],
+    "id": "B2569:1",
+    "taxonCount": 550
+  },
+  "B2570:1": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "catalog": {
+      "title": [
+        "Key to genera of Scutelleridae of Russia (based on Vinokurov et al. 1988)"
+      ],
+      "pages": "505-505",
+      "taxon": [
+        "Scutelleridae"
+      ],
+      "target_taxa": [
+        "genus"
+      ]
+    },
+    "id": "B2570:1",
+    "taxonCount": 8
+  },
+  "B2570:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to species of Eurygaster in Russia"
+      ],
+      "pages": "505-506"
+    },
+    "id": "B2570:2",
+    "taxonCount": 16
+  },
+  "B2571:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2571:1",
+    "taxonCount": 4
   }
 }
