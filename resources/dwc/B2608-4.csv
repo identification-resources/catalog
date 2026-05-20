@@ -1,0 +1,33 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2608:4:1,Phimodera,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Phimodera,,,Phimodera,,,2079352,,2079352
+B2608:4:2,Phimodera nodicollis Burm.,Burm.,Phimodera,,nodicollis,,species,,B2608:4,accepted,,,B2608:4:1,Phimodera,,,,,,,Phimodera,,Phimodera,nodicollis Burm.,,,,,
+B2608:4:3,Odontotarsus,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Odontotarsus,,,Odontotarsus,,,4486008,,4486008
+B2608:4:4,Odontotarsus robustus Jak.,Jak.,Odontotarsus,,robustus,,species,,B2608:4,accepted,,,B2608:4:3,Odontotarsus,,,,,,,Odontotarsus,,Odontotarsus,robustus Jak.,,,4486013,,4486013
+B2608:4:5,Odontotarsus purpureolineatus Rossi,Rossi,Odontotarsus,,purpureolineatus,,species,,B2608:4,accepted,,,B2608:4:3,Odontotarsus,,,,,,,Odontotarsus,,Odontotarsus,purpureolineatus Rossi,,,4486022,,4486022
+B2608:4:6,Eurygaster,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Eurygaster,,,Eurygaster,,BXWJH,2079334,BYMGM,2079334
+B2608:4:7,Eurygaster austriacus Schrck.,Schrck.,Eurygaster,,austriacus,,species,,B2608:4,accepted,,,B2608:4:6,Eurygaster,,,,,,,Eurygaster,,Eurygaster,austriacus Schrck.,,,5758791,,5758791
+B2608:4:8,Eurygaster integriceps Put.,Put.,Eurygaster,,integriceps,,species,,B2608:4,accepted,,,B2608:4:6,Eurygaster,,,,,,,Eurygaster,,Eurygaster,integriceps Put.,"{""indistinguishableFrom"":[""B2608:4:9""]}",,9157433,,9157433
+B2608:4:9,Eurygaster maura L.,L.,Eurygaster,,maura,,species,,B2608:4,accepted,,,B2608:4:6,Eurygaster,,,,,,,Eurygaster,,Eurygaster,maura L.,"{""indistinguishableFrom"":[""B2608:4:8""]}",,5758789,,5758789
+B2608:4:10,Aelia,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Aelia,,,Aelia,,,2079121,,2079121
+B2608:4:11,Aelia acuminata L.,L.,Aelia,,acuminata,,species,,B2608:4,accepted,,,B2608:4:10,Aelia,,,,,,,Aelia,,Aelia,acuminata L.,,,2079123,,2079123
+B2608:4:12,Aelia rostrata Boh.,Boh.,Aelia,,rostrata,,species,,B2608:4,accepted,,,B2608:4:10,Aelia,,,,,,,Aelia,,Aelia,rostrata Boh.,,,7906393,,7906393
+B2608:4:13,Eurydema Lap.,Lap.,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Eurydema,,,Eurydema Lap.,,,8781759,,8781759
+B2608:4:14,Stollia,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Stollia,,,Stollia,,8NZLC,3264996,8NMS3,1404162
+B2608:4:15,Stollia aenea Scop.,Scop.,Stollia,,aenea,,species,,B2608:4,accepted,,,B2608:4:14,Stollia,,,,,,,Stollia,,Stollia,aenea Scop.,,,12339238,,4485955
+B2608:4:16,Stollia inconspicuus H.-S.,H.-S.,Stollia,,inconspicuus,,species,,B2608:4,accepted,,,B2608:4:14,Stollia,,,,,,,Stollia,,Stollia,inconspicuus H.-S.,,,12377207,,2078842
+B2608:4:17,Palomena,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Palomena,,,Palomena,,,4406712,,4406712
+B2608:4:18,Palomena prasina L.,L.,Palomena,,prasina,,species,,B2608:4,accepted,,,B2608:4:17,Palomena,,,,,,,Palomena,,Palomena,prasina L.,,,4485776,,4485776
+B2608:4:19,Graphosoma,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Graphosoma,,,Graphosoma,,,4405318,,4405318
+B2608:4:20,Graphosoma italicum Müll.,Müll.,Graphosoma,,italicum,,species,,B2608:4,accepted,,,B2608:4:19,Graphosoma,,,,,,,Graphosoma,,Graphosoma,italicum Müll.,,,7437802,,7437802
+B2608:4:21,Piezodorus,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Piezodorus,,,Piezodorus,,,2078820,,2078820
+B2608:4:22,Piezodorus lituratus Fieb.,Fieb.,Piezodorus,,lituratus,,species,,B2608:4,accepted,,,B2608:4:21,Piezodorus,,,,,,,Piezodorus,,Piezodorus,lituratus Fieb.,,,2078821,,2078821
+B2608:4:23,Codophila,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Codophila,,,Codophila,,,2078906,,2078906
+B2608:4:24,Codophila varia F.,F.,Codophila,,varia,,species,,B2608:4,accepted,,,B2608:4:23,Codophila,,,,,,,Codophila,,Codophila,varia F.,,,2078908,,9660344
+B2608:4:25,Dolycoris,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Dolycoris,,,Dolycoris,,,4406875,,4406875
+B2608:4:26,Dolycoris baccarum L.,L.,Dolycoris,,baccarum,,species,,B2608:4,accepted,,,B2608:4:25,Dolycoris,,,,,,,Dolycoris,,Dolycoris,baccarum L.,,,4485824,,4485824
+B2608:4:27,Staria,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Staria,,,Staria,,,4407458,,4407458
+B2608:4:28,Staria lunata Hahn.,Hahn.,Staria,,lunata,,species,,B2608:4,accepted,,,B2608:4:27,Staria,,,,,,,Staria,,Staria,lunata Hahn.,,,4485787,,4485787
+B2608:4:29,Carpocoris,,,,,,genus,,B2608:4,accepted,,,,,,,,,,,Carpocoris,,,Carpocoris,,,4405367,,4405367
+B2608:4:30,Carpocoris lunulatus Goeze,Goeze,Carpocoris,,lunulatus,,species,,B2608:4,accepted,,,B2608:4:29,Carpocoris,,,,,,,Carpocoris,,Carpocoris,lunulatus Goeze,,,10230690,,4485762
+B2608:4:31,Carpocoris pudicus Poda,Poda,Carpocoris,,pudicus,,species,,B2608:4,accepted,,,B2608:4:29,Carpocoris,,,,,,,Carpocoris,,Carpocoris,pudicus Poda,,,11357937,,4485798
+B2608:4:32,Carpocoris fuscispinus Boh.,Boh.,Carpocoris,,fuscispinus,,species,,B2608:4,accepted,,,B2608:4:29,Carpocoris,,,,,,,Carpocoris,,Carpocoris,fuscispinus Boh.,,,4485800,,4485800

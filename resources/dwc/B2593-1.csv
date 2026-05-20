@@ -1,0 +1,16 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2593:1:1,Gerris,,,,,,genus,,B2593:1,accepted,,,,,,,,,,,Gerris,,,Gerris,,4N84,2008636,4N84,2008636
+B2593:1:2,Limnoporus,,Gerris,,,,subgenus,,B2593:1,accepted,,,B2593:1:1,Gerris,,,,,,,Gerris,Limnoporus,Gerris,Limnoporus,,62YMD,,62YMD,
+B2593:1:3,Gerris rufoscutellatus Latr.,Latr.,Gerris,Limnoporus,rufoscutellatus,,species,,B2593:1,accepted,,,B2593:1:2,Limnoporus,,,,,,,Gerris,Limnoporus,Gerris | Limnoporus,rufoscutellatus Latr.,,6KFRY,5154132,6QCKK,2020450
+B2593:1:4,Hyrgotrechus,,Gerris,,,,subgenus,,B2593:1,accepted,,,B2593:1:1,Gerris,,,,,,,Gerris,Hyrgotrechus,Gerris,Hyrgotrechus,,,,,
+B2593:1:5,Gerris paludum Fab.,Fab.,Gerris,Hyrgotrechus,paludum,,species,,B2593:1,accepted,,,B2593:1:4,Hyrgotrechus,,,,,,,Gerris,Hyrgotrechus,Gerris | Hyrgotrechus,paludum Fab.,,,5758651,,5866108
+B2593:1:6,Gerris najas De Geer.,De Geer.,Gerris,Hyrgotrechus,najas,,species,,B2593:1,accepted,,,B2593:1:4,Hyrgotrechus,,,,,,,Gerris,Hyrgotrechus,Gerris | Hyrgotrechus,najas De Geer.,,,11352941,,5866107
+B2593:1:7,Limnotrechus,,Gerris,,,,subgenus,,B2593:1,accepted,,,B2593:1:1,Gerris,,,,,,,Gerris,Limnotrechus,Gerris,Limnotrechus,,62YM6,,4N84,
+B2593:1:8,Gerris lateralis Schummel,Schummel,Gerris,Limnotrechus,lateralis,,species,,B2593:1,accepted,,,B2593:1:7,Limnotrechus,,,,,,,Gerris,Limnotrechus,Gerris | Limnotrechus,lateralis Schummel,,6KGCB,5758665,6KGCB,5758665
+B2593:1:9,Gerris thoracicus Schumm.,Schumm.,Gerris,Limnotrechus,thoracicus,,species,,B2593:1,accepted,,,B2593:1:7,Limnotrechus,,,,,,,Gerris,Limnotrechus,Gerris | Limnotrechus,thoracicus Schumm.,,3FXB2,5758661,3FXB2,5758661
+B2593:1:10,Gerris costae H. S.,H. S.,Gerris,Limnotrechus,costae,,species,,B2593:1,accepted,,,B2593:1:7,Limnotrechus,,,,,,,Gerris,Limnotrechus,Gerris | Limnotrechus,costae H. S.,,6KGCK,7695217,6KGCK,7695217
+B2593:1:11,Gerris lateralis var. costae H. S.,H. S.,Gerris,,lateralis,costae,variety,,B2593:1,synonym,B2593:1:10,Gerris costae H. S.,,,,,,,,,Gerris,Limnotrechus,Gerris | Limnotrechus,Gerris lateralis var. costae H. S.,,,9946721,,7695217
+B2593:1:12,Gerris gibbifer Schum.,Schum.,Gerris,Limnotrechus,gibbifer,,species,,B2593:1,accepted,,,B2593:1:7,Limnotrechus,,,,,,,Gerris,Limnotrechus,Gerris | Limnotrechus,gibbifer Schum.,,3FX9N,5758659,3FX9N,5758659
+B2593:1:13,Gerris lacustris L.,L.,Gerris,Limnotrechus,lacustris,,species,,B2593:1,accepted,,,B2593:1:7,Limnotrechus,,,,,,,Gerris,Limnotrechus,Gerris | Limnotrechus,lacustris L.,,6KGCH,5154105,6KGCH,5154105
+B2593:1:14,Gerris argentatus Schumm.,Schumm.,Gerris,Limnotrechus,argentatus,,species,,B2593:1,accepted,,,B2593:1:7,Limnotrechus,,,,,,,Gerris,Limnotrechus,Gerris | Limnotrechus,argentatus Schumm.,,3FX8Y,5758660,3FX8Y,5758660
+B2593:1:15,Gerris odontogaster Zett.,Zett.,Gerris,Limnotrechus,odontogaster,,species,,B2593:1,accepted,,,B2593:1:7,Limnotrechus,,,,,,,Gerris,Limnotrechus,Gerris | Limnotrechus,odontogaster Zett.,,6KGBQ,5758658,6KGBQ,5758658

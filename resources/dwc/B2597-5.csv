@@ -1,0 +1,12 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2597:5:1,Notonectidae,,,,,,family,,B2597:5,accepted,,,,,,,,,Notonectidae,,,,,Notonectides,,626HD,4322,626HD,4322
+B2597:5:2,Plea Leach.,Leach.,,,,,genus,,B2597:5,accepted,,,B2597:5:1,Notonectidae,,,,,Notonectidae,,Plea,,Notonectidae,Plea Leach.,,6S8K,2020550,6S8K,2020550
+B2597:5:3,Ploa Steph.,Steph.,,,,,genus,,B2597:5,synonym,B2597:5:2,Plea Leach.,,,,,,,Notonectidae,,Ploa,,Notonectidae,Ploa Steph.,,,4772579,,2020550
+B2597:5:4,Plea minutissima Fab.,Fab.,Plea,,minutissima,,species,,B2597:5,accepted,,,B2597:5:2,Plea Leach.,,,,,Notonectidae,,Plea,,Notonectidae | Plea,minutissima Fab,,4K28X,2020551,4K28X,2020551
+B2597:5:5,Notonecta L.,L.,,,,,genus,,B2597:5,accepted,,,B2597:5:1,Notonectidae,,,,,Notonectidae,,Notonecta,,Notonectidae,Notonecta L.,,65FM,2020516,65FM,2020516
+B2597:5:6,Notonecta glauca L.,L.,Notonecta,,glauca,,species,,B2597:5,accepted,,,B2597:5:5,Notonecta L.,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,glauca L.,,47WY8,2020522,47WY8,2020522
+B2597:5:7,Notonecta viridis Delcourt,Delcourt,Notonecta,,viridis,,species,,B2597:5,accepted,,,B2597:5:5,Notonecta L.,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,viridis Delcourt,,47X27,4485490,47X27,4485490
+B2597:5:8,Notonecta furcata Fab.,Fab.,Notonecta,,furcata,,species,,B2597:5,accepted,,,B2597:5:5,Notonecta L.,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,furcata Fab.,,,6096812,,4485497
+B2597:5:9,Notonecta marginata Müll.,Müll.,Notonecta,,marginata,,species,,B2597:5,synonym,B2597:5:8,Notonecta furcata Fab.,,,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,marginata Müll.,,,8250569,,8250569
+B2597:5:10,Notonecta maculata Fab.,Fab.,Notonecta,,maculata,,species,,B2597:5,accepted,,,B2597:5:5,Notonecta L.,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,maculata Fab.,,47WYY,2020518,47WYY,2020518
+B2597:5:11,Notonecta umbrina Germ.,Germ.,Notonecta,,umbrina,,species,,B2597:5,synonym,B2597:5:10,Notonecta maculata Fab.,,,,,,,Notonectidae,,Notonecta,,Notonectidae | Notonecta,umbrina Germ.,,,,,

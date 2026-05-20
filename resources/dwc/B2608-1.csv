@@ -1,0 +1,16 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2608:1:1,Odontotarsus Lap.,Lap.,,,,,genus,,B2608:1,accepted,,,,,,,,,,,Odontotarsus,,,Odontotarsus Lap.,,,4486008,,4486008
+B2608:1:2,Eurygaster Lap.,Lap.,,,,,genus,,B2608:1,accepted,,,,,,,,,,,Eurygaster,,,Eurygaster Lap.,,BXWJH,2079334,BYMGM,2079334
+B2608:1:3,Graphosoma Lap.,Lap.,,,,,genus,,B2608:1,accepted,,,,,,,,,,,Graphosoma,,,Graphosoma Lap.,,,4405318,,4405318
+B2608:1:4,Eurydema Lap.,Lap.,,,,,genus,,B2608:1,accepted,,,,,,,,,,,Eurydema,,,Eurydema Lap.,,,8781759,,8781759
+B2608:1:5,Aelia,,,,,,genus,,B2608:1,accepted,,,,,,,,,,,Aelia,,,Aelia,,,2079121,,2079121
+B2608:1:6,Aelia acuminata L.,L.,Aelia,,acuminata,,species,,B2608:1,accepted,,,B2608:1:5,Aelia,,,,,,,Aelia,,Aelia,acuminata L.,,,2079123,,2079123
+B2608:1:7,Aelia rostrata Boh.,Boh.,Aelia,,rostrata,,species,,B2608:1,accepted,,,B2608:1:5,Aelia,,,,,,,Aelia,,Aelia,rostrata Boh.,,,7906393,,7906393
+B2608:1:8,Stollia Elenz.,Elenz.,,,,,genus,,B2608:1,accepted,,,,,,,,,,,Stollia,,,Stollia Elenz.,,8NZLC,3264996,8NMS3,1404162
+B2608:1:9,Palomena Mls.,Mls.,,,,,genus,,B2608:1,accepted,,,,,,,,,,,Palomena,,,Palomena Mls.,,,4406712,,4406712
+B2608:1:10,Dolycoris,,,,,,genus,,B2608:1,accepted,,,,,,,,,,,Dolycoris,,,Dolycoris,,,4406875,,4406875
+B2608:1:11,Dolycoris baccarum L.,L.,Dolycoris,,baccarum,,species,,B2608:1,accepted,,,B2608:1:10,Dolycoris,,,,,,,Dolycoris,,Dolycoris,baccarum L.,,,4485824,,4485824
+B2608:1:12,Carpocoris,,,,,,genus,,B2608:1,accepted,,,,,,,,,,,Carpocoris,,,Carpocoris,,,4405367,,4405367
+B2608:1:13,Carpocoris lunulatus Goeze,Goeze,Carpocoris,,lunulatus,,species,,B2608:1,accepted,,,B2608:1:12,Carpocoris,,,,,,,Carpocoris,,Carpocoris,lunulatus Goeze,,,10230690,,4485762
+B2608:1:14,Carpocoris pudicus Poda,Poda,Carpocoris,,pudicus,,species,,B2608:1,accepted,,,B2608:1:12,Carpocoris,,,,,,,Carpocoris,,Carpocoris,pudicus Poda,"{""indistinguishableFrom"":[""B2608:1:15""]}",,11357937,,4485798
+B2608:1:15,Carpocoris fuscispinus Boh.,Boh.,Carpocoris,,fuscispinus,,species,,B2608:1,accepted,,,B2608:1:12,Carpocoris,,,,,,,Carpocoris,,Carpocoris,fuscispinus Boh.,"{""indistinguishableFrom"":[""B2608:1:14""]}",,4485800,,4485800

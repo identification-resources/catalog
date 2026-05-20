@@ -1,0 +1,8 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2597:2:1,Cryptocerata,,,,,,infraorder,,B2597:2,accepted,,,,,,,,,,,,,,Cryptocerata,,4JC,,4MC,
+B2597:2:2,Hydrocorisae,,,,,,infraorder,,B2597:2,synonym,B2597:2:1,Cryptocerata,,,,,,,,,,,,Hydrocorises,,4L6,,4MC,
+B2597:2:3,Pelogonidae,,,,,,family,,B2597:2,accepted,,,B2597:2:1,Cryptocerata,,,,,Pelogonidae,,,,Cryptocerata,Pélégonides,,,,,
+B2597:2:4,Naucoridae,,,,,,family,,B2597:2,accepted,,,B2597:2:1,Cryptocerata,,,,,Naucoridae,,,,Cryptocerata,Naucorides,,624PT,4320,624PT,4320
+B2597:2:5,Nepidae,,,,,,family,,B2597:2,accepted,,,B2597:2:1,Cryptocerata,,,,,Nepidae,,,,Cryptocerata,Népides,,DB4,7892,DB4,7892
+B2597:2:6,Notonectidae,,,,,,family,,B2597:2,accepted,,,B2597:2:1,Cryptocerata,,,,,Notonectidae,,,,Cryptocerata,Notonectides,,626HD,4322,626HD,4322
+B2597:2:7,Corixidae,,,,,,family,,B2597:2,accepted,,,B2597:2:1,Cryptocerata,,,,,Corixidae,,,,Cryptocerata,Corixides,,8KK,6988,8KK,6988

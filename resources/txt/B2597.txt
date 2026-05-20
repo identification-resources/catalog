@@ -1,0 +1,110 @@
+---
+levels:
+  - suborder
+  - infraorder
+catalog:
+  pages: 184-184
+  taxon: Heteroptera
+  target_taxa: infraorder
+---
+
+Heteroptera
+  Cryptocerata
+    = Hydrocorises
+      > Hydrocorisae
+  Gymnocerata
+    = Geocorises
+      > Geocorisae
+
+===
+
+---
+levels:
+  - infraorder
+  - family
+catalog:
+  pages: 184-185
+  taxon: Cryptocerata
+  target_taxa: family
+---
+
+Cryptocerata
+  = Hydrocorises
+    > Hydrocorisae
+  Pélégonides
+    > Pelogonidae
+  Naucorides
+    > Naucoridae
+  Népides
+    > Nepidae
+  Notonectides
+    > Notonectidae
+  Corixides
+    > Corixidae
+
+===
+
+---
+levels:
+  - family
+  - genus
+  - species
+catalog:
+  pages: 185-188
+  taxon: Naucoridae
+---
+
+Naucorides
+  > Naucoridae
+  Aphelocheirus Westw.
+    [_] aestivalis Fab.
+    [_] montandoni Horv.
+  Naucoris Geoff.
+    cimicoides L.
+    maculatus Fab.
+      = apterus Duf.
+
+===
+
+---
+levels:
+  - family
+  - genus
+  - species
+catalog:
+  pages: 188-191
+  taxon: Nepidae
+---
+
+Népides
+  > Nepidae
+  Nepa L.
+    cinerea L.
+  Ranatra Fab.
+    linearis L.
+
+===
+
+---
+levels:
+  - family
+  - genus
+  - species
+catalog:
+  pages: 191-196
+  taxon: Notonectidae
+---
+
+Notonectides
+  > Notonectidae
+  Plea Leach.
+    = Ploa Steph.
+    minutissima Fab
+      > minutissima Fab.
+  Notonecta L.
+    glauca L.
+    viridis Delcourt
+    furcata Fab.
+      = marginata Müll.
+    maculata Fab.
+      = umbrina Germ.

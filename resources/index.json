@@ -13223,6 +13223,15 @@
     "id": "B2475:1",
     "taxonCount": 22
   },
+  "B2477:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2477:1",
+    "taxonCount": 15
+  },
   "B2478:1": {
     "levels": [
       "genus",
@@ -13879,6 +13888,17 @@
     "id": "B2584:1",
     "taxonCount": 90
   },
+  "B2587:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2587:1",
+    "taxonCount": 132
+  },
   "B2588:1": {
     "levels": [
       "genus",
@@ -13887,5 +13907,409 @@
     ],
     "id": "B2588:1",
     "taxonCount": 42
+  },
+  "B2590:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2590:1",
+    "taxonCount": 4
+  },
+  "B2591:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies",
+      "variety",
+      "aberration"
+    ],
+    "id": "B2591:1",
+    "taxonCount": 76
+  },
+  "B2593:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "57-59",
+      "taxon": [
+        "Gerris"
+      ]
+    },
+    "id": "B2593:1",
+    "taxonCount": 15
+  },
+  "B2593:2": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "catalog": {
+      "pages": "60-",
+      "taxon": [
+        "Acompus"
+      ]
+    },
+    "id": "B2593:2",
+    "taxonCount": 5
+  },
+  "B2594:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2594:1",
+    "taxonCount": 14
+  },
+  "B2597:1": {
+    "levels": [
+      "suborder",
+      "infraorder"
+    ],
+    "catalog": {
+      "pages": "184-184",
+      "taxon": [
+        "Heteroptera"
+      ],
+      "target_taxa": [
+        "infraorder"
+      ]
+    },
+    "id": "B2597:1",
+    "taxonCount": 5
+  },
+  "B2597:2": {
+    "levels": [
+      "infraorder",
+      "family"
+    ],
+    "catalog": {
+      "pages": "184-185",
+      "taxon": [
+        "Cryptocerata"
+      ],
+      "target_taxa": [
+        "family"
+      ]
+    },
+    "id": "B2597:2",
+    "taxonCount": 7
+  },
+  "B2597:3": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "185-188",
+      "taxon": [
+        "Naucoridae"
+      ]
+    },
+    "id": "B2597:3",
+    "taxonCount": 8
+  },
+  "B2597:4": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "188-191",
+      "taxon": [
+        "Nepidae"
+      ]
+    },
+    "id": "B2597:4",
+    "taxonCount": 5
+  },
+  "B2597:5": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "191-196",
+      "taxon": [
+        "Notonectidae"
+      ]
+    },
+    "id": "B2597:5",
+    "taxonCount": 11
+  },
+  "B2598:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "id": "B2598:1",
+    "taxonCount": 24
+  },
+  "B2599:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "id": "B2599:1",
+    "taxonCount": 15
+  },
+  "B2600:1": {
+    "levels": [
+      "family",
+      "subfamily"
+    ],
+    "catalog": {
+      "title": [
+        "Tableau des sous-familles des Corixidae (Leach) 1815"
+      ],
+      "pages": "485-485",
+      "taxon": [
+        "Corixidae"
+      ],
+      "target_taxa": [
+        "subfamily"
+      ]
+    },
+    "id": "B2600:1",
+    "taxonCount": 3
+  },
+  "B2600:2": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "catalog": {
+      "title": [
+        "Tableau des Genres"
+      ],
+      "pages": "485-556"
+    },
+    "id": "B2600:2",
+    "taxonCount": 200
+  },
+  "B2601:1": {
+    "levels": [
+      "family",
+      "subfamily"
+    ],
+    "catalog": {
+      "title": [
+        "Tableau des deux sous-familles de Corixidae paléarctiques"
+      ],
+      "pages": "89-89",
+      "taxon": [
+        "Corixidae"
+      ],
+      "target_taxa": [
+        "subfamily"
+      ]
+    },
+    "id": "B2601:1",
+    "taxonCount": 3
+  },
+  "B2601:2": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "catalog": {
+      "title": [
+        "Tableau synoptique des espèces françaises du genre Micronecta Kirk, 1897"
+      ],
+      "pages": "89-91"
+    },
+    "id": "B2601:2",
+    "taxonCount": 24
+  },
+  "B2601:3": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "catalog": {
+      "title": [
+        "Description des espèces"
+      ],
+      "pages": "92-115",
+      "key_type": [
+        "reference"
+      ],
+      "region": [
+        "?"
+      ]
+    },
+    "id": "B2601:3",
+    "taxonCount": 45
+  },
+  "B2602:1": {
+    "levels": [
+      "family",
+      "subfamily"
+    ],
+    "catalog": {
+      "pages": "56-56",
+      "taxon": [
+        "Corixidae"
+      ],
+      "target_taxa": [
+        "subfamily"
+      ]
+    },
+    "id": "B2602:1",
+    "taxonCount": 3
+  },
+  "B2602:2": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "catalog": {
+      "title": [
+        "Tableau des Genres"
+      ],
+      "pages": "56-66"
+    },
+    "id": "B2602:2",
+    "taxonCount": 67
+  },
+  "B2603:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "id": "B2603:1",
+    "taxonCount": 22
+  },
+  "B2604:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "id": "B2604:1",
+    "taxonCount": 56
+  },
+  "B2605:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "Tableau synoptique des espèces et sous-espèces du genre Nepa"
+      ],
+      "pages": "638-639"
+    },
+    "id": "B2605:1",
+    "taxonCount": 15
+  },
+  "B2608:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "nymphs (instar I)"
+      ]
+    },
+    "id": "B2608:1",
+    "taxonCount": 15
+  },
+  "B2608:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "nymphs (instar II)"
+      ]
+    },
+    "id": "B2608:2",
+    "taxonCount": 20
+  },
+  "B2608:3": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "nymphs (instar III)"
+      ]
+    },
+    "id": "B2608:3",
+    "taxonCount": 23
+  },
+  "B2608:4": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "nymphs (instar IV)"
+      ]
+    },
+    "id": "B2608:4",
+    "taxonCount": 32
+  },
+  "B2608:5": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "nymphs (instar V)"
+      ]
+    },
+    "id": "B2608:5",
+    "taxonCount": 34
+  },
+  "B2609:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2609:1",
+    "taxonCount": 15
+  },
+  "B2613:1": {
+    "levels": [
+      "family",
+      "subfamily"
+    ],
+    "id": "B2613:1",
+    "taxonCount": 5
   }
 }
