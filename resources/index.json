@@ -8029,6 +8029,37 @@
     "id": "B1006:1",
     "taxonCount": 119
   },
+  "B1008:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "group",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Catalogue des sous-genre et espèces du genre Bombus (Apidae, Apinae, Bombini) de Belgique et du nord de la France"
+      ],
+      "key_type": [
+        "checklist"
+      ],
+      "pages": "1-1"
+    },
+    "id": "B1008:1",
+    "taxonCount": 50
+  },
+  "B1008:2": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "group",
+      "species",
+      "subspecies",
+      "form"
+    ],
+    "id": "B1008:2",
+    "taxonCount": 66
+  },
   "B1010:1": {
     "levels": [
       "order",
@@ -14311,5 +14342,33 @@
     ],
     "id": "B2613:1",
     "taxonCount": 5
+  },
+  "B2619:1": {
+    "levels": [
+      "order",
+      "superfamily",
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2619:1",
+    "taxonCount": 74
+  },
+  "B2620:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2620:1",
+    "taxonCount": 5
+  },
+  "B2621:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2621:1",
+    "taxonCount": 11
   }
 }
