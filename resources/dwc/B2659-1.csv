@@ -1,0 +1,28 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2659:1:1,Fulvius Stål 1862,Stål 1862,,,,,genus,,B2659:1,accepted,,,,,,,,,,,Fulvius,,,Fulvius Stål 1862,,4LCX,2009917,4LCX,2009917
+B2659:1:2,Teratodella Reut. 1875,Reut. 1875,,,,,genus,,B2659:1,synonym,B2659:1:1,Fulvius Stål 1862,,,,,,,,,Teratodella,,,Teratodella Reut. 1875,,,4289933,,2009917
+B2659:1:3,Pamerocoris Uhler 1878,Uhler 1878,,,,,genus,,B2659:1,synonym,B2659:1:1,Fulvius Stål 1862,,,,,,,,,Pamerocoris,,,Pamerocoris Uhler 1878,,,4289934,,2009917
+B2659:1:4,Camelocapsus Reut. 1878,Reut. 1878,,,,,genus,,B2659:1,synonym,B2659:1:1,Fulvius Stål 1862,,,,,,,,,Camelocapsus,,,Camelocapsus Reut. 1878,,,4776727,,2009917
+B2659:1:5,Fulvius brevicornis,,Fulvius,,brevicornis,,species,m.,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,brevicornis m.,,6K49B,2009918,6JRXD,4487282
+B2659:1:6,Fulvius oxycarenoides Reut. 1878,Reut. 1878,Fulvius,,oxycarenoides,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,oxycarenoides Reut. 1878,,6JRYN,4487284,6JRYN,4487284
+B2659:1:7,Cimex punctum album Rossi 1790,Rossi 1790,Cimex,,punctum album,,species,nec Pollich,B2659:1,synonym,B2659:1:6,Fulvius oxycarenoides Reut. 1878,,,,,,,,,Fulvius,,Fulvius,Cimex Punctum album Rossi 1790 nec Pollich,,,8993992,,9210083
+B2659:1:8,Camelocapsus oxycarenoides Reut. 1878,Reut. 1878,Camelocapsus,,oxycarenoides,,species,,B2659:1,synonym,B2659:1:6,Fulvius oxycarenoides Reut. 1878,,,,,,,,,Fulvius,,Fulvius,Camelocapsus oxycarenoides Reut. 1878,,Q9W7,4487285,6JRYN,4487284
+B2659:1:9,Fulvius brunneus Prov. 1872,Prov. 1872,Fulvius,,brunneus,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,brunneus Prov. 1872,,,,,
+B2659:1:10,Lygus brunneus Prov. 1872,Prov. 1872,Lygus,,brunneus,,species,,B2659:1,synonym,B2659:1:9,Fulvius brunneus Prov. 1872,,,,,,,,,Fulvius,,Fulvius,Lygus brunneus Prov. 1872,,3WR7V,8076014,4JFYZ,5152986
+B2659:1:11,Pamerocoris brunneus Prov. 1890,Prov. 1890,Pamerocoris,,brunneus,,species,,B2659:1,synonym,B2659:1:9,Fulvius brunneus Prov. 1872,,,,,,,,,Fulvius,,Fulvius,Pamerocoris brunneus Prov. 1890,,,,,
+B2659:1:12,Fulvius stillatipennis Stål 1858,Stål 1858,Fulvius,,stillatipennis,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,stillatipennis Stål 1858,,6K3YP,7412601,6K3YP,7412601
+B2659:1:13,Cyllocoris stillatipennis Stål 1858,Stål 1858,Cyllocoris,,stillatipennis,,species,,B2659:1,synonym,B2659:1:12,Fulvius stillatipennis Stål 1858,,,,,,,,,Fulvius,,Fulvius,Cyllocoris stillatipennis Stål 1858,,334QQ,8344890,6K3YP,7412601
+B2659:1:14,Fulvius heinemanni,,Fulvius,,heinemanni,,species,n. sp.,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,Heinemanni n. sp.,,6K3Z6,8187110,6JRYT,2009919
+B2659:1:15,Fulvius quadristillatus Stål,Stål,Fulvius,,quadristillatus,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,quadristillatus Stål,,6JRZ3,7717686,6JRZ3,7717686
+B2659:1:16,Cyllecoris quadristillatus Stål 1858,Stål 1858,Cyllecoris,,quadristillatus,,species,,B2659:1,synonym,B2659:1:15,Fulvius quadristillatus Stål,,,,,,,,,Fulvius,,Fulvius,Cyllecoris quadristillatus Stål 1858,,334QL,7615251,6JRZ3,7717686
+B2659:1:17,Fulvius simoni Reut. 1892,Reut. 1892,Fulvius,,simoni,,species,,B2659:1,synonym,B2659:1:15,Fulvius quadristillatus Stål,,,,,,,,,Fulvius,,Fulvius,Fulvius Simoni Reut. 1892,,6K3Z2,8407576,6JRZ3,7717686
+B2659:1:18,Fulvius bisbistillatus Stål 1858,Stål 1858,Fulvius,,bisbistillatus,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,bisbistillatus Stål 1858,,6K3XC,7988478,6K3XC,7988478
+B2659:1:19,Cyllecoris bisbistillatus Stål 1858,Stål 1858,Cyllecoris,,bisbistillatus,,species,,B2659:1,synonym,B2659:1:18,Fulvius bisbistillatus Stål 1858,,,,,,,,,Fulvius,,Fulvius,Cyllecoris bisbistillatus Stål 1858,,6C59W,7515031,6K3XC,7988478
+B2659:1:20,Fulvius albomaculatus Dist.,Dist.,Fulvius,,albomaculatus,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,albomaculatus Dist.,,,,,
+B2659:1:21,Fulvius lunulatus Uhler 1894,Uhler 1894,Fulvius,,lunulatus,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,lunulatus Uhler 1894,"{""identifiable"":false}",6JRYS,7913413,6JRYS,7913413
+B2659:1:22,Fulvius dubius,,Fulvius,,dubius,,species,n. sp.,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,dubius n. sp.,,6K3WY,7645973,6K3WY,7645973
+B2659:1:23,Fulvius atratus Dist.,Dist.,Fulvius,,atratus,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,atratus Dist.,,,,,
+B2659:1:24,Fulvius fuscans Dist.,Dist.,Fulvius,,fuscans,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,fuscans Dist.,,6JRZ7,8096258,6JRZ7,8096258
+B2659:1:25,Fulvius anthocoroides Stål 1862,Stål 1862,Fulvius,,anthocoroides,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,anthocoroides Stål 1862,,6JRXD,4487282,6JRXD,4487282
+B2659:1:26,Fulvius albifrons,,Fulvius,,albifrons,,species,n. sp.,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,albifrons n. sp.,,6K3XP,7438408,4S8XB,8104732
+B2659:1:27,Fulvius clavicornis,,Fulvius,,clavicornis,,species,n. sp.,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,clavicornis n. sp.,,6JRXF,4776644,SN53,4776643

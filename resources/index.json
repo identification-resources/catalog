@@ -14370,5 +14370,59 @@
     ],
     "id": "B2621:1",
     "taxonCount": 11
+  },
+  "B2645:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2645:1",
+    "taxonCount": 89
+  },
+  "B2648:1": {
+    "levels": [
+      "group",
+      "species",
+      "variety"
+    ],
+    "catalog": {
+      "pages": "121-132",
+      "taxon": [
+        "Aradus betulae-group"
+      ]
+    },
+    "id": "B2648:1",
+    "taxonCount": 7
+  },
+  "B2648:2": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "catalog": {
+      "pages": "132-137",
+      "taxon": [
+        "Aradus lugubris-group"
+      ]
+    },
+    "id": "B2648:2",
+    "taxonCount": 11
+  },
+  "B2659:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2659:1",
+    "taxonCount": 27
+  },
+  "B2672:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2672:1",
+    "taxonCount": 6
   }
 }
