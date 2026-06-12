@@ -1,0 +1,19 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2703:1:1,Asopinae,,,,,,subfamily,,B2703:1,accepted,,,,,,,,,,Asopinae,,,,Asopiden,,,,,
+B2703:1:2,Cimicinae,,,,,,subfamily,,B2703:1,synonym,B2703:1:1,Asopinae,,,,,,,,Cimicinae,,,,Cimicinae,,7NLPC,,7NLPC,
+B2703:1:3,Pinthaeus,,,,,,genus,,B2703:1,accepted,,,B2703:1:1,Asopinae,,,,,,Asopinae,Pinthaeus,,Asopinae,Pinthaeus,,,4407624,,4407624
+B2703:1:4,Pinthaeus sanguinipes F.,F.,Pinthaeus,,sanguinipes,,species,,B2703:1,accepted,,,B2703:1:3,Pinthaeus,,,,,,Asopinae,Pinthaeus,,Asopinae | Pinthaeus,sanguinipes F.,,,4485978,,4485978
+B2703:1:5,Picromerus,,,,,,genus,,B2703:1,accepted,,,B2703:1:1,Asopinae,,,,,,Asopinae,Picromerus,,Asopinae,Picromerus,,BXWJM|BYMKT|BXWJM,2079126,BYMKT,2079126
+B2703:1:6,Cimex,,Picromerus,,,,subgenus,,B2703:1,accepted,,,B2703:1:5,Picromerus,,,,,,Asopinae,Picromerus,Cimex,Asopinae | Picromerus,Cimex,,7NSX3,,7NSX3,
+B2703:1:7,Picromerus bidens L.,L.,Picromerus,Cimex,bidens,,species,,B2703:1,accepted,,,B2703:1:6,Cimex,,,,,,Asopinae,Picromerus,Cimex,Asopinae | Picromerus | Cimex,bidens L.,,,5160015,,5160015
+B2703:1:8,Arma,,,,,,genus,,B2703:1,accepted,,,B2703:1:1,Asopinae,,,,,,Asopinae,Arma,,Asopinae,Arma,,,4405706,,4405706
+B2703:1:9,Arma custos F.,F.,Arma,,custos,,species,,B2703:1,accepted,,,B2703:1:8,Arma,,,,,,Asopinae,Arma,,Asopinae | Arma,custos F.,,,4485971,,4485971
+B2703:1:10,Podisus,,,,,,genus,,B2703:1,accepted,,,B2703:1:1,Asopinae,,,,,,Asopinae,Podisus,,Asopinae,Podisus,,,2079032,,2079032
+B2703:1:11,Troilus,,Podisus,,,,subgenus,,B2703:1,accepted,,,B2703:1:10,Podisus,,,,,,Asopinae,Podisus,Troilus,Asopinae | Podisus,Troilus,,,,,
+B2703:1:12,Podisus luridus F.,F.,Podisus,Troilus,luridus,,species,,B2703:1,accepted,,,B2703:1:11,Troilus,,,,,,Asopinae,Podisus,Troilus,Asopinae | Podisus | Troilus,luridus F.,,,9867982,,4485973
+B2703:1:13,Rhacognathus,,,,,,genus,,B2703:1,accepted,,,B2703:1:1,Asopinae,,,,,,Asopinae,Rhacognathus,,Asopinae,Rhacognathus,,,2078994,,2078994
+B2703:1:14,Rhacognathus punctatus L.,L.,Rhacognathus,,punctatus,,species,,B2703:1,accepted,,,B2703:1:13,Rhacognathus,,,,,,Asopinae,Rhacognathus,,Asopinae | Rhacognathus,punctatus L.,,,2078996,,2078996
+B2703:1:15,Jalla,,,,,,genus,,B2703:1,accepted,,,B2703:1:1,Asopinae,,,,,,Asopinae,Jalla,,Asopinae,Jalla,,8PMHC|8P34B|8PMHC,3266040,8P34B,3266040
+B2703:1:16,Jalla dumosa L.,L.,Jalla,,dumosa,,species,,B2703:1,accepted,,,B2703:1:15,Jalla,,,,,,Asopinae,Jalla,,Asopinae | Jalla,dumosa L.,,,5758771,,5758771
+B2703:1:17,Zicrona,,,,,,genus,,B2703:1,accepted,,,B2703:1:1,Asopinae,,,,,,Asopinae,Zicrona,,Asopinae,Zicrona,,,2078941,,2078941
+B2703:1:18,Zicrona coerulea L.,L.,Zicrona,,coerulea,,species,,B2703:1,accepted,,,B2703:1:17,Zicrona,,,,,,Asopinae,Zicrona,,Asopinae | Zicrona,coerulea L.,,,9378976,,2078942

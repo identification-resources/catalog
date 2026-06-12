@@ -1,0 +1,11 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2705:1:1,Asopinae,,,,,,subfamily,,B2705:1,accepted,,,,,,,,,,Asopinae,,,,Asopiden,,,,,
+B2705:1:2,Cimicinae,,,,,,subfamily,,B2705:1,synonym,B2705:1:1,Asopinae,,,,,,,,Cimicinae,,,,Cimicinae,,7NLPC,,7NLPC,
+B2705:1:3,Picromerus,,,,,,genus,,B2705:1,accepted,,,B2705:1:1,Asopinae,,,,,,Asopinae,Picromerus,,Asopinae,Picromerus,,BXWJM|BYMKT|BXWJM,2079126,BYMKT,2079126
+B2705:1:4,Picromerus bidens L.,L.,Picromerus,,bidens,,species,,B2705:1,accepted,,,B2705:1:3,Picromerus,,,,,,Asopinae,Picromerus,,Asopinae | Picromerus,bidens L.,,,5160015,,5160015
+B2705:1:5,Arma,,,,,,genus,,B2705:1,accepted,,,B2705:1:1,Asopinae,,,,,,Asopinae,Arma,,Asopinae,Arma,,,4405706,,4405706
+B2705:1:6,Arma custos F.,F.,Arma,,custos,,species,,B2705:1,accepted,,,B2705:1:5,Arma,,,,,,Asopinae,Arma,,Asopinae | Arma,custos F.,,,4485971,,4485971
+B2705:1:7,Podisus,,,,,,genus,,B2705:1,accepted,,,B2705:1:1,Asopinae,,,,,,Asopinae,Podisus,,Asopinae,Podisus,,,2079032,,2079032
+B2705:1:8,Podisus luridus F.,F.,Podisus,,luridus,,species,,B2705:1,accepted,,,B2705:1:7,Podisus,,,,,,Asopinae,Podisus,,Asopinae | Podisus,luridus F.,,,9867982,,4485973
+B2705:1:9,Zicrona,,,,,,genus,,B2705:1,accepted,,,B2705:1:1,Asopinae,,,,,,Asopinae,Zicrona,,Asopinae,Zicrona,,,2078941,,2078941
+B2705:1:10,Zicrona coerulea L.,L.,Zicrona,,coerulea,,species,,B2705:1,accepted,,,B2705:1:9,Zicrona,,,,,,Asopinae,Zicrona,,Asopinae | Zicrona,coerulea L.,,,9378976,,2078942
