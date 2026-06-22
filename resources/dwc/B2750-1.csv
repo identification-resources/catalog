@@ -1,0 +1,15 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2750:1:1,Nabidae,,,,,,family,,B2750:1,accepted,,,,,,,,,Nabidae,,,,,Nabidae,,CBFTS,7891,CBFTS,7891
+B2750:1:2,Nabis,,,,,,genus,,B2750:1,accepted,,,B2750:1:1,Nabidae,,,,,Nabidae,,Nabis,,Nabidae,Nabis,,,2020976,,2020976
+B2750:1:3,Nabis flavomarginatus Scholtz,Scholtz,Nabis,,flavomarginatus,,species,,B2750:1,accepted,,,B2750:1:2,Nabis,,,,,Nabidae,,Nabis,,Nabidae | Nabis,flavomarginatus Scholtz,,,4487107,,4487107
+B2750:1:4,Nabis ericetorum Scholtz,Scholtz,Nabis,,ericetorum,,species,,B2750:1,accepted,,,B2750:1:2,Nabis,,,,,Nabidae,,Nabis,,Nabidae | Nabis,ericetorum Scholtz,,,4487096,,4487096
+B2750:1:5,Nabis ferus L.,L.,Nabis,,ferus,,species,,B2750:1,accepted,,,B2750:1:2,Nabis,,,,,Nabidae,,Nabis,,Nabidae | Nabis,ferus L.,"{""indistinguishableFrom"":[""B2750:1:6""]}",,2021010,,2021010
+B2750:1:6,Nabis rugosus L.,L.,Nabis,,rugosus,,species,,B2750:1,accepted,,,B2750:1:2,Nabis,,,,,Nabidae,,Nabis,,Nabidae | Nabis,rugosus L.,"{""indistinguishableFrom"":[""B2750:1:5""]}",,4487099,,4487099
+B2750:1:7,Himacerus,,,,,,genus,,B2750:1,accepted,,,B2750:1:1,Nabidae,,,,,Nabidae,,Himacerus,,Nabidae,Himacerus,,,2021040,,2021040
+B2750:1:8,Himacerus mirmicoides Costa,Costa,Himacerus,,mirmicoides,,species,,B2750:1,accepted,,,B2750:1:7,Himacerus,,,,,Nabidae,,Himacerus,,Nabidae | Himacerus,mirmicoides Costa,"{""identifiable"":false}",,4487069,,4487069
+B2750:1:9,Himacerus apterus Fabricius,Fabricius,Himacerus,,apterus,,species,,B2750:1,accepted,,,B2750:1:7,Himacerus,,,,,Nabidae,,Himacerus,,Nabidae | Himacerus,apterus Fabricius,"{""identifiable"":false}",,2021041,,2021041
+B2750:1:10,Stalia,,,,,,genus,,B2750:1,accepted,,,B2750:1:1,Nabidae,,,,,Nabidae,,Stalia,,Nabidae,Stalia,,8PR9V|8NLGZ|8PR9V,6007166,8NLGZ,6007166
+B2750:1:11,Stalia major Costa,Costa,Stalia,,major,,species,,B2750:1,accepted,,,B2750:1:10,Stalia,,,,,Nabidae,,Stalia,,Nabidae | Stalia,major Costa,,,10996425,,4487075
+B2750:1:12,Stalia boops Schioedte,Schioedte,Stalia,,boops,,species,,B2750:1,accepted,,,B2750:1:10,Stalia,,,,,Nabidae,,Stalia,,Nabidae | Stalia,boops Schioedte,,,6096733,,4487073
+B2750:1:13,Dolichonabis,,,,,,genus,,B2750:1,accepted,,,B2750:1:1,Nabidae,,,,,Nabidae,,Dolichonabis,,Nabidae,Dolichonabis,,,4781557,,4781557
+B2750:1:14,Dolichonabis limbatus (Dahlbom),(Dahlbom),Dolichonabis,,limbatus,,species,,B2750:1,accepted,,,B2750:1:13,Dolichonabis,,,,,Nabidae,,Dolichonabis,,Nabidae | Dolichonabis,limbatus (Dahlbom),,,6096729,,4487108

@@ -1,0 +1,67 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2746:1:1,Megalonotinae,,,,,,subfamily,,B2746:1,accepted,,,,,,,,,,Megalonotinae,,,,Megalonotinae,,,,,
+B2746:1:2,Drymini,,,,,,tribe,,B2746:1,accepted,,,B2746:1:1,Megalonotinae,,,,,,Megalonotinae,,,Megalonotinae,Drymini,,8NL78,,8NL78,
+B2746:1:3,Drymus,,,,,,genus,,B2746:1,accepted,,,B2746:1:2,Drymini,,,,,,Megalonotinae,Drymus,,Megalonotinae | Drymini,Drymus,"{""identifiable"":false}",8NPC4,2008136,8NPC4,2008136
+B2746:1:4,Eremocoris,,,,,,genus,,B2746:1,accepted,,,B2746:1:2,Drymini,,,,,,Megalonotinae,Eremocoris,,Megalonotinae | Drymini,Eremocoris,"{""identifiable"":false}",8NNWL,2008140,8NNWL,2008140
+B2746:1:5,Gastrodes,,,,,,genus,,B2746:1,accepted,,,B2746:1:2,Drymini,,,,,,Megalonotinae,Gastrodes,,Megalonotinae | Drymini,Gastrodes,"{""identifiable"":false}",8NPTB,2008186,8NPTB,2008186
+B2746:1:6,Ischnocoris,,,,,,genus,,B2746:1,accepted,,,B2746:1:2,Drymini,,,,,,Megalonotinae,Ischnocoris,,Megalonotinae | Drymini,Ischnocoris,"{""identifiable"":false}",8NSYB,5431381,8NSYB,5431381
+B2746:1:7,Scolopostethus,,,,,,genus,,B2746:1,accepted,,,B2746:1:2,Drymini,,,,,,Megalonotinae,Scolopostethus,,Megalonotinae | Drymini,Scolopostethus,"{""identifiable"":false}",8NZ27,2008129,8NZ27,2008129
+B2746:1:8,Togodolentus,,,,,,genus,,B2746:1,accepted,,,B2746:1:2,Drymini,,,,,,Megalonotinae,Togodolentus,,Megalonotinae | Drymini,Togodolentus,"{""identifiable"":false}",8P27R,2008213,8P27R,2008213
+B2746:1:9,Cleradini,,,,,,tribe,,B2746:1,accepted,,,B2746:1:1,Megalonotinae,,,,,,Megalonotinae,,,Megalonotinae,Cleradini,,8NL64,,8NL64,
+B2746:1:10,Stygnocorini,,,,,,tribe,,B2746:1,synonym,B2746:1:9,Cleradini,,,,,,,,Megalonotinae,,,Megalonotinae,Stygnocorini,,8NLC6,,8NLC6,
+B2746:1:11,Acompus,,,,,,genus,,B2746:1,accepted,,,B2746:1:9,Cleradini,,,,,,Megalonotinae,Acompus,,Megalonotinae | Cleradini,Acompus,"{""identifiable"":false}",8NLGG,4405604,8NLGG,4405604
+B2746:1:12,Migdilybs,,,,,,genus,,B2746:1,accepted,,,B2746:1:9,Cleradini,,,,,,Megalonotinae,Migdilybs,,Megalonotinae | Cleradini,Migdilybs,"{""identifiable"":false}",8NVFL,4771385,8NVFL,4771385
+B2746:1:13,Ozophora,,,,,,genus,,B2746:1,accepted,,,B2746:1:9,Cleradini,,,,,,Megalonotinae,Ozophora,,Megalonotinae | Cleradini,Ozophora,"{""identifiable"":false}",8NV9H,2007924,8NV9H,2007924
+B2746:1:14,Stygnocoris,,,,,,genus,,B2746:1,accepted,,,B2746:1:9,Cleradini,,,,,,Megalonotinae,Stygnocoris,,Megalonotinae | Cleradini,Stygnocoris,"{""identifiable"":false}",8NZMC,2008072,8NZMC,2008072
+B2746:1:15,Myodochini,,,,,,tribe,,B2746:1,accepted,,,B2746:1:1,Megalonotinae,,,,,,Megalonotinae,,,Megalonotinae,Myodochini,,C7WY5,,C7WY5,
+B2746:1:16,Carpilis,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Carpilis,,Megalonotinae | Myodochini,Carpilis,"{""identifiable"":false}",8NMWL,2008008,8NMWL,2008008
+B2746:1:17,Cnemodus,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Cnemodus,,Megalonotinae | Myodochini,Cnemodus,"{""identifiable"":false}",8NN9B,2008181,8NN9B,2008181
+B2746:1:18,Daerlac,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Daerlac,,Megalonotinae | Myodochini,Daerlac,"{""identifiable"":false}",8NQKP,4781794,8NQKP,4781794
+B2746:1:19,Heraeus,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Heraeus,,Megalonotinae | Myodochini,Heraeus,"{""identifiable"":false}",8NQ7D,2008093,8NQ7D,2008093
+B2746:1:20,Kolenetrus,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Kolenetrus,,Megalonotinae | Myodochini,Kolenetrus,"{""identifiable"":false}",8NQKB,2008207,8NQKB,2008207
+B2746:1:21,Ligyrocoris,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Ligyrocoris,,Megalonotinae | Myodochini,Ligyrocoris,"{""identifiable"":false}",8NQXF,2008050,8NQXF,2008050
+B2746:1:22,Myodocha,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Myodocha,,Megalonotinae | Myodochini,Myodocha,"{""identifiable"":false}",8NSRZ,2008155,8NSRZ,2008155
+B2746:1:23,Neosuris,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Neosuris,,Megalonotinae | Myodochini,Neosuris,"{""identifiable"":false}",8NT87,2008014,8NT87,2008014
+B2746:1:24,Pachybrachius,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Pachybrachius,,Megalonotinae | Myodochini,Pachybrachius,"{""identifiable"":false}",8NVB7,11234856,8NVB7,11234856
+B2746:1:25,Paromius,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Paromius,,Megalonotinae | Myodochini,Paromius,"{""identifiable"":false}",8NVZC,2008089,8NVZC,2008089
+B2746:1:26,Perigenes,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Perigenes,,Megalonotinae | Myodochini,Perigenes,"{""identifiable"":false}",8NW9T,2008158,8NW9T,2008158
+B2746:1:27,Pseudocnemodus,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Pseudocnemodus,,Megalonotinae | Myodochini,Pseudocnemodus,"{""identifiable"":false}",8NY5N,2007984,8NY5N,2007984
+B2746:1:28,Ptochiomera,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Ptochiomera,,Megalonotinae | Myodochini,Ptochiomera,"{""identifiable"":false}",8NYF6,2007982,8NYF6,2007982
+B2746:1:29,Sisamnes,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Sisamnes,,Megalonotinae | Myodochini,Sisamnes,"{""identifiable"":false}",8NZ7W,2007901,8NZ7W,2007901
+B2746:1:30,Sphaerobius,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Sphaerobius,,Megalonotinae | Myodochini,Sphaerobius,"{""identifiable"":false}",8PR98|8NRH7|8PR98,4770682,8NRH7,4773152
+B2746:1:31,Udeocoris,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Udeocoris,,Megalonotinae | Myodochini,Udeocoris,"{""identifiable"":false}",8P2KK,2008175,8P2KK,2008175
+B2746:1:32,Zeridoneus,,,,,,genus,,B2746:1,accepted,,,B2746:1:15,Myodochini,,,,,,Megalonotinae,Zeridoneus,,Megalonotinae | Myodochini,Zeridoneus,"{""identifiable"":false}",8P333,2008165,8P333,2008165
+B2746:1:33,Beosini,,,,,,tribe,,B2746:1,accepted,,,B2746:1:1,Megalonotinae,,,,,,Megalonotinae,,,Megalonotinae,Beosini,,CFHHV|C8BBN|CFHHV,,C8BBN,
+B2746:1:34,Aellopus,,,,,,genus,,B2746:1,accepted,,,B2746:1:33,Beosini,,,,,,Megalonotinae,Aellopus,,Megalonotinae | Beosini,Aellopus,"{""identifiable"":false}",8NLKZ,3266248,8NLKZ,3266248
+B2746:1:35,Beosus,,,,,,genus,,B2746:1,accepted,,,B2746:1:33,Beosini,,,,,,Megalonotinae,Beosus,,Megalonotinae | Beosini,Beosus,"{""identifiable"":false}",8NN75,8095581,8NN75,8095581
+B2746:1:36,Dieuches,,,,,,genus,,B2746:1,accepted,,,B2746:1:33,Beosini,,,,,,Megalonotinae,Dieuches,,Megalonotinae | Beosini,Dieuches,"{""identifiable"":false}",8NQW8,2008173,8NQW8,2008173
+B2746:1:37,Metadieuches,,,,,,genus,,B2746:1,accepted,,,B2746:1:33,Beosini,,,,,,Megalonotinae,Metadieuches,,Megalonotinae | Beosini,Metadieuches,"{""identifiable"":false}",8NV8N,4772039,8NV8N,4772039
+B2746:1:38,Peritrechus,,,,,,genus,,B2746:1,accepted,,,B2746:1:33,Beosini,,,,,,Megalonotinae,Peritrechus,,Megalonotinae | Beosini,Peritrechus,"{""identifiable"":false}",8NWBM,2007972,8NWBM,2007972
+B2746:1:39,Poeantius,,,,,,genus,,B2746:1,accepted,,,B2746:1:33,Beosini,,,,,,Megalonotinae,Poeantius,,Megalonotinae | Beosini,Poeantius,"{""identifiable"":false}",8NXR7,4781866,8NXR7,4781866
+B2746:1:40,Rhyparochromus Hahn,Hahn,,,,,genus,,B2746:1,accepted,,,B2746:1:33,Beosini,,,,,,Megalonotinae,Rhyparochromus,,Megalonotinae | Beosini,Rhyparochromus Hahn,"{""identifiable"":false}",8NYP9,5152522,8NYP9,5152522
+B2746:1:41,Uhleriola,,,,,,genus,,B2746:1,accepted,,,B2746:1:33,Beosini,,,,,,Megalonotinae,Uhleriola,,Megalonotinae | Beosini,Uhleriola,"{""identifiable"":false}",8P2KR,2008126,8P2KR,2008126
+B2746:1:42,Gonianotini,,,,,,tribe,,B2746:1,accepted,,,B2746:1:1,Megalonotinae,,,,,,Megalonotinae,,,Megalonotinae,Gonianotini,,C76N5,,C76N5,
+B2746:1:43,Aphanus,,,,,,genus,,B2746:1,accepted,,,B2746:1:42,Gonianotini,,,,,,Megalonotinae,Aphanus,,Megalonotinae | Gonianotini,Aphanus,"{""identifiable"":false}",8NMCJ,3265567,8NMCJ,3265567
+B2746:1:44,Bleteogonus,,,,,,genus,,B2746:1,accepted,,,B2746:1:42,Gonianotini,,,,,,Megalonotinae,Bleteogonus,,Megalonotinae | Gonianotini,Bleteogonus,"{""identifiable"":false}",8NNCD,4408115,8NNCD,4408115
+B2746:1:45,Delochilocoris,,,,,,genus,,B2746:1,accepted,,,B2746:1:42,Gonianotini,,,,,,Megalonotinae,Delochilocoris,,Megalonotinae | Gonianotini,Delochilocoris,"{""identifiable"":false}",8NNS9,2007966,8NNS9,2007966
+B2746:1:46,Diomphalus,,,,,,genus,,B2746:1,accepted,,,B2746:1:42,Gonianotini,,,,,,Megalonotinae,Diomphalus,,Megalonotinae | Gonianotini,Diomphalus,"{""identifiable"":false}",8NQXZ,4407510,8NQXZ,4407510
+B2746:1:47,Emblethis,,,,,,genus,,B2746:1,accepted,,,B2746:1:42,Gonianotini,,,,,,Megalonotinae,Emblethis,,Megalonotinae | Gonianotini,Emblethis,"{""identifiable"":false}",8NPG2,2008085,8NPG2,2008085
+B2746:1:48,Gonianotus,,,,,,genus,,B2746:1,accepted,,,B2746:1:42,Gonianotini,,,,,,Megalonotinae,Gonianotus,,Megalonotinae | Gonianotini,Gonianotus,"{""identifiable"":false}",8NS4M,4405578,8NS4M,4405578
+B2746:1:49,Malezonotus,,,,,,genus,,B2746:1,accepted,,,B2746:1:42,Gonianotini,,,,,,Megalonotinae,Malezonotus,,Megalonotinae | Gonianotini,Malezonotus,"{""identifiable"":false}",8NRGY,2008250,8NRGY,2008250
+B2746:1:50,Pionosomus,,,,,,genus,,B2746:1,accepted,,,B2746:1:42,Gonianotini,,,,,,Megalonotinae,Pionosomus,,Megalonotinae | Gonianotini,Pionosomus,"{""identifiable"":false}",8NXMJ,4407601,8NXMJ,4407601
+B2746:1:51,Pterotmetus,,,,,,genus,,B2746:1,accepted,,,B2746:1:42,Gonianotini,,,,,,Megalonotinae,Pterotmetus,,Megalonotinae | Gonianotini,Pterotmetus,"{""identifiable"":false}",8NYDS,4408040,8NYDS,4408040
+B2746:1:52,Trapezonotus,,,,,,genus,,B2746:1,accepted,,,B2746:1:42,Gonianotini,,,,,,Megalonotinae,Trapezonotus,,Megalonotinae | Gonianotini,Trapezonotus,"{""identifiable"":false}",8P2BB,2008018,8P2BB,2008018
+B2746:1:53,Megalonotini,,,,,,tribe,,B2746:1,accepted,,,B2746:1:1,Megalonotinae,,,,,,Megalonotinae,,,Megalonotinae,Megalonotini,,C7QQC,,C7QQC,
+B2746:1:54,Lamprodema,,,,,,genus,,B2746:1,accepted,,,B2746:1:53,Megalonotini,,,,,,Megalonotinae,Lamprodema,,Megalonotinae | Megalonotini,Lamprodema,"{""identifiable"":false}",8NQNS,2008076,8NQNS,2008076
+B2746:1:55,Lasiocoris,,,,,,genus,,B2746:1,accepted,,,B2746:1:53,Megalonotini,,,,,,Megalonotinae,Lasiocoris,,Megalonotinae | Megalonotini,Lasiocoris,"{""identifiable"":false}",8NTCD,4486494,8NTCD,4486494
+B2746:1:56,Megalonotus,,,,,,genus,,B2746:1,accepted,,,B2746:1:53,Megalonotini,,,,,,Megalonotinae,Megalonotus,,Megalonotinae | Megalonotini,Megalonotus,"{""identifiable"":false}",8NRS7,2008202,8NRS7,2008202
+B2746:1:57,Sphragisticus,,,,,,genus,,B2746:1,accepted,,,B2746:1:53,Megalonotini,,,,,,Megalonotinae,Sphragisticus,,Megalonotinae | Megalonotini,Sphragisticus,"{""identifiable"":false}",8NZDD,2008247,8NZDD,2008247
+B2746:1:58,Lethaeini,,,,,,tribe,,B2746:1,accepted,,,B2746:1:1,Megalonotinae,,,,,,Megalonotinae,,,Megalonotinae,Lethaeini,,8NL82,,8NL82,
+B2746:1:59,Antillocoris,,,,,,genus,,B2746:1,accepted,,,B2746:1:58,Lethaeini,,,,,,Megalonotinae,Antillocoris,,Megalonotinae | Lethaeini,Antillocoris,"{""identifiable"":false}",8NLWW,2007990,8NLWW,2007990
+B2746:1:60,Cligenes,,,,,,genus,,B2746:1,accepted,,,B2746:1:58,Lethaeini,,,,,,Megalonotinae,Cligenes,,Megalonotinae | Lethaeini,Cligenes,"{""identifiable"":false}",8NN84,2008177,8NN84,2008177
+B2746:1:61,Coleocoris,,,,,,genus,,B2746:1,accepted,,,B2746:1:58,Lethaeini,,,,,,Megalonotinae,Coleocoris,,Megalonotinae | Lethaeini,Coleocoris,"{""identifiable"":false}",8NPTX,4781905,8NPTX,4781905
+B2746:1:62,Cryphula,,,,,,genus,,B2746:1,accepted,,,B2746:1:58,Lethaeini,,,,,,Megalonotinae,Cryphula,,Megalonotinae | Lethaeini,Cryphula,"{""identifiable"":false}",8NNJR,2008037,8NNJR,2008037
+B2746:1:63,Tropistethus,,,,,,genus,,B2746:1,accepted,,,B2746:1:58,Lethaeini,,,,,,Megalonotinae,Tropistethus,,Megalonotinae | Lethaeini,Tropistethus,"{""identifiable"":false}",8P2G5,4407167,8P2G5,4407167
+B2746:1:64,Xestocoris,,,,,,genus,,B2746:1,accepted,,,B2746:1:58,Lethaeini,,,,,,Megalonotinae,Xestocoris,,Megalonotinae | Lethaeini,Xestocoris,"{""identifiable"":false}",8P2WQ,2007959,8P2WQ,2007959
+B2746:1:65,Plinthisini,,,,,,tribe,new tribe,B2746:1,accepted,,,B2746:1:1,Megalonotinae,,,,,,Megalonotinae,,,Megalonotinae,Plinthisini new tribe,,,,,
+B2746:1:66,Plinthisus,,,,,,genus,,B2746:1,accepted,,,B2746:1:65,Plinthisini,,,,,,Megalonotinae,Plinthisus,,Megalonotinae | Plinthisini,Plinthisus,"{""identifiable"":false}",8NXD7,10891185,8NXD7,10891185
