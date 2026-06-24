@@ -1,0 +1,33 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2779:1:1,Reduvioidea,,,,,,superfamily,,B2779:1,accepted,,,,,,,,,,,,,,REDUVIOIDEA,,BXWDS,,BXWDS,
+B2779:1:2,Enicocephalidae,,,,,,family,,B2779:1,accepted,,,B2779:1:1,Reduvioidea,,,,,Enicocephalidae,,,,Reduvioidea,ENICOCEPHALIDAE,,9PW,7880,9PW,7880
+B2779:1:3,Nabidae,,,,,,family,,B2779:1,accepted,,,B2779:1:1,Reduvioidea,,,,,Nabidae,,,,Reduvioidea,NABIDAE,,CBFTS,7891,CBFTS,7891
+B2779:1:4,Pachynominae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:3,Nabidae,,,,,Nabidae,Pachynominae,,,Reduvioidea | Nabidae,Pachynominae,,,,,
+B2779:1:5,Carthasinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:3,Nabidae,,,,,Nabidae,Carthasinae,,,Reduvioidea | Nabidae,Carthasinae,,,,,
+B2779:1:6,Arachnocorinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:3,Nabidae,,,,,Nabidae,Arachnocorinae,,,Reduvioidea | Nabidae,Arachnocorinae,,,,,
+B2779:1:7,Gorpinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:3,Nabidae,,,,,Nabidae,Gorpinae,,,Reduvioidea | Nabidae,Gorpinae,,,,,
+B2779:1:8,Prostemminae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:3,Nabidae,,,,,Nabidae,Prostemminae,,,Reduvioidea | Nabidae,Prostemminae,,,,,
+B2779:1:9,Nabinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:3,Nabidae,,,,,Nabidae,Nabinae,,,Reduvioidea | Nabidae,Nabinae,,,,,
+B2779:1:10,Phymatidae,,,,,,family,,B2779:1,accepted,,,B2779:1:1,Reduvioidea,,,,,Phymatidae,,,,Reduvioidea,PHYMATIDAE,,8NKP9|8PTG4|8NKP9,3265969,8PTG4,3265969
+B2779:1:11,Macrocephalinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:10,Phymatidae,,,,,Phymatidae,Macrocephalinae,,,Reduvioidea | Phymatidae,Macrocephalinae,,,,,
+B2779:1:12,Phymatinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:10,Phymatidae,,,,,Phymatidae,Phymatinae,,,Reduvioidea | Phymatidae,Phymatinae,,K5L,,K5L,
+B2779:1:13,Reduviidae,,,,,,family,,B2779:1,accepted,,,B2779:1:1,Reduvioidea,,,,,Reduviidae,,,,Reduvioidea,REDUVIIDAE,,FKV,4324,FKV,4324
+B2779:1:14,Elasmocorinae Usinger,Usinger,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Elasmocorinae,,,Reduvioidea | Reduviidae,Elasmocorinae Usinger,,,,,
+B2779:1:15,Holopitlinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Holopitlinae,,,Reduvioidea | Reduviidae,Holopitlinae,,,,,
+B2779:1:16,Tribelocephalinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Tribelocephalinae,,,Reduvioidea | Reduviidae,Tribelocephalinae,,KG2|JHG|KG2,,JHG,
+B2779:1:17,Phimophorinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Phimophorinae,,,Reduvioidea | Reduviidae,Phimophorinae,,K58,,K58,
+B2779:1:18,Emesinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Emesinae,,,Reduvioidea | Reduviidae,Emesinae,,JHW,,JHW,
+B2779:1:19,Bactrodinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Bactrodinae,,,Reduvioidea | Reduviidae,Bactrodinae,,J7F,,J7F,
+B2779:1:20,Piratinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Piratinae,,,Reduvioidea | Reduviidae,Piratinae,,,,,
+B2779:1:21,Vesciinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Vesciinae,,,Reduvioidea | Reduviidae,Vesciinae,,KHC,,KHC,
+B2779:1:22,Saicinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Saicinae,,,Reduvioidea | Reduviidae,Saicinae,,628NJ,,628NJ,
+B2779:1:23,Chryxinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Chryxinae,,,Reduvioidea | Reduviidae,Chryxinae,,6275V,,6275V,
+B2779:1:24,Stenopodinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Stenopodinae,,,Reduvioidea | Reduviidae,Stenopodinae,,,,,
+B2779:1:25,Apiomerinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Apiomerinae,,,Reduvioidea | Reduviidae,Apiomerinae,,J5X|KLQ|J5X,,KLQ,
+B2779:1:26,Harpactocorinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Harpactocorinae,,,Reduvioidea | Reduviidae,Harpactocorinae,,,,,
+B2779:1:27,Microtominae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Microtominae,,,Reduvioidea | Reduviidae,Microtominae,,JWS|JMZ|JWS,,JMZ,
+B2779:1:28,Tiatominae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Tiatominae,,,Reduvioidea | Reduviidae,Tiatominae,,,,,
+B2779:1:29,Cetherinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Cetherinae,,,Reduvioidea | Reduviidae,Cetherinae,,JB9,,JB9,
+B2779:1:30,Reduviinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Reduviinae,,,Reduvioidea | Reduviidae,Reduviinae,,K99,,K99,
+B2779:1:31,Salyavatinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Salyavatinae,,,Reduvioidea | Reduviidae,Salyavatinae,,628MT,,628MT,
+B2779:1:32,Sphaeridopinae,,,,,,subfamily,,B2779:1,accepted,,,B2779:1:13,Reduviidae,,,,,Reduviidae,Sphaeridopinae,,,Reduvioidea | Reduviidae,Sphaeridopinae,,KCN,,KCN,

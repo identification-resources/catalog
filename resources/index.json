@@ -14911,6 +14911,14 @@
     "id": "B2754:1",
     "taxonCount": 8
   },
+  "B2756:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2756:1",
+    "taxonCount": 4
+  },
   "B2757:1": {
     "levels": [
       "subgenus",
@@ -14976,5 +14984,209 @@
     ],
     "id": "B2768:1",
     "taxonCount": 11
+  },
+  "B2769:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Tavola dicotomica dei ♂♂."
+      ],
+      "pages": "22-26",
+      "scope": [
+        "adults",
+        "males"
+      ]
+    },
+    "id": "B2769:1",
+    "taxonCount": 35
+  },
+  "B2769:2": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Tavola dicotomica dei ♀♀."
+      ],
+      "pages": "26-28",
+      "scope": [
+        "adults",
+        "females"
+      ]
+    },
+    "id": "B2769:2",
+    "taxonCount": 35
+  },
+  "B2770:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies",
+      "form"
+    ],
+    "id": "B2770:1",
+    "taxonCount": 26
+  },
+  "B2771:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B2771:1",
+    "taxonCount": 3
+  },
+  "B2773:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "form"
+    ],
+    "id": "B2773:1",
+    "taxonCount": 50
+  },
+  "B2774:1": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "catalog": {
+      "pages": "336-336",
+      "taxon": [
+        "Belostomatidae"
+      ],
+      "target_taxa": [
+        "genus"
+      ]
+    },
+    "id": "B2774:1",
+    "taxonCount": 10
+  },
+  "B2774:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to the Species of Diplonychus Laporte."
+      ],
+      "pages": "339-339"
+    },
+    "id": "B2774:2",
+    "taxonCount": 14
+  },
+  "B2776:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus"
+    ],
+    "id": "B2776:1",
+    "taxonCount": 9
+  },
+  "B2777:1": {
+    "levels": [
+      "subfamily",
+      "genus"
+    ],
+    "id": "B2777:1",
+    "taxonCount": 6
+  },
+  "B2778:1": {
+    "levels": [
+      "family",
+      "subfamily"
+    ],
+    "catalog": {
+      "title": [
+        "Key to the subfamilies of Naucoridae"
+      ],
+      "pages": "7-8",
+      "taxon": [
+        "Naucoridae"
+      ],
+      "target_taxa": [
+        "subfamily"
+      ]
+    },
+    "id": "B2778:1",
+    "taxonCount": 9
+  },
+  "B2778:2": {
+    "levels": [
+      "subfamily",
+      "genus"
+    ],
+    "catalog": {
+      "title": [
+        "Key to the genera of Ambrysinae"
+      ],
+      "pages": "11-11"
+    },
+    "id": "B2778:2",
+    "taxonCount": 4
+  },
+  "B2779:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily"
+    ],
+    "id": "B2779:1",
+    "taxonCount": 32
+  },
+  "B2780:1": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "id": "B2780:1",
+    "taxonCount": 16
+  },
+  "B2782:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2782:1",
+    "taxonCount": 10
+  },
+  "B2784:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2784:1",
+    "taxonCount": 18
+  },
+  "B2785:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2785:1",
+    "taxonCount": 6
+  },
+  "B2786:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2786:1",
+    "taxonCount": 17
+  },
+  "B2787:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B2787:1",
+    "taxonCount": 5
   }
 }
