@@ -14952,6 +14952,14 @@
     "id": "B2762:1",
     "taxonCount": 6
   },
+  "B2763:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2763:1",
+    "taxonCount": 6
+  },
   "B2764:1": {
     "levels": [
       "genus",
@@ -14968,6 +14976,15 @@
     ],
     "id": "B2765:1",
     "taxonCount": 9
+  },
+  "B2766:1": {
+    "levels": [
+      "group",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2766:1",
+    "taxonCount": 5
   },
   "B2767:1": {
     "levels": [
@@ -15081,6 +15098,18 @@
     },
     "id": "B2774:2",
     "taxonCount": 14
+  },
+  "B2775:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2775:1",
+    "taxonCount": 113
   },
   "B2776:1": {
     "levels": [
