@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B314:1:1,Abies grandis,,Abies,,grandis,,species,,B314:1,accepted,,,,,,,,,,,Abies,,,Abies grandis,,8KCY,2685361,8KCY,2685361
 B314:1:2,Abies pinsapo,,Abies,,pinsapo,,species,,B314:1,accepted,,,,,,,,,,,Abies,,,Abies pinsapo,,8KFM,2685464,8KFM,2685464
-B314:1:3,Acacia dealbata,,Acacia,,dealbata,,species,,B314:1,accepted,,,,,,,,,,,Acacia,,,Acacia dealbata,,BSG5L,2979474,BSG5L,2979474
+B314:1:3,Acacia dealbata,,Acacia,,dealbata,,species,,B314:1,accepted,,,,,,,,,,,Acacia,,,Acacia dealbata,,8P4G,2979474,8P4G,2979474
 B314:1:4,Acer campestre,,Acer,,campestre,,species,,B314:1,accepted,,,,,,,,,,,Acer,,,Acer campestre,,946Z,3189863,946Z,3189863
 B314:1:5,Acer platanoides,,Acer,,platanoides,,species,,B314:1,accepted,,,,,,,,,,,Acer,,,Acer platanoides,,94H3,3189846,94H3,3189846
 B314:1:6,Acer pseudoplatanus,,Acer,,pseudoplatanus,,species,,B314:1,accepted,,,,,,,,,,,Acer,,,Acer pseudoplatanus,,94HF,3189870,94HF,3189870
@@ -14,15 +14,15 @@ B314:1:12,Alnus glutinosa,,Alnus,,glutinosa,,species,,B314:1,accepted,,,,,,,,,,,
 B314:1:13,Amelanchier lamarckii,,Amelanchier,,lamarckii,,species,,B314:1,accepted,,,,,,,,,,,Amelanchier,,,Amelanchier lamarckii,,92SRN,3024109,92SRN,3024109
 B314:1:14,Amelanchier canadensis,,Amelanchier,,canadensis,,species,,B314:1,synonym,B314:1:13,Amelanchier lamarckii,,,,,,,,,Amelanchier,,,Amelanchier canadensis,,CQN6,3023833,CQN6,3023833
 B314:1:15,Amelanchier ovalis,,Amelanchier,,ovalis,,species,,B314:1,accepted,,,,,,,,,,,Amelanchier,,,Amelanchier ovalis,,66C2F,3023878,66C2F,3023878
-B314:1:16,Amelanchier vulgaris,,Amelanchier,,vulgaris,,species,,B314:1,synonym,B314:1:15,Amelanchier ovalis,,,,,,,,,Amelanchier,,,Amelanchier vulgaris,,CQQ8,3023885,BP8B8,7272307
-B314:1:17,Amelanchier rotundifolia,,Amelanchier,,rotundifolia,,species,,B314:1,synonym,B314:1:15,Amelanchier ovalis,,,,,,,,,Amelanchier,,,Amelanchier rotundifolia,,9JRLG,7992721,BP8B8,7992721
+B314:1:16,Amelanchier vulgaris,,Amelanchier,,vulgaris,,species,,B314:1,synonym,B314:1:15,Amelanchier ovalis,,,,,,,,,Amelanchier,,,Amelanchier vulgaris,,CQQ8,3023885,5FK6D,7272307
+B314:1:17,Amelanchier rotundifolia,,Amelanchier,,rotundifolia,,species,,B314:1,synonym,B314:1:15,Amelanchier ovalis,,,,,,,,,Amelanchier,,,Amelanchier rotundifolia,,9JRLG,7992721,5FK6D,7992721
 B314:1:18,Araucaria araucana,,Araucaria,,araucana,,species,,B314:1,accepted,,,,,,,,,,,Araucaria,,,Araucaria araucana,,G67B,2684984,G67B,2684984
 B314:1:19,Arbutus unedo,,Arbutus,,unedo,,species,,B314:1,accepted,,,,,,,,,,,Arbutus,,,Arbutus unedo,,G6RG,2882803,G6RG,2882803
 B314:1:20,Betula pendula,,Betula,,pendula,,species,,B314:1,accepted,,,,,,,,,,,Betula,,,Betula pendula,,LPCQ,5331916,LPCQ,5331916
 B314:1:21,Betula pubescens,,Betula,,pubescens,,species,,B314:1,accepted,,,,,,,,,,,Betula,,,Betula pubescens,,LPDF,9118014,LPDF,9118014
 B314:1:22,Carpinus betulus,,Carpinus,,betulus,,species,,B314:1,accepted,,,,,,,,,,,Carpinus,,,Carpinus betulus,,RG23,10902857,RG23,10902857
 B314:1:23,Castanea sativa,,Castanea,,sativa,,species,,B314:1,accepted,,,,,,,,,,,Castanea,,,Castanea sativa,,5XCVW,5333294,5XCVW,5333294
-B314:1:24,Catalpa bignonioides,,Catalpa,,bignonioides,,species,,B314:1,accepted,,,,,,,,,,,Catalpa,,,Catalpa bignonioides,,99H5X,3172615,99H5X,3172615
+B314:1:24,Catalpa bignonioides,,Catalpa,,bignonioides,,species,,B314:1,accepted,,,,,,,,,,,Catalpa,,,Catalpa bignonioides,,RRY6,3172615,RRY6,3172615
 B314:1:25,Cedrus atlantica,,Cedrus,,atlantica,,species,,B314:1,accepted,,,,,,,,,,,Cedrus,,,Cedrus atlantica,,69GTZ,8074435,69GTZ,8074435
 B314:1:26,Ceratonia siliqua,,Ceratonia,,siliqua,,species,,B314:1,accepted,,,,,,,,,,,Ceratonia,,,Ceratonia siliqua,,SNNM,5356354,SNNM,5356354
 B314:1:27,Cercis siliquastrum,,Cercis,,siliquastrum,,species,,B314:1,accepted,,,,,,,,,,,Cercis,,,Cercis siliquastrum,,SSR7,5353590,SSR7,5353590
@@ -35,7 +35,7 @@ B314:1:33,Crataegus oxyacantha,,Crataegus,,oxyacantha,,species,,B314:1,synonym,B
 B314:1:34,Crataegus monogyna,,Crataegus,,monogyna,,species,,B314:1,accepted,,,,,,,,,,,Crataegus,,,Crataegus monogyna,,6BB5X,9038162,6BB5X,9038162
 B314:1:35,Cryptomeria japonica,,Cryptomeria,,japonica,,species,,B314:1,accepted,,,,,,,,,,,Cryptomeria,,,Cryptomeria japonica,,ZY5W,5284237,ZY5W,5284237
 B314:1:36,Cydonia oblunga,,Cydonia,,oblunga,,species,,B314:1,accepted,,,,,,,,,,,Cydonia,,,Cydonia oblunga,,32ZLZ,5362215,32ZLZ,5362215
-B314:1:37,Diospyros kaki,,Diospyros,,kaki,,species,,B314:1,accepted,,,,,,,,,,,Diospyros,,,Diospyros kaki,,CD7V5,3032984,CD7V5,3032984
+B314:1:37,Diospyros kaki,,Diospyros,,kaki,,species,,B314:1,accepted,,,,,,,,,,,Diospyros,,,Diospyros kaki,,6CWZ5,3032984,6CWZ5,3032984
 B314:1:38,Eucalyptus globulus,,Eucalyptus,,globulus,,species,,B314:1,accepted,,,,,,,,,,,Eucalyptus,,,Eucalyptus globulus,,3BPZ6,3176787,3BPZ6,3176787
 B314:1:39,Fagus sylvaticus,,Fagus,,sylvaticus,,species,,B314:1,accepted,,,,,,,,,,,Fagus,,,Fagus sylvaticus,,3DSK5,2882316,3DSK5,2882316
 B314:1:40,Ficus carica,,Ficus,,carica,,species,,B314:1,accepted,,,,,,,,,,,Ficus,,,Ficus carica,,6HVJJ,5361909,6HVJJ,5361909
@@ -45,7 +45,7 @@ B314:1:43,Fraxinus excelsior,,Fraxinus,,excelsior,,species,,B314:1,accepted,,,,,
 B314:1:44,Fraxinus ornus,,Fraxinus,,ornus,,species,,B314:1,accepted,,,,,,,,,,,Fraxinus,,,Fraxinus ornus,,6JMH8,3172347,6JMH8,3172347
 B314:1:45,Ginkgo biloba,,Ginkgo,,biloba,,species,,B314:1,accepted,,,,,,,,,,,Ginkgo,,,Ginkgo biloba,,3G3B3,2687885,3G3B3,2687885
 B314:1:46,Ilex aquifolium,,Ilex,,aquifolium,,species,,B314:1,accepted,,,,,,,,,,,Ilex,,,Ilex aquifolium,,6N77K,5414222,6N77K,5414222
-B314:1:47,Ilex ×altaclarensis,,Ilex,,×altaclarensis,,species,,B314:1,accepted,,,,,,,,,,,Ilex,,,Ilex × altaclarensis,,,5930559,,5930559
+B314:1:47,Ilex ×altaclarensis,,Ilex,,×altaclarensis,,species,,B314:1,accepted,,,,,,,,,,,Ilex,,,Ilex × altaclarensis,,PXGZ9,5930559,PXGZ9,5930559
 B314:1:48,Juglans regia,,Juglans,,regia,,species,,B314:1,accepted,,,,,,,,,,,Juglans,,,Juglans regia,,6NFN8,3054368,6NFN8,3054368
 B314:1:49,Juniperus communis,,Juniperus,,communis,,species,,B314:1,accepted,,,,,,,,,,,Juniperus,,,Juniperus communis,,6NGH4,2684709,6NGH4,2684709
 B314:1:50,Juniperus sabina,,Juniperus,,sabina,,species,,B314:1,accepted,,,,,,,,,,,Juniperus,,,Juniperus sabina,,6NGC2,7963890,6NGC2,7963890
@@ -58,7 +58,7 @@ B314:1:56,Magnolia ×soulangeana,,Magnolia,,×soulangeana,,species,,B314:1,accep
 B314:1:57,Malus domestica,,Malus,,domestica,,species,,B314:1,accepted,,,,,,,,,,,Malus,,,Malus domestica,,7NHJZ,3001244,7NHJZ,3001244
 B314:1:58,Malus floribunda,,Malus,,floribunda,,species,,B314:1,accepted,,,,,,,,,,,Malus,,,Malus floribunda,,9Y3S7,3001365,9Y3S7,3001365
 B314:1:59,Malus sylvestris,,Malus,,sylvestris,,species,,B314:1,accepted,,,,,,,,,,,Malus,,,Malus sylvestris,,3XQYH,3001509,3XQYH,3001509
-B314:1:60,Mespilus germanica,,Mespilus,,germanica,,species,,B314:1,accepted,,,,,,,,,,,Mespilus,,,Mespilus germanica,,6RBGS,3031774,6RBGS,3031774
+B314:1:60,Mespilus germanica,,Mespilus,,germanica,,species,,B314:1,accepted,,,,,,,,,,,Mespilus,,,Mespilus germanica,,6RBGS,3031774,KZY7R,3031774
 B314:1:61,Morus nigra,,Morus,,nigra,,species,,B314:1,accepted,,,,,,,,,,,Morus,,,Morus nigra,,44FTD,5361888,44FTD,5361888
 B314:1:62,Myrica gale,,Myrica,,gale,,species,,B314:1,accepted,,,,,,,,,,,Myrica,,,Myrica gale,,458DN,5414202,458DN,5414202
 B314:1:63,Nyssa sylvatica,,Nyssa,,sylvatica,,species,,B314:1,accepted,,,,,,,,,,,Nyssa,,,Nyssa sylvatica,,487MQ,5383717,487MQ,5383717
@@ -89,7 +89,7 @@ B314:1:87,Prunus avium,,Prunus,,avium,,species,,B314:1,accepted,,,,,,,,,,,Prunus
 B314:1:88,Prunus cerasifera,,Prunus,,cerasifera,,species,,B314:1,accepted,,,,,,,,,,,Prunus,,,Prunus cerasifera,,4N8QW,3021730,4N8QW,3021730
 B314:1:89,Prunus cerasus,,Prunus,,cerasus,,species,,B314:1,accepted,,,,,,,,,,,Prunus,,,Prunus cerasus,,4N8QS,3021922,4N8QS,3021922
 B314:1:90,Prunus domestica,,Prunus,,domestica,,species,,B314:1,accepted,,,,,,,,,,,Prunus,,,Prunus domestica,,4N8SY,7882872,4N8SY,7882872
-B314:1:91,Prunus insitita,,Prunus,,insitita,,species,,B314:1,synonym,B314:1:90,Prunus domestica,,,,,,,,,Prunus,,,Prunus insitita,,4N8WH,7992298,BNXGP,7992298
+B314:1:91,Prunus insitita,,Prunus,,insitita,,species,,B314:1,synonym,B314:1:90,Prunus domestica,,,,,,,,,Prunus,,,Prunus insitita,,4N8WH,7992298,5KPHR,7992298
 B314:1:92,Prunus dulcis,,Prunus,,dulcis,,species,,B314:1,accepted,,,,,,,,,,,Prunus,,,Prunus dulcis,,9YCLB,8620265,4N8P4,3020791
 B314:1:93,Prunus persica,,Prunus,,persica,,species,,B314:1,accepted,,,,,,,,,,,Prunus,,,Prunus persica,,4N94F,8149923,4N94F,8149923
 B314:1:94,Prunus serrulata,,Prunus,,serrulata,,species,,B314:1,accepted,,,,,,,,,,,Prunus,,,Prunus serrulata,,4N97T,3022609,4N97T,3022609
@@ -108,12 +108,12 @@ B314:1:106,Quercus rubra,,Quercus,,rubra,,species,,B314:1,accepted,,,,,,,,,,,Que
 B314:1:107,Quercus suber,,Quercus,,suber,,species,,B314:1,accepted,,,,,,,,,,,Quercus,,,Quercus suber,,4R678,2879411,4R678,2879411
 B314:1:108,Rhamnus alaternus,,Rhamnus,,alaternus,,species,,B314:1,accepted,,,,,,,,,,,Rhamnus,,,Rhamnus alaternus,,4RZWK,6371424,4RZWK,6371424
 B314:1:109,Rhamnus catharticus,,Rhamnus,,catharticus,,species,,B314:1,accepted,,,,,,,,,,,Rhamnus,,,Rhamnus catharticus,,4RZYQ,3039491,4RZYQ,3039491
-B314:1:110,Robinia pseudacacia,,Robinia,,pseudacacia,,species,,B314:1,accepted,,,,,,,,,,,Robinia,,,Robinia pseudacacia,,,5352257,,5352251
+B314:1:110,Robinia pseudacacia,,Robinia,,pseudacacia,,species,,B314:1,accepted,,,,,,,,,,,Robinia,,,Robinia pseudacacia,,78X72,5352257,4T7YV,5352251
 B314:1:111,Salix alba,,Salix,,alba,,species,,B314:1,accepted,,,,,,,,,,,Salix,,,Salix alba,,6XCGV,5372513,6XCGV,5372513
 B314:1:112,Salix babylonica,,Salix,,babylonica,,species,,B314:1,accepted,,,,,,,,,,,Salix,,,Salix babylonica,,6XCM7,5372639,6XCM7,5372639
 B314:1:113,Salix caprea,,Salix,,caprea,,species,,B314:1,accepted,,,,,,,,,,,Salix,,,Salix caprea,,6XCBJ,5372952,6XCBJ,5372952
 B314:1:114,Salix cinerea,,Salix,,cinerea,,species,,B314:1,accepted,,,,,,,,,,,Salix,,,Salix cinerea,,79CB3,5372605,79CB3,5372605
-B314:1:115,Salix elaeagnos,,Salix,,elaeagnos,,species,,B314:1,accepted,,,,,,,,,,,Salix,,,Salix elaeagnos,,,5582947,,5372655
+B314:1:115,Salix elaeagnos,,Salix,,elaeagnos,,species,,B314:1,accepted,,,,,,,,,,,Salix,,,Salix elaeagnos,,SKXZP,5582947,SKXZP,5372655
 B314:1:116,Salix helvetica,,Salix,,helvetica,,species,,B314:1,accepted,,,,,,,,,,,Salix,,,Salix helvetica,,79C7X,5582710,79C7X,5582710
 B314:1:117,Salix pentandra,,Salix,,pentandra,,species,,B314:1,accepted,,,,,,,,,,,Salix,,,Salix pentranda,,6XDRT,5372647,6XDRT,5372647
 B314:1:118,Salix repens,,Salix,,repens,,species,,B314:1,accepted,,,,,,,,,,,Salix,,,Salix repens,,79DTH,9148812,79DTH,9148812
@@ -123,10 +123,10 @@ B314:1:121,Sambucus nigra var. laciniata,,Sambucus,,nigra,laciniata,variety,,B31
 B314:1:122,Sciadopitys verticillata,,Sciadopitys,,verticillata,,species,,B314:1,accepted,,,,,,,,,,,Sciadopitys,,,Sciadopitys verticillata,,4VGZH,2684904,4VGZH,2684904
 B314:1:123,Sequoiadendron giganteum,,Sequoiadendron,,giganteum,,species,,B314:1,accepted,,,,,,,,,,,Sequoiadendron,,,Sequoiadendron giganteum,,4WSQK,2684120,4WSQK,2684120
 B314:1:124,Sophora japonica,,Sophora,,japonica,,species,,B314:1,accepted,,,,,,,,,,,Sophora,,,Sophora japonica,,6Z75Y,2963572,53BWG,2963569
-B314:1:125,Sorbus aria,,Sorbus,,aria,,species,,B314:1,accepted,,,,,,,,,,,Sorbus,,,Sorbus aria,,4YB8P,7956124,5VR7S,7956124
+B314:1:125,Sorbus aria,,Sorbus,,aria,,species,,B314:1,accepted,,,,,,,,,,,Sorbus,,,Sorbus aria,,KS96N,7956124,KS96N,7956124
 B314:1:126,Sorbus aucuparia,,Sorbus,,aucuparia,,species,,B314:1,accepted,,,,,,,,,,,Sorbus,,,Sorbus aucuparia,,4YB93,3012167,4YB93,3012167
-B314:1:127,Sorbus intermedia,,Sorbus,,intermedia,,species,,B314:1,accepted,,,,,,,,,,,Sorbus,,,Sorbus intermedia,,6YW2K,7497585,6Y48V,7497585
-B314:1:128,Sorbus torminalis,,Sorbus,,torminalis,,species,,B314:1,accepted,,,,,,,,,,,Sorbus,,,Sorbus torminalis,,4YBPZ,10730508,57FT9,9410160
+B314:1:127,Sorbus intermedia,,Sorbus,,intermedia,,species,,B314:1,accepted,,,,,,,,,,,Sorbus,,,Sorbus intermedia,,STDR6,7497585,V56MN,7497585
+B314:1:128,Sorbus torminalis,,Sorbus,,torminalis,,species,,B314:1,accepted,,,,,,,,,,,Sorbus,,,Sorbus torminalis,,4YBPY,10730508,GLJH,9410160
 B314:1:129,Staphylea pinnata,,Staphylea,,pinnata,,species,,B314:1,accepted,,,,,,,,,,,Staphylea,,,Staphylea pinnata,,6ZGB5,3686235,6ZGB5,3686235
 B314:1:130,Tamarix gallica,,Tamarix,,gallica,,species,,B314:1,accepted,,,,,,,,,,,Tamarix,,,Tamarix gallica,,54MBV,8380575,54MBV,8380575
 B314:1:131,Taxodium distichum,,Taxodium,,distichum,,species,,B314:1,accepted,,,,,,,,,,,Taxodium,,,Taxodium distichum,,5526G,2684191,5526G,2684191
@@ -136,7 +136,7 @@ B314:1:134,Tilia cordata,,Tilia,,cordata,,species,,B314:1,accepted,,,,,,,,,,,Til
 B314:1:135,Tilia platyphyllos,,Tilia,,platyphyllos,,species,,B314:1,accepted,,,,,,,,,,,Tilia,,,Tilia platyphyllos,,7CC2T,3152048,7CC2T,3152048
 B314:1:136,Tilia tomentosa,,Tilia,,tomentosa,,species,,B314:1,accepted,,,,,,,,,,,Tilia,,,Tilia tomentosa,,56WVQ,4259350,56WVQ,4259350
 B314:1:137,Tilia ×europaea,,Tilia,,×europaea,,species,,B314:1,accepted,,,,,,,,,,,Tilia,,,Tilia × europaea,,93LXC,3152046,93LXC,3152046
-B314:1:138,Tilia ×vulgaris,,Tilia,,×vulgaris,,species,,B314:1,synonym,B314:1:137,Tilia ×europaea,,,,,,,,,Tilia,,,Tilia × vulgaris,,7CC28,3152045,93LXC,3152046
+B314:1:138,Tilia ×vulgaris,,Tilia,,×vulgaris,,species,,B314:1,synonym,B314:1:137,Tilia ×europaea,,,,,,,,,Tilia,,,Tilia × vulgaris,,84L3F,3152045,93LXC,3152046
 B314:1:139,Tsuga heterophylla,,Tsuga,,heterophylla,,species,,B314:1,accepted,,,,,,,,,,,Tsuga,,,Tsuga heterophylla,,59HMG,2687210,59HMG,2687210
 B314:1:140,Ulmus glabra,,Ulmus,,glabra,,species,,B314:1,accepted,,,,,,,,,,,Ulmus,,,Ulmus glabra,,7DFJZ,5361866,7DFJZ,5361866
 B314:1:141,Ulmus minor,,Ulmus,,minor,,species,,B314:1,accepted,,,,,,,,,,,Ulmus,,,Ulmus minor,,7DFNR,5361865,7DFNR,5361865

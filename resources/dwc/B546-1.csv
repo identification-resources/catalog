@@ -1,31 +1,31 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B546:1:1,Pieridae,,,,,,family,,B546:1,accepted,,,,,,,,,Pieridae,,,,,Pieridae,,CBR4B,5481,CBR4B,5481
-B546:1:2,Anthocharis,,,,,,genus,,B546:1,accepted,,,B546:1:1,Pieridae,,,,,Pieridae,,Anthocharis,,Pieridae,Anthocharis,,C8YZ9,1919696,C8YZ9,1919696
+B546:1:1,Pieridae,,,,,,family,,B546:1,accepted,,,,,,,,,Pieridae,,,,,Pieridae,,625MK,5481,625MK,5481
+B546:1:2,Anthocharis,,,,,,genus,,B546:1,accepted,,,B546:1:1,Pieridae,,,,,Pieridae,,Anthocharis,,Pieridae,Anthocharis,,XDF,1919696,XDF,1919696
 B546:1:3,Anthocharis cardamines,,Anthocharis,,cardamines,,species,,B546:1,accepted,,,B546:1:2,Anthocharis,,,,,Pieridae,,Anthocharis,,Pieridae | Anthocharis,cardamines,,5VC9R,1919712,5VC9R,1919712
 B546:1:4,Aporia,,,,,,genus,,B546:1,accepted,,,B546:1:1,Pieridae,,,,,Pieridae,,Aporia,,Pieridae,Aporia,,Z3J,8319926,Z3J,8319926
 B546:1:5,Aporia crataegi,,Aporia,,crataegi,,species,,B546:1,accepted,,,B546:1:4,Aporia,,,,,Pieridae,,Aporia,,Pieridae | Aporia,crataegi,,5VQKD,1920218,5VQKD,1920218
 B546:1:6,Gonepteryx,,,,,,genus,,B546:1,accepted,,,B546:1:1,Pieridae,,,,,Pieridae,,Gonepteryx,,Pieridae,Gonepteryx,,4PZD,1920704,4PZD,1920704
 B546:1:7,Gonepteryx rhamni,,Gonepteryx,,rhamni,,species,,B546:1,accepted,,,B546:1:6,Gonepteryx,,,,,Pieridae,,Gonepteryx,,Pieridae | Gonepteryx,rhamni,,6L326,1920712,6L326,1920712
-B546:1:8,Colias,,,,,,genus,,B546:1,accepted,,,B546:1:1,Pieridae,,,,,Pieridae,,Colias,,Pieridae,Colias,,C9B9Q,11311228,C9B9Q,11311228
+B546:1:8,Colias,,,,,,genus,,B546:1,accepted,,,B546:1:1,Pieridae,,,,,Pieridae,,Colias,,Pieridae,Colias,,3S9M,11311228,3S9M,11311228
 B546:1:9,Colias alfacariensis,,Colias,,alfacariensis,,species,,B546:1,accepted,,,B546:1:8,Colias,,,,,Pieridae,,Colias,,Pieridae | Colias,alfacariensis,,5ZLPL,8203812,5ZLPL,8203812
 B546:1:10,Colias crocea,,Colias,,crocea,,species,,B546:1,accepted,,,B546:1:8,Colias,,,,,Pieridae,,Colias,,Pieridae | Colias,crocea,,5ZLQ4,5137612,5ZLQ4,5137612
 B546:1:11,Leptidea,,,,,,genus,,B546:1,accepted,,,B546:1:1,Pieridae,,,,,Pieridae,,Leptidea,,Pieridae,Leptidea,,5CTM,11251585,5CTM,11251585
 B546:1:12,Leptidea sinapis,,Leptidea,,sinapis,,species,,B546:1,accepted,,,B546:1:11,Leptidea,,,,,Pieridae,,Leptidea,,Pieridae | Leptidea,sinapis,,3TJNN,5137903,3TJNN,5137903
-B546:1:13,Pieris,,,,,,genus,,B546:1,accepted,,,B546:1:1,Pieridae,,,,,Pieridae,,Pieris,,Pieridae,Pieris,,CBT33,11294802,CBT33,11294802
+B546:1:13,Pieris,,,,,,genus,,B546:1,accepted,,,B546:1:1,Pieridae,,,,,Pieridae,,Pieris,,Pieridae,Pieris,,6QB2,11294802,6QB2,11294802
 B546:1:14,Pieris rapae,,Pieris,,rapae,,species,,B546:1,accepted,,,B546:1:13,Pieris,,,,,Pieridae,,Pieris,,Pieridae | Pieris,rapae,,4HRRC,1920496,4HRRC,1920496
 B546:1:15,Pieris napi,,Pieris,,napi,,species,,B546:1,accepted,,,B546:1:13,Pieris,,,,,Pieridae,,Pieris,,Pieridae | Pieris,napi,,4HRQQ,1920494,4HRQQ,1920494
 B546:1:16,Pieris brassicae,,Pieris,,brassicae,,species,,B546:1,accepted,,,B546:1:13,Pieris,,,,,Pieridae,,Pieris,,Pieridae | Pieris,brassicae,,4HRN4,1920506,4HRN4,1920506
-B546:1:17,Papilionidae,,,,,,family,,B546:1,accepted,,,,,,,,,Papilionidae,,,,,Papilionidae,,CBR3G,9417,CBR3G,9417
-B546:1:18,Parnassius,,,,,,genus,,B546:1,accepted,,,B546:1:17,Papilionidae,,,,,Papilionidae,,Parnassius,,Papilionidae,Parnassius,,CBQYM,1938238,CBQYM,1938238
+B546:1:17,Papilionidae,,,,,,family,,B546:1,accepted,,,,,,,,,Papilionidae,,,,,Papilionidae,,DX5,9417,DX5,9417
+B546:1:18,Parnassius,,,,,,genus,,B546:1,accepted,,,B546:1:17,Papilionidae,,,,,Papilionidae,,Parnassius,,Papilionidae,Parnassius,,6HYL,1938238,6HYL,1938238
 B546:1:19,Parnassius apollo,,Parnassius,,apollo,,species,,B546:1,accepted,,,B546:1:18,Parnassius,,,,,Papilionidae,,Parnassius,,Papilionidae | Parnassius,apollo,,4DQ9X,1938810,4DQ9X,1938810
 B546:1:20,Parnassius mnemosyne,,Parnassius,,mnemosyne,,species,,B546:1,accepted,,,B546:1:18,Parnassius,,,,,Papilionidae,,Parnassius,,Papilionidae | Parnassius,mnemosyne,,4DQB6,1938520,4DQB6,1938520
 B546:1:21,Iphiclides,,,,,,genus,,B546:1,accepted,,,B546:1:17,Papilionidae,,,,,Papilionidae,,Iphiclides,,Papilionidae,Iphiclides,,54T7,11247998,54T7,11247998
 B546:1:22,Iphiclides podalirius,,Iphiclides,,podalirius,,species,,B546:1,accepted,,,B546:1:21,Iphiclides,,,,,Papilionidae,,Iphiclides,,Papilionidae | Iphiclides,podalirius,,6N94P,1938214,6N94P,1938214
-B546:1:23,Lycaenidae,,,,,,family,,B546:1,accepted,,,,,,,,,Lycaenidae,,,,,Lycaenidae,,B6LHC,5473,B6LHC,5473
+B546:1:23,Lycaenidae,,,,,,family,,B546:1,accepted,,,,,,,,,Lycaenidae,,,,,Lycaenidae,,C98,5473,C98,5473
 B546:1:24,Celastrina,,,,,,genus,,B546:1,accepted,,,B546:1:23,Lycaenidae,,,,,Lycaenidae,,Celastrina,,Lycaenidae,Celastrina,,9CKBC,1925804,9CKBC,1925804
 B546:1:25,Celastrina argiolus,,Celastrina,,argiolus,,species,,B546:1,accepted,,,B546:1:24,Celastrina,,,,,Lycaenidae,,Celastrina,,Lycaenidae | Celastrina,argiolus,,S2R3,1925918,S2R3,1925918
 B546:1:26,Polyommatus,,,,,,genus,,B546:1,accepted,,,B546:1:23,Lycaenidae,,,,,Lycaenidae,,Polyommatus,,Lycaenidae,Polyommatus,,9CLR4,1933268,9CLR4,1933268
-B546:1:27,Polyommatus amandus,,Polyommatus,,amandus,,species,,B546:1,accepted,,,B546:1:26,Polyommatus,,,,,Lycaenidae,,Polyommatus,,Lycaenidae | Polyommatus,amandus,,,7597891,,5138543
+B546:1:27,Polyommatus amandus,,Polyommatus,,amandus,,species,,B546:1,accepted,,,B546:1:26,Polyommatus,,,,,Lycaenidae,,Polyommatus,,Lycaenidae | Polyommatus,amandus,,S8D7R,7597891,4K2BX,5138543
 B546:1:28,Polyommatus icarus,,Polyommatus,,icarus,,species,,B546:1,accepted,,,B546:1:26,Polyommatus,,,,,Lycaenidae,,Polyommatus,,Lycaenidae | Polyommatus,icarus,,4LCR7,5140214,4LCR7,5140214
 B546:1:29,Cupido,,,,,,genus,,B546:1,accepted,,,B546:1:23,Lycaenidae,,,,,Lycaenidae,,Cupido,,Lycaenidae,Cupido,,9CKGL,3257152,9CKGL,3257152
 B546:1:30,Cupido minimus,,Cupido,,minimus,,species,,B546:1,accepted,,,B546:1:29,Cupido,,,,,Lycaenidae,,Cupido,,Lycaenidae | Cupido,minimus,,32FR9,1926260,32FR9,1926260
@@ -33,7 +33,7 @@ B546:1:31,Plebejus,,,,,,genus,,B546:1,accepted,,,B546:1:23,Lycaenidae,,,,,Lycaen
 B546:1:32,Plebejus argus,,Plebejus,,argus,,species,,B546:1,accepted,,,B546:1:31,Plebejus,,,,,Lycaenidae,,Plebejus,,Lycaenidae | Plebejus,argus,,4K2C4,5138561,4K2C4,5138561
 B546:1:33,Cyaniris,,,,,,genus,,B546:1,accepted,,,B546:1:23,Lycaenidae,,,,,Lycaenidae,,Cyaniris,,Lycaenidae,Cyaniris,,9CKGT,1928447,9CKGT,1928447
 B546:1:34,Cyaniris semiargus,,Cyaniris,,semiargus,,species,,B546:1,accepted,,,B546:1:33,Cyaniris,,,,,Lycaenidae,,Cyaniris,,Lycaenidae | Cyaniris,semiargus,,32NGW,5139156,32NGW,5139156
-B546:1:35,Aricia,,,,,,genus,,B546:1,accepted,,,B546:1:23,Lycaenidae,,,,,Lycaenidae,,Aricia,,Lycaenidae,Aricia,,B6LVM,8659047,B6LVM,8659047
+B546:1:35,Aricia,,,,,,genus,,B546:1,accepted,,,B546:1:23,Lycaenidae,,,,,Lycaenidae,,Aricia,,Lycaenidae,Aricia,,9CHY3,8659047,9CHY3,8659047
 B546:1:36,Aricia agestis,,Aricia,,agestis,,species,,B546:1,accepted,,,B546:1:35,Aricia,,,,,Lycaenidae,,Aricia,,Lycaenidae | Aricia,agestis,,GLXN,1933095,GLXN,1933095
 B546:1:37,Maculinea,,,,,,genus,,B546:1,accepted,,,B546:1:23,Lycaenidae,,,,,Lycaenidae,,Maculinea,,Lycaenidae,Maculinea,,9CJ2S,1922308,9CJ2S,1922308
 B546:1:38,Maculinea arion,,Maculinea,,arion,,species,,B546:1,accepted,,,B546:1:37,Maculinea,,,,,Lycaenidae,,Maculinea,,Lycaenidae | Maculinea,arion,,3XDQM,1922311,3XDQM,1922311
@@ -56,7 +56,7 @@ B546:1:54,Erynnis tages,,Erynnis,,tages,,species,,B546:1,accepted,,,B546:1:53,Er
 B546:1:55,Hesperia,,,,,,genus,,B546:1,accepted,,,B546:1:48,Hesperiidae,,,,,Hesperiidae,,Hesperia,,Hesperiidae,Hesperia,,92BGQ,5142228,92BGQ,5142228
 B546:1:56,Hesperia comma,,Hesperia,,comma,,species,,B546:1,accepted,,,B546:1:55,Hesperia,,,,,Hesperiidae,,Hesperia,,Hesperiidae | Hesperia,comma,,3L4K7,7633472,3L4K7,7633472
 B546:1:57,Pyrgus,,,,,,genus,,B546:1,accepted,,,B546:1:48,Hesperiidae,,,,,Hesperiidae,,Pyrgus,,Hesperiidae,Pyrgus,,92LKR,11233099,92LKR,11233099
-B546:1:58,Pyrgus carthami,,Pyrgus,,carthami,,species,,B546:1,accepted,,,B546:1:57,Pyrgus,,,,,Hesperiidae,,Pyrgus,,Hesperiidae | Pyrgus,carthami,,,7637698,,5142394
+B546:1:58,Pyrgus carthami,,Pyrgus,,carthami,,species,,B546:1,accepted,,,B546:1:57,Pyrgus,,,,,Hesperiidae,,Pyrgus,,Hesperiidae | Pyrgus,carthami,,S9SKM,7637698,6WQCT,5142394
 B546:1:59,Pyrgus sidae,,Pyrgus,,sidae,,species,,B546:1,accepted,,,B546:1:57,Pyrgus,,,,,Hesperiidae,,Pyrgus,,Hesperiidae | Pyrgus,sidae,,792CZ,1949877,792CZ,1949877
 B546:1:60,Pyrgus malvoides,,Pyrgus,,malvoides,,species,,B546:1,accepted,,,B546:1:57,Pyrgus,,,,,Hesperiidae,,Pyrgus,,Hesperiidae | Pyrgus,malvoides,,6WQD7,1949938,6WQD7,1949938
 B546:1:61,Thymelicus,,,,,,genus,,B546:1,accepted,,,B546:1:48,Hesperiidae,,,,,Hesperiidae,,Thymelicus,,Hesperiidae,Thymelicus,,92PCW,1944007,92PCW,1944007
@@ -80,19 +80,19 @@ B546:1:78,Libythea,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymph
 B546:1:79,Libythea celtis,,Libythea,,celtis,,species,,B546:1,accepted,,,B546:1:78,Libythea,,,,,Nymphalidae,,Libythea,,Nymphalidae | Libythea,celtis,,728HL,12155203,728HL,12155203
 B546:1:80,Limenitis,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Limenitis,,Nymphalidae,Limenitis,,92DBX,5131972,92DBX,5131972
 B546:1:81,Limenitis reducta,,Limenitis,,reducta,,species,,B546:1,accepted,,,B546:1:80,Limenitis,,,,,Nymphalidae,,Limenitis,,Nymphalidae | Limenitis,reducta,,6QB2Z,8001799,6QB2Z,8001799
-B546:1:82,Papilio,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Papilio,,Nymphalidae,Papilio,,CBQZ9,10175914,CBQZ9,10175914
+B546:1:82,Papilio,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Papilio,,Nymphalidae,Papilio,,6DFM,10175914,6DFM,10175914
 B546:1:83,Papilio machaon,,Papilio,,machaon,,species,,B546:1,accepted,,,B546:1:82,Papilio,,,,,Nymphalidae,,Papilio,,Nymphalidae | Papilio,machaon,,4CKH8,1937866,4CKH8,1937866
 B546:1:84,Brenthis,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Brenthis,,Nymphalidae,Brenthis,,9243T,1902707,9243T,1902707
 B546:1:85,Brenthis daphne,,Brenthis,,daphne,,species,,B546:1,accepted,,,B546:1:84,Brenthis,,,,,Nymphalidae,,Brenthis,,Nymphalidae | Brenthis,daphne,,N987,9714195,N987,9714195
 B546:1:86,Boloria,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Boloria,,Nymphalidae,Boloria,,923X6,1912319,923X6,1912319
-B546:1:87,Boloria euphrosyne,,Boloria,,euphrosyne,,species,,B546:1,accepted,,,B546:1:86,Boloria,,,,,Nymphalidae,,Boloria,,Nymphalidae | Boloria,euphrosyne,,,5772893,,1894268
+B546:1:87,Boloria euphrosyne,,Boloria,,euphrosyne,,species,,B546:1,accepted,,,B546:1:86,Boloria,,,,,Nymphalidae,,Boloria,,Nymphalidae | Boloria,euphrosyne,,M97F3,5772893,5ZDHF,1894268
 B546:1:88,Issoria,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Issoria,,Nymphalidae,Issoria,,92CKV,1905339,92CKV,1905339
 B546:1:89,Issoria lathonia,,Issoria,,lathonia,,species,,B546:1,accepted,,,B546:1:88,Issoria,,,,,Nymphalidae,,Issoria,,Nymphalidae | Issoria,lathonia,,3QD32,1905383,3QD32,1905383
 B546:1:90,Argynnis,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Argynnis,,Nymphalidae,Argynnis,,922VL,1909334,922VL,1909334
-B546:1:91,Argynnis aglaja,,Argynnis,,aglaja,,species,,B546:1,accepted,,,B546:1:90,Argynnis,,,,,Nymphalidae,,Argynnis,,Nymphalidae | Argynnis,aglaja,,93QQR,4535447,C8BVR,6221746
+B546:1:91,Argynnis aglaja,,Argynnis,,aglaja,,species,,B546:1,accepted,,,B546:1:90,Argynnis,,,,,Nymphalidae,,Argynnis,,Nymphalidae | Argynnis,aglaja,,93QQR,4535447,93N9L,6221746
 B546:1:92,Argynnis paphia,,Argynnis,,paphia,,species,,B546:1,accepted,,,B546:1:90,Argynnis,,,,,Nymphalidae,,Argynnis,,Nymphalidae | Argynnis,paphia,,GHVW,1909398,GHVW,1909398
 B546:1:93,Argynnis niobe,,Argynnis,,niobe,,species,,B546:1,accepted,,,B546:1:90,Argynnis,,,,,Nymphalidae,,Argynnis,,Nymphalidae | Argynnis,niobe,,93QRR,4535439,3DR63,8078362
-B546:1:94,Argynnis adippe,,Argynnis,,adippe,,species,,B546:1,accepted,,,B546:1:90,Argynnis,,,,,Nymphalidae,,Argynnis,,Nymphalidae | Argynnis,adippe,,GHTV,7931431,6HLWG,7809779
+B546:1:94,Argynnis adippe,,Argynnis,,adippe,,species,,B546:1,accepted,,,B546:1:90,Argynnis,,,,,Nymphalidae,,Argynnis,,Nymphalidae | Argynnis,adippe,,LVX3B,7931431,6HLWG,7809779
 B546:1:95,Coenonympha,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Coenonympha,,Nymphalidae,Coenonympha,,925QM,11235790,925QM,11235790
 B546:1:96,Coenonympha arcania,,Coenonympha,,arcania,,species,,B546:1,accepted,,,B546:1:95,Coenonympha,,,,,Nymphalidae,,Coenonympha,,Nymphalidae | Coenonympha,arcania,,5ZJPH,7728366,5ZJPH,7728366
 B546:1:97,Coenonympha pamphilus,,Coenonympha,,pamphilus,,species,,B546:1,accepted,,,B546:1:95,Coenonympha,,,,,Nymphalidae,,Coenonympha,,Nymphalidae | Coenonympha,pamphilus,,5ZJCN,1911461,5ZJCN,1911461
@@ -106,10 +106,10 @@ B546:1:104,Hipparchia semele,,Hipparchia,,semele,,species,,B546:1,accepted,,,B54
 B546:1:105,Hyponephele,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Hyponephele,,Nymphalidae,Hyponephele,,92C7N,1906451,92C7N,1906451
 B546:1:106,Hyponephele lycaon,,Hyponephele,,lycaon,,species,,B546:1,accepted,,,B546:1:105,Hyponephele,,,,,Nymphalidae,,Hyponephele,,Nymphalidae | Hyponephele,lycaon,,3NXQ9,8208583,3NXQ9,8208583
 B546:1:107,Euphydryas,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Euphydryas,,Nymphalidae,Euphydryas,,928X8,1895130,928X8,1895130
-B546:1:108,Euphydryas aurinia,,Euphydryas,,aurinia,,species,,B546:1,accepted,,,B546:1:107,Euphydryas,,,,,Nymphalidae,,Euphydryas,,Nymphalidae | Euphydryas,aurinia,,,4535809,,4535809
+B546:1:108,Euphydryas aurinia,,Euphydryas,,aurinia,,species,,B546:1,accepted,,,B546:1:107,Euphydryas,,,,,Nymphalidae,,Euphydryas,,Nymphalidae | Euphydryas,aurinia,,NW8JT,4535809,3D28B,4535809
 B546:1:109,Lasiommata,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Lasiommata,,Nymphalidae,Lasiommata,,93NSZ,11340077,92J5D,11340077
-B546:1:110,Lasiommata maera,,Lasiommata,,maera,,species,,B546:1,accepted,,,B546:1:109,Lasiommata,,,,,Nymphalidae,,Lasiommata,,Nymphalidae | Lasiommata,maera,,,4535636,,4535636
-B546:1:111,Lasiommata megera,,Lasiommata,,megera,,species,,B546:1,accepted,,,B546:1:109,Lasiommata,,,,,Nymphalidae,,Lasiommata,,Nymphalidae | Lasiommata,megera,,,4535632,,4535632
+B546:1:110,Lasiommata maera,,Lasiommata,,maera,,species,,B546:1,accepted,,,B546:1:109,Lasiommata,,,,,Nymphalidae,,Lasiommata,,Nymphalidae | Lasiommata,maera,,Q9KXN,4535636,6TQRY,4535636
+B546:1:111,Lasiommata megera,,Lasiommata,,megera,,species,,B546:1,accepted,,,B546:1:109,Lasiommata,,,,,Nymphalidae,,Lasiommata,,Nymphalidae | Lasiommata,megera,,Q9KYP,4535632,6TQRZ,4535632
 B546:1:112,Melitaea,,,,,,genus,,B546:1,accepted,,,B546:1:66,Nymphalidae,,,,,Nymphalidae,,Melitaea,,Nymphalidae,Melitaea,,92F8N,11366402,92F8N,11366402
 B546:1:113,Melitaea cinxia,,Melitaea,,cinxia,,species,,B546:1,accepted,,,B546:1:112,Melitaea,,,,,Nymphalidae,,Melitaea,,Nymphalidae | Melitaea,cinxia,,3ZK77,8168644,3ZK77,8168644
 B546:1:114,Melitaea phoebe,,Melitaea,,phoebe,,species,,B546:1,accepted,,,B546:1:112,Melitaea,,,,,Nymphalidae,,Melitaea,,Nymphalidae | Melitaea,phoebe,,6QY6N,7934873,6QY6N,7934873

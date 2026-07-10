@@ -1,12 +1,12 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2816:1:1,Geotomus Muls.-Rey,Muls.-Rey,,,,,genus,,B2816:1,accepted,,,,,,,,,,,Geotomus,,,Geotomus Muls.-Rey,,,2078736,,2078736
+B2816:1:1,Geotomus Muls.-Rey,Muls.-Rey,,,,,genus,,B2816:1,accepted,,,,,,,,,,,Geotomus,,,Geotomus Muls.-Rey,,PCND5,2078736,PCND5,2078736
 B2816:1:2,Geotomus intrusus,,Geotomus,,intrusus,,species,nov. spec.,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,intrusus nov. spec.,,,4486128,,4486127
 B2816:1:3,Geotomus latiusculus Horv.,Horv.,Geotomus,,latiusculus,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,latiusculus Horv.,,,,,
 B2816:1:4,Geotomus laticollis Reut. 1900,Reut. 1900,Geotomus,,laticollis,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,laticollis Reut. 1900,,,,,
-B2816:1:5,Geotomus antennatus Sign.,Sign.,Geotomus,,antennatus,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,antennatus Sign.,,,10738645,,10738645
+B2816:1:5,Geotomus antennatus Sign.,Sign.,Geotomus,,antennatus,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,antennatus Sign.,,PCNFC,10738645,PCNFC,10738645
 B2816:1:6,Geotomus longicornis,,Geotomus,,longicornis,,species,nov. spec.,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,longicornis nov. spec.,,,4486124,,4486124
 B2816:1:7,Geotomus regnieri Vid.,Vid.,Geotomus,,regnieri,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,regnieri Vid.,,,4486123,,4486123
-B2816:1:8,Geotomus elongatus H. S.,H. S.,Geotomus,,elongatus,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,elongatus H. S.,,,4486118,,4486118
+B2816:1:8,Geotomus elongatus H. S.,H. S.,Geotomus,,elongatus,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,elongatus H. S.,,PCNGX,4486118,PCNGX,4486118
 B2816:1:9,Geotomus elongatus subsp. elongatus H. S.,H. S.,Geotomus,,elongatus,elongatus,subspecies,,B2816:1,accepted,,,B2816:1:8,Geotomus elongatus H. S.,,,,,,,Geotomus,,Geotomus | Geotomus elongatus,elongatus elongatus H. S.,,,,,
 B2816:1:10,Geotomus elongatus subsp. angustus,,Geotomus,,elongatus,angustus,subspecies,nov. subspec.,B2816:1,accepted,,,B2816:1:8,Geotomus elongatus H. S.,,,,,,,Geotomus,,Geotomus | Geotomus elongatus,elongatus angustus nov. subspec.,,,,,
 B2816:1:11,Geotomus algiricus Vid.,Vid.,Geotomus,,algiricus,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,algiricus Vid.,,,,,
@@ -14,5 +14,5 @@ B2816:1:12,Geotomus simillimus,,Geotomus,,simillimus,,species,nov. spec.,B2816:1
 B2816:1:13,Geotomus caucasicus Klti.,Klti.,Geotomus,,caucasicus,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,caucasicus Klti.,,,,,
 B2816:1:14,Geotomus caucasicus subsp. caucasicus Klti.,Klti.,Geotomus,,caucasicus,caucasicus,subspecies,,B2816:1,accepted,,,B2816:1:13,Geotomus caucasicus Klti.,,,,,,,Geotomus,,Geotomus | Geotomus caucasicus,caucasicus caucasicus Klti.,,,,,
 B2816:1:15,Geotomus caucasicus subsp. ciliatitylus Sign.,Sign.,Geotomus,,caucasicus,ciliatitylus,subspecies,,B2816:1,accepted,,,B2816:1:13,Geotomus caucasicus Klti.,,,,,,,Geotomus,,Geotomus | Geotomus caucasicus,caucasicus ciliatitylus Sign.,,,,,
-B2816:1:16,Geotomus brunnipennis,,Geotomus,,brunnipennis,,species,nov. spec.,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,brunnipennis nov. spec.,,,4486125,,4486125
-B2816:1:17,Geotomus punctulatus Costa,Costa,Geotomus,,punctulatus,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,punctulatus Costa,,,4486116,,4486116
+B2816:1:16,Geotomus brunnipennis,,Geotomus,,brunnipennis,,species,nov. spec.,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,brunnipennis nov. spec.,,PCNFX,4486125,PCNFX,4486125
+B2816:1:17,Geotomus punctulatus Costa,Costa,Geotomus,,punctulatus,,species,,B2816:1,accepted,,,B2816:1:1,Geotomus Muls.-Rey,,,,,,,Geotomus,,Geotomus,punctulatus Costa,,PCNMY,4486116,PCNMY,4486116

@@ -1,25 +1,25 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B56:1:1,Phthiria,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Phthiria,,,Phthiria,,BXWRX,1669587,BXWRX,1669587
 B56:1:2,"Phthiria canescens Loew, 1846","Loew, 1846",Phthiria,,canescens,,species,,B56:1,accepted,,,B56:1:1,Phthiria,,,,,,,Phthiria,,Phthiria,"Phthiria canescens Loew, 1846",,8DC29,4516445,8DC29,4516445
-B56:1:3,"Phthiria minuta Fabricius, 1805","Fabricius, 1805",Phthiria,,minuta,,species,,B56:1,accepted,,,B56:1:1,Phthiria,,,,,,,Phthiria,,Phthiria,"Phthiria minuta Fabricius, 1805",,6VDRC,1669638,6VDRC,1669638
+B56:1:3,"Phthiria minuta Fabricius, 1805","Fabricius, 1805",Phthiria,,minuta,,species,,B56:1,accepted,,,B56:1:1,Phthiria,,,,,,,Phthiria,,Phthiria,"Phthiria minuta Fabricius, 1805",,6VDRC,1669638,4GXQL,1669638
 B56:1:4,"Phthiria pulicaria (Mikan, 1796)","(Mikan, 1796)",Phthiria,,pulicaria,,species,,B56:1,accepted,,,B56:1:1,Phthiria,,,,,,,Phthiria,,Phthiria,Phthiria pulicaria Mikan 1796,,6VDRB,4516441,6VDRB,4516441
 B56:1:5,Conophorus,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Conophorus,,,Conophorus,,8HDY7,1242839,8HDY7,1242839
 B56:1:6,Conophorus virescens,,Conophorus,,virescens,,species,,B56:1,accepted,,,B56:1:5,Conophorus,,,,,,,Conophorus,,Conophorus,Conophorus virescens,,XRMQ,5093175,XRMQ,5093175
 B56:1:7,Systoechus,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Systoechus,,,Systoechus,,BXYH2,1672501,BXYH2,1672501
-B56:1:8,Systoechus ctenophorus,,Systoechus,,ctenophorus,,species,,B56:1,accepted,,,B56:1:7,Systoechus,,,,,,,Systoechus,,Systoechus,ctenophorus,,,6098821,,1672547
-B56:1:9,Systoechus sulphureus,,Systoechus,,sulphureus,,species,,B56:1,synonym,B56:1:8,Systoechus ctenophorus,,,,,,,,,Systoechus,,Systoechus,Systoechus sulphureus,,,6098822,,1672547
+B56:1:8,Systoechus ctenophorus,,Systoechus,,ctenophorus,,species,,B56:1,accepted,,,B56:1:7,Systoechus,,,,,,,Systoechus,,Systoechus,ctenophorus,,T3WS8,6098821,544TH,1672547
+B56:1:9,Systoechus sulphureus,,Systoechus,,sulphureus,,species,,B56:1,synonym,B56:1:8,Systoechus ctenophorus,,,,,,,,,Systoechus,,Systoechus,Systoechus sulphureus,,T3XC7,6098822,544TH,1672547
 B56:1:10,Bombylius,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Bombylius,,,Bombylius,,BXYFC,1500120,BXYFC,1500120
 B56:1:11,"Bombylius discolor Mikan, 1796","Mikan, 1796",Bombylius,,discolor,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,"Bombylius discolor Mikan, 1796",,8B7ZD,1670281,8B7ZD,1670281
 B56:1:12,"Bombylius medius Linnaeus, 1758","Linnaeus, 1758",Bombylius,,medius,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,"Bombylius medius Linnaeus, 1758",,MGD9,1670279,MGD9,1670279
-B56:1:13,"Bombylius major Linnaeus, 1758","Linnaeus, 1758",Bombylius,,major,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,"Bombylius major Linnaeus, 1758",,8B82T,1670212,8B82T,1670212
-B56:1:14,Bombylius fimbriatus Meigen 1820,Meigen 1820,Bombylius,,fimbriatus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,Bombylius fimbriatus Meigen 1820,,8B7ZW,4788018,8B7ZW,4788018
+B56:1:13,"Bombylius major Linnaeus, 1758","Linnaeus, 1758",Bombylius,,major,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,"Bombylius major Linnaeus, 1758",,MGCX,1670212,MGCX,1670212
+B56:1:14,Bombylius fimbriatus Meigen 1820,Meigen 1820,Bombylius,,fimbriatus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,Bombylius fimbriatus Meigen 1820,,8B899,4788018,8B899,4788018
 B56:1:15,"Bombylius ater Scopoli, 1763","Scopoli, 1763",Bombylius,,ater,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,"Bombylius ater Scopoli, 1763",,8B87M,5093929,MG22,1670940
-B56:1:16,Bombylius venosus Mikan 1796,Mikan 1796,Bombylius,,venosus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,Bombylius venosus Mikan 1796,,8B85Z,1670312,8B85Z,1670312
-B56:1:17,"Bombylius canescens Mikan, 1796","Mikan, 1796",Bombylius,,canescens,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,"Bombylius canescens Mikan, 1796",,8B7YR,1670622,8B7YR,1670622
-B56:1:18,Bombylius cinerascens Mikan 1796,Mikan 1796,Bombylius,,cinerascens,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,Bombylius cinerascens Mikan 1796,,8B7YT,1670575,8B7YT,1670575
+B56:1:16,Bombylius venosus Mikan 1796,Mikan 1796,Bombylius,,venosus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,Bombylius venosus Mikan 1796,,MGLS,1670312,MGLS,1670312
+B56:1:17,"Bombylius canescens Mikan, 1796","Mikan, 1796",Bombylius,,canescens,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,"Bombylius canescens Mikan, 1796",,MG7G,1670622,MG7G,1670622
+B56:1:18,Bombylius cinerascens Mikan 1796,Mikan 1796,Bombylius,,cinerascens,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,Bombylius cinerascens Mikan 1796,,MG7T,1670575,MG7T,1670575
 B56:1:19,"Bombylius vulpinus Wiedemann, 1820","Wiedemann, 1820",Bombylius,,vulpinus,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,"Bombylius vulpinus Wiedemann, 1820",,882KP,1670614,68PH7,1670614
-B56:1:20,"Bombylius minor Linnaeus, 1758","Linnaeus, 1758",Bombylius,,minor,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,"Bombylius minor Linnaeus, 1758",,9H82C,1670250,9H82C,1670250
-B56:1:21,Glabellula,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Glabellula,,,Glabellula,,BY22W,5076520,BY22W,5076520
+B56:1:20,"Bombylius minor Linnaeus, 1758","Linnaeus, 1758",Bombylius,,minor,,species,,B56:1,accepted,,,B56:1:10,Bombylius,,,,,,,Bombylius,,Bombylius,"Bombylius minor Linnaeus, 1758",,MGDS,1670250,MGDS,1670250
+B56:1:21,Glabellula,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Glabellula,,,Glabellula,,B6Q2F,5076520,B6Q2F,5076520
 B56:1:22,Glabellula arctica,,Glabellula,,arctica,,species,,B56:1,accepted,,,B56:1:21,Glabellula,,,,,,,Glabellula,,Glabellula,Glabellula arctica,,3G47K,5076531,3G47K,5076531
 B56:1:23,Lomatia,,,,,,genus,,B56:1,accepted,,,,,,,,,,,Lomatia,,,Lomatia,,BXXKP,1667951,BXXKP,1667951
 B56:1:24,Lomatia lateralis,,Lomatia,,lateralis,,species,,B56:1,accepted,,,B56:1:23,Lomatia,,,,,,,Lomatia,,Lomatia,Lomatia lateralis,,3VWXC,5093078,3VWXC,5093078

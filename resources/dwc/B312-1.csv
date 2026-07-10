@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B312:1:1,Abortiporus biennis,,Abortiporus,,biennis,,species,,B312:1,accepted,,,,,,,,,,,Abortiporus,,,Abortiporus biennis,,C8VQX,2544114,C8VQX,2544114
-B312:1:2,Daedalea biennis,,Daedalea,,biennis,,species,,B312:1,synonym,B312:1:1,Abortiporus biennis,,,,,,,,,Abortiporus,,,Daedalea biennis,,33XT5,2544125,C8VQX,2544114
-B312:1:3,Heteroporus biennis,,Heteroporus,,biennis,,species,,B312:1,synonym,B312:1:1,Abortiporus biennis,,,,,,,,,Abortiporus,,,Heteroporus biennis,,3LCLH,5245793,C8VQX,2544114
+B312:1:1,Abortiporus biennis,,Abortiporus,,biennis,,species,,B312:1,accepted,,,,,,,,,,,Abortiporus,,,Abortiporus biennis,,63ZT4,2544114,63ZT4,2544114
+B312:1:2,Daedalea biennis,,Daedalea,,biennis,,species,,B312:1,synonym,B312:1:1,Abortiporus biennis,,,,,,,,,Abortiporus,,,Daedalea biennis,,33XT5,2544125,63ZT4,2544114
+B312:1:3,Heteroporus biennis,,Heteroporus,,biennis,,species,,B312:1,synonym,B312:1:1,Abortiporus biennis,,,,,,,,,Abortiporus,,,Heteroporus biennis,,3LCLH,5245793,63ZT4,2544114
 B312:1:4,Agaricus arvensis,,Agaricus,,arvensis,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus arvensis,,65LSH,5243403,65LSH,5243403
 B312:1:5,Agaricus augustus,,Agaricus,,augustus,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus augustus,,65M5Y,5243429,65M5Y,5243429
 B312:1:6,Agaricus bitorquis,,Agaricus,,bitorquis,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus bitorquis,,65LWD,5243374,65LWD,5243374
@@ -9,7 +9,7 @@ B312:1:7,Agaricus bohusii,,Agaricus,,bohusii,,species,,B312:1,accepted,,,,,,,,,,
 B312:1:8,Agaricus brunneolus,,Agaricus,,brunneolus,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus brunneolus,,65LW3,8148739,65LW3,8148739
 B312:1:9,Agaricus impudicus,,Agaricus,,impudicus,,species,,B312:1,synonym,B312:1:8,Agaricus brunneolus,,,,,,,,,Agaricus,,,Agaricus impudicus,,65N3K,5243420,65N3K,5243420
 B312:1:10,Agaricus campestris,,Agaricus,,campestris,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus campestris,,65NKD,5243458,65NKD,5243458
-B312:1:11,Agaricus campester,,Agaricus,,campester,,species,,B312:1,synonym,B312:1:10,Agaricus campestris,,,,,,,,,Agaricus,,,Agaricus campester,,,7767425,,5243458
+B312:1:11,Agaricus campester,,Agaricus,,campester,,species,,B312:1,synonym,B312:1:10,Agaricus campestris,,,,,,,,,Agaricus,,,Agaricus campester,,L9FP9,7767425,65NKD,5243458
 B312:1:12,Agaricus essettei,,Agaricus,,essettei,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus essettei,,65NH6,5456297,5TPQK,8365581
 B312:1:13,Agaricus abruptibulbus,,Agaricus,,abruptibulbus,,species,,B312:1,synonym,B312:1:12,Agaricus essettei,,,,,,,,,Agaricus,,,Agaricus abruptibulbus,,65LZD,5455910,65LZD,5455910
 B312:1:14,Agaricus fissuratus,,Agaricus,,fissuratus,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus fissuratus,,65NJ4,8320399,65LSH,5243403
@@ -19,13 +19,13 @@ B312:1:17,Agaricus moelleri,,Agaricus,,moelleri,,species,,B312:1,accepted,,,,,,,
 B312:1:18,Agaricus preaclaresquamosus,,Agaricus,,preaclaresquamosus,,species,,B312:1,synonym,B312:1:17,Agaricus moelleri,,,,,,,,,Agaricus,,,Agaricus preaclaresquamosus,,,,,
 B312:1:19,Agaricus meleagris,,Agaricus,,meleagris,,species,,B312:1,synonym,B312:1:17,Agaricus moelleri,,,,,,,,,Agaricus,,,Agaricus meleagris,,5TN8B,7810740,5TN8B,7810740
 B312:1:20,Agaricus semotus,,Agaricus,,semotus,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus semotus,,5TNYN,5243428,5TNYN,5243428
-B312:1:21,Agaricus silvaticus,,Agaricus,,silvaticus,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus silvaticus,,,7907739,,2551213
+B312:1:21,Agaricus silvaticus,,Agaricus,,silvaticus,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus silvaticus,,6622J,7907739,6622J,2551213
 B312:1:22,Agaricus silvicola,,Agaricus,,silvicola,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus silvicola,,5TPQK,8365581,5TPQK,8365581
 B312:1:23,Agaricus subrufescens,,Agaricus,,subrufescens,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus subrufescens,,65PQX,5243460,65PQX,5243460
 B312:1:24,Agaricus rufotegulis,,Agaricus,,rufotegulis,,species,,B312:1,synonym,B312:1:23,Agaricus subrufescens,,,,,,,,,Agaricus,,,Agaricus rufotegulis,,65NWW,5243461,65PQX,5243460
 B312:1:25,Agaricus xanthoderma,,Agaricus,,xanthoderma,,species,,B312:1,accepted,,,,,,,,,,,Agaricus,,,Agaricus xanthoderma,,65PSN,5243412,65PSN,5243412
 B312:1:26,Agrocybe elatella,,Agrocybe,,elatella,,species,,B312:1,accepted,,,,,,,,,,,Agrocybe,,,Agrocybe elatella,,B84T,3344350,B84T,3344350
-B312:1:27,Agrocybe pediales,,Agrocybe,,pediales,,species,,B312:1,accepted,,,,,,,,,,,Agrocybe,,,Agrocybe pediales,,,6124324,,6124324
+B312:1:27,Agrocybe pediales,,Agrocybe,,pediales,,species,,B312:1,accepted,,,,,,,,,,,Agrocybe,,,Agrocybe pediales,,L63HZ,6124324,B86C,6124324
 B312:1:28,Agrocybe semiorbicularis,,Agrocybe,,semiorbicularis,,species,,B312:1,synonym,B312:1:27,Agrocybe pediales,,,,,,,,,Agrocybe,,,Agrocybe semiorbicularis,,B86V,2533175,B86C,9050242
 B312:1:29,Agrocybe arenaria,,Agrocybe,,arenaria,,species,,B312:1,synonym,B312:1:27,Agrocybe pediales,,,,,,,,,Agrocybe,,,Agrocybe arenaria,,B83V,2533169,B86C,9050242
 B312:1:30,Agrocybe arenicola,,Agrocybe,,arenicola,,species,,B312:1,synonym,B312:1:27,Agrocybe pediales,,,,,,,,,Agrocybe,,,Agrocybe arenicola,,B83W,2533176,B86C,9050242
@@ -40,16 +40,16 @@ B312:1:38,Scutiger cristatus,,Scutiger,,cristatus,,species,,B312:1,synonym,B312:
 B312:1:39,Albatrellus ovinus,,Albatrellus,,ovinus,,species,,B312:1,accepted,,,,,,,,,,,Albatrellus,,,Albatrellus ovinus,,BFM3,2551823,BFM3,2551823
 B312:1:40,Scutiger ovinus,,Scutiger,,ovinus,,species,,B312:1,synonym,B312:1:39,Albatrellus ovinus,,,,,,,,,Albatrellus,,,Scutiger ovinus,,4W37H,5248899,BFM3,2551823
 B312:1:41,Aleuria aurantia,,Aleuria,,aurantia,,species,,B312:1,accepted,,,,,,,,,,,Aleuria,,,Aleuria aurantia,,BPNM,5258678,BPNM,5258678
-B312:1:42,Alnicola escharoides,,Alnicola,,escharoides,,species,,B312:1,accepted,,,,,,,,,,,Alnicola,,,Alnicola escharoides,,,5459655,,2534014
+B312:1:42,Alnicola escharoides,,Alnicola,,escharoides,,species,,B312:1,accepted,,,,,,,,,,,Alnicola,,,Alnicola escharoides,,LGJYQ,5459655,6RTVS,2534014
 B312:1:43,Alnicola melinoides,,Alnicola,,melinoides,,species,,B312:1,synonym,B312:1:42,Alnicola escharoides,,,,,,,,,Alnicola,,,Alnicola melinoides,,C2LQ,5242634,7467F,2533914
-B312:1:44,Naucoria escharoides,,Naucoria,,escharoides,,species,,B312:1,synonym,B312:1:42,Alnicola escharoides,,,,,,,,,Alnicola,,,Naucoria escharoides,,,2534025,,2534014
+B312:1:44,Naucoria escharoides,,Naucoria,,escharoides,,species,,B312:1,synonym,B312:1:42,Alnicola escharoides,,,,,,,,,Alnicola,,,Naucoria escharoides,,QRC3F,2534025,6RTVS,2534014
 B312:1:45,Alnicola scolecina,,Alnicola,,scolecina,,species,,B312:1,accepted,,,,,,,,,,,Alnicola,,,Alnicola scolecina,,C2M7,11054051,745X3,2534062
 B312:1:46,Naucoria scolecina,,Naucoria,,scolecina,,species,,B312:1,synonym,B312:1:45,Alnicola scolecina,,,,,,,,,Alnicola,,,Naucoria scolecina,,745X3,2534062,745X3,2534062
 B312:1:47,Amanita battarrae,,Amanita,,battarrae,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita battarrae,,65ZCG,5240259,65ZCG,5240259
 B312:1:48,Amanita citrina,,Amanita,,citrina,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita citrina,,5TZD4,3328320,5TZD4,3328320
 B312:1:49,Amanita crocea,,Amanita,,crocea,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita crocea,,65ZDJ,5240282,65ZDJ,5240282
 B312:1:50,Amanita excelsa,,Amanita,,excelsa,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita excelsa,,65ZF7,8935018,65ZF7,8935018
-B312:1:51,Amanita spissa,,Amanita,,spissa,,species,,B312:1,synonym,B312:1:50,Amanita excelsa,,,,,,,,,Amanita,,,Amanita spissa,,C8SPG,7242034,65ZF7,8935018
+B312:1:51,Amanita spissa,,Amanita,,spissa,,species,,B312:1,synonym,B312:1:50,Amanita excelsa,,,,,,,,,Amanita,,,Amanita spissa,,L6RRQ,7242034,65ZF7,8935018
 B312:1:52,Amanita fulva,,Amanita,,fulva,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita fulva,,65ZG6,7765582,65ZG6,7765582
 B312:1:53,Amanita gemmata,,Amanita,,gemmata,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita gemmata,,65ZG5,5240292,65ZG5,5240292
 B312:1:54,Amanita muscaria,,Amanita,,muscaria,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita muscaria,,5TYZ9,8168319,5TYZ9,8168319
@@ -57,30 +57,30 @@ B312:1:55,Amanita pantherina,,Amanita,,pantherina,,species,,B312:1,accepted,,,,,
 B312:1:56,Amanita phalloides,,Amanita,,phalloides,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita phalloides,,65ZB2,5240325,65ZB2,5240325
 B312:1:57,Amanita porphyria,,Amanita,,porphyria,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita porphyria,,5TYQJ,5240279,5TYQJ,5240279
 B312:1:58,Amanita rubescens,,Amanita,,rubescens,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita rubescens,,5TZ2T,7496350,5TZ2T,7496350
-B312:1:59,Amanita solitaria,,Amanita,,solitaria,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita solitaria,,5TZ2F,7625966,HDTW,7242066
+B312:1:59,Amanita solitaria,,Amanita,,solitaria,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita solitaria,,L6RG2,7625966,HDTW,7242066
 B312:1:60,Amanita strobiliformis,,Amanita,,strobiliformis,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita strobiliformis,,5TZ3N,5240217,5TZ3N,5240217
 B312:1:61,Amanita submembranacea,,Amanita,,submembranacea,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita submembranacea,,65Z3R,8391120,65Z3R,8391120
 B312:1:62,Amanitopsis submembranacea,,Amanitopsis,,submembranacea,,species,,B312:1,synonym,B312:1:61,Amanita submembranacea,,,,,,,,,Amanita,,,Amanitopsis submembranacea,,65Z57,2526110,65Z3R,8391120
 B312:1:63,Amanita vaginata,,Amanita,,vaginata,,species,,B312:1,accepted,,,,,,,,,,,Amanita,,,Amanita vaginata,,5TYQY,5240306,5TYQY,5240306
 B312:1:64,Amaurodon viridis,,Amaurodon,,viridis,,species,,B312:1,accepted,,,,,,,,,,,Amaurodon,,,Amaurodon viridis,,CJRR,2522804,CJRR,2522804
 B312:1:65,Annulohypoxylon multiforme,,Annulohypoxylon,,multiforme,,species,,B312:1,accepted,,,,,,,,,,,Annulohypoxylon,,,Annulohypoxylon multiforme,,66SGH,3459922,6NDGF,9397402
-B312:1:66,Hypoxylon multiforme,,Hypoxylon,,multiforme,,species,,B312:1,synonym,B312:1:65,Annulohypoxylon multiforme,,,,,,,,,Annulohypoxylon,,,Hypoxylon multiforme,,3P2LZ,5486983,6NDGF,9397402
+B312:1:66,Hypoxylon multiforme,,Hypoxylon,,multiforme,,species,,B312:1,synonym,B312:1:65,Annulohypoxylon multiforme,,,,,,,,,Annulohypoxylon,,,Hypoxylon multiforme,,PPGLF,5486983,6NDGF,9397402
 B312:1:67,Antrodia xantha,,Antrodia,,xantha,,species,,B312:1,accepted,,,,,,,,,,,Antrodia,,,Antrodia xantha,,67L29,9159614,33XYQ,2542624
 B312:1:68,Poria xantha,,Poria,,xantha,,species,,B312:1,synonym,B312:1:67,Antrodia xantha,,,,,,,,,Antrodia,,,Poria xantha,,6W7XM,8910550,33XYQ,2542624
 B312:1:69,Antrodia albida,,Antrodia,,albida,,species,,B312:1,accepted,,,,,,,,,,,Antrodia,,,Antrodia albida,,F45Z,8912808,F45Z,8912808
 B312:1:70,Antrodia serialis,,Antrodia,,serialis,,species,,B312:1,accepted,,,,,,,,,,,Antrodia,,,Antrodia serialis,,F498,2542559,6S6KL,9690034
 B312:1:71,Antrodiella semisupina,,Antrodiella,,semisupina,,species,,B312:1,accepted,,,,,,,,,,,Antrodiella,,,Antrodiella semisupina,,F4CZ,2541957,F4CZ,2541957
 B312:1:72,Antrodiella serpula,,Antrodiella,,serpula,,species,,B312:1,accepted,,,,,,,,,,,Antrodiella,,,Antrodiella serpula,,F4D2,3362604,F4D2,3362604
-B312:1:73,Arcyria denudata,,Arcyria,,denudata,,species,,B312:1,accepted,,,,,,,,,,,Arcyria,,,Arcyria denudata,,,3215070,,3215070
-B312:1:74,Armillaria lutea,,Armillaria,,lutea,,species,,B312:1,accepted,,,,,,,,,,,Armillaria,,,Armillaria lutea,,,2536849,,2536849
+B312:1:73,Arcyria denudata,,Arcyria,,denudata,,species,,B312:1,accepted,,,,,,,,,,,Arcyria,,,Arcyria denudata,,GCDG,3215070,GCDG,3215070
+B312:1:74,Armillaria lutea,,Armillaria,,lutea,,species,,B312:1,accepted,,,,,,,,,,,Armillaria,,,Armillaria lutea,,LGDMT,2536849,LGDMT,2536849
 B312:1:75,Armillariella bulbosa,,Armillariella,,bulbosa,,species,,B312:1,synonym,B312:1:74,Armillaria lutea,,,,,,,,,Armillaria,,,Armillariella bulbosa,,GSQ3,2536852,GSKQ,2536851
 B312:1:76,Armillaria mellea,,Armillaria,,mellea,,species,,B312:1,accepted,,,,,,,,,,,Armillaria,,,Armillaria mellea,,GSMV,2536891,GSMV,2536891
 B312:1:77,Armillaria ostoyae,,Armillaria,,ostoyae,,species,,B312:1,accepted,,,,,,,,,,,Armillaria,,,Armillaria ostoyae,,5W4S7,2536899,5W4S7,2536899
-B312:1:78,Armillaria polymyces,,Armillaria,,polymyces,,species,,B312:1,synonym,B312:1:77,Armillaria ostoyae,,,,,,,,,Armillaria,,,Armillaria polymyces,,,2536874,,2536871
+B312:1:78,Armillaria polymyces,,Armillaria,,polymyces,,species,,B312:1,synonym,B312:1:77,Armillaria ostoyae,,,,,,,,,Armillaria,,,Armillaria polymyces,,LGFBS,2536874,5W4RV,2536871
 B312:1:79,Armillaria obscura,,Armillaria,,obscura,,species,,B312:1,synonym,B312:1:77,Armillaria ostoyae,,,,,,,,,Armillaria,,,Armillaria obscura,,5W4RV,2536871,5W4RV,2536871
 B312:1:80,Arrhenia retiruga,,Arrhenia,,retiruga,,species,,B312:1,accepted,,,,,,,,,,,Arrhenia,,,Arrhenia retiruga,,5W4GG,2532741,5W4GG,2532741
 B312:1:81,Artomyces pyxidatus,,Artomyces,,pyxidatus,,species,,B312:1,accepted,,,,,,,,,,,Artomyces,,,Artomyces pyxidatus,,H29P,2550493,H29P,2550493
-B312:1:82,Ascocoryne inflata,,Ascocoryne,,inflata,,species,,B312:1,accepted,,,,,,,,,,,Ascocoryne,,,Ascocoryne inflata,,,5953014,,5953014
+B312:1:82,Ascocoryne inflata,,Ascocoryne,,inflata,,species,,B312:1,accepted,,,,,,,,,,,Ascocoryne,,,Ascocoryne inflata,,LNKNJ,5953014,LNKNJ,5953014
 B312:1:83,Ascocoryne sarcoides,,Ascocoryne,,sarcoides,,species,,B312:1,accepted,,,,,,,,,,,Ascocoryne,,,Ascocoryne sarcoides,,H824,2584352,H824,2584352
 B312:1:84,Ascotremella faginea,,Ascotremella,,faginea,,species,,B312:1,accepted,,,,,,,,,,,Ascotremella,,,Ascotremella faginea,,5W62L,2582489,5W62L,2582489
 B312:1:85,Asterophora lycoperdoides,,Asterophora,,lycoperdoides,,species,,B312:1,accepted,,,,,,,,,,,Asterophora,,,Asterophora lycoperdoides,,5W5ZX,9210867,5W5ZX,9210867
@@ -89,12 +89,12 @@ B312:1:87,Asterophora parasitica,,Asterophora,,parasitica,,species,,B312:1,accep
 B312:1:88,Astraeus hygrometricus,,Astraeus,,hygrometricus,,species,,B312:1,accepted,,,,,,,,,,,Astraeus,,,Astraeus hygrometricus,,HW2N,5239766,HW2N,5239766
 B312:1:89,Aureoboletus gentilis,,Aureoboletus,,gentilis,,species,,B312:1,accepted,,,,,,,,,,,Aureoboletus,,,Aureoboletus gentilis,,67Y99,2524374,67Y99,2524374
 B312:1:90,Pulveroboletus gentilis,,Pulveroboletus,,gentilis,,species,,B312:1,synonym,B312:1:89,Aureoboletus gentilis,,,,,,,,,Aureoboletus,,,Pulveroboletus gentilis,,4QH4K,2524380,67Y99,2524374
-B312:1:91,Pulveroboletus cramisinus,,Pulveroboletus,,cramisinus,,species,,B312:1,synonym,B312:1:89,Aureoboletus gentilis,,,,,,,,,Aureoboletus,,,Pulveroboletus cramisinus,,4QH49,11222916,67Y99,2524374
+B312:1:91,Pulveroboletus cramisinus,,Pulveroboletus,,cramisinus,,species,,B312:1,synonym,B312:1:89,Aureoboletus gentilis,,,,,,,,,Aureoboletus,,,Pulveroboletus cramisinus,,S43D9,11222916,67Y99,2524374
 B312:1:92,Auricularia auricula-judae,,Auricularia,,auricula-judae,,species,,B312:1,accepted,,,,,,,,,,,Auricularia,,,Auricularia auricula-judae,,5W9WJ,5249271,5W9WJ,5249271
 B312:1:93,Auricularia mesenterica,,Auricularia,,mesenterica,,species,,B312:1,accepted,,,,,,,,,,,Auricularia,,,Auricularia mesenterica,,JTV4,5249297,JTV4,5249297
 B312:1:94,Auriscalpium vulgare,,Auriscalpium,,vulgare,,species,,B312:1,accepted,,,,,,,,,,,Auriscalpium,,,Auriscalpium vulgare,,689XL,5248458,689XL,5248458
-B312:1:95,Badhamia lilacina,,Badhamia,,lilacina,,species,,B312:1,accepted,,,,,,,,,,,Badhamia,,,Badhamia lilacina,,,3214269,,3214269
-B312:1:96,Badhamia utricularis,,Badhamia,,utricularis,,species,,B312:1,accepted,,,,,,,,,,,Badhamia,,,Badhamia utricularis,,,3214309,,3214309
+B312:1:95,Badhamia lilacina,,Badhamia,,lilacina,,species,,B312:1,accepted,,,,,,,,,,,Badhamia,,,Badhamia lilacina,,KBMG,3214269,KBMG,3214269
+B312:1:96,Badhamia utricularis,,Badhamia,,utricularis,,species,,B312:1,accepted,,,,,,,,,,,Badhamia,,,Badhamia utricularis,,KBN8,3214309,KBN8,3214309
 B312:1:97,Baeospora myosura,,Baeospora,,myosura,,species,,B312:1,accepted,,,,,,,,,,,Baeospora,,,Baeospora myosura,,KCQL,2537958,KCQL,2537958
 B312:1:98,Basidioradulum radula,,Basidioradulum,,radula,,species,,B312:1,accepted,,,,,,,,,,,Basidioradulum,,,Basidioradulum radula,,68D7D,2519140,5CL9X,7916380
 B312:1:99,Hyphoderma radula,,Hyphoderma,,radula,,species,,B312:1,synonym,B312:1:98,Basidioradulum radula,,,,,,,,,Basidioradulum,,,Hyphoderma radula,,3NS82,9192390,5CL9X,7916380
@@ -106,16 +106,16 @@ B312:1:104,Bolbitius vitellinus,,Bolbitius,,vitellinus,,species,,B312:1,synonym,
 B312:1:105,Boletopsis leucomelaena,,Boletopsis,,leucomelaena,,species,,B312:1,accepted,,,,,,,,,,,Boletopsis,,,Boletopsis leucomelaena,,MC82,5238896,MC82,5238896
 B312:1:106,Boletopsis subsquamosus,,Boletopsis,,subsquamosus,,species,,B312:1,synonym,B312:1:105,Boletopsis leucomelaena,,,,,,,,,Boletopsis,,,Boletopsis subsquamosus,,MC8H,5460411,MC8H,5460411
 B312:1:107,Boletus aereus,,Boletus,,aereus,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus aereus,,MC92,8733688,MC92,8733688
-B312:1:108,Boletus calopus,,Boletus,,calopus,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus calopus,,MCD4,7417528,5X7DN,8203051
+B312:1:108,Boletus calopus,,Boletus,,calopus,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus calopus,,M87ZH,7417528,5X7DN,8203051
 B312:1:109,Boletus edulis,,Boletus,,edulis,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus edulis,,MCH9,5954958,MCH9,5954958
-B312:1:110,Boletus erythropus,,Boletus,,erythropus,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus erythropus,,9XHN3,7601434,9ZC6Y,7601434
+B312:1:110,Boletus erythropus,,Boletus,,erythropus,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus erythropus,,M8BC4,7601434,9ZC6Y,7601434
 B312:1:111,Boletus boletus subsp. luridiformis,,Boletus,,boletus,luridiformis,subspecies,,B312:1,synonym,B312:1:110,Boletus erythropus,,,,,,,,,Boletus,,,boletus luridiformis,,,,,
 B312:1:112,Boletus impolitus,,Boletus,,impolitus,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus impolitus,,MCN8,5954881,3KPFW,9108288
 B312:1:113,Boletus hemileccinum subsp. impolitum,,Boletus,,hemileccinum,impolitum,subspecies,,B312:1,synonym,B312:1:112,Boletus impolitus,,,,,,,,,Boletus,,,hemileccinum impolitum,,,,,
 B312:1:114,Xerocomus impolitus,,Xerocomus,,impolitus,,species,,B312:1,synonym,B312:1:112,Boletus impolitus,,,,,,,,,Boletus,,,Xerocomus impolitus,,5CCPK,2519559,3KPFW,9108288
-B312:1:115,Boletus luridus,,Boletus,,luridus,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus luridus,,MCQW,7988694,7B4RP,3355021
+B312:1:115,Boletus luridus,,Boletus,,luridus,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus luridus,,M8F2Y,7988694,7B4RP,3355021
 B312:1:116,Boletus pinophilus,,Boletus,,pinophilus,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus pinophilus,,MCWC,5954949,MCWC,5954949
-B312:1:117,Boletus radicans,,Boletus,,radicans,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus radicans,,MCYW,9945520,PWYN,7550396
+B312:1:117,Boletus radicans,,Boletus,,radicans,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus radicans,,M8J66,9945520,PWYN,7550396
 B312:1:118,Boletus reticulatus,,Boletus,,reticulatus,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus reticulatus,,MCZN,10364891,MCZN,10364891
 B312:1:119,Boletus aestivalis,,Boletus,,aestivalis,,species,,B312:1,synonym,B312:1:118,Boletus reticulatus,,,,,,,,,Boletus,,,Boletus aestivalis,,MC93,5954988,MCZN,5954691
 B312:1:120,Boletus satanas,,Boletus,,satanas,,species,,B312:1,accepted,,,,,,,,,,,Boletus,,,Boletus satanas,,MD4G,5954954,4TJ9C,7722553
@@ -124,15 +124,15 @@ B312:1:122,Bovista polymorpha,,Bovista,,polymorpha,,species,,B312:1,synonym,B312
 B312:1:123,Bovista nigrescens,,Bovista,,nigrescens,,species,,B312:1,accepted,,,,,,,,,,,Bovista,,,Bovista nigrescens,,MRY2,2535203,MRY2,2535203
 B312:1:124,Bovista plumbea,,Bovista,,plumbea,,species,,B312:1,accepted,,,,,,,,,,,Bovista,,,Bovista plumbea,,MRYC,2535193,MRYC,2535193
 B312:1:125,Buchwaldoboletus lignicola,,Buchwaldoboletus,,lignicola,,species,,B312:1,accepted,,,,,,,,,,,Buchwaldoboletus,,,Buchwaldoboletus lignicola,,NMSK,2524840,NMSK,2524840
-B312:1:126,Pulveroboletus lignicola,,Pulveroboletus,,lignicola,,species,,B312:1,synonym,B312:1:125,Buchwaldoboletus lignicola,,,,,,,,,Buchwaldoboletus,,,Pulveroboletus lignicola,,4QH4S,9541409,NMSK,2524840
+B312:1:126,Pulveroboletus lignicola,,Pulveroboletus,,lignicola,,species,,B312:1,synonym,B312:1:125,Buchwaldoboletus lignicola,,,,,,,,,Buchwaldoboletus,,,Pulveroboletus lignicola,,S43HJ,9541409,NMSK,2524840
 B312:1:127,Bulbillomyces farinosus,,Bulbillomyces,,farinosus,,species,,B312:1,accepted,,,,,,,,,,,Bulbillomyces,,,Bulbillomyces farinosus,,NPXK,2544313,NPXK,2544313
 B312:1:128,Bulgaria inquinans,,Bulgaria,,inquinans,,species,,B312:1,accepted,,,,,,,,,,,Bulgaria,,,Bulgaria inquinans,,NSNT,10915905,NSNT,10915905
 B312:1:129,Byssomerulius corium,,Byssomerulius,,corium,,species,,B312:1,accepted,,,,,,,,,,,Byssomerulius,,,Byssomerulius corium,,P2FW,9212934,P2FW,9212934
 B312:1:130,Byssonectria aggregata,,Byssonectria,,aggregata,,species,,B312:1,accepted,,,,,,,,,,,Byssonectria,,,Byssonectria aggregata,,P2GL,8088402,P2GL,8088402
-B312:1:131,Calocera cornea,,Calocera,,cornea,,species,,B312:1,accepted,,,,,,,,,,,Calocera,,,Calocera cornea,,,2512969,,2512969
-B312:1:132,Calocera furcata,,Calocera,,furcata,,species,,B312:1,accepted,,,,,,,,,,,Calocera,,,Calocera furcata,,,2512992,,2512992
-B312:1:133,Calocera glossoides,,Calocera,,glossoides,,species,,B312:1,accepted,,,,,,,,,,,Calocera,,,Calocera glossoides,,,8916055,,8916055
-B312:1:134,Calocera viscosa,,Calocera,,viscosa,,species,,B312:1,accepted,,,,,,,,,,,Calocera,,,Calocera viscosa,,,9134585,,9134585
+B312:1:131,Calocera cornea,,Calocera,,cornea,,species,,B312:1,accepted,,,,,,,,,,,Calocera,,,Calocera cornea,,PX52,2512969,PX52,2512969
+B312:1:132,Calocera furcata,,Calocera,,furcata,,species,,B312:1,accepted,,,,,,,,,,,Calocera,,,Calocera furcata,,PX5D,2512992,PX5D,2512992
+B312:1:133,Calocera glossoides,,Calocera,,glossoides,,species,,B312:1,accepted,,,,,,,,,,,Calocera,,,Calocera glossoides,,PX5F,8916055,PX5F,8916055
+B312:1:134,Calocera viscosa,,Calocera,,viscosa,,species,,B312:1,accepted,,,,,,,,,,,Calocera,,,Calocera viscosa,,697CR,9134585,697CR,9134585
 B312:1:135,Calocybe carnea,,Calocybe,,carnea,,species,,B312:1,accepted,,,,,,,,,,,Calocybe,,,Calocybe carnea,,PXT2,2530551,PXT2,2530551
 B312:1:136,Tricholoma carneum,,Tricholoma,,carneum,,species,,B312:1,synonym,B312:1:135,Calocybe carnea,,,,,,,,,Calocybe,,,Tricholoma carneum,,58DJP,5241531,PXT2,2530551
 B312:1:137,Calocybe chrysenteron,,Calocybe,,chrysenteron,,species,,B312:1,accepted,,,,,,,,,,,Calocybe,,,Calocybe chrysenteron,,PXT7,9127038,PXT7,9127038
@@ -152,12 +152,12 @@ B312:1:150,Calyptella capula,,Calyptella,,capula,,species,,B312:1,accepted,,,,,,
 B312:1:151,Camarops polysperma,,Camarops,,polysperma,,species,,B312:1,accepted,,,,,,,,,,,Camarops,,,Camarops polysperma,,Q8M3,2572412,Q8M3,2572412
 B312:1:152,Cantharellus amethysteus,,Cantharellus,,amethysteus,,species,,B312:1,accepted,,,,,,,,,,,Cantharellus,,,Cantharellus amethysteus,,QMJQ,5249555,QMJQ,5249555
 B312:1:153,Cantharellus cibarius,,Cantharellus,,cibarius,,species,,B312:1,accepted,,,,,,,,,,,Cantharellus,,,Cantharellus cibarius,,QMKY,5249504,QMKY,5249504
-B312:1:154,Cantharellus cinereus,,Cantharellus,,cinereus,,species,,B312:1,accepted,,,,,,,,,,,Cantharellus,,,Cantharellus cinereus,,,9226626,,9226626
+B312:1:154,Cantharellus cinereus,,Cantharellus,,cinereus,,species,,B312:1,accepted,,,,,,,,,,,Cantharellus,,,Cantharellus cinereus,,QML2,9226626,QML2,9226626
 B312:1:155,Cantharellus friesii,,Cantharellus,,friesii,,species,,B312:1,accepted,,,,,,,,,,,Cantharellus,,,Cantharellus friesii,,QMMQ,5249500,QMMQ,5249500
 B312:1:156,Cantharellus tubaeformis,,Cantharellus,,tubaeformis,,species,,B312:1,accepted,,,,,,,,,,,Cantharellus,,,Cantharellus tubaeformis,,9XJ9C,5249537,Z8SW,2554536
 B312:1:157,Cantharellus infundibuliformis,,Cantharellus,,infundibuliformis,,species,,B312:1,synonym,B312:1:156,Cantharellus tubaeformis,,,,,,,,,Cantharellus,,,Cantharellus infundibuliformis,,QMNY,5249549,Z8TV,2554536
 B312:1:158,Catinella olivacea,,Catinella,,olivacea,,species,,B312:1,accepted,,,,,,,,,,,Catinella,,,Catinella olivacea,,5XFGF,6613458,5XFGF,6613458
-B312:1:159,Ceratiomyxa fruticulosa,,Ceratiomyxa,,fruticulosa,,species,,B312:1,accepted,,,,,,,,,,,Ceratiomyxa,,,Ceratiomyxa fruticulosa,,,7823145,,7823145
+B312:1:159,Ceratiomyxa fruticulosa,,Ceratiomyxa,,fruticulosa,,species,,B312:1,accepted,,,,,,,,,,,Ceratiomyxa,,,Ceratiomyxa fruticulosa,,SLTQ,7823145,SLTQ,7823145
 B312:1:160,Ceriporia purpurea,,Ceriporia,,purpurea,,species,,B312:1,accepted,,,,,,,,,,,Ceriporia,,,Ceriporia purpurea,,SYFR,9189610,SYFR,9189610
 B312:1:161,Ceriporia reticulata,,Ceriporia,,reticulata,,species,,B312:1,accepted,,,,,,,,,,,Ceriporia,,,Ceriporia reticulata,,SYFT,2541673,SYFT,2541673
 B312:1:162,Cerrena unicolor,,Cerrena,,unicolor,,species,,B312:1,accepted,,,,,,,,,,,Cerrena,,,Cerrena unicolor,,69MXD,9070104,69MXD,9070104
@@ -168,8 +168,8 @@ B312:1:166,Cheilymenia granulata,,Cheilymenia,,granulata,,species,,B312:1,accept
 B312:1:167,Cheilymenia stercoraria,,Cheilymenia,,stercoraria,,species,,B312:1,accepted,,,,,,,,,,,Cheilymenia,,,Cheilymenia stercoraria,,TT8G,3496143,TT8G,3496143
 B312:1:168,Chlorociboria aeruginascens,,Chlorociboria,,aeruginascens,,species,,B312:1,accepted,,,,,,,,,,,Chlorociboria,,,Chlorociboria aeruginascens,,9Z3NF,8411734,9Z3NF,8411734
 B312:1:169,Chlorophyllum rhacodes,,Chlorophyllum,,rhacodes,,species,,B312:1,accepted,,,,,,,,,,,Chlorophyllum,,,Chlorophyllum rhacodes,,69XQ8,5955395,69XQ8,5955395
-B312:1:170,Macrolepiota rachodes,,Macrolepiota,,rachodes,,species,,B312:1,synonym,B312:1:169,Chlorophyllum rhacodes,,,,,,,,,Chlorophyllum,,,Macrolepiota rachodes,,,2536006,,6014677
-B312:1:171,Chlorophyllum rachodes,,Chlorophyllum,,rachodes,,species,,B312:1,synonym,B312:1:169,Chlorophyllum rhacodes,,,,,,,,,Chlorophyllum,,,Chlorophyllum rachodes,,,6014677,,6014677
+B312:1:170,Macrolepiota rachodes,,Macrolepiota,,rachodes,,species,,B312:1,synonym,B312:1:169,Chlorophyllum rhacodes,,,,,,,,,Chlorophyllum,,,Macrolepiota rachodes,,Q7ZG2,2536006,69XQ8,6014677
+B312:1:171,Chlorophyllum rachodes,,Chlorophyllum,,rachodes,,species,,B312:1,synonym,B312:1:169,Chlorophyllum rhacodes,,,,,,,,,Chlorophyllum,,,Chlorophyllum rachodes,,MJT5W,6014677,69XQ8,6014677
 B312:1:172,Chondrostereum purpureum,,Chondrostereum,,purpureum,,species,,B312:1,accepted,,,,,,,,,,,Chondrostereum,,,Chondrostereum purpureum,,69ZDF,2532944,69ZDF,2532944
 B312:1:173,Chroogomphus rutilus,,Chroogomphus,,rutilus,,species,,B312:1,accepted,,,,,,,,,,,Chroogomphus,,,Chroogomphus rutilus,,5YJ3C,2524996,5YJ3C,2524996
 B312:1:174,Gomphidius rutilus,,Gomphidius,,rutilus,,species,,B312:1,synonym,B312:1:173,Chroogomphus rutilus,,,,,,,,,Chroogomphus,,,Gomphidius rutilus,,3GSNK,2525010,5YJ3C,2524996
@@ -181,21 +181,21 @@ B312:1:179,Ciboria batschiana,,Ciboria,,batschiana,,species,,B312:1,synonym,B312
 B312:1:180,Cinereomyces lindbladii,,Cinereomyces,,lindbladii,,species,,B312:1,accepted,,,,,,,,,,,Cinereomyces,,,Cinereomyces lindbladii,,5YVRQ,2546210,5YVRQ,2546210
 B312:1:181,Clathrus archeri,,Clathrus,,archeri,,species,,B312:1,accepted,,,,,,,,,,,Clathrus,,,Clathrus archeri,,VT9Z,5239483,VT9Z,5239483
 B312:1:182,Clathrus ruber,,Clathrus,,ruber,,species,,B312:1,accepted,,,,,,,,,,,Clathrus,,,Clathrus ruber,,5Z9R5,5239476,5Z9R5,5239476
-B312:1:183,Clathrus cancellatus,,Clathrus,,cancellatus,,species,,B312:1,synonym,B312:1:182,Clathrus ruber,,,,,,,,,Clathrus,,,Clathrus cancellatus,,,8654142,,5239476
+B312:1:183,Clathrus cancellatus,,Clathrus,,cancellatus,,species,,B312:1,synonym,B312:1:182,Clathrus ruber,,,,,,,,,Clathrus,,,Clathrus cancellatus,,5YY2Q,8654142,5Z9R5,5239476
 B312:1:184,Clavaria argillacea,,Clavaria,,argillacea,,species,,B312:1,accepted,,,,,,,,,,,Clavaria,,,Clavaria argillacea,,5YXVL,7686505,5YXVL,7686505
-B312:1:185,Clavaria daulnoyi,,Clavaria,,daulnoyi,,species,,B312:1,accepted,,,,,,,,,,,Clavaria,,,Clavaria daulnoyi,,,5447162,,5447162
-B312:1:186,Clavaria daulnoyae,,Clavaria,,daulnoyae,,species,,B312:1,synonym,B312:1:185,Clavaria daulnoyi,,,,,,,,,Clavaria,,,Clavaria daulnoyae,,,5446826,,5446826
+B312:1:185,Clavaria daulnoyi,,Clavaria,,daulnoyi,,species,,B312:1,accepted,,,,,,,,,,,Clavaria,,,Clavaria daulnoyi,,MNVSW,5447162,MNVSM,5447162
+B312:1:186,Clavaria daulnoyae,,Clavaria,,daulnoyae,,species,,B312:1,synonym,B312:1:185,Clavaria daulnoyi,,,,,,,,,Clavaria,,,Clavaria daulnoyae,,MNVSM,5446826,MNVSM,5446826
 B312:1:187,Clavaria falcata,,Clavaria,,falcata,,species,,B312:1,accepted,,,,,,,,,,,Clavaria,,,Clavaria falcata,,5Z9HV,5244517,5Z9HV,5244517
 B312:1:188,Clavaria fragilis,,Clavaria,,fragilis,,species,,B312:1,accepted,,,,,,,,,,,Clavaria,,,Clavaria fragilis,,5Z9J6,5244501,5Z9J6,5244501
 B312:1:189,Clavariadelphus pistillaris,,Clavariadelphus,,pistillaris,,species,,B312:1,accepted,,,,,,,,,,,Clavariadelphus,,,Clavariadelphus pistillaris,,5Z9CW,2521391,5Z9CW,2521391
-B312:1:190,Clavaria pistillaris,,Clavaria,,pistillaris,,species,,B312:1,synonym,B312:1:189,Clavariadelphus pistillaris,,,,,,,,,Clavariadelphus,,,Clavaria pistillaris,,5Z9MB,7976501,5Z9CW,2521391
+B312:1:190,Clavaria pistillaris,,Clavaria,,pistillaris,,species,,B312:1,synonym,B312:1:189,Clavariadelphus pistillaris,,,,,,,,,Clavariadelphus,,,Clavaria pistillaris,,MNZ22,7976501,5YXD9,2521391
 B312:1:191,Clavariadelphus truncatus,,Clavariadelphus,,truncatus,,species,,B312:1,accepted,,,,,,,,,,,Clavariadelphus,,,Clavariadelphus truncatus,,5YXD9,2521401,5YXD9,2521401
 B312:1:192,Clavulina cinerea,,Clavulina,,cinerea,,species,,B312:1,accepted,,,,,,,,,,,Clavulina,,,Clavulina cinerea,,5Z998,5249860,5Z998,5249860
 B312:1:193,Clavulina coralloides,,Clavulina,,coralloides,,species,,B312:1,accepted,,,,,,,,,,,Clavulina,,,Clavulina coralloides,,VW6K,5249883,VW6K,5249883
-B312:1:194,Clavulina cristata,,Clavulina,,cristata,,species,,B312:1,synonym,B312:1:193,Clavulina coralloides,,,,,,,,,Clavulina,,,Clavulina cristata,,VW6M,7720801,VW6K,5249883
+B312:1:194,Clavulina cristata,,Clavulina,,cristata,,species,,B312:1,synonym,B312:1:193,Clavulina coralloides,,,,,,,,,Clavulina,,,Clavulina cristata,,MPMBY,7720801,VW6K,5249883
 B312:1:195,Clavulina rugosa,,Clavulina,,rugosa,,species,,B312:1,accepted,,,,,,,,,,,Clavulina,,,Clavulina rugosa,,VW8Z,5249808,VW8Z,5249808
 B312:1:196,Clavulinopsis corniculata,,Clavulinopsis,,corniculata,,species,,B312:1,accepted,,,,,,,,,,,Clavulinopsis,,,Clavulinopsis corniculata,,5Z98G,5244431,5Z98G,5244431
-B312:1:197,Clavulinopsis helveola,,Clavulinopsis,,helveola,,species,,B312:1,accepted,,,,,,,,,,,Clavulinopsis,,,Clavulinopsis helveola,,,7569330,,9117445
+B312:1:197,Clavulinopsis helveola,,Clavulinopsis,,helveola,,species,,B312:1,accepted,,,,,,,,,,,Clavulinopsis,,,Clavulinopsis helveola,,MPQG7,7569330,VWBD,9117445
 B312:1:198,Clitocybe agrestis,,Clitocybe,,agrestis,,species,,B312:1,accepted,,,,,,,,,,,Clitocybe,,,Clitocybe agrestis,,5YZB3,2531179,5YZB3,2531179
 B312:1:199,Clitocybe albofragrans,,Clitocybe,,albofragrans,,species,,B312:1,accepted,,,,,,,,,,,Clitocybe,,,Clitocybe albofragrans,,5YZBP,2531223,5YZBP,2531223
 B312:1:200,Clitocybe candicans,,Clitocybe,,candicans,,species,,B312:1,accepted,,,,,,,,,,,Clitocybe,,,Clitocybe candicans,,5YZBW,9131888,7258J,7530876
@@ -225,7 +225,7 @@ B312:1:223,Clitocybe odora,,Clitocybe,,odora,,species,,B312:1,accepted,,,,,,,,,,
 B312:1:224,Clitocybe phaeophthalma,,Clitocybe,,phaeophthalma,,species,,B312:1,accepted,,,,,,,,,,,Clitocybe,,,Clitocybe phaeophthalma,,5ZBDS,2531193,5ZBDS,2531193
 B312:1:225,Clitocybe phyllophila,,Clitocybe,,phyllophila,,species,,B312:1,accepted,,,,,,,,,,,Clitocybe,,,Clitocybe phyllophila,,5ZBDV,2531103,5ZBDV,2531103
 B312:1:226,Clitocybe rivulosa,,Clitocybe,,rivulosa,,species,,B312:1,accepted,,,,,,,,,,,Clitocybe,,,Clitocybe rivulosa,,W8WY,2531052,W8WY,2531052
-B312:1:227,Clitocybe dealbata,,Clitocybe,,dealbata,,species,,B312:1,synonym,B312:1:226,Clitocybe rivulosa,,,,,,,,,Clitocybe,,,Clitocybe dealbata,,,2531056,,2531052
+B312:1:227,Clitocybe dealbata,,Clitocybe,,dealbata,,species,,B312:1,synonym,B312:1:226,Clitocybe rivulosa,,,,,,,,,Clitocybe,,,Clitocybe dealbata,,MTZVT,2531056,MTZVT,2531052
 B312:1:228,Clitocybe squamulosa,,Clitocybe,,squamulosa,,species,,B312:1,accepted,,,,,,,,,,,Clitocybe,,,Clitocybe squamulosa,,W8YL,9468011,6MVZG,9468011
 B312:1:229,Infundibulicybe squamulosa,,Infundibulicybe,,squamulosa,,species,,B312:1,synonym,B312:1:228,Clitocybe squamulosa,,,,,,,,,Clitocybe,,,Infundibulicybe squamulosa,,6MVZG,2531188,6MVZG,2531188
 B312:1:230,Clitocybe trulliformis,,Clitocybe,,trulliformis,,species,,B312:1,accepted,,,,,,,,,,,Clitocybe,,,Clitocybe trulliformis,,W93M,9069508,B2SF2,12227911
@@ -258,7 +258,7 @@ B312:1:256,Coprinellus domesticus,,Coprinellus,,domesticus,,species,,B312:1,acce
 B312:1:257,Coprinus domesticus,,Coprinus,,domesticus,,species,,B312:1,synonym,B312:1:256,Coprinellus domesticus,,,,,,,,,Coprinellus,,,Coprinus domesticus,,5ZYTH,8679189,Y54N,2534604
 B312:1:258,Coprinellus impatiens,,Coprinellus,,impatiens,,species,,B312:1,accepted,,,,,,,,,,,Coprinellus,,,Coprinellus impatiens,,Y554,2534637,9ZGYC,12181221
 B312:1:259,Coprinus impatiens,,Coprinus,,impatiens,,species,,B312:1,synonym,B312:1:258,Coprinellus impatiens,,,,,,,,,Coprinellus,,,Coprinus impatiens,,Y5GN,2534639,9ZGYC,12181221
-B312:1:260,Psathyrella impatiens,,Psathyrella,,impatiens,,species,,B312:1,synonym,B312:1:258,Coprinellus impatiens,,,,,,,,,Coprinellus,,,Psathyrella impatiens,,6WBFQ,7837413,9ZGYC,12181221
+B312:1:260,Psathyrella impatiens,,Psathyrella,,impatiens,,species,,B312:1,synonym,B312:1:258,Coprinellus impatiens,,,,,,,,,Coprinellus,,,Psathyrella impatiens,,S8HKQ,7837413,9ZGYC,12181221
 B312:1:261,Pseudocoprinus impatiens,,Pseudocoprinus,,impatiens,,species,,B312:1,synonym,B312:1:258,Coprinellus impatiens,,,,,,,,,Coprinellus,,,Pseudocoprinus impatiens,,78F8R,2534640,9ZGYC,12181221
 B312:1:262,Coprinellus micaceus,,Coprinellus,,micaceus,,species,,B312:1,accepted,,,,,,,,,,,Coprinellus,,,Coprinellus micaceus,,Y557,2534578,Y557,2534578
 B312:1:263,Coprinus micaceus,,Coprinus,,micaceus,,species,,B312:1,synonym,B312:1:262,Coprinellus micaceus,,,,,,,,,Coprinellus,,,Coprinus micaceus,,Y5J2,9174116,Y557,2534578
@@ -273,12 +273,12 @@ B312:1:271,Coprinopsis cortinata,,Coprinopsis,,cortinata,,species,,B312:1,accept
 B312:1:272,Coprinus cortinatus,,Coprinus,,cortinatus,,species,,B312:1,synonym,B312:1:271,Coprinopsis cortinata,,,,,,,,,Coprinopsis,,,Coprinus cortinatus,,5ZZ5G,2536653,Y57D,8183016
 B312:1:273,Coprinopsis jonesii,,Coprinopsis,,jonesii,,species,,B312:1,accepted,,,,,,,,,,,Coprinopsis,,,Coprinopsis jonesii,,Y58C,5242764,Y58C,5242764
 B312:1:274,Coprinus lagopides,,Coprinus,,lagopides,,species,,B312:1,synonym,B312:1:273,Coprinopsis jonesii,,,,,,,,,Coprinopsis,,,Coprinus lagopides,,Y5H5,2534451,Y58J,5242769
-B312:1:275,Coprinus lagopus var. sphaerosporus,,Coprinus,,lagopus,sphaerosporus,variety,,B312:1,synonym,B312:1:273,Coprinopsis jonesii,,,,,,,,,Coprinopsis,,,Coprinus lagopus var. sphaerosporus,,,2534453,,5242764
+B312:1:275,Coprinus lagopus var. sphaerosporus,,Coprinus,,lagopus,sphaerosporus,variety,,B312:1,synonym,B312:1:273,Coprinopsis jonesii,,,,,,,,,Coprinopsis,,,Coprinus lagopus var. sphaerosporus,,N5PCP,2534453,Y58C,5242764
 B312:1:276,Coprinus funariarum,,Coprinus,,funariarum,,species,,B312:1,synonym,B312:1:273,Coprinopsis jonesii,,,,,,,,,Coprinopsis,,,Coprinus funariarum,,Y5FJ,2534452,Y58C,5242764
 B312:1:277,Coprinopsis lagopus,,Coprinopsis,,lagopus,,species,,B312:1,accepted,,,,,,,,,,,Coprinopsis,,,Coprinopsis lagopus,,Y58K,8945216,Y58K,8945216
 B312:1:278,Coprinus lagopus,,Coprinus,,lagopus,,species,,B312:1,synonym,B312:1:277,Coprinopsis lagopus,,,,,,,,,Coprinopsis,,,Coprinus lagopus,,Y5H6,2534413,Y58K,8945216
 B312:1:279,Coprinopsis nivea,,Coprinopsis,,nivea,,species,,B312:1,accepted,,,,,,,,,,,Coprinopsis,,,Coprinopsis nivea,,Y598,5242773,Y598,5242773
-B312:1:280,Coprinus niveus,,Coprinus,,niveus,,species,,B312:1,synonym,B312:1:279,Coprinopsis nivea,,,,,,,,,Coprinopsis,,,Coprinus niveus,,Y5JG,9160843,Y598,5242773
+B312:1:280,Coprinus niveus,,Coprinus,,niveus,,species,,B312:1,synonym,B312:1:279,Coprinopsis nivea,,,,,,,,,Coprinopsis,,,Coprinus niveus,,N5QH3,9160843,Y598,5242773
 B312:1:281,Coprinopsis patouillardii,,Coprinopsis,,patouillardii,,species,,B312:1,accepted,,,,,,,,,,,Coprinopsis,,,Coprinopsis patouillardii,,Y59G,10523561,B2PW9,10523561
 B312:1:282,Coprinopsis picacea,,Coprinopsis,,picacea,,species,,B312:1,accepted,,,,,,,,,,,Coprinopsis,,,Coprinopsis picacea,,Y59L,5242777,Y59L,5242777
 B312:1:283,Coprinopsis stercorea,,Coprinopsis,,stercorea,,species,,B312:1,accepted,,,,,,,,,,,Coprinopsis,,,Coprinopsis stercorea,,5ZYSJ,5242717,5ZYSJ,5242717
@@ -313,9 +313,9 @@ B312:1:311,Cortinarius cinnamomeoluteus,,Cortinarius,,cinnamomeoluteus,,species,
 B312:1:312,Dermocybe saligna,,Dermocybe,,saligna,,species,,B312:1,synonym,B312:1:311,Cortinarius cinnamomeoluteus,,,,,,,,,Cortinarius,,,Dermocybe saligna,,6CMPF,3310481,YMCZ,8052816
 B312:1:313,Cortinarius cinnamomeus,,Cortinarius,,cinnamomeus,,species,,B312:1,accepted,,,,,,,,,,,Cortinarius,,,Cortinarius cinnamomeus,,YKF7,8028942,YKF7,8028942
 B312:1:314,Dermocybe cinnamomea,,Dermocybe,,cinnamomea,,species,,B312:1,synonym,B312:1:313,Cortinarius cinnamomeus,,,,,,,,,Cortinarius,,,Dermocybe cinnamomea,,34XCF,7789985,YKF7,8028942
-B312:1:315,Cortinarius croceocaeruleus,,Cortinarius,,croceocaeruleus,,species,,B312:1,accepted,,,,,,,,,,,Cortinarius,,,Cortinarius croceocaeruleus,,,2529023,,2529023
+B312:1:315,Cortinarius croceocaeruleus,,Cortinarius,,croceocaeruleus,,species,,B312:1,accepted,,,,,,,,,,,Cortinarius,,,Cortinarius croceocaeruleus,,MPNRY,2529023,B2NJ3,2529023
 B312:1:316,Cortinarius croceus,,Cortinarius,,croceus,,species,,B312:1,accepted,,,,,,,,,,,Cortinarius,,,Cortinarius croceus,,YKL6,2528948,YKL6,2528948
-B312:1:317,Dermocybe cinnamomeobadia,,Dermocybe,,cinnamomeobadia,,species,,B312:1,synonym,B312:1:316,Cortinarius croceus,,,,,,,,,Cortinarius,,,Dermocybe cinnamomeobadia,,,2528952,,2528948
+B312:1:317,Dermocybe cinnamomeobadia,,Dermocybe,,cinnamomeobadia,,species,,B312:1,synonym,B312:1:316,Cortinarius croceus,,,,,,,,,Cortinarius,,,Dermocybe cinnamomeobadia,,NDMXZ,2528952,YKL6,2528948
 B312:1:318,Cortinarius delibutus,,Cortinarius,,delibutus,,species,,B312:1,accepted,,,,,,,,,,,Cortinarius,,,Cortinarius delibutus,,YKNJ,2529412,YKNJ,2529412
 B312:1:319,Cortinarius helvolus,,Cortinarius,,helvolus,,species,,B312:1,accepted,,,,,,,,,,,Cortinarius,,,Cortinarius helvolus,,YL3W,7244551,YL3W,7244551
 B312:1:320,Cortinarius hemitrichus,,Cortinarius,,hemitrichus,,species,,B312:1,accepted,,,,,,,,,,,Cortinarius,,,Cortinarius hemitrichus,,YL3Z,2529178,YL3Z,2529178
@@ -377,7 +377,7 @@ B312:1:375,Cystolepiota seminuda,,Cystolepiota,,seminuda,,species,,B312:1,accept
 B312:1:376,Cystolepiota sistrata,,Cystolepiota,,sistrata,,species,,B312:1,synonym,B312:1:375,Cystolepiota seminuda,,,,,,,,,Cystolepiota,,,Cystolepiota sistrata,,33PWH,2535700,33PWH,2535700
 B312:1:377,Lepiota seminuda,,Lepiota,,seminuda,,species,,B312:1,synonym,B312:1:375,Cystolepiota seminuda,,,,,,,,,Cystolepiota,,,Lepiota seminuda,,3TF4Y,2535692,33PWF,2535689
 B312:1:378,Dacrymyces stillatus,,Dacrymyces,,stillatus,,species,,B312:1,accepted,,,,,,,,,,,Dacrymyces,,,Dacrymyces stillatus,,6BXBC,11346673,6BXBC,11346673
-B312:1:379,Dacrymyces deliquenscens,,Dacrymyces,,deliquenscens,,species,,B312:1,synonym,B312:1:378,Dacrymyces stillatus,,,,,,,,,Dacrymyces,,,Dacrymyces deliquenscens,,,2512931,,2512925
+B312:1:379,Dacrymyces deliquenscens,,Dacrymyces,,deliquenscens,,species,,B312:1,synonym,B312:1:378,Dacrymyces stillatus,,,,,,,,,Dacrymyces,,,Dacrymyces deliquenscens,,NGL29,2512931,NGL29,2512925
 B312:1:380,Dacrymyces tortus,,Dacrymyces,,tortus,,species,,B312:1,accepted,,,,,,,,,,,Dacrymyces,,,Dacrymyces tortus,,6C9B8,2512886,9Z39D,12053263
 B312:1:381,Daedalea quercina,,Daedalea,,quercina,,species,,B312:1,accepted,,,,,,,,,,,Daedalea,,,Daedalea quercina,,33XWV,8879395,33XWV,8879395
 B312:1:382,Daedaleopsis confragosa,,Daedaleopsis,,confragosa,,species,,B312:1,accepted,,,,,,,,,,,Daedaleopsis,,,Daedaleopsis confragosa,,33XZ2,2545670,33XZ2,2545670
@@ -405,18 +405,18 @@ B312:1:403,Diatrype disciformis,,Diatrype,,disciformis,,species,,B312:1,accepted
 B312:1:404,Diatrype stigma,,Diatrype,,stigma,,species,,B312:1,accepted,,,,,,,,,,,Diatrype,,,Diatrype stigma,,35GDL,2575291,35GDL,2575291
 B312:1:405,Diatrypella favacea,,Diatrypella,,favacea,,species,,B312:1,accepted,,,,,,,,,,,Diatrypella,,,Diatrypella favacea,,35GFH,8782821,35GFH,8782821
 B312:1:406,Diatrypella quercina,,Diatrypella,,quercina,,species,,B312:1,accepted,,,,,,,,,,,Diatrypella,,,Diatrypella quercina,,35GGP,9027329,35GGP,9027329
-B312:1:407,Dictydiaethalium plumbeum,,Dictydiaethalium,,plumbeum,,species,,B312:1,accepted,,,,,,,,,,,Dictydiaethalium,,,Dictydiaethalium plumbeum,,,3213503,,3213503
+B312:1:407,Dictydiaethalium plumbeum,,Dictydiaethalium,,plumbeum,,species,,B312:1,accepted,,,,,,,,,,,Dictydiaethalium,,,Dictydiaethalium plumbeum,,6CTG7,3213503,6CTG7,3213503
 B312:1:408,Discina ancilis,,Discina,,ancilis,,species,,B312:1,accepted,,,,,,,,,,,Discina,,,Discina ancilis,,36SRD,5258519,36SRD,5258519
 B312:1:409,Disciotis venosa,,Disciotis,,venosa,,species,,B312:1,accepted,,,,,,,,,,,Disciotis,,,Disciotis venosa,,36STS,9032566,36STS,9032566
 B312:1:410,Dumontinia tuberosa,,Dumontinia,,tuberosa,,species,,B312:1,accepted,,,,,,,,,,,Dumontinia,,,Dumontinia tuberosa,,382DS,8691955,382DS,8691955
 B312:1:411,Elaphocordyceps capitata,,Elaphocordyceps,,capitata,,species,,B312:1,accepted,,,,,,,,,,,Elaphocordyceps,,,Elaphocordyceps capitata,,38ZP6,2564374,7CFKF,7455687
 B312:1:412,Elaphocordyceps longisegmentis,,Elaphocordyceps,,longisegmentis,,species,,B312:1,accepted,,,,,,,,,,,Elaphocordyceps,,,Elaphocordyceps longisegmentis,,38ZPD,2564364,57BV7,2564364
-B312:1:413,Cordyceps longisegmentis,,Cordyceps,,longisegmentis,,species,,B312:1,synonym,B312:1:412,Elaphocordyceps longisegmentis,,,,,,,,,Elaphocordyceps,,,Cordyceps longisegmentis,,,2564365,,2564364
+B312:1:413,Cordyceps longisegmentis,,Cordyceps,,longisegmentis,,species,,B312:1,synonym,B312:1:412,Elaphocordyceps longisegmentis,,,,,,,,,Elaphocordyceps,,,Cordyceps longisegmentis,,MKZQT,2564365,57BV7,2564364
 B312:1:414,Elaphocordyceps ophioglossoides,,Elaphocordyceps,,ophioglossoides,,species,,B312:1,accepted,,,,,,,,,,,Elaphocordyceps,,,Elaphocordyceps ophioglossoides,,38ZPG,8614710,57BVD,7646591
 B312:1:415,Cordyceps ophioglossoides,,Cordyceps,,ophioglossoides,,species,,B312:1,synonym,B312:1:414,Elaphocordyceps ophioglossoides,,,,,,,,,Elaphocordyceps,,,Cordyceps ophioglossoides,,9XKMW,7914043,57BVD,7646591
 B312:1:416,Encoelia furfuracea,,Encoelia,,furfuracea,,species,,B312:1,accepted,,,,,,,,,,,Encoelia,,,Encoelia furfuracea,,39P3G,9020044,39P3G,9020044
 B312:1:417,Entoloma cetratum,,Entoloma,,cetratum,,species,,B312:1,accepted,,,,,,,,,,,Entoloma,,,Entoloma cetratum,,6FD79,2539557,6FD79,2539557
-B312:1:418,Entoloma chalybaeum,,Entoloma,,chalybaeum,,species,,B312:1,accepted,,,,,,,,,,,Entoloma,,,Entoloma chalybaeum,,,7451115,,7451115
+B312:1:418,Entoloma chalybaeum,,Entoloma,,chalybaeum,,species,,B312:1,accepted,,,,,,,,,,,Entoloma,,,Entoloma chalybaeum,,NH6LT,7451115,6FD6M,7451115
 B312:1:419,Entoloma lazulinum,,Entoloma,,lazulinum,,species,,B312:1,synonym,B312:1:418,Entoloma chalybaeum,,,,,,,,,Entoloma,,,Entoloma lazulinum,,39ZW8,3346649,6FD6M,7244257
 B312:1:420,Entoloma fernandae,,Entoloma,,fernandae,,species,ss. lato,B312:1,accepted,,,,,,,,,,,Entoloma,,,Entoloma fernandae ss. lato,,39ZK2,2539365,39ZK2,2539365
 B312:1:421,Entoloma hebes,,Entoloma,,hebes,,species,,B312:1,accepted,,,,,,,,,,,Entoloma,,,Entoloma hebes,,39ZR6,2539337,39ZR6,2539337
@@ -445,10 +445,10 @@ B312:1:443,Fistulina hepatica,,Fistulina,,hepatica,,species,,B312:1,accepted,,,,
 B312:1:444,Flammula alnicola,,Flammula,,alnicola,,species,,B312:1,accepted,,,,,,,,,,,Flammula,,,Flammula alnicola,,6J8HC,3344235,6J8HC,3344235
 B312:1:445,Pholiota alnicola,,Pholiota,,alnicola,,species,,B312:1,synonym,B312:1:444,Flammula alnicola,,,,,,,,,Flammula,,,Pholiota alnicola,,4GLX4,9179574,6J8HC,3344235
 B312:1:446,Flammulaster limulatus,,Flammulaster,,limulatus,,species,,B312:1,accepted,,,,,,,,,,,Flammulaster,,,Flammulaster limulatus,,6J7QD,3330140,6J7QD,3330140
-B312:1:447,Flammulaster subincarnatus,,Flammulaster,,subincarnatus,,species,s.l.,B312:1,accepted,,,,,,,,,,,Flammulaster,,,Flammulaster subincarnatus s.l.,,6J828,3330124,6J7QH,8325572
+B312:1:447,Flammulaster subincarnatus,,Flammulaster,,subincarnatus,,species,s.l.,B312:1,accepted,,,,,,,,,,,Flammulaster,,,Flammulaster subincarnatus s.l.,,6J828,3330124,L24V2,8325572
 B312:1:448,Fomes fomentarius,,Fomes,,fomentarius,,species,,B312:1,accepted,,,,,,,,,,,Fomes,,,Fomes fomentarius,,6JCQK,2549323,6JCQK,2549323
 B312:1:449,Fomitopsis pinicola,,Fomitopsis,,pinicola,,species,,B312:1,accepted,,,,,,,,,,,Fomitopsis,,,Fomitopsis pinicola,,6JCCY,2542395,6JCCY,2542395
-B312:1:450,Fuligo septica,,Fuligo,,septica,,species,,B312:1,accepted,,,,,,,,,,,Fuligo,,,Fuligo septica,,,5426027,,5426027
+B312:1:450,Fuligo septica,,Fuligo,,septica,,species,,B312:1,accepted,,,,,,,,,,,Fuligo,,,Fuligo septica,,6JRVD,5426027,6JRVD,5426027
 B312:1:451,Fuscoporia contigua,,Fuscoporia,,contigua,,species,,B312:1,accepted,,,,,,,,,,,Fuscoporia,,,Fuscoporia contigua,,6K4KL,2520283,6K4KL,2520283
 B312:1:452,Phellinus contiguus,,Phellinus,,contiguus,,species,,B312:1,synonym,B312:1:451,Fuscoporia contigua,,,,,,,,,Fuscoporia,,,Phellinus contiguus,,4FZC3,8706739,6K4KL,2520283
 B312:1:453,Fuscoporia ferrea,,Fuscoporia,,ferrea,,species,,B312:1,accepted,,,,,,,,,,,Fuscoporia,,,Fuscoporia ferrea,,6K4KR,2520665,6K4KR,2520665
@@ -464,12 +464,12 @@ B312:1:462,Galerina marginata,,Galerina,,marginata,,species,s.l.,B312:1,accepted
 B312:1:463,Galerina pumila,,Galerina,,pumila,,species,,B312:1,accepted,,,,,,,,,,,Galerina,,,Galerina pumila,,6K7GQ,8214795,6K7GQ,8214795
 B312:1:464,Galerina mycenopsis,,Galerina,,mycenopsis,,species,,B312:1,synonym,B312:1:463,Galerina pumila,,,,,,,,,Galerina,,,Galerina mycenopsis,,6JVGR,9052412,6K7GQ,8214795
 B312:1:465,Galerina vittiformis,,Galerina,,vittiformis,,species,,B312:1,accepted,,,,,,,,,,,Galerina,,,Galerina vittiformis,,3F4N4,2533783,3F4N4,2533783
-B312:1:466,Gallerina vittaeformis,,Gallerina,,vittaeformis,,species,,B312:1,synonym,B312:1:465,Galerina vittiformis,,,,,,,,,Galerina,,,Gallerina vittaeformis,,,6095730,,2533783
+B312:1:466,Gallerina vittaeformis,,Gallerina,,vittaeformis,,species,,B312:1,synonym,B312:1:465,Galerina vittiformis,,,,,,,,,Galerina,,,Gallerina vittaeformis,,NVHW5,6095730,3F4N4,2533783
 B312:1:467,Gallerina sideroides,,Gallerina,,sideroides,,species,,B312:1,accepted,,,,,,,,,,,Gallerina,,,Gallerina sideroides,,3F4KZ,7729743,3F4KZ,7729743
 B312:1:468,Ganoderma adspersum,,Ganoderma,,adspersum,,species,,B312:1,accepted,,,,,,,,,,,Ganoderma,,,Ganoderma adspersum,,3F968,2549570,3F968,2549570
 B312:1:469,Ganoderma europaeum,,Ganoderma,,europaeum,,species,,B312:1,synonym,B312:1:468,Ganoderma adspersum,,,,,,,,,Ganoderma,,,Ganoderma europaeum,,3F99B,2549572,3F968,2549570
 B312:1:470,Ganoderma australe,,Ganoderma,,australe,,species,,B312:1,synonym,B312:1:468,Ganoderma adspersum,,,,,,,,,Ganoderma,,,Ganoderma australe,,3F96V,2549779,3F96V,2549779
-B312:1:471,Ganoderma cupreolaccatum,,Ganoderma,,cupreolaccatum,,species,,B312:1,accepted,,,,,,,,,,,Ganoderma,,,Ganoderma cupreolaccatum,,,2549599,,2549556
+B312:1:471,Ganoderma cupreolaccatum,,Ganoderma,,cupreolaccatum,,species,,B312:1,accepted,,,,,,,,,,,Ganoderma,,,Ganoderma cupreolaccatum,,NYP39,2549599,3F9D5,2549556
 B312:1:472,Ganoderma pfeifferi,,Ganoderma,,pfeifferi,,species,,B312:1,synonym,B312:1:471,Ganoderma cupreolaccatum,,,,,,,,,Ganoderma,,,Ganoderma pfeifferi,,3F9D5,2549556,3F9D5,2549556
 B312:1:473,Ganoderma lipsiense,,Ganoderma,,lipsiense,,species,,B312:1,accepted,,,,,,,,,,,Ganoderma,,,Ganoderma lipsiense,,3F9B3,2549867,4LJLZ,5248275
 B312:1:474,Ganoderma applanatum,,Ganoderma,,applanatum,,species,,B312:1,synonym,B312:1:473,Ganoderma lipsiense,,,,,,,,,Ganoderma,,,Ganoderma applanatum,,3F96J,2549834,3F96J,2549834
@@ -478,7 +478,7 @@ B312:1:476,Ganoderma resinaceum,,Ganoderma,,resinaceum,,species,,B312:1,accepted
 B312:1:477,Geastrum fimbriamtum,,Geastrum,,fimbriamtum,,species,,B312:1,accepted,,,,,,,,,,,Geastrum,,,Geastrum fimbriamtum,,3FG8N,2554355,3FG8N,2554355
 B312:1:478,Geastrum floriforme,,Geastrum,,floriforme,,species,,B312:1,accepted,,,,,,,,,,,Geastrum,,,Geastrum floriforme,,3FG8Q,2554326,3FG8Q,2554326
 B312:1:479,Geastrum pectinatum,,Geastrum,,pectinatum,,species,,B312:1,accepted,,,,,,,,,,,Geastrum,,,Geastrum pectinatum,,6JZ8G,2554343,6JZ8G,2554343
-B312:1:480,Geastrum quadrifidum,,Geastrum,,quadrifidum,,species,,B312:1,accepted,,,,,,,,,,,Geastrum,,,Geastrum quadrifidum,,6JYVS,2554338,6JYVS,2554338
+B312:1:480,Geastrum quadrifidum,,Geastrum,,quadrifidum,,species,,B312:1,accepted,,,,,,,,,,,Geastrum,,,Geastrum quadrifidum,,L24XW,2554338,L24XW,2554338
 B312:1:481,Geastrum rufescens,,Geastrum,,rufescens,,species,,B312:1,accepted,,,,,,,,,,,Geastrum,,,Geastrum rufescens,,6JZ83,2554340,6JZ83,2554340
 B312:1:482,Geastrum vulgatum,,Geastrum,,vulgatum,,species,,B312:1,synonym,B312:1:481,Geastrum rufescens,,,,,,,,,Geastrum,,,Geastrum vulgatum,,3FGBS,2554341,6JZ83,2554340
 B312:1:483,Geastrum striatum,,Geastrum,,striatum,,species,,B312:1,accepted,,,,,,,,,,,Geastrum,,,Geastrum striatum,,3FGBD,2554383,3FGBD,2554383
@@ -517,8 +517,8 @@ B312:1:515,Gymnopus ocior,,Gymnopus,,ocior,,species,,B312:1,accepted,,,,,,,,,,,G
 B312:1:516,Collybia ocior,,Collybia,,ocior,,species,,B312:1,synonym,B312:1:515,Gymnopus ocior,,,,,,,,,Gymnopus,,,Collybia ocior,,X5CB,2537543,6KW38,5243738
 B312:1:517,Gymnopus perforans,,Gymnopus,,perforans,,species,,B312:1,accepted,,,,,,,,,,,Gymnopus,,,Gymnopus perforans,,6KVQR,5243764,4CWPR,10770347
 B312:1:518,Micromphale perforans,,Micromphale,,perforans,,species,,B312:1,synonym,B312:1:517,Gymnopus perforans,,,,,,,,,Gymnopus,,,Micromphale perforans,,42ZCJ,2537617,4CWPR,10770347
-B312:1:519,Gymnopus peronatus,,Gymnopus,,peronatus,,species,,B312:1,accepted,,,,,,,,,,,Gymnopus,,,Gymnopus peronatus,,6KVR3,5243776,B2PM9,12092733
-B312:1:520,Collybia peronata,,Collybia,,peronata,,species,,B312:1,synonym,B312:1:519,Gymnopus peronatus,,,,,,,,,Gymnopus,,,Collybia peronata,,5ZN9K,7594016,B2PM9,12092733
+B312:1:519,Gymnopus peronatus,,Gymnopus,,peronatus,,species,,B312:1,accepted,,,,,,,,,,,Gymnopus,,,Gymnopus peronatus,,P3X6D,5243776,B2PM9,12092733
+B312:1:520,Collybia peronata,,Collybia,,peronata,,species,,B312:1,synonym,B312:1:519,Gymnopus peronatus,,,,,,,,,Gymnopus,,,Collybia peronata,,MPJF9,7594016,B2PM9,12092733
 B312:1:521,Gymnopus quercophilus,,Gymnopus,,quercophilus,,species,,B312:1,accepted,,,,,,,,,,,Gymnopus,,,Gymnopus quercophilus,,6L7SQ,5243780,B2PM7,12163330
 B312:1:522,Marasmius quercophilus,,Marasmius,,quercophilus,,species,,B312:1,synonym,B312:1:521,Gymnopus quercophilus,,,,,,,,,Gymnopus,,,Marasmius quercophilus,,3XZWR,2537664,B2PM7,12163330
 B312:1:523,Gymnosporangium confusum,,Gymnosporangium,,confusum,,species,,B312:1,accepted,,,,,,,,,,,Gymnosporangium,,,Gymnosporangium confusum,,6KVWP,2516117,6KVWP,2516117
@@ -536,7 +536,7 @@ B312:1:534,Helvella acetabulum,,Helvella,,acetabulum,,species,,B312:1,accepted,,
 B312:1:535,Helvella atra,,Helvella,,atra,,species,,B312:1,accepted,,,,,,,,,,,Helvella,,,Helvella atra,,3KJVR,2594709,3KJVR,2594709
 B312:1:536,Helvella costifera,,Helvella,,costifera,,species,,B312:1,accepted,,,,,,,,,,,Helvella,,,Helvella costifera,,3KJX4,2594734,3KJX4,2594734
 B312:1:537,Paxina costifera,,Paxina,,costifera,,species,,B312:1,synonym,B312:1:536,Helvella costifera,,,,,,,,,Helvella,,,Paxina costifera,,7683P,2594736,3KJX4,2594734
-B312:1:538,Helvella crispa,,Helvella,,crispa,,species,,B312:1,accepted,,,,,,,,,,,Helvella,,,Helvella crispa,,3KJX6,2554614,3KJX6,2554614
+B312:1:538,Helvella crispa,,Helvella,,crispa,,species,,B312:1,accepted,,,,,,,,,,,Helvella,,,Helvella crispa,,3KJX7,2554614,9XL6Y,2554614
 B312:1:539,Helvella elastica,,Helvella,,elastica,,species,,B312:1,accepted,,,,,,,,,,,Helvella,,,Helvella elastica,,3KJXL,2594716,3KJXL,2594716
 B312:1:540,Helvella ephippium,,Helvella,,ephippium,,species,,B312:1,accepted,,,,,,,,,,,Helvella,,,Helvella ephippium,,3KJXP,2594711,3KJXP,2594711
 B312:1:541,Leptopodia ephippium,,Leptopodia,,ephippium,,species,,B312:1,synonym,B312:1:540,Helvella ephippium,,,,,,,,,Helvella,,,Leptopodia ephippium,,3TTJ5,5259074,3KJXP,2594711
@@ -549,7 +549,7 @@ B312:1:547,Helvella macropus,,Helvella,,macropus,,species,,B312:1,accepted,,,,,,
 B312:1:548,Helvella bulbosa,,Helvella,,bulbosa,,species,,B312:1,synonym,B312:1:547,Helvella macropus,,,,,,,,,Helvella,,,Helvella bulbosa,,3KJW5,8193776,3KJW5,8193776
 B312:1:549,Macropodia macropus,,Macropodia,,macropus,,species,,B312:1,synonym,B312:1:547,Helvella macropus,,,,,,,,,Helvella,,,Macropodia macropus,,3X8KM,8974057,3KJZH,2594776
 B312:1:550,Helvella queletii,,Helvella,,queletii,,species,,B312:1,accepted,,,,,,,,,,,Helvella,,,Helvella queletii,,3KK35,2594699,767S2,8069437
-B312:1:551,Helvella spadicea,,Helvella,,spadicea,,species,,B312:1,accepted,,,,,,,,,,,Helvella,,,Helvella spadicea,,,3492738,,3492738
+B312:1:551,Helvella spadicea,,Helvella,,spadicea,,species,,B312:1,accepted,,,,,,,,,,,Helvella,,,Helvella spadicea,,PFHTJ,3492738,PFHTJ,3492738
 B312:1:552,Helvella leucopus,,Helvella,,leucopus,,species,,B312:1,synonym,B312:1:551,Helvella spadicea,,,,,,,,,Helvella,,,Helvella leucopus,,3KJZB,2594701,3KJZB,2594701
 B312:1:553,Helvella albipes,,Helvella,,albipes,,species,,B312:1,synonym,B312:1:551,Helvella spadicea,,,,,,,,,Helvella,,,Helvella albipes,,3KJVF,2594800,3KJVF,2594800
 B312:1:554,Hemimycena candida,,Hemimycena,,candida,,species,,B312:1,accepted,,,,,,,,,,,Hemimycena,,,Hemimycena candida,,3KQ6R,2527508,3KQ6R,2527508
@@ -580,7 +580,7 @@ B312:1:578,Hygrocybe persistens,,Hygrocybe,,persistens,,species,,B312:1,synonym,
 B312:1:579,Hygrocybe ceracea,,Hygrocybe,,ceracea,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe ceracea,,3NB5K,2538644,3NB5K,2538644
 B312:1:580,Hygrocybe chlorophana,,Hygrocybe,,chlorophana,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe chlorophana,,3NB5W,2538630,3NB5W,2538630
 B312:1:581,Hygrocybe chlorophana var. aurantiaca,,Hygrocybe,,chlorophana,aurantiaca,variety,,B312:1,accepted,,,B312:1:580,Hygrocybe chlorophana,,,,,,,Hygrocybe,,Hygrocybe chlorophana,Hygrocybe chlorophana var. aurantiaca,,7LTKH,2538636,3NB5W,2538630
-B312:1:582,Hygrocybe chlorophana var. chlorophana,,Hygrocybe,,chlorophana,chlorophana,variety,,B312:1,accepted,,,B312:1:580,Hygrocybe chlorophana,,,,,,,Hygrocybe,,Hygrocybe chlorophana,Hygrocybe chlorophana var. chlorophana,,,,,
+B312:1:582,Hygrocybe chlorophana var. chlorophana,,Hygrocybe,,chlorophana,chlorophana,variety,,B312:1,accepted,,,B312:1:580,Hygrocybe chlorophana,,,,,,,Hygrocybe,,Hygrocybe chlorophana,Hygrocybe chlorophana var. chlorophana,,PWCPW,,3NB5W,
 B312:1:583,Hygrocybe coccinea,,Hygrocybe,,coccinea,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe coccinea,,6MLXJ,2538445,6MLXJ,2538445
 B312:1:584,Hygrocybe coccineocrenata,,Hygrocybe,,coccineocrenata,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe coccineocrenata,,3NB6B,2538605,3NB6B,2538605
 B312:1:585,Hygrocybe colemanniana,,Hygrocybe,,colemanniana,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe colemanniana,,3NB6C,2538683,32FL3,2538689
@@ -593,12 +593,12 @@ B312:1:591,Hygrocybe laeta,,Hygrocybe,,laeta,,species,,B312:1,accepted,,,,,,,,,,
 B312:1:592,Hygrocybe miniata,,Hygrocybe,,miniata,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe miniata,,3NBB7,2538580,3NBB7,2538580
 B312:1:593,Hygrocybe obrussea,,Hygrocybe,,obrussea,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe obrussea,,3NBC9,3345253,3NBC9,3345253
 B312:1:594,Hygrocybe quieta,,Hygrocybe,,quieta,,species,,B312:1,synonym,B312:1:593,Hygrocybe obrussea,,,,,,,,,Hygrocybe,,,Hygrocybe quieta,,3NBDV,2538693,3NBDV,2538693
-B312:1:595,Hygrocybe pratensis,,Hygrocybe,,pratensis,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe pratensis,,3NBD8,3345082,32FLJ,3291564
+B312:1:595,Hygrocybe pratensis,,Hygrocybe,,pratensis,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe pratensis,,PWGJ5,3345082,32FLJ,3291564
 B312:1:596,Camarophyllus pratensis,,Camarophyllus,,pratensis,,species,,B312:1,synonym,B312:1:595,Hygrocybe pratensis,,,,,,,,,Hygrocybe,,,Camarophyllus pratensis,,Q8KW,3302355,32FLJ,3291564
-B312:1:597,Hygrocybe psittacina,,Hygrocybe,,psittacina,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe psittacina,,3NBDL,7369049,3G9MX,3345400
+B312:1:597,Hygrocybe psittacina,,Hygrocybe,,psittacina,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe psittacina,,PWGNJ,7369049,3G9MX,3345400
 B312:1:598,Hygrocybe russocoriacea,,Hygrocybe,,russocoriacea,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe russocoriacea,,6MLQ3,2538568,32FLR,2538571
 B312:1:599,Hygrocybe virginea,,Hygrocybe,,virginea,,species,,B312:1,accepted,,,,,,,,,,,Hygrocybe,,,Hygrocybe virginea,,3NBH2,3345120,32FLW,3345381
-B312:1:600,Hygrophoropsis aurantiaca,,Hygrophoropsis,,aurantiaca,,species,,B312:1,accepted,,,,,,,,,,,Hygrophoropsis,,,Hygrophoropsis aurantiaca,,,2525710,,2525710
+B312:1:600,Hygrophoropsis aurantiaca,,Hygrophoropsis,,aurantiaca,,species,,B312:1,accepted,,,,,,,,,,,Hygrophoropsis,,,Hygrophoropsis aurantiaca,,3NBTS,2525710,3NBTS,2525710
 B312:1:601,Hygrophorus agathosmus,,Hygrophorus,,agathosmus,,species,,B312:1,accepted,,,,,,,,,,,Hygrophorus,,,Hygrophorus agathosmus,,6MLQD,2538727,6MLQD,2538727
 B312:1:602,Hygrophorus chrysodon,,Hygrophorus,,chrysodon,,species,,B312:1,accepted,,,,,,,,,,,Hygrophorus,,,Hygrophorus chrysodon,,3NBWT,2538788,3NBWT,2538788
 B312:1:603,Limacium chrysodon,,Limacium,,chrysodon,,species,,B312:1,synonym,B312:1:602,Hygrophorus chrysodon,,,,,,,,,Hygrophorus,,,Limacium chrysodon,,6PZQ3,2538790,3NBWT,2538788
@@ -624,14 +624,14 @@ B312:1:622,Psilocybe capnoides,,Psilocybe,,capnoides,,species,,B312:1,synonym,B3
 B312:1:623,Hypholoma fasciculare,,Hypholoma,,fasciculare,,species,,B312:1,accepted,,,,,,,,,,,Hypholoma,,,Hypholoma fasciculare,,3NSGX,3293632,3NSGX,3293632
 B312:1:624,Psilocybe fasciculare,,Psilocybe,,fasciculare,,species,,B312:1,synonym,B312:1:623,Hypholoma fasciculare,,,,,,,,,Hypholoma,,,Psilocybe fasciculare,,6WKB7,9457308,3NSGX,9457308
 B312:1:625,Hypholoma lateritium,,Hypholoma,,lateritium,,species,,B312:1,accepted,,,,,,,,,,,Hypholoma,,,Hypholoma lateritium,,3NSHS,2533424,3NSHS,2533424
-B312:1:626,Psilocybe sublateritia,,Psilocybe,,sublateritia,,species,,B312:1,synonym,B312:1:625,Hypholoma lateritium,,,,,,,,,Hypholoma,,,Psilocybe sublateritia,,,6095829,,2533424
-B312:1:627,Hypholoma sublateritium,,Hypholoma,,sublateritium,,species,,B312:1,synonym,B312:1:625,Hypholoma lateritium,,,,,,,,,Hypholoma,,,Hypholoma sublateritium,,3NSKP,8614542,3NSHS,2533424
+B312:1:626,Psilocybe sublateritia,,Psilocybe,,sublateritia,,species,,B312:1,synonym,B312:1:625,Hypholoma lateritium,,,,,,,,,Hypholoma,,,Psilocybe sublateritia,,SD3FT,6095829,3NSHS,2533424
+B312:1:627,Hypholoma sublateritium,,Hypholoma,,sublateritium,,species,,B312:1,synonym,B312:1:625,Hypholoma lateritium,,,,,,,,,Hypholoma,,,Hypholoma sublateritium,,PHSWF,8614542,3NSHS,2533424
 B312:1:628,Hypholoma marginatum,,Hypholoma,,marginatum,,species,,B312:1,accepted,,,,,,,,,,,Hypholoma,,,Hypholoma marginatum,,3NSJ3,2533409,3NSJ3,2533409
 B312:1:629,Hypholoma dispersum,,Hypholoma,,dispersum,,species,,B312:1,synonym,B312:1:628,Hypholoma marginatum,,,,,,,,,Hypholoma,,,Hypholoma dispersum,,3NSGL,2533475,3NSGL,2533475
 B312:1:630,Psilocybe marginata,,Psilocybe,,marginata,,species,,B312:1,synonym,B312:1:628,Hypholoma marginatum,,,,,,,,,Hypholoma,,,Psilocybe marginata,,4PH8G,8682949,3NSJ3,2533409
 B312:1:631,Hypocrea aureoviridis,,Hypocrea,,aureoviridis,,species,ss. lato,B312:1,accepted,,,,,,,,,,,Hypocrea,,,Hypocrea aureoviridis ss. lato,,6MS2G,2561489,58BJD,5251367
 B312:1:632,Trichoderma aureoviride,,Trichoderma,,aureoviride,,species,,B312:1,synonym,B312:1:631,Hypocrea aureoviridis,,,,,,,,,Hypocrea,,,Trichoderma aureoviride,,58BJD,5251367,58BJD,5251367
-B312:1:633,Hypocrea citrina,,Hypocrea,,citrina,,species,,B312:1,accepted,,,,,,,,,,,Hypocrea,,,Hypocrea citrina,,6MS29,2561503,58BKW,7543633
+B312:1:633,Hypocrea citrina,,Hypocrea,,citrina,,species,,B312:1,accepted,,,,,,,,,,,Hypocrea,,,Hypocrea citrina,,PKMSM,2561503,58BKW,7543633
 B312:1:634,Hypocrea gelatinosa,,Hypocrea,,gelatinosa,,species,,B312:1,accepted,,,,,,,,,,,Hypocrea,,,Hypocrea gelatinosa,,6MRRK,9221615,6MRRK,9221615
 B312:1:635,Creopus gelatinosus,,Creopus,,gelatinosus,,species,,B312:1,synonym,B312:1:634,Hypocrea gelatinosa,,,,,,,,,Hypocrea,,,Creopus gelatinosus,,ZD4B,9039201,6MRRK,9221615
 B312:1:636,Tricoderma gelatinosum,,Tricoderma,,gelatinosum,,species,,B312:1,synonym,B312:1:634,Hypocrea gelatinosa,,,,,,,,,Hypocrea,,,Tricoderma gelatinosum,,58BMQ,5483301,58BMQ,5483301
@@ -645,7 +645,7 @@ B312:1:643,Imleria badia,,Imleria,,badia,,species,,B312:1,accepted,,,,,,,,,,,Iml
 B312:1:644,Xerocomus badius,,Xerocomus,,badius,,species,,B312:1,synonym,B312:1:643,Imleria badia,,,,,,,,,Imleria,,,Xerocomus badius,,5CCMK,7631694,3PJ2R,7832732
 B312:1:645,Boletus badius,,Boletus,,badius,,species,,B312:1,synonym,B312:1:643,Imleria badia,,,,,,,,,Imleria,,,Boletus badius,,MCBB,9048142,3PJ2R,7832732
 B312:1:646,Inocybe amethystina,,Inocybe,,amethystina,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe amethystina,,3PQMT,2528146,3PQMT,2528146
-B312:1:647,Inocybe obscura,,Inocybe,,obscura,,species,,B312:1,synonym,B312:1:646,Inocybe amethystina,,,,,,,,,Inocybe,,,Inocybe obscura,,,3330801,,8863729
+B312:1:647,Inocybe obscura,,Inocybe,,obscura,,species,,B312:1,synonym,B312:1:646,Inocybe amethystina,,,,,,,,,Inocybe,,,Inocybe obscura,,QNR42,3330801,QNR42,8863729
 B312:1:648,Inocybe obscuroides,,Inocybe,,obscuroides,,species,,B312:1,synonym,B312:1:646,Inocybe amethystina,,,,,,,,,Inocybe,,,Inocybe obscuroides,,3PRCD,3330934,3PQT4,8863729
 B312:1:649,Inocybe asterospora,,Inocybe,,asterospora,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe asterospora,,3PQNS,2527952,3PQNS,2527952
 B312:1:650,Inocybe cincinnata,,Inocybe,,cincinnata,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe cincinnata,,3PQT4,8863729,3PQT4,8863729
@@ -667,19 +667,19 @@ B312:1:665,Inocybe lilacina,,Inocybe,,lilacina,,species,,B312:1,accepted,,,,,,,,
 B312:1:666,Inocybe geophylla var. lilacina,,Inocybe,,geophylla,lilacina,variety,,B312:1,synonym,B312:1:665,Inocybe lilacina,,,,,,,,,Inocybe,,,Inocybe geophylla var. lilacina,,7LV4T,3331756,3PQZC,3330851
 B312:1:667,Inocybe napipes,,Inocybe,,napipes,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe napipes,,3PRB6,2527987,3PRB6,2527987
 B312:1:668,Inocybe praetervisa,,Inocybe,,praetervisa,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe praetervisa,,3PRGF,2527971,3PRGF,2527971
-B312:1:669,Inocybe rimosa,,Inocybe,,rimosa,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe rimosa,,3PRJW,2528091,4PBSR,10846389
+B312:1:669,Inocybe rimosa,,Inocybe,,rimosa,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe rimosa,,QNTTZ,2528091,4PBSR,10846389
 B312:1:670,Inocybe sindonia,,Inocybe,,sindonia,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe sindonia,,3PRM3,2527869,3PRM3,2527869
 B312:1:671,Inocybe tenebrosa,,Inocybe,,tenebrosa,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe tenebrosa,,3PRR3,2527893,3PRR3,2527893
 B312:1:672,Inocybe whitei,,Inocybe,,whitei,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe whitei,,6MW4Q,2528180,6MW4Q,2528180
 B312:1:673,Inocybe pudica,,Inocybe,,pudica,,species,,B312:1,synonym,B312:1:672,Inocybe whitei,,,,,,,,,Inocybe,,,Inocybe pudica,,3PRHJ,2528183,6MW4Q,2528180
-B312:1:674,Inocybe flavidolilacina,,Inocybe,,flavidolilacina,,species,,B312:1,synonym,B312:1:672,Inocybe whitei,,,,,,,,,Inocybe,,,Inocybe flavidolilacina,,,7937285,,2528180
+B312:1:674,Inocybe flavidolilacina,,Inocybe,,flavidolilacina,,species,,B312:1,synonym,B312:1:672,Inocybe whitei,,,,,,,,,Inocybe,,,Inocybe flavidolilacina,,QNKFF,7937285,6MW4Q,2528180
 B312:1:675,Inocybe xanthomelas,,Inocybe,,xanthomelas,,species,,B312:1,accepted,,,,,,,,,,,Inocybe,,,Inocybe xanthomelas,,6N852,2527910,6N852,2527910
 B312:1:676,Inonotus cuticularis,,Inonotus,,cuticularis,,species,,B312:1,accepted,,,,,,,,,,,Inonotus,,,Inonotus cuticularis,,3PRYY,2521101,3PRYY,2521101
 B312:1:677,Inonotus hispidus,,Inonotus,,hispidus,,species,,B312:1,accepted,,,,,,,,,,,Inonotus,,,Inonotus hispidus,,3PS28,2521208,3PS28,2521208
 B312:1:678,Inonotus obliquus,,Inonotus,,obliquus,,species,,B312:1,accepted,,,,,,,,,,,Inonotus,,,Inonotus obliquus,,3PS3N,2521089,3PS3N,2521089
 B312:1:679,Isaria farinosa,,Isaria,,farinosa,,species,,B312:1,accepted,,,,,,,,,,,Isaria,,,Isaria farinosa,,3Q39T,8601365,YCCD,10604897
 B312:1:680,Ischnoderma benzoinum,,Ischnoderma,,benzoinum,,species,,B312:1,accepted,,,,,,,,,,,Ischnoderma,,,Ischnoderma benzoinum,,6MY64,2543500,6MY64,2543500
-B312:1:681,Kretzschmaria deusta,,Kretzschmaria,,deusta,,species,,B312:1,accepted,,,,,,,,,,,Kretzschmaria,,,Kretzschmaria deusta,,,2577023,,2577023
+B312:1:681,Kretzschmaria deusta,,Kretzschmaria,,deusta,,species,,B312:1,accepted,,,,,,,,,,,Kretzschmaria,,,Kretzschmaria deusta,,PP64F,2577023,PP64F,2577023
 B312:1:682,Kuehneromyces mutabilis,,Kuehneromyces,,mutabilis,,species,,B312:1,accepted,,,,,,,,,,,Kuehneromyces,,,Kuehneromyces mutabilis,,3RF9F,2533962,3RF9F,2533962
 B312:1:683,Pholiota mutabilis,,Pholiota,,mutabilis,,species,,B312:1,synonym,B312:1:682,Kuehneromyces mutabilis,,,,,,,,,Kuehneromyces,,,Pholiota mutabilis,,4GM7C,2533963,3RF9F,2533962
 B312:1:684,Laccaria amethystina,,Laccaria,,amethystina,,species,,B312:1,accepted,,,,,,,,,,,Laccaria,,,Laccaria amethystina,,3RLDM,2530983,3RLDM,2530983
@@ -724,7 +724,7 @@ B312:1:722,Lactarius salmonicolor,,Lactarius,,salmonicolor,,species,,B312:1,acce
 B312:1:723,Lactarius serifluus,,Lactarius,,serifluus,,species,,B312:1,accepted,,,,,,,,,,,Lactarius,,,Lactarius serifluus,,3RS8R,9111925,3RS8R,9111925
 B312:1:724,Lactarius subdulcis,,Lactarius,,subdulcis,,species,,B312:1,accepted,,,,,,,,,,,Lactarius,,,Lactarius subdulcis,,3RS9V,9186214,3RS9V,9186214
 B312:1:725,Lactarius tabidus,,Lactarius,,tabidus,,species,,B312:1,accepted,,,,,,,,,,,Lactarius,,,Lactarius tabidus,,3RSB8,5248614,3RSB8,5248614
-B312:1:726,Lactarius theiogalus,,Lactarius,,theiogalus,,species,,B312:1,synonym,B312:1:725,Lactarius tabidus,,,,,,,,,Lactarius,,,Lactarius theiogalus,,,5248612,,5248614
+B312:1:726,Lactarius theiogalus,,Lactarius,,theiogalus,,species,,B312:1,synonym,B312:1:725,Lactarius tabidus,,,,,,,,,Lactarius,,,Lactarius theiogalus,,PWD2K,5248612,PWD2K,5248614
 B312:1:727,Lactarius torminosus,,Lactarius,,torminosus,,species,,B312:1,accepted,,,,,,,,,,,Lactarius,,,Lactarius torminosus,,9XZKX,8122710,9XZKX,8122710
 B312:1:728,Lactarius vietus,,Lactarius,,vietus,,species,,B312:1,accepted,,,,,,,,,,,Lactarius,,,Lactarius vietus,,3RSCX,9171835,3RSCX,9171835
 B312:1:729,Lactarius zonarius,,Lactarius,,zonarius,,species,,B312:1,accepted,,,,,,,,,,,Lactarius,,,Lactarius zonarius,,3RSDX,5248643,3RSDX,5248643
@@ -748,7 +748,7 @@ B312:1:746,Leccinum pseudoscabrum,,Leccinum,,pseudoscabrum,,species,,B312:1,acce
 B312:1:747,Leccinum quercinum,,Leccinum,,quercinum,,species,,B312:1,accepted,,,,,,,,,,,Leccinum,,,Leccinum quercinum,,6P5GP,8367699,3STB5,2524513
 B312:1:748,Leccinum scabrum,,Leccinum,,scabrum,,species,,B312:1,accepted,,,,,,,,,,,Leccinum,,,Leccinum scabrum,,3STFC,9141390,3STFC,9141390
 B312:1:749,Boletus scaberinum,,Boletus,,scaberinum,,species,,B312:1,synonym,B312:1:748,Leccinum scabrum,,,,,,,,,Leccinum,,,Boletus scaberinum,,,,,
-B312:1:750,Krombholziella scabra,,Krombholziella,,scabra,,species,,B312:1,synonym,B312:1:748,Leccinum scabrum,,,,,,,,,Leccinum,,,Krombholziella scabra,,6NPJK,11252132,3STFC,9141390
+B312:1:750,Krombholziella scabra,,Krombholziella,,scabra,,species,,B312:1,synonym,B312:1:748,Leccinum scabrum,,,,,,,,,Leccinum,,,Krombholziella scabra,,PPH78,11252132,3STFC,9141390
 B312:1:751,Leccinum variicolor,,Leccinum,,variicolor,,species,,B312:1,accepted,,,,,,,,,,,Leccinum,,,Leccinum variicolor,,6P5HP,2524553,6P5HP,2524553
 B312:1:752,Leccinum versipelle,,Leccinum,,versipelle,,species,,B312:1,accepted,,,,,,,,,,,Leccinum,,,Leccinum versipelle,,3STGG,2524490,3STGG,2524490
 B312:1:753,Leccinum testaceocabrum,,Leccinum,,testaceocabrum,,species,,B312:1,synonym,B312:1:752,Leccinum versipelle,,,,,,,,,Leccinum,,,Leccinum testaceocabrum,,3STG5,8476624,3STGG,2524490
@@ -757,7 +757,7 @@ B312:1:755,Lentinellus ursinus,,Lentinellus,,ursinus,,species,,B312:1,accepted,,
 B312:1:756,Lentinula edodes,,Lentinula,,edodes,,species,,B312:1,accepted,,,,,,,,,,,Lentinula,,,Lentinula edodes,,3T5L6,2537743,3T5L6,2537743
 B312:1:757,Lentinus tigrinus,,Lentinus,,tigrinus,,species,,B312:1,accepted,,,,,,,,,,,Lentinus,,,Lentinus tigrinus,,3T5XB,9154166,3T5XB,9154166
 B312:1:758,Lenzites betulinus,,Lenzites,,betulinus,,species,,B312:1,accepted,,,,,,,,,,,Lenzites,,,Lenzites betulinus,,3T65G,5465199,3T65G,5465199
-B312:1:759,Leocarpus fragilis,,Leocarpus,,fragilis,,species,,B312:1,accepted,,,,,,,,,,,Leocarpus,,,Leocarpus fragilis,,,3214957,,3214957
+B312:1:759,Leocarpus fragilis,,Leocarpus,,fragilis,,species,,B312:1,accepted,,,,,,,,,,,Leocarpus,,,Leocarpus fragilis,,3T68Q,3214957,3T68Q,3214957
 B312:1:760,Leotia lubrica,,Leotia,,lubrica,,species,,B312:1,accepted,,,,,,,,,,,Leotia,,,Leotia lubrica,,3T7CK,2577646,3T7CK,2577646
 B312:1:761,Lepiota aspera,,Lepiota,,aspera,,species,,B312:1,accepted,,,,,,,,,,,Lepiota,,,Lepiota aspera,,6PDK8,8707113,38HQ2,5243011
 B312:1:762,Lepiota acutesquamosa,,Lepiota,,acutesquamosa,,species,,B312:1,synonym,B312:1:761,Lepiota aspera,,,,,,,,,Lepiota,,,Lepiota acutesquamosa,,6PDGL,8207755,38HQ2,5243011
@@ -796,23 +796,23 @@ B312:1:794,Leucocoprinus brebissonii,,Leucocoprinus,,brebissonii,,species,,B312:
 B312:1:795,Leucocoprinus cepistipes,,Leucocoprinus,,cepistipes,,species,,B312:1,accepted,,,,,,,,,,,Leucocoprinus,,,Leucocoprinus cepistipes,,6PT6C,2535581,6PT6C,2535581
 B312:1:796,Leucogyrophana romellii,,Leucogyrophana,,romellii,,species,,B312:1,accepted,,,,,,,,,,,Leucogyrophana,,,Leucogyrophana romellii,,6Q4ZY,2525692,76PJQ,10740468
 B312:1:797,Lichenomphalia umbellifera,,Lichenomphalia,,umbellifera,,species,,B312:1,accepted,,,,,,,,,,,Lichenomphalia,,,Lichenomphalia umbellifera,,6PXPJ,5244016,CBPFL,5244016
-B312:1:798,Omphalina ericetorum,,Omphalina,,ericetorum,,species,,B312:1,synonym,B312:1:797,Lichenomphalia umbellifera,,,,,,,,,Lichenomphalia,,,Omphalina ericetorum,,,7408592,,5244016
-B312:1:799,Phytoconis ericetorum,,Phytoconis,,ericetorum,,species,,B312:1,synonym,B312:1:797,Lichenomphalia umbellifera,,,,,,,,,Lichenomphalia,,,Phytoconis ericetorum,,,11257207,,5244016
+B312:1:798,Omphalina ericetorum,,Omphalina,,ericetorum,,species,,B312:1,synonym,B312:1:797,Lichenomphalia umbellifera,,,,,,,,,Lichenomphalia,,,Omphalina ericetorum,,RDHD4,7408592,CBPFL,5244016
+B312:1:799,Phytoconis ericetorum,,Phytoconis,,ericetorum,,species,,B312:1,synonym,B312:1:797,Lichenomphalia umbellifera,,,,,,,,,Lichenomphalia,,,Phytoconis ericetorum,,S3ZHH,11257207,CBPFL,5244016
 B312:1:800,Limacella glioderma,,Limacella,,glioderma,,species,,B312:1,accepted,,,,,,,,,,,Limacella,,,Limacella glioderma,,6PZXF,5452735,6PZXM,9793586
 B312:1:801,Limacella guttata,,Limacella,,guttata,,species,,B312:1,accepted,,,,,,,,,,,Limacella,,,Limacella guttata,,6PZXB,5240198,6PZYB,10773042
 B312:1:802,Limacella lenticularis,,Limacella,,lenticularis,,species,,B312:1,synonym,B312:1:801,Limacella guttata,,,,,,,,,Limacella,,,Limacella lenticularis,,6PZWW,5240203,5D4QB,10766935
 B312:1:803,Loreleia postii,,Loreleia,,postii,,species,,B312:1,accepted,,,,,,,,,,,Loreleia,,,Loreleia postii,,72MCQ,2523926,72MCQ,2523926
 B312:1:804,Omphalina postii,,Omphalina,,postii,,species,,B312:1,synonym,B312:1:803,Loreleia postii,,,,,,,,,Loreleia,,,Omphalina postii,,6SL6T,5239456,72MCQ,2523926
 B312:1:805,Gerronema postii,,Gerronema,,postii,,species,,B312:1,synonym,B312:1:803,Loreleia postii,,,,,,,,,Loreleia,,,Gerronema postii,,3FXDV,2523930,72MCQ,2523926
-B312:1:806,Lycogala epidendrum,,Lycogala,,epidendrum,,species,,B312:1,accepted,,,,,,,,,,,Lycogala,,,Lycogala epidendrum,,,3213482,,3213482
+B312:1:806,Lycogala epidendrum,,Lycogala,,epidendrum,,species,,B312:1,accepted,,,,,,,,,,,Lycogala,,,Lycogala epidendrum,,3WL8C,3213482,3WL8C,3213482
 B312:1:807,Lycoperdon echinatum,,Lycoperdon,,echinatum,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon echinatum,,3WLFH,5243255,3WLFH,5243255
-B312:1:808,Lycoperdon mammaeforme,,Lycoperdon,,mammaeforme,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon mammaeforme,,,8195053,,5243221
+B312:1:808,Lycoperdon mammaeforme,,Lycoperdon,,mammaeforme,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon mammaeforme,,QGY7G,8195053,3WLJ5,5243221
 B312:1:809,Lycoperdon molle,,Lycoperdon,,molle,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon molle,,72PKM,5243240,72PKM,5243240
 B312:1:810,Lycoperdon nigrescens,,Lycoperdon,,nigrescens,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon nigrescens,,3WLJL,5243210,3WLJL,5243210
 B312:1:811,Lycoperdon lycoperdon subsp. foetidum,,Lycoperdon,,lycoperdon,foetidum,subspecies,,B312:1,synonym,B312:1:810,Lycoperdon nigrescens,,,,,,,,,Lycoperdon,,,lycoperdon foetidum,,,,,
-B312:1:812,Lycoperdon pedicellatum,,Lycoperdon,,pedicellatum,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon pedicellatum,,3WLK8,5243204,6QPJC,5243203
+B312:1:812,Lycoperdon pedicellatum,,Lycoperdon,,pedicellatum,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon pedicellatum,,3WLK9,5243204,6QPJC,5243203
 B312:1:813,Lycoperdon perlatum,,Lycoperdon,,perlatum,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon perlatum,,3WLKC,5243258,3WLKC,5243258
-B312:1:814,Lycoperdon pyriforme,,Lycoperdon,,pyriforme,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon pyriforme,,,5243232,,10852503
+B312:1:814,Lycoperdon pyriforme,,Lycoperdon,,pyriforme,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon pyriforme,,3WLLC,5243232,3WLLC,10852503
 B312:1:815,Lycoperdon umbrinum,,Lycoperdon,,umbrinum,,species,,B312:1,accepted,,,,,,,,,,,Lycoperdon,,,Lycoperdon umbrinum,,3WLN6,5243243,3WLN6,5243243
 B312:1:816,Lyophyllum decastes,,Lyophyllum,,decastes,,species,,B312:1,accepted,,,,,,,,,,,Lyophyllum,,,Lyophyllum decastes,,3WSZ5,9173236,3WSZ5,9173236
 B312:1:817,Lyophyllum ozes,,Lyophyllum,,ozes,,species,,B312:1,accepted,,,,,,,,,,,Lyophyllum,,,Lyophyllum ozes,,3WT3Y,8621450,5ZMXK,2530823
@@ -822,12 +822,12 @@ B312:1:820,Lyophyllum putidum,,Lyophyllum,,putidum,,species,,B312:1,accepted,,,,
 B312:1:821,Macrocystidia cucumis,,Macrocystidia,,cucumis,,species,,B312:1,accepted,,,,,,,,,,,Macrocystidia,,,Macrocystidia cucumis,,3X4LJ,9107939,3X4LJ,9107939
 B312:1:822,Macrolepiota konradii,,Macrolepiota,,konradii,,species,,B312:1,accepted,,,,,,,,,,,Macrolepiota,,,Macrolepiota konradii,,3X5NG,8690286,3X5NK,2536707
 B312:1:823,Macrolepiota mastoidea,,Macrolepiota,,mastoidea,,species,,B312:1,accepted,,,,,,,,,,,Macrolepiota,,,Macrolepiota mastoidea,,3X5NK,2536707,3X5NK,2536707
-B312:1:824,Macrolepiota umbonata,,Macrolepiota,,umbonata,,species,,B312:1,synonym,B312:1:823,Macrolepiota mastoidea,,,,,,,,,Macrolepiota,,,Macrolepiota umbonata,,,7933701,,2536707
+B312:1:824,Macrolepiota umbonata,,Macrolepiota,,umbonata,,species,,B312:1,synonym,B312:1:823,Macrolepiota mastoidea,,,,,,,,,Macrolepiota,,,Macrolepiota umbonata,,Q7ZSW,7933701,Q7ZSW,2536707
 B312:1:825,Macrolepiota procera,,Macrolepiota,,procera,,species,,B312:1,accepted,,,,,,,,,,,Macrolepiota,,,Macrolepiota procera,,3X5NV,8914748,3X5NV,8914748
 B312:1:826,Lepiota procera,,Lepiota,,procera,,species,,B312:1,synonym,B312:1:825,Macrolepiota procera,,,,,,,,,Macrolepiota,,,Lepiota procera,,6PD2C,3339800,3X5NV,8914748
 B312:1:827,Macrotyphula fistulosa,,Macrotyphula,,fistulosa,,species,,B312:1,accepted,,,,,,,,,,,Macrotyphula,,,Macrotyphula fistulosa,,733VC,3320086,59Y6X,8047444
 B312:1:828,Macrotyphula fistulosa var. contorta,,Macrotyphula,,fistulosa,contorta,variety,,B312:1,accepted,,,B312:1:827,Macrotyphula fistulosa,,,,,,,Macrotyphula,,Macrotyphula fistulosa,Macrotyphula fistulosa var. contorta,,5PXVF,3320085,59Y6G,7461368
-B312:1:829,Macrotyphula fistulosa var. fistulosa,,Macrotyphula,,fistulosa,fistulosa,variety,,B312:1,accepted,,,B312:1:827,Macrotyphula fistulosa,,,,,,,Macrotyphula,,Macrotyphula fistulosa,Macrotyphula fistulosa var. fistulosa,,,7187284,,7187284
+B312:1:829,Macrotyphula fistulosa var. fistulosa,,Macrotyphula,,fistulosa,fistulosa,variety,,B312:1,accepted,,,B312:1:827,Macrotyphula fistulosa,,,,,,,Macrotyphula,,Macrotyphula fistulosa,Macrotyphula fistulosa var. fistulosa,,QC4KK,7187284,QC4KK,7187284
 B312:1:830,Macrotyphula juncea,,Macrotyphula,,juncea,,species,,B312:1,accepted,,,,,,,,,,,Macrotyphula,,,Macrotyphula juncea,,7347C,2538967,59Y7N,8534874
 B312:1:831,Marasmiellus candidus,,Marasmiellus,,candidus,,species,,B312:1,accepted,,,,,,,,,,,Marasmiellus,,,Marasmiellus candidus,,3XYNG,2537876,3XYNG,2537876
 B312:1:832,Marasmiellus ramealis,,Marasmiellus,,ramealis,,species,,B312:1,accepted,,,,,,,,,,,Marasmiellus,,,Marasmiellus ramealis,,3XYVX,2537806,9XKG4,12045840
@@ -857,7 +857,7 @@ B312:1:855,Pholiota oedipus,,Pholiota,,oedipus,,species,,B312:1,synonym,B312:1:8
 B312:1:856,Meripilus giganteus,,Meripilus,,giganteus,,species,,B312:1,accepted,,,,,,,,,,,Meripilus,,,Meripilus giganteus,,6QZXB,2540761,6QZXB,2540761
 B312:1:857,Microglossum viride,,Microglossum,,viride,,species,,B312:1,accepted,,,,,,,,,,,Microglossum,,,Microglossum viride,,42WY3,3558444,42WY3,3558444
 B312:1:858,Mitrophora semilibera,,Mitrophora,,semilibera,,species,,B312:1,accepted,,,,,,,,,,,Mitrophora,,,Mitrophora semilibera,,43RJ6,9159194,44CRK,2594649
-B312:1:859,Mitrula paludosa,,Mitrula,,paludosa,,species,,B312:1,accepted,,,,,,,,,,,Mitrula,,,Mitrula paludosa,,,5256775,,5256775
+B312:1:859,Mitrula paludosa,,Mitrula,,paludosa,,species,,B312:1,accepted,,,,,,,,,,,Mitrula,,,Mitrula paludosa,,43RN9,5256775,43RN9,5256775
 B312:1:860,Mollisia cinerea,,Mollisia,,cinerea,,species,,B312:1,accepted,,,,,,,,,,,Mollisia,,,Mollisia cinerea,,43W5G,3490580,43W5G,3490580
 B312:1:861,Mollisia fusca,,Mollisia,,fusca,,species,,B312:1,accepted,,,,,,,,,,,Mollisia,,,Mollisia fusca,,43W82,9205827,7BJW8,8913644
 B312:1:862,Tapesia fusca,,Tapesia,,fusca,,species,,B312:1,synonym,B312:1:861,Mollisia fusca,,,,,,,,,Mollisia,,,Tapesia fusca,,7BJW8,8913644,7BJW8,8913644
@@ -867,14 +867,14 @@ B312:1:865,Morchella conica,,Morchella,,conica,,species,,B312:1,synonym,B312:1:8
 B312:1:866,Morchella deliciosa,,Morchella,,deliciosa,,species,,B312:1,synonym,B312:1:864,Morchella elata,,,,,,,,,Morchella,,,Morchella deliciosa,,44CPH,2594620,44CPH,2594620
 B312:1:867,Morchella esculenta,,Morchella,,esculenta,,species,,B312:1,accepted,,,,,,,,,,,Morchella,,,Morchella esculenta,,44CPR,2594602,44CPR,2594602
 B312:1:868,Morchella rotunda,,Morchella,,rotunda,,species,,B312:1,synonym,B312:1:867,Morchella esculenta,,,,,,,,,Morchella,,,Morchella rotunda,,44CRG,8586978,44CPR,2594602
-B312:1:869,Mucilago crustacea,,Mucilago,,crustacea,,species,,B312:1,accepted,,,,,,,,,,,Mucilago,,,Mucilago crustacea,,,5425955,,5425955
+B312:1:869,Mucilago crustacea,,Mucilago,,crustacea,,species,,B312:1,accepted,,,,,,,,,,,Mucilago,,,Mucilago crustacea,,44H26,5425955,CD6JH,5425955
 B312:1:870,Multiclavula vernalis,,Multiclavula,,vernalis,,species,,B312:1,accepted,,,,,,,,,,,Multiclavula,,,Multiclavula vernalis,,44K68,2555271,44K68,2555271
 B312:1:871,Clavulinopsis vernalis,,Clavulinopsis,,vernalis,,species,,B312:1,synonym,B312:1:870,Multiclavula vernalis,,,,,,,,,Multiclavula,,,Clavulinopsis vernalis,,VWD9,5249791,44K68,2555271
-B312:1:872,Mutinus caninus,,Mutinus,,caninus,,species,,B312:1,accepted,,,,,,,,,,,Mutinus,,,Mutinus caninus,,44R7X,5239473,44R7X,5239473
+B312:1:872,Mutinus caninus,,Mutinus,,caninus,,species,,B312:1,accepted,,,,,,,,,,,Mutinus,,,Mutinus caninus,,L2DTF,5239473,L2DTF,5239473
 B312:1:873,Mutinus ravenelii,,Mutinus,,ravenelii,,species,,B312:1,accepted,,,,,,,,,,,Mutinus,,,Mutinus ravenelii,,44R8F,5239466,44R8F,5239466
 B312:1:874,Mycena acicula,,Mycena,,acicula,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena acicula,,44SMJ,2526861,44SMJ,2526861
 B312:1:875,Mycena adonis,,Mycena,,adonis,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena adonis,,44SN2,9194368,67VC9,7825358
-B312:1:876,Mycena adonis var. adonis,,Mycena,,adonis,adonis,variety,,B312:1,synonym,B312:1:875,Mycena adonis,,,,,,,,,Mycena,,,Mycena adonis var. adonis,,,11347172,,7825358
+B312:1:876,Mycena adonis var. adonis,,Mycena,,adonis,adonis,variety,,B312:1,synonym,B312:1:875,Mycena adonis,,,,,,,,,Mycena,,,Mycena adonis var. adonis,,QX63M,11347172,QX63M,7825358
 B312:1:877,Mycena adscendens,,Mycena,,adscendens,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena adscendens,,44SN4,4911768,44TZ2,2526898
 B312:1:878,Mycena aetites,,Mycena,,aetites,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena aetites,,44SN7,4911747,44SN7,4911747
 B312:1:879,Mycena albidolilacea,,Mycena,,albidolilacea,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena albidolilacea,,44SNR,4911730,44SNR,4911730
@@ -889,13 +889,13 @@ B312:1:887,Mycena epipterygioides,,Mycena,,epipterygioides,,species,,B312:1,acce
 B312:1:888,Mycena filopes,,Mycena,,filopes,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena filopes,,44T4K,2526843,44T4K,2526843
 B312:1:889,Mycena galericulata,,Mycena,,galericulata,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena galericulata,,44T6F,2526880,44T6F,2526880
 B312:1:890,Mycena galopus,,Mycena,,galopus,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena galopus,,44T6J,4911815,44T6J,4911815
-B312:1:891,Mycena galopoda,,Mycena,,galopoda,,species,,B312:1,synonym,B312:1:890,Mycena galopus,,,,,,,,,Mycena,,,Mycena galopoda,,,5448675,,4911815
+B312:1:891,Mycena galopoda,,Mycena,,galopoda,,species,,B312:1,synonym,B312:1:890,Mycena galopus,,,,,,,,,Mycena,,,Mycena galopoda,,QXDF7,5448675,QXDGZ,4911815
 B312:1:892,Mycena galopus var. candida,,Mycena,,galopus,candida,variety,,B312:1,accepted,,,B312:1:890,Mycena galopus,,,,,,,Mycena,,Mycena galopus,Mycena galopus var. candida,,5Q85K,5447499,44T6J,4911815
 B312:1:893,Mycena galopus var. nigra,,Mycena,,galopus,nigra,variety,,B312:1,accepted,,,B312:1:890,Mycena galopus,,,,,,,Mycena,,Mycena galopus,Mycena galopus var. nigra,,5Q85N,9398136,44T6J,4911815
 B312:1:894,Mycena leucogala,,Mycena,,leucogala,,species,,B312:1,synonym,B312:1:893,Mycena galopus var. nigra,,,,,,,,,Mycena,,Mycena galopus,Mycena leucogala,,44TCQ,3317894,44T6J,4911815
 B312:1:895,Mycena haematopus,,Mycena,,haematopus,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena haematopus,,44T88,2526942,44T88,2526942
 B312:1:896,Mycena inclinata,,Mycena,,inclinata,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena inclinata,,44T9V,4911809,44T9V,4911809
-B312:1:897,Mycena laevigata,,Mycena,,laevigata,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena laevigata,,,5447692,,5447692
+B312:1:897,Mycena laevigata,,Mycena,,laevigata,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena laevigata,,QXG87,5447692,QXG87,5447692
 B312:1:898,Mycena latifolia,,Mycena,,latifolia,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena latifolia,,44TCB,2527245,44TCB,2527245
 B312:1:899,Mycena leptocephala,,Mycena,,leptocephala,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena leptocephala,,44TCN,4911720,44TCN,4911720
 B312:1:900,Mycena megaspora,,Mycena,,megaspora,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena megaspora,,742DF,4911733,742DF,4911733
@@ -913,10 +913,10 @@ B312:1:911,Mycena purpureofusca,,Mycena,,purpureofusca,,species,,B312:1,accepted
 B312:1:912,Mycena rhenana,,Mycena,,rhenana,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena rhenana,,44TRV,5240503,44TRV,5240503
 B312:1:913,Mycena rosea,,Mycena,,rosea,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena rosea,,44TSG,4911705,44TSG,4911705
 B312:1:914,Mycena sanguinolenta,,Mycena,,sanguinolenta,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena sanguinolenta,,44TTX,2527135,44TTX,2527135
-B312:1:915,Mycena seynesii,,Mycena,,seynesii,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena seynesii,,,2526968,,2526968
+B312:1:915,Mycena seynesii,,Mycena,,seynesii,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena seynesii,,QXPKQ,2526968,QXPKQ,2526968
 B312:1:916,Mycena speirea,,Mycena,,speirea,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena speirea,,44TVK,4911697,4GGDF,8213692
 B312:1:917,Mycena stipata,,Mycena,,stipata,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena stipata,,44TW6,4911728,44TW6,4911728
-B312:1:918,Mycena alcalina,,Mycena,,alcalina,,species,,B312:1,synonym,B312:1:917,Mycena stipata,,,,,,,,,Mycena,,,Mycena alcalina,,,2526831,,2526831
+B312:1:918,Mycena alcalina,,Mycena,,alcalina,,species,,B312:1,synonym,B312:1:917,Mycena stipata,,,,,,,,,Mycena,,,Mycena alcalina,,44SP8,2526831,44SP8,2526831
 B312:1:919,Mycena stylobates,,Mycena,,stylobates,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena stylobates,,44TWB,2526866,44TWB,2526866
 B312:1:920,Mycena tintinnabulum,,Mycena,,tintinnabulum,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena tintinnabulum,,44TZV,4911782,44TZV,4911782
 B312:1:921,Mycena vitilis,,Mycena,,vitilis,,species,,B312:1,accepted,,,,,,,,,,,Mycena,,,Mycena vitilis,,6S2FC,2526842,6S2FC,2526842
@@ -951,8 +951,8 @@ B312:1:949,Arrhenia chlorocyanea,,Arrhenia,,chlorocyanea,,species,,B312:1,synony
 B312:1:950,Omphalina mutila,,Omphalina,,mutila,,species,,B312:1,accepted,,,,,,,,,,,Omphalina,,,Omphalina mutila,,74L6Y,5242251,74L6Y,5242251
 B312:1:951,Omphalina obscurata,,Omphalina,,obscurata,,species,,B312:1,accepted,,,,,,,,,,,Omphalina,,,Omphalina obscurata,,6SL6W,7687629,5VSVP,2532755
 B312:1:952,Arrhenia obscurata,,Arrhenia,,obscurata,,species,,B312:1,synonym,B312:1:951,Omphalina obscurata,,,,,,,,,Omphalina,,,Arrhenia obscurata,,5VSVP,2532755,5VSVP,2532755
-B312:1:953,Omphalina onisca,,Omphalina,,onisca,,species,,B312:1,accepted,,,,,,,,,,,Omphalina,,,Omphalina onisca,,,5242308,,5244016
-B312:1:954,Agaricus oniscus,,Agaricus,,oniscus,,species,,B312:1,synonym,B312:1:953,Omphalina onisca,,,,,,,,,Omphalina,,,Agaricus oniscus,,,5242307,,5244016
+B312:1:953,Omphalina onisca,,Omphalina,,onisca,,species,,B312:1,accepted,,,,,,,,,,,Omphalina,,,Omphalina onisca,,6SKV7,5242308,5W4VP,5244016
+B312:1:954,Agaricus oniscus,,Agaricus,,oniscus,,species,,B312:1,synonym,B312:1:953,Omphalina onisca,,,,,,,,,Omphalina,,,Agaricus oniscus,,5TMXX,5242307,5W4VP,5244016
 B312:1:955,Omphalotus olearius,,Omphalotus,,olearius,,species,,B312:1,accepted,,,,,,,,,,,Omphalotus,,,Omphalotus olearius,,49F8S,2538088,49F8S,2538088
 B312:1:956,Onygena corvina,,Onygena,,corvina,,species,,B312:1,accepted,,,,,,,,,,,Onygena,,,Onygena corvina,,49RM7,5259475,49RM7,5259475
 B312:1:957,Orbilia alnea,,Orbilia,,alnea,,species,,B312:1,accepted,,,,,,,,,,,Orbilia,,,Orbilia alnea,,6T3F3,2587389,6T3F3,2587389
@@ -983,20 +983,20 @@ B312:1:981,Coprinus leiocephalus,,Coprinus,,leiocephalus,,species,,B312:1,synony
 B312:1:982,Parasola plicatilis,,Parasola,,plicatilis,,species,,B312:1,accepted,,,,,,,,,,,Parasola,,,Parasola plicatilis,,4DCG6,2534522,4DCG6,2534522
 B312:1:983,Coprinus plicatilis,,Coprinus,,plicatilis,,species,,B312:1,synonym,B312:1:982,Parasola plicatilis,,,,,,,,,Parasola,,,Coprinus plicatilis,,Y5KL,2534524,4DCG6,2534522
 B312:1:984,Parasola schroeteri,,Parasola,,schroeteri,,species,,B312:1,accepted,,,,,,,,,,,Parasola,,,Parasola schroeteri,,4DCGB,2534535,4DCGB,2534535
-B312:1:985,Paxillus filamentosus,,Paxillus,,filamentosus,,species,,B312:1,accepted,,,,,,,,,,,Paxillus,,,Paxillus filamentosus,,,5239995,,5239995
+B312:1:985,Paxillus filamentosus,,Paxillus,,filamentosus,,species,,B312:1,accepted,,,,,,,,,,,Paxillus,,,Paxillus filamentosus,,RLYLZ,5239995,RLYLZ,5239995
 B312:1:986,Paxillus rubicundulus,,Paxillus,,rubicundulus,,species,,B312:1,synonym,B312:1:985,Paxillus filamentosus,,,,,,,,,Paxillus,,,Paxillus rubicundulus,,6TW3K,5239994,6TW3K,5239994
 B312:1:987,Paxillus involutus,,Paxillus,,involutus,,species,,B312:1,accepted,,,,,,,,,,,Paxillus,,,Paxillus involutus,,75VQZ,5240002,75VQZ,5240002
 B312:1:988,Peniophora incarnata,,Peniophora,,incarnata,,species,,B312:1,accepted,,,,,,,,,,,Peniophora,,,Peniophora incarnata,,76KBH,2552308,76KBH,2552308
 B312:1:989,Peniophora laeta,,Peniophora,,laeta,,species,,B312:1,accepted,,,,,,,,,,,Peniophora,,,Peniophora laeta,,76KDZ,2552143,76KDZ,2552143
 B312:1:990,Peniophora quercina,,Peniophora,,quercina,,species,,B312:1,accepted,,,,,,,,,,,Peniophora,,,Peniophora quercina,,76JTY,8980864,76JTY,8980864
-B312:1:991,Perichaena depressa,,Perichaena,,depressa,,species,,B312:1,accepted,,,,,,,,,,,Perichaena,,,Perichaena depressa,,,3215245,,3215245
+B312:1:991,Perichaena depressa,,Perichaena,,depressa,,species,,B312:1,accepted,,,,,,,,,,,Perichaena,,,Perichaena depressa,,7755C,3215245,7755C,3215245
 B312:1:992,Peziza badia,,Peziza,,badia,,species,,B312:1,accepted,,,,,,,,,,,Peziza,,,Peziza badia,,4FGC4,5259227,B2PLY,12081600
 B312:1:993,Peziza badioconfusa,,Peziza,,badioconfusa,,species,,B312:1,accepted,,,,,,,,,,,Peziza,,,Peziza badioconfusa,,4FGC7,5259298,9ZDJ7,11986601
 B312:1:994,Peziza phyllogena,,Peziza,,phyllogena,,species,,B312:1,synonym,B312:1:993,Peziza badioconfusa,,,,,,,,,Peziza,,,Peziza phyllogena,,777XB,5497937,9ZDJ7,11986601
 B312:1:995,Peziza bovina,,Peziza,,bovina,,species,,B312:1,accepted,,,,,,,,,,,Peziza,,,Peziza bovina,,4FGD3,5259353,4FGRC,7675285
 B312:1:996,Peziza celtica,,Peziza,,celtica,,species,,B312:1,accepted,,,,,,,,,,,Peziza,,,Peziza celtica,,4FGFS,5259169,4BRYT,2595038
 B312:1:997,Peziza cerea,,Peziza,,cerea,,species,,B312:1,accepted,,,,,,,,,,,Peziza,,,Peziza cerea,,CBN69,5259304,CBN69,5259304
-B312:1:998,Peziza tectoria,,Peziza,,tectoria,,species,,B312:1,synonym,B312:1:997,Peziza cerea,,,,,,,,,Peziza,,,Peziza tectoria,,,5259313,,5259304
+B312:1:998,Peziza tectoria,,Peziza,,tectoria,,species,,B312:1,synonym,B312:1:997,Peziza cerea,,,,,,,,,Peziza,,,Peziza tectoria,,4FHN5,5259313,CBN69,5259304
 B312:1:999,Peziza limnea,,Peziza,,limnea,,species,,B312:1,accepted,,,,,,,,,,,Peziza,,,Peziza limnea,,4FGZY,5259301,B2PZ5,12073142
 B312:1:1000,Peziza michelii,,Peziza,,michelii,,species,,B312:1,accepted,,,,,,,,,,,Peziza,,,Peziza michelii,,777Z3,5259269,9ZCXH,12006390
 B312:1:1001,Peziza micropus,,Peziza,,micropus,,species,,B312:1,accepted,,,,,,,,,,,Peziza,,,Peziza micropus,,4FH4W,5259335,4FH4W,5259335
@@ -1009,7 +1009,7 @@ B312:1:1007,Peziza vesiculosa,,Peziza,,vesiculosa,,species,,B312:1,accepted,,,,,
 B312:1:1008,Phaeohelotium umbilicatum,,Phaeohelotium,,umbilicatum,,species,,B312:1,accepted,,,,,,,,,,,Phaeohelotium,,,Phaeohelotium umbilicatum,,4FNC9,2581976,6MQK8,2581977
 B312:1:1009,Phaeolepiota aurea,,Phaeolepiota,,aurea,,species,,B312:1,accepted,,,,,,,,,,,Phaeolepiota,,,Phaeolepiota aurea,,CBP3N,2535253,CBP3N,2535253
 B312:1:1010,Phaeolus schweinitzii,,Phaeolus,,schweinitzii,,species,,B312:1,accepted,,,,,,,,,,,Phaeolus,,,Phaeolus schweinitzii,,6V83B,2542126,6V83B,2542126
-B312:1:1011,Phaeolus spadiceus,,Phaeolus,,spadiceus,,species,,B312:1,synonym,B312:1:1010,Phaeolus schweinitzii,,,,,,,,,Phaeolus,,,Phaeolus spadiceus,,4FNGC,12146486,6V83B,2542126
+B312:1:1011,Phaeolus spadiceus,,Phaeolus,,spadiceus,,species,,B312:1,synonym,B312:1:1010,Phaeolus schweinitzii,,,,,,,,,Phaeolus,,,Phaeolus spadiceus,,RS9CV,12146486,6V83B,2542126
 B312:1:1012,Phallus impudicus,,Phallus,,impudicus,,species,,B312:1,accepted,,,,,,,,,,,Phallus,,,Phallus impudicus,,4FS2X,3314876,4FS2X,3314876
 B312:1:1013,Phellinus igniarius,,Phellinus,,igniarius,,species,,B312:1,accepted,,,,,,,,,,,Phellinus,,,Phellinus igniarius,,4FZDR,2520862,4FZDR,2520862
 B312:1:1014,Phellinus populicola,,Phellinus,,populicola,,species,,B312:1,accepted,,,,,,,,,,,Phellinus,,,Phellinus populicola,,4FZGM,2520859,4FZGM,2520859
@@ -1022,8 +1022,8 @@ B312:1:1020,Corticium lividum,,Corticium,,lividum,,species,,B312:1,synonym,B312:
 B312:1:1021,Phlebia radiata,,Phlebia,,radiata,,species,,B312:1,accepted,,,,,,,,,,,Phlebia,,,Phlebia radiata,,76ZR9,2545089,76ZR9,2545089
 B312:1:1022,Phlebia subochracea,,Phlebia,,subochracea,,species,,B312:1,accepted,,,,,,,,,,,Phlebia,,,Phlebia subochracea,,6VB22,2544969,B2Y53,12189932
 B312:1:1023,Phlebia tremellosa,,Phlebia,,tremellosa,,species,,B312:1,accepted,,,,,,,,,,,Phlebia,,,Phlebia tremellosa,,6VB27,2544300,6VB27,2544300
-B312:1:1024,Merulius tremellosus,,Merulius,,tremellosus,,species,,B312:1,synonym,B312:1:1023,Phlebia tremellosa,,,,,,,,,Phlebia,,,Merulius tremellosus,,3ZX8N,8478587,6VB27,2544300
-B312:1:1025,Phlebiella vaga,,Phlebiella,,vaga,,species,,B312:1,accepted,,,,,,,,,,,Phlebiella,,,Phlebiella vaga,,,11240789,,2549502
+B312:1:1024,Merulius tremellosus,,Merulius,,tremellosus,,species,,B312:1,synonym,B312:1:1023,Phlebia tremellosa,,,,,,,,,Phlebia,,,Merulius tremellosus,,QNQZY,8478587,6VB27,2544300
+B312:1:1025,Phlebiella vaga,,Phlebiella,,vaga,,species,,B312:1,accepted,,,,,,,,,,,Phlebiella,,,Phlebiella vaga,,RFRGR,11240789,5C933,2549502
 B312:1:1026,Phlebiopsis gigantea,,Phlebiopsis,,gigantea,,species,,B312:1,accepted,,,,,,,,,,,Phlebiopsis,,,Phlebiopsis gigantea,,77B32,8899548,77B32,8899548
 B312:1:1027,Pholiota adiposa,,Pholiota,,adiposa,,species,,B312:1,accepted,,,,,,,,,,,Pholiota,,,Pholiota adiposa,,4GLWK,2534085,4GLWK,2534085
 B312:1:1028,Pholiota aurivella,,Pholiota,,aurivella,,species,,B312:1,synonym,B312:1:1027,Pholiota adiposa,,,,,,,,,Pholiota,,,Pholiota aurivella,,4GLXT,2534102,4GLXT,2534102
@@ -1043,8 +1043,8 @@ B312:1:1041,Pholiota squarrosa,,Pholiota,,squarrosa,,species,,B312:1,accepted,,,
 B312:1:1042,Pholiota subochracea,,Pholiota,,subochracea,,species,,B312:1,accepted,,,,,,,,,,,Pholiota,,,Pholiota subochracea,,4GMC9,2534079,4GMC9,2534079
 B312:1:1043,Pholiota tuberculosa,,Pholiota,,tuberculosa,,species,,B312:1,accepted,,,,,,,,,,,Pholiota,,,Pholiota tuberculosa,,4GMD5,2534278,4KBJ8,2534278
 B312:1:1044,Pholiotina arrhenii,,Pholiotina,,arrhenii,,species,,B312:1,accepted,,,,,,,,,,,Pholiotina,,,Pholiotina arrhenii,,77BPH,2529812,XQQW,2529810
-B312:1:1045,Pholiotina teneroides,,Pholiotina,,teneroides,,species,,B312:1,accepted,,,,,,,,,,,Pholiotina,,,Pholiotina teneroides,,,2529943,,2529943
-B312:1:1046,Conocybe teneroides,,Conocybe,,teneroides,,species,,B312:1,synonym,B312:1:1045,Pholiotina teneroides,,,,,,,,,Pholiotina,,,Conocybe teneroides,,,2529897,,2529939
+B312:1:1045,Pholiotina teneroides,,Pholiotina,,teneroides,,species,,B312:1,accepted,,,,,,,,,,,Pholiotina,,,Pholiotina teneroides,,4GMGG,2529943,77BPM,2529943
+B312:1:1046,Conocybe teneroides,,Conocybe,,teneroides,,species,,B312:1,synonym,B312:1:1045,Pholiotina teneroides,,,,,,,,,Pholiotina,,,Conocybe teneroides,,XQYF,2529897,77BPM,2529939
 B312:1:1047,Pholiotina velata,,Pholiotina,,velata,,species,,B312:1,accepted,,,,,,,,,,,Pholiotina,,,Pholiotina velata,,4GMGM,2529772,XQYZ,2529771
 B312:1:1048,Conocybe appendiculata,,Conocybe,,appendiculata,,species,,B312:1,synonym,B312:1:1047,Pholiotina velata,,,,,,,,,Pholiotina,,,Conocybe appendiculata,,XQQV,2529775,XQYZ,2529771
 B312:1:1049,Phylloporia ribis,,Phylloporia,,ribis,,species,,B312:1,accepted,,,,,,,,,,,Phylloporia,,,Phylloporia ribis,,4H9ZN,5237690,4H9ZN,5237690
@@ -1061,7 +1061,7 @@ B312:1:1059,Plicaturopsis crispa,,Plicaturopsis,,crispa,,species,,B312:1,accepte
 B312:1:1060,Plicatura crispa,,Plicatura,,crispa,,species,,B312:1,synonym,B312:1:1059,Plicaturopsis crispa,,,,,,,,,Plicaturopsis,,,Plicatura crispa,,4KFXF,2526733,4KFXS,2526725
 B312:1:1061,Pluteus atromarginatus,,Pluteus,,atromarginatus,,species,,B312:1,accepted,,,,,,,,,,,Pluteus,,,Pluteus atromarginatus,,4KK2Z,5241354,4KK2Z,5241354
 B312:1:1062,Pluteus cervinus,,Pluteus,,cervinus,,species,,B312:1,accepted,,,,,,,,,,,Pluteus,,,Pluteus cervinus,,77RB2,7446067,77RB2,7446067
-B312:1:1063,Pluteus atricapillus,,Pluteus,,atricapillus,,species,,B312:1,synonym,B312:1:1062,Pluteus cervinus,,,,,,,,,Pluteus,,,Pluteus atricapillus,,4KK2V,8412992,77RB2,7446067
+B312:1:1063,Pluteus atricapillus,,Pluteus,,atricapillus,,species,,B312:1,synonym,B312:1:1062,Pluteus cervinus,,,,,,,,,Pluteus,,,Pluteus atricapillus,,RRWPZ,8412992,77RB2,7446067
 B312:1:1064,Pluteus cinereofuscus,,Pluteus,,cinereofuscus,,species,,B312:1,accepted,,,,,,,,,,,Pluteus,,,Pluteus cinereofuscus,,4KK4M,5241262,4KK4M,5241262
 B312:1:1065,Pluteus ephebeus,,Pluteus,,ephebeus,,species,,B312:1,accepted,,,,,,,,,,,Pluteus,,,Pluteus ephebeus,,4KK5V,5241286,4KK5V,5241286
 B312:1:1066,Pluteus leoninus,,Pluteus,,leoninus,,species,,B312:1,accepted,,,,,,,,,,,Pluteus,,,Pluteus leoninus,,4KK8P,5241259,4KK8P,5241259
@@ -1080,12 +1080,12 @@ B312:1:1078,Pluteus cinereus,,Pluteus,,cinereus,,species,,B312:1,synonym,B312:1:
 B312:1:1079,Pluteus umbrosus,,Pluteus,,umbrosus,,species,,B312:1,accepted,,,,,,,,,,,Pluteus,,,Pluteus umbrosus,,4KKF2,5241351,4KKF2,5241351
 B312:1:1080,Polyporus badius,,Polyporus,,badius,,species,,B312:1,accepted,,,,,,,,,,,Polyporus,,,Polyporus badius,,4LHTH,7848978,6VJ4F,12235035
 B312:1:1081,Polyporus picipes,,Polyporus,,picipes,,species,,B312:1,synonym,B312:1:1080,Polyporus badius,,,,,,,,,Polyporus,,,Polyporus picipes,,4LJXW,5246722,4LJXW,5246722
-B312:1:1082,Polyporus brumalis,,Polyporus,,brumalis,,species,,B312:1,accepted,,,,,,,,,,,Polyporus,,,Polyporus brumalis,,4LHVD,7828039,3T5MH,7828039
+B312:1:1082,Polyporus brumalis,,Polyporus,,brumalis,,species,,B312:1,accepted,,,,,,,,,,,Polyporus,,,Polyporus brumalis,,RQ3XG,7828039,3T5MH,7828039
 B312:1:1083,Polyporus ciliatus,,Polyporus,,ciliatus,,species,,B312:1,accepted,,,,,,,,,,,Polyporus,,,Polyporus ciliatus,,4LHYZ,8808510,3T5WQ,9445944
-B312:1:1084,Polyporus ciliatus f. ciliatus,,Polyporus,,ciliatus,ciliatus,form,,B312:1,accepted,,,B312:1:1083,Polyporus ciliatus,,,,,,,Polyporus,,Polyporus ciliatus,Polyporus ciliatus f. ciliatus,,,,,
+B312:1:1084,Polyporus ciliatus f. ciliatus,,Polyporus,,ciliatus,ciliatus,form,,B312:1,accepted,,,B312:1:1083,Polyporus ciliatus,,,,,,,Polyporus,,Polyporus ciliatus,Polyporus ciliatus f. ciliatus,,DRWGM,,DRWGM,
 B312:1:1085,Polyporus squamosus,,Polyporus,,squamosus,,species,,B312:1,accepted,,,,,,,,,,,Polyporus,,,Polyporus squamosus,,77V3Y,7365370,69LCM,7365370
 B312:1:1086,Polyporus tuberaster,,Polyporus,,tuberaster,,species,,B312:1,accepted,,,,,,,,,,,Polyporus,,,Polyporus tuberaster,,4LKGL,8183839,4LKGL,8183839
-B312:1:1087,Polyporus varius,,Polyporus,,varius,,species,,B312:1,accepted,,,,,,,,,,,Polyporus,,,Polyporus varius,,786QM,7670765,SYC3,7670765
+B312:1:1087,Polyporus varius,,Polyporus,,varius,,species,,B312:1,accepted,,,,,,,,,,,Polyporus,,,Polyporus varius,,RQSZ5,7670765,SYBC,7670765
 B312:1:1088,Poronia punctata,,Poronia,,punctata,,species,,B312:1,accepted,,,,,,,,,,,Poronia,,,Poronia punctata,,4LYBW,8530425,4LYBW,8530425
 B312:1:1089,Porostereum spadiceum,,Porostereum,,spadiceum,,species,,B312:1,accepted,,,,,,,,,,,Porostereum,,,Porostereum spadiceum,,4LYR9,9145383,4LYR9,9145383
 B312:1:1090,Porphyrellus porphyrosporus,,Porphyrellus,,porphyrosporus,,species,,B312:1,accepted,,,,,,,,,,,Porphyrellus,,,Porphyrellus porphyrosporus,,4LYY8,2524797,4LYY8,2524797
@@ -1112,7 +1112,7 @@ B312:1:1110,Oligoporus tephroleucus,,Oligoporus,,tephroleucus,,species,,B312:1,s
 B312:1:1111,Spongigorus lacteus,,Spongigorus,,lacteus,,species,,B312:1,synonym,B312:1:1108,Postia tephroleuca,,,,,,,,,Postia,,,Spongigorus lacteus,,6ZDHH,2548481,59ZD6,2548473
 B312:1:1112,Psathyrella artemisiae,,Psathyrella,,artemisiae,,species,,B312:1,accepted,,,,,,,,,,,Psathyrella,,,Psathyrella artemisiae,,4NDTY,3319166,4NDTY,3319166
 B312:1:1113,Psathyrella candolleana,,Psathyrella,,candolleana,,species,,B312:1,accepted,,,,,,,,,,,Psathyrella,,,Psathyrella candolleana,,4NDVN,9201176,9Z2GC,12008655
-B312:1:1114,Psathyrella conopilus,,Psathyrella,,conopilus,,species,,B312:1,accepted,,,,,,,,,,,Psathyrella,,,Psathyrella conopilus,,CBWCN,2534703,CBNPT,2534703
+B312:1:1114,Psathyrella conopilus,,Psathyrella,,conopilus,,species,,B312:1,accepted,,,,,,,,,,,Psathyrella,,,Psathyrella conopilus,,S8FRF,2534703,CBNPT,2534703
 B312:1:1115,Psathyrella subatrata,,Psathyrella,,subatrata,,species,,B312:1,synonym,B312:1:1114,Psathyrella conopilus,,,,,,,,,Psathyrella,,,Psathyrella subatrata,,78BB5,2534706,CBNPT,10364983
 B312:1:1116,Parasola conopilus,,Parasola,,conopilus,,species,,B312:1,synonym,B312:1:1114,Psathyrella conopilus,,,,,,,,,Psathyrella,,,Parasola conopilus,,CBNPT,3319892,CBNPT,2534703
 B312:1:1117,Psathyrella corrugis,,Psathyrella,,corrugis,,species,,B312:1,accepted,,,,,,,,,,,Psathyrella,,,Psathyrella corrugis,,4NDX8,2534804,4NDX8,2534804
@@ -1134,19 +1134,19 @@ B312:1:1132,Psathyrella spadiceogrisea,,Psathyrella,,spadiceogrisea,,species,,B3
 B312:1:1133,Psathyrella obtusata,,Psathyrella,,obtusata,,species,,B312:1,accepted,,,,,,,,,,,Psatyrella,,,Psatyrella obtusa,,78BKZ,3319514,78BKZ,3319514
 B312:1:1134,Pseudoboletus parasiticus,,Pseudoboletus,,parasiticus,,species,,B312:1,accepted,,,,,,,,,,,Pseudoboletus,,,Pseudoboletus parasiticus,,4NQ37,8308057,4NQ37,8308057
 B312:1:1135,Xerocomus parasiticus,,Xerocomus,,parasiticus,,species,,B312:1,synonym,B312:1:1134,Pseudoboletus parasiticus,,,,,,,,,Pseudoboletus,,,Xerocomus parasiticus,,5CCQQ,2524805,4NQ37,8308057
-B312:1:1136,Boletus parasiticus,,Boletus,,parasiticus,,species,,B312:1,synonym,B312:1:1134,Pseudoboletus parasiticus,,,,,,,,,Pseudoboletus,,,Boletus parasiticus,,MCV2,11274204,4NQ37,8308057
+B312:1:1136,Boletus parasiticus,,Boletus,,parasiticus,,species,,B312:1,synonym,B312:1:1134,Pseudoboletus parasiticus,,,,,,,,,Pseudoboletus,,,Boletus parasiticus,,M8GS7,11274204,4NQ37,8308057
 B312:1:1137,Pseudochaete tabacina,,Pseudochaete,,tabacina,,species,,B312:1,accepted,,,,,,,,,,,Pseudochaete,,,Pseudochaete tabacina,,4NT34,5237937,3MZTK,10700730
 B312:1:1138,Hymenochaete tabacina,,Hymenochaete,,tabacina,,species,,B312:1,synonym,B312:1:1137,Pseudochaete tabacina,,,,,,,,,Pseudochaete,,,Hymenochaete tabacina,,3NJJ2,2520013,3MZTK,10700730
 B312:1:1139,Hymenochaetopsis tabacina,,Hymenochaetopsis,,tabacina,,species,,B312:1,synonym,B312:1:1137,Pseudochaete tabacina,,,,,,,,,Pseudochaete,,,Hymenochaetopsis tabacina,,3NJKG,9355697,3MZTK,10700730
 B312:1:1140,Pseudocraterellus undulatus,,Pseudocraterellus,,undulatus,,species,,B312:1,accepted,,,,,,,,,,,Pseudocraterellus,,,Pseudocraterellus undulatus,,78F4W,2554613,9XL6Y,11567415
-B312:1:1141,Pseudocraterellus sinuosus,,Pseudocraterellus,,sinuosus,,species,,B312:1,synonym,B312:1:1140,Pseudocraterellus undulatus,,,,,,,,,Pseudocraterellus,,,Pseudocraterellus sinuosus,,4NV6C,8130400,9XL6Y,11567415
+B312:1:1141,Pseudocraterellus sinuosus,,Pseudocraterellus,,sinuosus,,species,,B312:1,synonym,B312:1:1140,Pseudocraterellus undulatus,,,,,,,,,Pseudocraterellus,,,Pseudocraterellus sinuosus,,SG5RK,8130400,9XL6Y,11567415
 B312:1:1142,Pseudohydnum gelatinosum,,Pseudohydnum,,gelatinosum,,species,,B312:1,accepted,,,,,,,,,,,Pseudohydnum,,,Pseudohydnum gelatinosum,,4NYCM,5249353,4NYCM,5249353
 B312:1:1143,Pseudoinonotus dryadeus,,Pseudoinonotus,,dryadeus,,species,,B312:1,accepted,,,,,,,,,,,Pseudoinonotus,,,Pseudoinonotus dryadeus,,4NYKZ,2520036,4NYKZ,2520036
 B312:1:1144,Inonotus dryadeus,,Inonotus,,dryadeus,,species,,B312:1,synonym,B312:1:1143,Pseudoinonotus dryadeus,,,,,,,,,Pseudoinonotus,,,Inonotus dryadeus,,3PRZ7,2520046,4NYKZ,2520036
 B312:1:1145,Psilocybe cyanescens,,Psilocybe,,cyanescens,,species,,B312:1,accepted,,,,,,,,,,,Psilocybe,,,Psilocybe cyanescens,,4PH56,5242465,4PH56,5242465
 B312:1:1146,Psilocybe semilanceata,,Psilocybe,,semilanceata,,species,,B312:1,accepted,,,,,,,,,,,Psilocybe,,,Psilocybe semilanceata,,4PHC7,5242507,4PHC7,5242507
 B312:1:1147,Pterula multifida,,Pterula,,multifida,,species,,B312:1,accepted,,,,,,,,,,,Pterula,,,Pterula multifida,,4Q726,2540716,4Q726,2540716
-B312:1:1148,Pycnoporus cinnabarinus,,Pycnoporus,,cinnabarinus,,species,,B312:1,accepted,,,,,,,,,,,Pycnoporus,,,Pycnoporus cinnabarinus,,792N9,5246466,8TVXJ,9227816
+B312:1:1148,Pycnoporus cinnabarinus,,Pycnoporus,,cinnabarinus,,species,,B312:1,accepted,,,,,,,,,,,Pycnoporus,,,Pycnoporus cinnabarinus,,792N9,5246466,57WZR,9227816
 B312:1:1149,Pycnostysanus azaleae,,Pycnostysanus,,azaleae,,species,,B312:1,accepted,,,,,,,,,,,Pycnostysanus,,,Pycnostysanus azaleae,,78QLL,2598548,6YCLB,2598552
 B312:1:1150,Seifertia azaleae,,Seifertia,,azaleae,,species,,B312:1,synonym,B312:1:1149,Pycnostysanus azaleae,,,,,,,,,Pycnostysanus,,,Seifertia azaleae,,6YCLB,2598552,6YCLB,2598552
 B312:1:1151,Pyronema domesticum,,Pyronema,,domesticum,,species,,B312:1,accepted,,,,,,,,,,,Pyronema,,,Pyronema domesticum,,4QV3V,5258593,4QV3V,5258593
@@ -1157,10 +1157,10 @@ B312:1:1155,Cerocorticium molare,,Cerocorticium,,molare,,species,,B312:1,synonym
 B312:1:1156,Ramaria abietina,,Ramaria,,abietina,,species,,B312:1,accepted,,,,,,,,,,,Ramaria,,,Ramaria abietina,,4RBKK,8935591,4FMNZ,7547277
 B312:1:1157,Ramaria eumorpha,,Ramaria,,eumorpha,,species,,B312:1,accepted,,,,,,,,,,,Ramaria,,,Ramaria eumorpha,,4RBPP,5238712,4FMPM,7735919
 B312:1:1158,Ramaria fennica,,Ramaria,,fennica,,species,,B312:1,accepted,,,,,,,,,,,Ramaria,,,Ramaria fennica,,4RBPX,3315301,4RBPX,3315301
-B312:1:1159,Ramaria flaccida,,Ramaria,,flaccida,,species,,B312:1,accepted,,,,,,,,,,,Ramaria,,,Ramaria flaccida,,4RBQ4,5238430,4FMPN,7968163
+B312:1:1159,Ramaria flaccida,,Ramaria,,flaccida,,species,,B312:1,accepted,,,,,,,,,,,Ramaria,,,Ramaria flaccida,,SJNV8,5238430,4FMPN,7968163
 B312:1:1160,Phaeoclavulina flaccida,,Phaeoclavulina,,flaccida,,species,,B312:1,synonym,B312:1:1159,Ramaria flaccida,,,,,,,,,Ramaria,,,Phaeoclavulina flaccida,,4FMPN,7968163,4FMPN,7968163
 B312:1:1161,Ramaria flava,,Ramaria,,flava,,species,,B312:1,accepted,,,,,,,,,,,Ramaria,,,Ramaria flava,,4RBQ5,5238654,4RBQ5,5238654
-B312:1:1162,Clavaria flava,,Clavaria,,flava,,species,,B312:1,synonym,B312:1:1161,Ramaria flava,,,,,,,,,Ramaria,,,Clavaria flava,,5Z9JS,5238657,4RBQ5,5238654
+B312:1:1162,Clavaria flava,,Clavaria,,flava,,species,,B312:1,synonym,B312:1:1161,Ramaria flava,,,,,,,,,Ramaria,,,Clavaria flava,,MNWM8,5238657,4RBQ5,5238654
 B312:1:1163,Ramaria flavescens,,Ramaria,,flavescens,,species,,B312:1,accepted,,,,,,,,,,,Ramaria,,,Ramaria flavescens,,4RBQ6,5238457,4RBQ6,5238457
 B312:1:1164,Ramaria formosa,,Ramaria,,formosa,,species,,B312:1,accepted,,,,,,,,,,,Ramaria,,,Ramaria formosa,,4RBQN,5238663,4RBQN,5238663
 B312:1:1165,Clavaria formosa,,Clavaria,,formosa,,species,,B312:1,synonym,B312:1:1164,Ramaria formosa,,,,,,,,,Ramaria,,,Clavaria formosa,,5YXJQ,8637692,4RBQN,5238663
@@ -1177,7 +1177,7 @@ B312:1:1175,Rhizopogon luteolus,,Rhizopogon,,luteolus,,species,,B312:1,accepted,
 B312:1:1176,Rhodocollybia butyracea,,Rhodocollybia,,butyracea,,species,,B312:1,accepted,,,,,,,,,,,Rhodocollybia,,,Rhodocollybia butyracea,,4SF4S,9217873,4SF4S,9217873
 B312:1:1177,Collybia butyracea,,Collybia,,butyracea,,species,,B312:1,synonym,B312:1:1176,Rhodocollybia butyracea,,,,,,,,,Rhodocollybia,,,Collybia butyracea,,X52W,9513798,4SF4S,9217873
 B312:1:1178,Rhodocollybia butyracea f. asema,,Rhodocollybia,,butyracea,asema,form,,B312:1,accepted,,,B312:1:1176,Rhodocollybia butyracea,,,,,,,Rhodocollybia,,Rhodocollybia butyracea,Rhodocollybia butyracea f. asema,,5SXLC,,B2MHJ,
-B312:1:1179,Rhodocollybia butyracea f. butyracea,,Rhodocollybia,,butyracea,butyracea,form,,B312:1,accepted,,,B312:1:1176,Rhodocollybia butyracea,,,,,,,Rhodocollybia,,Rhodocollybia butyracea,Rhodocollybia butyracea f. butyracea,,,,,
+B312:1:1179,Rhodocollybia butyracea f. butyracea,,Rhodocollybia,,butyracea,butyracea,form,,B312:1,accepted,,,B312:1:1176,Rhodocollybia butyracea,,,,,,,Rhodocollybia,,Rhodocollybia butyracea,Rhodocollybia butyracea f. butyracea,,SJFBP,,4SF4S,
 B312:1:1180,Rhodocollybia maculata,,Rhodocollybia,,maculata,,species,,B312:1,accepted,,,,,,,,,,,Rhodocollybia,,,Rhodocollybia maculata,,4SF59,3321205,4SF59,3321205
 B312:1:1181,Collybia maculata,,Collybia,,maculata,,species,,B312:1,synonym,B312:1:1180,Rhodocollybia maculata,,,,,,,,,Rhodocollybia,,,Collybia maculata,,5ZLDF,8666568,4SF59,3321205
 B312:1:1182,Rhodonia placenta,,Rhodonia,,placenta,,species,,B312:1,accepted,,,,,,,,,,,Rhodonia,,,Rhodonia placenta,,4SHN5,2542856,4SHN5,2542856
@@ -1224,7 +1224,7 @@ B312:1:1222,Russula pseudointegra,,Russula,,pseudointegra,,species,,B312:1,accep
 B312:1:1223,Russula puellaris,,Russula,,puellaris,,species,,B312:1,accepted,,,,,,,,,,,Russula,,,Russula puellaris,,4TSHH,2551562,4TSHH,2551562
 B312:1:1224,Russula queletii,,Russula,,queletii,,species,,B312:1,accepted,,,,,,,,,,,Russula,,,Russula queletii,,4TSJQ,2551558,4TSJQ,2551558
 B312:1:1225,Russula rhodopus,,Russula,,rhodopus,,species,,B312:1,accepted,,,,,,,,,,,Russula,,,Russula rhodopus,,6WZCD,7239976,6WZCD,7239976
-B312:1:1226,Russula rhodopoda,,Russula,,rhodopoda,,species,,B312:1,synonym,B312:1:1225,Russula rhodopus,,,,,,,,,Russula,,,Russula rhodopoda,,,3359725,,7239976
+B312:1:1226,Russula rhodopoda,,Russula,,rhodopoda,,species,,B312:1,synonym,B312:1:1225,Russula rhodopus,,,,,,,,,Russula,,,Russula rhodopoda,,SLYYT,3359725,6WZCD,7239976
 B312:1:1227,Russula risigallina,,Russula,,risigallina,,species,,B312:1,accepted,,,,,,,,,,,Russula,,,Russula risigallina,,4TSKN,2551392,4TSKN,2551392
 B312:1:1228,Russula sanguinea,,Russula,,sanguinea,,species,,B312:1,accepted,,,,,,,,,,,Russula,,,Russula sanguinea,,4TSMP,3359736,4TSMP,3359736
 B312:1:1229,Russula sanguinaria,,Russula,,sanguinaria,,species,,B312:1,synonym,B312:1:1228,Russula sanguinea,,,,,,,,,Russula,,,Russula sanguinaria,,4TSMN,2551203,4TSMN,2551203
@@ -1244,7 +1244,7 @@ B312:1:1242,Rutstroemia echinophila,,Rutstroemia,,echinophila,,species,,B312:1,a
 B312:1:1243,Rutstroemia firma,,Rutstroemia,,firma,,species,,B312:1,accepted,,,,,,,,,,,Rutstroemia,,,Rutstroemia firma,,4TTKH,2580410,4TTKH,2580410
 B312:1:1244,Poculum firmum,,Poculum,,firmum,,species,,B312:1,synonym,B312:1:1243,Rutstroemia firma,,,,,,,,,Rutstroemia,,,Poculum firmum,,4KNLB,2580411,4TTKH,2580410
 B312:1:1245,Sarcodon scabrosus,,Sarcodon,,scabrosus,,species,,B312:1,accepted,,,,,,,,,,,Sacrodon,,,Sacrodon scabrosus,,79LS7,5238871,3MZFH,9854176
-B312:1:1246,Sarcodon joeides,,Sarcodon,,joeides,,species,,B312:1,accepted,,,,,,,,,,,Sarcodon,,,Sarcodon joeides,,6XM43,5238892,6MHHL,5238892
+B312:1:1246,Sarcodon joeides,,Sarcodon,,joeides,,species,,B312:1,accepted,,,,,,,,,,,Sarcodon,,,Sarcodon joeides,,SPZMK,5238892,6MHHL,5238892
 B312:1:1247,Sarcodon squamosus,,Sarcodon,,squamosus,,species,,B312:1,accepted,,,,,,,,,,,Sarcodon,,,Sarcodon squamosus,,79M3V,5238864,79M3V,5238864
 B312:1:1248,Sarcodon imbricatus,,Sarcodon,,imbricatus,,species,,B312:1,synonym,B312:1:1247,Sarcodon squamosus,,,,,,,,,Sarcodon,,,Sarcodon imbricatus,,6XLRR,5238865,6XLRR,5238865
 B312:1:1249,Hydnum imbricatus,,Hydnum,,imbricatus,,species,,B312:1,synonym,B312:1:1247,Sarcodon squamosus,,,,,,,,,Sarcodon,,,Hydnum imbricatus,,3N23F,2522373,6XLRR,5238865
@@ -1262,7 +1262,7 @@ B312:1:1260,Scleroderma areolatum,,Scleroderma,,areolatum,,species,,B312:1,accep
 B312:1:1261,Scleroderma bovista,,Scleroderma,,bovista,,species,,B312:1,accepted,,,,,,,,,,,Scleroderma,,,Scleroderma bovista,,4VPLG,5239977,4VPLG,5239977
 B312:1:1262,Scleroderma cepa,,Scleroderma,,cepa,,species,,B312:1,accepted,,,,,,,,,,,Scleroderma,,,Scleroderma cepa,,4VPLQ,5239938,4VPLQ,5239938
 B312:1:1263,Scleroderma citrinum,,Scleroderma,,citrinum,,species,,B312:1,accepted,,,,,,,,,,,Scleroderma,,,Scleroderma citrinum,,4VPLV,5239982,4VPLV,5239982
-B312:1:1264,Scleroderma aurantium,,Scleroderma,,aurantium,,species,,B312:1,synonym,B312:1:1263,Scleroderma citrinum,,,,,,,,,Scleroderma,,,Scleroderma aurantium,,,7846832,,5239982
+B312:1:1264,Scleroderma aurantium,,Scleroderma,,aurantium,,species,,B312:1,synonym,B312:1:1263,Scleroderma citrinum,,,,,,,,,Scleroderma,,,Scleroderma aurantium,,SSVD6,7846832,SSVD6,5239982
 B312:1:1265,Scleroderma verrucosum,,Scleroderma,,verrucosum,,species,,B312:1,accepted,,,,,,,,,,,Scleroderma,,,Scleroderma verrucosum,,4VPNQ,5239959,4VPNQ,5239959
 B312:1:1266,Scutellinia scutellata,,Scutellinia,,scutellata,,species,,B312:1,accepted,,,,,,,,,,,Scutellinia,,,Scutellinia scutellata,,4W2YT,2593897,4W2YT,2593897
 B312:1:1267,Scutellinia umbrorum,,Scutellinia,,umbrorum,,species,,B312:1,accepted,,,,,,,,,,,Scutellinia,,,Scutellinia umbrorum,,4W2ZW,2593838,4W2ZW,2593838
@@ -1271,7 +1271,7 @@ B312:1:1269,Serpula himantioides,,Serpula,,himantioides,,species,,B312:1,accepte
 B312:1:1270,Serpula lacrymans,,Serpula,,lacrymans,,species,,B312:1,accepted,,,,,,,,,,,Serpula,,,Serpula lacrymans,,4WWKR,5239534,4WWKR,5239534
 B312:1:1271,Serpula lacrimans,,Serpula,,lacrimans,,species,,B312:1,synonym,B312:1:1270,Serpula lacrymans,,,,,,,,,Serpula,,,Serpula lacrimans,,4WWKR,5239534,4WWKR,5239534
 B312:1:1272,Simocybe centunculus,,Simocybe,,centunculus,,species,,B312:1,accepted,,,,,,,,,,,Simocybe,,,Simocybe centunculus,,6YPRM,3329934,6YPRM,3329934
-B312:1:1273,Ramicola centunculus,,Ramicola,,centunculus,,species,,B312:1,synonym,B312:1:1272,Simocybe centunculus,,,,,,,,,Simocybe,,,Ramicola centunculus,,6WRDF,8786289,6YPRM,3329934
+B312:1:1273,Ramicola centunculus,,Ramicola,,centunculus,,species,,B312:1,synonym,B312:1:1272,Simocybe centunculus,,,,,,,,,Simocybe,,,Ramicola centunculus,,SJTNS,8786289,6YPRM,3329934
 B312:1:1274,Naucoria centuncola,,Naucoria,,centuncola,,species,,B312:1,synonym,B312:1:1272,Simocybe centunculus,,,,,,,,,Simocybe,,,Naucoria centuncola,,6RTVY,3329974,6YPRM,3329934
 B312:1:1275,Simocybe haustellaris,,Simocybe,,haustellaris,,species,,B312:1,accepted,,,,,,,,,,,Simocybe,,,Simocybe haustellaris,,4XFMW,2528419,4XFMW,2528419
 B312:1:1276,Simocybe sumptuosa,,Simocybe,,sumptuosa,,species,,B312:1,accepted,,,,,,,,,,,Simocybe,,,Simocybe sumptuosa,,4XFP6,2528399,4XFP6,2528399
@@ -1286,7 +1286,7 @@ B312:1:1284,Sphaerobolus stellatus,,Sphaerobolus,,stellatus,,species,,B312:1,acc
 B312:1:1285,Spinellus fusiger,,Spinellus,,fusiger,,species,,B312:1,accepted,,,,,,,,,,,Spinellus,,,Spinellus fusiger,,4Z5BW,2558273,4Z5BW,2558273
 B312:1:1286,Spongipellis spumeus,,Spongipellis,,spumeus,,species,,B312:1,accepted,,,,,,,,,,,Spongipellis,,,Spongipellis spumeus,,6ZDD4,2543614,6XLRX,2543606
 B312:1:1287,Steccherinum ochraceum,,Steccherinum,,ochraceum,,species,,B312:1,accepted,,,,,,,,,,,Steccherinum,,,Steccherinum ochraceum,,4ZMVX,2545177,4ZMVX,2545177
-B312:1:1288,Stemonitis fusca,,Stemonitis,,fusca,,species,,B312:1,accepted,,,,,,,,,,,Stemonitis,,,Stemonitis fusca,,,3212991,,3212991
+B312:1:1288,Stemonitis fusca,,Stemonitis,,fusca,,species,,B312:1,accepted,,,,,,,,,,,Stemonitis,,,Stemonitis fusca,,4ZSXQ,3212991,4ZSXQ,3212991
 B312:1:1289,Stereum gausapatum,,Stereum,,gausapatum,,species,,B312:1,accepted,,,,,,,,,,,Stereum,,,Stereum gausapatum,,6ZR9B,9181593,6ZR9B,9181593
 B312:1:1290,Stereum hirsutum,,Stereum,,hirsutum,,species,,B312:1,accepted,,,,,,,,,,,Stereum,,,Stereum hirsutum,,6ZQZP,2553128,6ZQZP,2553128
 B312:1:1291,Stereum ochraceoflavum,,Stereum,,ochraceoflavum,,species,,B312:1,accepted,,,,,,,,,,,Stereum,,,Stereum ochraceoflavum,,6ZQKS,2553099,6ZQKS,2553099
@@ -1322,8 +1322,8 @@ B312:1:1320,Paxillus atrotomentosus,,Paxillus,,atrotomentosus,,species,,B312:1,s
 B312:1:1321,Tapinella panuoides,,Tapinella,,panuoides,,species,,B312:1,accepted,,,,,,,,,,,Tapinella,,,Tapinella panuoides,,54T33,5244293,54T33,5244293
 B312:1:1322,Tarzetta catinus,,Tarzetta,,catinus,,species,,B312:1,accepted,,,,,,,,,,,Tarzetta,,,Tarzetta catinus,,7BLS5,2594190,7BLS5,2594190
 B312:1:1323,Tarzetta cupularis,,Tarzetta,,cupularis,,species,,B312:1,accepted,,,,,,,,,,,Tarzetta,,,Tarzetta cupularis,,9YN8V,2594185,9YN8V,2594185
-B312:1:1324,Terana caerulea,,Terana,,caerulea,,species,,B312:1,accepted,,,,,,,,,,,Terana,,,Terana caerulea,,,5244849,,5244849
-B312:1:1325,Pulcherricium caeruleum,,Pulcherricium,,caeruleum,,species,,B312:1,synonym,B312:1:1324,Terana caerulea,,,,,,,,,Terana,,,Pulcherricium caeruleum,,,2541337,,5244849
+B312:1:1324,Terana caerulea,,Terana,,caerulea,,species,,B312:1,accepted,,,,,,,,,,,Terana,,,Terana caerulea,,TJLQY,5244849,55DG5,5244849
+B312:1:1325,Pulcherricium caeruleum,,Pulcherricium,,caeruleum,,species,,B312:1,synonym,B312:1:1324,Terana caerulea,,,,,,,,,Terana,,,Pulcherricium caeruleum,,S3HJ2,2541337,55DG5,5244849
 B312:1:1326,Thelephora anthocephala,,Thelephora,,anthocephala,,species,,B312:1,accepted,,,,,,,,,,,Thelephora,,,Thelephora anthocephala,,567RK,2522896,567RK,2522896
 B312:1:1327,Thelephora palmata,,Thelephora,,palmata,,species,,B312:1,accepted,,,,,,,,,,,Thelephora,,,Thelephora palmata,,567YV,2522907,567YV,2522907
 B312:1:1328,Thelephora penicillata,,Thelephora,,penicillata,,species,,B312:1,accepted,,,,,,,,,,,Thelephora,,,Thelephora penicillata,,567Z6,7391660,567Z6,7391660
@@ -1331,9 +1331,9 @@ B312:1:1329,Thelephora terrestris,,Thelephora,,terrestris,,species,,B312:1,accep
 B312:1:1330,Tomentella fibrosa,,Tomentella,,fibrosa,,species,,B312:1,accepted,,,,,,,,,,,Tomentella,,,Tomentella fibrosa,,57CP5,5238979,74HB4,7833091
 B312:1:1331,Trametes gibbosa,,Trametes,,gibbosa,,species,,B312:1,accepted,,,,,,,,,,,Trametes,,,Trametes gibbosa,,57X4L,9208081,57X4L,9208081
 B312:1:1332,Trametes hirsuta,,Trametes,,hirsuta,,species,,B312:1,accepted,,,,,,,,,,,Trametes,,,Trametes hirsuta,,57X58,8032257,57X58,8032257
-B312:1:1333,Trametes multicolor,,Trametes,,multicolor,,species,,B312:1,synonym,B312:1:1332,Trametes hirsuta,,,,,,,,,Trametes,,,Trametes multicolor,,57X83,2548386,57X8P,2548374
+B312:1:1333,Trametes multicolor,,Trametes,,multicolor,,species,,B312:1,synonym,B312:1:1332,Trametes hirsuta,,,,,,,,,Trametes,,,Trametes multicolor,,TJ5CV,2548386,57X8P,2548374
 B312:1:1334,Trametes ochraceae,,Trametes,,ochraceae,,species,,B312:1,accepted,,,,,,,,,,,Trametes,,,Trametes ochraceae,,57X8P,2548374,57X8P,2548374
-B312:1:1335,Trametes multicolor,,Trametes,,multicolor,,species,,B312:1,synonym,B312:1:1334,Trametes ochraceae,,,,,,,,,Trametes,,,Trametes multicolor,,57X83,2548386,57X8P,2548374
+B312:1:1335,Trametes multicolor,,Trametes,,multicolor,,species,,B312:1,synonym,B312:1:1334,Trametes ochraceae,,,,,,,,,Trametes,,,Trametes multicolor,,TJ5CV,2548386,57X8P,2548374
 B312:1:1336,Trametes zonata,,Trametes,,zonata,,species,,B312:1,synonym,B312:1:1334,Trametes ochraceae,,,,,,,,,Trametes,,,Trametes zonata,,57XFT,7770465,57X8P,2548374
 B312:1:1337,Trametes pubescens,,Trametes,,pubescens,,species,,B312:1,accepted,,,,,,,,,,,Trametes,,,Trametes pubescens,,7CMLV,7621208,7CMLV,7621208
 B312:1:1338,Trametes suaveolens,,Trametes,,suaveolens,,species,,B312:1,accepted,,,,,,,,,,,Trametes,,,Trametes suaveolens,,57XD6,9166502,57XD6,9166502
@@ -1344,14 +1344,14 @@ B312:1:1342,Trechispora mollusca,,Trechispora,,mollusca,,species,,B312:1,accepte
 B312:1:1343,Tremella aurantia,,Tremella,,aurantia,,species,,B312:1,accepted,,,,,,,,,,,Tremella,,,Tremella aurantia,,583HJ,7830431,45K33,7830431
 B312:1:1344,Naematelia aurantia,,Naematelia,,aurantia,,species,,B312:1,synonym,B312:1:1343,Tremella aurantia,,,,,,,,,Tremella,,,Naematelia aurantia,,45K33,7976718,45K33,7976718
 B312:1:1345,Tremella encephala,,Tremella,,encephala,,species,,B312:1,accepted,,,,,,,,,,,Tremella,,,Tremella encephala,,583KF,5237414,45K35,5237414
-B312:1:1346,Tremella foliacea,,Tremella,,foliacea,,species,,B312:1,accepted,,,,,,,,,,,Tremella,,,Tremella foliacea,,,10403266,,9645698
+B312:1:1346,Tremella foliacea,,Tremella,,foliacea,,species,,B312:1,accepted,,,,,,,,,,,Tremella,,,Tremella foliacea,,583KV,10403266,4FPWX,9645698
 B312:1:1347,Tremella mesenterica,,Tremella,,mesenterica,,species,,B312:1,accepted,,,,,,,,,,,Tremella,,,Tremella mesenterica,,9YPH3,11945016,9YPH3,11945016
-B312:1:1348,Tremiscus helvelloides,,Tremiscus,,helvelloides,,species,,B312:1,accepted,,,,,,,,,,,Tremiscus,,,Tremiscus helvelloides,,583TJ,9080764,6L5F9,8824388
+B312:1:1348,Tremiscus helvelloides,,Tremiscus,,helvelloides,,species,,B312:1,accepted,,,,,,,,,,,Tremiscus,,,Tremiscus helvelloides,,TKN23,9080764,6L5F9,8824388
 B312:1:1349,Guepinia helvelloides,,Guepinia,,helvelloides,,species,,B312:1,synonym,B312:1:1348,Tremiscus helvelloides,,,,,,,,,Tremiscus,,,Guepinia helvelloides,,6L5F9,8824388,6L5F9,8824388
 B312:1:1350,Trichaptum abietinum,,Trichaptum,,abietinum,,species,,B312:1,accepted,,,,,,,,,,,Trichaptum,,,Trichaptum abietinum,,587WB,8690832,587WB,8690832
-B312:1:1351,Trichia decipiens,,Trichia,,decipiens,,species,,B312:1,accepted,,,,,,,,,,,Trichia,,,Trichia decipiens,,,5426164,,12247229
-B312:1:1352,Trichia scabra,,Trichia,,scabra,,species,,B312:1,accepted,,,,,,,,,,,Trichia,,,Trichia scabra,,,5426225,,5426225
-B312:1:1353,Trichia varia,,Trichia,,varia,,species,,B312:1,accepted,,,,,,,,,,,Trichia,,,Trichia varia,,,8596298,,8596298
+B312:1:1351,Trichia decipiens,,Trichia,,decipiens,,species,,B312:1,accepted,,,,,,,,,,,Trichia,,,Trichia decipiens,,588GS,5426164,9XB8R,12247229
+B312:1:1352,Trichia scabra,,Trichia,,scabra,,species,,B312:1,accepted,,,,,,,,,,,Trichia,,,Trichia scabra,,588KN,5426225,588KN,5426225
+B312:1:1353,Trichia varia,,Trichia,,varia,,species,,B312:1,accepted,,,,,,,,,,,Trichia,,,Trichia varia,,588L7,8596298,588L7,8596298
 B312:1:1354,Tricholoma album,,Tricholoma,,album,,species,,B312:1,accepted,,,,,,,,,,,Tricholoma,,,Tricholoma album,,58DG9,5241749,58DG9,5241749
 B312:1:1355,Tricholoma argyraceum,,Tricholoma,,argyraceum,,species,,B312:1,accepted,,,,,,,,,,,Tricholoma,,,Tricholoma argyraceum,,58DGR,5241825,58DGR,5241825
 B312:1:1356,Tricholoma aurantium,,Tricholoma,,aurantium,,species,,B312:1,accepted,,,,,,,,,,,Tricholoma,,,Tricholoma aurantium,,58DH7,5241790,58DH7,5241790
@@ -1379,11 +1379,11 @@ B312:1:1377,Tubaria conspersa,,Tubaria,,conspersa,,species,,B312:1,accepted,,,,,
 B312:1:1378,Tubaria dispersa,,Tubaria,,dispersa,,species,,B312:1,accepted,,,,,,,,,,,Tubaria,,,Tubaria dispersa,,59HT5,8467125,59HT5,8467125
 B312:1:1379,Tubaria furfuracea,,Tubaria,,furfuracea,,species,,B312:1,accepted,,,,,,,,,,,Tubaria,,,Tubaria furfuracea,,59HTG,8796319,59HTG,8796319
 B312:1:1380,Tubaria furfuracea,,Tubaria,,furfuracea,,species,sups. hiemalis,B312:1,accepted,,,,,,,,,,,Tubaria,,,Tubaria furfuracea sups. hiemalis,,59HTG,8796319,59HTG,8796319
-B312:1:1381,Tubifera arachnoidea,,Tubifera,,arachnoidea,,species,,B312:1,accepted,,,,,,,,,,,Tubifera,,,Tubifera arachnoidea,,,10525891,,10525891
-B312:1:1382,Tubulifera arachnoidea,,Tubulifera,,arachnoidea,,species,,B312:1,synonym,B312:1:1381,Tubifera arachnoidea,,,,,,,,,Tubifera,,,Tubulifera arachnoidea,,,3213361,,5425805
-B312:1:1383,Tubifera ferruginosa,,Tubifera,,ferruginosa,,species,,B312:1,synonym,B312:1:1381,Tubifera arachnoidea,,,,,,,,,Tubifera,,,Tubifera ferruginosa,,,5425805,,5425805
+B312:1:1381,Tubifera arachnoidea,,Tubifera,,arachnoidea,,species,,B312:1,accepted,,,,,,,,,,,Tubifera,,,Tubifera arachnoidea,,TWDMK,10525891,59JPS,10525891
+B312:1:1382,Tubulifera arachnoidea,,Tubulifera,,arachnoidea,,species,,B312:1,synonym,B312:1:1381,Tubifera arachnoidea,,,,,,,,,Tubifera,,,Tubulifera arachnoidea,,59K66,3213361,59JPS,5425805
+B312:1:1383,Tubifera ferruginosa,,Tubifera,,ferruginosa,,species,,B312:1,synonym,B312:1:1381,Tubifera arachnoidea,,,,,,,,,Tubifera,,,Tubifera ferruginosa,,59JPS,5425805,59JPS,5425805
 B312:1:1384,Tylopilus felleus,,Tylopilus,,felleus,,species,,B312:1,accepted,,,,,,,,,,,Tylopilus,,,Tylopilus felleus,,59TVS,2524910,59TVS,2524910
-B312:1:1385,Boletus felleus,,Boletus,,felleus,,species,,B312:1,synonym,B312:1:1384,Tylopilus felleus,,,,,,,,,Tylopilus,,,Boletus felleus,,MCHZ,5955009,59TVS,2524910
+B312:1:1385,Boletus felleus,,Boletus,,felleus,,species,,B312:1,synonym,B312:1:1384,Tylopilus felleus,,,,,,,,,Tylopilus,,,Boletus felleus,,M8BPF,5955009,59TVS,2524910
 B312:1:1386,Typhula erumpens,,Typhula,,erumpens,,species,,B312:1,accepted,,,,,,,,,,,Typhula,,,Typhula erumpens,,59Y6R,2539074,59Y6R,2539074
 B312:1:1387,Typhula quisquiliaris,,Typhula,,quisquiliaris,,species,,B312:1,accepted,,,,,,,,,,,Typhula,,,Typhula quisquiliaris,,59Y8Q,2539057,59Y8Q,2539057
 B312:1:1388,Tyromyces chioneus,,Tyromyces,,chioneus,,species,,B312:1,accepted,,,,,,,,,,,Tyromyces,,,Tyromyces chioneus,,7DC4G,2548515,7DC4G,2548515
@@ -1393,7 +1393,7 @@ B312:1:1391,Vascellum pratense,,Vascellum,,pratense,,species,,B312:1,accepted,,,
 B312:1:1392,Verpa conica,,Verpa,,conica,,species,,B312:1,accepted,,,,,,,,,,,Verpa,,,Verpa conica,,5B7MD,5499531,5B7MD,5499531
 B312:1:1393,Verpa digitaliformis,,Verpa,,digitaliformis,,species,,B312:1,synonym,B312:1:1392,Verpa conica,,,,,,,,,Verpa,,,Verpa digitaliformis,,7FRFB,5259070,7FRFB,5259070
 B312:1:1394,Volvariella bombycina,,Volvariella,,bombycina,,species,,B312:1,accepted,,,,,,,,,,,Volvariella,,,Volvariella bombycina,,7FSNQ,5241399,7FSNQ,5241399
-B312:1:1395,Volvariella gloiocephala,,Volvariella,,gloiocephala,,species,,B312:1,accepted,,,,,,,,,,,Volvariella,,,Volvariella gloiocephala,,5BQ9W,5241424,7G53L,8329645
+B312:1:1395,Volvariella gloiocephala,,Volvariella,,gloiocephala,,species,,B312:1,accepted,,,,,,,,,,,Volvariella,,,Volvariella gloiocephala,,TW5CW,5241424,7G53L,8329645
 B312:1:1396,Volvariella hypopithys,,Volvariella,,hypopithys,,species,,B312:1,accepted,,,,,,,,,,,Volvariella,,,Volvariella hypopithys,,7G4NZ,5241451,7G4NZ,5241451
 B312:1:1397,Volvariella pusilla,,Volvariella,,pusilla,,species,,B312:1,accepted,,,,,,,,,,,Volvariella,,,Volvariella pusilla,,5BQBD,9162314,5BQBD,9162314
 B312:1:1398,Volvariella parvula,,Volvariella,,parvula,,species,,B312:1,synonym,B312:1:1397,Volvariella pusilla,,,,,,,,,Volvariella,,,Volvariella parvula,,5BQB2,5241443,5BQBD,9162314
@@ -1402,7 +1402,7 @@ B312:1:1400,Vuilleminia comedens,,Vuilleminia,,comedens,,species,,B312:1,accepte
 B312:1:1401,Xerocomellus pruinatus,,Xerocomellus,,pruinatus,,species,,B312:1,accepted,,,,,,,,,,,Xerocomellus,,,Xerocomellus pruinatus,,7FVYP,2519584,7FVYP,2519584
 B312:1:1402,Xerocomus pruinatus,,Xerocomus,,pruinatus,,species,,B312:1,synonym,B312:1:1401,Xerocomellus pruinatus,,,,,,,,,Xerocomellus,,,Xerocomus pruinatus,,5CCR8,2519586,7FVYP,2519584
 B312:1:1403,Boletus pruinatus,,Boletus,,pruinatus,,species,,B312:1,synonym,B312:1:1401,Xerocomellus pruinatus,,,,,,,,,Xerocomellus,,,Boletus pruinatus,,MCX7,5954897,7FVYP,2519584
-B312:1:1404,Xerocomus armeniacus,,Xerocomus,,armeniacus,,species,,B312:1,accepted,,,,,,,,,,,Xerocomus,,,Xerocomus armeniacus,,5CCMC,11244690,4S69Q,7737877
+B312:1:1404,Xerocomus armeniacus,,Xerocomus,,armeniacus,,species,,B312:1,accepted,,,,,,,,,,,Xerocomus,,,Xerocomus armeniacus,,TN7LT,11244690,4S69Q,7737877
 B312:1:1405,Boletus armeniacus,,Boletus,,armeniacus,,species,,B312:1,synonym,B312:1:1404,Xerocomus armeniacus,,,,,,,,,Xerocomus,,,Boletus armeniacus,,5WMTV,5954935,4S69Q,7737877
 B312:1:1406,Suilus armeniacus,,Suilus,,armeniacus,,species,,B312:1,synonym,B312:1:1404,Xerocomus armeniacus,,,,,,,,,Xerocomus,,,Suilus armeniacus,,53F2L,5237756,4S69Q,7737877
 B312:1:1407,Boletus bicolor,,Boletus,,bicolor,,species,,B312:1,synonym,B312:1:1404,Xerocomus armeniacus,,,,,,,,,Xerocomus,,,Boletus bicolor,,MCBR,8136049,MCBR,8136049
@@ -1414,11 +1414,11 @@ B312:1:1412,Xerocomus ferrugineus,,Xerocomus,,ferrugineus,,species,,B312:1,accep
 B312:1:1413,Boletus ferrugineus,,Boletus,,ferrugineus,,species,,B312:1,synonym,B312:1:1412,Xerocomus ferrugineus,,,,,,,,,Xerocomus,,,Boletus ferrugineus,,MCJ4,7399582,59TVT,7399582
 B312:1:1414,Xerocomus porosporus,,Xerocomus,,porosporus,,species,,B312:1,accepted,,,,,,,,,,,Xerocomus,,,Xerocomus porosporus,,5CCR5,2519576,5CCLT,2519577
 B312:1:1415,Boletus porosporus,,Boletus,,porosporus,,species,,B312:1,synonym,B312:1:1414,Xerocomus porosporus,,,,,,,,,Xerocomus,,,Boletus porosporus,,68N7M,8699283,5CCLT,2519577
-B312:1:1416,Xerocomus rubellus,,Xerocomus,,rubellus,,species,,B312:1,accepted,,,,,,,,,,,Xerocomus,,,Xerocomus rubellus,,,8044332,,8060178
+B312:1:1416,Xerocomus rubellus,,Xerocomus,,rubellus,,species,,B312:1,accepted,,,,,,,,,,,Xerocomus,,,Xerocomus rubellus,,TN8TD,8044332,3MQH3,8060178
 B312:1:1417,Xerocomus versicolor,,Xerocomus,,versicolor,,species,,B312:1,synonym,B312:1:1416,Xerocomus rubellus,,,,,,,,,Xerocomus,,,Xerocomus versicolor,,5CCSS,2548329,3MQH3,8060178
 B312:1:1418,Boletus rubellus,,Boletus,,rubellus,,species,,B312:1,synonym,B312:1:1416,Xerocomus rubellus,,,,,,,,,Xerocomus,,,Boletus rubellus,,MD2V,5954952,3MQH3,8060178
 B312:1:1419,Xerocomus subtomentosus,,Xerocomus,,subtomentosus,,species,,B312:1,accepted,,,,,,,,,,,Xerocomus,,,Xerocomus subtomentosus,,5CCSG,2519457,5CCSG,2519457
-B312:1:1420,Boletus subtomentosus,,Boletus,,subtomentosus,,species,,B312:1,synonym,B312:1:1419,Xerocomus subtomentosus,,,,,,,,,Xerocomus,,,Boletus subtomentosus,,MD7X,5954888,5CCSG,2519457
+B312:1:1420,Boletus subtomentosus,,Boletus,,subtomentosus,,species,,B312:1,synonym,B312:1:1419,Xerocomus subtomentosus,,,,,,,,,Xerocomus,,,Boletus subtomentosus,,V7TQ5,5954888,3PJ2R,2519457
 B312:1:1421,Xerula pudens,,Xerula,,pudens,,species,,B312:1,accepted,,,,,,,,,,,Xerula,,,Xerula pudens,,5CDNF,2536820,5CDNF,2536820
 B312:1:1422,Xerula radicata,,Xerula,,radicata,,species,,B312:1,accepted,,,,,,,,,,,Xerula,,,Xerula radicata,,5CDNG,8300906,3NK5C,8031042
 B312:1:1423,Oudemansiella radicata,,Oudemansiella,,radicata,,species,,B312:1,synonym,B312:1:1422,Xerula radicata,,,,,,,,,Xerula,,,Oudemansiella radicata,,4B8NZ,5243591,3NK5C,8031042

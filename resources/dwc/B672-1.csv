@@ -2,8 +2,8 @@ scientificNameID,scientificName,scientificNameAuthorship,genericName,infrageneri
 B672:1:1,Syrphidae,,,,,,family,,B672:1,accepted,,,,,,,,,Syrphidae,,,,,Syrphidae,,GVS,6920,GVS,6920
 B672:1:2,Microdontinae,,,,,,subfamily,,B672:1,accepted,,,B672:1:1,Syrphidae,,,,,Syrphidae,Microdontinae,,,Syrphidae,Microdontinae,,87CJY,,87CJY,
 B672:1:3,Microdon,,,,,,genus,,B672:1,accepted,,,B672:1:2,Microdontinae,,,,,Syrphidae,Microdontinae,Microdon,,Syrphidae | Microdontinae,Microdon,,BXXN2,1542207,BXXN2,1542207
-B672:1:4,Syrphinae,,,,,,subfamily,,B672:1,accepted,,,B672:1:1,Syrphidae,,,,,Syrphidae,Syrphinae,,,Syrphidae,Syrphinae,,9H6NG,,9H6NG,
-B672:1:5,Syrphini,,,,,,tribe,,B672:1,accepted,,,B672:1:4,Syrphinae,,,,,Syrphidae,Syrphinae,,,Syrphidae | Syrphinae,Syrphini,,B7XFC,,B7XFC,
+B672:1:4,Syrphinae,,,,,,subfamily,,B672:1,accepted,,,B672:1:1,Syrphidae,,,,,Syrphidae,Syrphinae,,,Syrphidae,Syrphinae,,87CNM,,87CNM,
+B672:1:5,Syrphini,,,,,,tribe,,B672:1,accepted,,,B672:1:4,Syrphinae,,,,,Syrphidae,Syrphinae,,,Syrphidae | Syrphinae,Syrphini,,87CZ8,,87CZ8,
 B672:1:6,Chrysotoxum,,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Chrysotoxum,,Syrphidae | Syrphinae | Syrphini,Chrysotoxum,,BY9LZ,1535870,BY9LZ,1535870
 B672:1:7,Paragus,,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Paragus,,Syrphidae | Syrphinae | Syrphini,Paragus,,BY3JN,1535699,BY3JN,1535699
 B672:1:8,Baccha,,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Baccha,,Syrphidae | Syrphinae | Syrphini,Baccha,,BY7XW,1536538,BY7XW,1536538
@@ -17,7 +17,7 @@ B672:1:15,Parasyrphus Matsumura,Matsumura,,,,,genus,,B672:1,accepted,,,B672:1:5,
 B672:1:16,Meliscaeva Frey,Frey,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Meliscaeva,,Syrphidae | Syrphinae | Syrphini,Meliscaeva Frey,,BYHTD,1535495,BYHTD,1535495
 B672:1:17,Xanthogramma Schiner,Schiner,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Xanthogramma,,Syrphidae | Syrphinae | Syrphini,Xanthogramma Schiner,,BYYRW,1538494,BYMBX,1538494
 B672:1:18,Epistrophe Walker,Walker,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Epistrophe,,Syrphidae | Syrphinae | Syrphini,Epistrophe Walker,,BYCMV,5071050,BYCMV,5071050
-B672:1:19,Sphaerophoria Lepeletier & Serville,Lepeletier & Serville,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Syrphini,Sphaerophoria Lepeletier & Serville,,BY4GV,1539106,BY4GV,1539106
+B672:1:19,Sphaerophoria Lepeletier & Serville,Lepeletier & Serville,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Sphaerophoria,,Syrphidae | Syrphinae | Syrphini,Sphaerophoria Lepeletier & Serville,,SY95X,1539106,SY95X,1539106
 B672:1:20,Doros Meigen,Meigen,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Doros,,Syrphidae | Syrphinae | Syrphini,Doros Meigen,,BYC2D,1544508,BYC2D,1544508
 B672:1:21,Leucozona,,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Leucozona,,Syrphidae | Syrphinae | Syrphini,Leucozona,,BYGVJ,1536498,BYGVJ,1536498
 B672:1:22,Eriozona,,,,,,genus,,B672:1,accepted,,,B672:1:5,Syrphini,,,,,Syrphidae,Syrphinae,Eriozona,,Syrphidae | Syrphinae | Syrphini,Eriozona,,BYCPX,1543325,BYCPX,1543325
@@ -40,15 +40,15 @@ B672:1:38,Sphiximorpha Rondani,Rondani,,,,,genus,,B672:1,accepted,,,B672:1:36,Ce
 B672:1:39,Psarini,,,,,,tribe,,B672:1,accepted,,,B672:1:31,Milesinae,,,,,Syrphidae,Milesinae,,,Syrphidae | Milesinae,Psarini,,,,,
 B672:1:40,Psarus Latreille,Latreille,,,,,genus,,B672:1,accepted,,,B672:1:39,Psarini,,,,,Syrphidae,Milesinae,Psarus,,Syrphidae | Milesinae | Psarini,Psarus Latreille,,BYNGQ,1537620,BYNGQ,1537620
 B672:1:41,Sericomyini,,,,,,tribe,,B672:1,accepted,,,B672:1:31,Milesinae,,,,,Syrphidae,Milesinae,,,Syrphidae | Milesinae,Sericomyini,,,,,
-B672:1:42,Arctophila,,,,,,genus,,B672:1,accepted,,,B672:1:41,Sericomyini,,,,,Syrphidae,Milesinae,Arctophila,,Syrphidae | Milesinae | Sericomyini,Arctophila,,,9026378,,9026378
+B672:1:42,Arctophila,,,,,,genus,,B672:1,accepted,,,B672:1:41,Sericomyini,,,,,Syrphidae,Milesinae,Arctophila,,Syrphidae | Milesinae | Sericomyini,Arctophila,,LSG4L,9026378,BYQ5M,9026378
 B672:1:43,Sericomyia,,,,,,genus,,B672:1,accepted,,,B672:1:41,Sericomyini,,,,,Syrphidae,Milesinae,Sericomyia,,Syrphidae | Milesinae | Sericomyini,Sericomyia,,BYQ5M,1538780,BYQ5M,1538780
 B672:1:44,Cheilosini,,,,,,tribe,,B672:1,accepted,,,B672:1:31,Milesinae,,,,,Syrphidae,Milesinae,,,Syrphidae | Milesinae,Cheilosini,,,,,
 B672:1:45,Rhingia,,,,,,genus,,B672:1,accepted,,,B672:1:44,Cheilosini,,,,,Syrphidae,Milesinae,Rhingia,,Syrphidae | Milesinae | Cheilosini,Rhingia,,BYPBL,1537399,BYPBL,1537399
-B672:1:46,Chamaesyrphus,,,,,,genus,,B672:1,accepted,,,B672:1:44,Cheilosini,,,,,Syrphidae,Milesinae,Chamaesyrphus,,Syrphidae | Milesinae | Cheilosini,Chamaesyrphus,,BY9BZ,1539243,BY9BZ,1539243
+B672:1:46,Chamaesyrphus,,,,,,genus,,B672:1,accepted,,,B672:1:44,Cheilosini,,,,,Syrphidae,Milesinae,Chamaesyrphus,,Syrphidae | Milesinae | Cheilosini,Chamaesyrphus,,87DXS,1539243,87DXS,1539243
 B672:1:47,Ferdinandea,,,,,,genus,,B672:1,accepted,,,B672:1:44,Cheilosini,,,,,Syrphidae,Milesinae,Ferdinandea,,Syrphidae | Milesinae | Cheilosini,Ferdinandea,,BYD9W,1542953,BYD9W,1542953
 B672:1:48,Cheilosia,,,,,,genus,,B672:1,accepted,,,B672:1:44,Cheilosini,,,,,Syrphidae,Milesinae,Cheilosia,,Syrphidae | Milesinae | Cheilosini,Cheilosia,"{""indistinguishableFrom"":[""B672:1:49""]}",BXWYF,1539835,BXWYF,1539835
 B672:1:49,Portevinia,,,,,,genus,,B672:1,accepted,,,B672:1:44,Cheilosini,,,,,Syrphidae,Milesinae,Portevinia,,Syrphidae | Milesinae | Cheilosini,Portevinia,"{""indistinguishableFrom"":[""B672:1:48""]}",BYN26,1536586,BYN26,1536586
-B672:1:50,Chrysogasterini,,,,,,tribe,,B672:1,accepted,,,B672:1:31,Milesinae,,,,,Syrphidae,Milesinae,,,Syrphidae | Milesinae,Chrysogasterini,,,,,
+B672:1:50,Chrysogasterini,,,,,,tribe,,B672:1,accepted,,,B672:1:31,Milesinae,,,,,Syrphidae,Milesinae,,,Syrphidae | Milesinae,Chrysogasterini,,CNKWQ,,C3GN8,
 B672:1:51,Hammerschmidtia Schummel,Schummel,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Hammerschmidtia,,Syrphidae | Milesinae | Chrysogasterini,Hammerschmidtia Schummel,,BYF3M,8860633,BYF3M,8860633
 B672:1:52,Brachyopa Meigen,Meigen,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Brachyopa,,Syrphidae | Milesinae | Chrysogasterini,Brachyopa Meigen,,BY8GX,1534367,BY8GX,1534367
 B672:1:53,Neoascia Williston,Williston,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Neoascia,,Syrphidae | Milesinae | Chrysogasterini,Neoascia Williston,,BYJSD,1536777,BYJSD,1536777
@@ -57,11 +57,11 @@ B672:1:55,Psilota,,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Sy
 B672:1:56,Myolepta,,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Myolepta,,Syrphidae | Milesinae | Chrysogasterini,Myoplepta,,BYJKZ,1533883,BYJKZ,1533883
 B672:1:57,Lejota Rondani,Rondani,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Lejota,,Syrphidae | Milesinae | Chrysogasterini,Lejota Rondani,,BYGPX,1535233,BYGPX,1535233
 B672:1:58,Lejogaster,,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Lejogaster,,Syrphidae | Milesinae | Chrysogasterini,Lejogaster,,BYGPS,1537377,BYGPS,1537377
-B672:1:59,Melanogaster,,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Melanogaster,,Syrphidae | Milesinae | Chrysogasterini,Melanogaster,,BXXMK,3264906,BY9LJ,3264906
+B672:1:59,Melanogaster,,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Melanogaster,,Syrphidae | Milesinae | Chrysogasterini,Melanogaster,,87J6Q,3264906,87J6Q,3264906
 B672:1:60,Chrysogaster,,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Chrysogaster,,Syrphidae | Milesinae | Chrysogasterini,Chrysogaster,,BY9LJ,1536707,BY9LJ,1536707
 B672:1:61,Chrysosyrphus,,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Chrysosyrphus,,Syrphidae | Milesinae | Chrysogasterini,Chrysosyrphus,,BY9LX,1541950,BY9LX,1541950
 B672:1:62,Riponnensia,,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Riponnensia,,Syrphidae | Milesinae | Chrysogasterini,Riponnensia,,BYZPD,1543421,BYZPD,1543421
-B672:1:63,Orthonevra,,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Orthonevra,,Syrphidae | Milesinae | Chrysogasterini,Orthonevra,,BYKVN,1537455,BYKVN,1537455
+B672:1:63,Orthonevra,,,,,,genus,,B672:1,accepted,,,B672:1:50,Chrysogasterini,,,,,Syrphidae,Milesinae,Orthonevra,,Syrphidae | Milesinae | Chrysogasterini,Orthonevra,,63H6W,1537455,63H6W,1537455
 B672:1:64,Pelecocerini,,,,,,tribe,,B672:1,accepted,,,B672:1:31,Milesinae,,,,,Syrphidae,Milesinae,,,Syrphidae | Milesinae,Pelecocerini,,,,,
 B672:1:65,Pelecocera,,,,,,genus,,B672:1,accepted,,,B672:1:64,Pelecocerini,,,,,Syrphidae,Milesinae,Pelecocera,,Syrphidae | Milesinae | Pelecocerini,Pelecocera,,BYLZC,1537579,BYLZC,1537579
 B672:1:66,Pipizini,,,,,,tribe,,B672:1,accepted,,,B672:1:31,Milesinae,,,,,Syrphidae,Milesinae,,,Syrphidae | Milesinae,Pipizini,,BY5XF,,BY5XF,
@@ -70,7 +70,7 @@ B672:1:68,Trichopsomyia,,,,,,genus,,B672:1,accepted,,,B672:1:66,Pipizini,,,,,Syr
 B672:1:69,Pipizella,,,,,,genus,,B672:1,accepted,,,B672:1:66,Pipizini,,,,,Syrphidae,Milesinae,Pipizella,,Syrphidae | Milesinae | Pipizini,Pipizella,,BYMM4,1532919,BYMM4,1532919
 B672:1:70,Heringia,,,,,,genus,,B672:1,accepted,,,B672:1:66,Pipizini,,,,,Syrphidae,Milesinae,Heringia,,Syrphidae | Milesinae | Pipizini,Heringia,,BYFB2,1535116,BYFB2,1535116
 B672:1:71,Pipiza,,,,,,genus,,B672:1,accepted,,,B672:1:66,Pipizini,,,,,Syrphidae,Milesinae,Pipiza,,Syrphidae | Milesinae | Pipizini,Pipiza,,BYMM3,1536264,BYMM3,1536264
-B672:1:72,Neocnemodon,,,,,,genus,,B672:1,accepted,,,B672:1:66,Pipizini,,,,,Syrphidae,Milesinae,Neocnemodon,,Syrphidae | Milesinae | Pipizini,Neocnemadon,,CH8XD,1536263,CH8XD,1536263
+B672:1:72,Neocnemodon,,,,,,genus,,B672:1,accepted,,,B672:1:66,Pipizini,,,,,Syrphidae,Milesinae,Neocnemodon,,Syrphidae | Milesinae | Pipizini,Neocnemadon,,89QSP,1536263,89QSP,1536263
 B672:1:73,Eristalini,,,,,,tribe,,B672:1,accepted,,,B672:1:31,Milesinae,,,,,Syrphidae,Milesinae,,,Syrphidae | Milesinae,Eristalini,,89P8Q,,89P8Q,
 B672:1:74,Eristalinus,,,,,,genus,,B672:1,accepted,,,B672:1:73,Eristalini,,,,,Syrphidae,Milesinae,Eristalinus,,Syrphidae | Milesinae | Eristalini,Eristalinus,,BXZTX,1542672,BXZTX,1542672
 B672:1:75,Eristalis,,,,,,genus,,B672:1,accepted,,,B672:1:73,Eristalini,,,,,Syrphidae,Milesinae,Eristalis,,Syrphidae | Milesinae | Eristalini,Eristalis,,BXZTZ,1491190,BXZTZ,1491190

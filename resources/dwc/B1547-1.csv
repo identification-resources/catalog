@@ -1,49 +1,49 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B1547:1:1,Heteroptera,,,,,,suborder,,B1547:1,accepted,,,,,,,,,,,,,,Heteroptera,,BXWCX,,BXWCX,
+B1547:1:1,Heteroptera,,,,,,suborder,,B1547:1,accepted,,,,,,,,,,,,,,Heteroptera,,C3Y9B,,C3Y9B,
 B1547:1:2,Pentatomidae,,,,,,family,,B1547:1,accepted,,,B1547:1:1,Heteroptera,,,,,Pentatomidae,,,,Heteroptera,Pentatomidae,,BXWJD,9650,BXWJD,9650
-B1547:1:3,Apoecilus,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Apoecilus,,Heteroptera | Pentatomidae,Apoecilus,,,4785129,,4785129
+B1547:1:3,Apoecilus,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Apoecilus,,Heteroptera | Pentatomidae,Apoecilus,,V4J7X,4785129,V4J7X,4785129
 B1547:1:4,Apoecilus bracteatus,,Apoecilus,,bracteatus,,species,,B1547:1,accepted,,,B1547:1:3,Apoecilus,,,,,Pentatomidae,,Apoecilus,,Heteroptera | Pentatomidae | Apoecilus,bracteatus,,,11853051,,11853051
-B1547:1:5,Perillus,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Perillus,,Heteroptera | Pentatomidae,Perillus,,,2079146,,2079146
-B1547:1:6,Perillus bioculatus,,Perillus,,bioculatus,,species,,B1547:1,accepted,,,B1547:1:5,Perillus,,,,,Pentatomidae,,Perillus,,Heteroptera | Pentatomidae | Perillus,bioculatus,,,2079151,,2079151
-B1547:1:7,Podisus,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Podisus,,Heteroptera | Pentatomidae,Podisus,,,2079032,,2079032
+B1547:1:5,Perillus,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Perillus,,Heteroptera | Pentatomidae,Perillus,,RFC6L,2079146,RFC6L,2079146
+B1547:1:6,Perillus bioculatus,,Perillus,,bioculatus,,species,,B1547:1,accepted,,,B1547:1:5,Perillus,,,,,Pentatomidae,,Perillus,,Heteroptera | Pentatomidae | Perillus,bioculatus,,RFC6N,2079151,RFC6N,2079151
+B1547:1:7,Podisus,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Podisus,,Heteroptera | Pentatomidae,Podisus,,LB7KB,2079032,LB7KB,2079032
 B1547:1:8,Podisus brevispinus,,Podisus,,brevispinus,,species,,B1547:1,accepted,,,B1547:1:7,Podisus,,,,,Pentatomidae,,Podisus,,Heteroptera | Pentatomidae | Podisus,brevispinus,,,10547565,,10547565
-B1547:1:9,Podisus maculiventris,,Podisus,,maculiventris,,species,,B1547:1,accepted,,,B1547:1:7,Podisus,,,,,Pentatomidae,,Podisus,,Heteroptera | Pentatomidae | Podisus,maculiventris,,,2079037,,2079037
-B1547:1:10,Zicrona,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Zicrona,,Heteroptera | Pentatomidae,Zicrona,,,2078941,,2078941
-B1547:1:11,Zicrona caerulea,,Zicrona,,caerulea,,species,,B1547:1,accepted,,,B1547:1:10,Zicrona,,,,,Pentatomidae,,Zicrona,,Heteroptera | Pentatomidae | Zicrona,caerulea,,,2078942,,2078942
-B1547:1:12,Banasa,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Banasa,,Heteroptera | Pentatomidae,Banasa,,,2078921,,2078921
-B1547:1:13,Banasa dimidiata,,Banasa,,dimidiata,,species,,B1547:1,accepted,,,B1547:1:12,Banasa,,,,,Pentatomidae,,Banasa,,Heteroptera | Pentatomidae | Banasa,dimidiata,,,10576855,,10576855
-B1547:1:14,Chinavia,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Chinavia,,Heteroptera | Pentatomidae,Chinavia,,,4782561,,4782561
+B1547:1:9,Podisus maculiventris,,Podisus,,maculiventris,,species,,B1547:1,accepted,,,B1547:1:7,Podisus,,,,,Pentatomidae,,Podisus,,Heteroptera | Pentatomidae | Podisus,maculiventris,,RVSX4,2079037,RVSX4,2079037
+B1547:1:10,Zicrona,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Zicrona,,Heteroptera | Pentatomidae,Zicrona,,TWMP2,2078941,TWMP2,2078941
+B1547:1:11,Zicrona caerulea,,Zicrona,,caerulea,,species,,B1547:1,accepted,,,B1547:1:10,Zicrona,,,,,Pentatomidae,,Zicrona,,Heteroptera | Pentatomidae | Zicrona,caerulea,,TWMPC,2078942,TWMPC,2078942
+B1547:1:12,Banasa,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Banasa,,Heteroptera | Pentatomidae,Banasa,,C92H6,2078921,C92H6,2078921
+B1547:1:13,Banasa dimidiata,,Banasa,,dimidiata,,species,,B1547:1,accepted,,,B1547:1:12,Banasa,,,,,Pentatomidae,,Banasa,,Heteroptera | Pentatomidae | Banasa,dimidiata,,MP3Q4,10576855,MP3Q4,10576855
+B1547:1:14,Chinavia,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Chinavia,,Heteroptera | Pentatomidae,Chinavia,,L4YX6,4782561,L4YX6,4782561
 B1547:1:15,Chinavia hilaris,,Chinavia,,hilaris,,species,,B1547:1,accepted,,,B1547:1:14,Chinavia,,,,,Pentatomidae,,Chinavia,,Heteroptera | Pentatomidae | Chinavia,hilaris,,,10671194,,10671194
-B1547:1:16,Chlorochroa,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Chlorochroa,,Heteroptera | Pentatomidae,Chlorochroa,,,2064707,,2064707
-B1547:1:17,Chlorochroa ligata,,Chlorochroa,,ligata,,species,,B1547:1,accepted,,,B1547:1:16,Chlorochroa,,,,,Pentatomidae,,Chlorochroa,,Heteroptera | Pentatomidae | Chlorochroa,ligata,,,2079227,,2079227
-B1547:1:18,Chlorochroa rossiana,,Chlorochroa,,rossiana,,species,,B1547:1,accepted,,,B1547:1:16,Chlorochroa,,,,,Pentatomidae,,Chlorochroa,,Heteroptera | Pentatomidae | Chlorochroa,rossiana,,,2079237,,2079237
-B1547:1:19,Chlorochroa uhleri,,Chlorochroa,,uhleri,,species,,B1547:1,accepted,,,B1547:1:16,Chlorochroa,,,,,Pentatomidae,,Chlorochroa,,Heteroptera | Pentatomidae | Chlorochroa,uhleri,,,2079231,,2079231
-B1547:1:20,Thyanta,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Thyanta,,Heteroptera | Pentatomidae,Thyanta,,,2078963,,2078963
-B1547:1:21,Thyanta custator,,Thyanta,,custator,,species,,B1547:1,accepted,,,B1547:1:20,Thyanta,,,,,Pentatomidae,,Thyanta,,Heteroptera | Pentatomidae | Thyanta,custator,,,2078975,,2078975
-B1547:1:22,Cosmopepla,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Cosmopepla,,Heteroptera | Pentatomidae,Cosmopepla,,,2078877,,2078877
-B1547:1:23,Cosmopepla conspicillaris,,Cosmopepla,,conspicillaris,,species,,B1547:1,accepted,,,B1547:1:22,Cosmopepla,,,,,Pentatomidae,,Cosmopepla,,Heteroptera | Pentatomidae | Cosmopepla,conspicillaris,,,2078878,,2078878
-B1547:1:24,Cosmopepla uhleri,,Cosmopepla,,uhleri,,species,,B1547:1,accepted,,,B1547:1:22,Cosmopepla,,,,,Pentatomidae,,Cosmopepla,,Heteroptera | Pentatomidae | Cosmopepla,uhleri,,,2078887,,2078887
-B1547:1:25,Cosmopepla intergressa,,Cosmopepla,,intergressa,,species,,B1547:1,accepted,,,B1547:1:22,Cosmopepla,,,,,Pentatomidae,,Cosmopepla,,Heteroptera | Pentatomidae | Cosmopepla,intergressa,,,2078879,,2078879
-B1547:1:26,Cosmopepla lintneriana,,Cosmopepla,,lintneriana,,species,,B1547:1,accepted,,,B1547:1:22,Cosmopepla,,,,,Pentatomidae,,Cosmopepla,,Heteroptera | Pentatomidae | Cosmopepla,lintneriana,,,2078882,,2078882
-B1547:1:27,Holcostethus,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Holcostethus,,Heteroptera | Pentatomidae,Holcostethus,,,2079189,,2079189
-B1547:1:28,Holcostethus abbreviatus,,Holcostethus,,abbreviatus,,species,,B1547:1,accepted,,,B1547:1:27,Holcostethus,,,,,Pentatomidae,,Holcostethus,,Heteroptera | Pentatomidae | Holcostethus,abbreviatus,,,2079194,,2079194
-B1547:1:29,Holcostethus limbolarius,,Holcostethus,,limbolarius,,species,,B1547:1,accepted,,,B1547:1:27,Holcostethus,,,,,Pentatomidae,,Holcostethus,,Heteroptera | Pentatomidae | Holcostethus,limbolarius,,,2079197,,2079197
-B1547:1:30,Holcostethus tristis,,Holcostethus,,tristis,,species,,B1547:1,accepted,,,B1547:1:27,Holcostethus,,,,,Pentatomidae,,Holcostethus,,Heteroptera | Pentatomidae | Holcostethus,tristis,,,2079196,,2079196
-B1547:1:31,Trichopepla,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Trichopepla,,Heteroptera | Pentatomidae,Trichopepla,,,2078867,,2078867
-B1547:1:32,Trichopepla aurora,,Trichopepla,,aurora,,species,,B1547:1,accepted,,,B1547:1:31,Trichopepla,,,,,Pentatomidae,,Trichopepla,,Heteroptera | Pentatomidae | Trichopepla,aurora,,,2078871,,2078871
-B1547:1:33,Antheminia,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Antheminia,,Heteroptera | Pentatomidae,Antheminia,,,4407209,,4407209
+B1547:1:16,Chlorochroa,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Chlorochroa,,Heteroptera | Pentatomidae,Chlorochroa,,MJ2WC,2064707,MJ2KC,2064707
+B1547:1:17,Chlorochroa ligata,,Chlorochroa,,ligata,,species,,B1547:1,accepted,,,B1547:1:16,Chlorochroa,,,,,Pentatomidae,,Chlorochroa,,Heteroptera | Pentatomidae | Chlorochroa,ligata,,MJ2WQ,2079227,MJ2WQ,2079227
+B1547:1:18,Chlorochroa rossiana,,Chlorochroa,,rossiana,,species,,B1547:1,accepted,,,B1547:1:16,Chlorochroa,,,,,Pentatomidae,,Chlorochroa,,Heteroptera | Pentatomidae | Chlorochroa,rossiana,,MJ2XB,2079237,MJ2XB,2079237
+B1547:1:19,Chlorochroa uhleri,,Chlorochroa,,uhleri,,species,,B1547:1,accepted,,,B1547:1:16,Chlorochroa,,,,,Pentatomidae,,Chlorochroa,,Heteroptera | Pentatomidae | Chlorochroa,uhleri,,MJ2XG,2079231,MJ2XG,2079231
+B1547:1:20,Thyanta,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Thyanta,,Heteroptera | Pentatomidae,Thyanta,,TJLK4,2078963,TJLK4,2078963
+B1547:1:21,Thyanta custator,,Thyanta,,custator,,species,,B1547:1,accepted,,,B1547:1:20,Thyanta,,,,,Pentatomidae,,Thyanta,,Heteroptera | Pentatomidae | Thyanta,custator,,TJLM9,2078975,TJLM9,2078975
+B1547:1:22,Cosmopepla,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Cosmopepla,,Heteroptera | Pentatomidae,Cosmopepla,,MWKRQ,2078877,MWKRQ,2078877
+B1547:1:23,Cosmopepla conspicillaris,,Cosmopepla,,conspicillaris,,species,,B1547:1,accepted,,,B1547:1:22,Cosmopepla,,,,,Pentatomidae,,Cosmopepla,,Heteroptera | Pentatomidae | Cosmopepla,conspicillaris,,MWKSF,2078878,MWKSF,2078878
+B1547:1:24,Cosmopepla uhleri,,Cosmopepla,,uhleri,,species,,B1547:1,accepted,,,B1547:1:22,Cosmopepla,,,,,Pentatomidae,,Cosmopepla,,Heteroptera | Pentatomidae | Cosmopepla,uhleri,,MWKTY,2078887,MWKTY,2078887
+B1547:1:25,Cosmopepla intergressa,,Cosmopepla,,intergressa,,species,,B1547:1,accepted,,,B1547:1:22,Cosmopepla,,,,,Pentatomidae,,Cosmopepla,,Heteroptera | Pentatomidae | Cosmopepla,intergressa,,MWKT7,2078879,MWKT7,2078879
+B1547:1:26,Cosmopepla lintneriana,,Cosmopepla,,lintneriana,,species,,B1547:1,accepted,,,B1547:1:22,Cosmopepla,,,,,Pentatomidae,,Cosmopepla,,Heteroptera | Pentatomidae | Cosmopepla,lintneriana,,MWKTD,2078882,MWKTD,2078882
+B1547:1:27,Holcostethus,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Holcostethus,,Heteroptera | Pentatomidae,Holcostethus,,PVWDX,2079189,PVWDX,2079189
+B1547:1:28,Holcostethus abbreviatus,,Holcostethus,,abbreviatus,,species,,B1547:1,accepted,,,B1547:1:27,Holcostethus,,,,,Pentatomidae,,Holcostethus,,Heteroptera | Pentatomidae | Holcostethus,abbreviatus,,PVWFP,2079194,PVWFP,2079194
+B1547:1:29,Holcostethus limbolarius,,Holcostethus,,limbolarius,,species,,B1547:1,accepted,,,B1547:1:27,Holcostethus,,,,,Pentatomidae,,Holcostethus,,Heteroptera | Pentatomidae | Holcostethus,limbolarius,,PVWGX,2079197,PVWGX,2079197
+B1547:1:30,Holcostethus tristis,,Holcostethus,,tristis,,species,,B1547:1,accepted,,,B1547:1:27,Holcostethus,,,,,Pentatomidae,,Holcostethus,,Heteroptera | Pentatomidae | Holcostethus,tristis,,PVWK2,2079196,PVWK2,2079196
+B1547:1:31,Trichopepla,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Trichopepla,,Heteroptera | Pentatomidae,Trichopepla,,THX7F,2078867,THX7F,2078867
+B1547:1:32,Trichopepla aurora,,Trichopepla,,aurora,,species,,B1547:1,accepted,,,B1547:1:31,Trichopepla,,,,,Pentatomidae,,Trichopepla,,Heteroptera | Pentatomidae | Trichopepla,aurora,,THX7Y,2078871,THX7Y,2078871
+B1547:1:33,Antheminia,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Antheminia,,Heteroptera | Pentatomidae,Antheminia,,LLCLJ,4407209,LLCLJ,4407209
 B1547:1:34,Antheminia remota,,Antheminia,,remota,,species,,B1547:1,accepted,,,B1547:1:33,Antheminia,,,,,Pentatomidae,,Antheminia,,Heteroptera | Pentatomidae | Antheminia,remota,,,,,
-B1547:1:35,Neottiglossa,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Neottiglossa,,Heteroptera | Pentatomidae,Neottiglossa,,,2078911,,2078911
-B1547:1:36,Neottiglossa tumidifrons,,Neottiglossa,,tumidifrons,,species,,B1547:1,accepted,,,B1547:1:35,Neottiglossa,,,,,Pentatomidae,,Neottiglossa,,Heteroptera | Pentatomidae | Neottiglossa,tumidifrons,,,2078917,,2078917
-B1547:1:37,Neottiglossa undata,,Neottiglossa,,undata,,species,,B1547:1,accepted,,,B1547:1:35,Neottiglossa,,,,,Pentatomidae,,Neottiglossa,,Heteroptera | Pentatomidae | Neottiglossa,undata,,,2078915,,2078915
-B1547:1:38,Brochymena,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Brochymena,,Heteroptera | Pentatomidae,Brochymena,,,2079086,,2079086
-B1547:1:39,Brochymena affinis,,Brochymena,,affinis,,species,,B1547:1,accepted,,,B1547:1:38,Brochymena,,,,,Pentatomidae,,Brochymena,,Heteroptera | Pentatomidae | Brochymena,affinis,,,2079087,,2079087
-B1547:1:40,Brochymena quadripustulata,,Brochymena,,quadripustulata,,species,,B1547:1,accepted,,,B1547:1:38,Brochymena,,,,,Pentatomidae,,Brochymena,,Heteroptera | Pentatomidae | Brochymena,quadripustulata,,,2079112,,2079112
-B1547:1:41,Euschistus,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Euschistus,,Heteroptera | Pentatomidae,Euschistus,,,2079059,,2079059
-B1547:1:42,Euschistus conspersus,,Euschistus,,conspersus,,species,,B1547:1,accepted,,,B1547:1:41,Euschistus,,,,,Pentatomidae,,Euschistus,,Heteroptera | Pentatomidae | Euschistus,conspersus,,,2079067,,2079067
-B1547:1:43,Euschistus variolarius,,Euschistus,,variolarius,,species,,B1547:1,accepted,,,B1547:1:41,Euschistus,,,,,Pentatomidae,,Euschistus,,Heteroptera | Pentatomidae | Euschistus,variolarius,,,2079065,,2079065
-B1547:1:44,Halyomorpha,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Halyomorpha,,Heteroptera | Pentatomidae,Halyomorpha,,,4404357,,4404357
-B1547:1:45,Halyomorpha halys,,Halyomorpha,,halys,,species,,B1547:1,accepted,,,B1547:1:44,Halyomorpha,,,,,Pentatomidae,,Halyomorpha,,Heteroptera | Pentatomidae | Halyomorpha,halys,,,4485843,,4485843
+B1547:1:35,Neottiglossa,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Neottiglossa,,Heteroptera | Pentatomidae,Neottiglossa,,QKRQ3,2078911,QKRQ3,2078911
+B1547:1:36,Neottiglossa tumidifrons,,Neottiglossa,,tumidifrons,,species,,B1547:1,accepted,,,B1547:1:35,Neottiglossa,,,,,Pentatomidae,,Neottiglossa,,Heteroptera | Pentatomidae | Neottiglossa,tumidifrons,,QKRQN,2078917,QKRQN,2078917
+B1547:1:37,Neottiglossa undata,,Neottiglossa,,undata,,species,,B1547:1,accepted,,,B1547:1:35,Neottiglossa,,,,,Pentatomidae,,Neottiglossa,,Heteroptera | Pentatomidae | Neottiglossa,undata,,QKRQH,2078915,QKRQH,2078915
+B1547:1:38,Brochymena,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Brochymena,,Heteroptera | Pentatomidae,Brochymena,,M7BT3,2079086,M7BT3,2079086
+B1547:1:39,Brochymena affinis,,Brochymena,,affinis,,species,,B1547:1,accepted,,,B1547:1:38,Brochymena,,,,,Pentatomidae,,Brochymena,,Heteroptera | Pentatomidae | Brochymena,affinis,,M7BT6,2079087,M7BT6,2079087
+B1547:1:40,Brochymena quadripustulata,,Brochymena,,quadripustulata,,species,,B1547:1,accepted,,,B1547:1:38,Brochymena,,,,,Pentatomidae,,Brochymena,,Heteroptera | Pentatomidae | Brochymena,quadripustulata,,M7BX3,2079112,M7BX3,2079112
+B1547:1:41,Euschistus,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Euschistus,,Heteroptera | Pentatomidae,Euschistus,,P6L5J,2079059,P6L5J,2079059
+B1547:1:42,Euschistus conspersus,,Euschistus,,conspersus,,species,,B1547:1,accepted,,,B1547:1:41,Euschistus,,,,,Pentatomidae,,Euschistus,,Heteroptera | Pentatomidae | Euschistus,conspersus,,P6L6L,2079067,P6L6L,2079067
+B1547:1:43,Euschistus variolarius,,Euschistus,,variolarius,,species,,B1547:1,accepted,,,B1547:1:41,Euschistus,,,,,Pentatomidae,,Euschistus,,Heteroptera | Pentatomidae | Euschistus,variolarius,,P6LCX,2079065,P6LCX,2079065
+B1547:1:44,Halyomorpha,,,,,,genus,,B1547:1,accepted,,,B1547:1:2,Pentatomidae,,,,,Pentatomidae,,Halyomorpha,,Heteroptera | Pentatomidae,Halyomorpha,,PJGWH,4404357,PJGWH,4404357
+B1547:1:45,Halyomorpha halys,,Halyomorpha,,halys,,species,,B1547:1,accepted,,,B1547:1:44,Halyomorpha,,,,,Pentatomidae,,Halyomorpha,,Heteroptera | Pentatomidae | Halyomorpha,halys,,PJGX6,4485843,PJGX6,4485843
 B1547:1:46,Acanthosomatidae,,,,,,family,,B1547:1,accepted,,,B1547:1:1,Heteroptera,,,,,Acanthosomatidae,,,,Heteroptera,Acanthosomatidae,,7NFSF,4303,7NFSF,4303
 B1547:1:47,Elasmucha,,,,,,genus,,B1547:1,accepted,,,B1547:1:46,Acanthosomatidae,,,,,Acanthosomatidae,,Elasmucha,,Heteroptera | Acanthosomatidae,Elasmucha,,7NYBN,2079257,7NYBN,2079257
 B1547:1:48,Elasmucha lateralis,,Elasmucha,,lateralis,,species,,B1547:1,accepted,,,B1547:1:47,Elasmucha,,,,,Acanthosomatidae,,Elasmucha,,Heteroptera | Acanthosomatidae | Elasmucha,lateralis,,7TGC4,2079259,7TGC4,2079259

@@ -1,38 +1,38 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
-B2853:1:1,Corisa Latr.,Latr.,,,,,genus,,B2853:1,accepted,,,,,,,,,,,Corisa,,,Corisa Latr.,,,9591373,,5156062
+B2853:1:1,Corisa Latr.,Latr.,,,,,genus,,B2853:1,accepted,,,,,,,,,,,Corisa,,,Corisa Latr.,,MMF99,9591373,62N2S,5156062
 B2853:1:2,Macrocorisa Thoms.,Thoms.,Corisa,,,,subgenus,,B2853:1,accepted,,,B2853:1:1,Corisa Latr.,,,,,,,Corisa,Macrocorisa,Corisa,Macrocorisa Thoms.,,,,,
-B2853:1:3,Corisa dentipes Thoms.,Thoms.,Corisa,Macrocorisa,dentipes,,species,,B2853:1,accepted,,,B2853:1:2,Macrocorisa Thoms.,,,,,,,Corisa,Macrocorisa,Corisa | Macrocorisa,dentipes Thoms.,,,9600350,,5156066
-B2853:1:4,Corisa geoffroyi Leach,Leach,Corisa,Macrocorisa,geoffroyi,,species,,B2853:1,accepted,,,B2853:1:2,Macrocorisa Thoms.,,,,,,,Corisa,Macrocorisa,Corisa | Macrocorisa,Geoffroyi Leach,,,6096725,,5156063
-B2853:1:5,Corisa atomaria Illig.,Illig.,Corisa,Macrocorisa,atomaria,,species,,B2853:1,accepted,,,B2853:1:2,Macrocorisa Thoms.,,,,,,,Corisa,Macrocorisa,Corisa | Macrocorisa,atomaria Illig.,,,9013301,,5156064
-B2853:1:6,Callicorisa B. White,B. White,Corisa,,,,subgenus,,B2853:1,accepted,,,B2853:1:1,Corisa Latr.,,,,,,,Corisa,Callicorisa,Corisa,Callicorisa B. White,,,,,
-B2853:1:7,Corisa concinna Fieb.,Fieb.,Corisa,Callicorisa,concinna,,species,,B2853:1,accepted,,,B2853:1:6,Callicorisa B. White,,,,,,,Corisa,Callicorisa,Corisa | Callicorisa,concinna Fieb.,,,6547328,,4485394
-B2853:1:8,Corisa praeusta Fieb.,Fieb.,Corisa,Callicorisa,praeusta,,species,,B2853:1,accepted,,,B2853:1:6,Callicorisa B. White,,,,,,,Corisa,Callicorisa,Corisa | Callicorisa,praeusta Fieb.,,6B58J|5WW4M|6B58J,2049805,5WW4M,2049804
+B2853:1:3,Corisa dentipes Thoms.,Thoms.,Corisa,Macrocorisa,dentipes,,species,,B2853:1,accepted,,,B2853:1:2,Macrocorisa Thoms.,,,,,,,Corisa,Macrocorisa,Corisa | Macrocorisa,dentipes Thoms.,,MMF9P,9600350,YFK8,5156066
+B2853:1:4,Corisa geoffroyi Leach,Leach,Corisa,Macrocorisa,geoffroyi,,species,,B2853:1,accepted,,,B2853:1:2,Macrocorisa Thoms.,,,,,,,Corisa,Macrocorisa,Corisa | Macrocorisa,Geoffroyi Leach,,MMFFB,6096725,YFL6,5156063
+B2853:1:5,Corisa atomaria Illig.,Illig.,Corisa,Macrocorisa,atomaria,,species,,B2853:1,accepted,,,B2853:1:2,Macrocorisa Thoms.,,,,,,,Corisa,Macrocorisa,Corisa | Macrocorisa,atomaria Illig.,,V9G7G,9013301,YFJZ,5156064
+B2853:1:6,Callicorisa B. White,B. White,Corisa,,,,subgenus,,B2853:1,accepted,,,B2853:1:1,Corisa Latr.,,,,,,,Corisa,Callicorisa,Corisa,Callicorisa B. White,,M9SXQ,,62J9W,
+B2853:1:7,Corisa concinna Fieb.,Fieb.,Corisa,Callicorisa,concinna,,species,,B2853:1,accepted,,,B2853:1:6,Callicorisa B. White,,,,,,,Corisa,Callicorisa,Corisa | Callicorisa,concinna Fieb.,,MMFC6,6547328,75ND8,4485394
+B2853:1:8,Corisa praeusta Fieb.,Fieb.,Corisa,Callicorisa,praeusta,,species,,B2853:1,accepted,,,B2853:1:6,Callicorisa B. White,,,,,,,Corisa,Callicorisa,Corisa | Callicorisa,praeusta Fieb.,,6B58J,2049805,5WW4M,2049804
 B2853:1:9,Corisa socia Dougl. & Scott,Dougl. & Scott,Corisa,Callicorisa,socia,,species,,B2853:1,accepted,,,B2853:1:6,Callicorisa B. White,,,,,,,Corisa,Callicorisa,Corisa | Callicorisa,socia Dougl. & Scott,,,,,
-B2853:1:10,Corisa sodalis Dougl. & Scott,Dougl. & Scott,Corisa,Callicorisa,sodalis,,species,,B2853:1,accepted,,,B2853:1:6,Callicorisa B. White,,,,,,,Corisa,Callicorisa,Corisa | Callicorisa,sodalis Dougl. & Scott,,,11333858,,2049804
-B2853:1:11,Corisa B. White,B. White,Corisa,,,,subgenus,,B2853:1,accepted,,,B2853:1:1,Corisa Latr.,,,,,,,Corisa,Corisa,Corisa,Corisa B. White,,,,,
-B2853:1:12,Corisa lugubris Fieb.,Fieb.,Corisa,Corisa,lugubris,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,lugubris Fieb.,,,10573225,,4485450
-B2853:1:13,Corisa hieroglyphica Leon Duf.,Leon Duf.,Corisa,Corisa,hieroglyphica,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,hieroglyphica Leon Duf.,,,10141424,,4485427
-B2853:1:14,Corisa sahlbergi Fieb.,Fieb.,Corisa,Corisa,sahlbergi,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,Sahlbergi Fieb.,,,9629334,,4485375
-B2853:1:15,Corisa linnei Fieb.,Fieb.,Corisa,Corisa,linnei,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,Linnei Fieb.,,,9955409,,4485382
+B2853:1:10,Corisa sodalis Dougl. & Scott,Dougl. & Scott,Corisa,Callicorisa,sodalis,,species,,B2853:1,accepted,,,B2853:1:6,Callicorisa B. White,,,,,,,Corisa,Callicorisa,Corisa | Callicorisa,sodalis Dougl. & Scott,,MMJ6V,11333858,5WW4M,2049804
+B2853:1:11,Corisa B. White,B. White,Corisa,,,,subgenus,,B2853:1,accepted,,,B2853:1:1,Corisa Latr.,,,,,,,Corisa,Corisa,Corisa,Corisa B. White,,MMF99,,62N2S,
+B2853:1:12,Corisa lugubris Fieb.,Fieb.,Corisa,Corisa,lugubris,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,lugubris Fieb.,,MMFGY,10573225,6YMM3,4485450
+B2853:1:13,Corisa hieroglyphica Leon Duf.,Leon Duf.,Corisa,Corisa,hieroglyphica,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,hieroglyphica Leon Duf.,,MMFFW,10141424,7WVFY,4485427
+B2853:1:14,Corisa sahlbergi Fieb.,Fieb.,Corisa,Corisa,sahlbergi,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,Sahlbergi Fieb.,,MMFKL,9629334,3L5C7,4485375
+B2853:1:15,Corisa linnei Fieb.,Fieb.,Corisa,Corisa,linnei,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,Linnei Fieb.,,MMFGS,9955409,3L5BR,4485382
 B2853:1:16,Corisa vernicosa Wallengr.,Wallengr.,Corisa,Corisa,vernicosa,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,vernicosa Wallengr.,,,,,
-B2853:1:17,Corisa falleni Fieb.,Fieb.,Corisa,Corisa,falleni,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,Falleni Fieb.,,,4485410,,4485409
-B2853:1:18,Corisa distincta Fieb.,Fieb.,Corisa,Corisa,distincta,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,distincta Fieb.,,,4485416,,4485415
-B2853:1:19,Corisa striata Lin.,Lin.,Corisa,Corisa,striata,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,striata Lin.,,,9316741,,2049880
-B2853:1:20,Corisa moesta Fieb.,Fieb.,Corisa,Corisa,moesta,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,moesta Fieb.,,,4485386,,4485385
-B2853:1:21,Corisa limitata Fieb.,Fieb.,Corisa,Corisa,limitata,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,limitata Fieb.,,,6547330,,4485444
-B2853:1:22,Corisa semistriata Fieb.,Fieb.,Corisa,Corisa,semistriata,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,semistriata Fieb.,,,4485443,,4485442
+B2853:1:17,Corisa falleni Fieb.,Fieb.,Corisa,Corisa,falleni,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,Falleni Fieb.,,MMFDT,4485410,6YMHZ,4485409
+B2853:1:18,Corisa distincta Fieb.,Fieb.,Corisa,Corisa,distincta,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,distincta Fieb.,,MMFCJ,4485416,6YMHQ,4485415
+B2853:1:19,Corisa striata Lin.,Lin.,Corisa,Corisa,striata,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,striata Lin.,,MMFLT,9316741,6YMM4,2049880
+B2853:1:20,Corisa moesta Fieb.,Fieb.,Corisa,Corisa,moesta,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,moesta Fieb.,,MMFH6,4485386,3L5C2,4485385
+B2853:1:21,Corisa limitata Fieb.,Fieb.,Corisa,Corisa,limitata,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,limitata Fieb.,,MMFGM,6547330,6YMJR,4485444
+B2853:1:22,Corisa semistriata Fieb.,Fieb.,Corisa,Corisa,semistriata,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,semistriata Fieb.,,MMFL3,4485443,6YMLJ,4485442
 B2853:1:23,Corisa pallidula J. Sahlb.,J. Sahlb.,Corisa,Corisa,pallidula,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,pallidula J. Sahlb.,,,,,
-B2853:1:24,Corisa nigrolineata Fieb.,Fieb.,Corisa,Corisa,nigrolineata,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,nigrolineata Fieb.,,,4485422,,4485421
-B2853:1:25,Corisa fabricii Fieb.,Fieb.,Corisa,Corisa,fabricii,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,Fabricii Fieb.,,,10631221,,4485421
-B2853:1:26,Corisa fossarum Leach,Leach,Corisa,Corisa,fossarum,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,fossarum Leach,,,5758682,,4485413
-B2853:1:27,Corisa prominula Thoms.,Thoms.,Corisa,Corisa,prominula,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,prominula Thoms.,,,11254268,,4485406
-B2853:1:28,Corisa hellensii Sahlb.,Sahlb.,Corisa,Corisa,hellensii,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,Hellensii Sahlb.,,,5758687,,4485437
+B2853:1:24,Corisa nigrolineata Fieb.,Fieb.,Corisa,Corisa,nigrolineata,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,nigrolineata Fieb.,,MMFHC,4485422,6YMMM,4485421
+B2853:1:25,Corisa fabricii Fieb.,Fieb.,Corisa,Corisa,fabricii,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,Fabricii Fieb.,,V9G7H,10631221,6YMMM,4485421
+B2853:1:26,Corisa fossarum Leach,Leach,Corisa,Corisa,fossarum,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,fossarum Leach,,MMHVY,5758682,6YMKF,4485413
+B2853:1:27,Corisa prominula Thoms.,Thoms.,Corisa,Corisa,prominula,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,prominula Thoms.,,MMJ4B,11254268,6YMLF,4485406
+B2853:1:28,Corisa hellensii Sahlb.,Sahlb.,Corisa,Corisa,hellensii,,species,,B2853:1,accepted,,,B2853:1:11,Corisa B. White,,,,,,,Corisa,Corisa,Corisa | Corisa,Hellensii Sahlb.,,MMHWX,5758687,6YMKT,4485437
 B2853:1:29,Arctocorisa,,Corisa,,,,subgenus,n. subg.,B2853:1,accepted,,,B2853:1:1,Corisa Latr.,,,,,,,Corisa,Arctocorisa,Corisa,Arctocorisa n. subg.,,32C5,,32C5,
 B2853:1:30,Corisa variegata Wallengr.,Wallengr.,Corisa,Arctocorisa,variegata,,species,,B2853:1,accepted,,,B2853:1:29,Arctocorisa,,,,,,,Corisa,Arctocorisa,Corisa | Arctocorisa,variegata Wallengr.,,,,,
-B2853:1:31,Corisa carinata Sahlb.,Sahlb.,Corisa,Arctocorisa,carinata,,species,,B2853:1,accepted,,,B2853:1:29,Arctocorisa,,,,,,,Corisa,Arctocorisa,Corisa | Arctocorisa,carinata Sahlb.,,YFDY|5VRR7|YFDY,2049906,5VRR7,2049905
+B2853:1:31,Corisa carinata Sahlb.,Sahlb.,Corisa,Arctocorisa,carinata,,species,,B2853:1,accepted,,,B2853:1:29,Arctocorisa,,,,,,,Corisa,Arctocorisa,Corisa | Arctocorisa,carinata Sahlb.,,YFDY,2049906,5VRR7,2049905
 B2853:1:32,Glaenocorisa Thoms.,Thoms.,Corisa,,,,subgenus,,B2853:1,accepted,,,B2853:1:1,Corisa Latr.,,,,,,,Corisa,Glaenocorisa,Corisa,Glaenocorisa Thoms.,,4NR7,,4NR7,
 B2853:1:33,Oreinocorixa B. White 1873,B. White 1873,Corisa,Glaenocorisa,,,subgenus,,B2853:1,synonym,B2853:1:32,Glaenocorisa Thoms.,,,,,,,,,Corisa,Oreinocorixa,Corisa,Oreinocorixa B. White 1873,,,,,
-B2853:1:34,Corisa cavifrons Thoms.,Thoms.,Corisa,Glaenocorisa,cavifrons,,species,,B2853:1,accepted,,,B2853:1:32,Glaenocorisa Thoms.,,,,,,,Corisa,Glaenocorisa,Corisa | Glaenocorisa,cavifrons Thoms.,,YFDZ|5HGV7|YFDZ,2049774,5HGV7,6261371
+B2853:1:34,Corisa cavifrons Thoms.,Thoms.,Corisa,Glaenocorisa,cavifrons,,species,,B2853:1,accepted,,,B2853:1:32,Glaenocorisa Thoms.,,,,,,,Corisa,Glaenocorisa,Corisa | Glaenocorisa,cavifrons Thoms.,,YFDZ,2049774,5HGV7,6261371
 B2853:1:35,Cymatia Flor.,Flor.,Corisa,,,,subgenus,,B2853:1,accepted,,,B2853:1:1,Corisa Latr.,,,,,,,Corisa,Cymatia,Corisa,Cymatia Flor.,,62PRB,,62PRB,
-B2853:1:36,Corisa bonsdorffii Sahlb.,Sahlb.,Corisa,Cymatia,bonsdorffii,,species,,B2853:1,accepted,,,B2853:1:35,Cymatia Flor.,,,,,,,Corisa,Cymatia,Corisa | Cymatia,Bonsdorffii Sahlb.,,,12301033,,5866462
-B2853:1:37,Corisa coleoptrata Fabr.,Fabr.,Corisa,Cymatia,coleoptrata,,species,,B2853:1,accepted,,,B2853:1:35,Cymatia Flor.,,,,,,,Corisa,Cymatia,Corisa | Cymatia,coleoptrata Fabr.,,,10181878,,2049918
+B2853:1:36,Corisa bonsdorffii Sahlb.,Sahlb.,Corisa,Cymatia,bonsdorffii,,species,,B2853:1,accepted,,,B2853:1:35,Cymatia Flor.,,,,,,,Corisa,Cymatia,Corisa | Cymatia,Bonsdorffii Sahlb.,,MMFBB,12301033,335T2,5866462
+B2853:1:37,Corisa coleoptrata Fabr.,Fabr.,Corisa,Cymatia,coleoptrata,,species,,B2853:1,accepted,,,B2853:1:35,Cymatia Flor.,,,,,,,Corisa,Cymatia,Corisa | Cymatia,coleoptrata Fabr.,,MMHSG,10181878,335T3,2049918

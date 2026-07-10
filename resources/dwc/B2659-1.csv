@@ -1,8 +1,8 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B2659:1:1,Fulvius Stål 1862,Stål 1862,,,,,genus,,B2659:1,accepted,,,,,,,,,,,Fulvius,,,Fulvius Stål 1862,,4LCX,2009917,4LCX,2009917
-B2659:1:2,Teratodella Reut. 1875,Reut. 1875,,,,,genus,,B2659:1,synonym,B2659:1:1,Fulvius Stål 1862,,,,,,,,,Teratodella,,,Teratodella Reut. 1875,,,4289933,,2009917
-B2659:1:3,Pamerocoris Uhler 1878,Uhler 1878,,,,,genus,,B2659:1,synonym,B2659:1:1,Fulvius Stål 1862,,,,,,,,,Pamerocoris,,,Pamerocoris Uhler 1878,,,4289934,,2009917
-B2659:1:4,Camelocapsus Reut. 1878,Reut. 1878,,,,,genus,,B2659:1,synonym,B2659:1:1,Fulvius Stål 1862,,,,,,,,,Camelocapsus,,,Camelocapsus Reut. 1878,,,4776727,,2009917
+B2659:1:2,Teratodella Reut. 1875,Reut. 1875,,,,,genus,,B2659:1,synonym,B2659:1:1,Fulvius Stål 1862,,,,,,,,,Teratodella,,,Teratodella Reut. 1875,,TJPP9,4289933,4LCX,2009917
+B2659:1:3,Pamerocoris Uhler 1878,Uhler 1878,,,,,genus,,B2659:1,synonym,B2659:1:1,Fulvius Stål 1862,,,,,,,,,Pamerocoris,,,Pamerocoris Uhler 1878,,RQQPS,4289934,4LCX,2009917
+B2659:1:4,Camelocapsus Reut. 1878,Reut. 1878,,,,,genus,,B2659:1,synonym,B2659:1:1,Fulvius Stål 1862,,,,,,,,,Camelocapsus,,,Camelocapsus Reut. 1878,,LYZZN,4776727,4LCX,2009917
 B2659:1:5,Fulvius brevicornis,,Fulvius,,brevicornis,,species,m.,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,brevicornis m.,,6K49B,2009918,6JRXD,4487282
 B2659:1:6,Fulvius oxycarenoides Reut. 1878,Reut. 1878,Fulvius,,oxycarenoides,,species,,B2659:1,accepted,,,B2659:1:1,Fulvius Stål 1862,,,,,,,Fulvius,,Fulvius,oxycarenoides Reut. 1878,,6JRYN,4487284,6JRYN,4487284
 B2659:1:7,Cimex punctum album Rossi 1790,Rossi 1790,Cimex,,punctum album,,species,nec Pollich,B2659:1,synonym,B2659:1:6,Fulvius oxycarenoides Reut. 1878,,,,,,,,,Fulvius,,Fulvius,Cimex Punctum album Rossi 1790 nec Pollich,,,8993992,,9210083
