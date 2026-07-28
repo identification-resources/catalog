@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B487:3:1,Formicidae,,,,,,family,,B487:3,accepted,,,,,,,,,Formicidae,,,,,Formicidae,,CLRKP,4342,CLRKP,4342
 B487:3:2,Myrmicinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Myrmicinae,,,Formicidae,Myrmicinae,,CMD7Z,,CMD7Z,
-B487:3:3,Anergates,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Anergates,,Formicidae | Myrmicinae,Anergates,,VZN,1314823,63V54,1314823
+B487:3:3,Anergates,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Anergates,,Formicidae | Myrmicinae,Anergates,,L9K3Z,1314823,63V54,1314823
 B487:3:4,Anergates atratulus,,Anergates,,atratulus,,species,,B487:3,accepted,,,B487:3:3,Anergates,,,,,Formicidae,Myrmicinae,Anergates,,Formicidae | Myrmicinae | Anergates,atratulus,,DY5M,1314824,CMV7J,1314824
 B487:3:5,Formicoxenus,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Formicoxenus,,Formicidae | Myrmicinae,Formicoxenus,,4KSR,1317460,4KSR,1317460
 B487:3:6,Formicoxenus nitidulus,,Formicoxenus,,nitidulus,,species,,B487:3,accepted,,,B487:3:5,Formicoxenus,,,,,Formicidae,Myrmicinae,Formicoxenus,,Formicidae | Myrmicinae | Formicoxenus,nitidulus,,6JHKL,1317464,6JHKL,1317464
@@ -29,12 +29,12 @@ B487:3:27,Myrmecina,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formic
 B487:3:28,Myrmecina graminicola,,Myrmecina,,graminicola,,species,,B487:3,accepted,,,B487:3:27,Myrmecina,,,,,Formicidae,Myrmicinae,Myrmecina,,Formicidae | Myrmicinae | Myrmecina,graminicola,,73RLM,1315215,73RLM,1315215
 B487:3:29,Stenamma,,,,,,genus,,B487:3,accepted,,,B487:3:2,Myrmicinae,,,,,Formicidae,Myrmicinae,Stenamma,,Formicidae | Myrmicinae,Stenamma,,7MDH,9138092,7MDH,9138092
 B487:3:30,Stenamma debile,,Stenamma,,debile,,species,,B487:3,accepted,,,B487:3:29,Stenamma,,,,,Formicidae,Myrmicinae,Stenamma,,Formicidae | Myrmicinae | Stenamma,debile,,4ZTQB,1316675,4ZTQB,1316675
-B487:3:31,Stenamma westwoodi,,Stenamma,,westwoodi,,species,,B487:3,accepted,,,B487:3:29,Stenamma,,,,,Formicidae,Myrmicinae,Stenamma,,Formicidae | Myrmicinae | Stenamma,westwoodi,,V4THG,1316667,4ZTRD,1316667
+B487:3:31,Stenamma westwoodi,,Stenamma,,westwoodi,,species,,B487:3,accepted,,,B487:3:29,Stenamma,,,,,Formicidae,Myrmicinae,Stenamma,,Formicidae | Myrmicinae | Stenamma,westwoodi,,4ZTRD,1316667,4ZTRD,1316667
 B487:3:32,Ponerinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Ponerinae,,,Formicidae,Ponerinae,,CMJV8,,CMJV8,
 B487:3:33,Ponera,,,,,,genus,,B487:3,accepted,,,B487:3:32,Ponerinae,,,,,Formicidae,Ponerinae,Ponera,,Formicidae | Ponerinae,Ponera,,63NZ7,1317227,63NZ7,1317227
 B487:3:34,Ponera coarctata,,Ponera,,coarctata,,species,,B487:3,accepted,,,B487:3:33,Ponera,,,,,Formicidae,Ponerinae,Ponera,,Formicidae | Ponerinae | Ponera,coarctata,,4LTMW,5035388,4LTMW,5035388
 B487:3:35,Dolichoderinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Dolichoderinae,,,Formicidae,Dolichoderinae,,CLNKM,,CLNKM,
-B487:3:36,Tapinoma,,,,,,genus,,B487:3,accepted,,,B487:3:35,Dolichoderinae,,,,,Formicidae,Dolichoderinae,Tapinoma,,Formicidae | Dolichoderinae,Tapinoma,,7SPC,1316784,7SPC,1316784
+B487:3:36,Tapinoma,,,,,,genus,,B487:3,accepted,,,B487:3:35,Dolichoderinae,,,,,Formicidae,Dolichoderinae,Tapinoma,,Formicidae | Dolichoderinae,Tapinoma,,P8H66,1316784,P8H66,1316784
 B487:3:37,Tapinoma ambiguum,,Tapinoma,,ambiguum,,species,,B487:3,accepted,,,B487:3:36,Tapinoma,,,,,Formicidae,Dolichoderinae,Tapinoma,,Formicidae | Dolichoderinae | Tapinoma,ambiguum,,54T5Z,1316828,CMXS2,1316828
 B487:3:38,Tapinoma erraticum,,Tapinoma,,erraticum,,species,,B487:3,accepted,,,B487:3:36,Tapinoma,,,,,Formicidae,Dolichoderinae,Tapinoma,,Formicidae | Dolichoderinae | Tapinoma,erraticum,,7BJPJ,1316800,7BJPJ,1316800
 B487:3:39,Formicinae,,,,,,subfamily,,B487:3,accepted,,,B487:3:1,Formicidae,,,,,Formicidae,Formicinae,,,Formicidae,Formicinae,,CLWPD,,CLWPD,

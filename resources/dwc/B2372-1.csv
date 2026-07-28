@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B2372:1:1,Hemiptera,,,,,,order,,B2372:1,accepted,,,,,,,,Hemiptera,,,,,,Hemiptera,,BXVWV,809,BXVWV,809
 B2372:1:2,Homoptera,,,,,,suborder,,B2372:1,accepted,,,B2372:1:1,Hemiptera,,,,Hemiptera,,,,,Hemiptera,Homoptera,,94L4K,,92QPT,
-B2372:1:3,Heteroptera,,,,,,suborder,,B2372:1,accepted,,,B2372:1:1,Hemiptera,,,,Hemiptera,,,,,Hemiptera,Heteroptera,,C3Y9B,,C3Y9B,
+B2372:1:3,Heteroptera,,,,,,suborder,,B2372:1,accepted,,,B2372:1:1,Hemiptera,,,,Hemiptera,,,,,Hemiptera,Heteroptera,,BXWCX,,BXWCX,
 B2372:1:4,Gymnocerata,,,,,,infraorder,,B2372:1,accepted,,,B2372:1:3,Heteroptera,,,,Hemiptera,,,,,Hemiptera | Heteroptera,Gymnocerata,,,,,
 B2372:1:5,Hebridae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Hebridae,,,,Hemiptera | Heteroptera | Gymnocerata,Hebridae,,6252Q,4312,6252Q,4312
 B2372:1:6,Hydrometridae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Hydrometridae,,,,Hemiptera | Heteroptera | Gymnocerata,Hydrometridae,,B8R,7884,B8R,7884
@@ -11,7 +11,7 @@ B2372:1:9,Berytidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hem
 B2372:1:10,Lygaeidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Lygaeidae,,,,Hemiptera | Heteroptera | Gymnocerata,Lygeidae,,8NKMB,7888,8NKMB,7888
 B2372:1:11,Saldidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Saldidae,,,,Hemiptera | Heteroptera | Gymnocerata,Saldidae,,FWD,7896,FWD,7896
 B2372:1:12,Reduviidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Reduviidae,,,,Hemiptera | Heteroptera | Gymnocerata,Reduvidae,,FKV,4324,FKV,4324
-B2372:1:13,Phymatidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Phymatidae,,,,Hemiptera | Heteroptera | Gymnocerata,Phymatidae,,8NKP9,3265969,8PTG4,3265969
+B2372:1:13,Phymatidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Phymatidae,,,,Hemiptera | Heteroptera | Gymnocerata,Phymatidae,,625LD,3265969,K5L,3265969
 B2372:1:14,Aradidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Aradidae,,,,Hemiptera | Heteroptera | Gymnocerata,Aradidae,,BXVZ4,7877,BXVZ4,7877
 B2372:1:15,Tingididae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Tingididae,,,,Hemiptera | Heteroptera | Gymnocerata,Tingididae,,DBCF7,4289967,H9W,7899
 B2372:1:16,Cimicidae,,,,,,family,,B2372:1,accepted,,,B2372:1:4,Gymnocerata,,,,Hemiptera,Cimicidae,,,,Hemiptera | Heteroptera | Gymnocerata,Cimicidae,,7NGSF,9648,7NGSF,9648

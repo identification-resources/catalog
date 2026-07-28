@@ -2,7 +2,7 @@ scientificNameID,scientificName,scientificNameAuthorship,genericName,infrageneri
 B2604:1:1,"Limnoporus Stål, 1868","Stål, 1868",,,,,genus,,B2604:1,accepted,,,,,,,,,,,Limnoporus,,,"Limnoporus Stâl, 1868",,62YMD,2020446,62YMD,2020446
 B2604:1:2,"Limnoporus rufoscutellatus (Latreille, 1807)","(Latreille, 1807)",Limnoporus,,rufoscutellatus,,species,,B2604:1,accepted,,,B2604:1:1,"Limnoporus Stål, 1868",,,,,,,Limnoporus,,Limnoporus,"rufoscutellatus (Latreille, 1807)",,6QCKK,2020450,6QCKK,2020450
 B2604:1:3,"Gerris rufoscutellatus Latreille, 1807","Latreille, 1807",Gerris,,rufoscutellatus,,species,,B2604:1,synonym,B2604:1:2,"Limnoporus rufoscutellatus (Latreille, 1807)",,,,,,,,,Limnoporus,,Limnoporus,"Gerris rufoscutellatus Latreille, 1807",,6KFRY,5154132,6QCKK,2020450
-B2604:1:4,"Limnogonus Stål, 1868","Stål, 1868",,,,,genus,,B2604:1,accepted,,,,,,,,,,,Limnogonus,,,"Limnogonus Stâl, 1868",,CK9RX,2020455,CK9RX,2020455
+B2604:1:4,"Limnogonus Stål, 1868","Stål, 1868",,,,,genus,,B2604:1,accepted,,,,,,,,,,,Limnogonus,,,"Limnogonus Stâl, 1868",,62YJY,2020455,62YJY,2020455
 B2604:1:5,"Lamprotrechus Reuter, 1882","Reuter, 1882",,,,,genus,,B2604:1,synonym,B2604:1:4,"Limnogonus Stål, 1868",,,,,,,,,Lamprotrechus,,,"Lamprotrechus Reuter, 1882",,639KG,6007448,62YJY,2020455
 B2604:1:6,"Limnogonus leptocerus (Reuter, 1882)","(Reuter, 1882)",Limnogonus,,leptocerus,,species,,B2604:1,accepted,,,B2604:1:4,"Limnogonus Stål, 1868",,,,,,,Limnogonus,,Limnogonus,"leptocerus (Reuter, 1882)",,,,,
 B2604:1:7,"Lamprotrechus leptocera Reuter, 1882","Reuter, 1882",Lamprotrechus,,leptocera,,species,,B2604:1,synonym,B2604:1:6,"Limnogonus leptocerus (Reuter, 1882)",,,,,,,,,Limnogonus,,Limnogonus,"Lamprotrechus leptocera Reuter, 1882",,,,,
@@ -23,12 +23,12 @@ B2604:1:21,"Aquarius pausarius Curtis, 1835","Curtis, 1835",Aquarius,,pausarius,
 B2604:1:22,"Aquarius fasciatus Signoret, 1862","Signoret, 1862",Aquarius,,fasciatus,,species,,B2604:1,synonym,B2604:1:17,"Aquarius najas (de Geer, 1773)",,,,,,,,,Aquarius,,Aquarius,"fasciatus Signoret, 1862",,,,,
 B2604:1:23,"Aquarius cinereus (Puoton, 1869)","(Puoton, 1869)",Aquarius,,cinereus,,species,,B2604:1,accepted,,,B2604:1:9,"Aquarius Schellenberg, 1800",,,,,,,Aquarius,,Aquarius,"cinereus (Puoton, 1869)",,FZJ4,8358925,FZJ4,8358925
 B2604:1:24,"Hydrometra aptera var. cinerea Puton, 1869","Puton, 1869",Hydrometra,,aptera,cinerea,variety,,B2604:1,synonym,B2604:1:23,"Aquarius cinereus (Puoton, 1869)",,,,,,,,,Aquarius,,Aquarius,"Hydrometra aptera var. cinerea Puton, 1869",,PTTM8,9337458,FZJ4,8358925
-B2604:1:25,"Gerris Fabricius, 1794","Fabricius, 1794",,,,,genus,,B2604:1,accepted,,,,,,,,,,,Gerris,,,"Gerris Fabricius, 1794",,8NNWR,2008636,8NNWR,2008636
+B2604:1:25,"Gerris Fabricius, 1794","Fabricius, 1794",,,,,genus,,B2604:1,accepted,,,,,,,,,,,Gerris,,,"Gerris Fabricius, 1794",,4N84,2008636,4N84,2008636
 B2604:1:26,"Hydrometra Fab., 1803","Fab., 1803",,,,,genus,,B2604:1,synonym,B2604:1:25,"Gerris Fabricius, 1794",,,,,,,,,Hydrometra,,,"Hydrometra Fab., 1803",,4ZTP,2020474,4ZTP,2020474
 B2604:1:27,"Limnotrechus Stål, 1868","Stål, 1868",,,,,genus,,B2604:1,synonym,B2604:1:25,"Gerris Fabricius, 1794",,,,,,,,,Limnotrechus,,,"Limnotrechus Stâl, 1868",,62YM6,9143042,4N84,2008636
 B2604:1:28,"Gerris lateralis Schummel, 1832","Schummel, 1832",Gerris,,lateralis,,species,,B2604:1,accepted,,,B2604:1:25,"Gerris Fabricius, 1794",,,,,,,Gerris,,Gerris,"lateralis Schummel, 1832",,6KGCB,5758665,6KGCB,5758665
 B2604:1:29,Hydrometra thoracica Flor,Flor,Hydrometra,,thoracica,,species,nec Schumm.,B2604:1,synonym,B2604:1:28,"Gerris lateralis Schummel, 1832",,,,,,,,,Gerris,,Gerris,Hydrometra thoracica Flor nec Schumm.,,,,,
-B2604:1:30,"Hydrometra asper Fieber, 1861","Fieber, 1861",Hydrometra,,asper,,species,,B2604:1,synonym,B2604:1:28,"Gerris lateralis Schummel, 1832",,,,,,,,,Gerris,,Gerris,"Hydrometra asper Fieber, 1861",,PTTMQ,8867215,7V556,8209334
+B2604:1:30,"Hydrometra asper Fieber, 1861","Fieber, 1861",Hydrometra,,asper,,species,,B2604:1,synonym,B2604:1:28,"Gerris lateralis Schummel, 1832",,,,,,,,,Gerris,,Gerris,"Hydrometra asper Fieber, 1861",,VHNWD,8867215,7V556,8209334
 B2604:1:31,"Gerris thoracicus Schummel, 1832","Schummel, 1832",Gerris,,thoracicus,,species,,B2604:1,accepted,,,B2604:1:25,"Gerris Fabricius, 1794",,,,,,,Gerris,,Gerris,"thoracicus Schummel, 1832",,3FXB2,5758661,3FXB2,5758661
 B2604:1:32,"Gerris abbreviatus Fabricius, 1803","Fabricius, 1803",Gerris,,abbreviatus,,species,,B2604:1,synonym,B2604:1:31,"Gerris thoracicus Schummel, 1832",,,,,,,,,Gerris,,Gerris,"abbreviatus Fabricius, 1803",,,,,
 B2604:1:33,"Gerris plebejus Horvath, 1878","Horvath, 1878",Gerris,,plebejus,,species,,B2604:1,synonym,B2604:1:31,"Gerris thoracicus Schummel, 1832",,,,,,,,,Gerris,,Gerris,"plebejus Horvath, 1878",,,,,

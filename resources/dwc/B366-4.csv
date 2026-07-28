@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B366:4:1,"Sunius Stephens, 1833","Stephens, 1833",,,,,genus,,B366:4,accepted,,,,,,,,,,,Sunius,,,"Sunius Stephens, 1833",,8VS4N,1040107,8VS4N,1040107
 B366:4:2,"Hypomedon Mulsant & Rey, 1877","Mulsant & Rey, 1877",,,,,genus,,B366:4,synonym,B366:4:1,"Sunius Stephens, 1833",,,,,,,,,Hypomedon,,,"Hypomedon Mulsant & Rey, 1877",,8VSCG,4406726,8VSCG,4406726
-B366:4:3,Sunius,,Sunius,,,,subgenus,s. str.,B366:4,accepted,,,B366:4:1,"Sunius Stephens, 1833",,,,,,,Sunius,Sunius,Sunius,Sunius s. str.,,8VS4N,,8VS4N,
+B366:4:3,Sunius,,Sunius,,,,subgenus,s. str.,B366:4,accepted,,,B366:4:1,"Sunius Stephens, 1833",,,,,,,Sunius,Sunius,Sunius,Sunius s. str.,,8VS4Q,,8VS4Q,
 B366:4:4,"Sunius fallax (Lokay, 1919)","(Lokay, 1919)",Sunius,Sunius,fallax,,species,,B366:4,accepted,,,B366:4:3,Sunius,,,,,,,Sunius,Sunius,Sunius | Sunius,"fallax (Lokay, 1919)",,53GM7,10530983,53GM7,10530983
 B366:4:5,"Hypomedon fallax Lokay, 1919","Lokay, 1919",Hypomedon,,fallax,,species,,B366:4,synonym,B366:4:4,"Sunius fallax (Lokay, 1919)",,,,,,,,,Sunius,Sunius,Sunius | Sunius,"Hypomedon fallax Lokay, 1919",,,,,
 B366:4:6,"Hypomedon austriacus Coiffait, 1961","Coiffait, 1961",Hypomedon,,austriacus,,species,,B366:4,synonym,B366:4:4,"Sunius fallax (Lokay, 1919)",,,,,,,,,Sunius,Sunius,Sunius | Sunius,"Hypomedon austriacus Coiffait, 1961",,,8874810,,10530983

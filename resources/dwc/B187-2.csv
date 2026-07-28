@@ -1,9 +1,9 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B187:2:1,Alleculidae,,,,,,family,,B187:2,accepted,,,,,,,,,Alleculidae,,,,,ALLECULIDAE,,LBNMC,4724248,KVV3T,7857
-B187:2:2,Pseudocistela Crotch,Crotch,,,,,genus,,B187:2,accepted,,,B187:2:1,Alleculidae,,,,,Alleculidae,,Pseudocistela,,Alleculidae,Pseudocistela Crotch,,KVR5W,4990343,KVR5W,4990343
+B187:2:2,Pseudocistela Crotch,Crotch,,,,,genus,,B187:2,accepted,,,B187:2:1,Alleculidae,,,,,Alleculidae,,Pseudocistela,,Alleculidae,Pseudocistela Crotch,,VJ389,4990343,VJ389,4990343
 B187:2:3,Pseudocistela ceramboides (Linnaeus),(Linnaeus),Pseudocistela,,ceramboides,,species,,B187:2,accepted,,,B187:2:2,Pseudocistela Crotch,,,,,Alleculidae,,Pseudocistela,,Alleculidae | Pseudocistela,ceramboides (Linnaeus),,SFRJY,5750351,SFRJY,5750351
 B187:2:4,Prionychus Solier,Solier,,,,,genus,,B187:2,accepted,,,B187:2:1,Alleculidae,,,,,Alleculidae,,Prionychus,,Alleculidae,Prionychus Solier,,SBWN4,4405580,SBWN4,4405580
-B187:2:5,Prionychus fairmairei Reiche,Reiche,Prionychus,,fairmairei,,species,,B187:2,accepted,,,B187:2:4,Prionychus Solier,,,,,Alleculidae,,Prionychus,,Alleculidae | Prionychus,fairmairei Reiche,,SBWP2,4455010,SBWPB,4455012
+B187:2:5,Prionychus fairmairei Reiche,Reiche,Prionychus,,fairmairei,,species,,B187:2,accepted,,,B187:2:4,Prionychus Solier,,,,,Alleculidae,,Prionychus,,Alleculidae | Prionychus,fairmairei Reiche,,SBWP2,4455010,SBWP2,4455012
 B187:2:6,Prionychus ater (Fabricius),(Fabricius),Prionychus,,ater,,species,,B187:2,accepted,,,B187:2:4,Prionychus Solier,,,,,Alleculidae,,Prionychus,,Alleculidae | Prionychus,ater (Fabricius),,SBWNK,4455016,SBWNK,4455016
 B187:2:7,Isomira Mulsant,Mulsant,,,,,genus,,B187:2,accepted,,,B187:2:1,Alleculidae,,,,,Alleculidae,,Isomira,,Alleculidae,Isomira Mulsant,,PQKG8,4405755,PQKG8,4405755
 B187:2:8,Isomira murina (Linnaeus),(Linnaeus),Isomira,,murina,,species,,B187:2,accepted,,,B187:2:7,Isomira Mulsant,,,,,Alleculidae,,Isomira,,Alleculidae | Isomira,murina (Linnaeus),,PQKPP,4454903,PQKPP,4454903
@@ -12,6 +12,6 @@ B187:2:10,Gonodera luperus (Herbst),(Herbst),Gonodera,,luperus,,species,,B187:2,
 B187:2:11,Mycetochara Berthold,Berthold,,,,,genus,,B187:2,accepted,,,B187:2:1,Alleculidae,,,,,Alleculidae,,Mycetochara,,Alleculidae,Mycetochara Berthold,,DDM5V,5430862,DDM5V,5430862
 B187:2:12,Mycetochara humeralis (Fabricius),(Fabricius),Mycetochara,,humeralis,,species,,B187:2,accepted,,,B187:2:11,Mycetochara Berthold,,,,,Alleculidae,,Mycetochara,,Alleculidae | Mycetochara,humeralis (Fabricius),,QY2R8,5750384,QY2R8,5750384
 B187:2:13,Omophlus Solier,Solier,,,,,genus,,B187:2,accepted,,,B187:2:1,Alleculidae,,,,,Alleculidae,,Omophlus,,Alleculidae,Omophlus Solier,,DDM6B,8217797,DDM6B,8076218
-B187:2:14,Omophlus rufitarsis (Leske),(Leske),Omophlus,,rufitarsis,,species,,B187:2,accepted,,,B187:2:13,Omophlus Solier,,,,,Alleculidae,,Omophlus,,Alleculidae | Omophlus,rufitarsis (Leske),,RCZGC,4454951,RCZ5Z,7589771
+B187:2:14,Omophlus rufitarsis (Leske),(Leske),Omophlus,,rufitarsis,,species,,B187:2,accepted,,,B187:2:13,Omophlus Solier,,,,,Alleculidae,,Omophlus,,Alleculidae | Omophlus,rufitarsis (Leske),,RCZGC,4454951,RCZGC,7589771
 B187:2:15,Cteniopus Solier,Solier,,,,,genus,,B187:2,accepted,,,B187:2:1,Alleculidae,,,,,Alleculidae,,Cteniopus,,Alleculidae,Cteniopus Solier,,DDM5X,4405144,DDM5X,4405144
 B187:2:16,Cteniopus sulphureus (Linnaeus),(Linnaeus),Cteniopus,,sulphureus,,species,,B187:2,accepted,,,B187:2:15,Cteniopus Solier,,,,,Alleculidae,,Cteniopus,,Alleculidae | Cteniopus,sulphureus (Linnaeus),,N4FYL,4454996,N4FYL,4454996

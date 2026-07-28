@@ -1,7 +1,7 @@
 scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
 B1779:1:1,Eristalis,,,,,,genus,,B1779:1,accepted,,,,,,,,,,,Eristalis,,,Eristalis,,BXZTZ,1491190,BXZTZ,1491190
-B1779:1:2,Eristalis,,Eristalis,,,,subgenus,,B1779:1,accepted,,,B1779:1:1,Eristalis,,,,,,,Eristalis,Eristalis,Eristalis,Eristalis,,BXZTZ,,BXZTZ,
-B1779:1:3,Eristalis tenax,,Eristalis,Eristalis,tenax,,species,,B1779:1,accepted,,,B1779:1:2,Eristalis,,,,,,,Eristalis,Eristalis,Eristalis | Eristalis,tenax,,3B7X4,1541217,3B7X4,1541217
+B1779:1:2,Eristalis,,Eristalis,,,,subgenus,,B1779:1,accepted,,,B1779:1:1,Eristalis,,,,,,,Eristalis,Eristalis,Eristalis,Eristalis,,BXZV3,,BXZV3,
+B1779:1:3,Eristalis tenax,,Eristalis,Eristalis,tenax,,species,,B1779:1,accepted,,,B1779:1:2,Eristalis,,,,,,,Eristalis,Eristalis,Eristalis | Eristalis,tenax,,VL4TP,1541217,VL4TP,1541217
 B1779:1:4,Eoseristalis,,Eristalis,,,,subgenus,,B1779:1,accepted,,,B1779:1:1,Eristalis,,,,,,,Eristalis,Eoseristalis,Eristalis,Eoseristalis,,BYCK6,,BYCK6,
 B1779:1:5,Eristalis pertinax,,Eristalis,Eoseristalis,pertinax,,species,,B1779:1,accepted,,,B1779:1:4,Eoseristalis,,,,,,,Eristalis,Eoseristalis,Eristalis | Eoseristalis,pertinax,,6GQXW,1541116,6GQXW,1541116
 B1779:1:6,Eristalis arbustorum,,Eristalis,Eoseristalis,arbustorum,,species,,B1779:1,accepted,,,B1779:1:4,Eoseristalis,,,,,,,Eristalis,Eoseristalis,Eristalis | Eoseristalis,arbustorum,,3B7LX,1541146,3B7LX,1541146
