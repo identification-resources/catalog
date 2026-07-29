@@ -15740,5 +15740,65 @@
     ],
     "id": "B2866:1",
     "taxonCount": 22
+  },
+  "B2874:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus"
+    ],
+    "catalog": {
+      "title": [
+        "Clé des genres de Halictidae de Belgique"
+      ],
+      "pages": "1-6",
+      "taxon": [
+        "Halictidae"
+      ],
+      "target_taxa": [
+        "genus",
+        "subgenus"
+      ]
+    },
+    "id": "B2874:1",
+    "taxonCount": 15
+  },
+  "B2874:2": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "7-117"
+    },
+    "id": "B2874:2",
+    "taxonCount": 83
+  },
+  "B2875:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2875:1",
+    "taxonCount": 6
+  },
+  "B2876:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "Bestimmungsschlüssel für die Männchen und Weibchen"
+      ],
+      "pages": "9-11"
+    },
+    "id": "B2876:1",
+    "taxonCount": 13
   }
 }
