@@ -1,0 +1,9 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2920:1:1,Stenaptula,,,,,,genus,n. gen.,B2920:1,accepted,,,,,,,,,,,Stenaptula,,,Stenaptula n. gen.,,8NZGY,4777205,8NZGY,4777205
+B2920:1:2,Melanocoryphus,,,,,,genus,,B2920:1,accepted,,,,,,,,,,,Melanocoryphus,,,Melanocoryphus,,8NV59,4405257,8NV59,4405257
+B2920:1:3,Melanocoryphus superbus-group,,Melanocoryphus,,,,group,,B2920:1,accepted,,,B2920:1:2,Melanocoryphus,,,,,,,Melanocoryphus,,Melanocoryphus,superbus,,,,,
+B2920:1:4,Melanocoryphus albomaculatus-group,,Melanocoryphus,,,,group,,B2920:1,accepted,,,B2920:1:2,Melanocoryphus,,,,,,,Melanocoryphus,,Melanocoryphus,albomaculatus,,,,,
+B2920:1:5,Melanocoryphus tristrami (Dgl. Sc.),(Dgl. Sc.),Melanocoryphus,,tristrami,,species,,B2920:1,accepted,,,B2920:1:4,Melanocoryphus albomaculatus-group,,,,,,,Melanocoryphus,,Melanocoryphus | Melanocoryphus albomaculatus-group,tristrami (DGL. SC.),,6QXGY,4486291,6QXGY,4486291
+B2920:1:6,Psileula,,,,,,genus,n. gen.,B2920:1,accepted,,,,,,,,,,,Psileula,,,Psileula n. gen.,,8NYC8,4783756,8NYC8,4783756
+B2920:1:7,Apterola Muls. Rey,Muls. Rey,,,,,genus,,B2920:1,accepted,,,,,,,,,,,Apterola,,,Apterola MULS. REY,,8NMGQ,4406342,8NMGQ,4406342
+B2920:1:8,Lygaeosoma Spin.,Spin.,,,,,genus,,B2920:1,accepted,,,,,,,,,,,Lygaeosoma,,,Lygaeosoma SPIN.,,8NTS2,4406815,8NTS2,4406815

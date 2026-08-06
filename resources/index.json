@@ -5186,6 +5186,16 @@
     "id": "B491:1",
     "taxonCount": 338
   },
+  "B498:1": {
+    "levels": [
+      "family",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B498:1",
+    "taxonCount": 27
+  },
   "B500:1": {
     "levels": [
       "family",
@@ -15807,5 +15817,499 @@
     ],
     "id": "B2877:1",
     "taxonCount": 90
+  },
+  "B2880:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2880:1",
+    "taxonCount": 8
+  },
+  "B2881:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2881:1",
+    "taxonCount": 14
+  },
+  "B2883:1": {
+    "levels": [
+      "genus"
+    ],
+    "catalog": {
+      "pages": "298-299",
+      "taxon": [
+        "Nabicula",
+        "Kalmanius",
+        "Dolichonabis"
+      ],
+      "target_taxa": [
+        "genus"
+      ]
+    },
+    "id": "B2883:1",
+    "taxonCount": 3
+  },
+  "B2883:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "299-299"
+    },
+    "id": "B2883:2",
+    "taxonCount": 7
+  },
+  "B2884:1": {
+    "levels": [
+      "family",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2884:1",
+    "taxonCount": 23
+  },
+  "B2885:1": {
+    "levels": [
+      "family",
+      "subfamily"
+    ],
+    "catalog": {
+      "title": [
+        "Key to subfamilies of Rhopalidae"
+      ],
+      "pages": "366-366",
+      "taxon": [
+        "Rhopalidae"
+      ],
+      "target_taxa": [
+        "subfamily"
+      ]
+    },
+    "id": "B2885:1",
+    "taxonCount": 3
+  },
+  "B2885:2": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "catalog": {
+      "title": [
+        "Key to genera of Rhopalidae"
+      ],
+      "pages": "366-368",
+      "taxon": [
+        "Rhopalidae"
+      ],
+      "target_taxa": [
+        "genus"
+      ]
+    },
+    "id": "B2885:2",
+    "taxonCount": 36
+  },
+  "B2885:3": {
+    "levels": [
+      "subfamily",
+      "tribe"
+    ],
+    "catalog": {
+      "title": [
+        "Key to tribes of Rhopalinae"
+      ],
+      "pages": "368-369",
+      "taxon": [
+        "Rhopalinae"
+      ],
+      "target_taxa": [
+        "tribe"
+      ]
+    },
+    "id": "B2885:3",
+    "taxonCount": 10
+  },
+  "B2887:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2887:1",
+    "taxonCount": 10
+  },
+  "B2889:1": {
+    "levels": [
+      "subfamily",
+      "tribe"
+    ],
+    "catalog": {
+      "pages": "71-73",
+      "taxon": [
+        "Pentatominae"
+      ],
+      "target_taxa": [
+        "tribe"
+      ]
+    },
+    "id": "B2889:1",
+    "taxonCount": 9
+  },
+  "B2889:2": {
+    "levels": [
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "73-99",
+      "taxon": [
+        "Sciocorini"
+      ]
+    },
+    "id": "B2889:2",
+    "taxonCount": 60
+  },
+  "B2889:3": {
+    "levels": [
+      "tribe",
+      "genus",
+      "species",
+      "form"
+    ],
+    "catalog": {
+      "pages": "99-134",
+      "taxon": [
+        "Strachiini"
+      ]
+    },
+    "id": "B2889:3",
+    "taxonCount": 120
+  },
+  "B2893:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "66-67"
+    },
+    "id": "B2893:1",
+    "taxonCount": 9
+  },
+  "B2893:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "67-67",
+      "language": [
+        "it"
+      ]
+    },
+    "id": "B2893:2",
+    "taxonCount": 9
+  },
+  "B2896:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2896:1",
+    "taxonCount": 13
+  },
+  "B2897:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Bestimmungstabelle der Arten von Melanocoryphus Stal."
+      ],
+      "pages": "332-332",
+      "taxon": [
+        "Melanocoryphus"
+      ]
+    },
+    "id": "B2897:1",
+    "taxonCount": 12
+  },
+  "B2897:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Bestimmungstabelle der Arten von Horvathiolus, nov. gen."
+      ],
+      "pages": "333",
+      "taxon": [
+        "Horvathiolus"
+      ]
+    },
+    "id": "B2897:2",
+    "taxonCount": 41
+  },
+  "B2899:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2899:1",
+    "taxonCount": 6
+  },
+  "B2900:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2900:1",
+    "taxonCount": 38
+  },
+  "B2901:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2901:1",
+    "taxonCount": 5
+  },
+  "B2905:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to species of Armenoecus"
+      ],
+      "pages": "138-138",
+      "taxon": [
+        "Armenoecus"
+      ]
+    },
+    "id": "B2905:1",
+    "taxonCount": 3
+  },
+  "B2905:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to species of Bleteogonus"
+      ],
+      "pages": "140-140",
+      "taxon": [
+        "Bleteogonus"
+      ]
+    },
+    "id": "B2905:2",
+    "taxonCount": 8
+  },
+  "B2905:3": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to species of Parapolycrates Reuter"
+      ],
+      "pages": "145-147",
+      "taxon": [
+        "Parapolycrates"
+      ]
+    },
+    "id": "B2905:3",
+    "taxonCount": 13
+  },
+  "B2905:4": {
+    "levels": [
+      "tribe",
+      "genus"
+    ],
+    "catalog": {
+      "title": [
+        "Key to species of Gonianotini of the World"
+      ],
+      "pages": "150-151",
+      "taxon": [
+        "Gonianotini"
+      ]
+    },
+    "id": "B2905:4",
+    "taxonCount": 21
+  },
+  "B2906:1": {
+    "levels": [
+      "tribe",
+      "subtribe",
+      "genus"
+    ],
+    "id": "B2906:1",
+    "taxonCount": 24
+  },
+  "B2908:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2908:1",
+    "taxonCount": 5
+  },
+  "B2915:1": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "id": "B2915:1",
+    "taxonCount": 14
+  },
+  "B2916:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2916:1",
+    "taxonCount": 10
+  },
+  "B2918:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2918:1",
+    "taxonCount": 90
+  },
+  "B2919:1": {
+    "levels": [
+      "genus",
+      "subgenus"
+    ],
+    "catalog": {
+      "title": [
+        "Tabelle der Untergattungen"
+      ],
+      "pages": "572-572",
+      "taxon": [
+        "Megalonotus"
+      ],
+      "target_taxa": [
+        "subgenus"
+      ]
+    },
+    "id": "B2919:1",
+    "taxonCount": 3
+  },
+  "B2919:2": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "variety"
+    ],
+    "catalog": {
+      "title": [
+        "Tabelle der Arten"
+      ],
+      "pages": "572-574"
+    },
+    "id": "B2919:2",
+    "taxonCount": 13
+  },
+  "B2920:1": {
+    "levels": [
+      "genus",
+      "group",
+      "species"
+    ],
+    "id": "B2920:1",
+    "taxonCount": 8
+  },
+  "B2921:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2921:1",
+    "taxonCount": 6
+  },
+  "B2922:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2922:1",
+    "taxonCount": 6
+  },
+  "B2923:1": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "id": "B2923:1",
+    "taxonCount": 6
+  },
+  "B2924:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2924:1",
+    "taxonCount": 8
+  },
+  "B2925:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2925:1",
+    "taxonCount": 14
+  },
+  "B2926:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2926:1",
+    "taxonCount": 36
+  },
+  "B2927:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "subgenus"
+    ],
+    "id": "B2927:1",
+    "taxonCount": 14
+  },
+  "B2928:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2928:1",
+    "taxonCount": 13
   }
 }
