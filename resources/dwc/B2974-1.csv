@@ -1,0 +1,11 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2974:1:1,Blissinae Stål,Stål,,,,,subfamily,,B2974:1,accepted,,,,,,,,,,Blissinae,,,,Blissinae Stål,,C6GPN,,8NKH9,
+B2974:1:2,"Ischnodemus Fieber, 1836","Fieber, 1836",,,,,genus,,B2974:1,accepted,,,B2974:1:1,Blissinae Stål,,,,,,Blissinae,Ischnodemus,,Blissinae,"Ischnodemus Fieber, 1836",,8NQG7,2008414,8NQG7,2008414
+B2974:1:3,"Micropus Spinola, 1937","Spinola, 1937",,,,,genus,,B2974:1,synonym,B2974:1:2,"Ischnodemus Fieber, 1836",,,,,,,,Blissinae,Micropus,,Blissinae,"Micropus Spinola, 1937",,8NSCF,6007320,8NQG7,2008414
+B2974:1:4,"Staphylocoris Stichel, 1958","Stichel, 1958",,,,,genus,,B2974:1,synonym,B2974:1:2,"Ischnodemus Fieber, 1836",,,,,,,,Blissinae,Staphylocoris,,Blissinae,"Staphylocoris Stichel, 1958",,8PR9X,4771335,8NQG7,2008414
+B2974:1:5,"Dimorphopterus Stål, 1872","Stål, 1872",,,,,genus,,B2974:1,accepted,,,B2974:1:1,Blissinae Stål,,,,,,Blissinae,Dimorphopterus,,Blissinae,"Dimorphopterus Stål, 1872",,8NQX5,4407626,8NQX5,4407626
+B2974:1:6,Stenoblissus,,,,,,genus,nov. gen.,B2974:1,accepted,,,B2974:1:1,Blissinae Stål,,,,,,Blissinae,Stenoblissus,,Blissinae,Stenoblissus nov. gen.,,8PRBF,4771347,8NQX5,4407626
+B2974:1:7,"Blissus Burmeister, 1835","Burmeister, 1835",,,,,genus,,B2974:1,accepted,,,B2974:1:1,Blissinae Stål,,,,,,Blissinae,Blissus,,Blissinae,"Blissus Burmeister, 1835",,8NMJK,2008392,8NMJK,2008392
+B2974:1:8,"Esmun Distant, 1909","Distant, 1909",,,,,genus,,B2974:1,synonym,B2974:1:7,"Blissus Burmeister, 1835",,,,,,,,Blissinae,Esmun,,Blissinae,"Esmun Distant, 1909",,NTWQK,9057032,8NQX5,4407626
+B2974:1:9,"Euchemerus Distant, 1909","Distant, 1909",,,,,genus,,B2974:1,synonym,B2974:1:7,"Blissus Burmeister, 1835",,,,,,,,Blissinae,Euchemerus,,Blissinae,"Euchemerus Distant, 1909",,,,,
+B2974:1:10,"Geoblissus Hidaka, 1959","Hidaka, 1959",,,,,genus,,B2974:1,synonym,B2974:1:7,"Blissus Burmeister, 1835",,,,,,,,Blissinae,Geoblissus,,Blissinae,"Geoblissus Hidaka, 1959",,8NRYG,4771415,8NMJK,2008392

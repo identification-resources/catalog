@@ -15991,6 +15991,28 @@
     "id": "B2889:3",
     "taxonCount": 120
   },
+  "B2890:1": {
+    "levels": [
+      "tribe",
+      "genus",
+      "species",
+      "subspecies",
+      "form"
+    ],
+    "id": "B2890:1",
+    "taxonCount": 337
+  },
+  "B2891:1": {
+    "levels": [
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "form"
+    ],
+    "id": "B2891:1",
+    "taxonCount": 94
+  },
   "B2893:1": {
     "levels": [
       "genus",
@@ -16311,5 +16333,312 @@
     ],
     "id": "B2928:1",
     "taxonCount": 13
+  },
+  "B2941:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2941:1",
+    "taxonCount": 4
+  },
+  "B2943:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2943:1",
+    "taxonCount": 10
+  },
+  "B2944:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2944:1",
+    "taxonCount": 46
+  },
+  "B2945:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2945:1",
+    "taxonCount": 63
+  },
+  "B2946:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2946:1",
+    "taxonCount": 25
+  },
+  "B2947:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2947:1",
+    "taxonCount": 30
+  },
+  "B2948:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2948:1",
+    "taxonCount": 7
+  },
+  "B2949:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "57-61",
+      "scope": [
+        "males"
+      ]
+    },
+    "id": "B2949:1",
+    "taxonCount": 30
+  },
+  "B2949:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "61-66",
+      "scope": [
+        "females"
+      ]
+    },
+    "id": "B2949:2",
+    "taxonCount": 28
+  },
+  "B2950:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Bestimmungstabelle für die Gattung Grypocoris DGL. & SC."
+      ],
+      "pages": "212-213",
+      "taxon": [
+        "Grypocoris"
+      ]
+    },
+    "id": "B2950:1",
+    "taxonCount": 10
+  },
+  "B2950:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Bestimmungstabelle der schwarzen Arten"
+      ],
+      "pages": "216-217",
+      "taxon": [
+        "Macrotylus"
+      ],
+      "taxon_scope": [
+        "black species"
+      ]
+    },
+    "id": "B2950:2",
+    "taxonCount": 6
+  },
+  "B2950:3": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Bestimmungstabelle der Arten von Heterocapillus E. WGN."
+      ],
+      "pages": "218-219",
+      "taxon": [
+        "Heterocapillus"
+      ]
+    },
+    "id": "B2950:3",
+    "taxonCount": 5
+  },
+  "B2951:1": {
+    "levels": [
+      "genus"
+    ],
+    "id": "B2951:1",
+    "taxonCount": 8
+  },
+  "B2953:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2953:1",
+    "taxonCount": 4
+  },
+  "B2954:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2954:1",
+    "taxonCount": 14
+  },
+  "B2955:1": {
+    "levels": [
+      "genus",
+      "group",
+      "species"
+    ],
+    "id": "B2955:1",
+    "taxonCount": 15
+  },
+  "B2956:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2956:1",
+    "taxonCount": 9
+  },
+  "B2957:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2957:1",
+    "taxonCount": 19
+  },
+  "B2959:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2959:1",
+    "taxonCount": 6
+  },
+  "B2960:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2960:1",
+    "taxonCount": 15
+  },
+  "B2961:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2961:1",
+    "taxonCount": 10
+  },
+  "B2962:1": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "id": "B2962:1",
+    "taxonCount": 4
+  },
+  "B2963:1": {
+    "levels": [
+      "genus",
+      "subgenus"
+    ],
+    "id": "B2963:1",
+    "taxonCount": 8
+  },
+  "B2964:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2964:1",
+    "taxonCount": 6
+  },
+  "B2965:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2965:1",
+    "taxonCount": 7
+  },
+  "B2966:1": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "id": "B2966:1",
+    "taxonCount": 7
+  },
+  "B2967:1": {
+    "levels": [
+      "genus",
+      "subgenus"
+    ],
+    "id": "B2967:1",
+    "taxonCount": 5
+  },
+  "B2968:1": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "id": "B2968:1",
+    "taxonCount": 5
+  },
+  "B2969:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2969:1",
+    "taxonCount": 7
+  },
+  "B2974:1": {
+    "levels": [
+      "subfamily",
+      "genus"
+    ],
+    "id": "B2974:1",
+    "taxonCount": 10
+  },
+  "B2975:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B2975:1",
+    "taxonCount": 14
+  },
+  "B2983:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "id": "B2983:1",
+    "taxonCount": 43
   }
 }
