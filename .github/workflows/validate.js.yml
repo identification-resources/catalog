@@ -24,3 +24,5 @@ jobs:
       run: npx -y -p @larsgw/formica loir-validate-catalog *.csv
     - name: Validate taxon name resources
       run: npx -y -p @larsgw/formica loir-validate-resources resources/txt/*.txt
+    - name: Validate mapping integrity
+      run: npx -y -p @larsgw/formica loir-validate-integrity .
