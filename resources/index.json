@@ -11505,6 +11505,14 @@
     "id": "B2231:3",
     "taxonCount": 154
   },
+  "B2233:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2233:1",
+    "taxonCount": 3
+  },
   "B2234:1": {
     "levels": [
       "group",
@@ -16616,6 +16624,46 @@
     "id": "B2969:1",
     "taxonCount": 7
   },
+  "B2973:1": {
+    "levels": [
+      "subfamily",
+      "tribe",
+      "subtribe",
+      "genus",
+      "subgenus",
+      "group",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "catalog": {
+      "scope": [
+        "females"
+      ]
+    },
+    "id": "B2973:1",
+    "taxonCount": 611
+  },
+  "B2973:2": {
+    "levels": [
+      "subfamily",
+      "tribe",
+      "subtribe",
+      "genus",
+      "subgenus",
+      "group",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "catalog": {
+      "scope": [
+        "males"
+      ]
+    },
+    "id": "B2973:2",
+    "taxonCount": 615
+  },
   "B2974:1": {
     "levels": [
       "subfamily",
@@ -16640,5 +16688,624 @@
     ],
     "id": "B2983:1",
     "taxonCount": 43
+  },
+  "B2985:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2985:1",
+    "taxonCount": 12
+  },
+  "B2986:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2986:1",
+    "taxonCount": 35
+  },
+  "B2991:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2991:1",
+    "taxonCount": 3
+  },
+  "B2992:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "catalog": {
+      "pages": "52-53",
+      "scope": [
+        "males"
+      ]
+    },
+    "id": "B2992:1",
+    "taxonCount": 18
+  },
+  "B2992:2": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "catalog": {
+      "pages": "53-55",
+      "scope": [
+        "females"
+      ]
+    },
+    "id": "B2992:2",
+    "taxonCount": 20
+  },
+  "B2993:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to the species of Dolichomiris"
+      ],
+      "pages": "258-259"
+    },
+    "id": "B2993:1",
+    "taxonCount": 17
+  },
+  "B2993:2": {
+    "levels": [
+      "tribe",
+      "genus"
+    ],
+    "catalog": {
+      "title": [
+        "Key to the genera of Stenodemini China 1934"
+      ],
+      "pages": "266-268",
+      "key_type": [
+        "key"
+      ],
+      "taxon": [
+        "Stenodemini"
+      ],
+      "target_taxa": [
+        "genus"
+      ]
+    },
+    "id": "B2993:2",
+    "taxonCount": 29
+  },
+  "B2995:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2995:1",
+    "taxonCount": 20
+  },
+  "B2996:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2996:1",
+    "taxonCount": 31
+  },
+  "B2997:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2997:1",
+    "taxonCount": 23
+  },
+  "B2998:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2998:1",
+    "taxonCount": 46
+  },
+  "B3002:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B3002:1",
+    "taxonCount": 26
+  },
+  "B3004:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B3004:1",
+    "taxonCount": 19
+  },
+  "B3006:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B3006:1",
+    "taxonCount": 12
+  },
+  "B3007:1": {
+    "levels": [
+      "genus",
+      "group",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "1. The nebulosum group of the genus Coptosoma Lp."
+      ],
+      "pages": "4-4",
+      "taxon": [
+        "Coptosoma"
+      ],
+      "complete": "FALSE",
+      "target_taxa": [
+        "group",
+        "species"
+      ]
+    },
+    "id": "B3007:1",
+    "taxonCount": 10
+  },
+  "B3007:2": {
+    "levels": [
+      "group",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "3. The pictulum group of the genus Coptosoma"
+      ],
+      "pages": "5-6",
+      "taxon": [
+        "Coptosoma pictulum-group"
+      ]
+    },
+    "id": "B3007:2",
+    "taxonCount": 12
+  },
+  "B3007:3": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "1. Additional notes on the Anoplocnemis monacha group"
+      ],
+      "pages": "13-14",
+      "taxon": [
+        "Anoplocnemis monacha-group"
+      ]
+    },
+    "id": "B3007:3",
+    "taxonCount": 7
+  },
+  "B3007:4": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "2. A new species of the genus Collaria Prov."
+      ],
+      "pages": "17-18",
+      "taxon": [
+        "Collaria"
+      ]
+    },
+    "id": "B3007:4",
+    "taxonCount": 6
+  },
+  "B3007:5": {
+    "levels": [
+      "group",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "1. On the red-coloured species of the rivularis group of the genus Spilostethus St."
+      ],
+      "pages": "21-23",
+      "taxon": [
+        "Spilostethus rivularis-group"
+      ]
+    },
+    "id": "B3007:5",
+    "taxonCount": 9
+  },
+  "B3007:6": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "1. The genus Pleurochiloporus Rt."
+      ],
+      "pages": "26-26",
+      "taxon": [
+        "Pleurochiloporus"
+      ]
+    },
+    "id": "B3007:6",
+    "taxonCount": 6
+  },
+  "B3007:7": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "2. A new species of the genus Megacoelum Fb. from Egypt"
+      ],
+      "pages": "27-27",
+      "taxon": [
+        "Megacoelum"
+      ]
+    },
+    "id": "B3007:7",
+    "taxonCount": 9
+  },
+  "B3007:8": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "3. On the subgenus Calocorisellus Wgn. of the genus Calocoris Fb."
+      ],
+      "pages": "28-28",
+      "taxon": [
+        "Calocoris (Calocorisellus)"
+      ]
+    },
+    "id": "B3007:8",
+    "taxonCount": 8
+  },
+  "B3007:9": {
+    "levels": [
+      "group",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "4. The scitulus group of the genus Phytocoris Fn."
+      ],
+      "pages": "29-30",
+      "taxon": [
+        "Phytocoris scitulus-group"
+      ]
+    },
+    "id": "B3007:9",
+    "taxonCount": 7
+  },
+  "B3007:10": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "5. The salsolae group of the genus Phytocoris Fn."
+      ],
+      "pages": "30-31",
+      "taxon": [
+        "Phytocoris salsolae-group"
+      ]
+    },
+    "id": "B3007:10",
+    "taxonCount": 11
+  },
+  "B3007:11": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "6. On the subgenus Eriamiris Wgn. of Phytocoris Fn."
+      ],
+      "pages": "32-33",
+      "taxon": [
+        "Phytocoris (Eriamiris)"
+      ]
+    },
+    "id": "B3007:11",
+    "taxonCount": 13
+  },
+  "B3007:12": {
+    "levels": [
+      "group",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "7. On the vitticollis group of the genus Stenotus Jak."
+      ],
+      "pages": "34",
+      "taxon": [
+        "Stenotus vitticollis-group"
+      ]
+    },
+    "id": "B3007:12",
+    "taxonCount": 5
+  },
+  "B3010:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B3010:1",
+    "taxonCount": 19
+  },
+  "B3012:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B3012:1",
+    "taxonCount": 20
+  },
+  "B3013:1": {
+    "levels": [
+      "species"
+    ],
+    "catalog": {
+      "key_type": [
+        "supplement"
+      ],
+      "taxon": [
+        "Phytocoris"
+      ],
+      "pages": "55-55"
+    },
+    "id": "B3013:1",
+    "taxonCount": 5
+  },
+  "B3013:2": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Ключ кавказских видов ECKERLEINIUS и ERIAMIRIS по самцам"
+      ],
+      "pages": "56-57"
+    },
+    "id": "B3013:2",
+    "taxonCount": 11
+  },
+  "B3014:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species",
+      "subspecies",
+      "form"
+    ],
+    "id": "B3014:1",
+    "taxonCount": 56
+  },
+  "B3015:1": {
+    "levels": [
+      "species"
+    ],
+    "catalog": {
+      "pages": "22-22",
+      "key_type": [
+        "matrix"
+      ],
+      "taxon": [
+        "Sphedanolestes sangnuineus",
+        "Sphedanolestes vallespir"
+      ]
+    },
+    "id": "B3015:1",
+    "taxonCount": 2
+  },
+  "B3015:2": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "catalog": {
+      "pages": "23-23",
+      "taxon": [
+        "Alydidae"
+      ],
+      "region": [
+        "Europe, Spain"
+      ],
+      "target_taxa": [
+        "genus"
+      ]
+    },
+    "id": "B3015:2",
+    "taxonCount": 5
+  },
+  "B3015:3": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "25-26"
+    },
+    "id": "B3015:3",
+    "taxonCount": 8
+  },
+  "B3016:1": {
+    "levels": [
+      "group",
+      "species",
+      "subspecies"
+    ],
+    "id": "B3016:1",
+    "taxonCount": 10
+  },
+  "B3017:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "14-14",
+      "taxon": [
+        "Polytoxus"
+      ]
+    },
+    "id": "B3017:1",
+    "taxonCount": 4
+  },
+  "B3017:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "15-15",
+      "taxon": [
+        "Pasira"
+      ]
+    },
+    "id": "B3017:2",
+    "taxonCount": 3
+  },
+  "B3017:3": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "pages": "17-19",
+      "taxon": [
+        "Odontotarsus"
+      ]
+    },
+    "id": "B3017:3",
+    "taxonCount": 7
+  },
+  "B3018:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B3018:1",
+    "taxonCount": 8
+  },
+  "B3019:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B3019:1",
+    "taxonCount": 3
+  },
+  "B3020:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B3020:1",
+    "taxonCount": 24
+  },
+  "B3021:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B3021:1",
+    "taxonCount": 7
+  },
+  "B3022:1": {
+    "levels": [
+      "species"
+    ],
+    "catalog": {
+      "pages": "401-401",
+      "key_type": [
+        "supplement"
+      ],
+      "part_of": [
+        "B3020"
+      ]
+    },
+    "id": "B3022:1",
+    "taxonCount": 1
+  },
+  "B3022:2": {
+    "levels": [
+      "species"
+    ],
+    "catalog": {
+      "pages": "405-406",
+      "key_type": [
+        "supplement"
+      ],
+      "part_of": [
+        "B3020"
+      ]
+    },
+    "id": "B3022:2",
+    "taxonCount": 7
+  },
+  "B3023:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B3023:1",
+    "taxonCount": 9
+  },
+  "B3024:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B3024:1",
+    "taxonCount": 11
+  },
+  "B3027:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B3027:1",
+    "taxonCount": 14
   }
 }

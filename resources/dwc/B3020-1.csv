@@ -1,0 +1,25 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B3020:1:1,"Tingis Fabricius, 1803","Fabricius, 1803",,,,,genus,,B3020:1,accepted,,,,,,,,,,,Tingis,,,"Tingis Fabricius, 1803",,7X48,2008274,7X48,2008274
+B3020:1:2,Tingis,,Tingis,,,,subgenus,,B3020:1,accepted,,,B3020:1:1,"Tingis Fabricius, 1803",,,,,,,Tingis,Tingis,Tingis,Tingis,,7X47,,7X47,
+B3020:1:3,Tingis grisea Germ.,Germ.,Tingis,Tingis,grisea,,species,,B3020:1,accepted,,,B3020:1:2,Tingis,,,,,,,Tingis,Tingis,Tingis | Tingis,grisea Germ.,,5732S,4489076,5732S,4489076
+B3020:1:4,"Tingis angustata (Herrich-Schaeffer, 1838)","(Herrich-Schaeffer, 1838)",Tingis,Tingis,angustata,,species,,B3020:1,accepted,,,B3020:1:2,Tingis,,,,,,,Tingis,Tingis,Tingis | Tingis,"angustata (Herrich-Schaeffer, 1838)",,57323,4489087,57323,4489087
+B3020:1:5,Tingis ampliata (H.-S.),(H.-S.),Tingis,Tingis,ampliata,,species,,B3020:1,accepted,,,B3020:1:2,Tingis,,,,,,,Tingis,Tingis,Tingis | Tingis,ampliata (H.-S.),,57322,4489081,57322,4489081
+B3020:1:6,Tingis cardui (L.),(L.),Tingis,Tingis,cardui,,species,,B3020:1,accepted,,,B3020:1:2,Tingis,,,,,,,Tingis,Tingis,Tingis | Tingis,cardui (L.),,7CCSK,2020591,7CCSK,2020591
+B3020:1:7,Tingis auriculata (Costa),(Costa),Tingis,Tingis,auriculata,,species,,B3020:1,accepted,,,B3020:1:2,Tingis,,,,,,,Tingis,Tingis,Tingis | Tingis,auriculata (Costa),,57324,2020590,57324,2020590
+B3020:1:8,Tingis crispata (H.-S.),(H.-S.),Tingis,Tingis,crispata,,species,,B3020:1,accepted,,,B3020:1:2,Tingis,,,,,,,Tingis,Tingis,Tingis | Tingis,crispata (H.-S.),,5732F,4489074,5732F,4489074
+B3020:1:9,Tingis buddleiae Drake,Drake,Tingis,Tingis,buddleiae,,species,,B3020:1,accepted,,,B3020:1:2,Tingis,,,,,,,Tingis,Tingis,Tingis | Tingis,buddleiae Drake,,57327,7525778,57327,7525778
+B3020:1:10,Tingis comosa (Takeya),(Takeya),Tingis,Tingis,comosa,,species,,B3020:1,accepted,,,B3020:1:2,Tingis,,,,,,,Tingis,Tingis,Tingis | Tingis,comosa (Takeya),,T7S5Z,9247561,T7S5Z,9247561
+B3020:1:11,Tropidocheila,,Tingis,,,,subgenus,,B3020:1,accepted,,,B3020:1:1,"Tingis Fabricius, 1803",,,,,,,Tingis,Tropidocheila,Tingis,Tropidocheila,,8GPV,,8GPV,
+B3020:1:12,Tingis sideritis Štusák,Štusák,Tingis,Tropidocheila,sideritis,,species,,B3020:1,accepted,,,B3020:1:11,Tropidocheila,,,,,,,Tingis,Tropidocheila,Tingis | Tropidocheila,sideritis Štusák,,5734M,4489120,5734M,4489120
+B3020:1:13,Tingis stachydis (Fieb.),(Fieb.),Tingis,Tropidocheila,stachydis,,species,,B3020:1,accepted,,,B3020:1:11,Tropidocheila,,,,,,,Tingis,Tropidocheila,Tingis | Tropidocheila,stachydis (Fieb.),,5734N,8385980,5734N,8385980
+B3020:1:14,Lasiotropis,,Tingis,,,,subgenus,,B3020:1,accepted,,,B3020:1:1,"Tingis Fabricius, 1803",,,,,,,Tingis,Lasiotropis,Tingis,Lasiotropis,,8DYV,,8DYV,
+B3020:1:15,Tingis ragusana (Fieb.),(Fieb.),Tingis,Lasiotropis,ragusana,,species,,B3020:1,accepted,,,B3020:1:14,Lasiotropis,,,,,,,Tingis,Lasiotropis,Tingis | Lasiotropis,ragusana (Fieb.),,572ZM,4489127,572ZM,4489127
+B3020:1:16,Tingis rotundipennis Horv.,Horv.,Tingis,Lasiotropis,rotundipennis,,species,,B3020:1,accepted,,,B3020:1:14,Lasiotropis,,,,,,,Tingis,Lasiotropis,Tingis | Lasiotropis,rotundipennis Horv.,,572ZP,8366301,572ZP,8366301
+B3020:1:17,Tingis reticulata H.-S.,H.-S.,Tingis,Lasiotropis,reticulata,,species,,B3020:1,accepted,,,B3020:1:14,Lasiotropis,,,,,,,Tingis,Lasiotropis,Tingis | Lasiotropis,reticulata H.-S.,,572ZN,4489108,572ZN,4489108
+B3020:1:18,Neolasiotropis,,Tingis,,,,subgenus,,B3020:1,accepted,,,B3020:1:1,"Tingis Fabricius, 1803",,,,,,,Tingis,Neolasiotropis,Tingis,Neolasiotropis,,649PM,,649PM,
+B3020:1:19,Tingis pilosa Humm.,Humm.,Tingis,Neolasiotropis,pilosa,,species,,B3020:1,accepted,,,B3020:1:18,Neolasiotropis,,,,,,,Tingis,Neolasiotropis,Tingis | Neolasiotropis,pilosa Humm.,"{""indistinguishableFrom"":[""B3020:1:20""]}",572ZW,4489096,572ZW,4489096
+B3020:1:20,Tingis pauperata (Put.),(Put.),Tingis,Neolasiotropis,pauperata,,species,,B3020:1,accepted,,,B3020:1:18,Neolasiotropis,,,,,,,Tingis,Neolasiotropis,Tingis | Neolasiotropis,pauperata (Put.),"{""indistinguishableFrom"":[""B3020:1:19""]}",572ZV,4489098,572ZV,4489098
+B3020:1:21,Caenotingis,,Tingis,,,,subgenus,,B3020:1,accepted,,,B3020:1:1,"Tingis Fabricius, 1803",,,,,,,Tingis,Caenotingis,Tingis,Caenotingis,,8CC4,,8CC4,
+B3020:1:22,Tingis becsoni Drake,Drake,Tingis,Caenotingis,becsoni,,species,,B3020:1,accepted,,,B3020:1:21,Caenotingis,,,,,,,Tingis,Caenotingis,Tingis | Caenotingis,becsoni Drake,,572ZC,7382250,572ZC,7382250
+B3020:1:23,Lasiocantha,,Tingis,,,,subgenus,,B3020:1,accepted,,,B3020:1:1,"Tingis Fabricius, 1803",,,,,,,Tingis,Lasiocantha,Tingis,Lasiocantha,,,,,
+B3020:1:24,Tingis capucina (Germ.),(Germ.),Tingis,Lasiocantha,capucina,,species,,B3020:1,accepted,,,B3020:1:23,Lasiocantha,,,,,,,Tingis,Lasiocantha,Tingis | Lasiocantha,capucina (Germ.),,T7SPQ,4488868,6NYSX,4488865
