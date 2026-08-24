@@ -1,0 +1,74 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B3078:1:1,Nepomorpha,,,,,,infraorder,,B3078:1,accepted,,,,,,,,,,,,,,Nepomorpha,,4MC,,4MC,
+B3078:1:2,Ochteridae,,,,,,family,,B3078:1,accepted,,,B3078:1:1,Nepomorpha,,,,,Ochteridae,,,,Nepomorpha,Ochteridae,,DGZ,7893,DGZ,7893
+B3078:1:3,Ochterus,,,,,,genus,,B3078:1,accepted,,,B3078:1:2,Ochteridae,,,,,Ochteridae,,Ochterus,,Nepomorpha | Ochteridae,Ochterus,,66JB,2020211,66JB,2020211
+B3078:1:4,Nepidae,,,,,,family,,B3078:1,accepted,,,B3078:1:1,Nepomorpha,,,,,Nepidae,,,,Nepomorpha,Nepidae,,DB4,7892,DB4,7892
+B3078:1:5,Naucoridae,,,,,,family,,B3078:1,accepted,,,B3078:1:1,Nepomorpha,,,,,Naucoridae,,,,Nepomorpha,Naucoridae,,624PT,4320,624PT,4320
+B3078:1:6,Ilyocoris,,,,,,genus,,B3078:1,accepted,,,B3078:1:5,Naucoridae,,,,,Naucoridae,,Ilyocoris,,Nepomorpha | Naucoridae,Ilyocoris,,53XD,8194261,53XD,8194261
+B3078:1:7,Naucoris,,,,,,genus,,B3078:1,accepted,,,B3078:1:5,Naucoridae,,,,,Naucoridae,,Naucoris,,Nepomorpha | Naucoridae,Naucoris,,5XV9,2020237,5XV9,2020237
+B3078:1:8,Corixidae,,,,,,family,,B3078:1,accepted,,,B3078:1:1,Nepomorpha,,,,,Corixidae,,,,Nepomorpha,Corixidae,,8KK,6988,8KK,6988
+B3078:1:9,Micronectinae,,,,,,subfamily,,B3078:1,accepted,,,B3078:1:8,Corixidae,,,,,Corixidae,Micronectinae,,,Nepomorpha | Corixidae,Micronectinae,,JWM,,JWM,
+B3078:1:10,Micronecta,,,,,,genus,,B3078:1,accepted,,,B3078:1:9,Micronectinae,,,,,Corixidae,Micronectinae,Micronecta,,Nepomorpha | Corixidae | Micronectinae,Micronecta,,5S3P,4485457,5S3P,4485457
+B3078:1:11,Cymatiinae,,,,,,subfamily,,B3078:1,accepted,,,B3078:1:8,Corixidae,,,,,Corixidae,Cymatiinae,,,Nepomorpha | Corixidae,Cymatiinae,,626TG,,626TG,
+B3078:1:12,Cymatia,,,,,,genus,,B3078:1,accepted,,,B3078:1:11,Cymatiinae,,,,,Corixidae,Cymatiinae,Cymatia,,Nepomorpha | Corixidae | Cymatiinae,Cymatia,,62PRB,2049917,62PRB,2049917
+B3078:1:13,Corixinae,,,,,,subfamily,,B3078:1,accepted,,,B3078:1:8,Corixidae,,,,,Corixidae,Corixinae,,,Nepomorpha | Corixidae,Corixinae,,JDJ,,JDJ,
+B3078:1:14,Glaenocorisa,,,,,,genus,,B3078:1,accepted,,,B3078:1:13,Corixinae,,,,,Corixidae,Corixinae,Glaenocorisa,,Nepomorpha | Corixidae | Corixinae,Glaenocorisa,,4NR7,2049769,4NR7,2049769
+B3078:1:15,Heliocorisa,,,,,,genus,,B3078:1,accepted,,,B3078:1:13,Corixinae,,,,,Corixidae,Corixinae,Heliocorisa,,Nepomorpha | Corixidae | Corixinae,Heliocorisa,,62TMC,4485403,62TMC,4485403
+B3078:1:16,Corixa,,,,,,genus,,B3078:1,accepted,,,B3078:1:13,Corixinae,,,,,Corixidae,Corixinae,Corixa,,Nepomorpha | Corixidae | Corixinae,Corixa,,62N2S,5156062,62N2S,5156062
+B3078:1:17,Parasigara,,,,,,genus,,B3078:1,accepted,,,B3078:1:13,Corixinae,,,,,Corixidae,Corixinae,Parasigara,,Nepomorpha | Corixidae | Corixinae,Parasigara,,6GSM,4405500,6GSM,4405500
+B3078:1:18,Arctocorixa,,,,,,genus,,B3078:1,accepted,,,B3078:1:13,Corixinae,,,,,Corixidae,Corixinae,Arctocorixa,,Nepomorpha | Corixidae | Corixinae,Arctocorixa,,32C6,2049916,32C5,2049901
+B3078:1:19,Sigara,,,,,,genus,,B3078:1,accepted,,,B3078:1:13,Corixinae,,,,,Corixidae,Corixinae,Sigara,,Nepomorpha | Corixidae | Corixinae,Sigara,"{""indistinguishableFrom"":[""B3078:1:20""]}",7GR7,2049846,7GR7,2049846
+B3078:1:20,Hesperocorixa,,,,,,genus,,B3078:1,accepted,,,B3078:1:13,Corixinae,,,,,Corixidae,Corixinae,Hesperocorixa,,Nepomorpha | Corixidae | Corixinae,Hesperocorixa,"{""indistinguishableFrom"":[""B3078:1:19""]}",4W39,2049777,4W39,2049777
+B3078:1:21,Callicorixa,,,,,,genus,,B3078:1,accepted,,,B3078:1:13,Corixinae,,,,,Corixidae,Corixinae,Callicorixa,,Nepomorpha | Corixidae | Corixinae,Callicorixa,,62J9W,2049803,62J9W,2049803
+B3078:1:22,Paracorixa,,,,,,genus,,B3078:1,accepted,,,B3078:1:13,Corixinae,,,,,Corixidae,Corixinae,Paracorixa,,Nepomorpha | Corixidae | Corixinae,Paracorixa,,63KKP,4406289,63KKP,4406289
+B3078:1:23,Aphelocheiridae,,,,,,family,,B3078:1,accepted,,,B3078:1:1,Nepomorpha,,,,,Aphelocheiridae,,,,Nepomorpha,Aphelocheiridae,,6JZ,3265575,6JZ,3265575
+B3078:1:24,Aphelocheirus,,,,,,genus,,B3078:1,accepted,,,B3078:1:23,Aphelocheiridae,,,,,Aphelocheiridae,,Aphelocheirus,,Nepomorpha | Aphelocheiridae,Aphelocheirus,,62CXH,3265576,62CXH,3265576
+B3078:1:25,Pleidae,,,,,,family,,B3078:1,accepted,,,B3078:1:1,Nepomorpha,,,,,Pleidae,,,,Nepomorpha,Pleidae,,6263M,9653,6263M,9653
+B3078:1:26,Plea,,,,,,genus,,B3078:1,accepted,,,B3078:1:25,Pleidae,,,,,Pleidae,,Plea,,Nepomorpha | Pleidae,Plea,,6S8K,2020550,6S8K,2020550
+B3078:1:27,Notonectidae,,,,,,family,,B3078:1,accepted,,,B3078:1:1,Nepomorpha,,,,,Notonectidae,,,,Nepomorpha,Notonectidae,,626HD,4322,626HD,4322
+B3078:1:28,Anisops,,,,,,genus,,B3078:1,accepted,,,B3078:1:27,Notonectidae,,,,,Notonectidae,,Anisops,,Nepomorpha | Notonectidae,Anisops,,WFW,2020496,WFW,2020496
+B3078:1:29,Notonecta,,,,,,genus,,B3078:1,accepted,,,B3078:1:27,Notonectidae,,,,,Notonectidae,,Notonecta,,Nepomorpha | Notonectidae,Notonecta,,65FM,2020516,65FM,2020516
+B3078:1:30,Notonecta reuteri,,Notonecta,,reuteri,,species,,B3078:1,accepted,,,B3078:1:29,Notonecta,,,,,Notonectidae,,Notonecta,,Nepomorpha | Notonectidae | Notonecta,reuteri,,47WZN,4485491,47WZN,4485491
+B3078:1:31,Notonecta viridis,,Notonecta,,viridis,,species,,B3078:1,accepted,,,B3078:1:29,Notonecta,,,,,Notonectidae,,Notonecta,,Nepomorpha | Notonectidae | Notonecta,viridis,,47X27,4485490,47X27,4485490
+B3078:1:32,Notonecta glauca,,Notonecta,,glauca,,species,,B3078:1,accepted,,,B3078:1:29,Notonecta,,,,,Notonectidae,,Notonecta,,Nepomorpha | Notonectidae | Notonecta,glauca,,47WY8,2020522,47WY8,2020522
+B3078:1:33,Notonecta obliqua,,Notonecta,,obliqua,,species,,B3078:1,accepted,,,B3078:1:29,Notonecta,,,,,Notonectidae,,Notonecta,,Nepomorpha | Notonectidae | Notonecta,obliqua,,6SBCK,10728437,6SBCK,10728437
+B3078:1:34,Notonecta maculata,,Notonecta,,maculata,,species,,B3078:1,accepted,,,B3078:1:29,Notonecta,,,,,Notonectidae,,Notonecta,,Nepomorpha | Notonectidae | Notonecta,maculata,,47WYY,2020518,47WYY,2020518
+B3078:1:35,Nychia,,,,,,genus,,B3078:1,accepted,,,B3078:1:27,Notonectidae,,,,,Notonectidae,,Nychia,,Nepomorpha | Notonectidae,Nychia,,65Y6,3266092,65Y6,3266092
+B3078:1:36,Gerromorpha,,,,,,infraorder,,B3078:1,accepted,,,,,,,,,,,,,,Gerromorpha,,PFTSR,,PFTSR,
+B3078:1:37,Leptopodidae,,,,,,family,,B3078:1,accepted,,,B3078:1:36,Gerromorpha,,,,,Leptopodidae,,,,Gerromorpha,Leptopodidae,,BY3,7887,BY3,7887
+B3078:1:38,Leptopus,,,,,,genus,,B3078:1,accepted,,,B3078:1:37,Leptopodidae,,,,,Leptopodidae,,Leptopus,,Gerromorpha | Leptopodidae,Leptopus,,5DBF,3266283,5DBF,3266283
+B3078:1:39,Saldidae,,,,,,family,,B3078:1,accepted,,,B3078:1:36,Gerromorpha,,,,,Saldidae,,,,Gerromorpha,Saldidae,,FWD,7896,FWD,7896
+B3078:1:40,Chartoscirta,,,,,,genus,,B3078:1,accepted,,,B3078:1:39,Saldidae,,,,,Saldidae,,Chartoscirta,,Gerromorpha | Saldidae,Chartoscirta,,3MCC,4489208,3MCC,4489208
+B3078:1:41,Salda,,,,,,genus,,B3078:1,accepted,,,B3078:1:39,Saldidae,,,,,Saldidae,,Salda,,Gerromorpha | Saldidae,Salda,"{""indistinguishableFrom"":[""B3078:1:42""]}",7BTC,2008341,7BTC,2008341
+B3078:1:42,Saldula,,,,,,genus,,B3078:1,accepted,,,B3078:1:39,Saldidae,,,,,Saldidae,,Saldula,,Gerromorpha | Saldidae,Saldula,"{""indistinguishableFrom"":[""B3078:1:41""]}",7BTN,2069278,7BTN,2069278
+B3078:1:43,Chiloxanthus,,,,,,genus,,B3078:1,accepted,,,B3078:1:39,Saldidae,,,,,Saldidae,,Chiloxanthus,,Gerromorpha | Saldidae,Chiloxanthus,,3N5C,2069330,3N5C,2069330
+B3078:1:44,Mesoveliidae,,,,,,family,,B3078:1,accepted,,,B3078:1:36,Gerromorpha,,,,,Mesoveliidae,,,,Gerromorpha,Mesoveliidae,,CNB,4318,CNB,4318
+B3078:1:45,Mesovelia,,,,,,genus,,B3078:1,accepted,,,B3078:1:44,Mesoveliidae,,,,,Mesoveliidae,,Mesovelia,,Gerromorpha | Mesoveliidae,Mesovelia,,5Q3C,2012228,5Q3C,2012228
+B3078:1:46,Mesovelia furcata,,Mesovelia,,furcata,,species,,B3078:1,accepted,,,B3078:1:45,Mesovelia,,,,,Mesoveliidae,,Mesovelia,,Gerromorpha | Mesoveliidae | Mesovelia,furcata,,427GM,2012232,427GM,2012232
+B3078:1:47,Mesovelia vittigera,,Mesovelia,,vittigera,,species,,B3078:1,accepted,,,B3078:1:45,Mesovelia,,,,,Mesoveliidae,,Mesovelia,,Gerromorpha | Mesoveliidae | Mesovelia,vittigera,,73BGY,2012262,73BGY,2012262
+B3078:1:48,Hebridae,,,,,,family,,B3078:1,accepted,,,B3078:1:36,Gerromorpha,,,,,Hebridae,,,,Gerromorpha,Hebridae,,6252Q,4312,6252Q,4312
+B3078:1:49,Hebrus,,,,,,genus,,B3078:1,accepted,,,B3078:1:48,Hebridae,,,,,Hebridae,,Hebrus,,Gerromorpha | Hebridae,Hebrus,,635VT,2020320,635VT,2020320
+B3078:1:50,Hebrusella,,Hebrus,,,,subgenus,,B3078:1,accepted,,,B3078:1:49,Hebrus,,,,,Hebridae,,Hebrus,Hebrusella,Gerromorpha | Hebridae | Hebrus,Hebrusella,,NZV9C,,NZV9C,
+B3078:1:51,Hebrus,,Hebrus,,,,subgenus,s. st.,B3078:1,accepted,,,B3078:1:49,Hebrus,,,,,Hebridae,,Hebrus,Hebrus,Gerromorpha | Hebridae | Hebrus,Hebrus s. st.,,635VT,,635VT,
+B3078:1:52,Veliidae,,,,,,family,,B3078:1,accepted,,,B3078:1:36,Gerromorpha,,,,,Veliidae,,,,Gerromorpha,Veliidae,,HSH,7900,HSH,7900
+B3078:1:53,Microvelia,,,,,,genus,,B3078:1,accepted,,,B3078:1:52,Veliidae,,,,,Veliidae,,Microvelia,,Gerromorpha | Veliidae,Microvelia,,5SLM,2020348,5SLM,2020348
+B3078:1:54,Velia,,,,,,genus,,B3078:1,accepted,,,B3078:1:52,Veliidae,,,,,Veliidae,,Velia,,Gerromorpha | Veliidae,Velia,,8669,2020395,8669,2020395
+B3078:1:55,Gerridae,,,,,,family,,B3078:1,accepted,,,B3078:1:36,Gerromorpha,,,,,Gerridae,,,,Gerromorpha,Gerridae,,623FR,7881,623FR,7881
+B3078:1:56,Gerris,,,,,,genus,,B3078:1,accepted,,,B3078:1:55,Gerridae,,,,,Gerridae,,Gerris,,Gerromorpha | Gerridae,Gerris,,4N84,2008636,4N84,2008636
+B3078:1:57,Limnoporus,,Gerris,,,,subgenus,,B3078:1,accepted,,,B3078:1:56,Gerris,,,,,Gerridae,,Gerris,Limnoporus,Gerromorpha | Gerridae | Gerris,Limnoporus,,62YMD,,62YMD,
+B3078:1:58,Gerris rufoscutellatus,,Gerris,Limnoporus,rufoscutellatus,,species,,B3078:1,accepted,,,B3078:1:57,Limnoporus,,,,,Gerridae,,Gerris,Limnoporus,Gerromorpha | Gerridae | Gerris | Limnoporus,rufoscutellatus,,6KFRY,5154132,6QCKK,2020450
+B3078:1:59,Aquarius,,Gerris,,,,subgenus,,B3078:1,accepted,,,B3078:1:56,Gerris,,,,,Gerridae,,Gerris,Aquarius,Gerromorpha | Gerridae | Gerris,Aquarius,,ZH4,,ZH4,
+B3078:1:60,Gerris paludum,,Gerris,Aquarius,paludum,,species,,B3078:1,accepted,,,B3078:1:59,Aquarius,,,,,Gerridae,,Gerris,Aquarius,Gerromorpha | Gerridae | Gerris | Aquarius,paludum,,PFTHY,5758651,67QDV,5866108
+B3078:1:61,Gerris najas,,Gerris,Aquarius,najas,,species,,B3078:1,accepted,,,B3078:1:59,Aquarius,,,,,Gerridae,,Gerris,Aquarius,Gerromorpha | Gerridae | Gerris | Aquarius,najas,,VBCH6,11352941,FZJB,5866107
+B3078:1:62,Gerris,,Gerris,,,,subgenus,s. st.,B3078:1,accepted,,,B3078:1:56,Gerris,,,,,Gerridae,,Gerris,Gerris,Gerromorpha | Gerridae | Gerris,Gerris s. st.,,4N84,,4N84,
+B3078:1:63,Gerris lateralis,,Gerris,Gerris,lateralis,,species,,B3078:1,accepted,,,B3078:1:62,Gerris,,,,,Gerridae,,Gerris,Gerris,Gerromorpha | Gerridae | Gerris | Gerris,lateralis,,6KGCB,5758665,6KGCB,5758665
+B3078:1:64,Gerris thoracicus,,Gerris,Gerris,thoracicus,,species,,B3078:1,accepted,,,B3078:1:62,Gerris,,,,,Gerridae,,Gerris,Gerris,Gerromorpha | Gerridae | Gerris | Gerris,thoracicus,,3FXB2,5758661,3FXB2,5758661
+B3078:1:65,Gerris costae,,Gerris,Gerris,costae,,species,,B3078:1,accepted,,,B3078:1:62,Gerris,,,,,Gerridae,,Gerris,Gerris,Gerromorpha | Gerridae | Gerris | Gerris,costae,,6KGCK,7695217,6KGCK,7695217
+B3078:1:66,Gerris odontogaster,,Gerris,Gerris,odontogaster,,species,,B3078:1,accepted,,,B3078:1:62,Gerris,,,,,Gerridae,,Gerris,Gerris,Gerromorpha | Gerridae | Gerris | Gerris,odontogaster,,6KGBQ,5758658,6KGBQ,5758658
+B3078:1:67,Gerris argentatus,,Gerris,Gerris,argentatus,,species,,B3078:1,accepted,,,B3078:1:62,Gerris,,,,,Gerridae,,Gerris,Gerris,Gerromorpha | Gerridae | Gerris | Gerris,argentatus,,3FX8Y,5758660,3FX8Y,5758660
+B3078:1:68,Gerris lacustris,,Gerris,Gerris,lacustris,,species,,B3078:1,accepted,,,B3078:1:62,Gerris,,,,,Gerridae,,Gerris,Gerris,Gerromorpha | Gerridae | Gerris | Gerris,lacustris,,6KGCH,5154105,6KGCH,5154105
+B3078:1:69,Gerris gibbifer,,Gerris,Gerris,gibbifer,,species,,B3078:1,accepted,,,B3078:1:62,Gerris,,,,,Gerridae,,Gerris,Gerris,Gerromorpha | Gerridae | Gerris | Gerris,gibbifer,,3FX9N,5758659,3FX9N,5758659
+B3078:1:70,Hydrometridae,,,,,,family,,B3078:1,accepted,,,B3078:1:36,Gerromorpha,,,,,Hydrometridae,,,,Gerromorpha,Hydrometridae,,B8R,7884,B8R,7884
+B3078:1:71,Hydrometra,,,,,,genus,,B3078:1,accepted,,,B3078:1:70,Hydrometridae,,,,,Hydrometridae,,Hydrometra,,Gerromorpha | Hydrometridae,Hydrometra,,4ZTP,2020474,4ZTP,2020474
+B3078:1:72,Hydrometra stagnorum,,Hydrometra,,stagnorum,,species,,B3078:1,accepted,,,B3078:1:71,Hydrometra,,,,,Hydrometridae,,Hydrometra,,Gerromorpha | Hydrometridae | Hydrometra,stagnorum,,3N7QM,2049340,3N7QM,2049340
+B3078:1:73,Hydrometra gracilenta,,Hydrometra,,gracilenta,,species,,B3078:1,accepted,,,B3078:1:71,Hydrometra,,,,,Hydrometridae,,Hydrometra,,Gerromorpha | Hydrometridae | Hydrometra,gracilenta,,6MJQV,4485514,6MJQV,4485514

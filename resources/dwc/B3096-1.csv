@@ -1,0 +1,16 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B3096:1:1,Limnoporus,,,,,,genus,,B3096:1,accepted,,,,,,,,,,,Limnoporus,,,Limnoporus,,62YMD,2020446,62YMD,2020446
+B3096:1:2,Limnoporus rufoscutellatus (Latreille),(Latreille),Limnoporus,,rufoscutellatus,,species,,B3096:1,accepted,,,B3096:1:1,Limnoporus,,,,,,,Limnoporus,,Limnoporus,rufoscutellatus (Latreille),,6QCKK,2020450,6QCKK,2020450
+B3096:1:3,Gerris,,,,,,genus,,B3096:1,accepted,,,,,,,,,,,Gerris,,,Gerris,,4N84,2008636,4N84,2008636
+B3096:1:4,Aquarius,,Gerris,,,,subgenus,,B3096:1,accepted,,,B3096:1:3,Gerris,,,,,,,Gerris,Aquarius,Gerris,Aquarius,,ZH4,,ZH4,
+B3096:1:5,Gerris najas (De Geer),(De Geer),Gerris,Aquarius,najas,,species,,B3096:1,accepted,,,B3096:1:4,Aquarius,,,,,,,Gerris,Aquarius,Gerris | Aquarius,najas (De Geer),,PFSXQ,11352941,FZJB,5866107
+B3096:1:6,Gerris paludum (Fabricius),(Fabricius),Gerris,Aquarius,paludum,,species,,B3096:1,accepted,,,B3096:1:4,Aquarius,,,,,,,Gerris,Aquarius,Gerris | Aquarius,paludum (Fabricius),,PFTHY,5758651,67QDV,5866108
+B3096:1:7,Gerriselloides,,Gerris,,,,subgenus,,B3096:1,accepted,,,B3096:1:3,Gerris,,,,,,,Gerris,Gerriselloides,Gerris,Gerriselloides,,L26CL,,L26CL,
+B3096:1:8,Gerris lateralis (Schummel),(Schummel),Gerris,Gerriselloides,lateralis,,species,,B3096:1,accepted,,,B3096:1:7,Gerriselloides,,,,,,,Gerris,Gerriselloides,Gerris | Gerriselloides,lateralis (Schummel),,6KGCB,5758665,6KGCB,5758665
+B3096:1:9,Gerris sphagnetorum Gaunitz,Gaunitz,Gerris,Gerriselloides,sphagnetorum,,species,,B3096:1,accepted,,,B3096:1:7,Gerriselloides,,,,,,,Gerris,Gerriselloides,Gerris | Gerriselloides,sphagnetorum Gaunitz,,6KG46,7612364,6KG46,7612364
+B3096:1:10,Gerris,,Gerris,,,,subgenus,,B3096:1,accepted,,,B3096:1:3,Gerris,,,,,,,Gerris,Gerris,Gerris,Gerris,,4N84,,4N84,
+B3096:1:11,Gerris lacustris (Linnaeus),(Linnaeus),Gerris,Gerris,lacustris,,species,,B3096:1,accepted,,,B3096:1:10,Gerris,,,,,,,Gerris,Gerris,Gerris | Gerris,lacustris (Linnaeus),,6KGCH,5154105,6KGCH,5154105
+B3096:1:12,Gerris gibbifer Schummel,Schummel,Gerris,Gerris,gibbifer,,species,,B3096:1,accepted,,,B3096:1:10,Gerris,,,,,,,Gerris,Gerris,Gerris | Gerris,gibbifer Schummel,,3FX9N,5758659,3FX9N,5758659
+B3096:1:13,Gerris thoracicus Schummel,Schummel,Gerris,Gerris,thoracicus,,species,,B3096:1,accepted,,,B3096:1:10,Gerris,,,,,,,Gerris,Gerris,Gerris | Gerris,thoracicus Schummel,,3FXB2,5758661,3FXB2,5758661
+B3096:1:14,Gerris odontogaster (Zetterstedt),(Zetterstedt),Gerris,Gerris,odontogaster,,species,,B3096:1,accepted,,,B3096:1:10,Gerris,,,,,,,Gerris,Gerris,Gerris | Gerris,odontogaster (Zetterstedt),,6KGBQ,5758658,6KGBQ,5758658
+B3096:1:15,Gerris argentatus Schummel,Schummel,Gerris,Gerris,argentatus,,species,,B3096:1,accepted,,,B3096:1:10,Gerris,,,,,,,Gerris,Gerris,Gerris | Gerris,argentatus Schummel,,3FX8Y,5758660,3FX8Y,5758660

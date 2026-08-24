@@ -1,0 +1,15 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B3032:1:1,Veliinae,,,,,,subfamily,,B3032:1,accepted,,,,,,,,,,Veliinae,,,,Veliinae,,KH5,,KH5,
+B3032:1:2,Veloidea Gould,Gould,,,,,genus,,B3032:1,accepted,,,B3032:1:1,Veliinae,,,,,,Veliinae,Veloidea,,Veliinae,Veloidea Gould,,867G,4774735,867G,4774735
+B3032:1:3,Stridulivelia Hungerford,Hungerford,,,,,genus,,B3032:1,accepted,,,B3032:1:1,Veliinae,,,,,,Veliinae,Stridulivelia,,Veliinae,Stridulivelia Hungerford,,645P5,4783474,645P5,4783474
+B3032:1:4,Stridulivelia Hungerford,Hungerford,Stridulivelia,,,,subgenus,s. str.,B3032:1,accepted,,,B3032:1:3,Stridulivelia Hungerford,,,,,,Veliinae,Stridulivelia,Stridulivelia,Veliinae | Stridulivelia,Stridulivelia Hungerford s. str.,,645P5,,645P5,
+B3032:1:5,Aenictovelia Polhemus,Polhemus,Stridulivelia,,,,subgenus,,B3032:1,accepted,,,B3032:1:3,Stridulivelia Hungerford,,,,,,Veliinae,Stridulivelia,Aenictovelia,Veliinae | Stridulivelia,Aenictovelia Polhemus,,8P35L,,8P35L,
+B3032:1:6,Angilia Stål,Stål,,,,,genus,,B3032:1,accepted,,,B3032:1:1,Veliinae,,,,,,Veliinae,Angilia,,Veliinae,Angilia Stål,,8NLVH,4773201,8NLVH,4773201
+B3032:1:7,Angilia Stål,Stål,Angilia,,,,subgenus,s. str.,B3032:1,accepted,,,B3032:1:6,Angilia Stål,,,,,,Veliinae,Angilia,Angilia,Veliinae | Angilia,Angilia Stål s. str.,,8NLVH,,8NLVH,
+B3032:1:8,Adriennella Poisson,Poisson,Angilia,,,,subgenus,,B3032:1,accepted,,,B3032:1:6,Angilia Stål,,,,,,Veliinae,Angilia,Adriennella,Veliinae | Angilia,Adriennella Poisson,,8P35F,,8P35F,
+B3032:1:9,Angilovelia,,,,,,genus,n. gen.,B3032:1,accepted,,,B3032:1:1,Veliinae,,,,,,Veliinae,Angilovelia,,Veliinae,Angilovelia n. gen.,,W59,4778155,W59,4778155
+B3032:1:10,Paravelia Breddin,Breddin,,,,,genus,,B3032:1,accepted,,,B3032:1:1,Veliinae,,,,,,Veliinae,Paravelia,,Veliinae,Paravelia Breddin,,63LG7,2020372,63LG7,2020372
+B3032:1:11,Velia Latreille,Latreille,,,,,genus,,B3032:1,accepted,,,B3032:1:1,Veliinae,,,,,,Veliinae,Velia,,Veliinae,Velia Latreille,,8669,2020395,8669,2020395
+B3032:1:12,Velia Latreille,Latreille,Velia,,,,subgenus,s. str.,B3032:1,accepted,,,B3032:1:11,Velia Latreille,,,,,,Veliinae,Velia,Velia,Veliinae | Velia,Velia Latreille s. str.,,8669,,8669,
+B3032:1:13,Haldwania Tamanini,Tamanini,Velia,,,,subgenus,,B3032:1,accepted,,,B3032:1:11,Velia Latreille,,,,,,Veliinae,Velia,Haldwania,Veliinae | Velia,Haldwania Tamanini,,8NSB3,,8P3C2,
+B3032:1:14,Plesiovelia Tamanini,Tamanini,Velia,,,,subgenus,,B3032:1,accepted,,,B3032:1:11,Velia Latreille,,,,,,Veliinae,Velia,Plesiovelia,Veliinae | Velia,Plesiovelia Tamanini,,8P3Y6,,8P3Y6,
