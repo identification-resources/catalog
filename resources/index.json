@@ -13306,6 +13306,43 @@
     "id": "B2472:1",
     "taxonCount": 5
   },
+  "B2473:1": {
+    "levels": [
+      "infraorder",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2473:1",
+    "taxonCount": 520
+  },
+  "B2473:2": {
+    "levels": [
+      "infraorder",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "title": [
+        "Nederlandse Pentatomorpha"
+      ],
+      "pages": "23-27",
+      "key_type": [
+        "checklist"
+      ]
+    },
+    "id": "B2473:2",
+    "taxonCount": 487
+  },
   "B2474:1": {
     "levels": [
       "species"
@@ -17757,6 +17794,19 @@
     "id": "B3083:1",
     "taxonCount": 35
   },
+  "B3085:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B3085:1",
+    "taxonCount": 316
+  },
   "B3086:1": {
     "levels": [
       "genus",
@@ -17854,6 +17904,20 @@
     },
     "id": "B3092:4",
     "taxonCount": 6
+  },
+  "B3093:1": {
+    "levels": [
+      "infraorder",
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "form"
+    ],
+    "id": "B3093:1",
+    "taxonCount": 142
   },
   "B3094:1": {
     "levels": [
@@ -18080,5 +18144,17 @@
     ],
     "id": "B3136:1",
     "taxonCount": 9
+  },
+  "B3148:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B3148:1",
+    "taxonCount": 69
   }
 }
