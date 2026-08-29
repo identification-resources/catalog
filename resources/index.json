@@ -11156,6 +11156,338 @@
     "id": "B2094:1",
     "taxonCount": 4
   },
+  "B2095:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "key_type": [
+        "checklist"
+      ]
+    },
+    "id": "B2095:1",
+    "taxonCount": 52
+  },
+  "B2095:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to the last larval instar of the Dutch species"
+      ],
+      "pages": "342-348",
+      "scope": [
+        "nymphs (instar V)"
+      ]
+    },
+    "id": "B2095:2",
+    "taxonCount": 37
+  },
+  "B2095:3": {
+    "levels": [
+      "family",
+      "subfamily"
+    ],
+    "catalog": {
+      "title": [
+        "The first larval instar"
+      ],
+      "pages": "348-348",
+      "scope": [
+        "nymphs (instar I)"
+      ]
+    },
+    "id": "B2095:3",
+    "taxonCount": 4
+  },
+  "B2096:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2096:1",
+    "taxonCount": 15
+  },
+  "B2096:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2096:2",
+    "taxonCount": 7
+  },
+  "B2097:1": {
+    "levels": [
+      "family"
+    ],
+    "id": "B2097:1",
+    "taxonCount": 20
+  },
+  "B2098:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2098:1",
+    "taxonCount": 19
+  },
+  "B2099:1": {
+    "levels": [
+      "species",
+      "subspecies"
+    ],
+    "id": "B2099:1",
+    "taxonCount": 4
+  },
+  "B2101:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2101:1",
+    "taxonCount": 5
+  },
+  "B2104:1": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "id": "B2104:1",
+    "taxonCount": 18
+  },
+  "B2104:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Key to American species of genus Piesma"
+      ],
+      "pages": "576-576",
+      "region": [
+        "North America",
+        "South America"
+      ]
+    },
+    "id": "B2104:2",
+    "taxonCount": 24
+  },
+  "B2105:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2105:1",
+    "taxonCount": 7
+  },
+  "B2106:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2106:1",
+    "taxonCount": 19
+  },
+  "B2108:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2108:1",
+    "taxonCount": 13
+  },
+  "B2109:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2109:1",
+    "taxonCount": 6
+  },
+  "B2110:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2110:1",
+    "taxonCount": 5
+  },
+  "B2112:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2112:1",
+    "taxonCount": 9
+  },
+  "B2113:1": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "id": "B2113:1",
+    "taxonCount": 19
+  },
+  "B2114:1": {
+    "levels": [
+      "species",
+      "subspecies"
+    ],
+    "id": "B2114:1",
+    "taxonCount": 30
+  },
+  "B2115:1": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "catalog": {
+      "taxon": [
+        "Nepidae"
+      ],
+      "target_taxa": [
+        "genus"
+      ]
+    },
+    "flags": [
+      "MISSING_SYNONYMS"
+    ],
+    "id": "B2115:1",
+    "taxonCount": 8
+  },
+  "B2115:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "flags": [
+      "MISSING_SYNONYMS"
+    ],
+    "id": "B2115:2",
+    "taxonCount": 33
+  },
+  "B2116:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2116:1",
+    "taxonCount": 5
+  },
+  "B2117:1": {
+    "levels": [
+      "genus"
+    ],
+    "id": "B2117:1",
+    "taxonCount": 2
+  },
+  "B2122:1": {
+    "levels": [
+      "family",
+      "genus"
+    ],
+    "id": "B2122:1",
+    "taxonCount": 6
+  },
+  "B2123:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2123:1",
+    "taxonCount": 3
+  },
+  "B2139:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2139:1",
+    "taxonCount": 21
+  },
+  "B2140:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2140:1",
+    "taxonCount": 53
+  },
+  "B2141:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2141:1",
+    "taxonCount": 34
+  },
+  "B2142:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2142:1",
+    "taxonCount": 9
+  },
+  "B2143:1": {
+    "levels": [
+      "genus",
+      "species",
+      "aberration"
+    ],
+    "id": "B2143:1",
+    "taxonCount": 7
+  },
+  "B2144:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "taxon": [
+        "Halobates"
+      ]
+    },
+    "id": "B2144:1",
+    "taxonCount": 12
+  },
+  "B2144:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "taxon": [
+        "Halobatodes"
+      ]
+    },
+    "id": "B2144:2",
+    "taxonCount": 5
+  },
   "B2155:1": {
     "levels": [
       "family",

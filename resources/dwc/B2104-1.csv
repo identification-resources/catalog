@@ -1,0 +1,19 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2104:1:1,Piesmatidae Spinola 1850,Spinola 1850,,,,,family,,B2104:1,accepted,,,,,,,,,Piesmatidae,,,,,Piesmatidae Spinola 1850,,8NKPC,9651,8NKPC,9651
+B2104:1:2,Piesmides Amyot & Serville 1843,Amyot & Serville 1843,,,,,family,,B2104:1,synonym,B2104:1:1,Piesmatidae Spinola 1850,,,,,,,Piesmides,,,,,Piesmides Amyot & Serville 1843,,,11147826,,11147826
+B2104:1:3,Piesmoeideae Spinola 1850,Spinola 1850,,,,,family,,B2104:1,synonym,B2104:1:1,Piesmatidae Spinola 1850,,,,,,,Piesmoeideae,,,,,Piesmoeideae Spinola 1850,,,,,
+B2104:1:4,Zosmenidae Dohrn 1859,Dohrn 1859,,,,,family,,B2104:1,synonym,B2104:1:1,Piesmatidae Spinola 1850,,,,,,,Zosmenidae,,,,,Zosmenidae Dohrn 1859,,8QPKV,11406880,9HP3W,9651
+B2104:1:5,"Zosmeridae Douglas & Scott, 1865","Douglas & Scott, 1865",,,,,family,,B2104:1,synonym,B2104:1:1,Piesmatidae Spinola 1850,,,,,,,Zosmeridae,,,,,"Zosmeridae Douglas & Scott, 1865",,,,,
+B2104:1:6,Piesmina Stoal 1873,Stoal 1873,,,,,family,,B2104:1,synonym,B2104:1:1,Piesmatidae Spinola 1850,,,,,,,Piesmina,,,,,Piesmina Stoal 1873,,,,,
+B2104:1:7,Piesmini Puton 1879,Puton 1879,,,,,family,,B2104:1,synonym,B2104:1:1,Piesmatidae Spinola 1850,,,,,,,Piesmini,,,,,Piesmini Puton 1879,,,,,
+B2104:1:8,Piesmidae Lethierry & Severin 1896,Lethierry & Severin 1896,,,,,family,,B2104:1,synonym,B2104:1:1,Piesmatidae Spinola 1850,,,,,,,Piesmidae,,,,,Piesmidae Lethierry & Severin 1896,,D3STQ,6075707,D3STQ,6075707
+B2104:1:9,Piesminae Champion 1879,Champion 1879,,,,,family,,B2104:1,synonym,B2104:1:1,Piesmatidae Spinola 1850,,,,,,,Piesminae,,,,,Piesminae Champion 1879,,,,,
+B2104:1:10,Piesmidae Horváth 1911,Horváth 1911,,,,,family,,B2104:1,synonym,B2104:1:1,Piesmatidae Spinola 1850,,,,,,,Piesmidae,,,,,Piesmidae Horváth 1911,,D3STQ,6075707,D3STQ,6075707
+B2104:1:11,Piesmatidae Stichel 1926,Stichel 1926,,,,,family,,B2104:1,synonym,B2104:1:1,Piesmatidae Spinola 1850,,,,,,,Piesmatidae,,,,,Piesmatidae Stichel 1926,,8NKPC,9651,8NKPC,9651
+B2104:1:12,Piesma Le Peletier & Serville 1825,Le Peletier & Serville 1825,,,,,genus,,B2104:1,accepted,,,B2104:1:1,Piesmatidae Spinola 1850,,,,,Piesmatidae,,Piesma,,Piesmatidae,Piesma Le Peletier & Serville 1825,,8NWWC,2008264,8NWWC,2008264
+B2104:1:13,Agrammodes Uhler 1895,Uhler 1895,,,,,genus,,B2104:1,synonym,B2104:1:12,Piesma Le Peletier & Serville 1825,,,,,,,Piesmatidae,,Agrammodes,,Piesmatidae,Agrammodes Uhler 1895,,8NLND,3266462,8NWWC,2008264
+B2104:1:14,Aspidotoma Curtis 1833,Curtis 1833,,,,,genus,,B2104:1,synonym,B2104:1:12,Piesma Le Peletier & Serville 1825,,,,,,,Piesmatidae,,Aspidotoma,,Piesmatidae,Aspidotoma Curtis 1833,,,4781594,,4781594
+B2104:1:15,Zosmenus Laporte 1833,Laporte 1833,,,,,genus,,B2104:1,synonym,B2104:1:12,Piesma Le Peletier & Serville 1825,,,,,,,Piesmatidae,,Zosmenus,,Piesmatidae,Zosmenus Laporte 1833,,8P345,4290014,8NWWC,2008264
+B2104:1:16,Zosmerus Burmeister 1835,Burmeister 1835,,,,,genus,,B2104:1,synonym,B2104:1:12,Piesma Le Peletier & Serville 1825,,,,,,,Piesmatidae,,Zosmerus,,Piesmatidae,Zosmerus Burmeister 1835,,,,,
+B2104:1:17,Mcateella Drake 1924,Drake 1924,,,,,genus,,B2104:1,accepted,,,B2104:1:1,Piesmatidae Spinola 1850,,,,,Piesmatidae,,Mcateella,,Piesmatidae,Mcateella Drake 1924,,8NV2T,4773104,8NV2T,4773104
+B2104:1:18,Miespa Drake 1948,Drake 1948,,,,,genus,,B2104:1,accepted,,,B2104:1:1,Piesmatidae Spinola 1850,,,,,Piesmatidae,,Miespa,,Piesmatidae,Miespa Drake 1948,,8NVFK,4779980,8NVFK,4779980

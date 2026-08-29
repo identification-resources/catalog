@@ -1,0 +1,54 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2140:1:1,Pentatomoidea,,,,,,superfamily,,B2140:1,accepted,,,,,,,,,,,,,,Pentatomoidea,,BXWDQ,,BXWDQ,
+B2140:1:2,Brachyplatidae Leston,Leston,,,,,family,,B2140:1,accepted,,,B2140:1:1,Pentatomoidea,,,,,Brachyplatidae,,,,Pentatomoidea,Brachyplatidae Leston,,,,,
+B2140:1:3,Plataspidae Dall.,Dall.,,,,,family,,B2140:1,synonym,B2140:1:2,Brachyplatidae Leston,,,,,,,Plataspidae,,,,Pentatomoidea,Plataspidae Dall.,,S2FFR,9652,S2FFR,9652
+B2140:1:4,Coptosominae Kirk.,Kirk.,,,,,family,,B2140:1,synonym,B2140:1:2,Brachyplatidae Leston,,,,,,,Coptosominae,,,,Pentatomoidea,Coptosominae Kirk.,,,,,
+B2140:1:5,Coptosoma Lap.,Lap.,,,,,genus,,B2140:1,accepted,,,B2140:1:2,Brachyplatidae Leston,,,,,Brachyplatidae,,Coptosoma,,Pentatomoidea | Brachyplatidae,Coptosoma Lap.,,N6SM8,3265959,N6SM8,3265959
+B2140:1:6,Coptosoma scutellata Geoffr.,Geoffr.,Coptosoma,,scutellata,,species,,B2140:1,accepted,,,B2140:1:5,Coptosoma Lap.,,,,,Brachyplatidae,,Coptosoma,,Pentatomoidea | Brachyplatidae | Coptosoma,scutellata Geoffr.,,N6SMX,6096723,N6SMX,6096723
+B2140:1:7,Scutelleridae,,,,,,family,,B2140:1,accepted,,,B2140:1:1,Pentatomoidea,,,,,Scutelleridae,,,,Pentatomoidea,Scutelleridae,,BXWJF,4327,BXWJF,4327
+B2140:1:8,Scutellerinae,,,,,,subfamily,,B2140:1,accepted,,,B2140:1:7,Scutelleridae,,,,,Scutelleridae,Scutellerinae,,,Pentatomoidea | Scutelleridae,Scutellerinae,,,,,
+B2140:1:9,Graphosominae,,,,,,subfamily,,B2140:1,accepted,,,B2140:1:7,Scutelleridae,,,,,Scutelleridae,Graphosominae,,,Pentatomoidea | Scutelleridae,Graphosominae,,,,,
+B2140:1:10,Cydnidae Billberg,Billberg,,,,,family,,B2140:1,accepted,,,B2140:1:1,Pentatomoidea,,,,,Cydnidae,,,,Pentatomoidea,Cydnidae Billberg,,BXWHY,6989,BXWHY,6989
+B2140:1:11,Stibaropus Dall.,Dall.,,,,,genus,,B2140:1,accepted,,,B2140:1:10,Cydnidae Billberg,,,,,Cydnidae,,Stibaropus,,Pentatomoidea | Cydnidae,Stibaropus Dall.,,TCVL7,4406888,TCVL7,4406888
+B2140:1:12,Stibaropus henkei Jak.,Jak.,Stibaropus,,henkei,,species,,B2140:1,accepted,,,B2140:1:11,Stibaropus Dall.,,,,,Cydnidae,,Stibaropus,,Pentatomoidea | Cydnidae | Stibaropus,henkei Jak.,,TCVLC,4486130,TCVLC,4486130
+B2140:1:13,Byrsinus M. & R.,M. & R.,,,,,genus,,B2140:1,accepted,,,B2140:1:10,Cydnidae Billberg,,,,,Cydnidae,,Byrsinus,,Pentatomoidea | Cydnidae,Byrsinus M. & R.,,LZS84,4406877,LZS84,4406877
+B2140:1:14,Byrsinus fossor M. & R.,M. & R.,Byrsinus,,fossor,,species,,B2140:1,accepted,,,B2140:1:13,Byrsinus M. & R.,,,,,Cydnidae,,Byrsinus,,Pentatomoidea | Cydnidae | Byrsinus,fossor M. & R.,,LZS8W,4486095,LZS8W,4486095
+B2140:1:15,Cydnus F.,F.,,,,,genus,,B2140:1,accepted,,,B2140:1:10,Cydnidae Billberg,,,,,Cydnidae,,Cydnus,,Pentatomoidea | Cydnidae,Cydnus F.,,MZ5P6,2078814,MZ5P6,2078814
+B2140:1:16,Brachypelta A. S.,A. S.,,,,,genus,,B2140:1,synonym,B2140:1:15,Cydnus F.,,,,,,,Cydnidae,,Brachypelta,,Pentatomoidea | Cydnidae,Brachypelta A. S.,,LZN5M,4784719,LZN5M,4784719
+B2140:1:17,Cydnus aterrimus Forst.,Forst.,Cydnus,,aterrimus,,species,,B2140:1,accepted,,,B2140:1:15,Cydnus F.,,,,,Cydnidae,,Cydnus,,Pentatomoidea | Cydnidae | Cydnus,aterrimus Forst.,,MZ5QT,2078815,MZ5QT,2078815
+B2140:1:18,Aethus Dall.,Dall.,,,,,genus,,B2140:1,accepted,,,B2140:1:10,Cydnidae Billberg,,,,,Cydnidae,,Aethus,,Pentatomoidea | Cydnidae,Aethus Dall.,,L7WQ8,2078763,L7WQ8,2078763
+B2140:1:19,Cydnus F.,F.,,,,,genus,,B2140:1,synonym,B2140:1:18,Aethus Dall.,,,,,,,Cydnidae,,Cydnus,,Pentatomoidea | Cydnidae,Cydnus F.,,MZ5P6,2078814,MZ5P6,2078814
+B2140:1:20,Microporus Uhl.,Uhl.,,,,,genus,,B2140:1,synonym,B2140:1:18,Aethus Dall.,,,,,,,Cydnidae,,Microporus,,Pentatomoidea | Cydnidae,Microporus Uhl.,,QN4PN,2078797,QN4PN,2078797
+B2140:1:21,Cydnus Sign.,Sign.,,,,,genus,,B2140:1,synonym,B2140:1:18,Aethus Dall.,,,,,,,Cydnidae,,Cydnus,,Pentatomoidea | Cydnidae,Cydnus Sign.,,MZ5P6,2078814,MZ5P6,2078814
+B2140:1:22,Aethus flavicornis F.,F.,Aethus,,flavicornis,,species,,B2140:1,accepted,,,B2140:1:18,Aethus Dall.,,,,,Cydnidae,,Aethus,,Pentatomoidea | Cydnidae | Aethus,flavicornis F.,,L7WQK,6096815,LZS8S,4486103
+B2140:1:23,Aethus nigritus F.,F.,Aethus,,nigritus,,species,,B2140:1,accepted,,,B2140:1:18,Aethus Dall.,,,,,Cydnidae,,Aethus,,Pentatomoidea | Cydnidae | Aethus,nigritus F.,,L7WRG,2078764,L7WRG,5758803
+B2140:1:24,Geotomus M. & R.,M. & R.,,,,,genus,,B2140:1,accepted,,,B2140:1:10,Cydnidae Billberg,,,,,Cydnidae,,Geotomus,,Pentatomoidea | Cydnidae,Geotomus M. & R.,,PCND5,2078736,PCND5,2078736
+B2140:1:25,Geotomus punctulatus Costa,Costa,Geotomus,,punctulatus,,species,,B2140:1,accepted,,,B2140:1:24,Geotomus M. & R.,,,,,Cydnidae,,Geotomus,,Pentatomoidea | Cydnidae | Geotomus,punctulatus Costa,,PCNMY,4486116,PCNMY,4486116
+B2140:1:26,Geotomus elongatus H.-Sch.,H.-Sch.,Geotomus,,elongatus,,species,,B2140:1,accepted,,,B2140:1:24,Geotomus M. & R.,,,,,Cydnidae,,Geotomus,,Pentatomoidea | Cydnidae | Geotomus,elongatus H.-Sch.,,PCNGX,4486118,PCNGX,4486118
+B2140:1:27,Ochetostethus Fieb.,Fieb.,,,,,genus,,B2140:1,accepted,,,B2140:1:10,Cydnidae Billberg,,,,,Cydnidae,,Ochetostethus,,Pentatomoidea | Cydnidae,Ochetostethus Fieb.,,QTS3K,4404611,QTS3K,4404611
+B2140:1:28,Ochetostethus nanus H.-Sch.,H.-Sch.,Ochetostethus,,nanus,,species,,B2140:1,accepted,,,B2140:1:27,Ochetostethus Fieb.,,,,,Cydnidae,,Ochetostethus,,Pentatomoidea | Cydnidae | Ochetostethus,nanus H.-Sch.,,QTS4X,4486192,QTS4X,4486192
+B2140:1:29,Legnotus Schiödte,Schiödte,,,,,genus,,B2140:1,accepted,,,B2140:1:10,Cydnidae Billberg,,,,,Cydnidae,,Legnotus,,Pentatomoidea | Cydnidae,Legnotus Schiödte,,PX3DX,3265255,PX3DX,3265255
+B2140:1:30,Legnotus albomarginatus Gz.,Gz.,Legnotus,,albomarginatus,,species,,B2140:1,accepted,,,B2140:1:29,Legnotus Schiödte,,,,,Cydnidae,,Legnotus,,Pentatomoidea | Cydnidae | Legnotus,albomarginatus Gz.,,PX3FP,11230041,PX3G4,5758810
+B2140:1:31,Legnotus picipes Fall.,Fall.,Legnotus,,picipes,,species,,B2140:1,accepted,,,B2140:1:29,Legnotus Schiödte,,,,,Cydnidae,,Legnotus,,Pentatomoidea | Cydnidae | Legnotus,picipes Fall.,,PX3GV,5758812,PX3GV,5758812
+B2140:1:32,Legnotus picipes var. fumigatus Costa,Costa,Legnotus,,picipes,fumigatus,variety,,B2140:1,accepted,,,B2140:1:31,Legnotus picipes Fall.,,,,,Cydnidae,,Legnotus,,Pentatomoidea | Cydnidae | Legnotus | Legnotus picipes,var. fumigatus Costa,,,,,
+B2140:1:33,Sehirus A. & S.,A. & S.,,,,,genus,,B2140:1,accepted,,,B2140:1:10,Cydnidae Billberg,,,,,Cydnidae,,Sehirus,,Pentatomoidea | Cydnidae,Sehirus A. & S.,,SYLS3,2078780,SYLS3,2078780
+B2140:1:34,Sehirus morio L.,L.,Sehirus,,morio,,species,,B2140:1,accepted,,,B2140:1:33,Sehirus A. & S.,,,,,Cydnidae,,Sehirus,,Pentatomoidea | Cydnidae | Sehirus,morio L.,,SYLV9,2078781,SYLV9,2078781
+B2140:1:35,Sehirus luctuosus M. & R.,M. & R.,Sehirus,,luctuosus,,species,,B2140:1,accepted,,,B2140:1:33,Sehirus A. & S.,,,,,Cydnidae,,Sehirus,,Pentatomoidea | Cydnidae | Sehirus,luctuosus M. & R.,,SYLTY,4486163,SYLTY,4486163
+B2140:1:36,Sehirus ovatus H.-Sch.,H.-Sch.,Sehirus,,ovatus,,species,,B2140:1,accepted,,,B2140:1:33,Sehirus A. & S.,,,,,Cydnidae,,Sehirus,,Pentatomoidea | Cydnidae | Sehirus,ovatus H.-Sch.,,SYLVF,4486164,MZ5XD,4486164
+B2140:1:37,Sehirus parens M. & R.,M. & R.,Sehirus,,parens,,species,,B2140:1,accepted,,,B2140:1:33,Sehirus A. & S.,,,,,Cydnidae,,Sehirus,,Pentatomoidea | Cydnidae | Sehirus,parens M. & R.,,SYLVK,4486162,SYLVK,4486162
+B2140:1:38,Canthophorus M. & R.,M. & R.,,,,,genus,,B2140:1,accepted,,,B2140:1:10,Cydnidae Billberg,,,,,Cydnidae,,Canthophorus,,Pentatomoidea | Cydnidae,Canthophorus M. & R.,,M78P5,4289992,SYLS3,4289992
+B2140:1:39,Canthophorus biguttatus L.,L.,Canthophorus,,biguttatus,,species,,B2140:1,accepted,,,B2140:1:38,Canthophorus M. & R.,,,,,Cydnidae,,Canthophorus,,Pentatomoidea | Cydnidae | Canthophorus,biguttatus L.,,,,,
+B2140:1:40,Canthophorus biguttatus var. concolor Nick.,Nick.,Canthophorus,,biguttatus,concolor,variety,,B2140:1,accepted,,,B2140:1:39,Canthophorus biguttatus L.,,,,,Cydnidae,,Canthophorus,,Pentatomoidea | Cydnidae | Canthophorus | Canthophorus biguttatus,var. concolor Nick.,,,,,
+B2140:1:41,Canthophorus dubius Scop.,Scop.,Canthophorus,,dubius,,species,,B2140:1,accepted,,,B2140:1:38,Canthophorus M. & R.,,,,,Cydnidae,,Canthophorus,,Pentatomoidea | Cydnidae | Canthophorus,dubius Scop.,,M78PP,4486159,M78QG,4486159
+B2140:1:42,Canthophorus dubius var. melanopterus H.-Sch.,H.-Sch.,Canthophorus,,dubius,melanopterus,variety,,B2140:1,accepted,,,B2140:1:41,Canthophorus dubius Scop.,,,,,Cydnidae,,Canthophorus,,Pentatomoidea | Cydnidae | Canthophorus | Canthophorus dubius,var. melanopterus H.-Sch.,,,,,
+B2140:1:43,Canthophorus dubius var. impressus Horv.,Horv.,Canthophorus,,dubius,impressus,variety,,B2140:1,accepted,,,B2140:1:41,Canthophorus dubius Scop.,,,,,Cydnidae,,Canthophorus,,Pentatomoidea | Cydnidae | Canthophorus | Canthophorus dubius,var. impressus Horv.,,,,,
+B2140:1:44,Canthophorus sexmaculatus Ramb.,Ramb.,Canthophorus,,sexmaculatus,,species,,B2140:1,accepted,,,B2140:1:38,Canthophorus M. & R.,,,,,Cydnidae,,Canthophorus,,Pentatomoidea | Cydnidae | Canthophorus,sexmaculatus Ramb.,,,,,
+B2140:1:45,Canthophorus bicolor L.,L.,Canthophorus,,bicolor,,species,,B2140:1,accepted,,,B2140:1:38,Canthophorus M. & R.,,,,,Cydnidae,,Canthophorus,,Pentatomoidea | Cydnidae | Canthophorus,bicolor L.,,,,,
+B2140:1:46,Pentatomidae,,,,,,family,,B2140:1,accepted,,,B2140:1:1,Pentatomoidea,,,,,Pentatomidae,,,,Pentatomoidea,Pentatomidae,,BXWJD,9650,BXWJD,9650
+B2140:1:47,Acanthosominae,,,,,,subfamily,,B2140:1,accepted,,,B2140:1:46,Pentatomidae,,,,,Pentatomidae,Acanthosominae,,,Pentatomoidea | Pentatomidae,Acanthosominae,,,,,
+B2140:1:48,Asopinae,,,,,,subfamily,,B2140:1,accepted,,,B2140:1:46,Pentatomidae,,,,,Pentatomidae,Asopinae,,,Pentatomoidea | Pentatomidae,Asopinae,,,,,
+B2140:1:49,Pentatominae,,,,,,subfamily,,B2140:1,accepted,,,B2140:1:46,Pentatomidae,,,,,Pentatomidae,Pentatominae,,,Pentatomoidea | Pentatomidae,Pentatominae,,,,,
+B2140:1:50,Sciocorini,,,,,,tribe,,B2140:1,accepted,,,B2140:1:49,Pentatominae,,,,,Pentatomidae,Pentatominae,,,Pentatomoidea | Pentatomidae | Pentatominae,Sciocorini,,,,,
+B2140:1:51,Aelini,,,,,,tribe,,B2140:1,accepted,,,B2140:1:49,Pentatominae,,,,,Pentatomidae,Pentatominae,,,Pentatomoidea | Pentatomidae | Pentatominae,Aelini,,,,,
+B2140:1:52,Pentatomini,,,,,,tribe,,B2140:1,accepted,,,B2140:1:49,Pentatominae,,,,,Pentatomidae,Pentatominae,,,Pentatomoidea | Pentatomidae | Pentatominae,Pentatomini,,,,,
+B2140:1:53,Eurydemini,,,,,,tribe,,B2140:1,accepted,,,B2140:1:49,Pentatominae,,,,,Pentatomidae,Pentatominae,,,Pentatomoidea | Pentatomidae | Pentatominae,Eurydemini,,,,,

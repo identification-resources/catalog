@@ -1,0 +1,8 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2105:1:1,Cimicidae,,,,,,family,,B2105:1,accepted,,,,,,,,,Cimicidae,,,,,Cimicidae,,7NGSF,9648,7NGSF,9648
+B2105:1:2,Oeciacus Stål,Stål,,,,,genus,,B2105:1,accepted,,,B2105:1:1,Cimicidae,,,,,Cimicidae,,Oeciacus,,Cimicidae,Oeciacus Stål,,7PN2L,2021052,7NSX3,2007745
+B2105:1:3,Oeciacus hirundinis,,Oeciacus,,hirundinis,,species,,B2105:1,accepted,,,B2105:1:2,Oeciacus Stål,,,,,Cimicidae,,Oeciacus,,Cimicidae | Oeciacus,hirundinis,,7W53P,11355062,7SBM8,2021054
+B2105:1:4,Cimex Lin.,Lin.,,,,,genus,,B2105:1,accepted,,,B2105:1:1,Cimicidae,,,,,Cimicidae,,Cimex,,Cimicidae,Cimex Lin.,,7NSX3,2007745,7NSX3,2007745
+B2105:1:5,Cimex pipistrelus L.,L.,Cimex,,pipistrelus,,species,,B2105:1,accepted,,,B2105:1:4,Cimex Lin.,,,,,Cimicidae,,Cimex,,Cimicidae | Cimex,pipistrelus L.,,7SBML,4487133,7SBML,4487133
+B2105:1:6,Cimex columbarius L.,L.,Cimex,,columbarius,,species,,B2105:1,accepted,,,B2105:1:4,Cimex Lin.,,,,,Cimicidae,,Cimex,,Cimicidae | Cimex,columbarius L.,,7SBLR,4487131,7SBLR,4487131
+B2105:1:7,Cimex lectularius Lin.,Lin.,Cimex,,lectularius,,species,,B2105:1,accepted,,,B2105:1:4,Cimex Lin.,,,,,Cimicidae,,Cimex,,Cimicidae | Cimex,lectularius Lin.,,7SBMG,2021062,7SBMG,2021062

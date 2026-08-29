@@ -1,0 +1,8 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2143:1:1,Peribalus,,,,,,genus,,B2143:1,accepted,,,,,,,,,,,Peribalus,,,Peribalus,,RCMR8,2079014,PVWDX,2079014
+B2143:1:2,Peribalus vernalis Wolff,Wolff,Peribalus,,vernalis,,species,,B2143:1,accepted,,,B2143:1:1,Peribalus,,,,,,,Peribalus,,Peribalus,vernalis Wolff,,RCMVC,6096796,RCMRR,6096794
+B2143:1:3,Peribalus dispar,,Peribalus,,dispar,,species,n. sp.,B2143:1,accepted,,,B2143:1:1,Peribalus,,,,,,,Peribalus,,Peribalus,dispar n. sp.,,V2MTX,,RCMRZ,
+B2143:1:4,Peribalus dispar Horv.,Horv.,Peribalus,,dispar,,species,nomen nudum,B2143:1,synonym,B2143:1:3,Peribalus dispar,,,,,,,,,Peribalus,,Peribalus,Peribalus dispar Horv. nomen nudum,,V2MTX,,RCMRZ,
+B2143:1:5,Peribalus strictus Fabr.,Fabr.,Peribalus,,strictus,,species,,B2143:1,accepted,,,B2143:1:1,Peribalus,,,,,,,Peribalus,,Peribalus,strictus Fabr.,,RCMRR,4485782,RCMRR,6096794
+B2143:1:6,Peribalus strictus ab. immaculicornis Rey,Rey,Peribalus,,strictus,immaculicornis,aberration,,B2143:1,accepted,,,B2143:1:5,Peribalus strictus Fabr.,,,,,,,Peribalus,,Peribalus | Peribalus strictus,ab. immaculicornis Rey,,,,,
+B2143:1:7,Peribalus sphacelatus Fabr.,Fabr.,Peribalus,,sphacelatus,,species,,B2143:1,accepted,,,B2143:1:1,Peribalus,,,,,,,Peribalus,,Peribalus,sphacelatus Fabr,,RCMTL,10207873,PVWFG,2079190

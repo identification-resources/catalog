@@ -1,0 +1,22 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2139:1:1,Sciocoris Fall.,Fall.,,,,,genus,,B2139:1,accepted,,,,,,,,,,,Sciocoris,,,Sciocoris Fall.,,SRR75,2079251,SRR75,2079251
+B2139:1:2,Sciocoris sulcatus Fieb.,Fieb.,Sciocoris,,sulcatus,,species,,B2139:1,accepted,,,B2139:1:1,Sciocoris Fall.,,,,,,,Sciocoris,,Sciocoris,sulcatus Fieb.,,SRR9Z,4485857,SRR9Z,4485857
+B2139:1:3,Sciocoris angustipennis Muls. & R.,Muls. & R.,Sciocoris,,angustipennis,,species,,B2139:1,synonym,B2139:1:2,Sciocoris sulcatus Fieb.,,,,,,,,,Sciocoris,,Sciocoris,angustipennis Muls. & R.,,,,,
+B2139:1:4,Sciocoris macrocephalus Fieb.,Fieb.,Sciocoris,,macrocephalus,,species,,B2139:1,accepted,,,B2139:1:1,Sciocoris Fall.,,,,,,,Sciocoris,,Sciocoris,macrocephalus Fieb.,,SRR7K,4485868,SRR7K,4485868
+B2139:1:5,Sciocoris basalis Fieb.,Fieb.,Sciocoris,,basalis,,species,,B2139:1,synonym,B2139:1:4,Sciocoris macrocephalus Fieb.,,,,,,,,,Sciocoris,,Sciocoris,basalis Fieb.,,,,,
+B2139:1:6,Sciocoris europaeus Am. Sign.,Am. Sign.,Sciocoris,,europaeus,,species,,B2139:1,synonym,B2139:1:4,Sciocoris macrocephalus Fieb.,,,,,,,,,Sciocoris,,Sciocoris,europaeus Am. Sign.,"{""synonymUncertain"":true}",,,,
+B2139:1:7,Sciocoris conspurcatus Muls. & R.,Muls. & R.,Sciocoris,,conspurcatus,,species,nec Klug,B2139:1,synonym,B2139:1:4,Sciocoris macrocephalus Fieb.,,,,,,,,,Sciocoris,,Sciocoris,conspurcatus Muls. & R. nec Klug,,SRR83,4485879,SRR83,4485879
+B2139:1:8,Sciocoris microphthalmus Flor,Flor,Sciocoris,,microphthalmus,,species,,B2139:1,accepted,,,B2139:1:1,Sciocoris Fall.,,,,,,,Sciocoris,,Sciocoris,microphthalmus Flor,,SRR7N,2079252,SRR7N,2079252
+B2139:1:9,Sciocoris curtipennis Muls. & R.,Muls. & R.,Sciocoris,,curtipennis,,species,,B2139:1,synonym,B2139:1:8,Sciocoris microphthalmus Flor,,,,,,,,,Sciocoris,,Sciocoris,curtipennis Muls. & R.,,,,,
+B2139:1:10,Sciocoris umbrinus Pz.,Pz.,Sciocoris,,umbrinus,,species,,B2139:1,synonym,B2139:1:8,Sciocoris microphthalmus Flor,,,,,,,,,Sciocoris,,Sciocoris,umbrinus Pz.,,SRR7V,2079255,SRR9B,2079255
+B2139:1:11,Sciocoris homalonotus Fieb.,Fieb.,Sciocoris,,homalonotus,,species,,B2139:1,accepted,,,B2139:1:1,Sciocoris Fall.,,,,,,,Sciocoris,,Sciocoris,homalonotus Fieb.,,SRR7F,4485866,SRR7F,4485866
+B2139:1:12,Sciocoris deltocephalus Fieb.,Fieb.,Sciocoris,,deltocephalus,,species,,B2139:1,accepted,,,B2139:1:1,Sciocoris Fall.,,,,,,,Sciocoris,,Sciocoris,deltocephalus Fieb.,,SRR9F,4485865,SRR9F,4485865
+B2139:1:13,Sciocoris cursitans F.,F.,Sciocoris,,cursitans,,species,,B2139:1,accepted,,,B2139:1:1,Sciocoris Fall.,,,,,,,Sciocoris,,Sciocoris,cursitans F.,,SRR9B,2079253,SRR9B,2079253
+B2139:1:14,Sciocoris umbrinus Flor,Flor,Sciocoris,,umbrinus,,species,,B2139:1,synonym,B2139:1:13,Sciocoris cursitans F.,,,,,,,,,Sciocoris,,Sciocoris,umbrinus Flor,,SRR7V,2079255,SRR9B,2079255
+B2139:1:15,Sciocoris terreus Schrk.,Schrk.,Sciocoris,,terreus,,species,,B2139:1,synonym,B2139:1:13,Sciocoris cursitans F.,,,,,,,,,Sciocoris,,Sciocoris,terreus Schrk.,,SRRGF,9876318,SRR9B,2079253
+B2139:1:16,Sciocoris distinctus Fieb.,Fieb.,Sciocoris,,distinctus,,species,,B2139:1,accepted,,,B2139:1:1,Sciocoris Fall.,,,,,,,Sciocoris,,Sciocoris,distinctus Fieb.,,,4485859,,6096794
+B2139:1:17,Sciocoris umbrinus Wlff.,Wlff.,Sciocoris,,umbrinus,,species,,B2139:1,accepted,,,B2139:1:1,Sciocoris Fall.,,,,,,,Sciocoris,,Sciocoris,umbrinus Wlff.,,SRR7V,2079255,SRR9B,2079255
+B2139:1:18,Sciocoris brevicollis Fieb.,Fieb.,Sciocoris,,brevicollis,,species,,B2139:1,synonym,B2139:1:17,Sciocoris umbrinus Wlff.,,,,,,,,,Sciocoris,,Sciocoris,brevicollis Fieb.,,,,,
+B2139:1:19,Sciocoris fieberi Flor,Flor,Sciocoris,,fieberi,,species,,B2139:1,synonym,B2139:1:17,Sciocoris umbrinus Wlff.,,,,,,,,,Sciocoris,,Sciocoris,Fieberi Flor,,,,,
+B2139:1:20,Sciocoris brevicollis Fieb.,Fieb.,Sciocoris,,brevicollis,,species,,B2139:1,accepted,,,B2139:1:1,Sciocoris Fall.,,,,,,,Sciocoris,,Sciocoris,brevicollis Fieb.,,,,,
+B2139:1:21,Sciocoris rotermundi Schum.,Schum.,Sciocoris,,rotermundi,,species,,B2139:1,synonym,B2139:1:20,Sciocoris brevicollis Fieb.,,,,,,,,,Sciocoris,,Sciocoris,rotermundi Schum.,,,,,
