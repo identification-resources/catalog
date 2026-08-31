@@ -1,0 +1,8 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2151:1:1,Myrmecorini,,,,,,tribe,,B2151:1,accepted,,,,,,,,,,,,,,Myrmecorini,,,,,
+B2151:1:2,"Camponotidea Reut., 1879","Reut., 1879",,,,,genus,,B2151:1,accepted,,,B2151:1:1,Myrmecorini,,,,,,,Camponotidea,,Myrmecorini,"Camponotidea Reut., 1879",,3GGB,4406140,3GGB,4406140
+B2151:1:3,Camponotidea saundersi Put.,Put.,Camponotidea,,saundersi,,species,,B2151:1,accepted,,,B2151:1:2,"Camponotidea Reut., 1879",,,,,,,Camponotidea,,Myrmecorini | Camponotidea,saundersi Put.,,QDFK,4487287,QDFK,4487287
+B2151:1:4,Camponotidea fieberi Reut.,Reut.,Camponotidea,,fieberi,,species,,B2151:1,accepted,,,B2151:1:2,"Camponotidea Reut., 1879",,,,,,,Camponotidea,,Myrmecorini | Camponotidea,fieberi Reut.,,QDFH,4487289,QDFH,4487289
+B2151:1:5,"Camponotidea fieberi f. simulans Horv., 1918","Horv., 1918",Camponotidea,,fieberi,simulans,form,,B2151:1,accepted,,,B2151:1:4,Camponotidea fieberi Reut.,,,,,,,Camponotidea,,Myrmecorini | Camponotidea | Camponotidea fieberi,"f. simulans Horv., 1918",,TZ74R,,QDFH,
+B2151:1:6,Myrmecoris Gorski,Gorski,,,,,genus,,B2151:1,accepted,,,B2151:1:1,Myrmecorini,,,,,,,Myrmecoris,,Myrmecorini,Myrmecoris Gorski,,5WMZ,4407121,5WMZ,4407121
+B2151:1:7,Pithanus Fieber,Fieber,,,,,genus,,B2151:1,accepted,,,B2151:1:1,Myrmecorini,,,,,,,Pithanus,,Myrmecorini,Pithanus Fieber,,6QYC,2011989,6QYC,2011989

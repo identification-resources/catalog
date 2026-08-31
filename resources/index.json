@@ -11408,9 +11408,18 @@
   "B2123:1": {
     "levels": [
       "genus",
-      "species"
+      "species",
+      "variety"
     ],
     "id": "B2123:1",
+    "taxonCount": 12
+  },
+  "B2124:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2124:1",
     "taxonCount": 3
   },
   "B2139:1": {
@@ -11487,6 +11496,103 @@
     },
     "id": "B2144:2",
     "taxonCount": 5
+  },
+  "B2145:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "flags": [
+      "MISSING_SYNONYMS"
+    ],
+    "id": "B2145:1",
+    "taxonCount": 39
+  },
+  "B2146:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2146:1",
+    "taxonCount": 54
+  },
+  "B2147:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "id": "B2147:1",
+    "taxonCount": 23
+  },
+  "B2148:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2148:1",
+    "taxonCount": 6
+  },
+  "B2149:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "21-24"
+    },
+    "id": "B2149:1",
+    "taxonCount": 18
+  },
+  "B2149:2": {
+    "levels": [
+      "family",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "pages": "27-29",
+      "language": [
+        "en"
+      ],
+      "taxon": [
+        "Aradidae"
+      ]
+    },
+    "id": "B2149:2",
+    "taxonCount": 21
+  },
+  "B2150:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2150:1",
+    "taxonCount": 5
+  },
+  "B2151:1": {
+    "levels": [
+      "tribe",
+      "genus",
+      "species",
+      "form"
+    ],
+    "id": "B2151:1",
+    "taxonCount": 7
+  },
+  "B2154:1": {
+    "levels": [
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "id": "B2154:1",
+    "taxonCount": 13
   },
   "B2155:1": {
     "levels": [
