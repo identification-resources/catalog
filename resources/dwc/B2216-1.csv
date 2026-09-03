@@ -1,0 +1,14 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2216:1:1,Calisius Stål,Stål,,,,,genus,,B2216:1,accepted,,,,,,,,,,,Calisius,,,Calisius Stål,,M8SMF,2020111,M8SMF,2020111
+B2216:1:2,Aradosyrtis Costa,Costa,,,,,genus,,B2216:1,synonym,B2216:1:1,Calisius Stål,,,,,,,,,Aradosyrtis,,,Aradosyrtis Costa,,LP5X9,4779249,LP5X9,4779249
+B2216:1:3,Calisius ghilianii (A. Costa 1864),(A. Costa 1864),Calisius,,ghilianii,,species,,B2216:1,accepted,,,B2216:1:1,Calisius Stål,,,,,,,Calisius,,Calisius,Ghilianii (A. Costa 1864),,M8SQK,4485580,LP5XJ,4485581
+B2216:1:4,Aradosyrtis ghiliani A. Costa 1864,A. Costa 1864,Aradosyrtis,,ghiliani,,species,,B2216:1,synonym,B2216:1:3,Calisius ghilianii (A. Costa 1864),,,,,,,,,Calisius,,Calisius,Aradosyrtis Ghiliani A. Costa 1864,,LP5XJ,4485581,LP5XJ,4485581
+B2216:1:5,Aradus pygmaeus Garb. 1869,Garb. 1869,Aradus,,pygmaeus,,species,,B2216:1,synonym,B2216:1:3,Calisius ghilianii (A. Costa 1864),,,,,,,,,Calisius,,Calisius,Aradus pygmaeus Garb. 1869,,,,,
+B2216:1:6,Calisius salicis,,Calisius,,salicis,,species,n. sp.,B2216:1,accepted,,,B2216:1:1,Calisius Stål,,,,,,,Calisius,,Calisius,Salicis n. sp.,,G9T84,4485582,LP5XN,4485582
+B2216:1:7,Calisius picturartus,,Calisius,,picturartus,,species,n. sp.,B2216:1,accepted,,,B2216:1:1,Calisius Stål,,,,,,,Calisius,,Calisius,picturartus n. sp.,,,,,
+B2216:1:8,Calisius papuanus,,Calisius,,papuanus,,species,n. sp.,B2216:1,accepted,,,B2216:1:1,Calisius Stål,,,,,,,Calisius,,Calisius,papuanus n. sp.,,,,,
+B2216:1:9,Calisius cognatus,,Calisius,,cognatus,,species,n. sp.,B2216:1,accepted,,,B2216:1:1,Calisius Stål,,,,,,,Calisius,,Calisius,cognatus n. sp.,,,,,
+B2216:1:10,Calisius antennalis,,Calisius,,antennalis,,species,n. sp.,B2216:1,accepted,,,B2216:1:1,Calisius Stål,,,,,,,Calisius,,Calisius,antennalis n. sp.,,,,,
+B2216:1:11,Calisius interveniens Bergr. 1894,Bergr. 1894,Calisius,,interveniens,,species,,B2216:1,accepted,,,B2216:1:1,Calisius Stål,,,,,,,Calisius,,Calisius,interveniens Bergr. 1894,,,,,
+B2216:1:12,Calisius verruciger,,Calisius,,verruciger,,species,n. sp.,B2216:1,accepted,,,B2216:1:1,Calisius Stål,,,,,,,Calisius,,Calisius,verruciger n. sp.,,,,,
+B2216:1:13,Calisius lativentris,,Calisius,,lativentris,,species,n. sp.,B2216:1,accepted,,,B2216:1:1,Calisius Stål,,,,,,,Calisius,,Calisius,lativentris n. sp.,,VBFD3,,L86XC,

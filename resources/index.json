@@ -7022,6 +7022,14 @@
     "id": "B763:1",
     "taxonCount": 67
   },
+  "B765:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B765:1",
+    "taxonCount": 12
+  },
   "B770:1": {
     "levels": [
       "species"
@@ -7694,6 +7702,15 @@
     ],
     "id": "B928:1",
     "taxonCount": 20
+  },
+  "B929:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B929:1",
+    "taxonCount": 53
   },
   "B930:1": {
     "levels": [
@@ -11924,6 +11941,100 @@
     "id": "B2208:1",
     "taxonCount": 574
   },
+  "B2209:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2209:1",
+    "taxonCount": 33
+  },
+  "B2210:1": {
+    "levels": [
+      "subgenus",
+      "species"
+    ],
+    "id": "B2210:1",
+    "taxonCount": 12
+  },
+  "B2211:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2211:1",
+    "taxonCount": 6
+  },
+  "B2212:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2212:1",
+    "taxonCount": 35
+  },
+  "B2213:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Species generis Leprosoma Baer. hoc modo dispono"
+      ],
+      "pages": "578-578",
+      "taxon": [
+        "Leprosoma"
+      ]
+    },
+    "id": "B2213:1",
+    "taxonCount": 8
+  },
+  "B2213:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "title": [
+        "Species generis Engistus Fieb. hoc modo discernendae"
+      ],
+      "pages": "581-582",
+      "taxon": [
+        "Engistus"
+      ]
+    },
+    "id": "B2213:2",
+    "taxonCount": 7
+  },
+  "B2214:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "variety"
+    ],
+    "id": "B2214:1",
+    "taxonCount": 38
+  },
+  "B2215:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2215:1",
+    "taxonCount": 7
+  },
+  "B2216:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2216:1",
+    "taxonCount": 13
+  },
   "B2217:1": {
     "levels": [
       "family",
@@ -12055,6 +12166,14 @@
     },
     "id": "B2231:3",
     "taxonCount": 154
+  },
+  "B2232:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2232:1",
+    "taxonCount": 6
   },
   "B2233:1": {
     "levels": [
@@ -12618,6 +12737,22 @@
     },
     "id": "B2308:3",
     "taxonCount": 180
+  },
+  "B2312:1": {
+    "levels": [
+      "tribe",
+      "genus"
+    ],
+    "id": "B2312:1",
+    "taxonCount": 31
+  },
+  "B2314:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2314:1",
+    "taxonCount": 17
   },
   "B2318:1": {
     "levels": [
@@ -13302,6 +13437,18 @@
     ],
     "id": "B2382:1",
     "taxonCount": 195
+  },
+  "B2389:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species"
+    ],
+    "id": "B2389:1",
+    "taxonCount": 72
   },
   "B2397:1": {
     "levels": [
@@ -18707,5 +18854,22 @@
     ],
     "id": "B3148:1",
     "taxonCount": 69
+  },
+  "B3154:1": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "id": "B3154:1",
+    "taxonCount": 7
+  },
+  "B3155:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B3155:1",
+    "taxonCount": 4
   }
 }

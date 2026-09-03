@@ -1,0 +1,54 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B929:1:1,Tingidae,,,,,,family,,B929:1,accepted,,,,,,,,,Tingidae,,,,,Tingidae,,H9W,7899,H9W,7899
+B929:1:2,Acalypta,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Acalypta,,Tingidae,Acalypta,,LX4,2020735,LX4,2020735
+B929:1:3,Acalypta carinata,,Acalypta,,carinata,,species,,B929:1,accepted,,,B929:1:2,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,Acalypta carinata,,8SJR,2020737,8SJR,2020737
+B929:1:4,Acalypta gracilis,,Acalypta,,gracilis,,species,,B929:1,accepted,,,B929:1:2,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,Acalypta gracilis,,8SK3,4488996,8SK3,4488996
+B929:1:5,Acalypta marginata,,Acalypta,,marginata,,species,,B929:1,accepted,,,B929:1:2,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,Acalypta marginata,"{""indistinguishableFrom"":[""B929:1:6""]}",64BC3,4489008,64BC3,4489008
+B929:1:6,Acalypta nigrina,,Acalypta,,nigrina,,species,,B929:1,accepted,,,B929:1:2,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,Acalypta nigrina,"{""indistinguishableFrom"":[""B929:1:5""]}",8SKF,4488999,8SKF,4488999
+B929:1:7,Acalypta musci,,Acalypta,,musci,,species,,B929:1,accepted,,,B929:1:2,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,Acalypta musci,,64BC6,4488988,64BC6,4488988
+B929:1:8,Acalypta parvula,,Acalypta,,parvula,,species,,B929:1,accepted,,,B929:1:2,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,Acalypta parvula,,8SKJ,2020740,8SKJ,2020740
+B929:1:9,Acalypta platycheila,,Acalypta,,platycheila,,species,,B929:1,accepted,,,B929:1:2,Acalypta,,,,,Tingidae,,Acalypta,,Tingidae | Acalypta,Acalypta platycheila,,8SKK,4489001,8SKK,4489001
+B929:1:10,Agramma,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Agramma,,Tingidae,Agramma,,QWG,4309162,QWG,4309162
+B929:1:11,Agramma laetum,,Agramma,,laetum,,species,,B929:1,accepted,,,B929:1:10,Agramma,,,,,Tingidae,,Agramma,,Tingidae | Agramma,Agramma laetum,,B35S,4488912,B35S,4488912
+B929:1:12,Campylosteira,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Campylosteira,,Tingidae,Campylosteira,,3GN7,4405993,3GN7,4405993
+B929:1:13,Campylosteira verna,,Campylosteira,,verna,,species,,B929:1,accepted,,,B929:1:12,Campylosteira,,,,,Tingidae,,Campylosteira,,Tingidae | Campylosteira,Campylosteira verna,,QHX2,4489041,QHX2,4489041
+B929:1:14,Catoplatus,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Catoplatus,,Tingidae,Catoplatus,,3JJV,9690119,3JJV,9690119
+B929:1:15,Catoplatus fabricii,,Catoplatus,,fabricii,,species,,B929:1,accepted,,,B929:1:14,Catoplatus,,,,,Tingidae,,Catoplatus,,Tingidae | Catoplatus,Catoplatus fabricii,,RV8W,4488886,RV8W,4488886
+B929:1:16,Copium,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Copium,,Tingidae,Copium,,3TQD,7852310,3TQD,7852310
+B929:1:17,Copium clavicorne,,Copium,,clavicorne,,species,,B929:1,accepted,,,B929:1:16,Copium,,,,,Tingidae,,Copium,,Tingidae | Copium,Copium clavicorne,,Y4XH,4488968,Y4XH,4488968
+B929:1:18,Corythucha,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Corythucha,,Tingidae,Corythucha,,62NM8,2020629,62NM8,2020629
+B929:1:19,Corythucha ciliata,,Corythucha,,ciliata,,species,,B929:1,accepted,,,B929:1:18,Corythucha,,,,,Tingidae,,Corythucha,,Tingidae | Corythucha,Corythucha ciliata,,YT5N,2020655,YT5N,2020655
+B929:1:20,Derephysia,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Derephysia,,Tingidae,Derephysia,,43DH,4489025,43DH,4489025
+B929:1:21,Derephysia foliacea,,Derephysia,,foliacea,,species,,B929:1,accepted,,,B929:1:20,Derephysia,,,,,Tingidae,,Derephysia,,Tingidae | Derephysia,Derephysia foliacea,,34WC3,4489029,34WC3,4489029
+B929:1:22,Derephysia sinuatocollis,,Derephysia,,sinuatocollis,,species,,B929:1,accepted,,,B929:1:20,Derephysia,,,,,Tingidae,,Derephysia,,Tingidae | Derephysia,Derephysia sinuatocollis,,NCZZS,4489035,34WCC,4489035
+B929:1:23,Dictyla,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Dictyla,,Tingidae,Dictyla,,44XK,2020606,44XK,2020606
+B929:1:24,Dictyla convergens,,Dictyla,,convergens,,species,,B929:1,accepted,,,B929:1:23,Dictyla,,,,,Tingidae,,Dictyla,,Tingidae | Dictyla,Dictyla convergens,,6CTGP,4488946,6CTGP,4488946
+B929:1:25,Dictyla echii,,Dictyla,,echii,,species,,B929:1,accepted,,,B929:1:23,Dictyla,,,,,Tingidae,,Dictyla,,Tingidae | Dictyla,Dictyla echii,,6CTGQ,2020607,6CTGQ,2020607
+B929:1:26,Dictyla humuli,,Dictyla,,humuli,,species,,B929:1,accepted,,,B929:1:23,Dictyla,,,,,Tingidae,,Dictyla,,Tingidae | Dictyla,Dictyla humuli,,6D5H4,4488939,6D5H4,4488939
+B929:1:27,Dictyonota,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Dictyonota,,Tingidae,Dictyonota,,44ZV,2020731,44ZV,2020731
+B929:1:28,Dictyonota fuliginosa,,Dictyonota,,fuliginosa,,species,,B929:1,accepted,,,B929:1:27,Dictyonota,,,,,Tingidae,,Dictyonota,,Tingidae | Dictyonota,Dictyonota fuliginosa,,35V3Z,2020733,35V3Z,2020733
+B929:1:29,Dictyonota strichnocera,,Dictyonota,,strichnocera,,species,,B929:1,accepted,,,B929:1:27,Dictyonota,,,,,Tingidae,,Dictyonota,,Tingidae | Dictyonota,Dictyonota strichnocera,,6D565,2020734,6D565,2020734
+B929:1:30,Galeatus,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Galeatus,,Tingidae,Galeatus,,4LTM,2020771,4LTM,2020771
+B929:1:31,Galeatus maculatus,,Galeatus,,maculatus,,species,,B929:1,accepted,,,B929:1:30,Galeatus,,,,,Tingidae,,Galeatus,,Tingidae | Galeatus,Galeatus maculatus,,3F3C3,4489015,3F3C3,4489015
+B929:1:32,Kalama,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Kalama,,Tingidae,Kalama,,8DW4,4405242,8DW4,4405242
+B929:1:33,Kalama tricornis,,Kalama,,tricornis,,species,,B929:1,accepted,,,B929:1:32,Kalama,,,,,Tingidae,,Kalama,,Tingidae | Kalama,Kalama tricornis,,Q82JG,4489061,6D55T,2020732
+B929:1:34,Lasiacantha,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Lasiacantha,,Tingidae,Lasiacantha,,62XF2,4488861,62XF2,4488861
+B929:1:35,Lasiacantha capucina,,Lasiacantha,,capucina,,species,,B929:1,accepted,,,B929:1:34,Lasiacantha,,,,,Tingidae,,Lasiacantha,,Tingidae | Lasiacantha,Lasiacantha capucina,,6NYSX,4488865,6NYSX,4488865
+B929:1:36,Oncochila,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Oncochila,,Tingidae,Oncochila,,RG46V,4488974,RG46V,4488974
+B929:1:37,Oncochila simplex,,Oncochila,,simplex,,species,,B929:1,accepted,,,B929:1:36,Oncochila,,,,,Tingidae,,Oncochila,,Tingidae | Oncochila,Oncochila simplex,,RG47H,4488975,49FVC,8159124
+B929:1:38,Physatocheila,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Physatocheila,,Tingidae,Physatocheila,,6PWN,2020696,6PWN,2020696
+B929:1:39,Physatocheila confinis,,Physatocheila,,confinis,,species,,B929:1,accepted,,,B929:1:38,Physatocheila,,,,,Tingidae,,Physatocheila,,Tingidae | Physatocheila,Physatocheila confinis,"{""indistinguishableFrom"":[""B929:1:40""]}",4HGG6,4488900,4HGG6,4488900
+B929:1:40,Physatocheila dumetorum,,Physatocheila,,dumetorum,,species,,B929:1,accepted,,,B929:1:38,Physatocheila,,,,,Tingidae,,Physatocheila,,Tingidae | Physatocheila,Physatocheila dumetorum,"{""indistinguishableFrom"":[""B929:1:39""]}",4HGGC,4488895,4HGGC,4488895
+B929:1:41,Physatocheila costata,,Physatocheila,,costata,,species,,B929:1,accepted,,,B929:1:38,Physatocheila,,,,,Tingidae,,Physatocheila,,Tingidae | Physatocheila,Physatocheila costata,"{""indistinguishableFrom"":[""B929:1:42""]}",4HGG7,2020698,4HGG7,2020698
+B929:1:42,Physatocheila smreczynskii,,Physatocheila,,smreczynskii,,species,,B929:1,accepted,,,B929:1:38,Physatocheila,,,,,Tingidae,,Physatocheila,,Tingidae | Physatocheila,Physatocheila smreczynskii,"{""indistinguishableFrom"":[""B929:1:41""]}",S2CDP,4488890,S2CDP,4488890
+B929:1:43,Stephanitis,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Stephanitis,,Tingidae,Stephanitis,,7N24,2020685,7N24,2020685
+B929:1:44,Stephanitis oberti,,Stephanitis,,oberti,,species,,B929:1,accepted,,,B929:1:43,Stephanitis,,,,,Tingidae,,Stephanitis,,Tingidae | Stephanitis,Stephanitis oberti,,52BVJ,4488933,52BVJ,4488933
+B929:1:45,Stephanitis pyrioides,,Stephanitis,,pyrioides,,species,,B929:1,accepted,,,B929:1:43,Stephanitis,,,,,Tingidae,,Stephanitis,,Tingidae | Stephanitis,Stephanitis pyrioides,,52BVQ,2020689,52BVQ,2020689
+B929:1:46,Stephanitis rhododendri,,Stephanitis,,rhododendri,,species,,B929:1,accepted,,,B929:1:43,Stephanitis,,,,,Tingidae,,Stephanitis,,Tingidae | Stephanitis,Stephanitis rhododendri,,52BVT,2020688,52BVT,2020688
+B929:1:47,Stephanitis takeyai,,Stephanitis,,takeyai,,species,,B929:1,accepted,,,B929:1:43,Stephanitis,,,,,Tingidae,,Stephanitis,,Tingidae | Stephanitis,Stephanitis takeyai,,52BVY,2020686,52BVY,2020686
+B929:1:48,Tingis,,,,,,genus,,B929:1,accepted,,,B929:1:1,Tingidae,,,,,Tingidae,,Tingis,,Tingidae,Tingis,,7X47,2008274,7X47,2008274
+B929:1:49,Tingis ampliata,,Tingis,,ampliata,,species,,B929:1,accepted,,,B929:1:48,Tingis,,,,,Tingidae,,Tingis,,Tingidae | Tingis,Tingis ampliata,,57322,4489081,57322,4489081
+B929:1:50,Tingis cardui,,Tingis,,cardui,,species,,B929:1,accepted,,,B929:1:48,Tingis,,,,,Tingidae,,Tingis,,Tingidae | Tingis,Tingis cardui,,7CCSK,2020591,7CCSK,2020591
+B929:1:51,Tingis crispata,,Tingis,,crispata,,species,,B929:1,accepted,,,B929:1:48,Tingis,,,,,Tingidae,,Tingis,,Tingidae | Tingis,Tingis crispata,,5732F,4489074,5732F,4489074
+B929:1:52,Tingis pilosa,,Tingis,,pilosa,,species,,B929:1,accepted,,,B929:1:48,Tingis,,,,,Tingidae,,Tingis,,Tingidae | Tingis,Tingis pilosa,,572ZW,4489096,572ZW,4489096
+B929:1:53,Tingis reticulata,,Tingis,,reticulata,,species,,B929:1,accepted,,,B929:1:48,Tingis,,,,,Tingidae,,Tingis,,Tingidae | Tingis,Tingis reticulata,,572ZN,4489108,572ZN,4489108

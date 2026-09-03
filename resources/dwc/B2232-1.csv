@@ -1,0 +1,7 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2232:1:1,"Arma Hahn, 1832","Hahn, 1832",,,,,genus,,B2232:1,accepted,,,,,,,,,,,Arma,,,"Arma Hahn, 1832",,LFMDC,8888117,LFMDC,8888117
+B2232:1:2,Arma insperata Horvath 1899,Horvath 1899,Arma,,insperata,,species,,B2232:1,accepted,,,B2232:1:1,"Arma Hahn, 1832",,,,,,,Arma,,Arma,insperata Horvath 1899,,LFMG5,4485970,LFMG5,4485970
+B2232:1:3,Arma neoinsperata,,Arma,,neoinsperata,,species,sp. n.,B2232:1,accepted,,,B2232:1:1,"Arma Hahn, 1832",,,,,,,Arma,,Arma,neoinsperata sp. n.,,LFMGN,12148573,LFMFH,4485971
+B2232:1:4,Arma neocustos,,Arma,,neocustos,,species,sp. n.,B2232:1,accepted,,,B2232:1:1,"Arma Hahn, 1832",,,,,,,Arma,,Arma,neocustos sp. n.,,LFMGM,12035463,LFMFH,4485971
+B2232:1:5,"Arma custos (Fabricius, 1794)","(Fabricius, 1794)",Arma,,custos,,species,,B2232:1,accepted,,,B2232:1:1,"Arma Hahn, 1832",,,,,,,Arma,,Arma,"custos (Fabricius, 1794)",,LFMFH,4485971,LFMFH,4485971
+B2232:1:6,"Cimex custos Fabricius, 1794","Fabricius, 1794",Cimex,,custos,,species,,B2232:1,synonym,B2232:1:5,"Arma custos (Fabricius, 1794)",,,,,,,,,Arma,,Arma,"Cimex custos Fabricius, 1794",,MZ3T5,4485972,LFMFH,4485971
