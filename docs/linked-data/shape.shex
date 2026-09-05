@@ -1,10 +1,11 @@
 PREFIX ac: <http://rs.tdwg.org/ac/terms/>
 PREFIX bibo: <http://purl.org/ontology/bibo/>
+PREFIX col: <https://www.catalogueoflife.org/data/taxon/>
 PREFIX dcterms: <http://purl.org/dc/terms/>
 PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
 PREFIX dwciri: <http://rs.tdwg.org/dwc/iri/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-PREFIX gbif: <https://gbif.org/species/>
+PREFIX gbif: <https://www.gbif.org/species/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -94,17 +95,17 @@ start=@<work>
     <http://purl.org/dc/dcmitype/Collection>
     <http://purl.org/dc/dcmitype/Dataset>
   ];
-  dcterms:spatial @<place>*;
+  dcterms:spatial @<place>+;
   dcterms:subject @<scientificName>*;
 
   ac:subtype [<http://rs.tdwg.org/acsubtype/values/IdentificationKey>]?;
-  ( ac:taxonCoverage @<taxon> | ac:taxonCoverage [gbif:~]? );
+  ( ac:taxonCoverage @<taxon> | ac:taxonCoverage [col:~] );
   ac:tag LITERAL*;
   ac:taxonCount xsd:integer?;
   ac:subjectPart [<http://rs.tdwg.org/acpart/values/>~]*;
   ac:subjectPartLiteral LITERAL*;
 
-  dwc:taxonID @<taxon>*;
+  dwc:taxonID @<taxon>+;
   dwciri:lifeStage [<http://rs.gbif.org/vocabulary/gbif/life_stage/>~]*;
   dwciri:sex [<http://rs.gbif.org/vocabulary/gbif/sex/>~]*;
   dwc:caste LITERAL*;
@@ -129,8 +130,10 @@ start=@<work>
   a [dwc:Taxon];
   dwc:scientificName LITERAL?;
   ( dwc:taxonRank [<http://rs.gbif.org/vocabulary/gbif/rank/>~] | dwc:taxonRank LITERAL? );
-  ( dwc:parentNameUsageID @<taxon> | dwc:parentNameUsageID [gbif:~]? );
+  ( dwc:parentNameUsageID @<taxon> | dwc:parentNameUsageID [col:~]? );
+  ( dwc:acceptedNameUsageID @<taxon> | dwc:acceptedNameUsageID [col:~]? );
   owl:sameAs [wd:~]?;
+  owl:sameAs [col:~]?;
   owl:sameAs [gbif:~]?
 }
 
@@ -160,5 +163,5 @@ start=@<work>
   dwc:parentNameUsageID @<scientificName>?;
 
   dwc:taxonID [gbif:~]?;
-  dwc:taxonID [<https://www.checklistbank.org/dataset/309120/taxon/>~]?
+  dwc:taxonID [col:~]?
 }
