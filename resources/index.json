@@ -15196,6 +15196,14 @@
     "id": "B2645:1",
     "taxonCount": 89
   },
+  "B2646:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2646:1",
+    "taxonCount": 9
+  },
   "B2648:1": {
     "levels": [
       "group",
@@ -15225,6 +15233,163 @@
     "id": "B2648:2",
     "taxonCount": 11
   },
+  "B2649:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B2649:1",
+    "taxonCount": 5
+  },
+  "B2650:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2650:1",
+    "taxonCount": 7
+  },
+  "B2651:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "variety"
+    ],
+    "id": "B2651:1",
+    "taxonCount": 36
+  },
+  "B2651:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "taxon": [
+        "Ischnodemus"
+      ],
+      "target_taxa": [
+        "species"
+      ]
+    },
+    "id": "B2651:2",
+    "taxonCount": 7
+  },
+  "B2651:3": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "taxon": [
+        "Proderus"
+      ],
+      "target_taxa": [
+        "species"
+      ]
+    },
+    "id": "B2651:3",
+    "taxonCount": 4
+  },
+  "B2651:4": {
+    "levels": [
+      "tribe",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "taxon": [
+        "Beosaria"
+      ],
+      "target_taxa": [
+        "genus",
+        "subgenus",
+        "species"
+      ]
+    },
+    "id": "B2651:4",
+    "taxonCount": 47
+  },
+  "B2651:5": {
+    "levels": [
+      "subfamily",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "taxon": [
+        "Pyrrhocorinae"
+      ],
+      "target_taxa": [
+        "genus",
+        "species"
+      ]
+    },
+    "id": "B2651:5",
+    "taxonCount": 9
+  },
+  "B2652:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2652:1",
+    "taxonCount": 22
+  },
+  "B2653:1": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2653:1",
+    "taxonCount": 4
+  },
+  "B2654:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2654:1",
+    "taxonCount": 28
+  },
+  "B2655:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus"
+    ],
+    "id": "B2655:1",
+    "taxonCount": 11
+  },
+  "B2655:2": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2655:2",
+    "taxonCount": 11
+  },
+  "B2656:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2656:1",
+    "taxonCount": 77
+  },
+  "B2657:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2657:1",
+    "taxonCount": 9
+  },
   "B2658:1": {
     "levels": [
       "genus",
@@ -15243,6 +15408,21 @@
     "id": "B2659:1",
     "taxonCount": 27
   },
+  "B2660:1": {
+    "levels": [
+      "species"
+    ],
+    "id": "B2660:1",
+    "taxonCount": 2
+  },
+  "B2661:1": {
+    "levels": [
+      "tribe",
+      "genus"
+    ],
+    "id": "B2661:1",
+    "taxonCount": 47
+  },
   "B2662:1": {
     "levels": [
       "group",
@@ -15257,6 +15437,51 @@
     "id": "B2662:1",
     "taxonCount": 12
   },
+  "B2663:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2663:1",
+    "taxonCount": 35
+  },
+  "B2664:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2664:1",
+    "taxonCount": 35
+  },
+  "B2666:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2666:1",
+    "taxonCount": 61
+  },
+  "B2668:1": {
+    "levels": [
+      "family",
+      "genus",
+      "species"
+    ],
+    "id": "B2668:1",
+    "taxonCount": 9
+  },
+  "B2670:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus"
+    ],
+    "id": "B2670:1",
+    "taxonCount": 16
+  },
   "B2672:1": {
     "levels": [
       "genus",
@@ -15264,6 +15489,78 @@
     ],
     "id": "B2672:1",
     "taxonCount": 6
+  },
+  "B2673:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2673:1",
+    "taxonCount": 5
+  },
+  "B2674:1": {
+    "levels": [
+      "species"
+    ],
+    "catalog": {
+      "taxon": [
+        "Aphanus"
+      ],
+      "complete": "FALSE"
+    },
+    "id": "B2674:1",
+    "taxonCount": 5
+  },
+  "B2674:2": {
+    "levels": [
+      "genus",
+      "species"
+    ],
+    "id": "B2674:2",
+    "taxonCount": 6
+  },
+  "B2675:1": {
+    "levels": [
+      "genus",
+      "species",
+      "variety"
+    ],
+    "id": "B2675:1",
+    "taxonCount": 5
+  },
+  "B2677:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2677:1",
+    "taxonCount": 39
+  },
+  "B2678:1": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "id": "B2678:1",
+    "taxonCount": 20
+  },
+  "B2678:2": {
+    "levels": [
+      "genus",
+      "subgenus",
+      "species",
+      "variety"
+    ],
+    "catalog": {
+      "key_type": [
+        "checklist"
+      ]
+    },
+    "id": "B2678:2",
+    "taxonCount": 40
   },
   "B2679:1": {
     "levels": [

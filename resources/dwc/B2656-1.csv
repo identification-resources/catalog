@@ -1,0 +1,78 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2656:1:1,Reduvius Fabr.,Fabr.,,,,,genus,,B2656:1,accepted,,,,,,,,,,,Reduvius,,,Reduvius Fabr.,,77GY,2008513,77GY,2008513
+B2656:1:2,"Opsicoetus Klug, 1859","Klug, 1859",,,,,genus,,B2656:1,synonym,B2656:1:1,Reduvius Fabr.,,,,,,,,,Opsicoetus,,,"Opsicoetus Klug, 1859",,R6BDM,,77GY,
+B2656:1:3,Oplistopus Jak.,Jak.,,,,,genus,,B2656:1,synonym,B2656:1:1,Reduvius Fabr.,,,,,,,,,Oplistopus,,,Oplistopus Jak.,,R5QYD,4773988,77GY,2008513
+B2656:1:4,Reduvius fedtschenkianus Osch.,Osch.,Reduvius,,fedtschenkianus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,Fedtschenkianus Osch.,,4RPGQ,9723103,4RPGQ,9723103
+B2656:1:5,Reduvius fedtschenkianus var. fuscescens Reuter,Reuter,Reduvius,,fedtschenkianus,fuscescens,variety,,B2656:1,accepted,,,B2656:1:4,Reduvius fedtschenkianus Osch.,,,,,,,Reduvius,,Reduvius | Reduvius fedtschenkianus,var. fuscescens Reuter,,,,,
+B2656:1:6,"Reduvius fasciatus Reut., 1887","Reut., 1887",Reduvius,,fasciatus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,"fasciatus Reut., 1887",,4RPGP,9748127,4RPGP,9748127
+B2656:1:7,Reduvius personatus Linn.,Linn.,Reduvius,,personatus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,personatus Linn.,,4RPKK,2008516,4RPKK,2008516
+B2656:1:8,Cimex personatus Linn.,Linn.,Cimex,,personatus,,species,,B2656:1,synonym,B2656:1:7,Reduvius personatus Linn.,,,,,,,,,Reduvius,,Reduvius,Cimex personatus Linn.,,VCBT,2008517,4RPKK,2008516
+B2656:1:9,Cimex ater Poda,Poda,Cimex,,ater,,species,,B2656:1,synonym,B2656:1:7,Reduvius personatus Linn.,,,,,,,,,Reduvius,,Reduvius,Cimex ater Poda,,VC4B,2012022,QTC7,2012021
+B2656:1:10,Cimex quisqvilius De Geer,De Geer,Cimex,,quisqvilius,,species,,B2656:1,synonym,B2656:1:7,Reduvius personatus Linn.,,,,,,,,,Reduvius,,Reduvius,Cimex quisqvilius De Geer,,,,,
+B2656:1:11,Cimex annulata Harr.,Harr.,Cimex,,annulata,,species,,B2656:1,synonym,B2656:1:7,Reduvius personatus Linn.,,,,,,,,,Reduvius,,Reduvius,Cimex annulata Harr.,,MZ33K,4486933,6X85T,4486932
+B2656:1:12,Cimex villosus Thunb.,Thunb.,Cimex,,villosus,,species,,B2656:1,synonym,B2656:1:7,Reduvius personatus Linn.,,,,,,,,,Reduvius,,Reduvius,Cimex villosus Thunb.,,MZ2BY,8981317,TMS94,8149944
+B2656:1:13,Reduvius pungens Lec.,Lec.,Reduvius,,pungens,,species,,B2656:1,synonym,B2656:1:7,Reduvius personatus Linn.,,,,,,,,,Reduvius,,Reduvius,Reduvius pungens Lec.,,,,,
+B2656:1:14,Reduvius albosignatus Prov.,Prov.,Reduvius,,albosignatus,,species,,B2656:1,synonym,B2656:1:7,Reduvius personatus Linn.,,,,,,,,,Reduvius,,Reduvius,Reduvius albosignatus Prov.,,,,,
+B2656:1:15,Reduvius villosus Fabr.,Fabr.,Reduvius,,villosus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,villosus Fabr.,,4RPMM,4486991,4RPHZ,9565248
+B2656:1:16,"Reduvius fuscus Sign., 1891","Sign., 1891",Reduvius,,fuscus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,"fuscus Sign., 1891",,4RPH4,9663792,4RPH4,9663792
+B2656:1:17,Reduvius signoreti,,Reduvius,,signoreti,,species,n. sp.,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,Signoreti n. sp.,,4RPLJ,9811580,4RPLJ,9811580
+B2656:1:18,Reduvius nigricans (Klug),(Klug),Reduvius,,nigricans,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,nigricans (Klug),,4RPK3,9785184,4RPK3,9785184
+B2656:1:19,Opsicoetus nigricans Klug,Klug,Opsicoetus,,nigricans,,species,,B2656:1,synonym,B2656:1:18,Reduvius nigricans (Klug),,,,,,,,,Reduvius,,Reduvius,Opsicoetus nigricans Klug,,,,,
+B2656:1:20,"Reduvius nigrofuscus Stål, 1855","Stål, 1855",Reduvius,,nigrofuscus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,"nigrofuscus Stål, 1855",,,,,
+B2656:1:21,Reduvius tarsatus Germ.,Germ.,Reduvius,,tarsatus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,tarsatus Germ.,,4RPLT,8781524,4RPLT,8781524
+B2656:1:22,Reduvius carinatus,,Reduvius,,carinatus,,species,n. sp.,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,carinatus n. sp.,,4RPFM,8787260,4RPFM,8787260
+B2656:1:23,Reduvius carinatus var. fenestratus Reuter,Reuter,Reduvius,,carinatus,fenestratus,variety,,B2656:1,accepted,,,B2656:1:22,Reduvius carinatus,,,,,,,Reduvius,,Reduvius | Reduvius carinatus,var. fenestratus Reuter,,,,,
+B2656:1:24,Reduvius carinatus var. discoidalis Reuter,Reuter,Reduvius,,carinatus,discoidalis,variety,,B2656:1,accepted,,,B2656:1:22,Reduvius carinatus,,,,,,,Reduvius,,Reduvius | Reduvius carinatus,var. discoidalis Reuter,,,,,
+B2656:1:25,Reduvius mayeti Put.,Put.,Reduvius,,mayeti,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,Mayeti Put.,,4RPJH,9677367,4RPJH,9677367
+B2656:1:26,"Reduvius annulatus Stål, 1855","Stål, 1855",Reduvius,,annulatus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,"annulatus Stål, 1855",,78SHY,9126782,78SHY,9126782
+B2656:1:27,Opsicoetus octomaculatus Reut.,Reut.,Opsicoetus,,octomaculatus,,species,,B2656:1,synonym,B2656:1:26,"Reduvius annulatus Stål, 1855",,,,,,,,,Reduvius,,Reduvius,Opsicoetus octomaculatus Reut.,,,,,
+B2656:1:28,Reduvius annulipes (Reut.),(Reut.),Reduvius,,annulipes,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,annulipes (Reut.),,794HY,9649795,794HY,9649795
+B2656:1:29,Opsicoetus annulipes Reut.,Reut.,Opsicoetus,,annulipes,,species,,B2656:1,synonym,B2656:1:28,Reduvius annulipes (Reut.),,,,,,,,,Reduvius,,Reduvius,Opsicoetus annulipes Reut.,,,,,
+B2656:1:30,Reduvius maculosus (Reut.),(Reut.),Reduvius,,maculosus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,maculosus (Reut.),,,,,
+B2656:1:31,Opsicoetus maculosus Reut.,Reut.,Opsicoetus,,maculosus,,species,,B2656:1,synonym,B2656:1:30,Reduvius maculosus (Reut.),,,,,,,,,Reduvius,,Reduvius,Opsicoetus maculosus Reut.,,,,,
+B2656:1:32,Reduvius plagicollis,,Reduvius,,plagicollis,,species,n. sp.,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,plagicollis n. sp.,,4RPKN,9655275,4RPKN,9655275
+B2656:1:33,Reduvius nebulosus (Klug),(Klug),Reduvius,,nebulosus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,nebulosus (Klug),,4RPJW,9652528,4RPJW,9652528
+B2656:1:34,Opsicoetus nebulosus Klug,Klug,Opsicoetus,,nebulosus,,species,,B2656:1,synonym,B2656:1:33,Reduvius nebulosus (Klug),,,,,,,,,Reduvius,,Reduvius,Opsicoetus nebulosus Klug,,,,,
+B2656:1:35,Reduvius nebulosus var. dubius Reuter,Reuter,Reduvius,,nebulosus,dubius,variety,,B2656:1,accepted,,,B2656:1:33,Reduvius nebulosus (Klug),,,,,,,Reduvius,,Reduvius | Reduvius nebulosus,var. dubius Reuter,,,,,
+B2656:1:36,Reduvius montandoni,,Reduvius,,montandoni,,species,n. sp.,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,Montandoni n. sp.,,794J2,9755659,794J2,9755659
+B2656:1:37,"Reduvius obscuricollis (Stål, 1858)","(Stål, 1858)",Reduvius,,obscuricollis,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,"obscuricollis (Stål, 1858)",,6WSJ5,9133036,6WSJ5,9133036
+B2656:1:38,"Holotrichius obscuricollis Stål, 1858","Stål, 1858",Holotrichius,,obscuricollis,,species,,B2656:1,synonym,B2656:1:37,"Reduvius obscuricollis (Stål, 1858)",,,,,,,,,Reduvius,,Reduvius,"Holotrichius obscuricollis Stål, 1858",,,,,
+B2656:1:39,"Opsicoetus obscuricollis (Stål, 1858)","(Stål, 1858)",Opsicoetus,,obscuricollis,,species,,B2656:1,synonym,B2656:1:37,"Reduvius obscuricollis (Stål, 1858)",,,,,,,,,Reduvius,,Reduvius,"Opsicoetus obscuricollis (Stål, 1858)",,,,,
+B2656:1:40,"Reduvius fusciceps Stål, 1858","Stål, 1858",Reduvius,,fusciceps,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,"fusciceps Stål, 1858",,4RPGY,9122355,4RPGY,9122355
+B2656:1:41,"Opsicoetus fusciceps Stål, 1858","Stål, 1858",Opsicoetus,,fusciceps,,species,,B2656:1,synonym,B2656:1:40,"Reduvius fusciceps Stål, 1858",,,,,,,,,Reduvius,,Reduvius,"Opsicoetus fusciceps Stål, 1858",,,,,
+B2656:1:42,"Reduvius dorsalis Stål, 1855","Stål, 1855",Reduvius,,dorsalis,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,"dorsalis Stål, 1855",,4RPGB,9110365,4RPGB,9110365
+B2656:1:43,"Opsicoetus dorsalis (Stål, 1858)","(Stål, 1858)",Opsicoetus,,dorsalis,,species,,B2656:1,synonym,B2656:1:42,"Reduvius dorsalis Stål, 1855",,,,,,,,,Reduvius,,Reduvius,"Opsicoetus dorsalis (Stål, 1858)",,,,,
+B2656:1:44,Reduvius pallipes (Klug),(Klug),Reduvius,,pallipes,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,pallipes (Klug),,4RPKG,4486989,4RPKG,4486989
+B2656:1:45,Opsicoetus pallipes Klug,Klug,Opsicoetus,,pallipes,,species,,B2656:1,synonym,B2656:1:44,Reduvius pallipes (Klug),,,,,,,,,Reduvius,,Reduvius,Opsicoetus pallipes Klug,,,,,
+B2656:1:46,"Reduvius thoracicus Stål, 1855","Stål, 1855",Reduvius,,thoracicus,,species,,B2656:1,synonym,B2656:1:44,Reduvius pallipes (Klug),,,,,,,,,Reduvius,,Reduvius,"Reduvius thoracicus Stål, 1855",,,,,
+B2656:1:47,Reduvius testaceus Fieb.,Fieb.,Reduvius,,testaceus,,species,,B2656:1,synonym,B2656:1:44,Reduvius pallipes (Klug),,,,,,,,,Reduvius,,Reduvius,Reduvius testaceus Fieb.,,4RPLZ,4486995,4RPLZ,4486995
+B2656:1:48,Reduvius inermis (Jakovl. 1885),(Jakovl. 1885),Reduvius,,inermis,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,inermis (Jakovl. 1885),,4RPHK,9718498,4RPHK,9718498
+B2656:1:49,Opsicoetus inermis Jakovl. 1885,Jakovl. 1885,Opsicoetus,,inermis,,species,,B2656:1,synonym,B2656:1:48,Reduvius inermis (Jakovl. 1885),,,,,,,,,Reduvius,,Reduvius,Opsicoetus inermis Jakovl. 1885,,,,,
+B2656:1:50,Reduvius autrani,,Reduvius,,autrani,,species,n. sp.,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,Autrani n. sp.,,4RPF3,9659363,4RPF3,9659363
+B2656:1:51,Reduvius putoni,,Reduvius,,putoni,,species,n. sp.,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,Putoni n. sp.,,78SJ5,9734935,78SJ5,9734935
+B2656:1:52,Reduvius tabidus (Klug),(Klug),Reduvius,,tabidus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,tabidus (Klug),,4RPLR,4486988,4RPLR,4486988
+B2656:1:53,Opsicoetus tabidus Klug,Klug,Opsicoetus,,tabidus,,species,,B2656:1,synonym,B2656:1:52,Reduvius tabidus (Klug),,,,,,,,,Reduvius,,Reduvius,Opsicoetus tabidus Klug,,,,,
+B2656:1:54,Reduvius jakovleffi,,Reduvius,,jakovleffi,,species,n. sp.,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,Jakovleffi n. sp.,,4RPHR,4486987,4RPHR,4486987
+B2656:1:55,"Reduvius komarovii (Jakovl., 1885)","(Jakovl., 1885)",Reduvius,,komarovii,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,"Komarovii (Jakovl., 1885)",,4RPHW,9690226,4RPHW,9690226
+B2656:1:56,"Opsicoetus komarovii Jakovl., 1885","Jakovl., 1885",Opsicoetus,,komarovii,,species,,B2656:1,synonym,B2656:1:55,"Reduvius komarovii (Jakovl., 1885)",,,,,,,,,Reduvius,,Reduvius,"Opsicoetus komarovii Jakovl., 1885",,,,,
+B2656:1:57,Reduvius christophi (Jakovl.),(Jakovl.),Reduvius,,christophi,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,Christophi (Jakovl.),,4RPFP,9754810,4RPFP,9754810
+B2656:1:58,Oplistopus christophi Jakovl.,Jakovl.,Oplistopus,,christophi,,species,,B2656:1,synonym,B2656:1:57,Reduvius christophi (Jakovl.),,,,,,,,,Reduvius,,Reduvius,Oplistopus christophi Jakovl.,,,,,
+B2656:1:59,Opsicoetus christophi (Jakovl.),(Jakovl.),Opsicoetus,,christophi,,species,,B2656:1,synonym,B2656:1:57,Reduvius christophi (Jakovl.),,,,,,,,,Reduvius,,Reduvius,Opsicoetus christophi (Jakovl.),,,,,
+B2656:1:60,Reduvius ciliatus (Jakovl.),(Jakovl.),Reduvius,,ciliatus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,ciliatus (Jakovl.),,4RPFQ,9772503,4RPFQ,9772503
+B2656:1:61,Opsicoetus ciliatus (Jakovl.),(Jakovl.),Opsicoetus,,ciliatus,,species,,B2656:1,synonym,B2656:1:60,Reduvius ciliatus (Jakovl.),,,,,,,,,Reduvius,,Reduvius,Opsicoetus ciliatus (Jakovl.),,,,,
+B2656:1:62,Reduvius testaceus H. Sch.,H. Sch.,Reduvius,,testaceus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,testaceus H. Sch.,,4RPLZ,4486995,4RPLZ,4486995
+B2656:1:63,Holotrichius testaceus H. Sch.,H. Sch.,Holotrichius,,testaceus,,species,,B2656:1,synonym,B2656:1:62,Reduvius testaceus H. Sch.,,,,,,,,,Reduvius,,Reduvius,Holotrichius testaceus H. Sch.,,,4486996,,4486995
+B2656:1:64,Reduvius testaceus (H. Sch.),(H. Sch.),Reduvius,,testaceus,,species,,B2656:1,synonym,B2656:1:62,Reduvius testaceus H. Sch.,,,,,,,,,Reduvius,,Reduvius,Reduvius testaceus (H. Sch.),,4RPLZ,4486995,4RPLZ,4486995
+B2656:1:65,"Opsicoetus testaceus Stål, 1885","Stål, 1885",Opsicoetus,,testaceus,,species,,B2656:1,synonym,B2656:1:62,Reduvius testaceus H. Sch.,,,,,,,,,Reduvius,,Reduvius,"Opsicoetus testaceus Stål, 1885",,,,,
+B2656:1:66,"Reduvius pallidus Stål, 1855","Stål, 1855",Reduvius,,pallidus,,species,,B2656:1,synonym,B2656:1:62,Reduvius testaceus H. Sch.,,,,,,,,,Reduvius,,Reduvius,"Reduvius pallidus Stål, 1855",,4RPKG,4486989,4RPKG,4486989
+B2656:1:67,Reduvius tenuicornis (Jakovl.),(Jakovl.),Reduvius,,tenuicornis,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,tenuicornis (Jakovl.),,4RPLY,9648129,4RPLY,9648129
+B2656:1:68,Opsicoetus tenuicornis Jakovl.,Jakovl.,Opsicoetus,,tenuicornis,,species,,B2656:1,synonym,B2656:1:67,Reduvius tenuicornis (Jakovl.),,,,,,,,,Reduvius,,Reduvius,Opsicoetus tenuicornis Jakovl.,,,,,
+B2656:1:69,Reduvius elegans (Jakovl.),(Jakovl.),Reduvius,,elegans,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,elegans (Jakovl.),,6WSJ3,9817809,6WSJ3,9817809
+B2656:1:70,Opsicoetus elegans Jakovl.,Jakovl.,Opsicoetus,,elegans,,species,,B2656:1,synonym,B2656:1:69,Reduvius elegans (Jakovl.),,,,,,,,,Reduvius,,Reduvius,Opsicoetus elegans Jakovl.,,,,,
+B2656:1:71,Reduvius armipes,,Reduvius,,armipes,,species,n. sp.,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,armipes n. sp.,,794HX,9780450,794HX,9780450
+B2656:1:72,Reduvius ochropus (Stål),(Stål),Reduvius,,ochropus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,ochropus (Stål),,4RPKD,8813703,4RPKD,8813703
+B2656:1:73,Opinus ochropus Stål,Stål,Opinus,,ochropus,,species,,B2656:1,synonym,B2656:1:72,Reduvius ochropus (Stål),,,,,,,,,Reduvius,,Reduvius,Opinus ochropus Stål,,,4511872,,1255027
+B2656:1:74,Opsicoetus ochropus (Stål),(Stål),Opsicoetus,,ochropus,,species,,B2656:1,synonym,B2656:1:72,Reduvius ochropus (Stål),,,,,,,,,Reduvius,,Reduvius,Opsicoetus ochropus (Stål),,,,,
+B2656:1:75,Reduvius minutus Reut.,Reut.,Reduvius,,minutus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,minutus Reut.,,4RPJN,4486993,4RPJN,4486993
+B2656:1:76,Reduvius cincticrus Reut.,Reut.,Reduvius,,cincticrus,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,cincticrus Reut.,,4RPFR,9666556,4RPFR,9666556
+B2656:1:77,Reduvius debilis Reut.,Reut.,Reduvius,,debilis,,species,,B2656:1,accepted,,,B2656:1:1,Reduvius Fabr.,,,,,,,Reduvius,,Reduvius,debilis Reut.,,,,,

@@ -1,0 +1,23 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2652:1:1,Nabis Latr.,Latr.,,,,,genus,,B2652:1,accepted,,,,,,,,,,,Nabis,,,Nabis Latr.,,QKLXT,2020976,QKLXT,2020976
+B2652:1:2,Nabicula Kirby,Kirby,Nabis,,,,subgenus,,B2652:1,accepted,,,B2652:1:1,Nabis Latr.,,,,,,,Nabis,Nabicula,Nabis,Nabicula Kirby,,QKLQD,,QKLQD,
+B2652:1:3,Hoplistoscelis,,Nabis,,,,subgenus,nov. subg.,B2652:1,accepted,,,B2652:1:1,Nabis Latr.,,,,,,,Nabis,Hoplistoscelis,Nabis,Hoplistoscelis nov. subg.,,PGXGM,,PGXGM,
+B2652:1:4,Nabis sericans Reut.,Reut.,Nabis,Hoplistoscelis,sericans,,species,,B2652:1,accepted,,,B2652:1:3,Hoplistoscelis,,,,,,,Nabis,Hoplistoscelis,Nabis | Hoplistoscelis,sericans Reut.,,QKMVD,2020961,PGXJB,2020960
+B2652:1:5,Nabis crassipes Reut.,Reut.,Nabis,Hoplistoscelis,crassipes,,species,,B2652:1,accepted,,,B2652:1:3,Hoplistoscelis,,,,,,,Nabis,Hoplistoscelis,Nabis | Hoplistoscelis,crassipes Reut.,,,,,
+B2652:1:6,Nabis roripes Stål,Stål,Nabis,Hoplistoscelis,roripes,,species,,B2652:1,accepted,,,B2652:1:3,Hoplistoscelis,,,,,,,Nabis,Hoplistoscelis,Nabis | Hoplistoscelis,roripes Stål,,QKMT2,9490100,QKMT2,9490100
+B2652:1:7,Nabis pallescens Reut.,Reut.,Nabis,Hoplistoscelis,pallescens,,species,,B2652:1,accepted,,,B2652:1:3,Hoplistoscelis,,,,,,,Nabis,Hoplistoscelis,Nabis | Hoplistoscelis,pallescens Reut.,,,,,
+B2652:1:8,Nabis sordidus Reut.,Reut.,Nabis,Hoplistoscelis,sordidus,,species,,B2652:1,accepted,,,B2652:1:3,Hoplistoscelis,,,,,,,Nabis,Hoplistoscelis,Nabis | Hoplistoscelis,sordidus Reut.,,KR6XT,,PGXJJ,
+B2652:1:9,Aptus Hahn,Hahn,Nabis,,,,subgenus,,B2652:1,accepted,,,B2652:1:1,Nabis Latr.,,,,,,,Nabis,Aptus,Nabis,Aptus Hahn,,LMWVM,,LMWVM,
+B2652:1:10,Nabis apterus F.,F.,Nabis,Aptus,apterus,,species,,B2652:1,accepted,,,B2652:1:9,Aptus Hahn,,,,,,,Nabis,Aptus,Nabis | Aptus,apterus F.,,QKM6N,10193029,PQBHQ,2021041
+B2652:1:11,Nabis lativentris Boh,Boh,Nabis,Aptus,lativentris,,species,,B2652:1,accepted,,,B2652:1:9,Aptus Hahn,,,,,,,Nabis,Aptus,Nabis | Aptus,lativentris Boh,,QKMF8,10245630,PQBHG,4487069
+B2652:1:12,Nabis maracandicus,,Nabis,Aptus,maracandicus,,species,n. sp.,B2652:1,accepted,,,B2652:1:9,Aptus Hahn,,,,,,,Nabis,Aptus,Nabis | Aptus,maracandicus n. sp.,,,,,
+B2652:1:13,Nabis curvipenella,,Nabis,Aptus,curvipenella,,species,n. sp.,B2652:1,accepted,,,B2652:1:9,Aptus Hahn,,,,,,,Nabis,Aptus,Nabis | Aptus,curvipenella n. sp.,,,,,
+B2652:1:14,Nabis hottentotta,,Nabis,Aptus,hottentotta,,species,n. sp.,B2652:1,accepted,,,B2652:1:9,Aptus Hahn,,,,,,,Nabis,Aptus,Nabis | Aptus,hottentotta n. sp.,,,,,
+B2652:1:15,Nabis major Costa,Costa,Nabis,Aptus,major,,species,,B2652:1,accepted,,,B2652:1:9,Aptus Hahn,,,,,,,Nabis,Aptus,Nabis | Aptus,major Costa,,QKMHB,2021019,LLNHL,4487075
+B2652:1:16,Stalia Reut.,Reut.,Nabis,Stålia,,,subgenus,,B2652:1,accepted,,,B2652:1:1,Nabis Latr.,,,,,,,Nabis,Stalia,Nabis,Stålia Reut.,,PQBHW,,PQBHW,
+B2652:1:17,Acanthonabis,,Nabis,,,,subgenus,nov. subg.,B2652:1,accepted,,,B2652:1:1,Nabis Latr.,,,,,,,Nabis,Acanthonabis,Nabis,Acanthonabis nov. subg.,,,,,
+B2652:1:18,Lasiomerus,,Nabis,,,,subgenus,nov. subg.,B2652:1,accepted,,,B2652:1:1,Nabis Latr.,,,,,,,Nabis,Lasiomerus,Nabis,Lasiomerus nov. subg.,,Q9J4T,,Q9J4T,
+B2652:1:19,Halonabis,,Nabis,,,,subgenus,nov. subg.,B2652:1,accepted,,,B2652:1:1,Nabis Latr.,,,,,,,Nabis,Halonabis,Nabis,Halonabis nov. subg.,,PHGFM,,PHGFM,
+B2652:1:20,Nabis Latr.,Latr.,Nabis,,,,subgenus,sensu strict.,B2652:1,accepted,,,B2652:1:1,Nabis Latr.,,,,,,,Nabis,Nabis,Nabis,Nabis Latr. sensu strict.,,QKLXT,,QKLXT,
+B2652:1:21,Stenonabis,,Nabis,,,,subgenus,nov. subg.,B2652:1,accepted,,,B2652:1:1,Nabis Latr.,,,,,,,Nabis,Stenonabis,Nabis,Stenonabis nov. subg.,,T7LYC,,T7LYC,
+B2652:1:22,Aspilaspis Stål,Stål,Nabis,,,,subgenus,,B2652:1,accepted,,,B2652:1:1,Nabis Latr.,,,,,,,Nabis,Aspilaspis,Nabis,Aspilaspis Stål,,LSDQS,,LSDQS,

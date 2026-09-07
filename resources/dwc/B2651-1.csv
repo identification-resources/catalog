@@ -1,0 +1,37 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2651:1:1,Lygaeus Fabr.,Fabr.,,,,,genus,,B2651:1,accepted,,,,,,,,,,,Lygaeus,,,Lygaeus Fabr.,,8NNXR,2007851,8NNXR,2007851
+B2651:1:2,Lygaeus Reuter,Reuter,Lygaeus,,,,subgenus,,B2651:1,accepted,,,B2651:1:1,Lygaeus Fabr.,,,,,,,Lygaeus,Lygaeus,Lygaeus,Lygaeus Reuter,,8NNXP,,8NV53,
+B2651:1:3,Lygaeus saxatilis Scop.,Scop.,Lygaeus,Lygaeus,saxatilis,,species,,B2651:1,accepted,,,B2651:1:2,Lygaeus Reuter,,,,,,,Lygaeus,Lygaeus,Lygaeus | Lygaeus,saxatilis Scop.,,8QP8Z,11408030,L2PP6,8777604
+B2651:1:4,Lygaeus longulus Dall.,Dall.,Lygaeus,Lygaeus,longulus,,species,,B2651:1,accepted,,,B2651:1:2,Lygaeus Reuter,,,,,,,Lygaeus,Lygaeus,Lygaeus | Lygaeus,longulus Dall.,,3WPBZ,8778656,4Z4W8,8467377
+B2651:1:5,Lygaeus pandurus Scop.,Scop.,Lygaeus,Lygaeus,pandurus,,species,,B2651:1,accepted,,,B2651:1:2,Lygaeus Reuter,,,,,,,Lygaeus,Lygaeus,Lygaeus | Lygaeus,pandurus Scop.,,8Q8BM,11396001,L2PNZ,9131916
+B2651:1:6,Lygaeus militaris Fabr.,Fabr.,Lygaeus,Lygaeus,militaris,,species,,B2651:1,synonym,B2651:1:5,Lygaeus pandurus Scop.,,,,,,,,,Lygaeus,Lygaeus,Lygaeus | Lygaeus,militaris Fabr.,,8QN7B,11063635,L2PNY,9226778
+B2651:1:7,Lygaeus equestris Linné,Linné,Lygaeus,Lygaeus,equestris,,species,,B2651:1,accepted,,,B2651:1:2,Lygaeus Reuter,,,,,,,Lygaeus,Lygaeus,Lygaeus | Lygaeus,equestris Linné,,CB67L,2007862,CB67L,2007862
+B2651:1:8,Lygaeus creticus Luc.,Luc.,Lygaeus,Lygaeus,creticus,,species,,B2651:1,accepted,,,B2651:1:2,Lygaeus Reuter,,,,,,,Lygaeus,Lygaeus,Lygaeus | Lygaeus,creticus Luc.,,3WP7P,4486335,3WP7P,4486335
+B2651:1:9,Lygaeus hanseni Jakovl.,Jakovl.,Lygaeus,Lygaeus,hanseni,,species,,B2651:1,accepted,,,B2651:1:2,Lygaeus Reuter,,,,,,,Lygaeus,Lygaeus,Lygaeus | Lygaeus,Hanseni Jakovl.,,6QRGD,8973109,6QRGD,8973109
+B2651:1:10,Cosmopleurus Stal,Stal,Lygaeus,,,,subgenus,,B2651:1,accepted,,,B2651:1:1,Lygaeus Fabr.,,,,,,,Lygaeus,Cosmopleurus,Lygaeus,Cosmopleurus Stal,,8NQ3Z,,8NQ3Z,
+B2651:1:11,Lygaeus fulvipes Dall.,Dall.,Lygaeus,Cosmopleurus,fulvipes,,species,,B2651:1,accepted,,,B2651:1:10,Cosmopleurus Stal,,,,,,,Lygaeus,Cosmopleurus,Lygaeus | Cosmopleurus,fulvipes Dall.,,6R3GL,4486321,MWMG8,4486320
+B2651:1:12,Melanocoryphus Stal,Stal,Lygaeus,,,,subgenus,,B2651:1,accepted,,,B2651:1:1,Lygaeus Fabr.,,,,,,,Lygaeus,Melanocoryphus,Lygaeus,Melanocoryphus Stal,,8NV59,,8NV59,
+B2651:1:13,Lygaeus tristami Dougl. & Sc.,Dougl. & Sc.,Lygaeus,Melanocoryphus,tristami,,species,,B2651:1,accepted,,,B2651:1:12,Melanocoryphus Stal,,,,,,,Lygaeus,Melanocoryphus,Lygaeus | Melanocoryphus,Tristami Dougl. & Sc.,,3WP28,9295799,6QXGY,4486291
+B2651:1:14,Lygaeus albomaculatus Goeze,Goeze,Lygaeus,Melanocoryphus,albomaculatus,,species,,B2651:1,accepted,,,B2651:1:12,Melanocoryphus Stal,,,,,,,Lygaeus,Melanocoryphus,Lygaeus | Melanocoryphus,albomaculatus Goeze,,8QNC5,11397443,3Z8D7,4486289
+B2651:1:15,Lygaeus punctum Fabr.,Fabr.,Lygaeus,Melanocoryphus,punctum,,species,,B2651:1,synonym,B2651:1:14,Lygaeus albomaculatus Goeze,,,,,,,,,Lygaeus,Melanocoryphus,Lygaeus | Melanocoryphus,punctum Fabr.,,8PDB6,11406850,3Z8D7,4486289
+B2651:1:16,Lygaeus superbus Poll. 1777,Poll. 1777,Lygaeus,Melanocoryphus,superbus,,species,,B2651:1,accepted,,,B2651:1:12,Melanocoryphus Stal,,,,,,,Lygaeus,Melanocoryphus,Lygaeus | Melanocoryphus,superbus Poll. 1777,,8QNWV,11400540,3MQMG,4486348
+B2651:1:17,"Lygaeus punctatoguttatus Fabr., 1781","Fabr., 1781",Lygaeus,Melanocoryphus,punctatoguttatus,,species,,B2651:1,synonym,B2651:1:16,Lygaeus superbus Poll. 1777,,,,,,,,,Lygaeus,Melanocoryphus,Lygaeus | Melanocoryphus,"punctatoguttatus Fabr., 1781",,8Q96P,12350483,3MQMG,4486348
+B2651:1:18,"Lygaeus discolor Gmel., 1788","Gmel., 1788",Lygaeus,Melanocoryphus,discolor,,species,,B2651:1,synonym,B2651:1:16,Lygaeus superbus Poll. 1777,,,,,,,,,Lygaeus,Melanocoryphus,Lygaeus | Melanocoryphus,"discolor Gmel., 1788",,,,,
+B2651:1:19,Lygaeus superbus var. syriacus Horv.,Horv.,Lygaeus,Melanocoryphus,superbus,syriacus,variety,,B2651:1,accepted,,,B2651:1:16,Lygaeus superbus Poll. 1777,,,,,,,Lygaeus,Melanocoryphus,Lygaeus | Melanocoryphus | Lygaeus superbus,var. syriacus Horv.,,,,,
+B2651:1:20,Lygaeus fulvescens Put.,Put.,Lygaeus,Melanocoryphus,fulvescens,,species,,B2651:1,accepted,,,B2651:1:12,Melanocoryphus Stal,,,,,,,Lygaeus,Melanocoryphus,Lygaeus | Melanocoryphus,fulvescens Put.,,3WNZX,9270975,3MQM4,4486340
+B2651:1:21,Lygaeus gibbicollis Costa,Costa,Lygaeus,Melanocoryphus,gibbicollis,,species,,B2651:1,accepted,,,B2651:1:12,Melanocoryphus Stal,,,,,,,Lygaeus,Melanocoryphus,Lygaeus | Melanocoryphus,gibbicollis Costa,,8QNY5,9573978,3MQM5,4486350
+B2651:1:22,Melanospilus Stal,Stal,,,,,genus,,B2651:1,accepted,,,,,,,,,,,Melanospilus,,,Melanospilus Stal,,8QN7N,7615340,8P2G4,4407191
+B2651:1:23,Graptostethus Stal,Stal,,,,,genus,,B2651:1,accepted,,,,,,,,,,,Graptostethus,,,Graptostethus Stal,,8NPZ2,2007637,8NPZ2,2007637
+B2651:1:24,Hormopleurus Horv.,Horv.,,,,,genus,,B2651:1,accepted,,,,,,,,,,,Hormopleurus,,,Hormopleurus Horv.,,8NSNJ,4783284,8NSNJ,4783284
+B2651:1:25,Melanotelus,,,,,,genus,nov. gen.,B2651:1,accepted,,,,,,,,,,,Melanotelus,,,Melanotelus nov. gen.,,8NV5M,4405198,8NV5M,4405198
+B2651:1:26,Melanotelus villosulus Stal,Stal,Melanotelus,,villosulus,,species,,B2651:1,accepted,,,B2651:1:25,Melanotelus,,,,,,,Melanotelus,,Melanotelus,villosulus Stal,,7395Y,10909092,7395Y,10909092
+B2651:1:27,Melanotelus bipunctatus Dall.,Dall.,Melanotelus,,bipunctatus,,species,,B2651:1,accepted,,,B2651:1:25,Melanotelus,,,,,,,Melanotelus,,Melanotelus,bipunctatus Dall.,,3ZBQ5,11026113,3ZBQ5,11026113
+B2651:1:28,Melanotelus argillaceus,,Melanotelus,,argillaceus,,species,n. sp.,B2651:1,accepted,,,B2651:1:25,Melanotelus,,,,,,,Melanotelus,,Melanotelus,argillaceus n. sp.,,3ZBQ2,8731420,3ZBQ2,8731420
+B2651:1:29,Apterola Stal,Stal,,,,,genus,,B2651:1,accepted,,,,,,,,,,,Apterola,,,Apterola Stal,,8NMGQ,4406342,8NMGQ,4406342
+B2651:1:30,Apterola rubicunda Stal,Stal,Apterola,,rubicunda,,species,,B2651:1,accepted,,,B2651:1:29,Apterola Stal,,,,,,,Apterola,,Apterola,rubicunda Stal,,8QMY2,8732115,8QNTT,11376313
+B2651:1:31,Apterola lownii E. Saund.,E. Saund.,Apterola,,lownii,,species,,B2651:1,accepted,,,B2651:1:29,Apterola Stal,,,,,,,Apterola,,Apterola,Lownii E. Saund.,,FYLW,4486303,FYLW,4486303
+B2651:1:32,Apterola pedestris Stal,Stal,Apterola,,pedestris,,species,,B2651:1,accepted,,,B2651:1:29,Apterola Stal,,,,,,,Apterola,,Apterola,pedestris Stal,,,9109876,,9117519
+B2651:1:33,Lygaeosoma Spin.,Spin.,,,,,genus,,B2651:1,accepted,,,,,,,,,,,Lygaeosoma,,,Lygaeosoma Spin.,,8NTS2,4406815,8NTS2,4406815
+B2651:1:34,Lygaeosoma angulare,,Lygaeosoma,,angulare,,species,n. sp.,B2651:1,accepted,,,B2651:1:33,Lygaeosoma Spin.,,,,,,,Lygaeosoma,,Lygaeosoma,angulare n. sp.,,3WNXM,4486317,3WNXM,4486317
+B2651:1:35,Lygaeosoma erythropterum Put.,Put.,Lygaeosoma,,erythropterum,,species,,B2651:1,accepted,,,B2651:1:33,Lygaeosoma Spin.,,,,,,,Lygaeosoma,,Lygaeosoma,erythropterum Put.,,8PD7S,9398970,8Q7H5,4486314
+B2651:1:36,Lygaeosoma reticulatum H. Sch.,H. Sch.,Lygaeosoma,,reticulatum,,species,,B2651:1,accepted,,,B2651:1:33,Lygaeosoma Spin.,,,,,,,Lygaeosoma,,Lygaeosoma,reticulatum H. Sch.,,8QN3C,11389212,8Q7H6,7343922

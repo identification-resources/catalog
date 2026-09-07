@@ -1,0 +1,10 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2668:1:1,Cimicidae,,,,,,family,,B2668:1,accepted,,,,,,,,,Cimicidae,,,,,Cimicidae,,7NGSF,9648,7NGSF,9648
+B2668:1:2,Cimex L.,L.,,,,,genus,,B2668:1,accepted,,,B2668:1:1,Cimicidae,,,,,Cimicidae,,Cimex,,Cimicidae,Cimex L.,,7NSX3,2007745,7NSX3,2007745
+B2668:1:3,Cimex lectularius L.,L.,Cimex,,lectularius,,species,,B2668:1,accepted,,,B2668:1:2,Cimex L.,,,,,Cimicidae,,Cimex,,Cimicidae | Cimex,lectularius L.,,7SBMG,2021062,7SBMG,2021062
+B2668:1:4,Cimex columbarius Jen.,Jen.,Cimex,,columbarius,,species,,B2668:1,accepted,,,B2668:1:2,Cimex L.,,,,,Cimicidae,,Cimex,,Cimicidae | Cimex,columbarius Jen.,,7SBLR,4487131,7SBLR,4487131
+B2668:1:5,Cimex improvisus Reut.,Reut.,Cimex,,improvisus,,species,,B2668:1,accepted,,,B2668:1:2,Cimex L.,,,,,Cimicidae,,Cimex,,Cimicidae | Cimex,improvisus Reut.,,,,,
+B2668:1:6,Cimex dissimilis Horv.,Horv.,Cimex,,dissimilis,,species,,B2668:1,accepted,,,B2668:1:2,Cimex L.,,,,,Cimicidae,,Cimex,,Cimicidae | Cimex,dissimilis Horv.,,7SBLT,4487134,7SBLT,4487134
+B2668:1:7,Cimex pipistrelli Jen.,Jen.,Cimex,,pipistrelli,,species,,B2668:1,accepted,,,B2668:1:2,Cimex L.,,,,,Cimicidae,,Cimex,,Cimicidae | Cimex,pipistrelli Jen.,,7SBML,4487133,7SBML,4487133
+B2668:1:8,Oeciacus,,,,,,genus,,B2668:1,accepted,,,B2668:1:1,Cimicidae,,,,,Cimicidae,,Oeciacus,,Cimicidae,Oeciacus,,7PN2L,2021052,7NSX3,2007745
+B2668:1:9,Oeciacus hirundinis (Jen.),(Jen.),Oeciacus,,hirundinis,,species,,B2668:1,accepted,,,B2668:1:8,Oeciacus,,,,,Cimicidae,,Oeciacus,,Cimicidae | Oeciacus,hirundinis (Jen.),,R433X,11355062,7SBM8,2021054
