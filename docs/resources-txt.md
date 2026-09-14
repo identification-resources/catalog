@@ -56,7 +56,9 @@ However, if it is included, it should not be abbreviated. If the checklist has
 no genus entries the first part of the name (i.e. the genus name) should always
 be included.
 
-## Rank skips
+## Structure
+
+### Rank skips
 
 If for example, a genus does not contain subgenera but only species, but the
 indentation level for subgenus is still used (e.g. for a different part of
@@ -81,20 +83,42 @@ appropriate level of indentation. The following example shows both behaviours.
           paludum (Fabricius)
           najas (Degeer)
 
-## Leaf taxa
+### Leaf taxa
 
 All leaf taxa in the checklist should be of the lowest level in the "levels"
 array, except if the lowest levels are a subtaxa (subgenera, subspecies, etc.)
-or tribes, in which case the next-lowest level should be considered. If a
-certain key keys out to species except for a certain family a leaf taxon
-should be introduced at the indentation level of species with a name consisting
-of the family name and one of
+or tribes, in which case the next-lowest level should be considered.
 
-  - "indet."
-  - "sp. indet."
-  - "spec. indet."
-  - "sp."
-  - "spec."
+### Structural indicators
+
+If a key misses certain leaf taxa, for example a key to species identifying
+certain taxa only to genus level, this can be indicated with a structural
+indicator (`[indet]`).
+
+    Apidae
+      Apis
+        mellifera
+      Bombus
+        [indet]
+
+If a key to species level of a genus contains subgenera, but does not specify
+the subgenus for all species, this can be indicated with rank skips (see above):
+
+    Gerris
+        thoracicus Schummel
+        lacustris (L.)
+      Limnoporus
+        rufoscutellatus (Latreille)
+
+If however, a certain order should be preserved, the end of a subgenus can
+be indicated with another structural indicator (`[incertae sedis]`).
+
+    Gerris
+        thoracicus Schummel
+      Limnoporus
+        rufoscutellatus (Latreille)
+      [incertae sedis]
+        lacustris (L.)
 
 ## Synonyms
 
