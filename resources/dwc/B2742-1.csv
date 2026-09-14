@@ -1,0 +1,48 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2742:1:1,Cydnidae,,,,,,family,,B2742:1,accepted,,,,,,,,,Cydnidae,,,,,Cydnidae,,BXWHY,6989,BXWHY,6989
+B2742:1:2,Cydninae,,,,,,subfamily,,B2742:1,accepted,,,B2742:1:1,Cydnidae,,,,,Cydnidae,Cydninae,,,Cydnidae,Cydnides,,,,,
+B2742:1:3,"Cephalocteus Léon Dufour, 1834","Léon Dufour, 1834",,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Cephalocteus,,Cydnidae | Cydninae,"Cephalocteus Léon Dufour, 1834",,MMJRZ,4404643,MMJRZ,4404643
+B2742:1:4,"Scaptocoris Perly, 1830","Perly, 1830",,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Scaptocoris,,Cydnidae | Cydninae,"Scaptocoris Perly, 1830",,SVCP6,2078760,SVCP6,2078760
+B2742:1:5,"Stibaropus Dallas, 1851","Dallas, 1851",,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Stibaropus,,Cydnidae | Cydninae,"Stibaropus Dallas, 1851",,TCVL7,4406888,TCVL7,4406888
+B2742:1:6,"Pachycnemis Jakowleff, 1875","Jakowleff, 1875",,,,,genus,,B2742:1,synonym,B2742:1:5,"Stibaropus Dallas, 1851",,,,,,,Cydnidae,Cydninae,Pachycnemis,,Cydnidae | Cydninae,"Pachycnemis Jakowleff, 1875",,,4576188,,4576188
+B2742:1:7,"Lactistes Schiödte, 1849","Schiödte, 1849",,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Lactistes,,Cydnidae | Cydninae,"Lactistes Schiödte, 1849",,PWKXW,4784736,PWKXW,4784736
+B2742:1:8,Lobostoma Am. & Serv.,Am. & Serv.,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Lobostoma,,Cydnidae | Cydninae,Lobostoma Am. & Serv.,,PZNTZ,6007454,RTNGM,4784717
+B2742:1:9,Cyrtomenus A. & Serv.,A. & Serv.,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Cyrtomenus,,Cydnidae | Cydninae,Cyrtomenus A. & Serv.,,NCCLQ,2078767,NCCLQ,2078767
+B2742:1:10,Scoparipes,,,,,,genus,gen. nov.,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Scoparipes,,Cydnidae | Cydninae,Scoparipes gen. nov.,,SV5G8,4784790,SV5G8,4784790
+B2742:1:11,Adrisa Am. & Serv.,Am. & Serv.,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Adrisa,,Cydnidae | Cydninae,Adrisa Am. & Serv.,,L64G8,3265259,L64G8,3265259
+B2742:1:12,Ectinopus Dallas,Dallas,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Ectinopus,,Cydnidae | Cydninae,Ectinopus Dallas,,NF5PK,4784716,NF5PK,4784716
+B2742:1:13,Syllobus,,,,,,genus,gen. nov.,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Syllobus,,Cydnidae | Cydninae,Syllobus gen. nov.,,TFNVY,4784810,TFNVY,4784810
+B2742:1:14,Onalips,,,,,,genus,gen. nov.,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Onalips,,Cydnidae | Cydninae,Onalips gen. nov.,,RDXMM,4784789,RDXMM,4784789
+B2742:1:15,Plonisa,,,,,,genus,gen. nov.,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Plonisa,,Cydnidae | Cydninae,Plonisa gen. nov.,,RR4K7,4784718,RR4K7,4784718
+B2742:1:16,Macroporus Uhler,Uhler,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Macroporus,,Cydnidae | Cydninae,Macroporus Uhler,,Q9CLX,2078758,Q9CLX,2078758
+B2742:1:17,Homaloporus Uhler,Uhler,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Homaloporus,,Cydnidae | Cydninae,Homaloporus Uhler,,,4779140,,4779140
+B2742:1:18,Aethus Dallas,Dallas,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Aethus,,Cydnidae | Cydninae,Aethus Dallas,,L7WQ8,2078763,L7WQ8,2078763
+B2742:1:19,Pzammozethus M. & R.,M. & R.,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Pzammozethus,,Cydnidae | Cydninae,Pzammozethus M. & R.,,SCTKD,4784791,LZS84,4406877
+B2742:1:20,Byrsinus Fieber,Fieber,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Byrsinus,,Cydnidae | Cydninae,Byrsinus Fieber,,LZS84,4406877,LZS84,4406877
+B2742:1:21,Cydnus Fab.,Fab.,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Cydnus,,Cydnidae | Cydninae,Cydnus Fab.,,MZ5P6,2078814,MZ5P6,2078814
+B2742:1:22,Stenocoris,,,,,,genus,gen. nov.,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Stenocoris,,Cydnidae | Cydninae,Stenocoris gen. nov.,,8NZHD,2008170,8NZHD,2008170
+B2742:1:23,Gampsotes Fieber,Fieber,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Gampsotes,,Cydnidae | Cydninae,Gampsotes Fieber,,,4771069,,4771069
+B2742:1:24,Pangaeus Stål,Stål,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Pangaeus,,Cydnidae | Cydninae,Pangaeus Stål,,R76GZ,2078741,R76GZ,2078741
+B2742:1:25,Geotomus Muls. & Rey,Muls. & Rey,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Geotomus,,Cydnidae | Cydninae,Geotomus Muls. & Rey,,PCND5,2078736,PCND5,2078736
+B2742:1:26,Macroscytus Fieber,Fieber,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Macroscytus,,Cydnidae | Cydninae,Macroscytus Fieber,,Q9VGX,2078734,Q9VGX,2078734
+B2742:1:27,Hiverus Am. & Serv.,Am. & Serv.,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Hiverus,,Cydnidae | Cydninae,Hiverus Am. & Serv.,,,4784799,,4784799
+B2742:1:28,Choerocydnus Dallas,Dallas,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Choerocydnus,,Cydnidae | Cydninae,Choerocydnus Dallas,,MKVGW,4784712,MKVGW,4784712
+B2742:1:29,Brachypeltus Am. & S.,Am. & S.,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Brachypeltus,,Cydnidae | Cydninae,Brachypeltus Am. & S.,,LZN62,4784720,LZN5M,4784719
+B2742:1:30,Cydnopeltus,,,,,,genus,gen. nov.,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Cydnopeltus,,Cydnidae | Cydninae,Cydnopeltus gen. nov.,,MZ5LD,4784815,MZ5P6,2078814
+B2742:1:31,Pachymerodes,,,,,,genus,gen. n.,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Pachymerodes,,Cydnidae | Cydninae,Pachymerodes gen. n.,,,,,
+B2742:1:32,Amnestus Dallas,Dallas,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Amnestus,,Cydnidae | Cydninae,Amnestus Dallas,,LBBVV,2078772,LBBVV,2078772
+B2742:1:33,Chilocoris Mayr,Mayr,,,,,genus,,B2742:1,accepted,,,B2742:1:2,Cydninae,,,,,Cydnidae,Cydninae,Chilocoris,,Cydnidae | Cydninae,Chilocoris Mayr,,MXM57,2078750,MXM57,2078750
+B2742:1:34,Sehirinae,,,,,,subfamily,,B2742:1,accepted,,,B2742:1:1,Cydnidae,,,,,Cydnidae,Sehirinae,,,Cydnidae,Sehirides,,,,,
+B2742:1:35,Amaurocoris Stål,Stål,,,,,genus,,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Amaurocoris,,Cydnidae | Sehirinae,Amaurocoris Stål,,L7K3G,4486195,L7K3G,4486195
+B2742:1:36,Linospa,,,,,,genus,gen. nov.,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Linospa,,Cydnidae | Sehirinae,Linospa gen. nov.,,QD344,4407625,QD344,4407625
+B2742:1:37,Lobonotus Uhler,Uhler,,,,,genus,,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Lobonotus,,Cydnidae | Sehirinae,Lobonotus Uhler,,PZB6L,3265253,QSTV3,2078801
+B2742:1:38,Macrhymenus,,,,,,genus,gen. n.,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Macrhymenus,,Cydnidae | Sehirinae,Macrhymenus gen. n.,,Q675M,4784800,M3W7K,4784870
+B2742:1:39,Peltoxys,,,,,,genus,gen. nov.,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Peltoxys,,Cydnidae | Sehirinae,Peltoxys gen. nov.,,RV6ZL,4773616,RV6ZL,4773616
+B2742:1:40,Gnathoconus Fieber,Fieber,,,,,genus,,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Gnathoconus,,Cydnidae | Sehirinae,Gnathoconus Fieber,,P3YXR,4578458,P3YXR,4578458
+B2742:1:41,Crocistethus Fieber,Fieber,,,,,genus,,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Crocistethus,,Cydnidae | Sehirinae,Crocistethus Fieber,,MSZ6L,4405521,MSZ6L,4405521
+B2742:1:42,Adomerus Muls. & Rey,Muls. & Rey,,,,,genus,,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Adomerus,,Cydnidae | Sehirinae,Adomerus Muls. & Rey,,L5Y4H,4405030,L5Y4H,4405030
+B2742:1:43,Lalervis,,,,,,genus,gen. nov.,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Lalervis,,Cydnidae | Sehirinae,Lalervis gen. nov.,,Q2K5K,4777739,Q2K5K,4777739
+B2742:1:44,Tritomegas Am. & S.,Am. & S.,,,,,genus,,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Tritomegas,,Cydnidae | Sehirinae,Tritomegas Am. & S.,,TQMJP,3265258,TQMJP,3265258
+B2742:1:45,Sehirus Am. & Serv.,Am. & Serv.,,,,,genus,,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Sehirus,,Cydnidae | Sehirinae,Sehirus Am. & Serv.,,SYLS3,2078780,SYLS3,2078780
+B2742:1:46,Canthophora Muls. & R.,Muls. & R.,,,,,genus,,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Canthophora,,Cydnidae | Sehirinae,Canthophora Muls. & R.,,,,,
+B2742:1:47,Ochetostethus Fieber,Fieber,,,,,genus,,B2742:1,accepted,,,B2742:1:34,Sehirinae,,,,,Cydnidae,Sehirinae,Ochetostethus,,Cydnidae | Sehirinae,Ochetostethus Fieber,,QTS3K,4404611,QTS3K,4404611
