@@ -1,0 +1,87 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2614:1:1,Lygaeidae,,,,,,family,,B2614:1,accepted,,,,,,,,,Lygaeidae,,,,,Lygaeidae,,8NKMB,7888,8NKMB,7888
+B2614:1:2,Lygaeus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Lygaeus,,Lygaeidae,Lygaeus,,8NNXR,2007851,8NNXR,2007851
+B2614:1:3,Lygaeus equestris L.,L.,Lygaeus,,equestris,,species,,B2614:1,accepted,,,B2614:1:2,Lygaeus,,,,,Lygaeidae,,Lygaeus,,Lygaeidae | Lygaeus,equestris L.,,VDV5L,2007862,VDV5L,2007862
+B2614:1:4,Melanocoryphus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Melanocoryphus,,Lygaeidae,Melanocoryphus,,8NV59,4405257,8NV59,4405257
+B2614:1:5,Melanocoryphus tristrami Dgl. Sc.,Dgl. Sc.,Melanocoryphus,,tristrami,,species,,B2614:1,accepted,,,B2614:1:4,Melanocoryphus,,,,,Lygaeidae,,Melanocoryphus,,Lygaeidae | Melanocoryphus,tristrami Dgl. Sc.,,QVF6N,4486291,QVF6N,4486291
+B2614:1:6,Tropidothorax,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Tropidothorax,,Lygaeidae,Tropidothorax,,8P2G4,4407191,8P2G4,4407191
+B2614:1:7,Tropidothorax leucopterus Goeze,Goeze,Tropidothorax,,leucopterus,,species,,B2614:1,accepted,,,B2614:1:6,Tropidothorax,,,,,Lygaeidae,,Tropidothorax,,Lygaeidae | Tropidothorax,leucopterus Goeze,,59CJ2,4486301,59CJ2,4486301
+B2614:1:8,Orsillus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Orsillus,,Lygaeidae,Orsillus,,8NWDX,4407943,8NWDX,4407943
+B2614:1:9,Orsillus maculatus Fieb.,Fieb.,Orsillus,,maculatus,,species,,B2614:1,accepted,,,B2614:1:8,Orsillus,,,,,Lygaeidae,,Orsillus,,Lygaeidae | Orsillus,maculatus Fieb.,,RGVZS,4486385,RGVZS,4486385
+B2614:1:10,Macroparius,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Macroparius,,Lygaeidae,Macroparius,,8PPZC,4771458,8NTKK,2007771
+B2614:1:11,Macroparius lineatus Costa,Costa,Macroparius,,lineatus,,species,,B2614:1,accepted,,,B2614:1:10,Macroparius,,,,,Lygaeidae,,Macroparius,,Lygaeidae | Macroparius,lineatus Costa,,8QP6M,11396684,QR4PM,4486370
+B2614:1:12,Macroparius thymi Wolff.,Wolff.,Macroparius,,thymi,,species,,B2614:1,accepted,,,B2614:1:10,Macroparius,,,,,Lygaeidae,,Macroparius,,Lygaeidae | Macroparius,thymi Wolff.,,8QMND,11401358,487L8,2007803
+B2614:1:13,Macroparius ericae Schill.,Schill.,Macroparius,,ericae,,species,,B2614:1,accepted,,,B2614:1:10,Macroparius,,,,,Lygaeidae,,Macroparius,,Lygaeidae | Macroparius,ericae Schill.,,3X7D5,9345016,L2D8G,4486360
+B2614:1:14,Ortholomus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Ortholomus,,Lygaeidae,Ortholomus,,8NWFG,4407876,8NWFG,4407876
+B2614:1:15,Ortholomus punctipennis H.-S.,H.-S.,Ortholomus,,punctipennis,,species,,B2614:1,accepted,,,B2614:1:14,Ortholomus,,,,,Lygaeidae,,Ortholomus,,Lygaeidae | Ortholomus,punctipennis H.-S.,,VDYKT,4486391,VDYKT,4486391
+B2614:1:16,Piocoris,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Piocoris,,Lygaeidae,Piocoris,,8Q6GZ,4572514,8Q6GZ,4572514
+B2614:1:17,Piocoris erythrocephalus Lep. & Serv.,Lep. & Serv.,Piocoris,,erythrocephalus,,species,,B2614:1,accepted,,,B2614:1:16,Piocoris,,,,,Lygaeidae,,Piocoris,,Lygaeidae | Piocoris,erythrocephalus Lep. & Serv.,,8Q97T,10397576,8Q6W9,4486751
+B2614:1:18,Geocoris,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Geocoris,,Lygaeidae,Geocoris,,8NNWP,2008351,8NNWP,2008351
+B2614:1:19,Geocoris dispar Waga,Waga,Geocoris,,dispar,,species,,B2614:1,accepted,,,B2614:1:18,Geocoris,,,,,Lygaeidae,,Geocoris,,Lygaeidae | Geocoris,dispar Waga,,8Q6VY,4486755,8Q6VY,4486755
+B2614:1:20,Geocoris grylloides L.,L.,Geocoris,,grylloides,,species,,B2614:1,accepted,,,B2614:1:18,Geocoris,,,,,Lygaeidae,,Geocoris,,Lygaeidae | Geocoris,grylloides L.,,8Q6VZ,2008354,8Q6VZ,2008354
+B2614:1:21,Geocoris ater F.,F.,Geocoris,,ater,,species,,B2614:1,accepted,,,B2614:1:18,Geocoris,,,,,Lygaeidae,,Geocoris,,Lygaeidae | Geocoris,ater F.,,8Q6VV,4486753,8Q6VV,4486753
+B2614:1:22,Geocoris arenarius Jak.,Jak.,Geocoris,,arenarius,,species,,B2614:1,accepted,,,B2614:1:18,Geocoris,,,,,Lygaeidae,,Geocoris,,Lygaeidae | Geocoris,arenarius Jak.,,8Q6VT,4486771,8Q6VT,4486771
+B2614:1:23,Gastrodes,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Gastrodes,,Lygaeidae,Gastrodes,,8NPTB,2008186,8NPTB,2008186
+B2614:1:24,Gastrodes grossipes Deg.,Deg.,Gastrodes,,grossipes,,species,,B2614:1,accepted,,,B2614:1:23,Gastrodes,,,,,Lygaeidae,,Gastrodes,,Lygaeidae | Gastrodes,grossipes Deg.,,3FDG6,11048070,3FDFT,11048070
+B2614:1:25,Kleidocerys,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Kleidocerys,,Lygaeidae,Kleidocerys,,8NQK7,2007669,8NQK7,2007669
+B2614:1:26,Kleidocerys resedae Panz.,Panz.,Kleidocerys,,resedae,,species,,B2614:1,accepted,,,B2614:1:25,Kleidocerys,,,,,Lygaeidae,,Kleidocerys,,Lygaeidae | Kleidocerys,resedae Panz.,,6NKD5,2007673,6NKD5,2007673
+B2614:1:27,Dimorphopterus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Dimorphopterus,,Lygaeidae,Dimorphopterus,,8NQX5,4407626,8NQX5,4407626
+B2614:1:28,Dimorphopterus blissoides Baer.,Baer.,Dimorphopterus,,blissoides,,species,,B2614:1,accepted,,,B2614:1:27,Dimorphopterus,,,,,Lygaeidae,,Dimorphopterus,,Lygaeidae | Dimorphopterus,blissoides Baer.,,367PZ,4486274,367PZ,4486274
+B2614:1:29,Ischnodemus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Ischnodemus,,Lygaeidae,Ischnodemus,,8NQG7,2008414,8NQG7,2008414
+B2614:1:30,Ischnodemus sabuleti Fall.,Fall.,Ischnodemus,,sabuleti,,species,,B2614:1,accepted,,,B2614:1:29,Ischnodemus,,,,,Lygaeidae,,Ischnodemus,,Lygaeidae | Ischnodemus,sabuleti Fall.,,VG236,4486283,VG236,4486283
+B2614:1:31,Heterogaster,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Heterogaster,,Lygaeidae,Heterogaster,,8NQ82,2008336,8NQ82,2008336
+B2614:1:32,Heterogaster cathariae Geoffr.,Geoffr.,Heterogaster,,cathariae,,species,,B2614:1,accepted,,,B2614:1:31,Heterogaster,,,,,Lygaeidae,,Heterogaster,,Lygaeidae | Heterogaster,cathariae Geoffr.,,3L9GW,6096833,3L9GW,6096833
+B2614:1:33,Platyplax,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Platyplax,,Lygaeidae,Platyplax,,8NXP9,3266404,8NXP9,3266404
+B2614:1:34,Platyplax salviae,,Platyplax,,salviae,,species,,B2614:1,accepted,,,B2614:1:33,Platyplax,,,,,Lygaeidae,,Platyplax,,Lygaeidae | Platyplax,salviae,,4JVND,5758945,4JVND,5758945
+B2614:1:35,Camptotelus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Camptotelus,,Lygaeidae,Camptotelus,,8NNVW,4406044,8NNVW,4406044
+B2614:1:36,Camptotelus lineolatus Schill.,Schill.,Camptotelus,,lineolatus,,species,,B2614:1,accepted,,,B2614:1:35,Camptotelus,,,,,Lygaeidae,,Camptotelus,,Lygaeidae | Camptotelus,lineolatus Schill.,,QG4X,4486204,QG4X,4486204
+B2614:1:37,Oxycarenus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Oxycarenus,,Lygaeidae,Oxycarenus,,8NWHF,4407280,8NWHF,4407280
+B2614:1:38,Oxycarenus collaris Mls. R.,Mls. R.,Oxycarenus,,collaris,,species,,B2614:1,accepted,,,B2614:1:37,Oxycarenus,,,,,Lygaeidae,,Oxycarenus,,Lygaeidae | Oxycarenus,collaris Mls. R.,,R7V75,9495151,VDTK2,4486247
+B2614:1:39,Metopoplax,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Metopoplax,,Lygaeidae,Metapoplax,,8NVB4,4486254,8NVB4,4486254
+B2614:1:40,Metopoplax origani Kol.,Kol.,Metopoplax,,origani,,species,,B2614:1,accepted,,,B2614:1:39,Metopoplax,,,,,Lygaeidae,,Metopoplax,,Lygaeidae | Metopoplax,origani Kol.,,R25DK,4486255,R25DK,4486255
+B2614:1:41,Acompus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Acompus,,Lygaeidae,Acompus,,8NLGG,4405604,8NLGG,4405604
+B2614:1:42,Acompus rufipes Wolff,Wolff,Acompus,,rufipes,,species,,B2614:1,accepted,,,B2614:1:41,Acompus,,,,,Lygaeidae,,Acompus,,Lygaeidae | Acompus,rufipes Wolff,,VFX6P,4486711,VFX6P,4486711
+B2614:1:43,Peritrechus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Peritrechus,,Lygaeidae,Peritrechus,,8NWBM,2007972,8NWBM,2007972
+B2614:1:44,Peritrechus nubilus Fall.,Fall.,Peritrechus,,nubilus,,species,,B2614:1,accepted,,,B2614:1:43,Peritrechus,,,,,Lygaeidae,,Peritrechus,,Lygaeidae | Peritrechus,nubilus Fall.,,VH594,4486445,VH594,4486445
+B2614:1:45,Peritrechus geniculatus Hahn,Hahn,Peritrechus,,geniculatus,,species,,B2614:1,accepted,,,B2614:1:43,Peritrechus,,,,,Lygaeidae,,Peritrechus,,Lygaeidae | Peritrechus,geniculatus Hahn,,4F5J9,4486439,4F5J9,4486439
+B2614:1:46,Ischnocoris,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Ischnocoris,,Lygaeidae,Ischnocoris,,8NSYB,5431381,8NSYB,5431381
+B2614:1:47,Ischnocoris hemipterus Schill.,Schill.,Ischnocoris,,hemipterus,,species,,B2614:1,accepted,,,B2614:1:46,Ischnocoris,,,,,Lygaeidae,,Ischnocoris,,Lygaeidae | Ischnocoris,hemipterus Schill.,,6MY5X,5758901,6MY5X,5758901
+B2614:1:48,Ischnocoris puctulatus Fieb.,Fieb.,Ischnocoris,,puctulatus,,species,,B2614:1,accepted,,,B2614:1:46,Ischnocoris,,,,,Lygaeidae,,Ischnocoris,,Lygaeidae | Ischnocoris,puctulatus Fieb.,,VF7GT,5758905,VF7GT,5758905
+B2614:1:49,Stygnocoris,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Stygnocoris,,Lygaeidae,Stygnocoris,,8NZMC,2008072,8NZMC,2008072
+B2614:1:50,Stygnocoris rusticus Fall.,Fall.,Stygnocoris,,rusticus,,species,,B2614:1,accepted,,,B2614:1:49,Stygnocoris,,,,,Lygaeidae,,Stygnocoris,,Lygaeidae | Stygnocoris,rusticus Fall.,,T93TV,2008074,T93TV,2008074
+B2614:1:51,Aellopus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Aellopus,,Lygaeidae,Aellopus,,8NLKZ,3266248,8NLKZ,3266248
+B2614:1:52,Aellopus atratus Goeze,Goeze,Aellopus,,atratus,,species,,B2614:1,accepted,,,B2614:1:51,Aellopus,,,,,Lygaeidae,,Aellopus,,Lygaeidae | Aellopus,atratus Goeze,,64YGD,5758854,64YGD,5758854
+B2614:1:53,Rhyparochromus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Rhyparochromus,,Lygaeidae,Rhyparochromus,,8NYP9,5152522,8NYP9,5152522
+B2614:1:54,Rhyparochromus pini L.,L.,Rhyparochromus,,pini,,species,,B2614:1,accepted,,,B2614:1:53,Rhyparochromus,,,,,Lygaeidae,,Rhyparochromus,,Lygaeidae | Rhyparochromus,pini L.,,8PMPY,5758859,8PMPY,5758859
+B2614:1:55,Rhyparochromus alboacuminatus Goeze,Goeze,Rhyparochromus,,alboacuminatus,,species,,B2614:1,accepted,,,B2614:1:53,Rhyparochromus,,,,,Lygaeidae,,Rhyparochromus,,Lygaeidae | Rhyparochromus,alboacuminatus Goeze,,8QP99,6096836,793GY,5152543
+B2614:1:56,Rhyparochromus quadratus F.,F.,Rhyparochromus,,quadratus,,species,,B2614:1,accepted,,,B2614:1:53,Rhyparochromus,,,,,Lygaeidae,,Rhyparochromus,,Lygaeidae | Rhyparochromus,quadratus F.,,8PJLB,7625769,8PLBV,5758866
+B2614:1:57,Rhyparochromus vulgaris Schill.,Schill.,Rhyparochromus,,vulgaris,,species,,B2614:1,accepted,,,B2614:1:53,Rhyparochromus,,,,,Lygaeidae,,Rhyparochromus,,Lygaeidae | Rhyparochromus,vulgaris Schill.,,8PCFS,5152523,8PCFS,5152523
+B2614:1:58,Sphragisticus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Sphragisticus,,Lygaeidae,Sphragisticus,,8NZDD,2008247,8NZDD,2008247
+B2614:1:59,Sphragisticus nebulosus Fall.,Fall.,Sphragisticus,,nebulosus,,species,,B2614:1,accepted,,,B2614:1:58,Sphragisticus,,,,,Lygaeidae,,Sphragisticus,,Lygaeidae | Sphragisticus,nebulosus Fall.,,T2Y2S,2008248,T2Y2S,2008248
+B2614:1:60,Diomphalus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Diomphalus,,Lygaeidae,Diomphalus,,8NQXZ,4407510,8NQXZ,4407510
+B2614:1:61,Diomphalus hispidula Fieb.,Fieb.,Diomphalus,,hispidula,,species,,B2614:1,accepted,,,B2614:1:60,Diomphalus,,,,,Lygaeidae,,Diomphalus,,Lygaeidae | Diomphalus,hispidula Fieb.,,NGKTW,4486628,NGKTW,4486628
+B2614:1:62,Megalonotus Fieb.,Fieb.,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Megalonotus,,Lygaeidae,Megalonotus Fieb.,,8NRS7,2008202,8NRS7,2008202
+B2614:1:63,Megalonotus hirsutus Fieb.,Fieb.,Megalonotus,,hirsutus,,species,,B2614:1,accepted,,,B2614:1:62,Megalonotus Fieb.,,,,,Lygaeidae,,Megalonotus,,Lygaeidae | Megalonotus,hirsutus Fieb.,,8PDTK,4486520,8PDTK,4486520
+B2614:1:64,Megalonotus dilatatus H.-S.,H.-S.,Megalonotus,,dilatatus,,species,,B2614:1,accepted,,,B2614:1:62,Megalonotus Fieb.,,,,,Lygaeidae,,Megalonotus,,Lygaeidae | Megalonotus,dilatatus H.-S.,,6R7TX,4486501,6R7TX,4486501
+B2614:1:65,Megalonotus chiragra F.,F.,Megalonotus,,chiragra,,species,,B2614:1,accepted,,,B2614:1:62,Megalonotus Fieb.,,,,,Lygaeidae,,Megalonotus,,Lygaeidae | Megalonotus,chiragra F.,,8P987,2008205,8P987,2008205
+B2614:1:66,Aphanus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Aphanus,,Lygaeidae,Aphanus,,8NMCJ,3265567,8NMCJ,3265567
+B2614:1:67,Aphanus rolandri L.,L.,Aphanus,,rolandri,,species,,B2614:1,accepted,,,B2614:1:66,Aphanus,,,,,Lygaeidae,,Aphanus,,Lygaeidae | Aphanus,rolandri L.,,LCKP2,8152705,LCKP2,8152705
+B2614:1:68,Pterotmetus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Pterotmetus,,Lygaeidae,Pterotmetus,,8NYDS,4408040,8NYDS,4408040
+B2614:1:69,Pterotmetus staphyliniformis Schill.,Schill.,Pterotmetus,,staphyliniformis,,species,,B2614:1,accepted,,,B2614:1:68,Pterotmetus,,,,,Lygaeidae,,Pterotmetus,,Lygaeidae | Pterotmetus,staphyliniformis Schill.,,4Q6RG,4486660,4Q6RG,4486660
+B2614:1:70,Trapezonotus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Trapezonotus,,Lygaeidae,Trapezonotus,,8P2BB,2008018,8P2BB,2008018
+B2614:1:71,Trapezonotus arenarius L.,L.,Trapezonotus,,arenarius,,species,,B2614:1,accepted,,,B2614:1:70,Trapezonotus,,,,,Lygaeidae,,Trapezonotus,,Lygaeidae | Trapezonotus,arenarius L.,,TJJ3W,10950708,TJJ3W,10950708
+B2614:1:72,Gonianotus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Gonianotus,,Lygaeidae,Gonianotus,,8NS4M,4405578,8NS4M,4405578
+B2614:1:73,Gonianotus marginepunctatus Wolff,Wolff,Gonianotus,,marginepunctatus,,species,,B2614:1,accepted,,,B2614:1:72,Gonianotus,,,,,Lygaeidae,,Gonianotus,,Lygaeidae | Gonianotus,marginepunctatus Wolff,,VH482,4486663,VH482,4486663
+B2614:1:74,Emblethis,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Emblethis,,Lygaeidae,Emblethis,,8NPG2,2008085,8NPG2,2008085
+B2614:1:75,Emblethis denticollis Horv.,Horv.,Emblethis,,denticollis,,species,,B2614:1,accepted,,,B2614:1:74,Emblethis,,,,,Lygaeidae,,Emblethis,,Lygaeidae | Emblethis,denticollis Horv.,,NSCY2,4486632,NSCY2,4486632
+B2614:1:76,Emblethis verbasci F.,F.,Emblethis,,verbasci,,species,,B2614:1,accepted,,,B2614:1:74,Emblethis,,,,,Lygaeidae,,Emblethis,,Lygaeidae | Emblethis,verbasci F.,,NSD9R,2008087,NSD9R,2008087
+B2614:1:77,Eremocoris,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Eremocoris,,Lygaeidae,Eremocoris,,8NNWL,2008140,8NNWL,2008140
+B2614:1:78,Eremocoris podagricus F.,F.,Eremocoris,,podagricus,,species,,B2614:1,accepted,,,B2614:1:77,Eremocoris,,,,,Lygaeidae,,Eremocoris,,Lygaeidae | Eremocoris,podagricus F.,,VGKYM,4486542,VGKYM,4486542
+B2614:1:79,Drymus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Drymus,,Lygaeidae,Drymus,,8NPC4,2008136,8NPC4,2008136
+B2614:1:80,Drymus brunneus F. Sahlb.,F. Sahlb.,Drymus,,brunneus,,species,,B2614:1,accepted,,,B2614:1:79,Drymus,,,,,Lygaeidae,,Drymus,,Lygaeidae | Drymus,brunneus F. Sahlb.,,VFS9C,4486546,VFS9C,4486546
+B2614:1:81,Scolopostethus,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Scolopostethus,,Lygaeidae,Scolopostethus,,8NZ27,2008129,8NZ27,2008129
+B2614:1:82,Scolopostethus affinis Schill.,Schill.,Scolopostethus,,affinis,,species,,B2614:1,accepted,,,B2614:1:81,Scolopostethus,,,,,Lygaeidae,,Scolopostethus,,Lygaeidae | Scolopostethus,affinis Schill.,,4VSP7,4486578,4VSP7,4486578
+B2614:1:83,Scolopostethus pilosus Reut.,Reut.,Scolopostethus,,pilosus,,species,,B2614:1,accepted,,,B2614:1:81,Scolopostethus,,,,,Lygaeidae,,Scolopostethus,,Lygaeidae | Scolopostethus,pilosus Reut.,,VF43T,4486572,VF43T,4486572
+B2614:1:84,Scolopostethus lethierryi Jak.,Jak.,Scolopostethus,,lethierryi,,species,,B2614:1,accepted,,,B2614:1:81,Scolopostethus,,,,,Lygaeidae,,Scolopostethus,,Lygaeidae | Scolopostethus,lethierryi Jak.,,STRZK,4486571,STRZK,4486571
+B2614:1:85,Pachybrachius,,,,,,genus,,B2614:1,accepted,,,B2614:1:1,Lygaeidae,,,,,Lygaeidae,,Pachybrachius,,Lygaeidae,Pachybrachius,,8NVB7,11234856,8NVB7,11234856
+B2614:1:86,Pachybrachius fracticollis Schill.,Schill.,Pachybrachius,,fracticollis,,species,,B2614:1,accepted,,,B2614:1:85,Pachybrachius,,,,,Lygaeidae,,Pachybrachius,,Lygaeidae | Pachybrachius,fracticollis Schill.,,6TGKJ,2007918,6TGKJ,2007918

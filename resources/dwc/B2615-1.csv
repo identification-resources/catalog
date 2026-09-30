@@ -1,0 +1,58 @@
+scientificNameID,scientificName,scientificNameAuthorship,genericName,infragenericEpithet,specificEpithet,infraspecificEpithet,taxonRank,taxonRemarks,collectionCode,taxonomicStatus,acceptedNameUsageID,acceptedNameUsage,parentNameUsageID,parentNameUsage,kingdom,phylum,class,order,family,subfamily,genus,subgenus,higherClassification,verbatimIdentification,dynamicProperties,colTaxonID,gbifTaxonID,colAcceptedTaxonID,gbifAcceptedTaxonID
+B2615:1:1,Coreidae,,,,,,family,,B2615:1,accepted,,,,,,,,,Coreidae,,,,,Coreidae,,8NKJF,9649,8NKJF,9649
+B2615:1:2,Gonocerus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Gonocerus,,Coreidae,Gonocerus,,8NPX8,2050051,8NPX8,2050051
+B2615:1:3,Gonocerus juniperi H.-S.,H.-S.,Gonocerus,,juniperi,,species,,B2615:1,accepted,,,B2615:1:2,Gonocerus,,,,,Coreidae,,Gonocerus,,Coreidae | Gonocerus,juniperi H.-S.,,3GY9H,4390078,3GY9H,4390078
+B2615:1:4,Gonocerus acuteangulatus Goeze,Goeze,Gonocerus,,acuteangulatus,,species,,B2615:1,accepted,,,B2615:1:2,Gonocerus,,,,,Coreidae,,Gonocerus,,Coreidae | Gonocerus,acuteangulatus Goeze,,3GY8F,4390084,3GY8F,4390084
+B2615:1:5,Phyllomorpha,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Phyllomorpha,,Coreidae,Phyllomorpha,,8NWRW,3265309,8NWRW,3265309
+B2615:1:6,Phyllomorpha laciniata Vill.,Vill.,Phyllomorpha,,laciniata,,species,,B2615:1,accepted,,,B2615:1:5,Phyllomorpha,,,,,Coreidae,,Phyllomorpha,,Coreidae | Phyllomorpha,laciniata Vill.,,6VFTP,5732924,6VFTP,5732924
+B2615:1:7,Centrocoris,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Centrocoris,,Coreidae,Centrocoris,,8NMY6,4388674,8NMY6,4388674
+B2615:1:8,Centrocoris spiniger F.,F.,Centrocoris,,spiniger,,species,,B2615:1,accepted,,,B2615:1:7,Centrocoris,,,,,Coreidae,,Centrocoris,,Coreidae | Centrocoris,spiniger F.,,S9PB,4388686,S9PB,4388686
+B2615:1:9,Enoplops,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Enoplops,,Coreidae,Enoplops,,8NPGG,4388488,8NPGG,4388488
+B2615:1:10,Enoplops scapha F.,F.,Enoplops,,scapha,,species,,B2615:1,accepted,,,B2615:1:9,Enoplops,,,,,Coreidae,,Enoplops,,Coreidae | Enoplops,scapha F.,,39WS5,4388497,39WS5,4388497
+B2615:1:11,Coreus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Coreus,,Coreidae,Coreus,,8NNFP,2049958,8NNFP,2049958
+B2615:1:12,Coreus marginatus L.,L.,Coreus,,marginatus,,species,,B2615:1,accepted,,,B2615:1:11,Coreus,,,,,Coreidae,,Coreus,,Coreidae | Coreus,marginatus L.,,6B3KM,4388646,6B3KM,4388646
+B2615:1:13,Syromastus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Syromastus,,Coreidae,Syromastus,,8NZQR,4388657,8NZQR,4388657
+B2615:1:14,Syromastus rhombeus L.,L.,Syromastus,,rhombeus,,species,,B2615:1,accepted,,,B2615:1:13,Syromastus,,,,,Coreidae,,Syromastus,,Coreidae | Syromastus,rhombeus L.,,5433H,4388663,5433H,4388663
+B2615:1:15,Syromastus rhombeus var. quadratus F.,F.,Syromastus,,rhombeus,quadratus,variety,,B2615:1,accepted,,,B2615:1:14,Syromastus rhombeus L.,,,,,Coreidae,,Syromastus,,Coreidae | Syromastus | Syromastus rhombeus,var. quadratus F.,,TLQC6,,5433H,
+B2615:1:16,Spathocera,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Spathocera,,Coreidae,Spathocera,,8NZ9X,4388614,8NZ9X,4388614
+B2615:1:17,Spathocera obscura Germ.,Germ.,Spathocera,,obscura,,species,,B2615:1,accepted,,,B2615:1:16,Spathocera,,,,,Coreidae,,Spathocera,,Coreidae | Spathocera,obscura Germ.,,6Z6ZS,4388620,6Z6ZS,4388620
+B2615:1:18,Ceraleptus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Ceraleptus,,Coreidae,Ceraleptus,,8NMYV,2050009,8NMYV,2050009
+B2615:1:19,Ceraleptus graciliconis H.-S.,H.-S.,Ceraleptus,,graciliconis,,species,,B2615:1,accepted,,,B2615:1:18,Ceraleptus,,,,,Coreidae,,Ceraleptus,,Coreidae | Ceraleptus,graciliconis H.-S.,,SGGN,2050012,SGGN,2050012
+B2615:1:20,Ceraleptus lividus Stein.,Stein.,Ceraleptus,,lividus,,species,,B2615:1,accepted,,,B2615:1:18,Ceraleptus,,,,,Coreidae,,Ceraleptus,,Coreidae | Ceraleptus,lividus Stein.,,SGGQ,4391506,SGGQ,4391506
+B2615:1:21,Bothrostethus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Bothrostethus,,Coreidae,Botrostethus,,8NML3,4391582,8NML3,4391582
+B2615:1:22,Bothrostethus annulipes Costa,Costa,Bothrostethus,,annulipes,,species,,B2615:1,accepted,,,B2615:1:21,Bothrostethus,,,,,Coreidae,,Bothrostethus,,Coreidae | Bothrostethus,annulipes Costa,,MP42,9781157,MP42,9781157
+B2615:1:23,Anoplocerus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Anoplocerus,,Coreidae,Anoplocerus,,8NLW7,4391652,8NLW7,4391652
+B2615:1:24,Anoplocerus elevatus Fieb.,Fieb.,Anoplocerus,,elevatus,,species,,B2615:1,accepted,,,B2615:1:23,Anoplocerus,,,,,Coreidae,,Anoplocerus,,Coreidae | Anoplocerus,elevatus Fieb.,,679CF,4391653,679CF,4391653
+B2615:1:25,Bathysolen,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Bathysolen,,Coreidae,Bathysolen,,8NMDQ,4391661,8NMDQ,4391661
+B2615:1:26,Bathysolen nubilis Fall.,Fall.,Bathysolen,,nubilis,,species,,B2615:1,accepted,,,B2615:1:25,Bathysolen,,,,,Coreidae,,Bathysolen,,Coreidae | Bathysolen,nubilis Fall.,,KYCN,4391663,KYCN,4391663
+B2615:1:27,Coriomeris,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Coriomeris,,Coreidae,Coriomeris,,8NNFS,2050064,8NNFS,2050064
+B2615:1:28,Coriomeris denticulatus Scop.,Scop.,Coriomeris,,denticulatus,,species,,B2615:1,accepted,,,B2615:1:27,Coriomeris,,,,,Coreidae,,Coriomeris,,Coreidae | Coriomeris,denticulatus Scop.,,6B57L,2050067,6B57L,2050067
+B2615:1:29,Coriomeris scabricornis Panz.,Panz.,Coriomeris,,scabricornis,,species,,B2615:1,accepted,,,B2615:1:27,Coriomeris,,,,,Coreidae,,Coriomeris,,Coreidae | Coriomeris,scabricornis Panz.,,YF8Q,4391547,YF8Q,4391547
+B2615:1:30,Ulmicola,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Ulmicola,,Coreidae,Ulmicola,,8P2KV,4391607,8P2KV,4391607
+B2615:1:31,Ulmicola spinipes Fall.,Fall.,Ulmicola,,spinipes,,species,,B2615:1,accepted,,,B2615:1:30,Ulmicola,,,,,Coreidae,,Ulmicola,,Coreidae | Ulmicola,spinipes Fall.,,7DFYC,4391608,7DFYC,4391608
+B2615:1:32,Dicranomerus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Dicranomerus,,Coreidae,Dicranomerus,,8PP84,4391702,8NNVX,2050149
+B2615:1:33,Dicranomerus albipes F.,F.,Dicranomerus,,albipes,,species,,B2615:1,accepted,,,B2615:1:32,Dicranomerus,,,,,Coreidae,,Dicranomerus,,Coreidae | Dicranomerus,albipes F.,,N5MHH,,35R7X,
+B2615:1:34,Megalotomus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Megalotomus,,Coreidae,Megalotomus,,8NRSK,2050199,8NRSK,2050199
+B2615:1:35,Megalotomus junceus Scop.,Scop.,Megalotomus,,junceus,,species,,B2615:1,accepted,,,B2615:1:34,Megalotomus,,,,,Coreidae,,Megalotomus,,Coreidae | Megalotomus,junceus Scop.,,3YW2T,2050200,3YW2T,2050200
+B2615:1:36,Camptopus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Camptopus,,Coreidae,Camptopus,,8NMV5,3265607,8NMV5,3265607
+B2615:1:37,Camptopus lateralis Germ.,Germ.,Camptopus,,lateralis,,species,,B2615:1,accepted,,,B2615:1:36,Camptopus,,,,,Coreidae,,Camptopus,,Coreidae | Camptopus,lateralis Germ.,,QFXD,5733449,QFXD,5733449
+B2615:1:38,Alydus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Alydus,,Coreidae,Alydus,,8NLS6,2050167,8NLS6,2050167
+B2615:1:39,Alydus calcaratus L.,L.,Alydus,,calcaratus,,species,,B2615:1,accepted,,,B2615:1:38,Alydus,,,,,Coreidae,,Alydus,,Coreidae | Alydus,calcaratus L.,,CC3X,2050173,CC3X,2050173
+B2615:1:40,Corizus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Corizus,,Coreidae,Corizus,,8NQ2K,2050276,8NQ2K,2050276
+B2615:1:41,Corizus hyosciami L.,L.,Corizus,,hyosciami,,species,,B2615:1,accepted,,,B2615:1:40,Corizus,,,,,Coreidae,,Corizus,,Coreidae | Corizus,hyosciami L.,,YFMV,4391874,YFMV,4391874
+B2615:1:42,Rhopalus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Rhopalus,,Coreidae,Rhopalus,,8NYP2,2050237,8NYP2,2050237
+B2615:1:43,Rhopalus parumpuctatus Schill.,Schill.,Rhopalus,,parumpuctatus,,species,,B2615:1,accepted,,,B2615:1:42,Rhopalus,,,,,Coreidae,,Rhopalus,,Coreidae | Rhopalus,parumpuctatus Schill.,,4SMDN,4391858,4SMDN,4391858
+B2615:1:44,Rhopalus distinctus Sign.,Sign.,Rhopalus,,distinctus,,species,,B2615:1,accepted,,,B2615:1:42,Rhopalus,,,,,Coreidae,,Rhopalus,,Coreidae | Rhopalus,distinctus Sign.,,4SMDL,4391857,4SMDL,4391857
+B2615:1:45,Liorhyssus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Liorhyssus,,Coreidae,Liorhyssus,,8NQYN,2050223,8NQYN,2050223
+B2615:1:46,Liorhyssus hyalinus F.,F.,Liorhyssus,,hyalinus,,species,,B2615:1,accepted,,,B2615:1:45,Liorhyssus,,,,,Coreidae,,Liorhyssus,,Coreidae | Liorhyssus,hyalinus F.,,3V7WP,2050224,3V7WP,2050224
+B2615:1:47,Brachycarenus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Brachycarenus,,Coreidae,Brachycarenus,,8NNGS,4391871,8NNGS,4391871
+B2615:1:48,Brachycarenus tigrinus Schill.,Schill.,Brachycarenus,,tigrinus,,species,,B2615:1,accepted,,,B2615:1:47,Brachycarenus,,,,,Coreidae,,Brachycarenus,,Coreidae | Brachycarenus,tigrinus Schill.,,5X287,4391872,5X287,4391872
+B2615:1:49,Stictopleurus Stål,Stål,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Stictopleurus,,Coreidae,Stictopleurus Stål,,8NZKV,2050268,8NZKV,2050268
+B2615:1:50,Maccevethus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Maccevethus,,Coreidae,Maccevethus,,8NTSN,5431407,8NTSN,5431407
+B2615:1:51,Maccevethus lineola F.,F.,Maccevethus,,lineola,,species,,B2615:1,accepted,,,B2615:1:50,Maccevethus,,,,,Coreidae,,Maccevethus,,Coreidae | Maccevethus,lineola F.,,Q4T9N,12332806,L29CJ,5733457
+B2615:1:52,Leptoceraea,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Leptoceraea,,Coreidae,Leptoceraea,,8NTG8,4391939,8NTG8,4391939
+B2615:1:53,Leptoceraea viridis Jak.,Jak.,Leptoceraea,,viridis,,species,,B2615:1,accepted,,,B2615:1:52,Leptoceraea,,,,,Coreidae,,Leptoceraea,,Coreidae | Leptoceraea,viridis Jak.,,3TKXP,4391942,3TKXP,4391942
+B2615:1:54,Myrmus,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Myrmus,,Coreidae,Myrmus,,8NVNM,3265873,8NVNM,3265873
+B2615:1:55,Myrmus miriformis Fall.,Fall.,Myrmus,,miriformis,,species,,B2615:1,accepted,,,B2615:1:54,Myrmus,,,,,Coreidae,,Myrmus,,Coreidae | Myrmus,miriformis Fall.,,45D29,5733462,45D29,5733462
+B2615:1:56,Chorosoma,,,,,,genus,,B2615:1,accepted,,,B2615:1:1,Coreidae,,,,,Coreidae,,Chorosoma,,Coreidae,Chorosoma,,8NPLM,4391943,8NPLM,4391943
+B2615:1:57,Chorosoma schillingi Schill.,Schill.,Chorosoma,,schillingi,,species,,B2615:1,accepted,,,B2615:1:56,Chorosoma,,,,,Coreidae,,Chorosoma,,Coreidae | Chorosoma,schillingi Schill.,,KZ5RP,11367566,KZ5RP,4391944
