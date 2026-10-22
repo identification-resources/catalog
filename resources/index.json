@@ -10856,6 +10856,42 @@
     "id": "B1898:1",
     "taxonCount": 26
   },
+  "B1925:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "subgenus",
+      "group",
+      "species",
+      "subspecies",
+      "form"
+    ],
+    "catalog": {
+      "scope": [
+        "adults"
+      ]
+    },
+    "id": "B1925:1",
+    "taxonCount": 948
+  },
+  "B1925:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "nymphs"
+      ]
+    },
+    "id": "B1925:2",
+    "taxonCount": 75
+  },
   "B2018:1": {
     "levels": [
       "order",
