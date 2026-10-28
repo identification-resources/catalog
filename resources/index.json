@@ -8544,6 +8544,62 @@
     "id": "B1376:2",
     "taxonCount": 716
   },
+  "B1377:1": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species",
+      "subspecies",
+      "variety",
+      "form"
+    ],
+    "catalog": {
+      "scope": [
+        "adults"
+      ]
+    },
+    "id": "B1377:1",
+    "taxonCount": 407
+  },
+  "B1377:2": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "scope": [
+        "nymphs"
+      ]
+    },
+    "id": "B1377:2",
+    "taxonCount": 340
+  },
+  "B1377:3": {
+    "levels": [
+      "superfamily",
+      "family",
+      "subfamily",
+      "tribe",
+      "genus",
+      "species",
+      "subspecies"
+    ],
+    "catalog": {
+      "scope": [
+        "eggs"
+      ]
+    },
+    "id": "B1377:3",
+    "taxonCount": 279
+  },
   "B1378:1": {
     "levels": [
       "superfamily",
@@ -8622,6 +8678,56 @@
     },
     "id": "B1378:4",
     "taxonCount": 686
+  },
+  "B1379:1": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species",
+      "subspecies",
+      "variety"
+    ],
+    "catalog": {
+      "scope": [
+        "adults"
+      ]
+    },
+    "id": "B1379:1",
+    "taxonCount": 811
+  },
+  "B1379:2": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "nymphs"
+      ]
+    },
+    "id": "B1379:2",
+    "taxonCount": 508
+  },
+  "B1379:3": {
+    "levels": [
+      "family",
+      "subfamily",
+      "genus",
+      "subgenus",
+      "species"
+    ],
+    "catalog": {
+      "scope": [
+        "eggs"
+      ]
+    },
+    "id": "B1379:3",
+    "taxonCount": 349
   },
   "B1437:1": {
     "levels": [
